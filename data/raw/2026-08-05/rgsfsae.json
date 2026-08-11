@@ -1,0 +1,1564 @@
+{
+  "scheme_id": "648b4b3f481f59106a6991c5",
+  "slug": "rgsfsae",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-10-05",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000040,
+        "label": "Technical Education Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Higher Education",
+        "Student Finance"
+      ],
+      "schemeName": "Rajiv Gandhi Scholarship For Academic Excellence",
+      "schemeShortTitle": "RGSFSAE",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/981"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "Manual",
+          "url": "https://hte.rajasthan.gov.in/files/uploads/RGSAE-APPLICATION-SUBMISSION.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Hon’ble Chief Minister of Rajasthan Sh. Ashok Gehlot announced this scheme on 20th August 2021 in commemoration of late Shri Rajiv Gandhi, former Prime Minister of India. In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world. \n**Objective**:\n\n1. To assist students of Rajasthan financially to pursue higher studies in the top 150 QS World Universities\n1. International exposure to students for their career development. \n1. To give priority to students having gross family income less than 8 lakh rupees/annum.\n1. To provide better opportunities to female students by earmarking 30 % seats (Income category-wise).\n\n",
+      "benefits_md": "\n1. **E1: Family gross annual income less than 8 Lakh**\n(i). Tuition Fees and Bench fee: Max 50 lakh\n(ii). Living Expenses: 12 Lakh Rupees.\n(iii). One-time advance of Rs 3 Lakh to candidates who will start their course after application on the portal (adjusted against living expenses).\n1. **E2: Family gross annual income 8 – 25 Lakh**\n(i). Tuition Fees and Bench fee: Max 50 lakh\n(ii). Living Expenses: 6 Lakh Rupees\n1. **E3: Family gross annual income above 25 Lakh**\n(i). Tuition Fees and Bench fee: Max 50 lakh\n(ii). No Living Expenses\n\n<br>\n\n",
+      "briefDescription": "In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world. The scheme commenced from 5th October 2021. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hon’ble Chief Minister of Rajasthan Sh. Ashok Gehlot announced this scheme on 20th August 2021 in commemoration of late Shri Rajiv Gandhi, former Prime Minister of India. In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Objective"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To assist students of Rajasthan financially to pursue higher studies in the top 150 QS World Universities"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "International exposure to students for their career development. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To give priority to students having gross family income less than 8 lakh rupees/annum."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To provide better opportunities to female students by earmarking 30 % seats (Income category-wise)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "E1: Family gross annual income less than 8 Lakh",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(i). Tuition Fees and Bench fee: Max 50 lakh"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(ii). Living Expenses: 12 Lakh Rupees."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(iii). One-time advance of Rs 3 Lakh to candidates who will start their course after application on the portal (adjusted against living expenses)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "E2: Family gross annual income 8 – 25 Lakh",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(i). Tuition Fees and Bench fee: Max 50 lakh"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(ii). Living Expenses: 6 Lakh Rupees"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "E3: Family gross annual income above 25 Lakh",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(i). Tuition Fees and Bench fee: Max 50 lakh"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(ii). No Living Expenses"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://hte.rajasthan.gov.in/online-scholarship",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant to log in to "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in",
+                    "children": [
+                      {
+                        "text": "RajSSO"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " Portal using his/her SSOID."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If SSOID is not available then the applicant to first register on RajSSO Portal to create SSOID and update SSO Profile at first login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After successful authentication/login and updation of the SSOID Profile and select the scheme name. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select his/her name, the bank account and fill in personal details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upload required document"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "(i). Domicile Certificate"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "(ii). Admission Letter/Offer Letter"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "(iii). Fee Details letters/Documents issued by Foreign University "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Clicking the “SUBMIT” button. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "System will submit the application and a unique APPLICATION-ID will be presented to applicant."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicant to log in to [RajSSO](https://sso.rajasthan.gov.in) Portal using his/her SSOID.1. If SSOID is not available then the applicant to first register on RajSSO Portal to create SSOID and update SSO Profile at first login.\n1. After successful authentication/login and updation of the SSOID Profile and select the scheme name. \n1. Select his/her name, the bank account and fill in personal details.\n1. Upload required document\n(i). Domicile Certificate\n(ii). Admission Letter/Offer Letter\n(iii). Fee Details letters/Documents issued by Foreign University \n1. Clicking the “SUBMIT” button. \n1. System will submit the application and a unique APPLICATION-ID will be presented to applicant.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Bonafide Resident of Rajasthan. \n1. Less than 35 years of age on 1st July 2023\n1. Admitted / Obtained offer letter in top 150 World QS ranked Universities as of 1st April, 2023\n1. All disciplines for UG, PG, PhD and Post Doc courses.\n1. Maximum 7.5 % seats ( 37 ) for Engineering, Architecture, Medical, Dentistry courses at UG level\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bonafide Resident of Rajasthan. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Less than 35 years of age on 1st July 2023"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Admitted / Obtained offer letter in top 150 World QS ranked Universities as of 1st April, 2023"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All disciplines for UG, PG, PhD and Post Doc courses."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum 7.5 % seats ( 37 ) for Engineering, Architecture, Medical, Dentistry courses at UG level"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-10-05",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000040,
+        "label": "तकनीकी शिक्षा विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "उच्च शिक्षा",
+        "छात्र वित्त"
+      ],
+      "schemeName": "अकादमिक उत्कृष्टता के लिए राजीव गांधी छात्रवृत्ति",
+      "schemeShortTitle": "RGSFSAE",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/981"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "मैनुअल",
+          "url": "https://hte.rajasthan.gov.in/files/uploads/RGSAE-APPLICATION-SUBMISSION.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान के माननीय मुख्यमंत्री श्री. अशोक गहलौत ने 20 अगस्त 2021 को भारत के पूर्व प्रधानमंत्री स्वर्गीय श्री राजीव गांधी के स्मरण में इस योजना की घोषणा की थी। राजस्थान के मेधावी छात्रों को दुनिया के शीर्ष विदेशी विश्वविद्यालयों में अध्ययन करने के लिए वित्तीय सहायता प्रदान करने के लिए। * * उद्देश्य * *: 1. राजस्थान के छात्रों को शीर्ष 150 क्यू. एस. विश्व विश्वविद्यालयों में उच्च शिक्षा प्राप्त करने के लिए आर्थिक रूप से सहायता करना 1. छात्रों को उनके कैरियर के विकास के लिए अंतर्राष्ट्रीय अनुभव प्रदान करना। 1. 8 लाख रुपये/वर्ष से कम सकल पारिवारिक आय वाले छात्रों को प्राथमिकता देना। 1. 30 प्रतिशत सीटें (आय श्रेणी-वार) निर्धारित करके महिला छात्रों को बेहतर अवसर प्रदान करना।",
+      "benefits_md": "1. ई1: परिवार की सकल वार्षिक आय 8 लाख से कम है। शिक्षण शुल्क और बेंच शुल्कः अधिकतम 50 लाख। रहने का खर्चः 12 लाख रुपये। (ग)। पोर्टल पर आवेदन के बाद अपना पाठ्यक्रम शुरू करने वाले उम्मीदवारों को 3 लाख रुपये की एकमुश्त अग्रिम राशि (जीवन यापन के खर्च के साथ समायोजित)। 1. ई2: परिवार की सकल वार्षिक आय 8-25 लाख * * (i)। शिक्षण शुल्क और बेंच शुल्कः अधिकतम 50 लाख। रहने का खर्चः 6 लाख रुपये 1। ई3: परिवार की सकल वार्षिक आय 25 लाख से अधिक। शिक्षण शुल्क और बेंच शुल्कः अधिकतम 50 लाख। कोई रहने का खर्च नहीं",
+      "briefDescription": "राजस्थान के मेधावी छात्रों को दुनिया के शीर्ष विदेशी विश्वविद्यालयों में अध्ययन करने के लिए वित्तीय सहायता प्रदान करने के लिए। यह योजना 5 अक्टूबर 2021 से शुरू हुई थी।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान के माननीय मुख्यमंत्री श्री. अशोक गहलौत ने 20 अगस्त 2021 को भारत के पूर्व प्रधानमंत्री स्वर्गीय श्री राजीव गांधी के स्मरण में इस योजना की घोषणा की थी। राजस्थान के मेधावी छात्रों को दुनिया के शीर्ष विदेशी विश्वविद्यालयों में अध्ययन करने के लिए वित्तीय सहायता प्रदान करने के लिए।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "उद्देश्य"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान के छात्रों को शीर्ष 150 क्यू. एस. विश्व विश्वविद्यालयों में उच्च शिक्षा प्राप्त करने के लिए वित्तीय सहायता प्रदान करना"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रों को उनके कैरियर के विकास के लिए अंतर्राष्ट्रीय प्रदर्शन।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "8 लाख रुपये/वर्ष से कम सकल पारिवारिक आय वाले छात्रों को प्राथमिकता देना।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "30 प्रतिशत सीटें (आय श्रेणी-वार) निर्धारित करके महिला छात्रों को बेहतर अवसर प्रदान करना।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ई1: परिवार की सकल वार्षिक आय 8 लाख से कम",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(आई)। शिक्षण शुल्क और बेंच शुल्कः अधिकतम 50 लाख"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(ख)। रहने का खर्चः 12 लाख रुपये।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(ग)। पोर्टल पर आवेदन के बाद अपना पाठ्यक्रम शुरू करने वाले उम्मीदवारों को 3 लाख रुपये की एकमुश्त अग्रिम राशि (जीवन यापन के खर्च के साथ समायोजित)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ई2: परिवार की सकल वार्षिक आय 8-25 लाख",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(आई)। शिक्षण शुल्क और बेंच शुल्कः अधिकतम 50 लाख"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(ख)। रहने का खर्चः 6 लाख रुपये"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ई3: परिवार की सकल वार्षिक आय 25 लाख से अधिक",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(आई)। शिक्षण शुल्क और बेंच शुल्कः अधिकतम 50 लाख"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "(ख)। कोई रहने का खर्च नहीं"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://hte.rajasthan.gov.in/online-scholarship",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लॉग इन करने के लिए आवेदक"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in",
+                    "children": [
+                      {
+                        "text": "राजएसएसओ"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "उसके एस. एस. ओ. आई. डी. का उपयोग करते हुए पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि एस. एस. ओ. आई. डी. उपलब्ध नहीं है तो आवेदक को पहले एस. एस. ओ. आई. डी. बनाने और पहले लॉगिन पर एस. एस. ओ. प्रोफाइल को अद्यतन करने के लिए राज. एस. एस. ओ. पोर्टल पर पंजीकरण करना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एस. एस. ओ. आई. डी. प्रोफाइल के सफल प्रमाणीकरण/लॉगिन और अद्यतन के बाद योजना का नाम चुनें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उसका नाम, बैंक खाता चुनें और व्यक्तिगत विवरण भरें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक दस्तावेज़ अपलोड करें"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "(आई)। अधिवास प्रमाणपत्र"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "(ख)। प्रवेश पत्र/प्रस्ताव पत्र"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "(ग)। शुल्क विवरण विदेशी विश्वविद्यालय द्वारा जारी किए गए पत्र/दस्तावेज"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "\"सबमिट\" बटन पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सिस्टम आवेदन जमा करेगा और आवेदक को एक अद्वितीय आवेदन-आईडी प्रस्तुत की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदक अपने एसएसओआईडी. 1 का उपयोग करके [राजएसएसओ] (https://sso.rajasthan.gov.in) पोर्टल पर लॉग इन करने के लिए। यदि एस. एस. ओ. आई. डी. उपलब्ध नहीं है तो आवेदक को पहले एस. एस. ओ. आई. डी. बनाने और पहले लॉगिन पर एस. एस. ओ. प्रोफाइल को अद्यतन करने के लिए राज. एस. एस. ओ. पोर्टल पर पंजीकरण करना होगा। 1. एस. एस. ओ. आई. डी. प्रोफाइल के सफल प्रमाणीकरण/लॉगिन और अद्यतन के बाद योजना का नाम चुनें। 1. उसका नाम, बैंक खाता चुनें और व्यक्तिगत विवरण भरें। 1. आवश्यक दस्तावेज़ अपलोड करें। अधिवास प्रमाणपत्र (ii)। प्रवेश पत्र/प्रस्ताव पत्र (3)। शुल्क विवरण विदेशी विश्वविद्यालय द्वारा जारी पत्र/दस्तावेज 1. \"सबमिट\" बटन पर क्लिक करें। 1. सिस्टम आवेदन जमा करेगा और आवेदक को एक अद्वितीय आवेदन-आईडी प्रस्तुत की जाएगी।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. राजस्थान के वास्तविक निवासी। 1. 1 जुलाई 2023 को 35 वर्ष से कम आयु। 1 अप्रैल, 2023 तक शीर्ष 150 विश्व क्यू. एस. श्रेणी के विश्वविद्यालयों में प्रवेश/प्राप्त प्रस्ताव पत्र। यूजी, पीजी, पीएचडी और पोस्ट डॉक पाठ्यक्रमों के लिए सभी विषय। 1. स्नातक स्तर पर इंजीनियरिंग, वास्तुकला, चिकित्सा, दंत चिकित्सा पाठ्यक्रमों के लिए अधिकतम 7.5 प्रतिशत सीटें (37)",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान के वास्तविक निवासी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "1 जुलाई 2023 को 35 वर्ष से कम आयु"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "1 अप्रैल, 2023 तक शीर्ष 150 विश्व क्यू. एस. श्रेणी के विश्वविद्यालयों में प्रवेश/प्राप्त प्रस्ताव पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यूजी, पीजी, पीएचडी और पोस्ट डॉक पाठ्यक्रमों के लिए सभी विषय।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातक स्तर पर इंजीनियरिंग, वास्तुकला, चिकित्सा, दंत चिकित्सा पाठ्यक्रमों के लिए अधिकतम 7.5 प्रतिशत सीटें (37)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. राजस्थान के वास्तविक निवासी। 1. 1 जुलाई 2023 को 35 वर्ष से कम आयु। 1 अप्रैल, 2023 तक शीर्ष 150 विश्व क्यू. एस. श्रेणी के विश्वविद्यालयों में प्रवेश/प्राप्त प्रस्ताव पत्र। यूजी, पीजी, पीएचडी और पोस्ट डॉक पाठ्यक्रमों के लिए सभी विषय। 1. स्नातक स्तर पर इंजीनियरिंग, वास्तुकला, चिकित्सा, दंत चिकित्सा पाठ्यक्रमों के लिए अधिकतम 7.5 प्रतिशत सीटें (37)",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "राजस्थान के वास्तविक निवासी।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "1 जुलाई 2023 को 35 वर्ष से कम आयु"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "1 अप्रैल, 2023 तक शीर्ष 150 विश्व क्यू. एस. श्रेणी के विश्वविद्यालयों में प्रवेश/प्राप्त प्रस्ताव पत्र"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यूजी, पीजी, पीएचडी और पोस्ट डॉक पाठ्यक्रमों के लिए सभी विषय।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "स्नातक स्तर पर इंजीनियरिंग, वास्तुकला, चिकित्सा, दंत चिकित्सा पाठ्यक्रमों के लिए अधिकतम 7.5 प्रतिशत सीटें (37)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar Number."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Offer letter of the applicable foreign university."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bonafide/ Domicile certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gross family Income certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income tax return proof. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Affidavit for not filing ITR."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10th mark sheet."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Qualifying Degree, Mark sheet/Certificate of last passed exam."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self Declaration for Scholarships/ financial help etc. from other sources."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport, if any."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Visa, if any."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Number."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan Aadhar Number.\n1. Offer letter of the applicable foreign university.\n1. Bonafide/ Domicile certificate.\n1. Gross family Income certificate.\n1. Income tax return proof. \n1. Affidavit for not filing ITR.\n1. 10th mark sheet.\n1. Qualifying Degree, Mark sheet/Certificate of last passed exam.\n1. Self Declaration for Scholarships/ financial help etc. from other sources.\n1. Passport, if any.\n1. Visa, if any.\n1. Aadhar Number.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार संख्या।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लागू विदेशी विश्वविद्यालय का प्रस्ताव पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बोनाफाइड/डोमिसाइल प्रमाणपत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सकल परिवार आय प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयकर विवरणी प्रमाण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आई. टी. आर. दाखिल नहीं करने के लिए शपथ पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10 वीं मार्कशीट।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "योग्यता डिग्री, मार्कशीट/अंतिम उत्तीर्ण परीक्षा का प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अन्य स्रोतों से छात्रवृत्ति/वित्तीय सहायता आदि के लिए स्व-घोषणा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट, यदि कोई हो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वीजा, यदि कोई हो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार संख्या।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan Aadhar Number.\n1. Offer letter of the applicable foreign university.\n1. Bonafide/ Domicile certificate.\n1. Gross family Income certificate.\n1. Income tax return proof. \n1. Affidavit for not filing ITR.\n1. 10th mark sheet.\n1. Qualifying Degree, Mark sheet/Certificate of last passed exam.\n1. Self Declaration for Scholarships/ financial help etc. from other sources.\n1. Passport, if any.\n1. Visa, if any.\n1. Aadhar Number.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply in the Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Students of Rajasthan State domicile.\n2. Less than 35 years as on 1st July of the financial yea\n3. Offer letter from one of the top 1-150 Universities (QS World Ranking University)\n4. For Engineering, Medicine, Dentistry and Architecture Courses at Under Graduate\nlevel : Offer letter from one of the top 1-150 QS World ranking universities which\nshall also be included in top 25 QS World university rankings subject wise"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Students of Rajasthan State domicile.\n2. Less than 35 years as on 1st July of the financial yea\n3. Offer letter from one of the top 1-150 Universities (QS World Ranking University)\n4. For Engineering, Medicine, Dentistry and Architecture Courses at Under Graduate\nlevel : Offer letter from one of the top 1-150 QS World ranking universities which\nshall also be included in top 25 QS World university rankings subject wise\n"
+        },
+        {
+          "question": "Which courses are allowed in the Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Post Doc ( Max Course Duration: 1.5 Years.\n2. Ph. D. ( Max Course Duration: 3 Years ).\n3. PG ( Max Course Duration: 2 Years ).\n4. UG ( Max Course Duration: 4Years )."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Post Doc ( Max Course Duration: 1.5 Years.\n2. Ph. D. ( Max Course Duration: 3 Years ).\n3. PG ( Max Course Duration: 2 Years ).\n4. UG ( Max Course Duration: 4Years ).\n"
+        },
+        {
+          "question": "Which subjects are allowed in the Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. For Post Doc/ PhD/PG/ UG, all subjects as prescribed by the top 1-150 QS World\nranking universities are allowed.\n2. However, for Engineering, Medicine, Dentistry and Architecture at UG level top 1-150 QS World University Ranking should also be included in top 1-25 QS World .University Ranking subject wise."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. For Post Doc/ PhD/PG/ UG, all subjects as prescribed by the top 1-150 QS World\nranking universities are allowed.\n2. However, for Engineering, Medicine, Dentistry and Architecture at UG level top 1-150 QS World University Ranking should also be included in top 1-25 QS World .University Ranking subject wise.\n"
+        },
+        {
+          "question": "Which documents are required to fill the application on portal?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Jan Aadhar Number.\n2. Offer letter of the applicable foreign university\n3. Bonafide/ Domicile certificate.\n4. Gross family Income certificate.\n5. Income Tax Return Proof.\n6. Affidavit for not filing ITR.\n7. 10th mark sheet.\n8. Qualifying Degree, Mark sheet/Certificate of last passed exam.\n8. Self Declaration for Scholarships/ financial help etc.from other sources.\n9. Passport, if any.\n10. Visa, if any.\n11. Aadhar Number."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Jan Aadhar Number.\n2. Offer letter of the applicable foreign university\n3. Bonafide/ Domicile certificate.\n4. Gross family Income certificate.\n5. Income Tax Return Proof.\n6. Affidavit for not filing ITR.\n7. 10th mark sheet.\n8. Qualifying Degree, Mark sheet/Certificate of last passed exam.\n8. Self Declaration for Scholarships/ financial help etc.from other sources.\n9. Passport, if any.\n10. Visa, if any.\n11. Aadhar Number.\n"
+        },
+        {
+          "question": "Which Universities are allowed in this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Top 150 QS World ranked universities available latest as on 1st April of that financial year are allowed. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Top 150 QS World ranked universities available latest as on 1st April of that financial year are allowed. \n"
+        },
+        {
+          "question": "Will the list of applicable universities change during opening to closing of the portal?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, university list available as on 1st April of a financial year and as decided by the government will be applicable for the whole financial year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, university list available as on 1st April of a financial year and as decided by the government will be applicable for the whole financial year.\n"
+        },
+        {
+          "question": "Will this scholarship help in getting admission in foreign universities?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scholarship scheme only provides financial assistance after getting admission in foreign university. For admission, applicants will have to make efforts on own. It is advised to visit the websites of the respective universities for admission details. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scholarship scheme only provides financial assistance after getting admission in foreign university. For admission, applicants will have to make efforts on own. It is advised to visit the websites of the respective universities for admission details. \n"
+        },
+        {
+          "question": "How to apply for this scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "You can apply online on the portal. Website link: https://hte.rajasthan.gov.in/online-scholarship "
+                }
+              ]
+            }
+          ],
+          "answer_md": "You can apply online on the portal. Website link: https://hte.rajasthan.gov.in/online-scholarship \n"
+        },
+        {
+          "question": "What do applicant need to login to the portal ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicant need Janaadhar number and SSOID. Please get Janaadhar number and create a SSOID if not already available."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant need Janaadhar number and SSOID. Please get Janaadhar number and create a SSOID if not already available.\n"
+        },
+        {
+          "question": "What will be the last qualifying exam document if I am applying for Post Doc?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It will be a PG degree."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It will be a PG degree.\n"
+        },
+        {
+          "question": "Can applicant Edit the information already saved on the online portal and upto what time?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants can always edit the information before final submission."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can always edit the information before final submission.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना में कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. राजस्थान राज्य अधिवास के छात्र। 2. वित्तीय वर्ष 3 के 1 जुलाई को 35 वर्ष से कम। शीर्ष 1-150 विश्वविद्यालयों (क्यू. एस. विश्व रैंकिंग विश्वविद्यालय) 4 में से एक से प्रस्ताव पत्र। स्नातक स्तर पर इंजीनियरिंग, चिकित्सा, दंत चिकित्सा और वास्तुकला पाठ्यक्रमों के लिएः शीर्ष 1-150 क्यू. एस. विश्व रैंकिंग विश्वविद्यालयों में से एक से प्रस्ताव पत्र जो विषयवार शीर्ष 25 क्यू. एस. विश्व विश्वविद्यालय रैंकिंग में भी शामिल होंगे"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Students of Rajasthan State domicile.\n2. Less than 35 years as on 1st July of the financial yea\n3. Offer letter from one of the top 1-150 Universities (QS World Ranking University)\n4. For Engineering, Medicine, Dentistry and Architecture Courses at Under Graduate\nlevel : Offer letter from one of the top 1-150 QS World ranking universities which\nshall also be included in top 25 QS World university rankings subject wise\n"
+        },
+        {
+          "question": "योजना में किन पाठ्यक्रमों की अनुमति है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. पोस्ट डॉक (अधिकतम पाठ्यक्रम अवधिः डेढ़ वर्ष। 2. पी. एच. डी. (अधिकतम पाठ्यक्रम अवधिः 3 वर्ष)। 3. पीजी (अधिकतम पाठ्यक्रम अवधिः 2 वर्ष)। 4. यूजी (अधिकतम पाठ्यक्रम अवधिः 4 वर्ष)।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Post Doc ( Max Course Duration: 1.5 Years.\n2. Ph. D. ( Max Course Duration: 3 Years ).\n3. PG ( Max Course Duration: 2 Years ).\n4. UG ( Max Course Duration: 4Years ).\n"
+        },
+        {
+          "question": "योजना में किन विषयों की अनुमति है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. पोस्ट डॉक/पीएचडी/पीजी/यूजी के लिए, शीर्ष 1-150 क्यूएस विश्व रैंकिंग विश्वविद्यालयों द्वारा निर्धारित सभी विषयों की अनुमति है। 2. हालांकि, इंजीनियरिंग, चिकित्सा, दंत चिकित्सा और वास्तुकला के लिए यूजी स्तर पर शीर्ष 1-150 क्यूएस विश्व विश्वविद्यालय रैंकिंग को भी शीर्ष 1-25 क्यूएस विश्व में शामिल किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. For Post Doc/ PhD/PG/ UG, all subjects as prescribed by the top 1-150 QS World\nranking universities are allowed.\n2. However, for Engineering, Medicine, Dentistry and Architecture at UG level top 1-150 QS World University Ranking should also be included in top 1-25 QS World .University Ranking subject wise.\n"
+        },
+        {
+          "question": "पोर्टल पर आवेदन भरने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. जन आधार संख्या। 2. लागू विदेशी विश्वविद्यालय का प्रस्ताव पत्र 3. बोनाफाइड/डोमिसाइल प्रमाणपत्र। 4. सकल परिवार आय प्रमाण पत्र। 5. आयकर विवरणी प्रमाण। 6. आई. टी. आर. दाखिल नहीं करने के लिए शपथ पत्र। 7. 10 वीं मार्कशीट। 8. योग्यता डिग्री, मार्कशीट/अंतिम उत्तीर्ण परीक्षा का प्रमाण पत्र। 8. अन्य स्रोतों से छात्रवृत्ति/वित्तीय सहायता आदि के लिए स्व-घोषणा। 9. पासपोर्ट, यदि कोई हो। 10. वीजा, यदि कोई हो। 11. आधार संख्या।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Jan Aadhar Number.\n2. Offer letter of the applicable foreign university\n3. Bonafide/ Domicile certificate.\n4. Gross family Income certificate.\n5. Income Tax Return Proof.\n6. Affidavit for not filing ITR.\n7. 10th mark sheet.\n8. Qualifying Degree, Mark sheet/Certificate of last passed exam.\n8. Self Declaration for Scholarships/ financial help etc.from other sources.\n9. Passport, if any.\n10. Visa, if any.\n11. Aadhar Number.\n"
+        },
+        {
+          "question": "इस योजना में किन विश्वविद्यालयों को अनुमति दी गई है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उस वित्तीय वर्ष के 1 अप्रैल तक उपलब्ध शीर्ष 150 क्यू. एस. विश्व श्रेणी के विश्वविद्यालयों को अनुमति दी गई है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Top 150 QS World ranked universities available latest as on 1st April of that financial year are allowed. \n"
+        },
+        {
+          "question": "क्या पोर्टल खोलने और बंद करने के दौरान लागू विश्वविद्यालयों की सूची बदल जाएगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, किसी वित्तीय वर्ष के 1 अप्रैल को उपलब्ध और सरकार द्वारा तय की गई विश्वविद्यालय सूची पूरे वित्तीय वर्ष के लिए लागू होगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, university list available as on 1st April of a financial year and as decided by the government will be applicable for the whole financial year.\n"
+        },
+        {
+          "question": "क्या यह छात्रवृत्ति विदेशी विश्वविद्यालयों में प्रवेश पाने में मदद करेगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह छात्रवृत्ति योजना विदेशी विश्वविद्यालय में प्रवेश प्राप्त करने के बाद ही वित्तीय सहायता प्रदान करती है। प्रवेश के लिए, आवेदकों को स्वयं प्रयास करना होगा। प्रवेश विवरण के लिए संबंधित विश्वविद्यालयों की वेबसाइटों पर जाने की सलाह दी जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scholarship scheme only provides financial assistance after getting admission in foreign university. For admission, applicants will have to make efforts on own. It is advised to visit the websites of the respective universities for admission details. \n"
+        },
+        {
+          "question": "इस छात्रवृत्ति के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आप पोर्टल पर ऑनलाइन आवेदन कर सकते हैं। वेबसाइट लिंकः https://hte.rajasthan.gov.in/online-scholarship"
+                }
+              ]
+            }
+          ],
+          "answer_md": "You can apply online on the portal. Website link: https://hte.rajasthan.gov.in/online-scholarship \n"
+        },
+        {
+          "question": "पोर्टल पर लॉग इन करने के लिए आवेदक को क्या चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को जनाधार संख्या और एसएसओआईडी की आवश्यकता होती है। कृपया जनाधार संख्या प्राप्त करें और यदि पहले से उपलब्ध नहीं है तो एक एसएसओआईडी बनाएँ।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant need Janaadhar number and SSOID. Please get Janaadhar number and create a SSOID if not already available.\n"
+        },
+        {
+          "question": "यदि मैं पोस्ट डॉक के लिए आवेदन कर रहा हूं तो अंतिम योग्यता परीक्षा दस्तावेज क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह एक पीजी डिग्री होगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It will be a PG degree.\n"
+        },
+        {
+          "question": "क्या आवेदक ऑनलाइन पोर्टल पर पहले से ही सहेजी गई जानकारी को किस समय तक संपादित कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक अंतिम प्रस्तुतिकरण से पहले हमेशा जानकारी को संपादित कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can always edit the information before final submission.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1104 @@
+{
+  "scheme_id": "649032d8380f8e12353ffc53",
+  "slug": "ehftg",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Financial Assistance",
+        "Educational Grant",
+        "Student",
+        "Higher Education"
+      ],
+      "schemeName": "Economic Help To Tribal Girls For Higher Education (Class 11 & 12)",
+      "schemeShortTitle": "EHFTG",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2011-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/457"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Rajasthan state government started a scheme &quot;**Economic Help to Tribal Girls for Higher Education (Class 11 &amp; 12)**&quot;. The main objective is to provide benefits to the tribal girls for their higher education, who are studying in government schools by taking admission as regular students for higher education.\n",
+      "benefits_md": "\n- Rs. 3,500/- One time and fully in July \n\n",
+      "briefDescription": "Rajasthan Government started a scholarship for tribal girls higher education (Class 11 & 12) In the year 2011.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rajasthan state government started a scheme \""
+            },
+            {
+              "text": "Economic Help to Tribal Girls for Higher Education (Class 11 & 12)",
+              "bold": true
+            },
+            {
+              "text": "\". The main objective is to provide benefits to the tribal girls for their higher education, who are studying in government schools by taking admission as regular students for higher education."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Rs. 3,500/- One time and fully in July "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sso.rajasthan.gov.in/signin",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant to log in to "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in",
+                    "children": [
+                      {
+                        "text": "RajSSO"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " Portal using his/her SSOID."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If SSOID is not available then the applicant to first "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "children": [
+                      {
+                        "text": "register "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "on RajSSO Portal to create SSOID and update SSO Profile at first login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After successful authentication/login and updation of the SSOID Profile and select the scheme name. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select his/her name, the bank account and fill in personal details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upload the required document."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click the “SUBMIT” button."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicant to log in to [RajSSO](https://sso.rajasthan.gov.in) Portal using his/her SSOID.1. If SSOID is not available then the applicant to first [register ](https://sso.rajasthan.gov.in/register)on RajSSO Portal to create SSOID and update SSO Profile at first login.1. After successful authentication/login and updation of the SSOID Profile and select the scheme name. \n1. Select his/her name, the bank account and fill in personal details.\n1. Upload the required document.\n1. Click the “SUBMIT” button.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Should be studying regularly in 11th and 12th in government schools.\n1. The girl student should belong to the Scheduled Tribe category of Rajasthan.\n1. The parent/guardian/guardian/husband of the student should not be an income tax payer.\n1. The student must be a native of Rajasthan.\n1. The student who is studying by living in the hostel run by the government. They will not be entitled to benefit under the said scheme.\n1. Must have Vaidya Bhamashah card and Aadhaar card.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should be studying regularly in 11th and 12th in government schools."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The girl student should belong to the Scheduled Tribe category of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The parent/guardian/guardian/husband of the student should not be an income tax payer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student must be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student who is studying by living in the hostel run by the government. They will not be entitled to benefit under the said scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Must have Vaidya Bhamashah card and Aadhaar card."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "शैक्षिक अनुदान",
+        "विद्यार्थी",
+        "उच्च शिक्षा"
+      ],
+      "schemeName": "जनजातीय लड़कियों को उच्च शिक्षा के लिए आर्थिक सहायता (कक्षा 11 और 12)",
+      "schemeShortTitle": "EHFTG",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "schemeOpenDate": "2011-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/457"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान राज्य सरकार ने उच्च शिक्षा (कक्षा 11 और 12) के लिए जनजातीय लड़कियों के लिए आर्थिक सहायता योजना शुरू की। इसका मुख्य उद्देश्य आदिवासी लड़कियों को उनकी उच्च शिक्षा के लिए लाभ प्रदान करना है, जो उच्च शिक्षा के लिए नियमित छात्रों के रूप में प्रवेश लेकर सरकारी स्कूलों में पढ़ रही हैं।",
+      "benefits_md": "- रु. 3, 500/- एक बार और पूरी तरह से जुलाई में",
+      "briefDescription": "राजस्थान सरकार ने वर्ष 2011 में आदिवासी लड़कियों की उच्च शिक्षा (कक्षा 11 और 12) के लिए छात्रवृत्ति शुरू की।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान राज्य सरकार ने एक योजना शुरू की \""
+            },
+            {
+              "text": "जनजातीय लड़कियों को उच्च शिक्षा के लिए आर्थिक सहायता (कक्षा 11 और 12)",
+              "bold": true
+            },
+            {
+              "text": "\"। इसका मुख्य उद्देश्य आदिवासी लड़कियों को उनकी उच्च शिक्षा के लिए लाभ प्रदान करना है, जो उच्च शिक्षा के लिए नियमित छात्रों के रूप में प्रवेश लेकर सरकारी स्कूलों में पढ़ रही हैं।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रु. 3, 500/- एक बार और पूरी तरह से जुलाई में"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sso.rajasthan.gov.in/signin",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लॉग इन करने के लिए आवेदक"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in",
+                    "children": [
+                      {
+                        "text": "राजएसएसओ"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "उसके एस. एस. ओ. आई. डी. का उपयोग करते हुए पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि एसएसओआईडी उपलब्ध नहीं है तो आवेदक पहले"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "children": [
+                      {
+                        "text": "रजिस्टर करें"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "राजएसएसओ पोर्टल पर एस. एस. ओ. आई. डी. बनाने और पहले लॉग-इन करने पर एस. एस. ओ. प्रोफाइल को अद्यतन करने के लिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एस. एस. ओ. आई. डी. प्रोफाइल के सफल प्रमाणीकरण/लॉगिन और अद्यतन के बाद योजना का नाम चुनें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उसका नाम, बैंक खाता चुनें और व्यक्तिगत विवरण भरें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक दस्तावेज़ अपलोड करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "\"सब्मिट\" बटन पर क्लिक करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदक अपने एसएसओआईडी. 1 का उपयोग करके [राजएसएसओ] (https://sso.rajasthan.gov.in) पोर्टल पर लॉग इन करने के लिए। यदि एस. एस. ओ. आई. डी. उपलब्ध नहीं है तो आवेदक पहले एस. एस. ओ. आई. डी. बनाने के लिए राज. एस. एस. ओ. पोर्टल पर [रजिस्टर] (https://sso.rajasthan.gov.in/register) करें और पहले लॉग-इन करने पर एस. एस. ओ. प्रोफाइल को अपडेट करें। एस. एस. ओ. आई. डी. प्रोफाइल के सफल प्रमाणीकरण/लॉगिन और अद्यतन के बाद योजना का नाम चुनें। 1. उसका नाम, बैंक खाता चुनें और व्यक्तिगत विवरण भरें। 1. आवश्यक दस्तावेज़ अपलोड करें। 1. \"सब्मिट\" बटन पर क्लिक करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 14,
+          "lte": 20
+        }
+      ],
+      "education": [
+        {
+          "qualification": "",
+          "status": "",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. सरकारी स्कूलों में 11वीं और 12वीं में नियमित रूप से पढ़ाई करनी चाहिए। 1. छात्रा राजस्थान की अनुसूचित जनजाति श्रेणी से संबंधित होनी चाहिए। 1. छात्र के माता-पिता/अभिभावक/अभिभावक/पति आयकर दाता नहीं होने चाहिए। 1. छात्र राजस्थान का मूल निवासी होना चाहिए। 1. छात्र जो सरकार द्वारा संचालित छात्रावास में रहकर पढ़ाई कर रहा है। वे उक्त योजना के तहत लाभ के हकदार नहीं होंगे। 1. वैद्य भामाशाह कार्ड और आधार कार्ड होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सरकारी स्कूलों में 11वीं और 12वीं में नियमित रूप से पढ़ाई करनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रा राजस्थान की अनुसूचित जनजाति श्रेणी से संबंधित होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र के माता-पिता/अभिभावक/अभिभावक/पति आयकर दाता नहीं होने चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र जो सरकार द्वारा संचालित छात्रावास में रहकर पढ़ाई कर रहा है। वे उक्त योजना के तहत लाभ के हकदार नहीं होंगे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वैद्य भामाशाह कार्ड और आधार कार्ड होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 14,
+        "lte": 20
+      }
+    ],
+    "education": [
+      {
+        "qualification": "",
+        "status": "",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. सरकारी स्कूलों में 11वीं और 12वीं में नियमित रूप से पढ़ाई करनी चाहिए। 1. छात्रा राजस्थान की अनुसूचित जनजाति श्रेणी से संबंधित होनी चाहिए। 1. छात्र के माता-पिता/अभिभावक/अभिभावक/पति आयकर दाता नहीं होने चाहिए। 1. छात्र राजस्थान का मूल निवासी होना चाहिए। 1. छात्र जो सरकार द्वारा संचालित छात्रावास में रहकर पढ़ाई कर रहा है। वे उक्त योजना के तहत लाभ के हकदार नहीं होंगे। 1. वैद्य भामाशाह कार्ड और आधार कार्ड होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "सरकारी स्कूलों में 11वीं और 12वीं में नियमित रूप से पढ़ाई करनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्रा राजस्थान की अनुसूचित जनजाति श्रेणी से संबंधित होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र के माता-पिता/अभिभावक/अभिभावक/पति आयकर दाता नहीं होने चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र जो सरकार द्वारा संचालित छात्रावास में रहकर पढ़ाई कर रहा है। वे उक्त योजना के तहत लाभ के हकदार नहीं होंगे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वैद्य भामाशाह कार्ड और आधार कार्ड होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Annual Income Of The Parent / Guardian - Non-Tax Payee. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Janaadhaar Card Details Of Family And Student. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth Certificate."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card. \n1. Annual Income Of The Parent / Guardian - Non-Tax Payee. \n1. Janaadhaar Card Details Of Family And Student. \n1. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student. \n1. Caste Certificate.\n1. Birth Certificate.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता/अभिभावक की वार्षिक आय-गैर-कर दाता।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जनाधार कार्ड परिवार और छात्र का विवरण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक विवरण परिवार के मुखिया या छात्र के जनाधार कार्ड से जुड़ा हुआ है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card. \n1. Annual Income Of The Parent / Guardian - Non-Tax Payee. \n1. Janaadhaar Card Details Of Family And Student. \n1. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student. \n1. Caste Certificate.\n1. Birth Certificate.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan Government started a scholarship for tribal girls higher education (Class 11 & 12) In the year 2011."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Government started a scholarship for tribal girls higher education (Class 11 & 12) In the year 2011.\n"
+        },
+        {
+          "question": "What are the benefits under the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial Assistance of Rs. 3,500/- One time and fully in July "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance of Rs. 3,500/- One time and fully in July \n"
+        },
+        {
+          "question": "Who can get the benefits of the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All girl students who are belongs to the Scheduled Tribe category of Rajasthan and full fill the eligibility criteria."
+                }
+              ]
+            }
+          ],
+          "answer_md": "All girl students who are belongs to the Scheduled Tribe category of Rajasthan and full fill the eligibility criteria.\n"
+        },
+        {
+          "question": "Is this scheme only for girls student or boy may also apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, this scheme is only for Girl studetns. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, this scheme is only for Girl studetns. \n"
+        },
+        {
+          "question": "What Is The Education Qualification For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Should be studying regularly in 11th and 12th in government schools."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Should be studying regularly in 11th and 12th in government schools.\n"
+        },
+        {
+          "question": "May other state girl student also apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Girl student must be native of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Girl student must be native of Rajasthan.\n"
+        },
+        {
+          "question": "What is the financial eligibility for applicant ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The parent/guardian/guardian/husband of the student should not be an income tax payer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The parent/guardian/guardian/husband of the student should not be an income tax payer.\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 3. Select his/her name, the bank account and fill in personal details. 4. Upload the required documents. 5. Click on the “SUBMIT” button."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 3. Select his/her name, the bank account and fill in personal details. 4. Upload the required documents. 5. Click on the \"SUBMIT\" button.\n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Aadhaar Card.  \n2. Annual Income Of The Parent / Guardian - Non-Tax Payee.  \n3. Janaadhaar Card Details Of Family And Student.   \n4. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.\n5. Caste Certificate.Birth Certificate."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhaar Card.  \n2. Annual Income Of The Parent / Guardian - Non-Tax Payee.  \n3. Janaadhaar Card Details Of Family And Student.   \n4. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.\n5. Caste Certificate.Birth Certificate.\n"
+        },
+        {
+          "question": "What is the official web portal to apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Use the following link.\nURL : https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following link.\nURL : https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह क्या योजना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार ने वर्ष 2011 में आदिवासी लड़कियों की उच्च शिक्षा (कक्षा 11 और 12) के लिए छात्रवृत्ति शुरू की।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Government started a scholarship for tribal girls higher education (Class 11 & 12) In the year 2011.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "रुपये की वित्तीय सहायता। 3, 500/- एक बार और पूरी तरह से जुलाई में"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance of Rs. 3,500/- One time and fully in July \n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सभी छात्राएँ जो राजस्थान की अनुसूचित जनजाति श्रेणी से संबंधित हैं और पात्रता मानदंड को पूरी तरह से भरती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "All girl students who are belongs to the Scheduled Tribe category of Rajasthan and full fill the eligibility criteria.\n"
+        },
+        {
+          "question": "क्या यह योजना केवल लड़कियों के लिए है, छात्र या लड़का भी आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यह योजना केवल लड़कियों के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, this scheme is only for Girl studetns. \n"
+        },
+        {
+          "question": "इस योजना के लिए शिक्षा योग्यता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सरकारी स्कूलों में 11वीं और 12वीं में नियमित रूप से पढ़ाई करनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Should be studying regularly in 11th and 12th in government schools.\n"
+        },
+        {
+          "question": "क्या राज्य की अन्य छात्राएँ भी आवेदन कर सकती हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रा राजस्थान की मूल निवासी होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Girl student must be native of Rajasthan.\n"
+        },
+        {
+          "question": "आवेदक के लिए वित्तीय पात्रता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्र के माता-पिता/अभिभावक/अभिभावक/पति आयकर दाता नहीं होने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The parent/guardian/guardian/husband of the student should not be an income tax payer.\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक को अपने एस. एस. ओ. आई. डी. का उपयोग करके राज. एस. एस. ओ. पोर्टल पर लॉग इन करना होगा। 2. एस. एस. ओ. आई. डी. प्रोफाइल के सफल प्रमाणीकरण/लॉगिन और अद्यतन के बाद योजना का नाम चुनें। 3. उसका नाम, बैंक खाता चुनें और व्यक्तिगत विवरण भरें। 4. आवश्यक दस्तावेज अपलोड करें। 5. \"सबमिट\" बटन पर क्लिक करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 3. Select his/her name, the bank account and fill in personal details. 4. Upload the required documents. 5. Click on the \"SUBMIT\" button.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आधार कार्ड। 2. माता-पिता/अभिभावक की वार्षिक आय-गैर-कर दाता। 3. जनाधार कार्ड परिवार और छात्र का विवरण। 4. बैंक विवरण परिवार के मुखिया या छात्र के जनाधार कार्ड से जुड़ा हुआ है। 5. जाति प्रमाण पत्र. जन्म प्रमाण पत्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhaar Card.  \n2. Annual Income Of The Parent / Guardian - Non-Tax Payee.  \n3. Janaadhaar Card Details Of Family And Student.   \n4. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.\n5. Caste Certificate.Birth Certificate.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक वेब पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निम्नलिखित लिंक का उपयोग करें। यूआरएलः https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following link.\nURL : https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    }
+  }
+}

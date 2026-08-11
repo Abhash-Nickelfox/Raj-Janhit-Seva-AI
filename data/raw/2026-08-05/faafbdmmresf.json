@@ -1,0 +1,2209 @@
+{
+  "scheme_id": "67ef7dca5a4889e1887a8968",
+  "slug": "faafbdmmresf",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Medical Treatment",
+        "Person With Disability",
+        "Ex-Servicemen",
+        "Illness",
+        "PwD"
+      ],
+      "schemeName": "Financial Assistance for the Treatment of Blind, Disabled, Deaf, Dumb, or Mentally Challenged Ex-Servicemen and their Dependents (Wife and Children)",
+      "schemeShortTitle": "FATBDDDMCESD",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2020-07-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000047,
+        "label": "Department of Sainik Welfare"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Medical%20Assistance.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/welfare-schemes/welfare-schemes-from-amalgamated-fund.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Financial Assistance for the Treatment of Blind, Disabled, Deaf, Dumb, or Mentally Challenged Ex-Servicemen and their Dependents (Wife and Children)&amp;quot; scheme was launched by the Department of Sainik Welfare, Government of Rajasthan. The scheme aims to provide monthly financial assistance for the treatment of ex-servicemen and their dependents (wife &amp;amp; children) who have a disability of 40% or more and are suffering from serious illnesses such as cancer, leprosy, tuberculosis, kidney and cardiac ailments, paralysis, etc. Only an ex-serviceman of the rank of Havildar or below or a member of the family of an ex-serviceman whose disability is 40% or more is eligible to apply. This scheme came into effect on 01.07.2020, and financial assistance will be granted from the first day of the month in which the application is approved.\n",
+      "benefits_md": "**Financial Assistance:**\n**S. No.****Percentage of Disability****Financial Assistance****Priority**180% and above₹3,000/- per monthFirst Priority260% but less than 80%₹2,000/- per monthSecond Priority340% but less than 60%₹1,000/- per monthThird Priority**Note:**\n\n- The assistance is provided for three years. After that, the applicant will re-apply for renewal.\n- The financial aid is disbursed online through the District Sainik Welfare Office.\n- A maximum of two disabled family members of an ex-serviceman can avail of this benefit.\n- The financial assistance will cease upon the death of the disabled ex-serviceman or the disabled family member.\n\n",
+      "briefDescription": "The scheme aims to provide monthly financial assistance for the treatment of ex-servicemen and their dependents (wife & children) who have a disability of 40% or more and are suffering from serious illnesses such as cancer, leprosy, tuberculosis, kidney and cardiac ailments, paralysis, etc.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Financial Assistance for the Treatment of Blind, Disabled, Deaf, Dumb, or Mentally Challenged Ex-Servicemen and their Dependents (Wife and Children)\" scheme was launched by the Department of Sainik Welfare, Government of Rajasthan. The scheme aims to provide monthly financial assistance for the treatment of ex-servicemen and their dependents (wife & children) who have a disability of 40% or more and are suffering from serious illnesses such as cancer, leprosy, tuberculosis, kidney and cardiac ailments, paralysis, etc. Only an ex-serviceman of the rank of Havildar or below or a member of the family of an ex-serviceman whose disability is 40% or more is eligible to apply. This scheme came into effect on 01.07.2020, and financial assistance will be granted from the first day of the month in which the application is approved."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "S. No.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Percentage of Disability",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Financial Assistance",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Priority",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "80% and above"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,000/- per month"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "First Priority"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "60% but less than 80%"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,000/- per month"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Second Priority"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "40% but less than 60%"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,000/- per month"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Third Priority"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The assistance is provided for three years. After that, the applicant will re-apply for renewal."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The financial aid is disbursed online through the District Sainik Welfare Office."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A maximum of two disabled family members of an ex-serviceman can avail of this benefit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The financial assistance will cease upon the death of the disabled ex-serviceman or the disabled family member."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The interested applicant should visit the office of the District Sainik Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "OR",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The applicant should download the "
+              },
+              {
+                "type": "link",
+                "link": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Medical%20Assistance.pdf",
+                "children": [
+                  {
+                    "text": "application form"
+                  }
+                ]
+              },
+              {
+                "text": " (Page No. 5) from the official website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the District Sainik Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If the ex-serviceman/widow is alive, they apply; otherwise, a family member/guardian applies if the disabled applicant is unable."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The application should be made through the same District Sainik Welfare Officer from whom the ex-serviceman/widow's identity card was issued."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Beneficiaries must reapply every three years for renewal."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Post-Application Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The District Sainik Welfare Officer will verify the documents and forward the application to the Director, Sainik Welfare Department, Rajasthan, Jaipur."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "A committee will review the applications every six months."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Approved applicants will receive financial assistance online."
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** The interested applicant should visit the office of the District Sainik Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**OR**\nThe applicant should download the [application form](https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Medical%20Assistance.pdf) (Page No. 5) from the official website.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Office.\n**Step 4:** Request a receipt or acknowledgment from the District Sainik Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n***NOTE:***\n\n- If the ex-serviceman/widow is alive, they apply; otherwise, a family member/guardian applies if the disabled applicant is unable.\n- The application should be made through the same District Sainik Welfare Officer from whom the ex-serviceman/widow&#39;s identity card was issued.\n- Beneficiaries must reapply every three years for renewal.\n\n***Post-Application Process:***\n**Step 1:** The District Sainik Welfare Officer will verify the documents and forward the application to the Director, Sainik Welfare Department, Rajasthan, Jaipur.\n**Step 2:** A committee will review the applications every six months.\n**Step 3:** Approved applicants will receive financial assistance online.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Rajasthan.\n   1. The applicant should either be an ex-serviceman as defined by the Government of India or a dependent family member (excluding parents) of ex-serviceman.\n   1. Only an ex-serviceman holding the rank of Havildar or below, or their family members, are eligible to apply.\n   1. The ex-serviceman or their dependent should have a disability of 40% or more.\n   1. Both pensioner and non-pensioner are eligible. However, ex-serviceman who is already receiving a disability pension from the Army cannot apply for financial assistance for himself based on their disability. He may apply on behalf of a disabled family member with 40% or more disability.\n   1. Under this scheme, the family members do not include parents. Only wife/widow, son/daughter are included.\n   1. The ex-serviceman’s disability will be considered valid regardless of whether it occurred during military service or after retirement.\n   1. The name of the disabled wife, son, or daughter should be recorded in the discharge book or Part II Order of the ex-serviceman.\n   1. Assistance will not be provided to more than two members of the same family, including the ex-serviceman.\n   1. A valid recommendation from the District Sainik Welfare Officer (DSWO) is mandatory.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should either be an ex-serviceman as defined by the Government of India or a dependent family member (excluding parents) of ex-serviceman."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Only an ex-serviceman holding the rank of Havildar or below, or their family members, are eligible to apply."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The ex-serviceman or their dependent should have a disability of 40% or more."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Both pensioner and non-pensioner are eligible. However, ex-serviceman who is already receiving a disability pension from the Army cannot apply for financial assistance for himself based on their disability. He may apply on behalf of a disabled family member with 40% or more disability."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under this scheme, the family members do not include parents. Only wife/widow, son/daughter are included."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The ex-serviceman’s disability will be considered valid regardless of whether it occurred during military service or after retirement."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The name of the disabled wife, son, or daughter should be recorded in the discharge book or Part II Order of the ex-serviceman."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Assistance will not be provided to more than two members of the same family, including the ex-serviceman."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A valid recommendation from the District Sainik Welfare Officer (DSWO) is mandatory."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "चिकित्सीय उपचार",
+        "विकलांग व्यक्ति",
+        "पूर्व सैनिक",
+        "बीमारी",
+        "पीडब्लूडी"
+      ],
+      "schemeName": "नेत्रहीन, विकलांग, मूक या मानसिक रूप से विकलांग पूर्व सैनिकों और उनके आश्रितों (पत्नी और बच्चे) के उपचार के लिए वित्तीय सहायता",
+      "schemeShortTitle": "FATBDDDMCESD",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "schemeOpenDate": "2020-07-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000047,
+        "label": "सैनिक कल्याण विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Medical%20Assistance.pdf"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/welfare-schemes/welfare-schemes-from-amalgamated-fund.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "अंधे, विकलांग, मूक या मानसिक रूप से विकलांग पूर्व सैनिकों और उनके आश्रितों (पत्नी और बच्चे) के उपचार के लिए वित्तीय सहायता योजना सैनिक कल्याण विभाग, राजस्थान सरकार द्वारा शुरू की गई थी। इस योजना का उद्देश्य पूर्व सैनिकों और उनके आश्रितों (पत्नी और बच्चे) के इलाज के लिए मासिक वित्तीय सहायता प्रदान करना है, जो 40 प्रतिशत या उससे अधिक विकलांग हैं और कैंसर, कुष्ठ रोग, तपेदिक, गुर्दे और हृदय रोग, पक्षाघात आदि जैसी गंभीर बीमारियों से पीड़ित हैं। केवल हवलदार या उससे नीचे के पद का पूर्व सैनिक या पूर्व सैनिक के परिवार का कोई सदस्य जिसकी अक्षमता 40 प्रतिशत या उससे अधिक है, आवेदन करने के लिए पात्र है। यह योजना 01.07.2020 पर लागू हुई, और वित्तीय सहायता उस महीने के पहले दिन से दी जाएगी जिसमें आवेदन को मंजूरी दी जाएगी।",
+      "benefits_md": "वित्तीय मददः * * * एस. संख्या. * * * वित्तीय सहायता का प्रतिशत * * * प्राथमिकता * * 180% और प्रति माह ₹3,000/- से अधिक पहली प्राथमिकता 260% लेकिन 80 प्रतिशत से कम ₹2,000/- प्रति माह दूसरी प्राथमिकता 340% लेकिन 60 प्रतिशत से कम ₹1,000/- प्रति माह तीसरी प्राथमिकता नोटः *-सहायता तीन साल के लिए प्रदान की जाती है। उसके बाद, आवेदक नवीनीकरण के लिए फिर से आवेदन करेगा।-वित्तीय सहायता जिला सैनिक कल्याण कार्यालय के माध्यम से ऑनलाइन वितरित की जाती है।-एक पूर्व सैनिक के अधिकतम दो विकलांग परिवार के सदस्य इस लाभ का लाभ उठा सकते हैं।-विकलांग पूर्व सैनिक या विकलांग परिवार के सदस्य की मृत्यु पर वित्तीय सहायता समाप्त हो जाएगी।",
+      "briefDescription": "इस योजना का उद्देश्य पूर्व सैनिकों और उनके आश्रितों (पत्नी और बच्चे) के इलाज के लिए मासिक वित्तीय सहायता प्रदान करना है, जो 40 प्रतिशत या उससे अधिक विकलांग हैं और कैंसर, कुष्ठ रोग, तपेदिक, गुर्दे और हृदय रोगों, पक्षाघात आदि जैसी गंभीर बीमारियों से पीड़ित हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"नेत्रहीन, विकलांग, मूक, या मानसिक रूप से विकलांग पूर्व सैनिकों और उनके आश्रितों (पत्नी और बच्चे) के उपचार के लिए वित्तीय सहायता\" योजना सैनिक कल्याण विभाग, राजस्थान सरकार द्वारा शुरू की गई थी। इस योजना का उद्देश्य पूर्व सैनिकों और उनके आश्रितों (पत्नी और बच्चे) के इलाज के लिए मासिक वित्तीय सहायता प्रदान करना है, जो 40 प्रतिशत या उससे अधिक विकलांग हैं और कैंसर, कुष्ठ रोग, तपेदिक, गुर्दे और हृदय रोगों, पक्षाघात आदि जैसी गंभीर बीमारियों से पीड़ित हैं। केवल हवलदार या उससे नीचे के पद का पूर्व सैनिक या पूर्व सैनिक के परिवार का कोई सदस्य जिसकी अक्षमता 40 प्रतिशत या उससे अधिक है, आवेदन करने के लिए पात्र है। यह योजना 01.07.2020 पर लागू हुई, और वित्तीय सहायता उस महीने के पहले दिन से दी जाएगी जिसमें आवेदन को मंजूरी दी जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "एस. नहीं।",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "अक्षमता का प्रतिशत",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "वित्तीय सहायता",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्राथमिकता",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "80 प्रतिशत और उससे अधिक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,000/- प्रति माह"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पहली प्राथमिकता"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "60 प्रतिशत लेकिन 80 प्रतिशत से कम"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,000/- प्रति माह"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "दूसरी प्राथमिकता"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "40 प्रतिशत लेकिन 60 प्रतिशत से कम"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,000/- प्रति माह"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "तीसरी प्राथमिकता"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह सहायता तीन साल के लिए प्रदान की जाती है। उसके बाद, आवेदक नवीनीकरण के लिए फिर से आवेदन करेगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वित्तीय सहायता जिला सैनिक कल्याण कार्यालय के माध्यम से ऑनलाइन वितरित की जाती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक पूर्व सैनिक के परिवार के अधिकतम दो विकलांग सदस्य इस लाभ का लाभ उठा सकते हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विकलांग पूर्व सैनिक या विकलांग परिवार के सदस्य की मृत्यु के बाद वित्तीय सहायता बंद हो जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "इच्छुक आवेदक को जिला सैनिक कल्याण कार्यालय के कार्यालय में जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "या",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदक को डाउनलोड करना चाहिए"
+              },
+              {
+                "type": "link",
+                "link": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Medical%20Assistance.pdf",
+                "children": [
+                  {
+                    "text": "आवेदन पत्र"
+                  }
+                ]
+              },
+              {
+                "text": "(पृष्ठ संख्या 5) आधिकारिक वेबसाइट से।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सैनिक कल्याण कार्यालय में जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "जिला सैनिक कल्याण कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोटः",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि पूर्व सैनिक/विधवा जीवित है, तो वे आवेदन करते हैं; अन्यथा, परिवार का कोई सदस्य/अभिभावक आवेदन करता है यदि विकलांग आवेदक असमर्थ है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन उसी जिला सैनिक कल्याण अधिकारी के माध्यम से किया जाना चाहिए जिससे पूर्व सैनिक/विधवा का पहचान पत्र जारी किया गया था।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लाभार्थियों को नवीनीकरण के लिए हर तीन साल में फिर से आवेदन करना होगा।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन के बाद की प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "जिला सैनिक कल्याण अधिकारी दस्तावेजों का सत्यापन करेंगे और आवेदन को निदेशक, सैनिक कल्याण विभाग, राजस्थान, जयपुर को भेज देंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "एक समिति हर छह महीने में आवेदनों की समीक्षा करेगी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "स्वीकृत आवेदकों को ऑनलाइन वित्तीय सहायता प्राप्त होगी।"
+              }
+            ]
+          }
+        ],
+        "process_md": "* * * आवेदन प्रक्रियाः * * * * * चरण 1: * * इच्छुक आवेदक को जिला सैनिक कल्याण कार्यालय के कार्यालय में जाना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * या * * आवेदक को [आवेदन पत्र] (https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Medical%20Assistance.pdf) (पृष्ठ संख्या। 5) आधिकारिक वेबसाइट से। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सैनिक कल्याण कार्यालय में जमा करें। * * चरण 4: * * जिला सैनिक कल्याण कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। * * * नोटः-यदि पूर्व सैनिक/विधवा जीवित है, तो वे आवेदन करते हैं; अन्यथा, परिवार का कोई सदस्य/अभिभावक आवेदन करता है यदि विकलांग आवेदक असमर्थ है। आवेदन उसी जिला सैनिक कल्याण अधिकारी के माध्यम से किया जाना चाहिए जिससे पूर्व सैनिक/विधवा का पहचान पत्र जारी किया गया था। - लाभार्थियों को नवीनीकरण के लिए हर तीन साल में फिर से आवेदन करना होगा। * * * आवेदन के बाद की प्रक्रियाः * * * * * चरण 1: * * जिला सैनिक कल्याण अधिकारी दस्तावेजों का सत्यापन करेंगे और आवेदन को निदेशक, सैनिक कल्याण विभाग, राजस्थान, जयपुर को भेज देंगे। चरण 2: एक समिति हर छह महीने में आवेदनों की समीक्षा करेगी। चरण 3: स्वीकृत आवेदकों को ऑनलाइन वित्तीय सहायता प्राप्त होगी।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को या तो भारत सरकार द्वारा परिभाषित पूर्व-सैनिक होना चाहिए या पूर्व-सैनिक के आश्रित परिवार का सदस्य (माता-पिता को छोड़कर) होना चाहिए। 1. केवल हवलदार या उससे नीचे का पद धारण करने वाला पूर्व सैनिक या उनके परिवार के सदस्य ही आवेदन करने के पात्र हैं। 1. पूर्व सैनिक या उनके आश्रितों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए। 1. पेंशनभोगी और गैर-पेंशनभोगी दोनों पात्र हैं। हालांकि, पूर्व सैनिक जो पहले से ही सेना से विकलांगता पेंशन प्राप्त कर रहे हैं, अपनी विकलांगता के आधार पर अपने लिए वित्तीय सहायता के लिए आवेदन नहीं कर सकते हैं। वह 40 प्रतिशत या उससे अधिक अक्षमता वाले परिवार के किसी विकलांग सदस्य की ओर से आवेदन कर सकता है। 1. इस योजना के तहत परिवार के सदस्यों में माता-पिता शामिल नहीं हैं। केवल पत्नी/विधवा, बेटा/बेटी शामिल हैं। 1. पूर्व सैनिक की अक्षमता को वैध माना जाएगा, चाहे वह सैन्य सेवा के दौरान हुई हो या सेवानिवृत्ति के बाद। 1. विकलांग पत्नी, बेटे या बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग द्वितीय आदेश में दर्ज किया जाना चाहिए। 1. पूर्व सैनिक सहित एक ही परिवार के दो से अधिक सदस्यों को सहायता प्रदान नहीं की जाएगी। 1. जिला सैनिक कल्याण अधिकारी (डी. एस. डब्ल्यू. ओ.) से एक वैध सिफारिश अनिवार्य है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को या तो भारत सरकार द्वारा परिभाषित पूर्व-सैनिक होना चाहिए या पूर्व-सैनिक के आश्रित परिवार का सदस्य (माता-पिता को छोड़कर) होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "केवल हवलदार या उससे नीचे का पद धारण करने वाला पूर्व सैनिक या उनके परिवार के सदस्य ही आवेदन करने के पात्र हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पूर्व सैनिक या उनके आश्रितों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पेंशनभोगी और गैर-पेंशनभोगी दोनों पात्र हैं। हालांकि, पूर्व सैनिक जो पहले से ही सेना से विकलांगता पेंशन प्राप्त कर रहे हैं, अपनी विकलांगता के आधार पर अपने लिए वित्तीय सहायता के लिए आवेदन नहीं कर सकते हैं। वह 40 प्रतिशत या उससे अधिक अक्षमता वाले परिवार के किसी विकलांग सदस्य की ओर से आवेदन कर सकता है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इस योजना के तहत परिवार के सदस्यों में माता-पिता शामिल नहीं हैं। केवल पत्नी/विधवा, बेटा/बेटी शामिल हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पूर्व सैनिक की अक्षमता को वैध माना जाएगा, चाहे वह सैन्य सेवा के दौरान हुई हो या सेवानिवृत्ति के बाद।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "विकलांग पत्नी, बेटे या बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग द्वितीय आदेश में दर्ज किया जाना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पूर्व सैनिक सहित एक ही परिवार के दो से अधिक सदस्यों को सहायता प्रदान नहीं की जाएगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जिला सैनिक कल्याण अधिकारी (डी. एस. डब्ल्यू. ओ.) से एक वैध सिफारिश अनिवार्य है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "disability": true,
+      "disabilityPercentage": {
+        "gte": 40,
+        "lte": 100
+      },
+      "disabilityType": [
+        {
+          "value": "blindness",
+          "label": "Blindness"
+        },
+        {
+          "value": "hearing-impairment",
+          "label": "Hearing Impairment"
+        },
+        {
+          "value": "intellectual-disability",
+          "label": "Intellectual Disability"
+        },
+        {
+          "value": "locomotor-disability",
+          "label": "Locomotor Disability"
+        },
+        {
+          "value": "mental-illness",
+          "label": "Mental Illness"
+        },
+        {
+          "value": "multiple-disabilities-including-deaf-blindness",
+          "label": "Multiple Disabilities Including Deaf - Blindness"
+        },
+        {
+          "value": "speech-and-language-disability",
+          "label": "Speech and Language Disability"
+        }
+      ],
+      "exArmedForces": true,
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को या तो भारत सरकार द्वारा परिभाषित पूर्व-सैनिक होना चाहिए या पूर्व-सैनिक के आश्रित परिवार का सदस्य (माता-पिता को छोड़कर) होना चाहिए। 1. केवल हवलदार या उससे नीचे का पद धारण करने वाला पूर्व सैनिक या उनके परिवार के सदस्य ही आवेदन करने के पात्र हैं। 1. पूर्व सैनिक या उनके आश्रितों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए। 1. पेंशनभोगी और गैर-पेंशनभोगी दोनों पात्र हैं। हालांकि, पूर्व सैनिक जो पहले से ही सेना से विकलांगता पेंशन प्राप्त कर रहे हैं, अपनी विकलांगता के आधार पर अपने लिए वित्तीय सहायता के लिए आवेदन नहीं कर सकते हैं। वह 40 प्रतिशत या उससे अधिक अक्षमता वाले परिवार के किसी विकलांग सदस्य की ओर से आवेदन कर सकता है। 1. इस योजना के तहत परिवार के सदस्यों में माता-पिता शामिल नहीं हैं। केवल पत्नी/विधवा, बेटा/बेटी शामिल हैं। 1. पूर्व सैनिक की अक्षमता को वैध माना जाएगा, चाहे वह सैन्य सेवा के दौरान हुई हो या सेवानिवृत्ति के बाद। 1. विकलांग पत्नी, बेटे या बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग द्वितीय आदेश में दर्ज किया जाना चाहिए। 1. पूर्व सैनिक सहित एक ही परिवार के दो से अधिक सदस्यों को सहायता प्रदान नहीं की जाएगी। 1. जिला सैनिक कल्याण अधिकारी (डी. एस. डब्ल्यू. ओ.) से एक वैध सिफारिश अनिवार्य है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को या तो भारत सरकार द्वारा परिभाषित पूर्व-सैनिक होना चाहिए या पूर्व-सैनिक के आश्रित परिवार का सदस्य (माता-पिता को छोड़कर) होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "केवल हवलदार या उससे नीचे का पद धारण करने वाला पूर्व सैनिक या उनके परिवार के सदस्य ही आवेदन करने के पात्र हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पूर्व सैनिक या उनके आश्रितों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पेंशनभोगी और गैर-पेंशनभोगी दोनों पात्र हैं। हालांकि, पूर्व सैनिक जो पहले से ही सेना से विकलांगता पेंशन प्राप्त कर रहे हैं, अपनी विकलांगता के आधार पर अपने लिए वित्तीय सहायता के लिए आवेदन नहीं कर सकते हैं। वह 40 प्रतिशत या उससे अधिक अक्षमता वाले परिवार के किसी विकलांग सदस्य की ओर से आवेदन कर सकता है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इस योजना के तहत परिवार के सदस्यों में माता-पिता शामिल नहीं हैं। केवल पत्नी/विधवा, बेटा/बेटी शामिल हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पूर्व सैनिक की अक्षमता को वैध माना जाएगा, चाहे वह सैन्य सेवा के दौरान हुई हो या सेवानिवृत्ति के बाद।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "विकलांग पत्नी, बेटे या बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग द्वितीय आदेश में दर्ज किया जाना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पूर्व सैनिक सहित एक ही परिवार के दो से अधिक सदस्यों को सहायता प्रदान नहीं की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जिला सैनिक कल्याण अधिकारी (डी. एस. डब्ल्यू. ओ.) से एक वैध सिफारिश अनिवार्य है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "disability": true,
+    "disabilityPercentage": {
+      "gte": 40,
+      "lte": 100
+    },
+    "disabilityType": [
+      {
+        "value": "blindness",
+        "label": "Blindness"
+      },
+      {
+        "value": "hearing-impairment",
+        "label": "Hearing Impairment"
+      },
+      {
+        "value": "intellectual-disability",
+        "label": "Intellectual Disability"
+      },
+      {
+        "value": "locomotor-disability",
+        "label": "Locomotor Disability"
+      },
+      {
+        "value": "mental-illness",
+        "label": "Mental Illness"
+      },
+      {
+        "value": "multiple-disabilities-including-deaf-blindness",
+        "label": "Multiple Disabilities Including Deaf - Blindness"
+      },
+      {
+        "value": "speech-and-language-disability",
+        "label": "Speech and Language Disability"
+      }
+    ],
+    "exArmedForces": true,
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Discharge Book/Service Particulars"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disability Certificate issued by a competent medical authority"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ex-Serviceman/Widow/Dependent ID Card issued by the District Sainik Welfare Office"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pension Payment Order (PPO), if applicable"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death Certificate (in case of deceased ex-serviceman or widow)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card of the applicant"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Discharge Book/Service Particulars\n1. Disability Certificate issued by a competent medical authority\n1. Ex-Serviceman/Widow/Dependent ID Card issued by the District Sainik Welfare Office\n1. Pension Payment Order (PPO), if applicable\n1. Death Certificate (in case of deceased ex-serviceman or widow)\n1. Aadhaar Card of the applicant\n1. Bank Passbook Copy\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्वहन पुस्तक/सेवा विवरण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक सक्षम चिकित्सा प्राधिकरण द्वारा जारी विकलांगता प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जिला सैनिक कल्याण कार्यालय द्वारा जारी पूर्व सैनिक/विधवा/आश्रित पहचान पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पेंशन भुगतान आदेश (पी. पी. ओ.), यदि लागू हो"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मृत्यु प्रमाण पत्र (मृत पूर्व सैनिक या विधवा के मामले में)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक का आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Discharge Book/Service Particulars\n1. Disability Certificate issued by a competent medical authority\n1. Ex-Serviceman/Widow/Dependent ID Card issued by the District Sainik Welfare Office\n1. Pension Payment Order (PPO), if applicable\n1. Death Certificate (in case of deceased ex-serviceman or widow)\n1. Aadhaar Card of the applicant\n1. Bank Passbook Copy\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ex-servicemen (Havildar or below) and their dependents with a disability of 40% or more who do not receive an Army disability pension."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Ex-servicemen (Havildar or below) and their dependents with a disability of 40% or more who do not receive an Army disability pension.\n"
+        },
+        {
+          "question": "What is the financial assistance provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹1,000 to ₹3,000 per month based on the level of disability."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹1,000 to ₹3,000 per month based on the level of disability.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "How long is the assistance provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The assistance is provided for three years, with renewal options."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The assistance is provided for three years, with renewal options.\n"
+        },
+        {
+          "question": "Can more than one dependent apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, but only up to two dependents per family."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only up to two dependents per family.\n"
+        },
+        {
+          "question": "How is the payment made?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Online transfer through the District Sainik Welfare Office."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Online transfer through the District Sainik Welfare Office.\n"
+        },
+        {
+          "question": "Is there any residency requirement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant must be a resident of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must be a resident of Rajasthan.\n"
+        },
+        {
+          "question": "How is the priority determined?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Based on the level of disability: 80%+ (First), 60-80% (Second), 40-60% (Third)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Based on the level of disability: 80%+ (First), 60-80% (Second), 40-60% (Third).\n"
+        },
+        {
+          "question": "Is there a limit on the number of beneficiaries?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the scheme is limited to 300 beneficiaries at a time."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the scheme is limited to 300 beneficiaries at a time.\n"
+        },
+        {
+          "question": "How can one apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Submit an application to the District Sainik Welfare Office with the required documents."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit an application to the District Sainik Welfare Office with the required documents.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "What documents are required?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Discharge book, disability certificate, ID proof, bank details, and other supporting documents."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Discharge book, disability certificate, ID proof, bank details, and other supporting documents.\n"
+        },
+        {
+          "question": "When does the scheme become effective?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme was effective from July 1, 2020."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme was effective from July 1, 2020.\n<br>\n\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पूर्व सैनिक (हवलदार या उससे कम) और 40 प्रतिशत या उससे अधिक की अक्षमता वाले उनके आश्रित जिन्हें सेना की अक्षमता पेंशन नहीं मिलती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Ex-servicemen (Havildar or below) and their dependents with a disability of 40% or more who do not receive an Army disability pension.\n"
+        },
+        {
+          "question": "वित्तीय सहायता क्या प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विकलांगता के स्तर के आधार पर ₹1,000 से ₹3,000 प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹1,000 to ₹3,000 per month based on the level of disability.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "सहायता कब तक प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह सहायता नवीनीकरण विकल्पों के साथ तीन साल के लिए प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The assistance is provided for three years, with renewal options.\n"
+        },
+        {
+          "question": "क्या एक से अधिक आश्रित आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, लेकिन प्रति परिवार केवल दो आश्रितों तक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only up to two dependents per family.\n"
+        },
+        {
+          "question": "भुगतान कैसे किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला सैनिक कल्याण कार्यालय के माध्यम से ऑनलाइन स्थानांतरण।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Online transfer through the District Sainik Welfare Office.\n"
+        },
+        {
+          "question": "क्या कोई निवास की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must be a resident of Rajasthan.\n"
+        },
+        {
+          "question": "प्राथमिकता कैसे निर्धारित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अक्षमता के स्तर के आधार परः 80 प्रतिशत + (पहला), 60-80% (दूसरा), 40-60% (तीसरा)।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Based on the level of disability: 80%+ (First), 60-80% (Second), 40-60% (Third).\n"
+        },
+        {
+          "question": "क्या लाभार्थियों की संख्या की कोई सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यह योजना एक बार में 300 लाभार्थियों तक सीमित है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the scheme is limited to 300 beneficiaries at a time.\n"
+        },
+        {
+          "question": "कोई कैसे आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवश्यक दस्तावेजों के साथ जिला सैनिक कल्याण कार्यालय में एक आवेदन जमा करें।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit an application to the District Sainik Welfare Office with the required documents.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निर्वहन पुस्तिका, विकलांगता प्रमाण पत्र, पहचान पत्र प्रमाण, बैंक विवरण और अन्य सहायक दस्तावेज।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Discharge book, disability certificate, ID proof, bank details, and other supporting documents.\n"
+        },
+        {
+          "question": "यह योजना कब प्रभावी होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना 1 जुलाई, 2020 से प्रभावी थी।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme was effective from July 1, 2020.\n<br>\n\n"
+        }
+      ]
+    }
+  }
+}

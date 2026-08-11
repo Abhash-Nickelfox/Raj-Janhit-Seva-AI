@@ -1,0 +1,1484 @@
+{
+  "scheme_id": "67f2cb7ac8b84abf36a16f31",
+  "slug": "dpcpy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Student",
+        "Special Backward Classes",
+        "Devnarayan"
+      ],
+      "schemeName": "Devnarayan Pratibhawan Chhatra Protsahan Yojana",
+      "schemeShortTitle": "DPCPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=87"
+        },
+        {
+          "title": "Guidelines (Page No. 1)",
+          "url": "https://sje.rajasthan.gov.in/Schemes/DevnarayanScheme.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Devnarayan Pratibhawan Chhatra Protsahan Yojana&amp;quot; scheme was launched by the Social Justice and Empowerment Department, Government of Rajasthan. The scheme aims to encourage academic excellence among students belonging to Special Backward Classes (SBC). It provides an annual financial incentive to students pursuing education from Class 10th to postgraduate level in government schools or colleges.\n",
+      "benefits_md": "\n- Financial assistance of ₹3,500/- per year per student.\n\n",
+      "briefDescription": "The scheme aims to encourage academic excellence among students belonging to Special Backward Classes (SBC). It provides an annual financial incentive of ₹3,500/- to students pursuing education from Class 10th to postgraduate level in government schools or colleges.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Devnarayan Pratibhawan Chhatra Protsahan Yojana\" scheme was launched by the Social Justice and Empowerment Department, Government of Rajasthan. The scheme aims to encourage academic excellence among students belonging to Special Backward Classes (SBC). It provides an annual financial incentive to students pursuing education from Class 10th to postgraduate level in government schools or colleges."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹3,500/- per year per student."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the principal of the respective government school/college where the student is enrolled and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the principal of the respective government school/college. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "For detailed information regarding the scheme, please contact:",
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "District Office of the Social Justice and Empowerment Department in the concerned district."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the principal of the respective government school/college where the student is enrolled and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the principal of the respective government school/college. \n***For detailed information regarding the scheme, please contact:***\n\n  - District Office of the Social Justice and Empowerment Department in the concerned district.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be a student.\n1. The applicant’s family’s annual income should not exceed ₹2,00,000/-.\n1. The applicant should be studying in a government school or college.\n1. The applicant should have passed class 10th to graduation with a first division.1. The applicant should have obtained at least 48% marks in the postgraduation first year and be enrolled in the final year.\n1. The applicant should belong to one of the Special Backward Class communities:\n\n\n- Banjara, Baldiya, Labana\n- Gadia-Lohar, Gadoliya\n- Gurjar, Gujjar\n- Raika, Raibari (Debasi)\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s family’s annual income should not exceed ₹2,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying in a government school or college."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have passed class 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " to graduation with a first division."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have obtained at least 48% marks in the postgraduation first year and be enrolled in the final year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to one of the Special Backward Class communities:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Banjara, Baldiya, Labana"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gadia-Lohar, Gadoliya"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gurjar, Gujjar"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Raika, Raibari (Debasi)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "विद्यार्थी",
+        "विशेष पिछड़े वर्ग",
+        "देवनारायण"
+      ],
+      "schemeName": "देवनारायण प्रतिभा भवन छात्र प्रोत्साहन योजना",
+      "schemeShortTitle": "DPCPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "योजना का विवरण",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=87"
+        },
+        {
+          "title": "दिशानिर्देश (पृष्ठ संख्या 1)",
+          "url": "https://sje.rajasthan.gov.in/Schemes/DevnarayanScheme.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा देवनारायण प्रतिभा छात्र प्रोत्साहन योजना की शुरुआत की गई थी। इस योजना का उद्देश्य विशेष पिछड़े वर्गों (एस. बी. सी.) से संबंधित छात्रों के बीच शैक्षणिक उत्कृष्टता को प्रोत्साहित करना है। यह सरकारी स्कूलों या कॉलेजों में 10वीं कक्षा से लेकर स्नातकोत्तर स्तर तक की शिक्षा प्राप्त करने वाले छात्रों को वार्षिक वित्तीय प्रोत्साहन प्रदान करता है।",
+      "benefits_md": "- प्रति छात्र ₹3,500/- प्रति वर्ष की वित्तीय सहायता।",
+      "briefDescription": "इस योजना का उद्देश्य विशेष पिछड़े वर्गों (एस. बी. सी.) से संबंधित छात्रों के बीच शैक्षणिक उत्कृष्टता को प्रोत्साहित करना है। यह सरकारी स्कूलों या कॉलेजों में कक्षा 10 वीं से स्नातकोत्तर स्तर तक शिक्षा प्राप्त करने वाले छात्रों को ₹3,500/- का वार्षिक वित्तीय प्रोत्साहन प्रदान करता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा \"देवनारायण प्रतिष्ठान छात्र प्रोत्साहन योजना\" योजना शुरू की गई थी। इस योजना का उद्देश्य विशेष पिछड़े वर्गों (एस. बी. सी.) से संबंधित छात्रों के बीच शैक्षणिक उत्कृष्टता को प्रोत्साहित करना है। यह सरकारी स्कूलों या कॉलेजों में 10वीं कक्षा से लेकर स्नातकोत्तर स्तर तक की शिक्षा प्राप्त करने वाले छात्रों को वार्षिक वित्तीय प्रोत्साहन प्रदान करता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रति छात्र ₹3,500/- प्रति वर्ष की वित्तीय सहायता।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को संबंधित सरकारी स्कूल/कॉलेज के प्राचार्य के पास (कार्यालय के समय के दौरान) जाना चाहिए जहां छात्र नामांकित है और विशेष रूप से भरे हुए आवेदन जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को संबंधित सरकारी स्कूल/कॉलेज के प्राचार्य को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "योजना के बारे में विस्तृत जानकारी के लिए, कृपया संपर्क करेंः",
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "संबंधित जिले में सामाजिक न्याय और अधिकारिता विभाग का जिला कार्यालय।"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को (कार्यालय के समय के दौरान) संबंधित सरकारी स्कूल/कॉलेज के प्राचार्य के पास जाना चाहिए जहां छात्र नामांकित है और विशेष रूप से भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। चरण 3: दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को संबंधित सरकारी स्कूल/कॉलेज के प्राचार्य को जमा करें। योजना के बारे में विस्तृत जानकारी के लिए, कृपया संबंधित जिले में सामाजिक न्याय और अधिकारिता विभाग के जिला कार्यालय से संपर्क करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "General"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "EWS"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Female"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Male"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "OBC"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "SC"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "ST"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Transgender"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Widow"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Completed",
+          "score_gte": 60,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": 60,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": 60,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": 48,
+          "score_lte": 100
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्र होना चाहिए। 1. आवेदक के परिवार की वार्षिक आय ₹ 2,00,000-से अधिक नहीं होनी चाहिए। 1. आवेदक को किसी सरकारी स्कूल या कॉलेज में पढ़ रहा होना चाहिए। 1. आवेदक को प्रथम श्रेणी के साथ स्नातक होने के लिए 10वीं कक्षा उत्तीर्ण होना चाहिए। आवेदक को स्नातकोत्तर प्रथम वर्ष में कम से कम 48 प्रतिशत अंक प्राप्त करने चाहिए और अंतिम वर्ष में नामांकित होना चाहिए। 1. आवेदक विशेष पिछड़े वर्ग के समुदायों में से एक होना चाहिएः-बंजारा, बलिया, लाबाना-गडिया-लोहार, गडोलिया-गुर्जर, गुर्जर-रायका, रायबाड़ी (देबासी)",
+      "parentIncomeAnnual": {
+        "gte": 0,
+        "lte": 200000
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक छात्र होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के परिवार की वार्षिक आय ₹ 2,00,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को किसी सरकारी स्कूल या कॉलेज में पढ़ रहा होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 10वीं कक्षा उत्तीर्ण होना चाहिए"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "प्रथम श्रेणी के साथ स्नातक करने के लिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को स्नातकोत्तर प्रथम वर्ष में कम से कम 48 प्रतिशत अंक प्राप्त करने चाहिए और अंतिम वर्ष में नामांकित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को विशेष पिछड़े वर्ग के समुदायों में से एक होना चाहिएः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बंजारा, बलदिया, लाबाना"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गडिया-लोहार, गडोलिया"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गुर्जर, गुर्जर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रायका, रायबाड़ी (देबासी)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "value": "rural",
+          "label": "ग्रामीण"
+        }
+      ],
+      "caste": [
+        {
+          "value": "obc",
+          "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes",
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "General"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "EWS"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Female"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Male"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "OBC"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "SC"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "ST"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Transgender"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Widow"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Completed",
+        "score_gte": 60,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": 60,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": 60,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": 48,
+        "score_lte": 100
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्र होना चाहिए। 1. आवेदक के परिवार की वार्षिक आय ₹ 2,00,000-से अधिक नहीं होनी चाहिए। 1. आवेदक को किसी सरकारी स्कूल या कॉलेज में पढ़ रहा होना चाहिए। 1. आवेदक को प्रथम श्रेणी के साथ स्नातक होने के लिए 10वीं कक्षा उत्तीर्ण होना चाहिए। आवेदक को स्नातकोत्तर प्रथम वर्ष में कम से कम 48 प्रतिशत अंक प्राप्त करने चाहिए और अंतिम वर्ष में नामांकित होना चाहिए। 1. आवेदक विशेष पिछड़े वर्ग के समुदायों में से एक होना चाहिएः-बंजारा, बलिया, लाबाना-गडिया-लोहार, गडोलिया-गुर्जर, गुर्जर-रायका, रायबाड़ी (देबासी)",
+    "parentIncomeAnnual": {
+      "gte": 0,
+      "lte": 200000
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक छात्र होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के परिवार की वार्षिक आय ₹ 2,00,000-से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को किसी सरकारी स्कूल या कॉलेज में पढ़ रहा होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को 10वीं कक्षा उत्तीर्ण होना चाहिए"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "प्रथम श्रेणी के साथ स्नातक करने के लिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को स्नातकोत्तर प्रथम वर्ष में कम से कम 48 प्रतिशत अंक प्राप्त करने चाहिए और अंतिम वर्ष में नामांकित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को विशेष पिछड़े वर्ग के समुदायों में से एक होना चाहिएः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "बंजारा, बलदिया, लाबाना"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "गडिया-लोहार, गडोलिया"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "गुर्जर, गुर्जर"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "रायका, रायबाड़ी (देबासी)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "value": "rural",
+        "label": "ग्रामीण"
+      }
+    ],
+    "caste": [
+      {
+        "value": "obc",
+        "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes",
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Educational Qualification certificates"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of original residence certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of income certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of caste certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport size photograph"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents if required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity proof\n1. Educational Qualification certificates\n1. Copy of original residence certificate\n1. Copy of income certificate\n1. Copy of caste certificate\n1. Jan Aadhaar Card\n1. Passport size photograph\n1. Any other documents if required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक योग्यता प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मूल निवास प्रमाणपत्र की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity proof\n1. Educational Qualification certificates\n1. Copy of original residence certificate\n1. Copy of income certificate\n1. Copy of caste certificate\n1. Jan Aadhaar Card\n1. Passport size photograph\n1. Any other documents if required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students belonging to Special Backward Classes and studying in government institutions in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students belonging to Special Backward Classes and studying in government institutions in Rajasthan.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "What is the financial benefit provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A maximum of ₹3,500 per year."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "A maximum of ₹3,500 per year.\n<br>\n\n"
+        },
+        {
+          "question": "Is this scheme available to postgraduate students?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if they are in the final year and scored at least 48% in the previous year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if they are in the final year and scored at least 48% in the previous year.\n"
+        },
+        {
+          "question": "Is it mandatory to study in a government institution?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, only students in government schools or colleges are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, only students in government schools or colleges are eligible.\n"
+        },
+        {
+          "question": "What is the income limit to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The annual family income must not exceed ₹2,00,000."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The annual family income must not exceed ₹2,00,000.\n"
+        },
+        {
+          "question": "What is the mode of application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application is routed through the Head of the institution to the District Office."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application is routed through the Head of the institution to the District Office.\n<br>\n\n"
+        },
+        {
+          "question": "Can private school students apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only government institution students are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only government institution students are eligible.\n"
+        },
+        {
+          "question": "How often is the incentive given?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Once per academic year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Once per academic year.\n"
+        },
+        {
+          "question": "Whom to contact for queries?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The District Social Justice and Empowerment Office."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Social Justice and Empowerment Office.\n"
+        },
+        {
+          "question": "What is the minimum percentage required?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "First Division from Class 10 to graduation; 48% for postgraduate students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "First Division from Class 10 to graduation; 48% for postgraduate students.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में सरकारी संस्थानों में पढ़ने वाले विशेष पिछड़े वर्गों के छात्र।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students belonging to Special Backward Classes and studying in government institutions in Rajasthan.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या वित्तीय लाभ दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अधिकतम ₹3,500 प्रति वर्ष।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "A maximum of ₹3,500 per year.\n<br>\n\n"
+        },
+        {
+          "question": "क्या यह योजना स्नातकोत्तर छात्रों के लिए उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, अगर वे अंतिम वर्ष में हैं और पिछले वर्ष में कम से कम 48 प्रतिशत अंक प्राप्त किए हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if they are in the final year and scored at least 48% in the previous year.\n"
+        },
+        {
+          "question": "क्या सरकारी संस्थान में पढ़ना अनिवार्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, केवल सरकारी स्कूलों या कॉलेजों के छात्र ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, only students in government schools or colleges are eligible.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वार्षिक पारिवारिक आय ₹ 2,00,000 से अधिक नहीं होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The annual family income must not exceed ₹2,00,000.\n"
+        },
+        {
+          "question": "आवेदन का तरीका क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन संस्थान के प्रमुख के माध्यम से जिला कार्यालय में भेजा जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application is routed through the Head of the institution to the District Office.\n<br>\n\n"
+        },
+        {
+          "question": "क्या निजी विद्यालय के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल सरकारी संस्थान के छात्र ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only government institution students are eligible.\n"
+        },
+        {
+          "question": "प्रोत्साहन कितनी बार दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रति शैक्षणिक वर्ष में एक बार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Once per academic year.\n"
+        },
+        {
+          "question": "पूछताछ के लिए किससे संपर्क करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला सामाजिक न्याय और अधिकारिता कार्यालय।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Social Justice and Empowerment Office.\n"
+        },
+        {
+          "question": "न्यूनतम आवश्यक प्रतिशत क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कक्षा 10 से स्नातक तक प्रथम श्रेणी; स्नातकोत्तर छात्रों के लिए 48 प्रतिशत।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "First Division from Class 10 to graduation; 48% for postgraduate students.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,950 @@
+{
+  "scheme_id": "6498914e481f59106a6e05a4",
+  "slug": "ggay",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-08-01",
+      "schemeCloseDate": "2026-08-01",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000016,
+        "label": "Forest Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Health",
+        "Planting",
+        "Disease-free Life",
+        "Agriculture"
+      ],
+      "schemeName": "Ghar Ghar Aushodhi Yojana",
+      "schemeShortTitle": "GGAY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOR_/GGAY/BeneficiaryPdf_783_34d44cea-Be48-4fb8-8626-Edf6963f9ff9.Pdf"
+        },
+        {
+          "title": "Details-1",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/PhotoVideoGallery/2022/685b4c39-3f42-4fc7-bd46-2b0104e05470.pdf"
+        },
+        {
+          "title": "Details-2",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/783"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state. The state government is planning to implement the scheme to boost the immunity and defense system of the citizens of the state. Under this Rajasthan Ghar Ghar Aushadhi Yojana, medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh will be distributed.\n",
+      "benefits_md": "The main objective of the Rajasthan Ghar Ghar Aushadhi Yojana is to provide medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh to everyone.\n\n1. It aims to promote medicinal plants and their use in daily life\n1. It aims to help people to boost their immunity, lead a healthy and disease-free life\n1. Each family will be provided 24 saplings over a period of 5 years\n1. This Rajasthan Ghar Ghar Aushadhi Yojana will help in boosting a strong defence system which will lead to a good health for all and thus overall development in the state.\n\n",
+      "briefDescription": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state. The state government is planning to implement the scheme to boost the immunity and defense system of the citizens of the state. Under this Rajasthan Ghar Ghar Aushadhi Yojana, medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh will be distributed."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main objective of the Rajasthan Ghar Ghar Aushadhi Yojana is to provide medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh to everyone."
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "It aims to promote medicinal plants and their use in daily life"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "It aims to help people to boost their immunity, lead a healthy and disease-free life"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Each family will be provided 24 saplings over a period of 5 years"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This Rajasthan Ghar Ghar Aushadhi Yojana will help in boosting a strong defence system which will lead to a good health for all and thus overall development in the state."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to contact Nagar Panchayat, Municipal Corporation and Municipality."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Plants will be distributed through Nagar Panchayat, Municipal Corporation and Municipality. These medicinal plants will be given every year before the onset of monsoon."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to get a form and fill it out with the required details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants must have the Jan Aadhaar details to get the benefits."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the form with the required details and documents to the same department. "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicants have to contact Nagar Panchayat, Municipal Corporation and Municipality.\n1. Plants will be distributed through Nagar Panchayat, Municipal Corporation and Municipality. These medicinal plants will be given every year before the onset of monsoon.\n1. Applicants have to get a form and fill it out with the required details.\n1. Applicants must have the Jan Aadhaar details to get the benefits.\n1. Submit the form with the required details and documents to the same department. \n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Applicant must be a native of Rajasthan state.\n1. Should have Jan Aadhaar Card of Rajasthan Government.\n1. Should have enough space to plant.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicant must be a native of Rajasthan state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should have Jan Aadhaar Card of Rajasthan Government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should have enough space to plant."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-08-01",
+      "schemeCloseDate": "2026-08-01",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000016,
+        "label": "वन विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "कृषि निवेश-बीज, उर्वरक आदि।"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "स्वास्थ्य",
+        "रोपण",
+        "रोग मुक्त जीवन",
+        "कृषि"
+      ],
+      "schemeName": "घर घर औषधि योजना",
+      "schemeShortTitle": "GGAY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOR_/GGAY/BeneficiaryPdf_783_34d44cea-Be48-4fb8-8626-Edf6963f9ff9.Pdf"
+        },
+        {
+          "title": "विवरण-1",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/PhotoVideoGallery/2022/685b4c39-3f42-4fc7-bd46-2b0104e05470.pdf"
+        },
+        {
+          "title": "विवरण-2",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/783"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार ने राज्य भर में आयुर्वेदिक और औषधीय जड़ी-बूटियों के उपयोग को बढ़ावा देने के लिए राजस्थान घर घर औषधि योजना नामक एक नई योजना की योजना बनाई है। राज्य सरकार राज्य के नागरिकों की प्रतिरक्षा और रक्षा प्रणाली को बढ़ावा देने के लिए इस योजना को लागू करने की योजना बना रही है। इस राजस्थान घर घर औषधि योजना के तहत तुलसी, अश्वगंधा, गिलोय और कलमेघ जैसे औषधीय पौधों का वितरण किया जाएगा।",
+      "benefits_md": "राजस्थान घर घर औषधि योजना का मुख्य उद्देश्य सभी को तुलसी, अश्वगंधा, गिलोय और कलमेघ जैसे औषधीय पौधे उपलब्ध कराना है। 1. इसका उद्देश्य औषधीय पौधों और दैनिक जीवन में उनके उपयोग को बढ़ावा देना है। इसका उद्देश्य लोगों को अपनी प्रतिरक्षा बढ़ाने, स्वस्थ और रोग मुक्त जीवन जीने में मदद करना है। प्रत्येक परिवार को 5 साल की अवधि में 24 पौधे प्रदान किए जाएंगे। यह राजस्थान घर घर औषधि योजना एक मजबूत रक्षा प्रणाली को बढ़ावा देने में मदद करेगी जिससे सभी के लिए अच्छा स्वास्थ्य होगा और इस प्रकार राज्य में समग्र विकास होगा।",
+      "briefDescription": "राजस्थान सरकार ने राज्य भर में आयुर्वेदिक और औषधीय जड़ी-बूटियों के उपयोग को बढ़ावा देने के लिए राजस्थान घर घर औषधि योजना नामक एक नई योजना की योजना बनाई है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार ने राज्य भर में आयुर्वेदिक और औषधीय जड़ी-बूटियों के उपयोग को बढ़ावा देने के लिए राजस्थान घर घर औषधि योजना नामक एक नई योजना की योजना बनाई है। राज्य सरकार राज्य के नागरिकों की प्रतिरक्षा और रक्षा प्रणाली को बढ़ावा देने के लिए इस योजना को लागू करने की योजना बना रही है। इस राजस्थान घर घर औषधि योजना के तहत तुलसी, अश्वगंधा, गिलोय और कलमेघ जैसे औषधीय पौधों का वितरण किया जाएगा।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान घर घर औषधि योजना का मुख्य उद्देश्य सभी को तुलसी, अश्वगंधा, गिलोय और कलमेघ जैसे औषधीय पौधे उपलब्ध कराना है।"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इसका उद्देश्य औषधीय पौधों और दैनिक जीवन में उनके उपयोग को बढ़ावा देना है"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इसका उद्देश्य लोगों को अपनी प्रतिरक्षा बढ़ाने, स्वस्थ और रोग मुक्त जीवन जीने में मदद करना है"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रत्येक परिवार को 5 वर्षों की अवधि में 24 पौधे प्रदान किए जाएंगे"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह राजस्थान घर घर औषधि योजना एक मजबूत रक्षा प्रणाली को बढ़ावा देने में मदद करेगी जिससे सभी के लिए अच्छा स्वास्थ्य होगा और इस प्रकार राज्य में समग्र विकास होगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदकों को नगर पंचायत, नगर निगम और नगर पालिका से संपर्क करना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पौधें नगर पंचायत, नगर निगम और नगर पालिका के माध्यम से वितरित की जाएंगी। ये औषधीय पौधे हर साल मानसून की शुरुआत से पहले दिए जाएंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदकों को एक फॉर्म प्राप्त करना होगा और इसे आवश्यक विवरणों के साथ भरना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लाभ प्राप्त करने के लिए आवेदकों के पास जन आधार विवरण होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक विवरण और दस्तावेजों के साथ फॉर्म को उसी विभाग में जमा करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदकों को नगर पंचायत, नगर निगम और नगर पालिका से संपर्क करना होगा। 1. पौधें नगर पंचायत, नगर निगम और नगर पालिका के माध्यम से वितरित की जाएंगी। ये औषधीय पौधे हर साल मानसून की शुरुआत से पहले दिए जाएंगे। 1. आवेदकों को एक फॉर्म प्राप्त करना होगा और इसे आवश्यक विवरणों के साथ भरना होगा। 1. लाभ प्राप्त करने के लिए आवेदकों के पास जन आधार विवरण होना चाहिए। 1. आवश्यक विवरण और दस्तावेजों के साथ फॉर्म को उसी विभाग में जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए। 1. राजस्थान सरकार का जन आधार कार्ड होना चाहिए। 1. रोपण के लिए पर्याप्त जगह होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार का जन आधार कार्ड होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पौधरोपण के लिए पर्याप्त जगह होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए। 1. राजस्थान सरकार का जन आधार कार्ड होना चाहिए। 1. रोपण के लिए पर्याप्त जगह होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "राजस्थान सरकार का जन आधार कार्ड होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पौधरोपण के लिए पर्याप्त जगह होनी चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan-Aadhaar ID. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Photograph."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Land Proof."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan-Aadhaar ID. \n1. Photograph.\n1. Land Proof.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन-आधार आईडी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "फोटोग्राफ।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भूमि प्रमाण।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan-Aadhaar ID. \n1. Photograph.\n1. Land Proof.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state.\n"
+        },
+        {
+          "question": "What Are The Benefits Under The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To provide medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh to everyone."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To provide medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh to everyone.\n"
+        },
+        {
+          "question": "Who Can Get The Benefits Of The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicant must be a native of Rajasthan state.  \n2. Should have Jan Aadhaar Card of Rajasthan Government.  \n3. Should have enough space to plant."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant must be a native of Rajasthan state.  \n2. Should have Jan Aadhaar Card of Rajasthan Government.  \n3. Should have enough space to plant.\n"
+        },
+        {
+          "question": "May other state person apply for the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the Applicant must be a native of Rajasthan state."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the Applicant must be a native of Rajasthan state.\n"
+        },
+        {
+          "question": "Is There Any Age Eligibility ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, but the person should be above 18 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, but the person should be above 18 years.\n"
+        },
+        {
+          "question": "Is There Any education Eligibility criteria for the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no such restriction. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no such restriction. \n"
+        },
+        {
+          "question": "What is the application process ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicants have to contact Nagar Panchayat, Municipal Corporation and Municipality. \n2. Plants will be distributed through Nagar Panchayat, Municipal Corporation and Municipality. \n3. Applicants have to get a form and fill it out with the required details. \n4. Applicants must have the Jan Aadhaar details to get the benefits.  \n5. Submit the form with the required details and documents to the same department. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants have to contact Nagar Panchayat, Municipal Corporation and Municipality. \n2. Plants will be distributed through Nagar Panchayat, Municipal Corporation and Municipality. \n3. Applicants have to get a form and fill it out with the required details. \n4. Applicants must have the Jan Aadhaar details to get the benefits.  \n5. Submit the form with the required details and documents to the same department. \n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह क्या योजना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार ने राज्य भर में आयुर्वेदिक और औषधीय जड़ी-बूटियों के उपयोग को बढ़ावा देने के लिए राजस्थान घर घर औषधि योजना नामक एक नई योजना की योजना बनाई है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सभी को तुलसी, अश्वगंधा, गिलोय और कलमेघ जैसे औषधीय पौधे उपलब्ध कराना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To provide medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh to everyone.\n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए। 2. राजस्थान सरकार का जन आधार कार्ड होना चाहिए। 3. रोपण के लिए पर्याप्त जगह होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant must be a native of Rajasthan state.  \n2. Should have Jan Aadhaar Card of Rajasthan Government.  \n3. Should have enough space to plant.\n"
+        },
+        {
+          "question": "क्या राज्य का कोई अन्य व्यक्ति इस योजना के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the Applicant must be a native of Rajasthan state.\n"
+        },
+        {
+          "question": "क्या कोई आयु योग्यता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, लेकिन व्यक्ति की आयु 18 वर्ष से अधिक होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, but the person should be above 18 years.\n"
+        },
+        {
+          "question": "क्या इस योजना के लिए कोई शिक्षा पात्रता मानदंड है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, ऐसी कोई पाबंदी नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no such restriction. \n"
+        },
+        {
+          "question": "आवेदन की प्रक्रिया क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदकों को नगर पंचायत, नगर निगम और नगर पालिका से संपर्क करना होगा। 2. पौधें नगर पंचायत, नगर निगम और नगर पालिका के माध्यम से वितरित की जाएंगी। 3. आवेदकों को एक फॉर्म प्राप्त करना होगा और इसे आवश्यक विवरणों के साथ भरना होगा। 4. लाभ प्राप्त करने के लिए आवेदकों के पास जन आधार विवरण होना चाहिए। 5. आवश्यक विवरण और दस्तावेजों के साथ फॉर्म को उसी विभाग में जमा करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants have to contact Nagar Panchayat, Municipal Corporation and Municipality. \n2. Plants will be distributed through Nagar Panchayat, Municipal Corporation and Municipality. \n3. Applicants have to get a form and fill it out with the required details. \n4. Applicants must have the Jan Aadhaar details to get the benefits.  \n5. Submit the form with the required details and documents to the same department. \n"
+        }
+      ]
+    }
+  }
+}

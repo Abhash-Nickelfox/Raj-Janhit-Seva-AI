@@ -1,0 +1,1182 @@
+{
+  "scheme_id": "6808acdc5b9f421ef9a6f39d",
+  "slug": "fsdfg",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Scooty",
+        "Girl Student",
+        "Economically Weaker Section",
+        "Meritorious Student",
+        "EWS"
+      ],
+      "schemeName": "Free Scooty Distribution for Girls (GEN-CATEGAORY-EWS)",
+      "schemeShortTitle": "FSDFG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "Education (Elementary and Secondary) Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://evaluation.rajasthan.gov.in/scheme/detail/337"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Free Scooty Distribution for Girls&quot; scheme was launched by the Secondary Education Department, Government of Rajasthan in the year 2017-18, aims to encourage meritorious girl students belonging to the economically weaker section of the general category in the state. Under this scheme, meritorious girl students from government and private schools who have scored 85% or above in the Class 10th and 12th (Arts, Commerce, Science streams) examinations are provided with a free scooty, along with a helmet and petrol.\n",
+      "benefits_md": "Under this scheme, Eligible girl students will receive a scooty, a helmet, and 2 liters of petrol.\n",
+      "exclusions_md": "\n- The applicant should not have received a scooty through any other scheme. \n\n",
+      "briefDescription": "Under this scheme, meritorious girl students from government and private schools who have scored 85% or above in the Class 10th and 12th (Arts, Commerce, Science streams) examinations are provided with a free scooty, along with a helmet and petrol.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Free Scooty Distribution for Girls\" scheme was launched by the Secondary Education Department, Government of Rajasthan in the year 2017-18, aims to encourage meritorious girl students belonging to the economically weaker section of the general category in the state. Under this scheme, meritorious girl students from government and private schools who have scored 85% or above in the Class 10th and 12th (Arts, Commerce, Science streams) examinations are provided with a free scooty, along with a helmet and petrol."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under this scheme, Eligible girl students will receive a scooty, a helmet, and 2 liters of petrol."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not have received a scooty through any other scheme. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Application process:",
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://evaluation.rajasthan.gov.in/scheme/detail/337",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks on the application form to download it. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the respective school where the education is completed. "
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application process:***\n**Step 1:** The interested applicant visits the [official website](https://evaluation.rajasthan.gov.in/scheme/detail/337) and clicks on the application form to download it. \n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the respective school where the education is completed. \n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be a girl student. \n1. The applicant should belong to the Economically Weaker Section (EWS) of General Category. \n1. The applicant&#39;s family annual income should not exceed ₹2,50,000/-.\n1. The applicant should have studied in a government or private school in Rajasthan.\n1. The applicant should have secured at least 85% marks in class 10th or 12th. \n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a girl student. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to the Economically Weaker Section (EWS) of General Category. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's family annual income should not exceed ₹2,50,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have studied in a government or private school in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have secured at least 85% marks in class 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " or 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": ". "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "स्कूटी",
+        "छात्रा",
+        "आर्थिक रूप से कमजोर वर्ग",
+        "मेधावी छात्र",
+        "ईडब्ल्यूएस"
+      ],
+      "schemeName": "लड़कियों के लिए मुफ्त स्कूटी वितरण (जनरल-कैटेगरी-ईडब्ल्यूएस)",
+      "schemeShortTitle": "FSDFG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "शिक्षा (प्राथमिक और माध्यमिक) विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://evaluation.rajasthan.gov.in/scheme/detail/337"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "लड़कियों के लिए मुफ्त स्कूटी वितरण योजना राजस्थान सरकार के माध्यमिक शिक्षा विभाग द्वारा वर्ष 2017-18 में शुरू की गई थी, जिसका उद्देश्य राज्य में सामान्य श्रेणी के आर्थिक रूप से कमजोर वर्ग की मेधावी लड़कियों को प्रोत्साहित करना है। इस योजना के तहत सरकारी और निजी स्कूलों की 10वीं और 12वीं (कला, वाणिज्य, विज्ञान स्ट्रीम) की परीक्षाओं में 85 प्रतिशत या उससे अधिक अंक प्राप्त करने वाली मेधावी छात्राओं को हेलमेट और पेट्रोल के साथ एक मुफ्त स्कूटी प्रदान की जाती है।",
+      "benefits_md": "इस योजना के तहत योग्य छात्राओं को एक स्कूटी, एक हेलमेट और 2 लीटर पेट्रोल मिलेगा।",
+      "exclusions_md": "- आवेदक को किसी अन्य योजना के माध्यम से स्कूटी नहीं मिली होनी चाहिए।",
+      "briefDescription": "इस योजना के तहत सरकारी और निजी स्कूलों की 10वीं और 12वीं (कला, वाणिज्य, विज्ञान स्ट्रीम) की परीक्षाओं में 85 प्रतिशत या उससे अधिक अंक प्राप्त करने वाली मेधावी छात्राओं को हेलमेट और पेट्रोल के साथ एक मुफ्त स्कूटी प्रदान की जाती है।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "माध्यमिक शिक्षा विभाग, राजस्थान सरकार द्वारा वर्ष 2017-18 में \"लड़कियों के लिए मुफ्त स्कूटी वितरण\" योजना शुरू की गई थी, जिसका उद्देश्य राज्य में सामान्य श्रेणी के आर्थिक रूप से कमजोर वर्ग की मेधावी लड़कियों को प्रोत्साहित करना है। इस योजना के तहत सरकारी और निजी स्कूलों की 10वीं और 12वीं (कला, वाणिज्य, विज्ञान स्ट्रीम) की परीक्षाओं में 85 प्रतिशत या उससे अधिक अंक प्राप्त करने वाली मेधावी छात्राओं को हेलमेट और पेट्रोल के साथ एक मुफ्त स्कूटी प्रदान की जाती है।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना के तहत योग्य छात्राओं को एक स्कूटी, एक हेलमेट और 2 लीटर पेट्रोल मिलेगा।"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को किसी अन्य योजना के माध्यम से स्कूटी प्राप्त नहीं होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "आवेदन प्रक्रियाः",
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 1:"
+              },
+              {
+                "text": "इच्छुक आवेदक दौरा करता है"
+              },
+              {
+                "type": "link",
+                "link": "https://evaluation.rajasthan.gov.in/scheme/detail/337",
+                "children": [
+                  {
+                    "text": "आधिकारिक वेबसाइट"
+                  }
+                ]
+              },
+              {
+                "text": "और इसे डाउनलोड करने के लिए आवेदन पत्र पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को संबंधित स्कूल में जमा करें जहां शिक्षा पूरी हो चुकी है।"
+              }
+            ]
+          }
+        ],
+        "process_md": "* * * आवेदन प्रक्रियाः * * * * * चरण 1: * * इच्छुक आवेदक [आधिकारिक वेबसाइट] (https://evaluation.rajasthan.gov.in/scheme/detail/337) पर जाता है और इसे डाउनलोड करने के लिए आवेदन पत्र पर क्लिक करता है। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)। चरण 3: दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को संबंधित स्कूल में जमा करें जहां शिक्षा पूरी हो चुकी है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "ews",
+          "gte": 11,
+          "lte": 21
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Completed",
+          "score_gte": 85,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Completed",
+          "score_gte": 85,
+          "score_lte": 100
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": 250000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्रा होनी चाहिए। 1. आवेदक को सामान्य श्रेणी के आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित होना चाहिए। 1. आवेदक के परिवार की वार्षिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए। 1. आवेदक को राजस्थान के किसी सरकारी या निजी स्कूल में पढ़ा होना चाहिए। 1. आवेदक को 10वीं या 12वीं कक्षा में कम से कम 85 प्रतिशत अंक प्राप्त करने चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक छात्रा होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को सामान्य श्रेणी के आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के परिवार की वार्षिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान के किसी सरकारी या निजी स्कूल में पढ़ा होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को कक्षा 10 में कम से कम 85 प्रतिशत अंक प्राप्त होने चाहिए"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "या 12"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "general",
+          "label": "जनरल"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "ews",
+        "gte": 11,
+        "lte": 21
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Completed",
+        "score_gte": 85,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Completed",
+        "score_gte": 85,
+        "score_lte": 100
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": 250000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्रा होनी चाहिए। 1. आवेदक को सामान्य श्रेणी के आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित होना चाहिए। 1. आवेदक के परिवार की वार्षिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए। 1. आवेदक को राजस्थान के किसी सरकारी या निजी स्कूल में पढ़ा होना चाहिए। 1. आवेदक को 10वीं या 12वीं कक्षा में कम से कम 85 प्रतिशत अंक प्राप्त करने चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक छात्रा होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को सामान्य श्रेणी के आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के परिवार की वार्षिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान के किसी सरकारी या निजी स्कूल में पढ़ा होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को कक्षा 10 में कम से कम 85 प्रतिशत अंक प्राप्त होने चाहिए"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "या 12"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "general",
+        "label": "जनरल"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport-size Photo (A seal on the verified photo of the student by the school principal)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth Certificate (Self-certified secondary examination certificate)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate (Self-certified copy issued by the competent authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10th Marksheet (Education Qualification Marksheet/Certificate Copy)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "12th Marksheet (Education Qualification Marksheet/Certificate Copy)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate/EWS Certificate (Self-certified copy issued by the competent authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate Copy (Self-certified copy issued by the competent authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy (Scooty not receive certificate in any other scheme)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo (A seal on the verified photo of the student by the school principal)\n1. Birth Certificate (Self-certified secondary examination certificate)\n1. Domicile Certificate (Self-certified copy issued by the competent authority)\n1. 10th Marksheet (Education Qualification Marksheet/Certificate Copy)\n1. 12th Marksheet (Education Qualification Marksheet/Certificate Copy)\n1. Caste Certificate/EWS Certificate (Self-certified copy issued by the competent authority)\n1. Income Certificate Copy (Self-certified copy issued by the competent authority)\n1. Jan Aadhar/Bhamashah Card Copy (Scooty not receive certificate in any other scheme)\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर (स्कूल के प्रिंसिपल द्वारा छात्र की सत्यापित तस्वीर पर एक मुहर)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र (स्व-प्रमाणित माध्यमिक परीक्षा प्रमाण पत्र)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र (सक्षम प्राधिकारी द्वारा जारी स्व-प्रमाणित प्रति)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10वीं मार्कशीट (शिक्षा योग्यता मार्कशीट/प्रमाण पत्र की प्रति)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "12वीं मार्कशीट (शिक्षा योग्यता मार्कशीट/प्रमाण पत्र की प्रति)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र/ई. डब्ल्यू. एस. प्रमाण पत्र (सक्षम प्राधिकारी द्वारा जारी स्व-प्रमाणित प्रति)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र प्रतिलिपि (सक्षम प्राधिकारी द्वारा जारी स्व-प्रमाणित प्रतिलिपि)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रति (स्कूटी को किसी अन्य योजना में प्रमाण पत्र नहीं मिलता है)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo (A seal on the verified photo of the student by the school principal)\n1. Birth Certificate (Self-certified secondary examination certificate)\n1. Domicile Certificate (Self-certified copy issued by the competent authority)\n1. 10th Marksheet (Education Qualification Marksheet/Certificate Copy)\n1. 12th Marksheet (Education Qualification Marksheet/Certificate Copy)\n1. Caste Certificate/EWS Certificate (Self-certified copy issued by the competent authority)\n1. Income Certificate Copy (Self-certified copy issued by the competent authority)\n1. Jan Aadhar/Bhamashah Card Copy (Scooty not receive certificate in any other scheme)\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the Free Scooty Distribution scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Girls from the general category who belong to the EWS group and have scored above the cut-off marks in class 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " or 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girls from the general category who belong to the EWS group and have scored above the cut-off marks in class 10th or 12th are eligible.\n"
+        },
+        {
+          "question": "What is the income limit for applying under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The family income of the applicant must be less than ₹2,50,000 per year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The family income of the applicant must be less than ₹2,50,000 per year.\n"
+        },
+        {
+          "question": "What are the benefits provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Selected beneficiaries receive a scooty, helmet, and 2 litres of petrol."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selected beneficiaries receive a scooty, helmet, and 2 litres of petrol.\n"
+        },
+        {
+          "question": "Is this scheme applicable to students of private schools also?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, it is applicable to both government and private school students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, it is applicable to both government and private school students.\n"
+        },
+        {
+          "question": "Can I apply if I already received a scooty under another government scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, such applicants are excluded from this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, such applicants are excluded from this scheme.\n"
+        },
+        {
+          "question": "What is the mode of application for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application is submitted offline at the respective school."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application is submitted offline at the respective school.\n"
+        },
+        {
+          "question": "Is there any application fee for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the application form is free of cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application form is free of cost.\n"
+        },
+        {
+          "question": "How long does it take to receive the scooty after application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scooty is distributed within 45 days of the selection process."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scooty is distributed within 45 days of the selection process.\n"
+        },
+        {
+          "question": "Who is the designated authority for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The District Education Officer (DEO) is responsible for implementation."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Education Officer (DEO) is responsible for implementation.\n"
+        },
+        {
+          "question": "Will I receive any monetary assistance under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scheme provides physical items (scooty, helmet, petrol) only."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme provides physical items (scooty, helmet, petrol) only.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "मुफ्त स्कूटी वितरण योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामान्य श्रेणी की लड़कियां जो ई. डब्ल्यू. एस. समूह से संबंधित हैं और जिन्होंने कक्षा 10 में कट-ऑफ अंकों से अधिक अंक प्राप्त किए हैं"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "या 12"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girls from the general category who belong to the EWS group and have scored above the cut-off marks in class 10th or 12th are eligible.\n"
+        },
+        {
+          "question": "इस योजना के तहत आवेदन करने के लिए आय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक की पारिवारिक आय प्रति वर्ष ₹ 2,50,000 से कम होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The family income of the applicant must be less than ₹2,50,000 per year.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ दिए जाते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "चयनित लाभार्थियों को एक स्कूटी, हेलमेट और 2 लीटर पेट्रोल मिलता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selected beneficiaries receive a scooty, helmet, and 2 litres of petrol.\n"
+        },
+        {
+          "question": "क्या यह योजना निजी स्कूलों के छात्रों पर भी लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यह सरकारी और निजी दोनों स्कूलों के छात्रों पर लागू होता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, it is applicable to both government and private school students.\n"
+        },
+        {
+          "question": "अगर मुझे पहले से ही किसी अन्य सरकारी योजना के तहत स्कूटी मिल गई है तो क्या मैं आवेदन कर सकता हूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, ऐसे आवेदकों को इस योजना से बाहर रखा गया है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, such applicants are excluded from this scheme.\n"
+        },
+        {
+          "question": "इस योजना के लिए आवेदन का तरीका क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन संबंधित विद्यालय में ऑफ़लाइन जमा किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application is submitted offline at the respective school.\n"
+        },
+        {
+          "question": "क्या इस योजना के लिए कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन पत्र निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application form is free of cost.\n"
+        },
+        {
+          "question": "आवेदन के बाद स्कूटी प्राप्त करने में कितना समय लगता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "चयन प्रक्रिया के 45 दिनों के भीतर स्कूटी वितरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scooty is distributed within 45 days of the selection process.\n"
+        },
+        {
+          "question": "इस योजना के लिए नामित प्राधिकारी कौन है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला शिक्षा अधिकारी (डी. ई. ओ.) कार्यान्वयन के लिए जिम्मेदार है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Education Officer (DEO) is responsible for implementation.\n"
+        },
+        {
+          "question": "क्या मुझे इस योजना के तहत कोई आर्थिक सहायता मिलेगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना केवल भौतिक वस्तुओं (स्कूटी, हेलमेट, पेट्रोल) प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme provides physical items (scooty, helmet, petrol) only.\n"
+        }
+      ]
+    }
+  }
+}

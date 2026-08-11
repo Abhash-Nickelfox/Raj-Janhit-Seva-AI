@@ -1,0 +1,3554 @@
+[
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "RCMRF-MH",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Health & Wellness"
+    ],
+    "schemeName": "Rajasthan Chief Minister's Relief Fund - Medical Help",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "rcmrf-mh",
+    "briefDescription": "Rajasthan Chief Minister’s Relief Fund – medical help scheme launched on April 1999 under Chief Minister’s Relief Fund in Rajasthan for Individual for Non BPL whose family income should be at least 2lakhs per annum.",
+    "tags": [
+      "Medical Help",
+      "Non BPL",
+      "Relief Fund",
+      "Rajasthan Scheme",
+      "Hospital"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "CMENSPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "schemeName": "Chief Minister Ekal Nari Samman Pension Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cmenspy",
+    "briefDescription": "The Rajasthan State government started the \"Chief Minister Ekal Nari Samman Pension Yojana\" scheme for women's support and empowerment. ",
+    "tags": [
+      "Financial Assistance",
+      "Empowerment",
+      "Social Welfare"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SFSA",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Scheme For Study In Abroad",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "sfsa",
+    "briefDescription": "In the year 2010-11, Rajasthan Government has taken the initiative to encourage girl child education by starting a scheme to Study Abroad. ",
+    "tags": [
+      "Financial Assistance",
+      "Higher Education",
+      "Empowerment",
+      "Social Welfare"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DPMSC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Devnarayan Pre-Matric Scholarship Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dpmsc",
+    "briefDescription": "In Rajasthan, the Pre-Matriculation scholarship scheme is run by the Department of Social Justice and Empowerment for the educational upliftment of Very Backward Class students.",
+    "tags": [
+      "Education",
+      "Scholarship",
+      "Financial Assistance",
+      "Student"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ITG",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment",
+      "Women and Child"
+    ],
+    "schemeName": "Incentive To Girls",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "itg",
+    "briefDescription": "Rajasthan State started a scheme \"Incentive for Girls\" for state students.",
+    "tags": [
+      "Financial Assistance",
+      "Girl Education",
+      "Empowerment",
+      "Higher Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "WBEDRJ",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Widow B.Ed Scheme-Rajasthan",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "wbedrj",
+    "briefDescription": "In 2015-16, Rajasthan State started the \"Widow B.Ed Scheme\" for Widow/abandoned women. ",
+    "tags": [
+      "Student",
+      "Empowerment",
+      "Higher Education",
+      "Abandoned Women"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "IMSUPYR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Women and Child"
+    ],
+    "schemeName": " Indira Mahila Shakti Udyam Protsahan Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "imspesy",
+    "briefDescription": "This scheme launched by the Rajasthan government to empower women by providing them with loans and other financial assistance to start or expand their businesses",
+    "tags": [
+      "Women",
+      "Empowerment",
+      "Development",
+      "Motivaction"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NSATSY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "schemeName": "Nirman Shramik Auzaar Toolkit Sahayata Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "nsatsy",
+    "briefDescription": "The NIRMAN SHRAMIK AUZAAR TOOLKIT SAHAYATA YOJANA is a social welfare scheme launched by the Government of Jharkhand to provide financial assistance to registered construction workers in the state for the purchase of essential tools and equipment required for their work.",
+    "tags": [
+      "Finance",
+      "Labor",
+      "Tools",
+      "Empower"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NSUAB",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Nirman Shramik Avm Unke Aashrit Bacchon Dwara Bhartiya Rajasthan Prashasnik Seva Hetu Aayojit Pratibhabhik Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "nsauabdbrpshapy",
+    "briefDescription": "The Labor department of Rajasthan started \"Nirman Shramik Avm Unke Aashrit Bacchon Dwara Bhartiya Rajasthan Prashasnik Seva Hetu Aayojit Pratibhabhik Yojana\" to help the children of construction workers.",
+    "tags": [
+      "Construction Worker",
+      "Child Education",
+      "Higher Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NSVRP",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "schemeName": "Nirman Shramikon ke Liye Vyavsayik Rin Par Byaj ki Punarbharan Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "nsklvrpbkpy",
+    "briefDescription": "The \"Nirman Shramik Rin Punarbharan Yojana\" helps construction workers by reimbursing interest on their business loans. This program aims to ease the financial burden of construction workers by reducing their loan interest payments.",
+    "tags": [
+      "Loan",
+      "Construction Worker",
+      "Financial Support"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "IMSPEKSYRC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Women and Child",
+      "Education & Learning"
+    ],
+    "schemeName": "Indira Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna -RS-CIT",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "imspeksyrc",
+    "briefDescription": "The objective of Indira Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna is to provide empowerment to the girls and women of the state in the field of computers by providing free computer courses to them.",
+    "tags": [
+      "Computer",
+      "Education",
+      "Training",
+      "Empowered"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SLSVKP",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "slesvkspy",
+    "briefDescription": "The Rajasthan government's Social Justice and Empowerment Department launched the \"Suraksha Laghu Evan Seemaant Vrddhajan Krshak Sammaan Penshan Yojana\" program, a social welfare initiative that aims to improve the lives by providing them with monthly financial assistance. ",
+    "tags": [
+      "Pension",
+      "Old Age",
+      "Financial Assistance",
+      "Social Welfare"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "KY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Krishi Yantra",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ky",
+    "briefDescription": "In the Krishi Yantra scheme, the farmer purchases farming-related equipment from an authorized dealer, then the state government gives a subsidy to the farmers.",
+    "tags": [
+      "Farming",
+      "Farmer",
+      "Equipment",
+      "Development"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "WIT",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Walk In Tunnel",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "wit",
+    "briefDescription": "Under the Walk-In Tunnel, the Rajasthan government provides the benefit of a subsidy to the farmers with affordable and efficient structures that offer protection from adverse weather conditions, pests, and diseases.",
+    "tags": [
+      "Walk In Tunnel",
+      "Crops",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ABN",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Anti Bird Net",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "abn",
+    "briefDescription": "Under the Anti Bird Net Birds will never leave your garden if they are used to pecking on certain trees and plants, but if you install anti-bird nets at the appropriate places, you can prevent them from coming again to peck your plants.",
+    "tags": [
+      "Farmer",
+      "Anti Bird Net",
+      "Farming",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "TUK-SEPT",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Business & Entrepreneurship",
+      "Skills & Employment"
+    ],
+    "schemeName": "Transgender Utthan Kosh - Self Employment Programme for Transgender",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "tuk-sept",
+    "briefDescription": "The scheme objective is to provide financial assistance to transgender individuals for self-employment/business establishment. Eligible beneficiaries can receive up to ₹50,000/- or 25% of the project cost.",
+    "tags": [
+      "Self-employment",
+      "Business",
+      "Transgender",
+      "Financial Assistance",
+      "Loan"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "TUK-TPT",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Skills & Employment"
+    ],
+    "schemeName": "Transgender Utthan Kosh - Training Programme for Transgender",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "tuk-tpt",
+    "briefDescription": "The scheme aims to support the socio-economic development of transgender individuals by providing financial assistance, skill training, and employment opportunities.",
+    "tags": [
+      "Financial Assistance",
+      "Skill Training",
+      "Employment Opportunity",
+      "Transgender",
+      "Skill Development",
+      "Vocational Training",
+      "Technical Training"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "AIS-SC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Ambedkar International Scholarship - SC",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ais-sc",
+    "briefDescription": "The \"Ambedkar International Scholarship - SC\" Scheme by the Rajasthan Social Justice and Empowerment Department provides financial assistance to meritorious SC students for pursuing Ph.D. studies in foreign universities in Humanities and Social Sciences.",
+    "tags": [
+      "Financial Assistance",
+      "PhD",
+      "Student",
+      "Scheduled Caste",
+      "International"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "AFACPECP",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "pmsscpecp",
+    "briefDescription": "This scheme aims to provide additional financial assistance of ₹500/- per month to children of individuals working in cleaning/sanitation profession. This assistance is given to students already receiving a scholarship under Post-Matric Scholarship Scheme, ensuring their continued education.",
+    "tags": [
+      "Scholarship",
+      "Post-Matric",
+      "Sanitation Worker",
+      "Scavenger",
+      "Student"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "TUK-CHTERTS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Transgender Utthan Kosh - College/Higher/Technical Educational Fees Refund for Transgender Students",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "tuk-chterts",
+    "briefDescription": "The scheme aims to promote higher and technical education among transgender individuals by providing financial assistance for their educational expenses. Under this scheme, transgender students receive a refund of their school, college, higher, or technical education fees.",
+    "tags": [
+      "Transgender",
+      "Educational Fees",
+      "Reimbursement Of Fees",
+      "Higher Education",
+      "Technical Education",
+      "Student"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SCESVTE",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Scholarship for Children of Ex-Servicemen for Vocational and Technical Education",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "sseces",
+    "briefDescription": "Under this scheme, a scholarship of ₹15,000 per year is provided to the children of ex-servicemen, from the rank of Sepoy to Havildar, who are pursuing vocational & technical education & have not received scholarship assistance under the Prime Minister's Scholarship Scheme or from any other source.",
+    "tags": [
+      "Scholarship",
+      "Student",
+      "Vocational Education",
+      "Ex-servicemen",
+      "Technical Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ABY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Aapki Beti Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "aby",
+    "briefDescription": "Under the scheme, financial assistance of ₹2,100/- per year is provided to girls studying in Class 1 to 8 in government schools, belonging to families living below the poverty line (BPL) and whose both or one parent has passed away. Girls studying in Class 9 to 12 receive ₹2,500/- per year.",
+    "tags": [
+      "Financial Assistance",
+      "Girl Student",
+      "BPL",
+      "Below Poverty Line",
+      "Daughter"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "RPKPCY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Rajya Pratibha Khoj Pariksha Chhatravriti Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "rpkpcy",
+    "briefDescription": "Under this scheme, students are provided with scholarships or a one-time incentive for pursuing education up to the postgraduate level, after being selected through the State Talent Search Examination organized by the Board of Secondary Education Rajasthan, Ajmer.",
+    "tags": [
+      "Scholarship",
+      "Student",
+      "Talent Search",
+      "Secondary Education",
+      "Higher Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "RVPSY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Rajasthan Varishth Patrakar Samman Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "rsajsy",
+    "briefDescription": "Under this scheme, a monthly financial assistance of ₹15,000/- is provided to full-time accredited journalists who are 60 years of age or older & have served continuously for at least 20 years in daily, weekly, fortnightly newspapers, independent publications, electronic media, or news agencies.",
+    "tags": [
+      "Financial Assistance",
+      "Journalist",
+      "Senior Citizen",
+      "Honorarium"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "LPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Women and Child"
+    ],
+    "schemeName": "Laado Protsahan Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "lpy",
+    "briefDescription": "The scheme aims to encourage the birth of girl children in poor families and promote their holistic development. Under this scheme, financial support ₹1,50,000/- is provided in seven installments to the parents or guardians of girls born in Government/authorized Medical Institutions.",
+    "tags": [
+      "Financial Assistance",
+      "Maternity",
+      "Childcare",
+      "Girl Child",
+      "Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "OSH",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Sports & Culture",
+      "Housing & Shelter"
+    ],
+    "schemeName": "Operation of Sports Hostels",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "osh",
+    "briefDescription": "The scheme aims to encourage tribal students to participate in sports and prepare them for national & international competitions. Tribal students from Classes 6 to 12 are provided with free accommodation, specialized training, nutritious meals & other necessary facilities in the sports hostels.",
+    "tags": [
+      "Hostel",
+      "Scheduled Tribe",
+      "Sports Training",
+      "Sports",
+      "Tribal Students"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ASFRFEVCSEA",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Skills & Employment"
+    ],
+    "schemeName": "Assistance Scheme For Reimbursement For Expenditure On Visa By Construction Workers For Employment Abroad",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "asfrfevcsea",
+    "briefDescription": "This scheme will be called \"Reimbursement of expenditure incurred on visa for employment abroad to construction workers\". The purpose of this scheme is to provide assistance to the registered beneficiaries employed in building and other construction works for better employment opportunities.",
+    "tags": [
+      "Construction Worker",
+      "Employment",
+      "VISA",
+      "Abroad",
+      "Assistance"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NSAKPPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Sports & Culture"
+    ],
+    "schemeName": "Nirman Shramik Antrashtriya Khel Pratiyogiyo Hetu Protsahan Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "nsakppy",
+    "briefDescription": "The purpose of the Nirman Shramik Antrashtriya Khel Pratiyogiyo Hetu Protsahan Yojana is to encourage people employed in Labour Department building, other construction works to participate in international sports by providing them incentives for participating and excelling in international sports.",
+    "tags": [
+      "Sports Scheme",
+      "International Sports",
+      "Construction Worker",
+      "Competition",
+      "Participation"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "YIP",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Young Interns Program",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "yip",
+    "briefDescription": "The Young Interns Program (YIP) is an internship program, envisaged by the Government of Rajasthan, for providing opportunities for talented and progressive youth to upgrade their skills by gaining practical experience working in programs, schemes and projects of the government departments.",
+    "tags": [
+      "Internship",
+      "Education",
+      "Student",
+      "Government"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "STPMSC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Schedule Tribe Pre-Metric Scholarship Class 06 To 08",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "stpmsc",
+    "briefDescription": "In the year 1984, Rajasthan Government started a scholarship to encourage the education of the Schedule Tribe.",
+    "tags": [
+      "Financial Assistance",
+      "Learning",
+      "Student Finance",
+      "Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ISSFB",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Incentive To Saharia Students For B.Ed",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "issfb",
+    "briefDescription": "In Rajasthan, \"Incentive To Saharia Students For B.Ed\" scheme is run by the \"Tribal Area Development Department\" from 2004-05. ",
+    "tags": [
+      "Education",
+      "Student",
+      "Financial Assistane",
+      "Higher Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SCPMSC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Schedule Caste Pre-Metric Scholarship Class 06 To 08",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "scpmsc",
+    "briefDescription": "In the year 1998, Rajasthan Government started a scholarship to encourage the education of Schedule Cast.",
+    "tags": [
+      "Financial Assitance",
+      "Education",
+      "Empowerment",
+      "Encourage"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NSSKVY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Nirman Shramik Siksha Kaushal Vikas Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "nsskvy",
+    "briefDescription": "The NIRMAN SHRAMIK SIKSHA KAUSHAL VIKAS YOJANA (NSKKVY) is a scheme launched by the Government of Rajasthan to provide financial assistance for education and skill development to the children of registered construction workers in the state.",
+    "tags": [
+      "Student",
+      "Education",
+      "Financial",
+      "Scholarships"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": " VVUY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Vidhva Vivah Uphar Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "vvuy",
+    "briefDescription": "The Rajasthan government's Social Justice and Empowerment Department launched the \"Vidhva Vivah Uphar Yojana\" program, a social welfare initiative that aims to improve the lives of widow women. ",
+    "tags": [
+      "Women",
+      "Widow",
+      "Financial Assistance",
+      "Marriage"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FPKTNK",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Farm Pond (Khet Talai) Nirman Karyakram",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "fpktnk",
+    "briefDescription": "Under the Farm Pond (Khet Talaee) Nirmaan Kaaryakram scheme provied to help the farmers of Rajasthan to collect rain water and use it for irrigation purposes so that the farmers can get sufficient water for irrigation in their fields.",
+    "tags": [
+      "Water Shortage",
+      "Farmer",
+      "Financial Assistance",
+      "Development"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "IMSPEKSYRCR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Indira Mahila Shakti Prashikshan Evam Koshal Sanvardhan Yojana (RS-CSEP)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "imspeksyrcr",
+    "briefDescription": "The Indira Mahila Shakti Prashikshan Evam Koshal Sanvardhan Yojana, offered by the Rajasthan Knowledge Corporation Limited (RKCL), provides free training in spoken English and personality development for women and girls.",
+    "tags": [
+      "Education",
+      "Learning",
+      "Women",
+      "Development"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MWFH",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Women and Child"
+    ],
+    "schemeName": "Mukhyamantri Work Form Home-Job Work Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mwfhjwy",
+    "briefDescription": "The main objective of the \"Mukhyamantri Work from Home\" Scheme is to provide an opportunity for the women of the state to get employment sitting at home and to empower women by providing them with financial help by giving them work. ",
+    "tags": [
+      "Women",
+      "Work From Home",
+      "Empower",
+      "Employment"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Diggy",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dr",
+    "briefDescription": "Rajasthan Government has started the Diggy Scheme for the welfare of farmers, under which farmers will be provided grants for making dig for irrigation of crops. This scheme is to help farmers improve their farming by using more water resources and encourage them to grow good crops.",
+    "tags": [
+      "Farming",
+      "Farmer",
+      "Development"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MSS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Mini Sprinkler Sanyantr",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mss",
+    "briefDescription": "The Mini Sprinkler Sanyantr scheme provided a subsidy to the farmers can irrigate more land by getting sprinkler subsidy. The subsidy given by the state government to the farmers will be sent directly to their bank account through DBT.",
+    "tags": [
+      "Farmer",
+      "Mini Sprinkler Sanyantr",
+      "Farming",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "GH",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Green House",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "gh",
+    "briefDescription": "Under the Green House Scheme Farmers can get the benefit of subsidy on green house and earn more income by cultivating horticultural crops like vegetables, flowers, fruits etc. by controlling the ago-climatic factors, temperature, humidity and sunlight.",
+    "tags": [
+      "Farmer",
+      "Horticultural",
+      "Crops"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "KKY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Kisan Kaleva Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "kky",
+    "briefDescription": "Under the Kisan Kaleva Scheme run by the Rajasthan Government, food is provided at concessional rates through coupons to the farmers and their assistants who come to sell crops in the vegetable market premises.",
+    "tags": [
+      "Food",
+      "Farmer",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "KLPBS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Kam Lagat Pyaaj Bhandaran Sanrachna",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "klpbs",
+    "briefDescription": "Under the Kam Lagat Pyaaj Bhandaran Sanrachna yojana Construction of warehouses should be done at a high level to prevent moisture and dampness which occur due to direct contact of onions with soil.",
+    "tags": [
+      "Farmer",
+      "Agriculture",
+      "Farming",
+      "Vegetables"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NFBKS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Naye Fal Bagicho Ki Sthapana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "nfbks",
+    "briefDescription": "Under the \"Naye Fal Bagecho Ki Sthapana\" subsidies to Increase farmers' income by facilitating the cultivation of high-value fruit crops that have a potentially higher market demand and profitability compared to traditional crops.",
+    "tags": [
+      "Farmer",
+      "Garden",
+      "Fruits",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "CKLPR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment",
+      "Education & Learning"
+    ],
+    "schemeName": "Chhatraon Ke Liye Protsahan Rashi",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cklpr",
+    "briefDescription": "In the \"Chhatraon Ke Liye Protsahan Rashi\" scheme to encourages girl students to study agriculture subject and provides financial assistance to economically disadvantaged students who may face challenges in accessing education due to financial constraints.",
+    "tags": [
+      "Education",
+      "Girl",
+      "Child Development",
+      "Financial"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MJPMSKY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana ",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mjpmsky",
+    "briefDescription": "The Agriculture Department of Rajasthan runs the Mahatma Jyotiba Phule Mandi Shramik Kalyan Yojana, a program that offers a range of assistance programs to improve the well-being of mandi laborers.",
+    "tags": [
+      "Farmer",
+      "Agriculture",
+      "Financial Support"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "TUK-ICT",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Transgender Utthan Kosh – Identity Card for Transgender",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "tufs",
+    "briefDescription": "This scheme aims to identify transgender persons and issuing identity cards to them. This certificate/identity card will be valid for all government purposes, including obtaining a ration card, Aadhaar card, birth certificate, etc.",
+    "tags": [
+      "Identity Card",
+      "Transgender",
+      "Citizen Empowerment"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "AFS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Ambedkar Fellowship Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "afs-sc",
+    "briefDescription": "The objective of this scheme is to provide financial assistance to meritorious students from the Scheduled Caste category for research at the Ph.D. level. The selected students receive a monthly fellowship grant to support their research in specific subjects.",
+    "tags": [
+      "Student",
+      "Fellowship",
+      "PhD",
+      "Scheduled Caste",
+      "SC"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DCCS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Devnarayan Chhatra Cycle Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dccs",
+    "briefDescription": "The scheme provides free bicycles to girl students studying in Class 9 in government schools of Rajasthan who belong to the Special Backward Classes or specific communities such as Banjara, Baldia, Labana-Gadiya Lohar, Gadolia, Gujar Gurjar, Raiko, Rebari (Debasi).",
+    "tags": [
+      "Cycle",
+      "Special Backward Classes",
+      "Girl",
+      "Student",
+      "Free Bicycle"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MMVYSY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Business & Entrepreneurship"
+    ],
+    "schemeName": "Mukhyamantri Vishesh Yogyajan Swaraozgar Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mmvyjsy",
+    "briefDescription": "The scheme aims to provide financial assistance to specially-abled individuals for self-employment. Under this scheme, a loan of ₹5,00,000/- will be provided to specially-abled individuals in the state whose annual family income does not exceed ₹2,00,000/-, enabling them to start their own business.",
+    "tags": [
+      "Financial Assistance",
+      "Self-employment",
+      "Loan",
+      "Person With Disability",
+      "Business"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FATBDDDMCESD",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Health & Wellness"
+    ],
+    "schemeName": "Financial Assistance for the Treatment of Blind, Disabled, Deaf, Dumb, or Mentally Challenged Ex-Servicemen and their Dependents (Wife and Children)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "faafbdmmresf",
+    "briefDescription": "The scheme aims to provide monthly financial assistance for the treatment of ex-servicemen and their dependents (wife & children) who have a disability of 40% or more and are suffering from serious illnesses such as cancer, leprosy, tuberculosis, kidney and cardiac ailments, paralysis, etc.",
+    "tags": [
+      "Financial Assistance",
+      "Medical Treatment",
+      "Person With Disability",
+      "Ex-Servicemen",
+      "Illness",
+      "PwD"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "WWIIP",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "World War II Pension",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "wwiip",
+    "briefDescription": "The aim of the scheme is to provide lifelong financial assistance of ₹15,000/- per month as a measure of relief to World War II ex-servicemen and their widows who are not receiving any pension or financial assistance from any other source.",
+    "tags": [
+      "Pension",
+      "World War",
+      "Ex-servicemen",
+      "Widow",
+      "Sainik"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "CAESTSS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Sports & Culture"
+    ],
+    "schemeName": "Cash Amount for Encouraging Scheduled Tribe Sportsperson Students",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cifestss",
+    "briefDescription": "Under this scheme, cash awards, certificates, and mementos are provided as a form of encouragement to Scheduled Tribe  sportsperson students who secure the top three positions in national and international sports events.",
+    "tags": [
+      "Scheduled Tribe",
+      "Sportspersons",
+      "Incentive",
+      "Student",
+      "Sports Training",
+      "Tribal"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FBDSVGAC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Free Bicycle Distribution to Students of Vimukt, Ghumantu and Ardhghumantu Communities",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "fbdsvgac",
+    "briefDescription": "The scheme aims to provide free cycles to students studying in classes 6th to 11th in government and recognized private educational institutions and belonging to Denotified Tribes, Nomadic and Semi-Nomadic Tribes communities of Rajasthan.",
+    "tags": [
+      "Bicycle",
+      "Student",
+      "Denotified Tribes",
+      "Nomadic Tribes",
+      "Semi Nomadic Tribes"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "GPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Gargi Puruskar Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "gpy",
+    "briefDescription": "The benefit of Gargi Puraskar Yojana is given every year to the beneficiary girl child of Rajasthan on the day of Basant Panchami. This time also the beneficiary girl students were taken on a tour of the girl students on the occasion of Basant Panchami very year.\n\n\n",
+    "tags": [
+      "Financial Assistance",
+      "Scholarship",
+      "Girl Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DGYR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Devnarayan Gurukul Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dgyr",
+    "briefDescription": "The scheme aims to provide free residential education to students from Special Backward Classes. Under this scheme, selected students receive free education, accommodation, meals, uniforms, books, and study materials in government-approved schools.",
+    "tags": [
+      "Student",
+      "Special Backward Classes",
+      "Free Book",
+      "Free Education",
+      "Free Uniform"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "Cec",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Competitive Exam Coaching",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cec",
+    "briefDescription": "Competitive exam Coaching for tribal students scheme was launched in Rajasthan by Tribal Area Development Department in the year 2016-17, under which free coaching to tribal students for competitive examinations through Mankyi Lal Verma Tribal Research and Training Institute, Udaipur is provided.",
+    "tags": [
+      "Students",
+      "Scheduled Tribe",
+      "Rajasthan",
+      "Free Coaching"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NJCFTS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "NEET/JEE Coaching For Tribal Students",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "njcfts",
+    "briefDescription": "NEET/JEE Coaching for tribal students scheme launched in Rajasthan by Tribal Area Development in the year 2001.",
+    "tags": [
+      "Tribal Scheme",
+      "NEET",
+      "JEE",
+      "Coaching",
+      "Student Scheme"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "CMACS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "CM Anuprati Coaching Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cmacs",
+    "briefDescription": "The scheme is an initiative launched by the Government of Rajasthan to provide free coaching to students from economically weaker sections (EWS) and socially backward communities for various competitive exams such as IAS, RAS, and other government job recruitment exams.",
+    "tags": [
+      "Anuprati",
+      "Coaching",
+      "Competitive Examination",
+      "UPSC",
+      "RPSC"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "IGSCCY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Indira Gandhi Shehri Credit Card Yojana",
+    "schemeCloseDate": "2022-03-31",
+    "priority": 1,
+    "slug": "igsccy",
+    "briefDescription": "Indira Gandhi Urban Credit Card Scheme-2021 is implemented to provide employment / self-employment opportunities in\nurban areas and to provide financial resources for everyday needs.\n",
+    "tags": [
+      "Empowerment",
+      "Unemployment",
+      "Financial Assistance",
+      "Covid"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "RGSFSAE",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Rajiv Gandhi Scholarship For Academic Excellence",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "rgsfsae",
+    "briefDescription": "In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world. The scheme commenced from 5th October 2021. ",
+    "tags": [
+      "Financial Assistance",
+      "Higher Education",
+      "Student Finance"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DPMSS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Devnarayan Post Matric Scholarship Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dpmss",
+    "briefDescription": "In Rajasthan, the Post-matriculation scholarship scheme is run by the Department of Social Justice and Empowerment for the educational upliftment of students.",
+    "tags": [
+      "Student",
+      "Scholarship",
+      "Financial Assistance",
+      "Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "CMSASPS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Chief Minister Specially Abled Samman Pension Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cmsasps",
+    "briefDescription": "Rajasthan Government started a scholarship for Specially Abled persons. ",
+    "tags": [
+      "Financial Assistance",
+      "Empowerment",
+      "Pension",
+      "Differently Abled"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "EHSTGS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Economic Help To Sahariya Tribal Girl Students (Class 11 And 12)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ehstgs",
+    "briefDescription": "Rajasthan Government started a scholarship for Sahariya tribal girls' higher education (Class 11 and 12). ",
+    "tags": [
+      "Financial Assistance",
+      "Education",
+      "Girl Empowerment"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SPHHSY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Health & Wellness"
+    ],
+    "schemeName": "Silicosis Pidit Hita-dhikariyon Hetu Sahayata Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "sphhsy",
+    "briefDescription": "The Silicosis Affected Workers Welfare Scheme is an initiative launched by the Government of Rajasthan to provide financial assistance to workers suffering from silicosis and their families. ",
+    "tags": [
+      "Labour",
+      "Financial Assistance",
+      "Silicosis Victim",
+      "Health"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NSVYB",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "nskvmyhvphvbkpy",
+    "briefDescription": "The Labor department of Rajasthan started \"Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana\" to help construction workers.",
+    "tags": [
+      "Labour",
+      "Empowerment",
+      "Construction Worker",
+      "Financial Support"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MRY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Women and Child"
+    ],
+    "schemeName": "Mukhyamantri Rajshri Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mry",
+    "briefDescription": "The Mukhyamantri Rajshri Yojana is a program launched by the Rajasthan government in June 2016. It aims to improve the overall development of girls in the state by providing financial assistance for their health and education.",
+    "tags": [
+      "Women",
+      "Children",
+      "Development",
+      "Financial"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "VI",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Vermicompost Ikai",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "vi",
+    "briefDescription": "In the Vermicompost Ikai scheme, provide subsidies to farmers and Organic fertilizer is a systematic pest-nutrition process in which the soil is made fertile by absorbing other organic substances present within the soil.",
+    "tags": [
+      "Farmer",
+      "Fertilizer",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SH",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Shednet House",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "sh",
+    "briefDescription": "The Shednet House provided subsidies to farmers so they could earn more income by cultivating horticultural crops like vegetables, flowers, fruits, etc. by controlling the agro-climatic factors, temperature, humidity, and sunlight.",
+    "tags": [
+      "Farmer",
+      "Shednet House",
+      "Farming",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "CMHESS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Chief Minister Higher Education Scholarship Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cmhess",
+    "briefDescription": "The scheme was launched by the Higher Education Department, Government of Rajasthan. This scheme aims to enhance educational levels and provide scholarship to children from low-income families.",
+    "tags": [
+      "Higher Education",
+      "Scholarship",
+      "Student",
+      "PwD"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DSBAAVPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dsbaavpy",
+    "briefDescription": "The \"Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana\" aims to eliminate caste discrimination and promote social harmony. Under this scheme, eligible inter-caste married couples receive a financial incentive.",
+    "tags": [
+      "Financial Assistance",
+      "Inter-caste",
+      "Marriage"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "GLRMPGS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Business & Entrepreneurship"
+    ],
+    "schemeName": "Gadiya Lohar Raw Material Purchase Grant-in-aid Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "glrmy",
+    "briefDescription": "Under this scheme, the state government provides financial assistance of ₹10,000/- as a one-time grant to the Gadia Lohar community of Rajasthan for purchasing raw materials and making themselves self-reliant in their business.",
+    "tags": [
+      "Financial Assistance",
+      "Raw Material",
+      "Blacksmiths",
+      "Self-reliant",
+      "Business Opportunity"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "IPA",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Indira Priyadarshini Award",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ipy",
+    "briefDescription": "The scheme aims to promote academic excellence among girl students by providing one-time financial rewards to those securing the first position in Class 8th, 10th, and 12th examinations, along with vocational & Swami Vivekanand Government Model Schools achievers at the district and state levels.",
+    "tags": [
+      "Award",
+      "Girl Student",
+      "Sanskrit",
+      "Scooty",
+      "Secondary Education",
+      "Elementary Education",
+      "Indira"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "KGSTDRS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Kasturba Gandhi Special Term Deposit Receipt Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "kgsfdrs",
+    "briefDescription": "Under this scheme, girls who pass Class 8 from Kasturba Gandhi Schools, secure at least 50% marks in Class 10, & enroll in Class 11 receive an STDR of ₹2,000/- (5-year term). Those who score 50% in Class 12 and enroll in graduation receive an STDR of ₹4,000/- (3-year term).",
+    "tags": [
+      "Term Deposit",
+      "Girl Student",
+      "Residential School",
+      "Kasturba Gandhi"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MMSAYFEWS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Mukhyamantri Shiksha Alankar Yojana for Students of Economically Weaker Section",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mmsayfews",
+    "briefDescription": "Under the scheme, a cash award of ₹50,000 will be given to students studying in government schools affiliated with the Rajasthan Board of Secondary Education, Ajmer, who secure the highest marks in the EWS category in the Class 10th and Class 12th examinations (Arts, Commerce, and Science streams).",
+    "tags": [
+      "Financial Assistance",
+      "Student",
+      "EWS",
+      "Alankar",
+      "Award"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "HRASFTS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Housing & Shelter"
+    ],
+    "schemeName": "Hostel Rent Assistance Scheme for Tribal Students",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "hrasfts",
+    "briefDescription": "The scheme provides financial assistance towards hostel rent for Scheduled Tribe students pursuing undergraduate and postgraduate courses in government colleges, who are staying in rented accommodation for the purpose of regular studies.",
+    "tags": [
+      "Hostel",
+      "Student",
+      "Rent",
+      "Undergraduate",
+      "Scheduled Tribes",
+      "Postgraduate"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SDPSR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Travel & Tourism"
+    ],
+    "schemeName": "Sindhu Darshan Pilgrimage Scheme - Rajasthan",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "sdpsr",
+    "briefDescription": "The objective of this scheme is to provide financial assistance to pilgrims undertaking a pilgrimage to the Sindhu River in the Ladakh region of India. Under this scheme, selected beneficiaries receive reimbursement of their travel expenses, up to a maximum of ₹10,000/- per pilgrim.",
+    "tags": [
+      "Reimbursement",
+      "Pilgrimage",
+      "Pilgrim",
+      "Sindhu"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MBMBDCCS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Maa-Badi / Maa-Badi Day-Care Centre Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mbmbdccs",
+    "briefDescription": "The scheme aims to impart basic education, nutrition, and awareness to tribal children aged 6–12. The scheme offers meals, learning material, and other support through community-run centres.",
+    "tags": [
+      "Education",
+      "Scheduled Tribes",
+      "Maa Badi",
+      "Nutritious Meals",
+      "Child Care"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MAAYR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Health & Wellness"
+    ],
+    "schemeName": "Mukhyamantri Ayushman Aarogya Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "maayr",
+    "briefDescription": "The Mukhyamantri Ayushman Arogya Yojana, launched on 1 May 2021, aims to reduce medical expenses by offering free treatment for 1,798 procedures in government and empanelled private hospitals. Eligible NFSA, SECC 2011 families, contract workers, small farmers, and others can avail benefits.",
+    "tags": [
+      "Health",
+      "Free Treatment",
+      "Healthcare"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ASFCW",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Assistance Scheme For Construction Worker In Case Of General Or Accidental Death Or Injury",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "asfcw",
+    "briefDescription": "This scheme will be called \"Assistance Scheme for Beneficiary in Normal Death or Accident (in case of death or injury)\" registered in Rajasthan Building and Other Construction Workers Welfare Board. This scheme will be effective in entire Rajasthan.",
+    "tags": [
+      "Construction Worker",
+      "Death",
+      "Accident",
+      "Injury",
+      "Labour Scheme"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DSDAIS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Devnarayan Scooty Distribution And Incentive Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dsdais",
+    "briefDescription": "The Government of Rajasthan has launched the Devnarayan Chatra Scooty Yojana Scheme for the year 2023 in order to encourage female students in the state to study and to address the state’s low female literacy rate.",
+    "tags": [
+      "Financial Assistance",
+      "Resources For School",
+      "Education",
+      "Higher Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "EHTTG",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Economic Help To Tribal Girls For Higher Education (College Level)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ehttg",
+    "briefDescription": "Rajasthan Government started a scholarship for tribal girls higher education (College Level) In the year 1994-95.",
+    "tags": [
+      "Financial Assistance",
+      "Student",
+      "Higher Education",
+      "Educational Grant"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "EHFTG",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "schemeName": "Economic Help To Tribal Girls For Higher Education (Class 11 & 12)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ehftg",
+    "briefDescription": "Rajasthan Government started a scholarship for tribal girls higher education (Class 11 & 12) In the year 2011.",
+    "tags": [
+      "Financial Assistance",
+      "Educational Grant",
+      "Student",
+      "Higher Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "GGAY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Ghar Ghar Aushodhi Yojana",
+    "schemeCloseDate": "2026-08-01",
+    "priority": 1,
+    "slug": "ggay",
+    "briefDescription": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state.",
+    "tags": [
+      "Health",
+      "Planting",
+      "Disease-free Life",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "NSJBSY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Health & Wellness"
+    ],
+    "schemeName": " Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "nsjbsy",
+    "briefDescription": "The scheme \"Nirman Shramik Jeevan va Bhavishya Suraksha Yojana\" aims to provide financial security and social protection through insurance and pension benefits to registered construction workers and their families. Benefits under various flagship schemes are provided.",
+    "tags": [
+      "Medical",
+      "Insurance",
+      "Health",
+      "Labor",
+      "Premium",
+      "Construction",
+      "Pension"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "HKSMD",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Health & Wellness",
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Hita-dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "hksadmmyghkdms",
+    "briefDescription": "By the labor department of Rajasthan started \"Hita-Dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana\" for the construction workers.\n",
+    "tags": [
+      "Financial Assistance",
+      "Constrution Worker",
+      "Health & Wellness",
+      "Workers"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MSVEAY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Women and Child"
+    ],
+    "schemeName": "Mukyamantri Samuhik Vivah Evam Anudan Yojna ",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "msveay",
+    "briefDescription": "The Rajasthan Government to encourage the organization of mass marriages in the state, provide financial grants to reduce wastage in marriages,",
+    "tags": [
+      "Women",
+      "Marriage",
+      "Dowry",
+      "Group Marriage"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "IGNVPYR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "schemeName": "Indira Gandhi National Vrdhavastha Pension Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ignvpyr",
+    "briefDescription": "In this scheme, pension is payable to persons below from BPL category families listed as per the norms of the Government of India.",
+    "tags": [
+      "Pension",
+      "Old Age",
+      "Financial Assistance",
+      "Empower"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "IGNVPYRR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "schemeName": "Indira Gandhi National Vidhva Pension yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ignvpyrr",
+    "briefDescription": "In the Indira Gandhi National Vidhva Pension Yojana (IGNWPS), financial support is provided to the widows of the state of Rajasthan.",
+    "tags": [
+      "Pension",
+      "Women",
+      "Widow"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "JH",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Jal Hauj",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "jh",
+    "briefDescription": "The objective of the Jal Hauj scheme is to promote sustainable water management practices and address water scarcity issues by facilitating the construction of water harvesting structures. ",
+    "tags": [
+      "Jal Hauj",
+      "Agriculture",
+      "Farming",
+      "Tube Well"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "PTLT",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Plastic Tunnel (Lo-Tunnel)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ptlt",
+    "briefDescription": "Plastic tunnels (low tunnels) provide benefits to farmers. These are protected structures created by covering each crop bed with a low-lying plastic sheet after the crops have been planted in the main field.",
+    "tags": [
+      "Farmer",
+      "Plastic Tunnel",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FP",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Fasal Pradarshan",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "fp",
+    "briefDescription": "Under this scheme, the Agriculture Department organizes field and crop demonstrations to showcase advanced crop production methods and the latest technologies to farmers.",
+    "tags": [
+      "Agriculture",
+      "Financial Support",
+      "Crop Display",
+      "Farmer"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "TUKPMSST",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Transgender Utthan Kosh - Pre Matric Scholarship for Studying Transgender",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "tukpmsst",
+    "briefDescription": "The scheme aims to support transgender students by providing scholarships to encourage their education and social upliftment. Under this scheme, transgender students receive a monthly scholarship of ₹225/- per month to cover educational expenses from primary to pre-matric levels.",
+    "tags": [
+      "Scholarship",
+      "Transgender",
+      "Pre-Matric",
+      "Student"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "TUKPMSFST",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Transgender Utthan Kosh - Post Matric Scholarship for Studying Transgender",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "tukpmsfst",
+    "briefDescription": "The scheme aims to support transgender students pursuing post-matric education. Under this scheme, transgender students receive a monthly scholarship of ₹1,000/- to cover educational expenses for their post-matric studies.",
+    "tags": [
+      "Scholarship",
+      "Transgender",
+      "Post-matric",
+      "Student"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ADBTVS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment",
+      "Education & Learning"
+    ],
+    "schemeName": "Ambedkar DBT Voucher Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "adbtvs",
+    "briefDescription": "The scheme aims to support students from SC, ST, OBC, MBC, and EWS categories by providing financial aid for accommodation. The students receive ₹2,000/- per month for up to 10 months per academic year.",
+    "tags": [
+      "Financial Assistance",
+      "Residential Facility",
+      "Scheduled Caste",
+      "Scheduled Tribe",
+      "Other Backward Class",
+      "Economically Weaker Section",
+      "Most Backward Class",
+      "Student",
+      "Hostel"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MTCY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Skills & Employment"
+    ],
+    "schemeName": "Motorized Tricycle Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mts",
+    "briefDescription": "Under this scheme, motorized tricycles are provided to specially-abled individuals with 50% or more locomotor disability to support self-employment and pursuing higher education from Senior Higher Secondary onwards.",
+    "tags": [
+      "Persons With Disabilities",
+      "Motorized Tricycle",
+      "Locomotor Disability",
+      "Self-employment",
+      "PwD"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "APWDPFALA",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Assistance to Persons with Disabilities for Purchase/Fitting of Artificial Limbs/Appliances",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "apafale",
+    "briefDescription": " The scheme aims to provide financial assistance of ₹10,000/- to specially-abled individuals for self-employment and the purchase of artificial limbs/equipment to overcome physical disabilities.",
+    "tags": [
+      "Financial Assistance",
+      "Person With Disability",
+      "Artificial Limbs",
+      "Equipments",
+      "PwD"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "VYCY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Vishesh Yogyajan Chhatravriti Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ssfsap",
+    "briefDescription": "Under this scheme, scholarships and tuition fee reimbursement are provided to specially-abled students belonging to families with an annual income not exceeding ₹2.00 lakh, who are regularly studying in government and recognized educational institutions.",
+    "tags": [
+      "PwD",
+      "Scholarship",
+      "Student",
+      "Tuition Fee",
+      "Specially Abled Person"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "USR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Urdu Scholarship- Rajasthan",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "usr",
+    "briefDescription": "The scheme aims to promote the Urdu language among female students at the undergraduate and postgraduate levels. Under this scheme, a monthly scholarship is provided to undergraduate and postgraduate students who are studying Urdu as an optional subject.",
+    "tags": [
+      "Scholarship",
+      "Girl Student",
+      "Undergraduate",
+      "Postgraduate",
+      "Urdu"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DESG",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Distance Education Scheme for Girls",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "desfg",
+    "briefDescription": " The scheme aims to support girls' higher education through distance learning by reimbursing their course fees for UG, PG, Diploma, Certificate, and PG Diploma undertaken by girls through distance education in Rajasthan.",
+    "tags": [
+      "Fee Reimbursement",
+      "Girl Student",
+      "Post-Graduation",
+      "Diploma",
+      "Undergraduate",
+      "Distance Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FSDFG",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Free Scooty Distribution for Girls (GEN-CATEGAORY-EWS)",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "fsdfg",
+    "briefDescription": "Under this scheme, meritorious girl students from government and private schools who have scored 85% or above in the Class 10th and 12th (Arts, Commerce, Science streams) examinations are provided with a free scooty, along with a helmet and petrol.",
+    "tags": [
+      "Scooty",
+      "Girl Student",
+      "Economically Weaker Section",
+      "Meritorious Student",
+      "EWS"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "PSYR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Prakashan Sahayata Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "pasr",
+    "briefDescription": "The scheme aims to support original literary/research work related to tribal communities. Authors are provided financial assistance of ₹6,000 to ₹12,000 for publication.",
+    "tags": [
+      "Financial Assistance",
+      "Scheduled Tribe",
+      "Authors",
+      "Publication",
+      "Writer"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FASJLR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Health & Wellness",
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Financial Assistance Scheme for Journalists and Litterateurs - Rajasthan",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "fasfj",
+    "briefDescription": "The scheme aims to provide financial support to journalists and litterateurs for the treatment of critical illnesses, medical emergencies and no source of income, unemployment, or advanced age.",
+    "tags": [
+      "Financial Assistance",
+      "Journalist",
+      "Litterateur",
+      "Medical",
+      "Treatment",
+      "Old Age"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MHVY-SEB",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Business & Entrepreneurship",
+      "Skills & Employment"
+    ],
+    "schemeName": "Mukhyamantri Hunar Vikas Yojana- Self-Employment/Business",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mhvs-sebs",
+    "briefDescription": "Under this scheme, eligible boys and girls receive financial assistance in two installments - 60% initially and 40% later, to establish self-employment or business ventures. The support is specifically linked to the training course completed by the beneficiary.",
+    "tags": [
+      "Self-Employment",
+      "Business",
+      "Financial Assistance",
+      "Skill Development",
+      "Palanhar"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "OAHR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Housing & Shelter"
+    ],
+    "schemeName": "Operation of Ashram Hostels",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "oahr",
+    "briefDescription": "Under this scheme, free accommodation, nutritious meals, educational materials, uniforms, personal hygiene items, and other facilities are provided to Scheduled Tribe (ST) students residing in ashram hostels operated by the Tribal Area Development Department.",
+    "tags": [
+      "Scheduled Tribe",
+      "Hostel",
+      "Student",
+      "Tribal",
+      "Ashram Hostels",
+      "Free Accommodation"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "APKMY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Travel & Tourism"
+    ],
+    "schemeName": "Assistance to Pilgrims for Kailash Mansarovar Yatra - Rajasthan",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "apkmy",
+    "briefDescription": "The objective of this scheme is to provide financial support to residents of Rajasthan who successfully complete the Kailash Mansarovar Yatra organized by the Ministry of External Affairs, Govt. of India. Under this scheme, each pilgrim is granted financial assistance of up to ₹1,00,000/-.",
+    "tags": [
+      "Financial Assistance",
+      "Tourism",
+      "Pilgrim",
+      "Yatra",
+      "Mansarovar",
+      "Kailash"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "BSYRJ",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Beej Swalamban Yojna",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "bsyrj",
+    "briefDescription": "Mukhyamantri Beej Swavalamban Yojana was started in the year 2017-18 with the objective of producing quality improved seeds on their farms for their own use by the farmers.",
+    "tags": [
+      "Seeds",
+      "Agriculture",
+      "Farmers",
+      "Farming Assistance"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "KBBMCSS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Kali Bai Bheel Medhavi Chhatra Scooty Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "kbbmcss",
+    "briefDescription": "In 2015-16, Rajasthan State started the \"Kali Bai Bheel Medhavi Chhatra Scooty Scheme\" for Girls students. ",
+    "tags": [
+      "Student",
+      "Higher Education",
+      "Educational Support"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "PS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Palanhar Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ps",
+    "briefDescription": "Palanhar Yojana has been started by the state government of Rajasthan to benefit the orphan and needy children of the state. ",
+    "tags": [
+      "Financial Assistance",
+      "Orphan Child",
+      "Protection",
+      "Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ZBNF",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Zero Budget Natural Farming",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "zbnf",
+    "briefDescription": "The Rajasthan State government started a scheme \"Zero Budget Natual Farming\" in 2020-21 to promote  natural farming. ",
+    "tags": [
+      "Low Cost Fartming",
+      "Agriculture",
+      "Farmer",
+      "Training"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MVYSPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Mukhyamantri Vishesh Yogyajan Sammaan Pension Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mvyspy",
+    "briefDescription": "The \"Mukhyamantri Vishesh Yogyajan Samman Pension Yojana\" (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities.",
+    "tags": [
+      "Pension",
+      "Financial",
+      "Old Age",
+      "Disability"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MVSPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Mukhyamantri Vriddhjan Samman Pension Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mvspy",
+    "briefDescription": "The Rajasthan government's Social Justice and Empowerment Department launched the \"Mukhyamantri Vriddhjan Samman Pension Yojana\" program, a social welfare initiative that aims to improve the lives of senior citizens residing in the state by providing them with monthly financial assistance. ",
+    "tags": [
+      "Pension",
+      "Old Age",
+      "Financial",
+      "Senior Citizens"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SPK",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Sinchai Pipeline Karyakram",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "spk",
+    "briefDescription": "In \"Sinchai Pipeline Karyakram\" Rajasthan government will provide subsidies to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase.",
+    "tags": [
+      "Pipe Line",
+      "Agriculture",
+      "Irrigation",
+      "Development"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DSR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Drip Sanyantr",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dsr",
+    "briefDescription": "Under the Drip Sanyantr scheme, the government gives subsidies to farmers. There is an immense saving of water in this method. Under this method, water is applied drop by drop to the roots of the plants and wastage of water will negligible.",
+    "tags": [
+      "Farmer",
+      "Drip Sanyantr",
+      "Farming",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "KTY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Kantedar Tarbandi Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "kkt",
+    "briefDescription": "A initiative of Rajasthan State for the farmer to protect crops from damage caused by Nilgai and stray animals. Financial assistance will be provided to the farmers by the Rajasthan government for fencing their fields. ",
+    "tags": [
+      "Farming",
+      "Financial Benefits",
+      "Taarabandi"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FSR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Fawara Sanyantra",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "fsr",
+    "briefDescription": "Under the Fawara Sanyantra Through this scheme, the government will provide subsidies to farmers to install sprinkler plants. This will save water and farmers will also be able to irrigate their fields through sprinklers.",
+    "tags": [
+      "Farming",
+      "Agriculture",
+      "Development",
+      "Fountain Plant"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "KT",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Khet Talai",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "kt",
+    "briefDescription": "Under the Khet Talai scheme, the Rajasthan Government gives subsidies to the farmers on the construction of farm ponds so that the farmers can collect rainwater and irrigate their fields by making farm ponds in their fields.",
+    "tags": [
+      "Farming",
+      "Farmer",
+      "Khet Talai",
+      "Development"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "RGKSSY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Rajiv Gandhi Krishak Sathi Sahayta Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "rgkssy",
+    "briefDescription": "The Rajiv Gandhi Krishak Sathi Sahayta Yojana offers financial support to farmers, farmworkers, and market laborers who are accidentally injured or killed while working in agriculture or at agricultural markets.",
+    "tags": [
+      "Farmer",
+      "Accident",
+      "Financial Support"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "PM",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Plastic Mulching",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "pm",
+    "briefDescription": "Under the Plastic Mulching scheme, the Rajasthan government provided subsidies to farmers. In this, the soil surface of the field is covered with plastic film. Farmer can also use crop residues for laying mulch.",
+    "tags": [
+      "Farmer",
+      "Plastic Mulching",
+      "Farming",
+      "Agriculture"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MSYR",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Housing & Shelter",
+      "Women and Child",
+      "Skills & Employment"
+    ],
+    "schemeName": "Mahila Swayamsiddha Yojana Rajasthan",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "msyr",
+    "briefDescription": "The scheme objective is to provide free skill training and self-employment support to widowed, abandoned, and destitute women through voluntary organizations. The scheme is implemented by the Social Justice and Empowerment Department with financial assistance provided to participating NGOs. ",
+    "tags": [
+      "Financial Assistance",
+      "NGOs",
+      "Voluntary Organizations",
+      "Destitute Women",
+      "Skill Training"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MMSUSCY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Mukhya Mantri Sarvajan Uchcha Shiksha Chhatravriti Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mmsuscy",
+    "briefDescription": "This scheme aims to provide financial assistance to students from all sections of Rajasthan who are pursuing higher education at IITs, IIMs, and other national-level institutions. Under this scheme, 50% of the non-refundable fees are reimbursed to eligible students.",
+    "tags": [
+      "Scholarship",
+      "Higher Education",
+      "IIT",
+      "IIM",
+      "Student"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "TUK-FASBC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Transgender Utthan Kosh - Financial Assistance for Studying Bisexual Children",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "tuk-fasbc",
+    "briefDescription": "The scheme objective is to provide financial assistance of ₹6,000 per month for up to 12 months to transgender students from Class 6 and above for accommodation and daily needs if they live away from their homes for education.",
+    "tags": [
+      "Financial Assistance",
+      "Transgender",
+      "Pre-Matric",
+      "Student"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "GPWECERAF",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Grant on Passing the Written Examination of Competitive Examinations for Recruitment in Armed Forces",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cgsces",
+    "briefDescription": "Under this scheme, a grant of ₹15,000/- is provided from the Amalgamated Fund to the children of ex-servicemen who pass the written examination of CDS, NDA, IMA, OTA, Air Force, or Naval Academy, for the purpose of coaching.",
+    "tags": [
+      "Grant",
+      "Coaching",
+      "Ex-servicemen",
+      "Competitive Examinations",
+      "Armed Forces"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FAMSSTPFDBU",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Financial assistance to Meritorious Scheduled Tribe Students who have Passed First Division from Board and University",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "bufdstmsfa",
+    "briefDescription": "The objective of the scheme is to motivate meritorious Scheduled Tribe students of Rajasthan by providing one-time financial assistance of ₹3,500/- to those pursuing regular college courses and achieving first division.",
+    "tags": [
+      "Student",
+      "Financial Assistance",
+      "Scheduled Tribe",
+      "Tribal",
+      "Higher Education"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "DPCPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Devnarayan Pratibhawan Chhatra Protsahan Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "dpcpy",
+    "briefDescription": "The scheme aims to encourage academic excellence among students belonging to Special Backward Classes (SBC). It provides an annual financial incentive of ₹3,500/- to students pursuing education from Class 10th to postgraduate level in government schools or colleges.",
+    "tags": [
+      "Financial Assistance",
+      "Student",
+      "Special Backward Classes",
+      "Devnarayan"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MHVY-PTT",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Skills & Employment"
+    ],
+    "schemeName": "Mukhyamantri Hunar Vikas Yojana- Professional/Technical Training",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mhvs-ptts",
+    "briefDescription": "Under this scheme, vocational/technical training is provided to Palanhar beneficiary boys & girls through recognized training providers such as the Rajasthan Skill & Livelihood Development Corporation, Rajasthan Knowledge Corporation Ltd., it is etc. recognized by the State or Central Govt.",
+    "tags": [
+      "Professional Training",
+      "Technical Education",
+      "Skill Development",
+      "Vocational Training",
+      "Palanhar"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MHVY-HETE",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Skills & Employment",
+      "Education & Learning"
+    ],
+    "schemeName": "Mukhyamantri Hunar Vikas Yojana- Higher Education/Technical Education",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "mhvs-hte",
+    "briefDescription": "Under this scheme, the State Government provides financial assistance to eligible boys and girls enrolled under the Palanhar Scheme to pursue higher or technical education, based on their qualifications and interest in employment-oriented courses.",
+    "tags": [
+      "Higher Education",
+      "Technical Education",
+      "Career Opportunity",
+      "Student",
+      "Palanhar"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MAPY",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Mukhyamantri Asahaya Punarwas Yojana",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cmdrsr",
+    "briefDescription": "The scheme aims to provide financial assistance and rehabilitation support to destitute individuals who are orphaned, abandoned by their parents, or have no one to care for them. Beneficiaries receive one-time financial aid and support for admission to day-care centers or old-age homes.",
+    "tags": [
+      "Orphan",
+      "Senior Citizen",
+      "Rehabilitation",
+      "Destitute",
+      "Day-care Centers",
+      "Old-age Homes"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ISMSEBCGC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Incentive Scheme for Meritorious Students of Economically Backward Class of General Category",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "ismsebcgc",
+    "briefDescription": "Under this scheme, a one-time financial assistance of ₹15,000/- along with a certificate of appreciation is awarded to top 100 meritorious students of Class 10 & each stream of Class 12, who are listed in state-level merit list of Rajasthan Board of Secondary Education, Ajmer.",
+    "tags": [
+      "Financial Assistance",
+      "Student",
+      "Meritorious",
+      "Economically Backward Class"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "BDSGSEWS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "schemeName": "Bicycle Distribution Scheme for Girl Students of Economically Weaker Section",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "akvkckcvy",
+    "briefDescription": "Under this scheme, free bicycles will be distributed to 5,800 girl students belonging to the Economically Weaker Section (EWS), who are studying in government schools from Class 6 to Class 8, to facilitate their commute between home and school.",
+    "tags": [
+      "Girl Student",
+      "EWS",
+      "Bicycle"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "RFSSTC",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Education & Learning"
+    ],
+    "schemeName": "Research Fellowship Scheme for Scheduled Tribe Candidates",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "rfsstc",
+    "briefDescription": "The scheme aims to support the Scheduled Tribe candidates from Scheduled Areas and the Saharia Area of Rajasthan to register themselves as research scholars with all recognized Central/State/Deemed/Private University located in any part of India for pursuing Ph.D. Programme.",
+    "tags": [
+      "Fellowship",
+      "PhD",
+      "Student",
+      "Scheduled Tribe",
+      "Research Scholar"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "CMSMFOPS",
+    "level": "State",
+    "schemeFor": "Individual",
+    "schemeCategory": [
+      "Social welfare & Empowerment",
+      "Agriculture,Rural & Environment"
+    ],
+    "schemeName": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
+    "schemeCloseDate": null,
+    "priority": 1,
+    "slug": "cmsmfops",
+    "briefDescription": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers.",
+    "tags": [
+      "Pension",
+      "Farmers",
+      "Old Age"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MKY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "schemeName": "Mukhyamantri Kanyadaan Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "mky",
+    "briefDescription": "Mukhyamantri Kanyadaan Yojana launched by Social Justice and empowerment in 2015 by Rajasthan for Family provides financial support to eligible families to help them cover the expenses associated with their daughters' weddings. ",
+    "tags": [
+      "Kanyadaan Yojana",
+      "Girls Scheme Rajasthan",
+      "DBT Scheme",
+      "Female Scheme",
+      "Social Welfare"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "RCMRF-AA",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Rajasthan Chief Minister's Relief Fund - Accident Assistance",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "rcmrf-aa",
+    "briefDescription": "\"Rajasthan Chief Minister's Relief Fund - Accident Assistance\" is a scheme by the Chief Minister's Secretariat, Govt. of Rajasthan. In case of death due to accident, ₹ 1,00,000 is provided. In case of serious injury, assistance is up to ₹ 20,000. The assistance is \"one-time full-support\".",
+    "tags": [
+      "Accident",
+      "Financial Assistance"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SBSKY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Skills & Employment"
+    ],
+    "schemeName": "Shubhshakti Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "sbsky",
+    "briefDescription": "The Shubshakti Yojana has been initiated by the Rajasthan government with the aim of providing financial assistance to regular construction workers, unmarried laborers, and their daughters.",
+    "tags": [
+      "Girl",
+      "Labor",
+      "Financial Assistance"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "VYSDJY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "sdvay",
+    "briefDescription": "The scheme aims to provide financial assistance to specially-abled individuals to support a happy married life after marriage. Under this scheme, financial assistance of ₹50,000/- per couple is provided.",
+    "tags": [
+      "Marriage Assistance",
+      "Differently Abled Person",
+      "Marriage Grant",
+      "Marriage Grant"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "PSY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Women and Child"
+    ],
+    "schemeName": "Prasuti Sahayata Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "psy",
+    "briefDescription": "The Rajasthan Prasuti Sahayata Yojana is a scheme launched by the Government of Rajasthan to provide financial assistance to pregnant women from registered construction worker families in the state",
+    "tags": [
+      "Women",
+      "Children",
+      "Delivery",
+      "Care",
+      "Pregnancy"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SBWWPM",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Samman Bhatta to War Widows and Parents of Martyrs",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "sbwwpm",
+    "briefDescription": "The scheme aims to provide lifelong financial assistance of ₹5,000/- per month to war widows and parents of unmarried martyrs who sacrificed their lives in various wars, counter-insurgency operations, and aid to civil authorities before 31st March 1999.",
+    "tags": [
+      "Financial Assistance",
+      "War",
+      "Widow",
+      "Martyrs",
+      "Sainik"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "VYPY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Social welfare & Empowerment",
+      "Education & Learning"
+    ],
+    "schemeName": "Vishesh Yogyajan Palanhar Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "saps",
+    "briefDescription": "Under this scheme, children receive monthly financial support based on their age to ensure their well-being and education. To be eligible for assistance, the child must attend an Anganwadi/school between the ages of two to five years and study in school after the age of 6 years.",
+    "tags": [
+      "Financial Assistance",
+      "Differently Abled Person",
+      "Education",
+      "Children",
+      "PwD"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "GLMPBNY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Housing & Shelter"
+    ],
+    "schemeName": "Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "glbngs",
+    "briefDescription": "This scheme provides financial assistance of ₹1,20,000/- in three instalments to Gadiya Lohar families in Rajasthan for the construction of permanent houses and ensuring their settlement.",
+    "tags": [
+      "Financial Assistance",
+      "Bhawan Nirman",
+      "Maharana Pratap",
+      "Gadia Lohar",
+      "House Construction"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "AYR",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Health & Wellness",
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Aastha Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "asr",
+    "briefDescription": "The scheme aims to provide BPL-equivalent benefits to families with two or more specially-abled members. Under this scheme, eligible families receive free medical treatment, ration supplies, and other welfare benefits. ",
+    "tags": [
+      "Persons With Disabilities",
+      "Medical Treatment",
+      "Ration",
+      "Welfare Benefits",
+      "PwD",
+      "Astha Card"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "AFDM",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "schemeName": "Assistance for Daughter's Marriage",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "afdm",
+    "briefDescription": "Under this scheme, financial assistance of ₹25,000/- per girl is provided for a maximum of two marriageable daughters of widows of ex-servicemen up to the rank of Havaldar, who are not receiving a Marriage Grant from the Kendriya Sainik Board.",
+    "tags": [
+      "Financial Assistance",
+      "Marriage",
+      "Widow",
+      "Daughter",
+      "Ex-servicemen",
+      "Sainik"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FHDFH",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Financial Help On Death Of Family Head",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "fhdfh",
+    "briefDescription": "Financial help on death of family head scheme was launched by Rajasthan state government under tribal area development on 20/08/2008. Under this scheme, ₹10,000/- to the wife of the deceased on the premature death of the head of the family of Saharia primitive tribe.",
+    "tags": [
+      "Sahariya Tribe",
+      "Financial Assistance",
+      "DBT",
+      "Rajasthan",
+      "Death Of Family Head"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "MCSBY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Health & Wellness"
+    ],
+    "schemeName": "Mukhyamantri Chiranjeevi Swasthya Beema Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "mcsby",
+    "briefDescription": "The state government has announced the implementation of 'Universal Health Coverage' in the state in the budget announcement 2021-22, in compliance of which Chief Minister Chiranjeevi Health Insurance Scheme was started in the state from May 1, 2021. ",
+    "tags": [
+      "Financial Assistance",
+      "Health Insurance",
+      "Family Welfare"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "FASDDJLR",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Health & Wellness",
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Financial Assistance Scheme for Dependents of Deceased Journalists and Litterateurs - Rajasthan",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "fasfjd",
+    "briefDescription": "The scheme aims to provide financial support to the dependents of deceased journalists and litterateurs in situations such as medical emergencies, unemployment, or when there is no other source of income.",
+    "tags": [
+      "Financial Assistance",
+      "Journalist",
+      "Litterateur",
+      "Medical Assistance",
+      "Deceased Journalists",
+      "Dependent"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "JSBY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "schemeName": "Jan Samuh Bima Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "jsby",
+    "briefDescription": "The scheme aims to provide financial assistance to Sahariya families in the event of the death of the heads of the families. Under this scheme, a one-time financial assistance of ₹25,000/- is provided by the insurance company to the deceased's family to help reduce their economic burden.",
+    "tags": [
+      "Financial Assistance",
+      "Death",
+      "Swachh Project",
+      "Sahariya Community",
+      "Insurance"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "IGMPY",
+    "level": "State",
+    "schemeFor": "Family",
+    "schemeCategory": [
+      "Women and Child"
+    ],
+    "schemeName": "Indira Gandhi Matritva Poshan Yojana",
+    "schemeCloseDate": null,
+    "priority": 2,
+    "slug": "igmpy",
+    "briefDescription": "Under the scheme, women who conceive their second child and fulfill the prescribed conditions will receive cash assistance of ₹6,000/-, paid in five installments.",
+    "tags": [
+      "Child Care",
+      "Maternity",
+      "Pregnancy",
+      "Lactating Mother",
+      "Pregnant Woman"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SAMSMEMD",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Business & Entrepreneurship"
+    ],
+    "schemeName": "Scheme for Assistance to MSMEs for Market Development",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "samsmemd",
+    "briefDescription": "The scheme aims to provide financial assistance to MSMEs participating in national and international fairs/exhibitions/buyer-seller meets, etc., under the Rajasthan MSME Policy 2024.",
+    "tags": [
+      "MSME",
+      "National Exhibition",
+      "International Exhibition",
+      "MSME Policy",
+      "Market Development"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "PSNJSY",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Housing & Shelter"
+    ],
+    "schemeName": "Panchayat Samiti Nandishala Jan Sahbhagita Yojana",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "psnjsy",
+    "briefDescription": "The \"Panchayat Samiti Nandishala Jan Sahbhagita Yojana\" was initiated to provide shelter for stray male cattle by constructing infrastructure in Panchayat Samitis.",
+    "tags": [
+      "Animal Shelter",
+      "Animal Husbandry"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "GVYR",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Housing & Shelter"
+    ],
+    "schemeName": "Gaushala Vikas Yojana",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "gvyr",
+    "briefDescription": "This initiative provides financial assistance to registered gaushalas for building permanent infrastructure. Under this scheme, up to ₹10,000,00/- can be provided, with 90% of the funding from the state government and 10% contributed by the gaushala.",
+    "tags": [
+      "Cattle Welfare",
+      "Animal Husbandry"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "AAYR",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Antheyesthi Anudan Yojana",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "aayr",
+    "briefDescription": "The scheme provides financial assistance of ₹5,000/- to NGOs for performing the last rites of any unclaimed or destitute person of any age/caste/class, who has died either naturally or due to an accident within Rajasthan or outside the state, provided that the cremation is conducted in Rajasthan.",
+    "tags": [
+      "Financial Assistance",
+      "Destitute",
+      "Last Rites",
+      "Deceased",
+      "Funeral"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "ADBPAE",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Business & Entrepreneurship"
+    ],
+    "schemeName": "Assistance for Digitization of Business Processes and Adoption of eCommerce",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "adbpae",
+    "briefDescription": "The scheme offers MSMEs up to 75% reimbursement (max ₹50,000) for software/equipment costs for digitization, plus 75% of e-commerce platform fees (excl. shipping), also up to ₹50,000. Reimbursement is allowed for one e-commerce platform per MSME only.",
+    "tags": [
+      "MSME",
+      "ECommerce",
+      "Financial Assistance",
+      "Digitization Of Business",
+      "MSME Policy"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "VSBGKS",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Housing & Shelter"
+    ],
+    "schemeName": "Vadh Se Bachaye Govansh Ko Sahayata Yojana",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "vsbgks",
+    "briefDescription": "The \"Vadh Se Bachaye Govansh Ko Sahayata Yojana\" scheme, initiated by the Directorate of Gopalan on 02/07/2015, provides financial assistance for the care and maintenance of cattle rescued from illegal slaughter or smuggling.\n\n",
+    "tags": [
+      "Animal Shelter",
+      "Cattle Welfare Scheme",
+      "Cow Protection",
+      "Animal Husbandry"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "SAISOARRACGF",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Business & Entrepreneurship"
+    ],
+    "schemeName": "Scheme for Additional Interest Subsidy over and above RIPS 2024 and Reimbursement of Annual Credit Guarantee Fee",
+    "schemeCloseDate": "2029-03-31",
+    "priority": 3,
+    "slug": "saisoarracgf",
+    "briefDescription": "As per the MSME Policy 2024, it supports the establishment of new MSMEs and the expansion, diversification, or modernization of existing ones by offering interest subsidies and reimbursement of guarantee fees to ease access to finance and reduce the cost of credit.",
+    "tags": [
+      "Interest Subsidy",
+      "Collateral-Free Loans",
+      "Annual Guarantee Fees",
+      "MSME Policy",
+      "MSME",
+      "Enterprise"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "TAA",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Business & Entrepreneurship"
+    ],
+    "schemeName": "Technology Acquisition Assistance",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "taa",
+    "briefDescription": "The scheme aims to support Micro and Small enterprises in state to acquire advanced technology/ software related to their production/ manufacturing processes through assistance towards cost incurred for technology/ software acquisition.",
+    "tags": [
+      "Reimbursement",
+      "Technology Acquisition",
+      "MSME",
+      "Micro Enterprise",
+      "Small Enterprise",
+      "Software"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "LTSR",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Skills & Employment"
+    ],
+    "schemeName": "Leather Training Scheme - Rajasthan",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "cpyr",
+    "briefDescription": "The scheme aims to promote leather industry, improve production & quality of leather products, develop new designs, & generate self-employment. Under this scheme, training is provided in latest techniques for leather dyeing, Nagara Jooti, leather goods, etc. through District Industry Centers.",
+    "tags": [
+      "Leather Goods",
+      "Skill Development",
+      "Training",
+      "Leather",
+      "Self-employment",
+      "Stipend"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "AFQE",
+    "level": "State",
+    "schemeFor": "Infra",
+    "schemeCategory": [
+      "Business & Entrepreneurship"
+    ],
+    "schemeName": "Assistance for Quality Enhancement",
+    "schemeCloseDate": null,
+    "priority": 3,
+    "slug": "afqe",
+    "briefDescription": "The scheme aims to support micro and small enterprises in obtaining quality and system certifications or IPRs. It offers up to 50% reimbursement of certification costs with a ceiling of ₹3,00,000.",
+    "tags": [
+      "Quality Enhancement",
+      "Quality Certification",
+      "Reimbursement",
+      "Micro Enterprises",
+      "Small Enterprises",
+      "Intellectual Property"
+    ]
+  },
+  {
+    "beneficiaryState": [
+      "Rajasthan"
+    ],
+    "schemeShortTitle": "RKSYR",
+    "level": "State",
+    "schemeFor": null,
+    "schemeCategory": [
+      "Social welfare & Empowerment"
+    ],
+    "schemeName": "Khadya Suraksha Yojana",
+    "schemeCloseDate": null,
+    "priority": null,
+    "slug": "rksyr",
+    "briefDescription": "The scheme \"Rashtriya Khadya Suraksha Yojana\" aims to ensure that every person in Rajasthan has access to an adequate quantity of food at affordable prices.",
+    "tags": [
+      "Food Security",
+      "BPL",
+      "Families",
+      "Development"
+    ]
+  }
+]

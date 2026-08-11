@@ -1,0 +1,1872 @@
+{
+  "scheme_id": "6809e8ee41f9fb65ecb30eb1",
+  "slug": "mmsayfews",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Financial Assistance",
+        "Student",
+        "EWS",
+        "Alankar",
+        "Award"
+      ],
+      "schemeName": "Mukhyamantri Shiksha Alankar Yojana for Students of Economically Weaker Section",
+      "schemeShortTitle": "MMSAYFEWS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=67d13b34d4b65514ec008599"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Mukhyamantri Shiksha Alankar Yojana&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, for students belonging to the Economically Weaker Section (EWS). Under the scheme, a cash award of ₹50,000 will be given to students studying in government schools affiliated with the Rajasthan Board of Secondary Education, Ajmer, who secure the highest marks in the EWS category in the Class 10th and Class 12th examinations (Arts, Commerce, and Science streams). The cash award will be disbursed through Direct Benefit Transfer (DBT) into the student&amp;#39;s bank account linked to their Jan Aadhaar.\n",
+      "benefits_md": "***Each selected student will receive:***\n\n- A one-time cash award of ₹50,000/- per student.\n- A Certificate of Appreciation.\n\n***No. of Students selected:***\n\n- A total of 32 students will be benefitted under the scheme.\n\n***For Class 10 students:***\n\n- 10 boys and 10 girls (total 20 students) will be selected.\n\n***For Class 12 students:***\n\n- In Arts stream: 2 boys and 2 girls (total 4 students) will be selected.\n- In Science stream: 2 boys and 2 girls (total 4 students) will be selected.\n- In Commerce stream: 2 boys and 2 girls (total 4 students) will be selected.\n\n**Note:**\nThe amount receive through Direct Benefit Transfer (DBT) to the bank account linked to the student&#39;s JanAadhaar.\n",
+      "briefDescription": "Under the scheme, a cash award of ₹50,000 will be given to students studying in government schools affiliated with the Rajasthan Board of Secondary Education, Ajmer, who secure the highest marks in the EWS category in the Class 10th and Class 12th examinations (Arts, Commerce, and Science streams).",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Mukhyamantri Shiksha Alankar Yojana\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, for students belonging to the Economically Weaker Section (EWS). Under the scheme, a cash award of ₹50,000 will be given to students studying in government schools affiliated with the Rajasthan Board of Secondary Education, Ajmer, who secure the highest marks in the EWS category in the Class 10th and Class 12th examinations (Arts, Commerce, and Science streams). The cash award will be disbursed through Direct Benefit Transfer (DBT) into the student's bank account linked to their Jan Aadhaar."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Each selected student will receive:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A one-time cash award of ₹50,000/- per student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A Certificate of Appreciation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. of Students selected:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A total of 32 students will be benefitted under the scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Class 10 students:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10 boys and 10 girls (total 20 students) will be selected."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Class 12 students:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In Arts stream: 2 boys and 2 girls (total 4 students) will be selected."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In Science stream: 2 boys and 2 girls (total 4 students) will be selected."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In Commerce stream: 2 boys and 2 girls (total 4 students) will be selected."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The amount receive through Direct Benefit Transfer (DBT) to the bank account linked to the student's JanAadhaar."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " To avail of the benefits of the scheme, the applicant needs to contact their respective school or college administration."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Submit copies of all the mandatory documents (self-attested, if required) to the school/college."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The complete application process is managed by the school principal through the ",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              },
+              {
+                "type": "link",
+                "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx",
+                "children": [
+                  {
+                    "text": "Shaladarpan",
+                    "bold": true,
+                    "italic": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "text": " Beneficiary module.",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Visit the Shaladarpan official portal and click on \""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/DBT_CommonLogin.aspx",
+                    "children": [
+                      {
+                        "text": "School/Office Login"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Log in to the Beneficiary Portal to apply and click on \"OTHER SCHEMES\" to view the class-wise data for EWS and OBC category students."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The list of students for whom data is filled will be displayed."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on the \"APPLY\" button next to the eligible student's name to fill the application."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The student's application will open, and the following details need to be filled:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Student's address."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Student's family's Janadhar ID number and Janadhar ID of the student's family head."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Student's mobile number, parent's mobile number, and family's annual income."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Previous year's exam details and obtained marks (for classes 6, 7, 8, and 10)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Previous year's marks in Science, English, and Mathematics (for classes 6, 7, 8, and 10)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "For students studying in classes 6 to 9, only the previous year's board exam marks and details of the previous class need to be filled."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Selection of students from the merit list will be in groups of up to 10."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "For orphaned students, related information needs to be marked as \"Yes\"."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "  7. Bank account information needs to be provided in the given option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "  8. All filled details should be carefully checked before clicking \"APPLY\" to lock the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "  9. The school principal will send the proposal with the help of the OTP received on their mobile number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "10. Applications not locked by the last date will be automatically locked."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "11. Ineligible students can be rejected by clicking the \"REJECT\" button and providing the reason for rejection."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Student "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Nodal officer information:",
+                "bold": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Designation:",
+                "bold": true
+              },
+              {
+                "text": " Director, Secondary Education Rajasthan, Bikaner"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "E-mail Id:",
+                "bold": true
+              },
+              {
+                "text": " deo.scholar.dse@rajasthan.gov.in"
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** To avail of the benefits of the scheme, the applicant needs to contact their respective school or college administration.\n**Step 2:** Submit copies of all the mandatory documents (self-attested, if required) to the school/college.\n***The complete application process is managed by the school principal through the*** [***Shaladarpan***](https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx) ***Beneficiary module.***\n\n1. Visit the Shaladarpan official portal and click on &quot;[School/Office Login](https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/DBT_CommonLogin.aspx)&quot; 1. Log in to the Beneficiary Portal to apply and click on &quot;OTHER SCHEMES&quot; to view the class-wise data for EWS and OBC category students.\n1. The list of students for whom data is filled will be displayed.\n1. Click on the &quot;APPLY&quot; button next to the eligible student&#39;s name to fill the application.\n1. The student&#39;s application will open, and the following details need to be filled:\n\n\n- Student&#39;s address.\n- Student&#39;s family&#39;s Janadhar ID number and Janadhar ID of the student&#39;s family head.\n- Student&#39;s mobile number, parent&#39;s mobile number, and family&#39;s annual income.\n- Previous year&#39;s exam details and obtained marks (for classes 6, 7, 8, and 10).\n- Previous year&#39;s marks in Science, English, and Mathematics (for classes 6, 7, 8, and 10).\n- For students studying in classes 6 to 9, only the previous year&#39;s board exam marks and details of the previous class need to be filled.\n- Selection of students from the merit list will be in groups of up to 10.\n- For orphaned students, related information needs to be marked as &quot;Yes&quot;.\n\n  7. Bank account information needs to be provided in the given option.\n  8. All filled details should be carefully checked before clicking &quot;APPLY&quot; to lock the application.\n  9. The school principal will send the proposal with the help of the OTP received on their mobile number.\n10. Applications not locked by the last date will be automatically locked.\n11. Ineligible students can be rejected by clicking the &quot;REJECT&quot; button and providing the reason for rejection.\nStudent \n***Nodal officer information:***\n**Designation:** Director, Secondary Education Rajasthan, Bikaner\n**E-mail Id:** deo.scholar.dse@rajasthan.gov.in\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The student should belong to the Economically Weaker Section (EWS).\n1. The student is studying in government schools in Rajasthan.\n1. The applicant should be enrolled in the 10th or 12th class.1. The student should have secured the highest marks in the 10th and 12th class board examinations conducted by the Rajasthan Board of Secondary Education, Ajmer (for Arts, Commerce, and Science streams).\n**Note:** Students benefiting from any other incentive schemes run by the state and central government will also be eligible for benefits under the scheme.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student should belong to the Economically Weaker Section (EWS)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student is studying in government schools in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in the 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " or 12th class."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student should have secured the highest marks in the 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " and 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " class board examinations conducted by the Rajasthan Board of Secondary Education, Ajmer (for Arts, Commerce, and Science streams)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                },
+                {
+                  "text": " Students benefiting from any other incentive schemes run by the state and central government will also be eligible for benefits under the scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "वित्तीय सहायता",
+        "विद्यार्थी",
+        "ईडब्ल्यूएस",
+        "अलंकार",
+        "पुरस्कार"
+      ],
+      "schemeName": "आर्थिक रूप से कमजोर वर्ग के छात्रों के लिए मुख्यमंत्री शिक्षा अलंकार योजना",
+      "schemeShortTitle": "MMSAYFEWS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=67d13b34d4b65514ec008599"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित छात्रों के लिए राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा मुख्यमंत्री शिक्षा अलंकार योजना शुरू की गई थी। इस योजना के तहत, राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से संबद्ध सरकारी स्कूलों में पढ़ने वाले छात्रों को ₹50,000 का नकद पुरस्कार दिया जाएगा, जो कक्षा 10वीं और कक्षा 12वीं की परीक्षाओं (कला, वाणिज्य और विज्ञान धाराओं) में ईडब्ल्यूएस श्रेणी में सबसे अधिक अंक प्राप्त करते हैं। नकद पुरस्कार प्रत्यक्ष लाभ अंतरण (डी. बी. टी.) के माध्यम से छात्र के जन आधार से जुड़े बैंक खाते में वितरित किया जाएगा।",
+      "benefits_md": "प्रत्येक चयनित छात्र को प्राप्त होगाः * * *-प्रति छात्र ₹50,000/- का एक बार का नकद पुरस्कार। - प्रशंसा प्रमाण पत्र। * * * नहीं। चयनित छात्रों की संख्याः * * *-इस योजना के तहत कुल 32 छात्र लाभान्वित होंगे। * * * कक्षा 10 के छात्रों के लिएः * * *-10 लड़के और 10 लड़कियों (कुल 20 छात्र) का चयन किया जाएगा। * * * कक्षा 12 के छात्रों के लिएः * * *-कला स्ट्रीम में 2 लड़कों और 2 लड़कियों (कुल 4 छात्रों) का चयन किया जाएगा। - विज्ञान स्ट्रीम में 2 लड़के और 2 लड़कियों (कुल 4 छात्र) का चयन किया जाएगा। कॉमर्स स्ट्रीम में 2 लड़के और 2 लड़कियों (कुल 4 छात्र) का चयन किया जाएगा। * * नोटः * * छात्र के जनआधार से जुड़े बैंक खाते में प्रत्यक्ष लाभ अंतरण (डी. बी. टी.) के माध्यम से प्राप्त राशि।",
+      "briefDescription": "इस योजना के तहत, राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से संबद्ध सरकारी स्कूलों में पढ़ने वाले छात्रों को ₹50,000 का नकद पुरस्कार दिया जाएगा, जो कक्षा 10वीं और कक्षा 12वीं की परीक्षाओं (कला, वाणिज्य और विज्ञान धाराओं) में ईडब्ल्यूएस श्रेणी में सबसे अधिक अंक प्राप्त करते हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित छात्रों के लिए \"मुख्यमंत्री शिक्षा अलंकार योजना\" योजना शुरू की गई थी। इस योजना के तहत, राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से संबद्ध सरकारी स्कूलों में पढ़ने वाले छात्रों को ₹50,000 का नकद पुरस्कार दिया जाएगा, जो कक्षा 10वीं और कक्षा 12वीं की परीक्षाओं (कला, वाणिज्य और विज्ञान धाराओं) में ईडब्ल्यूएस श्रेणी में सबसे अधिक अंक प्राप्त करते हैं। नकद पुरस्कार प्रत्यक्ष लाभ अंतरण (डी. बी. टी.) के माध्यम से छात्र के जन आधार से जुड़े बैंक खाते में वितरित किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "प्रत्येक चयनित छात्र को मिलेगाः",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रति छात्र ₹50,000/- का एक बार का नकद पुरस्कार।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रशंसा का प्रमाण पत्र।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "चयनित छात्रों की संख्याः",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के तहत कुल 32 छात्र लाभान्वित होंगे।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "कक्षा 10 के छात्रों के लिएः",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10 लड़के और 10 लड़कियों (कुल 20 छात्र) का चयन किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "12वीं कक्षा के छात्रों के लिएः",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कला स्ट्रीम में 2 लड़के और 2 लड़कियों (कुल 4 छात्र) का चयन किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विज्ञान स्ट्रीम में 2 लड़के और 2 लड़कियों (कुल 4 छात्र) का चयन किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कॉमर्स स्ट्रीम में 2 लड़के और 2 लड़कियों (कुल 4 छात्र) का चयन किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "छात्र के जनआधार से जुड़े बैंक खाते में प्रत्यक्ष लाभ अंतरण (डी. बी. टी.) के माध्यम से प्राप्त राशि।"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन प्रक्रियाः",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": "योजना का लाभ उठाने के लिए आवेदक को अपने संबंधित स्कूल या कॉलेज प्रशासन से संपर्क करना होगा।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": "सभी अनिवार्य दस्तावेजों की प्रतियां (यदि आवश्यक हो तो स्व-सत्यापित) स्कूल/कॉलेज में जमा करें।"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "पूर्ण आवेदन प्रक्रिया का प्रबंधन विद्यालय के प्राचार्य द्वारा किया जाता है",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              },
+              {
+                "type": "link",
+                "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx",
+                "children": [
+                  {
+                    "text": "शालदर्पण",
+                    "bold": true,
+                    "italic": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "text": "लाभार्थी मॉड्यूल।",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "शालदर्पण आधिकारिक पोर्टल पर जाएँ और \"पर क्लिक करें"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/DBT_CommonLogin.aspx",
+                    "children": [
+                      {
+                        "text": "विद्यालय/कार्यालय लॉगिन"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन करने के लिए लाभार्थी पोर्टल पर लॉग इन करें और ई. डब्ल्यू. एस. और ओ. बी. सी. श्रेणी के छात्रों के लिए कक्षा-वार डेटा देखने के लिए \"अन्य योजनाएं\" पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जिन छात्रों के लिए डेटा भरा गया है, उनकी सूची प्रदर्शित की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन भरने के लिए योग्य छात्र के नाम के बगल में \"आवेदन करें\" बटन पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र का आवेदन खुल जाएगा, और निम्नलिखित विवरण भरने की आवश्यकता हैः"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र का पता।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र के परिवार का जनाधार आईडी नंबर और छात्र के परिवार के मुखिया का जनाधार आईडी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र का मोबाइल नंबर, माता-पिता का मोबाइल नंबर और परिवार की वार्षिक आय।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पिछले वर्ष की परीक्षा का विवरण और प्राप्त अंक (कक्षा 6,7,8 और 10 के लिए)।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "विज्ञान, अंग्रेजी और गणित में पिछले वर्ष के अंक (कक्षा 6,7,8 और 10 के लिए)।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "कक्षा 6 से 9 तक पढ़ने वाले छात्रों के लिए, केवल पिछले वर्ष की बोर्ड परीक्षा के अंक और पिछली कक्षा का विवरण भरने की आवश्यकता है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "योग्यता सूची से छात्रों का चयन 10 तक के समूहों में किया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अनाथ छात्रों के लिए, संबंधित जानकारी को \"हां\" के रूप में चिह्नित किया जाना चाहिए।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "7. दिए गए विकल्प में बैंक खाते की जानकारी प्रदान की जानी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "8. आवेदन को बंद करने के लिए \"आवेदन करें\" पर क्लिक करने से पहले सभी भरे हुए विवरणों की सावधानीपूर्वक जांच की जानी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "9. स्कूल के प्रधानाचार्य अपने मोबाइल नंबर पर प्राप्त ओ. टी. पी. की मदद से प्रस्ताव भेजेंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "10. अंतिम तिथि तक लॉक नहीं किए गए आवेदन स्वचालित रूप से लॉक हो जाएंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "11. अयोग्य छात्रों को \"अस्वीकार करें\" बटन पर क्लिक करके और अस्वीकृति का कारण प्रदान करके अस्वीकार किया जा सकता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "विद्यार्थी"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोडल अधिकारी की जानकारीः",
+                "bold": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "पदनामः",
+                "bold": true
+              },
+              {
+                "text": "निदेशक, माध्यमिक शिक्षा राजस्थान, बीकानेर"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "ई-मेल आईडीः",
+                "bold": true
+              },
+              {
+                "text": "deo.scholar.dse@rajasthan.gov.in"
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रियाः चरण 1: योजना का लाभ उठाने के लिए आवेदक को अपने संबंधित स्कूल या कॉलेज प्रशासन से संपर्क करना होगा। चरण 2: स्कूल/कॉलेज में सभी अनिवार्य दस्तावेजों (यदि आवश्यक हो तो स्व-सत्यापित) की प्रतियां जमा करें। * * * पूरी आवेदन प्रक्रिया का प्रबंधन स्कूल के प्रधानाचार्य द्वारा लाभार्थी मॉड्यूल के माध्यम से किया जाता है। * * * 1। शालदर्पण आधिकारिक पोर्टल पर जाएँ और & quot; [स्कूल/कार्यालय लॉगिन] (https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/DBT_CommonLogin.aspx) & quot; 1 पर क्लिक करें। आवेदन करने के लिए लाभार्थी पोर्टल पर लॉग इन करें और ई. डब्ल्यू. एस. और ओ. बी. सी. श्रेणी के छात्रों के लिए कक्षा-वार डेटा देखने के लिए 'अन्य योजनाएं' पर क्लिक करें। 1. जिन छात्रों के लिए डेटा भरा गया है, उनकी सूची प्रदर्शित की जाएगी। 1. आवेदन भरने के लिए योग्य छात्र के नाम के बगल में 'आवेदन करें' बटन पर क्लिक करें। 1. छात्र का आवेदन खुल जाएगा, और निम्नलिखित विवरण भरने की आवश्यकता हैः-छात्र का पता। - छात्र के परिवार का जनाधार आईडी नंबर और छात्र के परिवार के मुखिया का जनाधार आईडी। - छात्र का मोबाइल नंबर, माता-पिता का मोबाइल नंबर और परिवार की वार्षिक आय। - पिछले वर्ष की परीक्षा का विवरण और प्राप्त अंक (कक्षा 6,7,8 और 10 के लिए)। - विज्ञान, अंग्रेजी और गणित में पिछले वर्ष के अंक (कक्षा 6,7,8 और 10 के लिए)। - कक्षा 6 से 9 तक पढ़ने वाले छात्रों के लिए, केवल पिछले वर्ष की बोर्ड परीक्षा के अंक और पिछली कक्षा का विवरण भरने की आवश्यकता है। - योग्यता सूची से छात्रों का चयन 10 तक के समूहों में किया जाएगा। - अनाथ छात्रों के लिए, संबंधित जानकारी को 'हां' के रूप में चिह्नित किया जाना चाहिए। 7. दिए गए विकल्प में बैंक खाते की जानकारी प्रदान की जानी चाहिए। 8. आवेदन को बंद करने के लिए 'आवेदन करें' पर क्लिक करने से पहले सभी भरे हुए विवरणों की सावधानीपूर्वक जांच की जानी चाहिए। 9. स्कूल के प्रधानाचार्य अपने मोबाइल नंबर पर प्राप्त ओ. टी. पी. की मदद से प्रस्ताव भेजेंगे। 10. अंतिम तिथि तक लॉक नहीं किए गए आवेदन स्वचालित रूप से लॉक हो जाएंगे। 11. अयोग्य छात्रों को 'अस्वीकार करें' बटन पर क्लिक करके और अस्वीकृति का कारण प्रदान करके अस्वीकार किया जा सकता है। छात्र * * * नोडल अधिकारी की जानकारीः * * * * * पदनामः * * निदेशक, माध्यमिक शिक्षा राजस्थान, बीकानेर * * ई-मेल आईडीः * * deo.scholar.dse@rajasthan.gov.in"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "ews",
+          "gte": 12,
+          "lte": 21
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Completed",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Completed",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. छात्र को आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित होना चाहिए। 1. छात्रा राजस्थान के सरकारी स्कूलों में पढ़ रही है। 1. आवेदक को 10वीं या 12वीं कक्षा में नामांकित होना चाहिए। छात्र को राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर (कला, वाणिज्य और विज्ञान धाराओं के लिए) द्वारा आयोजित 10वीं और 12वीं कक्षा की बोर्ड परीक्षाओं में उच्चतम अंक प्राप्त करने चाहिए। राज्य और केंद्र सरकार द्वारा संचालित किसी भी अन्य प्रोत्साहन योजनाओं से लाभान्वित होने वाले छात्र भी इस योजना के तहत लाभ प्राप्त करने के पात्र होंगे।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रा राजस्थान के सरकारी स्कूलों में पढ़ रही है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 10 में नामांकित होना चाहिए"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "या बारहवीं कक्षा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को 10 में उच्चतम अंक प्राप्त करने चाहिए थे"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "और 12"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर (कला, वाणिज्य और विज्ञान धाराओं के लिए) द्वारा आयोजित कक्षा बोर्ड परीक्षाएँ।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ध्यान देंः",
+                  "bold": true
+                },
+                {
+                  "text": "राज्य और केंद्र सरकार द्वारा संचालित किसी भी अन्य प्रोत्साहन योजनाओं से लाभान्वित होने वाले छात्र भी इस योजना के तहत लाभ प्राप्त करने के पात्र होंगे।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "ews",
+        "gte": 12,
+        "lte": 21
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Completed",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Completed",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. छात्र को आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित होना चाहिए। 1. छात्रा राजस्थान के सरकारी स्कूलों में पढ़ रही है। 1. आवेदक को 10वीं या 12वीं कक्षा में नामांकित होना चाहिए। छात्र को राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर (कला, वाणिज्य और विज्ञान धाराओं के लिए) द्वारा आयोजित 10वीं और 12वीं कक्षा की बोर्ड परीक्षाओं में उच्चतम अंक प्राप्त करने चाहिए। राज्य और केंद्र सरकार द्वारा संचालित किसी भी अन्य प्रोत्साहन योजनाओं से लाभान्वित होने वाले छात्र भी इस योजना के तहत लाभ प्राप्त करने के पात्र होंगे।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) से संबंधित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्रा राजस्थान के सरकारी स्कूलों में पढ़ रही है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को 10 में नामांकित होना चाहिए"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "या बारहवीं कक्षा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को 10 में उच्चतम अंक प्राप्त करने चाहिए थे"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "और 12"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर (कला, वाणिज्य और विज्ञान धाराओं के लिए) द्वारा आयोजित कक्षा बोर्ड परीक्षाएँ।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "ध्यान देंः",
+                "bold": true
+              },
+              {
+                "text": "राज्य और केंद्र सरकार द्वारा संचालित किसी भी अन्य प्रोत्साहन योजनाओं से लाभान्वित होने वाले छात्र भी इस योजना के तहत लाभ प्राप्त करने के पात्र होंगे।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar/Janadhar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "EWS Category Certificate "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marksheet"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note: ",
+              "bold": true
+            },
+            {
+              "text": "Entry of Aadhaar number in the application and verification of Janadhaar is mandatory."
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar/Janadhar Card\n1. EWS Category Certificate \n1. Marksheet\n1. Any Other Document if Required\n\n**Note:** Entry of Aadhaar number in the application and verification of Janadhaar is mandatory.\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार/जनाधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ई. डब्ल्यू. एस. श्रेणी प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मार्कशीट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "आवेदन में आधार संख्या की प्रविष्टि और जनाधार का सत्यापन अनिवार्य है।"
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar/Janadhar Card\n1. EWS Category Certificate \n1. Marksheet\n1. Any Other Document if Required\n\n**Note:** Entry of Aadhaar number in the application and verification of Janadhaar is mandatory.\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the eligibility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants must be permanent residents of Rajasthan, belong to the EWS category, and have passed Class 10 or 12 board exams under RBSE. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants must be permanent residents of Rajasthan, belong to the EWS category, and have passed Class 10 or 12 board exams under RBSE. \n"
+        },
+        {
+          "question": "What amount is provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹50,000/- per student per year for class 10 and 12 pass-outs with the highest marks. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹50,000/- per student per year for class 10 and 12 pass-outs with the highest marks. \n"
+        },
+        {
+          "question": "Is any exam required?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No separate exam is needed; selection is based on board exam results.   "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No separate exam is needed; selection is based on board exam results.   \n"
+        },
+        {
+          "question": "Is there any age limit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "What is the mode of payment?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The amount is transferred through Direct Benefit Transfer (DBT) to the bank account linked to the student's Janadhar."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred through Direct Benefit Transfer (DBT) to the bank account linked to the student&#39;s Janadhar.\n"
+        },
+        {
+          "question": "Is there any income limit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No specific income limit, student should be fall under the EWS category."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No specific income limit, student should be fall under the EWS category.\n"
+        },
+        {
+          "question": "Are documents required?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, Aadhaar Card/Janadhar Card, Marksheet, EWS Certificate, etc. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Aadhaar Card/Janadhar Card, Marksheet, EWS Certificate, etc. \n"
+        },
+        {
+          "question": "What is the nodal officer detail of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The nodal officer is the Directorate of Secondary Education Rajasthan Bikaner. Email ID: deo.scholar.dse@rajasthan.gov.in"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The nodal officer is the Directorate of Secondary Education Rajasthan Bikaner. Email ID: deo.scholar.dse@rajasthan.gov.in\n"
+        },
+        {
+          "question": "How to apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The complete application process is managed by the school principal through the Shaladarpan Beneficiary module."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The complete application process is managed by the school principal through the Shaladarpan Beneficiary module.\n"
+        },
+        {
+          "question": "How to get more information about the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Visit the School Education Department, Rajasthan Council of School Education official website. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Visit the School Education Department, Rajasthan Council of School Education official website. \n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "पात्रता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदकों को राजस्थान का स्थायी निवासी होना चाहिए, ईडब्ल्यूएस श्रेणी से संबंधित होना चाहिए, और आरबीएसई के तहत कक्षा 10 या 12 की बोर्ड परीक्षा उत्तीर्ण होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants must be permanent residents of Rajasthan, belong to the EWS category, and have passed Class 10 or 12 board exams under RBSE. \n"
+        },
+        {
+          "question": "कितनी राशि प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उच्चतम अंकों के साथ कक्षा 10 और 12 उत्तीर्ण छात्रों के लिए प्रति छात्र प्रति वर्ष ₹50,000/-।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹50,000/- per student per year for class 10 and 12 pass-outs with the highest marks. \n"
+        },
+        {
+          "question": "क्या किसी परीक्षा की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कोई अलग परीक्षा की आवश्यकता नहीं है; चयन बोर्ड परीक्षा के परिणामों पर आधारित है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No separate exam is needed; selection is based on board exam results.   \n"
+        },
+        {
+          "question": "क्या कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "भुगतान का तरीका क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह राशि छात्र के जनाधार से जुड़े बैंक खाते में प्रत्यक्ष लाभ हस्तांतरण (डी. बी. टी.) के माध्यम से हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred through Direct Benefit Transfer (DBT) to the bank account linked to the student&#39;s Janadhar.\n"
+        },
+        {
+          "question": "क्या आय की कोई सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आय की कोई विशिष्ट सीमा नहीं है, छात्र ई. डब्ल्यू. एस. श्रेणी के अंतर्गत आना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No specific income limit, student should be fall under the EWS category.\n"
+        },
+        {
+          "question": "क्या दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आधार कार्ड/जनाधार कार्ड, मार्कशीट, ई. डब्ल्यू. एस. प्रमाण पत्र आदि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Aadhaar Card/Janadhar Card, Marksheet, EWS Certificate, etc. \n"
+        },
+        {
+          "question": "योजना के नोडल अधिकारी का विवरण क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नोडल अधिकारी माध्यमिक शिक्षा निदेशालय राजस्थान बीकानेर है। ईमेल आईडीः deo.scholar.dse@rajasthan.gov.in"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The nodal officer is the Directorate of Secondary Education Rajasthan Bikaner. Email ID: deo.scholar.dse@rajasthan.gov.in\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पूर्ण आवेदन प्रक्रिया का प्रबंधन विद्यालय के प्राचार्य द्वारा शालदर्पण लाभार्थी मॉड्यूल के माध्यम से किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The complete application process is managed by the school principal through the Shaladarpan Beneficiary module.\n"
+        },
+        {
+          "question": "योजना के बारे में अधिक जानकारी कैसे प्राप्त करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "स्कूल शिक्षा विभाग, राजस्थान स्कूल शिक्षा परिषद की आधिकारिक वेबसाइट पर जाएँ।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Visit the School Education Department, Rajasthan Council of School Education official website. \n"
+        }
+      ]
+    }
+  }
+}

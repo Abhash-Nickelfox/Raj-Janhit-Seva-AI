@@ -1,0 +1,1337 @@
+{
+  "scheme_id": "64aaee88481f59106a71e05e",
+  "slug": "cmsasps",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2013-04-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "Pension"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Empowerment",
+        "Pension",
+        "Differently Abled"
+      ],
+      "schemeName": "Chief Minister Specially Abled Samman Pension Scheme",
+      "schemeShortTitle": "CMSASPS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Details",
+          "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+        },
+        {
+          "title": "Guidelines",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/113"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Chief Minister Specially Abled Samman Pension Scheme has been launched by the Government of Rajasthan. This scheme is an important scheme by the Government of Rajasthan for the Divyangjan of the state. It was started mainly to provide financial assistance to disabled persons.\nIn State, a specially-abled person of any age who is suffering from any one or more disabilities (40% and above disability) will be eligible for a pension. From October 2, 2021, the process of issuing automatic approval of applications received online without human intervention was started using the metadata available on the Jan Aadhaar portal for the pension scheme.\n",
+      "benefits_md": "\n1. For women below 55 years of age and men below 58 years of age: Rs. 750/- per month. \n1. To women aged 55 years and above, men aged 58 years and above but less than 75 years of age: Rs. 1,000/- per month.\n1. To the beneficiaries of 75 years and above age ( male and female): Rs. 1,250/- per month.\n1. To leprosy-free beneficiaries of all ages  ( male and female): Rs. 1,500/- per month. \n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "Rajasthan Government started a scholarship for Specially Abled persons. ",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Chief Minister Specially Abled Samman Pension Scheme has been launched by the Government of Rajasthan. This scheme is an important scheme by the Government of Rajasthan for the Divyangjan of the state. It was started mainly to provide financial assistance to disabled persons."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In State, a specially-abled person of any age who is suffering from any one or more disabilities (40% and above disability) will be eligible for a pension. From October 2, 2021, the process of issuing automatic approval of applications received online without human intervention was started using the metadata available on the Jan Aadhaar portal for the pension scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For women below 55 years of age and men below 58 years of age: Rs. 750/- per month. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To women aged 55 years and above, men aged 58 years and above but less than 75 years of age: Rs. 1,000/- per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To the beneficiaries of 75 years and above age ( male and female): Rs. 1,250/- per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To leprosy-free beneficiaries of all ages  ( male and female): Rs. 1,500/- per month. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://emitra.rajasthan.gov.in/emitra/home",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to visit the"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": " official portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ". "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If applicants are existing SSO users, log in with their SSO user and password. and If applicants don’t have SSO Id then create one by clicking “Registration”. Applicants can create SSO IDs by using Janaadhar & Google"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Completing the SSO profile process. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select Appropriate Scheme and click on the “Next” button"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out all required academic information and click on the “Submit” button "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicants have to visit the[ official portal](https://emitra.rajasthan.gov.in/emitra/home). 1. Click on login.\n1. If applicants are existing SSO users, log in with their SSO user and password. and If applicants don’t have SSO Id then create one by clicking “Registration”. Applicants can create SSO IDs by using Janaadhar &amp; Google\n1. Completing the SSO profile process. \n1. Select Appropriate Scheme and click on the “Next” button\n1. Fill out all required academic information and click on the “Submit” button \n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Specially abled persons of any age with 40% and above disability.\n1. Applicants are suffering from any one or more following disabilities : \n\n   1. Blindness, \n   1. Short-sightedness, \n   1. Locomotor disability, \n   1. Leprosy free, \n   1. Hearing loss, \n   1. Mental retardation, \n   1. Mental illness, \n   1. Dwarfism (less than 3 feet 6 inches in height in case of an adult and holding a certificate issued by an authorized medical officer),\n   1. Naturally suffering from eunuchism.\n\n1. Native of Rajasthan and living in Rajasthan.\n1. Own combined annual income (from all sources) is up to Rs. 60,000/-.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Specially abled persons of any age with 40% and above disability."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicants are suffering from any one or more following disabilities : "
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Blindness, "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Short-sightedness, "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Locomotor disability, "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Leprosy free, "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Hearing loss, "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Mental retardation, "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Mental illness, "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Dwarfism (less than 3 feet 6 inches in height in case of an adult and holding a certificate issued by an authorized medical officer),"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Naturally suffering from eunuchism."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Native of Rajasthan and living in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Own combined annual income (from all sources) is up to Rs. 60,000/-."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2013-04-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "पेंशन"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "सशक्तिकरण",
+        "पेंशन",
+        "भिन्न रूप से सक्षम"
+      ],
+      "schemeName": "मुख्यमंत्री विशेष रूप से सक्षम सम्मान पेंशन योजना",
+      "schemeShortTitle": "CMSASPS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "विवरण",
+          "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+        },
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/113"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार द्वारा मुख्यमंत्री विशेष रूप से सक्षम सम्मान पेंशन योजना का शुभारंभ किया गया है। यह योजना राज्य के दिव्यांगजनों के लिए राजस्थान सरकार की एक महत्वपूर्ण योजना है। इसकी शुरुआत मुख्य रूप से विकलांग व्यक्तियों को वित्तीय सहायता प्रदान करने के लिए की गई थी। राज्य में, किसी भी आयु का एक विशेष रूप से सक्षम व्यक्ति जो किसी एक या अधिक अक्षमता (40 प्रतिशत और उससे अधिक अक्षमता) से पीड़ित है, पेंशन के लिए पात्र होगा। 2 अक्टूबर, 2021 से, पेंशन योजना के लिए जन आधार पोर्टल पर उपलब्ध मेटाडेटा का उपयोग करके मानव हस्तक्षेप के बिना ऑनलाइन प्राप्त आवेदनों की स्वचालित मंजूरी जारी करने की प्रक्रिया शुरू की गई थी।",
+      "benefits_md": "1. 55 वर्ष से कम आयु की महिलाओं और 58 वर्ष से कम आयु के पुरुषों के लिएः रु। 750/- प्रति माह। 1. 55 वर्ष और उससे अधिक आयु की महिलाओं के लिए, 58 वर्ष और उससे अधिक आयु के लेकिन 75 वर्ष से कम आयु के पुरुषः रु। 1, 000/- प्रति माह। 1. 75 वर्ष और उससे अधिक आयु (पुरुष और महिला) के लाभार्थियों के लिएः रु। 1, 250/- प्रति माह। 1. सभी उम्र (पुरुष और महिला) के कुष्ठ रोग मुक्त लाभार्थियों के लिएः रु। 1500/- प्रति माह।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "राजस्थान सरकार ने विशेष रूप से सक्षम व्यक्तियों के लिए छात्रवृत्ति शुरू की।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार द्वारा मुख्यमंत्री विशेष रूप से सक्षम सम्मान पेंशन योजना का शुभारंभ किया गया है। यह योजना राज्य के दिव्यांगजनों के लिए राजस्थान सरकार की एक महत्वपूर्ण योजना है। इसकी शुरुआत मुख्य रूप से विकलांग व्यक्तियों को वित्तीय सहायता प्रदान करने के लिए की गई थी।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य में, किसी भी आयु का एक विशेष रूप से सक्षम व्यक्ति जो किसी एक या अधिक अक्षमता (40 प्रतिशत और उससे अधिक अक्षमता) से पीड़ित है, पेंशन के लिए पात्र होगा। 2 अक्टूबर, 2021 से, पेंशन योजना के लिए जन आधार पोर्टल पर उपलब्ध मेटाडेटा का उपयोग करके मानव हस्तक्षेप के बिना ऑनलाइन प्राप्त आवेदनों की स्वचालित मंजूरी जारी करने की प्रक्रिया शुरू की गई थी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "55 वर्ष से कम आयु की महिलाओं और 58 वर्ष से कम आयु के पुरुषों के लिएः रु। 750/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "55 वर्ष और उससे अधिक आयु की महिलाओं के लिए, 58 वर्ष और उससे अधिक आयु के लेकिन 75 वर्ष से कम आयु के पुरुषः रु। 1, 000/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "75 वर्ष और उससे अधिक आयु (पुरुष और महिला) के लाभार्थियों के लिएः रु। 1, 250/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सभी उम्र (पुरुष और महिला) के कुष्ठ रोग मुक्त लाभार्थियों के लिएः रु। 1500/- प्रति माह।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://emitra.rajasthan.gov.in/emitra/home",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदकों को जाना होगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "आधिकारिक पोर्टल"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लॉगिन पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि आवेदक मौजूदा एसएसओ उपयोगकर्ता हैं, तो अपने एसएसओ उपयोगकर्ता और पासवर्ड के साथ लॉग इन करें. और यदि आवेदकों के पास एसएसओ आईडी नहीं है तो \"पंजीकरण\" पर क्लिक करके एक बनाएं। आवेदक जनाधर और गूगल का उपयोग करके एसएसओ आईडी बना सकते हैं"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एस. एस. ओ. प्रोफाइल प्रक्रिया को पूरा करना।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उपयुक्त योजना चुनें और \"अगला\" बटन पर क्लिक करें"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सभी आवश्यक शैक्षणिक जानकारी भरें और \"जमा करें\" बटन पर क्लिक करें"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदकों को [आधिकारिक पोर्टल] (https://emitra.rajasthan.gov.in/emitra/home) पर जाना होगा। 1. लॉगिन पर क्लिक करें। 1. यदि आवेदक मौजूदा एसएसओ उपयोगकर्ता हैं, तो अपने एसएसओ उपयोगकर्ता और पासवर्ड के साथ लॉग इन करें। और यदि आवेदकों के पास एसएसओ आईडी नहीं है तो \"पंजीकरण\" पर क्लिक करके एक आईडी बनाएँ। आवेदक जनाधर और गूगल 1 का उपयोग करके एसएसओ आईडी बना सकते हैं। एस. एस. ओ. प्रोफाइल प्रक्रिया को पूरा करना। 1. उपयुक्त योजना चुनें और \"अगला\" बटन 1 पर क्लिक करें। सभी आवश्यक शैक्षणिक जानकारी भरें और \"जमा करें\" बटन पर क्लिक करें"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "pwd"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": 60000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": 60000
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. 40 प्रतिशत और उससे अधिक अक्षमता वाले किसी भी आयु के विशेष रूप से सक्षम व्यक्ति। 1. आवेदक निम्नलिखित एक या अधिक अक्षमताओं से पीड़ित हैंः अंधापन, 1. अदूरदर्शिता, 1. लोकोमोटर अक्षमता, 1. कुष्ठ रोग मुक्त, 1. श्रवण हानि, 1. मानसिक मंदता, 1. मानसिक बीमारी, 1. बौनापन (एक वयस्क के मामले में ऊंचाई में 3 फीट 6 इंच से कम और एक अधिकृत चिकित्सा अधिकारी द्वारा जारी प्रमाण पत्र रखने वाला), 1. स्वाभाविक रूप से नपुंसकता से पीड़ित। 1. राजस्थान के मूल निवासी और राजस्थान में रहते हैं। 1. अपनी संयुक्त वार्षिक आय (सभी स्रोतों से) रु। 60, 000/-",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": 60000
+      },
+      "disabilityPercentage": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "40 प्रतिशत और उससे अधिक अक्षमता वाले किसी भी आयु के विशेष रूप से सक्षम व्यक्ति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक निम्नलिखित में से किसी एक या अधिक अक्षमताओं से पीड़ित हैंः"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अंधापन,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अल्पदृष्टि,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "लोकोमोटर अक्षमता,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कुष्ठ रोग मुक्त,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "श्रवण हानि,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "मानसिक मंदता,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "मानसिक बीमारी,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बौनापन (एक वयस्क के मामले में ऊंचाई में 3 फीट 6 इंच से कम और एक अधिकृत चिकित्सा अधिकारी द्वारा जारी प्रमाण पत्र रखने वाला),"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्वाभाविक रूप से नपुंसकता से पीड़ित।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान के मूल निवासी और राजस्थान में रहते हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अपनी संयुक्त वार्षिक आय (सभी स्रोतों से) रु। 60, 000/-"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "disability": true,
+      "disabilityType": [
+        {
+          "value": "blindness",
+          "label": "Blindness"
+        },
+        {
+          "value": "low-vision",
+          "label": "Low-Vision"
+        },
+        {
+          "value": "locomotor-disability",
+          "label": "Locomotor Disability"
+        },
+        {
+          "value": "leprosy-cured-persons",
+          "label": "Leprosy Cured Persons"
+        },
+        {
+          "value": "hearing-impairment",
+          "label": "Hearing Impairment"
+        },
+        {
+          "value": "mental-illness",
+          "label": "Mental Illness"
+        },
+        {
+          "value": "dwarfism",
+          "label": "Dwarfism"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "pwd"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": 60000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": 60000
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. 40 प्रतिशत और उससे अधिक अक्षमता वाले किसी भी आयु के विशेष रूप से सक्षम व्यक्ति। 1. आवेदक निम्नलिखित एक या अधिक अक्षमताओं से पीड़ित हैंः अंधापन, 1. अदूरदर्शिता, 1. लोकोमोटर अक्षमता, 1. कुष्ठ रोग मुक्त, 1. श्रवण हानि, 1. मानसिक मंदता, 1. मानसिक बीमारी, 1. बौनापन (एक वयस्क के मामले में ऊंचाई में 3 फीट 6 इंच से कम और एक अधिकृत चिकित्सा अधिकारी द्वारा जारी प्रमाण पत्र रखने वाला), 1. स्वाभाविक रूप से नपुंसकता से पीड़ित। 1. राजस्थान के मूल निवासी और राजस्थान में रहते हैं। 1. अपनी संयुक्त वार्षिक आय (सभी स्रोतों से) रु। 60, 000/-",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": 60000
+    },
+    "disabilityPercentage": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "40 प्रतिशत और उससे अधिक अक्षमता वाले किसी भी आयु के विशेष रूप से सक्षम व्यक्ति।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक निम्नलिखित में से किसी एक या अधिक अक्षमताओं से पीड़ित हैंः"
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अंधापन,"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अल्पदृष्टि,"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लोकोमोटर अक्षमता,"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "कुष्ठ रोग मुक्त,"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "श्रवण हानि,"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मानसिक मंदता,"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मानसिक बीमारी,"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "बौनापन (एक वयस्क के मामले में ऊंचाई में 3 फीट 6 इंच से कम और एक अधिकृत चिकित्सा अधिकारी द्वारा जारी प्रमाण पत्र रखने वाला),"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "स्वाभाविक रूप से नपुंसकता से पीड़ित।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "राजस्थान के मूल निवासी और राजस्थान में रहते हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अपनी संयुक्त वार्षिक आय (सभी स्रोतों से) रु। 60, 000/-"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "disability": true,
+    "disabilityType": [
+      {
+        "value": "blindness",
+        "label": "Blindness"
+      },
+      {
+        "value": "low-vision",
+        "label": "Low-Vision"
+      },
+      {
+        "value": "locomotor-disability",
+        "label": "Locomotor Disability"
+      },
+      {
+        "value": "leprosy-cured-persons",
+        "label": "Leprosy Cured Persons"
+      },
+      {
+        "value": "hearing-impairment",
+        "label": "Hearing Impairment"
+      },
+      {
+        "value": "mental-illness",
+        "label": "Mental Illness"
+      },
+      {
+        "value": "dwarfism",
+        "label": "Dwarfism"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bhamashah Card Copy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card Copy\n1. Bhamashah Card Copy\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भामाशाह कार्ड की प्रतिलिपि"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card Copy\n1. Bhamashah Card Copy\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan Government started a scholarship for Specially Abled persons."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Government started a scholarship for Specially Abled persons.\n"
+        },
+        {
+          "question": "What Are The Benefits Under The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial assistance for specially-abled persons of any age. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial assistance for specially-abled persons of any age. \n"
+        },
+        {
+          "question": "Who Can Get The Benefits Of The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan State Native person who are Specially abled persons with 40% and above disability."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan State Native person who are Specially abled persons with 40% and above disability.\n"
+        },
+        {
+          "question": "May other state person apply for the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this is only for rajasthan state persons"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this is only for rajasthan state persons\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicants have to visit the official portal. \n2. Click on login. \n3. If applicants are existing SSO users, log in with their SSO user and password. and If applicants don’t have SSO Id then create one by clicking “Registration”. Applicants can create SSO IDs by using Janaadhar & Google. \n4. Completing the SSO profile process. \n5. Select Appropriate Scheme and click on the “Next” button. \n6. Fill out all required academic information and click on the “Submit” button "
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants have to visit the official portal. \n2. Click on login. \n3. If applicants are existing SSO users, log in with their SSO user and password. and If applicants don't have SSO Id then create one by clicking \"Registration\". Applicants can create SSO IDs by using Janaadhar & Google. \n4. Completing the SSO profile process. \n5. Select Appropriate Scheme and click on the \"Next\" button. \n6. Fill out all required academic information and click on the \"Submit\" button \n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Aadhar Card Copy. \n2. Bhamashah Card Copy."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhar Card Copy. \n2. Bhamashah Card Copy.\n"
+        },
+        {
+          "question": "What is the official portal to apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Follow the URL :https://emitra.rajasthan.gov.in/emitra/home"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Follow the URL :https://emitra.rajasthan.gov.in/emitra/home\n"
+        },
+        {
+          "question": "What is the pension amount for the women & men who are below 55 years & 58 years of age respectively ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For women below 55 years of age and men below 58 years of age: Rs. 750/- per month. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "For women below 55 years of age and men below 58 years of age: Rs. 750/- per month. \n"
+        },
+        {
+          "question": "Under which disabilities pension amount will be provided ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Blindness, \n2. Short-sightedness, \n3. Locomotor disability, \n4. Leprosy free,\n5. Hearing loss, \n6. Mental retardation, \n7. Mental illness, \n8. Dwarfism (less than 3 feet 6 inches in height in case of an adult and holding a certificate issued by an authorized medical officer),\n9. Naturally suffering from eunuchism."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Blindness, \n2. Short-sightedness, \n3. Locomotor disability, \n4. Leprosy free,\n5. Hearing loss, \n6. Mental retardation, \n7. Mental illness, \n8. Dwarfism (less than 3 feet 6 inches in height in case of an adult and holding a certificate issued by an authorized medical officer),\n9. Naturally suffering from eunuchism.\n"
+        },
+        {
+          "question": "What is financial Eligibility for the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Own combined annual income (from all sources) should be up to Rs. 60,000/-."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Own combined annual income (from all sources) should be up to Rs. 60,000/-.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह क्या योजना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार ने विशेष रूप से सक्षम व्यक्तियों के लिए छात्रवृत्ति शुरू की।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Government started a scholarship for Specially Abled persons.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "किसी भी आयु के विशेष रूप से सक्षम व्यक्तियों के लिए वित्तीय सहायता।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial assistance for specially-abled persons of any age. \n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान राज्य के मूल निवासी व्यक्ति जो 40 प्रतिशत और उससे अधिक विकलांगता वाले विशेष रूप से सक्षम व्यक्ति हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan State Native person who are Specially abled persons with 40% and above disability.\n"
+        },
+        {
+          "question": "क्या राज्य का कोई अन्य व्यक्ति इस योजना के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह केवल राजस्थान राज्य के व्यक्तियों के लिए है"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this is only for rajasthan state persons\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. उम्मीदवारों को आधिकारिक पोर्टल पर जाना होगा। 2. लॉगिन पर क्लिक करें। 3. यदि आवेदक मौजूदा एसएसओ उपयोगकर्ता हैं, तो अपने एसएसओ उपयोगकर्ता और पासवर्ड के साथ लॉग इन करें. और यदि आवेदकों के पास एसएसओ आईडी नहीं है तो \"पंजीकरण\" पर क्लिक करके एक बनाएं। आवेदक जनाधर और गूगल का उपयोग करके एसएसओ आईडी बना सकते हैं। 4. एस. एस. ओ. प्रोफाइल प्रक्रिया को पूरा करना। 5. उपयुक्त योजना चुनें और \"अगला\" बटन पर क्लिक करें। 6. सभी आवश्यक शैक्षणिक जानकारी भरें और \"जमा करें\" बटन पर क्लिक करें"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants have to visit the official portal. \n2. Click on login. \n3. If applicants are existing SSO users, log in with their SSO user and password. and If applicants don't have SSO Id then create one by clicking \"Registration\". Applicants can create SSO IDs by using Janaadhar & Google. \n4. Completing the SSO profile process. \n5. Select Appropriate Scheme and click on the \"Next\" button. \n6. Fill out all required academic information and click on the \"Submit\" button \n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आधार कार्ड की प्रतिलिपि। 2. भामाशाह कार्ड की प्रतिलिपि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhar Card Copy. \n2. Bhamashah Card Copy.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यू. आर. एल. का पालन करेंः https://emitra.rajasthan.gov.in/emitra/home"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Follow the URL :https://emitra.rajasthan.gov.in/emitra/home\n"
+        },
+        {
+          "question": "55 वर्ष और 58 वर्ष से कम आयु की महिलाओं और पुरुषों के लिए पेंशन राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "55 वर्ष से कम आयु की महिलाओं और 58 वर्ष से कम आयु के पुरुषों के लिएः रु। 750/- प्रति माह।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "For women below 55 years of age and men below 58 years of age: Rs. 750/- per month. \n"
+        },
+        {
+          "question": "किस दिव्यांगता पेंशन राशि के तहत प्रदान की जाएगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. अंधापन, 2. अदूरदर्शिता, 3. लोकोमोटर अक्षमता, 4. कुष्ठ रोग मुक्त, 5. श्रवण हानि, 6. मानसिक मंदता, 7. मानसिक बीमारी, 8. बौनापन (एक वयस्क के मामले में ऊंचाई में 3 फीट 6 इंच से कम और एक अधिकृत चिकित्सा अधिकारी द्वारा जारी प्रमाण पत्र रखने वाला), 9. स्वाभाविक रूप से नपुंसकता से पीड़ित।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Blindness, \n2. Short-sightedness, \n3. Locomotor disability, \n4. Leprosy free,\n5. Hearing loss, \n6. Mental retardation, \n7. Mental illness, \n8. Dwarfism (less than 3 feet 6 inches in height in case of an adult and holding a certificate issued by an authorized medical officer),\n9. Naturally suffering from eunuchism.\n"
+        },
+        {
+          "question": "इस योजना के लिए वित्तीय पात्रता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अपनी संयुक्त वार्षिक आय (सभी स्रोतों से) रु। 60, 000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Own combined annual income (from all sources) should be up to Rs. 60,000/-.\n"
+        }
+      ]
+    }
+  }
+}

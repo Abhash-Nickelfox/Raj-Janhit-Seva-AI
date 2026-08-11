@@ -1,0 +1,2430 @@
+{
+  "scheme_id": "67bc80da3f0a68c9ea3b1d44",
+  "slug": "msyr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Financial Assistance",
+        "NGOs",
+        "Voluntary Organizations",
+        "Destitute Women",
+        "Skill Training"
+      ],
+      "schemeName": "Mahila Swayamsiddha Yojana Rajasthan",
+      "schemeShortTitle": "MSYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Vocational Courses",
+          "label": "Vocational Courses"
+        },
+        {
+          "value": "Voctional education",
+          "label": "Voctional education"
+        },
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "Training and Skill Up-gradation"
+        },
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "Shelter, integrated support and assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "trust",
+          "label": "Trust"
+        },
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=344"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Mahila Swayamsiddha Yojana&quot; implemented by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide skill training and self-employment opportunities to widowed, abandoned, and destitute women. Under this scheme, free vocational training is offered in Nariniketan buildings, operated via voluntary organizations.\n<br>\n\n> ***Objective:***\n\n\n- Free vocational training for skill development in various trades.\n- Accommodation and food provisions for enrolled women and their children.\n- Financial assistance to NGOs operating training centers.\n- The training period ranges from 3 months to 1 year.\n- Assistance in securing employment or availing loans for self-employment.\n- Monthly stipend for participating women.\n\n<br>\n\n> ***Women should belong to one of the following categories:***\n\n\n- Widowed, abandoned, or destitute women facing social neglect.\n- Women released from imprisonment without family support.\n- Women affected by natural disasters, lacking social and financial assistance.\n- Women rescued from exploitation, trafficking, or forced labor.\n- Women affected by terrorism or extremist activities.\n- Women suffering from mental illness, except those requiring institutional psychiatric care.\n- Women living with HIV/AIDS who are abandoned by their families.\n- Other women facing extreme social and economic distress.\n\n<br>\n\n",
+      "benefits_md": "***The non-governmental organization provides grant funds by the state government as per the regulations:***\n**S.NO.****Details of Position/Expense****Number of Positions****Monthly Expenses****Annual Expenses**1 (A)Doctor (part-time)01₹3,000/-₹36,000/-2 (A)Craft Teacher02₹10,000/-₹1,20,000/-**Total (A)****₹13,000/-****₹1,56,000/-**1 (B)Other Recurring Expenses                       For the purchase of raw materials (100 rupees per woman per month) 50 for Women**-**₹5,000/-₹60,000/-2 (B)Resident&amp;amp;amp;#39;s food, clerk, cooks, watchman, Class IV employees, cleaning work etc. and newspapers and magazines (Rs 675 per woman per month) for 50 women**-**₹33,750/-                                                                          ₹4,05,000/-\n**Total (B)****₹38,750/-****₹4,65,000/-****Total (A+B)****₹51,750/-****₹6,21,000/-**<br>\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme objective is to provide free skill training and self-employment support to widowed, abandoned, and destitute women through voluntary organizations. The scheme is implemented by the Social Justice and Empowerment Department with financial assistance provided to participating NGOs. ",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Mahila Swayamsiddha Yojana\" implemented by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide skill training and self-employment opportunities to widowed, abandoned, and destitute women. Under this scheme, free vocational training is offered in Nariniketan buildings, operated via voluntary organizations."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Objective:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free vocational training for skill development in various trades."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Accommodation and food provisions for enrolled women and their children."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance to NGOs operating training centers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The training period ranges from 3 months to 1 year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance in securing employment or availing loans for self-employment."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Monthly stipend for participating women."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Women should belong to one of the following categories:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Widowed, abandoned, or destitute women facing social neglect."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women released from imprisonment without family support."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women affected by natural disasters, lacking social and financial assistance."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women rescued from exploitation, trafficking, or forced labor."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women affected by terrorism or extremist activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women suffering from mental illness, except those requiring institutional psychiatric care."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women living with HIV/AIDS who are abandoned by their families."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other women facing extreme social and economic distress."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The non-governmental organization provides grant funds by the state government as per the regulations:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "S.NO.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Details of Position/Expense",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Number of Positions",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Monthly Expenses",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Annual Expenses",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table",
+                  "children": [
+                    {
+                      "type": "table_row",
+                      "children": [
+                        {
+                          "type": "table_cell",
+                          "children": [
+                            {
+                              "text": "1 (A)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Doctor (part-time)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "01"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹36,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 (A)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Craft Teacher"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "02"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹10,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,20,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Total (A)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹13,000/-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,56,000/-",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 (B)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Other Recurring Expenses                       For the purchase of raw materials (100 rupees per woman per month) 50 for Women"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹5,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹60,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 (B)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Resident's food, clerk, cooks, watchman, Class IV employees, cleaning work etc. and newspapers and magazines (Rs 675 per woman per month) for 50 women"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹33,750/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "                                                                          ₹4,05,000/-"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Total (B)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹38,750/-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,65,000/-",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Total (A+B)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹51,750/-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹6,21,000/-",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Interested voluntary organizations must submit applications in the prescribed format to the District Collector’s Office. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The District Collector’s office reviews and recommends the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The Social Justice and Empowerment Department evaluates the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Eligible organizations receive approval and funding."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true
+              },
+              {
+                "text": " Beneficiary women enroll through the Admission Advisory Committee."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Interested voluntary organizations must submit applications in the prescribed format to the District Collector’s Office. \n**Step 2:** The District Collector’s office reviews and recommends the application.\n**Step 3:** The Social Justice and Empowerment Department evaluates the application.\n**Step 4:** Eligible organizations receive approval and funding.\n**Step 5:** Beneficiary women enroll through the Admission Advisory Committee.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a registered voluntary organization, trust, or NGO.\n1. The organization must be operational for at least three years before applying.\n1. The organization should be non-profit and focused on women’s welfare.\n1. The organization must have a formally structured administrative and management committee.\n1. The organization should not be blacklisted or penalized by any government department.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a registered voluntary organization, trust, or NGO."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The organization must be operational for at least three years before applying."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The organization should be non-profit and focused on women’s welfare."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The organization must have a formally structured administrative and management committee."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The organization should not be blacklisted or penalized by any government department."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "गैर सरकारी संगठन",
+        "स्वैच्छिक संगठन",
+        "बेसहारा महिलाएं",
+        "कौशल प्रशिक्षण"
+      ],
+      "schemeName": "महिला स्वयंसिद्ध योजना राजस्थान",
+      "schemeShortTitle": "MSYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Vocational Courses",
+          "label": "व्यावसायिक पाठ्यक्रम"
+        },
+        {
+          "value": "Voctional education",
+          "label": "मुखर शिक्षा"
+        },
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "प्रशिक्षण और कौशल उन्नयन"
+        },
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "आश्रय, एकीकृत सहायता और सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "trust",
+          "label": "Trust"
+        },
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=344"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "द & quot; महिला स्वयंसिद्ध योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा कार्यान्वित, इसका उद्देश्य विधवा, परित्यक्त और बेसहारा महिलाओं को कौशल प्रशिक्षण और स्व-रोजगार के अवसर प्रदान करना है। इस योजना के तहत, स्वैच्छिक संगठनों के माध्यम से संचालित नारिनिकेतन भवनों में मुफ्त व्यावसायिक प्रशिक्षण प्रदान किया जाता है। * * *-विभिन्न व्यवसायों में कौशल विकास के लिए निःशुल्क व्यावसायिक प्रशिक्षण।-नामांकित महिलाओं और उनके बच्चों के लिए आवास और भोजन का प्रावधान।-प्रशिक्षण केंद्रों का संचालन करने वाले गैर सरकारी संगठनों को वित्तीय सहायता।-प्रशिक्षण अवधि 3 महीने से 1 साल तक होती है।-रोजगार प्राप्त करने में सहायता या स्व-रोजगार के लिए ऋण प्राप्त करना।-भाग लेने वाली महिलाओं के लिए मासिक वजीफा। महिलाओं को निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः * * *-विधवा, परित्यक्त या बेसहारा महिलाओं को सामाजिक उपेक्षा का सामना करना पड़ रहा है।-महिलाओं को बिना परिवार के समर्थन के कारावास से रिहा किया गया।-प्राकृतिक आपदाओं से प्रभावित महिलाएं, सामाजिक और वित्तीय सहायता की कमी।-महिलाओं को शोषण, तस्करी या जबरन श्रम से बचाया गया।-आतंकवाद या चरमपंथी गतिविधियों से प्रभावित महिलाएं।-मानसिक बीमारी से पीड़ित महिलाएं, सिवाय संस्थागत मनोरोग देखभाल की आवश्यकता वाली महिलाओं को छोड़कर।-एचआईवी/एड्स से पीड़ित महिलाएं जिन्हें उनके परिवारों द्वारा छोड़ दिया जाता है।-अन्य महिलाएं जो अत्यधिक सामाजिक और आर्थिक संकट का सामना कर रही हैं",
+      "benefits_md": "* * * गैर-सरकारी संगठन नियमों के अनुसार राज्य सरकार द्वारा अनुदान निधि प्रदान करता हैः * * * * * एस. एन. ओ. * * * * पोजीशन/खर्च का विवरण * * * * मासिक खर्चों की संख्या * * * * वार्षिक खर्च * * 1 (ए) डॉक्टर (अंशकालिक) 1 ₹ 3,000/- ₹ 36,000/- 2 (ए) क्राफ्ट टीचर 02 ₹ 10,000/- ₹ 1,20,000-* * कुल (ए) * * * * ₹ 13,000/- * * * * * ₹ 1,56,000-* * 1 (बी) कच्चे की खरीद के लिए अन्य आवर्ती खर्च (प्रति महिला 100 रुपये प्रति माह) महिलाओं के लिए 50 *-* ₹ 5,000/- ₹ 60,000/- 2 (बी) निवासी और निवासी। और 50 महिलाओं के लिए समाचार पत्र और पत्रिकाएँ (675 रुपये प्रति महिला प्रति माह) * *-* * ₹ 33,750/- ₹ 4,05,000-* * कुल (B) * * * ₹ 38,750/- * * * * * कुल (A + B) * * * * * ₹ 51,750/- * * * * ₹ 6,21,000-* * *",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "इस योजना का उद्देश्य स्वैच्छिक संगठनों के माध्यम से विधवा, परित्यक्त और बेसहारा महिलाओं को मुफ्त कौशल प्रशिक्षण और स्व-रोजगार सहायता प्रदान करना है। इस योजना को सामाजिक न्याय और अधिकारिता विभाग द्वारा भाग लेने वाले गैर सरकारी संगठनों को प्रदान की गई वित्तीय सहायता के साथ लागू किया जाता है।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा कार्यान्वित \"महिला स्वयंसिद्ध योजना\" का उद्देश्य विधवा, परित्यक्त और बेसहारा महिलाओं को कौशल प्रशिक्षण और स्व-रोजगार के अवसर प्रदान करना है। इस योजना के तहत, स्वैच्छिक संगठनों के माध्यम से संचालित नारिनिकेतन भवनों में मुफ्त व्यावसायिक प्रशिक्षण दिया जाता है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "उद्देश्यः",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विभिन्न व्यवसायों में कौशल विकास के लिए निःशुल्क व्यावसायिक प्रशिक्षण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नामांकित महिलाओं और उनके बच्चों के लिए आवास और भोजन का प्रावधान।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रशिक्षण केंद्रों का संचालन करने वाले गैर सरकारी संगठनों को वित्तीय सहायता।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रशिक्षण की अवधि 3 महीने से 1 वर्ष तक होती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रोजगार प्राप्त करने या स्व-रोजगार के लिए ऋण प्राप्त करने में सहायता।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भाग लेने वाली महिलाओं को मासिक वजीफा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "महिलाओं को निम्नलिखित श्रेणियों में से एक से संबंधित होना चाहिएः",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विधवा, परित्यक्त या बेसहारा महिलाओं को सामाजिक उपेक्षा का सामना करना पड़ता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "महिलाओं को परिवार के समर्थन के बिना जेल से रिहा कर दिया गया।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्राकृतिक आपदाओं से प्रभावित महिलाएं, जिनके पास सामाजिक और वित्तीय सहायता की कमी है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "महिलाओं को शोषण, तस्करी या जबरन श्रम से बचाया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आतंकवाद या चरमपंथी गतिविधियों से प्रभावित महिलाएं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संस्थागत मनोरोग देखभाल की आवश्यकता वाली महिलाओं को छोड़कर, जो मानसिक बीमारी से पीड़ित हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एच. आई. वी./एड्स के साथ रहने वाली महिलाएं जिन्हें उनके परिवार द्वारा छोड़ दिया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अन्य महिलाएं अत्यधिक सामाजिक और आर्थिक संकट का सामना कर रही हैं।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "गैर-सरकारी संगठन नियमों के अनुसार राज्य सरकार द्वारा अनुदान निधि प्रदान करता हैः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "एस एन ओ।",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पद/व्यय का विवरण",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पदों की संख्या",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "मासिक खर्च",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "वार्षिक व्यय",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table",
+                  "children": [
+                    {
+                      "type": "table_row",
+                      "children": [
+                        {
+                          "type": "table_cell",
+                          "children": [
+                            {
+                              "text": "1 (ए)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "डॉक्टर (अंशकालिक)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "01"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹36,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 (ए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "शिल्प शिक्षक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "02"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 1,20,000 -"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कुल (ए)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹13,000/-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 1,56,000 -",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 (बी)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कच्चे की खरीद के लिए अन्य आवर्ती खर्च (प्रति महिला 100 रुपये प्रति माह) महिलाओं के लिए 50"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹5,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹60,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 (बी)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 महिलाओं के लिए निवासी भोजन, क्लर्क, रसोइया, चौकीदार, चतुर्थ श्रेणी के कर्मचारी, सफाई कार्य आदि और समाचार पत्र और पत्रिकाएं (प्रति महिला 675 रुपये प्रति माह)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹33,750/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "₹ 4,05,000 -"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कुल (बी)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹38,750/-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 4,65,000 -",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कुल (ए + बी)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹51,750/-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 6,21,000 -",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "इच्छुक स्वैच्छिक संगठनों को जिला कलेक्टर कार्यालय में निर्धारित प्रारूप में आवेदन जमा करने चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "जिला कलेक्टर का कार्यालय आवेदन की समीक्षा और सिफारिश करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "सामाजिक न्याय और अधिकारिता विभाग आवेदन का मूल्यांकन करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "योग्य संगठन अनुमोदन और धन प्राप्त करते हैं।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 5:",
+                "bold": true
+              },
+              {
+                "text": "लाभार्थी महिलाएं प्रवेश सलाहकार समिति के माध्यम से नामांकन करती हैं।"
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * * इच्छुक स्वैच्छिक संगठनों को जिला कलेक्टर कार्यालय में निर्धारित प्रारूप में आवेदन जमा करने चाहिए। * * चरण 2: * * जिला कलेक्टर का कार्यालय आवेदन की समीक्षा करता है और सिफारिश करता है। चरण 3: सामाजिक न्याय और अधिकारिता विभाग आवेदन का मूल्यांकन करता है। * * चरण 4: * * योग्य संगठनों को अनुमोदन और धन प्राप्त होता है। चरण 5: लाभार्थी महिलाएँ प्रवेश सलाहकार समिति के माध्यम से नामांकन करती हैं।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक एक पंजीकृत स्वैच्छिक संगठन, न्यास या गैर सरकारी संगठन होना चाहिए। 1. आवेदन करने से पहले संगठन को कम से कम तीन साल के लिए चालू होना चाहिए। 1. संगठन गैर-लाभकारी होना चाहिए और महिलाओं के कल्याण पर केंद्रित होना चाहिए। 1. संगठन के पास एक औपचारिक रूप से संरचित प्रशासनिक और प्रबंधन समिति होनी चाहिए। 1. संगठन को किसी भी सरकारी विभाग द्वारा ब्लैकलिस्ट या दंडित नहीं किया जाना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक एक पंजीकृत स्वैच्छिक संगठन, न्यास या गैर सरकारी संगठन होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदन करने से पहले संगठन को कम से कम तीन साल के लिए चालू होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संगठन गैर-लाभकारी होना चाहिए और महिलाओं के कल्याण पर केंद्रित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संगठन के पास एक औपचारिक रूप से संरचित प्रशासनिक और प्रबंधन समिति होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संगठन को किसी भी सरकारी विभाग द्वारा ब्लैकलिस्ट या दंडित नहीं किया जाना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक एक पंजीकृत स्वैच्छिक संगठन, न्यास या गैर सरकारी संगठन होना चाहिए। 1. आवेदन करने से पहले संगठन को कम से कम तीन साल के लिए चालू होना चाहिए। 1. संगठन गैर-लाभकारी होना चाहिए और महिलाओं के कल्याण पर केंद्रित होना चाहिए। 1. संगठन के पास एक औपचारिक रूप से संरचित प्रशासनिक और प्रबंधन समिति होनी चाहिए। 1. संगठन को किसी भी सरकारी विभाग द्वारा ब्लैकलिस्ट या दंडित नहीं किया जाना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक एक पंजीकृत स्वैच्छिक संगठन, न्यास या गैर सरकारी संगठन होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदन करने से पहले संगठन को कम से कम तीन साल के लिए चालू होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "संगठन गैर-लाभकारी होना चाहिए और महिलाओं के कल्याण पर केंद्रित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "संगठन के पास एक औपचारिक रूप से संरचित प्रशासनिक और प्रबंधन समिति होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "संगठन को किसी भी सरकारी विभाग द्वारा ब्लैकलिस्ट या दंडित नहीं किया जाना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registration Certificate of the organization."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Inspection Report (from the concerned District Collector with recommendations)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of the Organization's bylaws."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Latest certified executive committee member list."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Work experience proof in women’s welfare activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Chartered Accountant-certified audit reports for the last three years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income-Expenditure statements for the last three years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Progress report of the last three years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "PAN Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Statement."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Non-judicial affidavit stating that the organization is not blacklisted."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Registration Certificate of the organization.\n- Inspection Report (from the concerned District Collector with recommendations).\n- Copy of the Organization&#39;s bylaws.\n- Latest certified executive committee member list.\n- Work experience proof in women’s welfare activities.\n- Chartered Accountant-certified audit reports for the last three years.\n- Income-Expenditure statements for the last three years.\n- Progress report of the last three years.\n- PAN Card.\n- Bank Statement.\n- Non-judicial affidavit stating that the organization is not blacklisted.\n\n<br>\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संगठन का पंजीकरण प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निरीक्षण रिपोर्ट (सिफारिशों के साथ संबंधित जिला कलेक्टर से)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संगठन के उपनियमों की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नवीनतम प्रमाणित कार्यकारी समिति के सदस्यों की सूची।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "महिला कल्याण गतिविधियों में कार्य अनुभव प्रमाण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछले तीन वर्षों के लिए चार्टर्ड एकाउंटेंट-प्रमाणित लेखा परीक्षा रिपोर्ट।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछले तीन वर्षों के आय-व्यय विवरण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछले तीन वर्षों की प्रगति रिपोर्ट।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पैन कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक विवरण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गैर-न्यायिक हलफनामे में कहा गया है कि संगठन को काली सूची में नहीं डाला गया है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Registration Certificate of the organization.\n- Inspection Report (from the concerned District Collector with recommendations).\n- Copy of the Organization&#39;s bylaws.\n- Latest certified executive committee member list.\n- Work experience proof in women’s welfare activities.\n- Chartered Accountant-certified audit reports for the last three years.\n- Income-Expenditure statements for the last three years.\n- Progress report of the last three years.\n- PAN Card.\n- Bank Statement.\n- Non-judicial affidavit stating that the organization is not blacklisted.\n\n<br>\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Registered voluntary organizations with at least three years of experience in women’s welfare."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Registered voluntary organizations with at least three years of experience in women's welfare.\n"
+        },
+        {
+          "question": "What type of training is provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Vocational training in various trades based on women’s skills and interests."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Vocational training in various trades based on women's skills and interests.\n"
+        },
+        {
+          "question": "Is there any fee for training?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the training is provided free of cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the training is provided free of cost.\n"
+        },
+        {
+          "question": "What happens after training?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Women receive job placement support or assistance in availing loans for self-employment."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Women receive job placement support or assistance in availing loans for self-employment.\n"
+        },
+        {
+          "question": "Can an NGO apply if it is blacklisted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, blacklisted organizations are not eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, blacklisted organizations are not eligible.\n"
+        },
+        {
+          "question": "Is there an age limit for beneficiaries?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme primarily targets adult women in distress."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme primarily targets adult women in distress.\n"
+        },
+        {
+          "question": "Who oversees the scheme’s implementation?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Social Justice and Empowerment Department and Admission Advisory Committee."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Social Justice and Empowerment Department and Admission Advisory Committee.\n"
+        },
+        {
+          "question": "How is financial assistance given to NGOs?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Quarterly after a review by the Admission Advisory Committee."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Quarterly after a review by the Admission Advisory Committee.\n"
+        },
+        {
+          "question": "What if an NGO does not follow guidelines?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The department can revoke funding and recover financial aid."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The department can revoke funding and recover financial aid.\n"
+        },
+        {
+          "question": "Can women leave before completing training?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, but they may forfeit financial assistance and accommodation."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but they may forfeit financial assistance and accommodation.\n"
+        },
+        {
+          "question": "How to contact the department for queries?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Contact details of the Social Justice and Empowerment Department, Jaipur, are available on their official website."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Contact details of the Social Justice and Empowerment Department, Jaipur, are available on their official website.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के तहत कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "महिला कल्याण में कम से कम तीन साल के अनुभव के साथ पंजीकृत स्वैच्छिक संगठन।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Registered voluntary organizations with at least three years of experience in women's welfare.\n"
+        },
+        {
+          "question": "किस प्रकार का प्रशिक्षण दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "महिलाओं के कौशल और रुचियों के आधार पर विभिन्न व्यवसायों में व्यावसायिक प्रशिक्षण।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Vocational training in various trades based on women's skills and interests.\n"
+        },
+        {
+          "question": "क्या प्रशिक्षण के लिए कोई शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, प्रशिक्षण निःशुल्क प्रदान किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the training is provided free of cost.\n"
+        },
+        {
+          "question": "प्रशिक्षण के बाद क्या होता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "महिलाओं को स्व-रोजगार के लिए ऋण प्राप्त करने में नौकरी स्थान समर्थन या सहायता प्राप्त होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Women receive job placement support or assistance in availing loans for self-employment.\n"
+        },
+        {
+          "question": "यदि कोई एनजीओ काली सूची में है तो क्या वह आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, ब्लैकलिस्ट किए गए संगठन पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, blacklisted organizations are not eligible.\n"
+        },
+        {
+          "question": "क्या लाभार्थियों के लिए कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना मुख्य रूप से संकटग्रस्त वयस्क महिलाओं को लक्षित करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme primarily targets adult women in distress.\n"
+        },
+        {
+          "question": "योजना के कार्यान्वयन की देखरेख कौन करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग और प्रवेश सलाहकार समिति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Social Justice and Empowerment Department and Admission Advisory Committee.\n"
+        },
+        {
+          "question": "गैर सरकारी संगठनों को वित्तीय सहायता कैसे दी जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रवेश सलाहकार समिति द्वारा समीक्षा के बाद तिमाही।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Quarterly after a review by the Admission Advisory Committee.\n"
+        },
+        {
+          "question": "अगर कोई एनजीओ दिशानिर्देशों का पालन नहीं करता है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विभाग धन को रद्द कर सकता है और वित्तीय सहायता की वसूली कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The department can revoke funding and recover financial aid.\n"
+        },
+        {
+          "question": "क्या महिलाएं प्रशिक्षण पूरा करने से पहले जा सकती हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, लेकिन वे वित्तीय सहायता और आवास खो सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but they may forfeit financial assistance and accommodation.\n"
+        },
+        {
+          "question": "पूछताछ के लिए विभाग से कैसे संपर्क करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग, जयपुर के संपर्क विवरण उनकी आधिकारिक वेबसाइट पर उपलब्ध हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Contact details of the Social Justice and Empowerment Department, Jaipur, are available on their official website.\n"
+        }
+      ]
+    }
+  }
+}

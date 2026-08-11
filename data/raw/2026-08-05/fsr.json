@@ -1,0 +1,1852 @@
+{
+  "scheme_id": "65f2d70d938a0b13ccb7b959",
+  "slug": "fsr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Farming",
+        "Agriculture",
+        "Development",
+        "Fountain Plant"
+      ],
+      "schemeName": "Fawara Sanyantra",
+      "schemeShortTitle": "FSR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Log In",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Fawara Sanyantra under the Agriculture Department of the Rajasthan government will give 70% to 75% subsidy to the farmers for installing sprinkler plants. Through this farmers can irrigate more land by getting sprinkler subsidy. The subsidy given by the state government to the farmers will be sent directly to their bank accounts through DBT. To avail of the benefit of the Rajasthan Fawara Sanyantra Subsidy Yojana, a farmer should have land up to 0.2 hectares. So that the fields can be irrigated by installing sprinkler plants. The income of farmers will improve through this scheme. Apart from this, efficient utilization and production will also increase. Besides, 50% to 55% of water can be saved by irrigating the fields through sprinklers.\n<br>\n\n> **Important points**\n\n\n- If the plant purchase bill for the fountain plant is of the same financial year in which the farmer has applied, the grant will be payable to the eligible farmers.\n- If the sprinkler plant is found to be correct as per the criteria prescribed in the physical verification, the grant amount will be transferred directly to the farmer&#39;s account.\n\n",
+      "benefits_md": "\n1. The grant amount is 70% of the unit cost for general farmers.\n1. The grant amount is 75% of the unit cost for small and marginal farmers, Scheduled Caste/Tribe farmers, and women farmers.\n1. The grant is payable up to a maximum area of 5 hectares.\n\n",
+      "briefDescription": "Under the Fawara Sanyantra Through this scheme, the government will provide subsidies to farmers to install sprinkler plants. This will save water and farmers will also be able to irrigate their fields through sprinklers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Fawara Sanyantra under the Agriculture Department of the Rajasthan government will give 70% to 75% subsidy to the farmers for installing sprinkler plants. Through this farmers can irrigate more land by getting sprinkler subsidy. The subsidy given by the state government to the farmers will be sent directly to their bank accounts through DBT. To avail of the benefit of the Rajasthan Fawara Sanyantra Subsidy Yojana, a farmer should have land up to 0.2 hectares. So that the fields can be irrigated by installing sprinkler plants. The income of farmers will improve through this scheme. Apart from this, efficient utilization and production will also increase. Besides, 50% to 55% of water can be saved by irrigating the fields through sprinklers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Important points",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the plant purchase bill for the fountain plant is of the same financial year in which the farmer has applied, the grant will be payable to the eligible farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the sprinkler plant is found to be correct as per the criteria prescribed in the physical verification, the grant amount will be transferred directly to the farmer's account."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grant amount is 70% of the unit cost for general farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grant amount is 75% of the unit cost for small and marginal farmers, Scheduled Caste/Tribe farmers, and women farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grant is payable up to a maximum area of 5 hectares."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Complete the registration process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “ RAJ-KISAN ” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"Farmer\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah Family ID\" or \"Jan Aadhaar\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on Get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5:** Complete the registration process.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard[ ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah Family ID&quot; or &quot;Jan Aadhaar&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The Applicant should be a farmer.\n1. The applicant should be a native of Rajasthan.\n1. The farmer should have at least 0.2 hectares of irrigated agricultural land.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Applicant should be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer should have at least 0.2 hectares of irrigated agricultural land."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "खेती-बाड़ी",
+        "कृषि",
+        "विकास",
+        "फव्वारे का पौधा"
+      ],
+      "schemeName": "फवारा सन्यंत्र",
+      "schemeShortTitle": "FSR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "कृषि विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉग इन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के कृषि विभाग के तहत फवारा सन्यंत्र किसानों को छिड़काव संयंत्र लगाने के लिए 70 प्रतिशत से 75 प्रतिशत सब्सिडी देगा। इसके माध्यम से किसान स्प्रिंकलर सब्सिडी प्राप्त करके अधिक भूमि की सिंचाई कर सकते हैं। राज्य सरकार द्वारा किसानों को दी जाने वाली सब्सिडी डी. बी. टी. के माध्यम से सीधे उनके बैंक खातों में भेजी जाएगी। राजस्थान फवारा सन्यंत्र सब्सिडी योजना का लाभ उठाने के लिए, एक किसान के पास 0.20 हेक्टेयर तक की भूमि होनी चाहिए। ताकि छिड़काव संयंत्र लगा कर खेतों की सिंचाई की जा सके। इस योजना से किसानों की आय में वृद्धि होगी। इसके अलावा कुशल उपयोग और उत्पादन में भी वृद्धि होगी। इसके अलावा, छिड़काव यंत्रों के माध्यम से खेतों की सिंचाई करके 50 प्रतिशत से 55 प्रतिशत पानी की बचत की जा सकती है। महत्वपूर्ण बिंदु-यदि फव्वारे संयंत्र के लिए संयंत्र खरीद बिल उसी वित्तीय वर्ष का है जिसमें किसान ने आवेदन किया है, तो अनुदान पात्र किसानों को देय होगा।-यदि छिड़काव यंत्र भौतिक सत्यापन में निर्धारित मानदंडों के अनुसार सही पाया जाता है, तो अनुदान राशि सीधे किसान को हस्तांतरित की जाएगी। एस खाता।",
+      "benefits_md": "1. अनुदान राशि सामान्य किसानों के लिए इकाई लागत का 70 प्रतिशत है। 1. अनुदान राशि छोटे और सीमांत किसानों, अनुसूचित जाति/जनजाति के किसानों और महिला किसानों के लिए इकाई लागत का 75 प्रतिशत है। 1. अनुदान अधिकतम 5 हेक्टेयर क्षेत्र तक देय है।",
+      "briefDescription": "फवारा सन्यंत्र के तहत इस योजना के माध्यम से सरकार किसानों को छिड़काव संयंत्र लगाने के लिए सब्सिडी प्रदान करेगी। इससे पानी की बचत होगी और किसान छिड़काव यंत्रों के माध्यम से अपने खेतों की सिंचाई भी कर सकेंगे।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के कृषि विभाग के तहत फवारा सन्यंत्र किसानों को छिड़काव संयंत्र लगाने के लिए 70 प्रतिशत से 75 प्रतिशत सब्सिडी देगा। इसके माध्यम से किसान स्प्रिंकलर सब्सिडी प्राप्त करके अधिक भूमि की सिंचाई कर सकते हैं। राज्य सरकार द्वारा किसानों को दी जाने वाली सब्सिडी डी. बी. टी. के माध्यम से सीधे उनके बैंक खातों में भेजी जाएगी। राजस्थान फवारा सन्यंत्र सब्सिडी योजना का लाभ उठाने के लिए, एक किसान के पास 0.20 हेक्टेयर तक की भूमि होनी चाहिए। ताकि छिड़काव संयंत्र लगा कर खेतों की सिंचाई की जा सके। इस योजना से किसानों की आय में वृद्धि होगी। इसके अलावा कुशल उपयोग और उत्पादन में भी वृद्धि होगी। इसके अलावा, छिड़काव यंत्रों के माध्यम से खेतों की सिंचाई करके 50 प्रतिशत से 55 प्रतिशत पानी की बचत की जा सकती है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "महत्वपूर्ण बिंदु",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि फव्वारा संयंत्र के लिए संयंत्र खरीद बिल उसी वित्तीय वर्ष का है जिसमें किसान ने आवेदन किया है, तो अनुदान योग्य किसानों को देय होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि स्प्रिंकलर संयंत्र भौतिक सत्यापन में निर्धारित मानदंडों के अनुसार सही पाया जाता है, तो अनुदान राशि सीधे किसान के खाते में स्थानांतरित कर दी जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुदान राशि सामान्य किसानों के लिए इकाई लागत का 70 प्रतिशत है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुदान राशि छोटे और सीमांत किसानों, अनुसूचित जाति/जनजाति के किसानों और महिला किसानों के लिए इकाई लागत का 75 प्रतिशत है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुदान अधिकतम 5 हेक्टेयर क्षेत्र तक देय है।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "पंजीकरण प्रक्रिया को पूरा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉगइन करने के बाद, डैशबोर्ड"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "खुलेंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"राज-किसान\" विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"किसान\" में, \"आवेदन प्रविष्टि अनुरोध\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "\"भामाशाह परिवार आईडी\" या \"जन आधार\" दर्ज करें और खोजें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "व्यक्ति का नाम और योजना का नाम चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "आवश्यक विवरण प्रदान करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पेंशनभोगी विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बैंक विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- विकलांगता विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- सत्यापन विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। चरण-5: पंजीकरण प्रक्रिया को पूरा करें। आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * लॉग इन करने के बाद, डैशबोर्ड [] (https://sso.rajasthan.gov.in/dashboard) खुल जाएगा। * * चरण-3: * * \"राज-किसान\" विकल्प पर क्लिक करें। * * चरण-4: 'किसान' में 'आवेदन प्रविष्टि अनुरोध' पर क्लिक करें। * * चरण-5: 'भामाशाह फैमिली आईडी' या 'जन आधार' दर्ज करें और खोजें। * * चरण-6: * * व्यक्ति का नाम और योजना का नाम चुनें। * * चरण-7: * * आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें। * * चरण-8: * * आवश्यक विवरण प्रदान करें। - पेंशनभोगी विवरण। - बैंक विवरण। - विकलांगता विवरण। - सत्यापन विवरण। - दस्तावेज़ अपलोड करें। * * चरण-9: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक किसान होना चाहिए। 1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. किसान के पास कम से कम 0.20 हेक्टेयर सिंचित कृषि भूमि होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक किसान होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसान के पास कम से कम 0.20 हेक्टेयर सिंचित कृषि भूमि होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "landHolding": [
+        {
+          "value": "marginal",
+          "label": "Marginal (below 1 hectare)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक किसान होना चाहिए। 1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. किसान के पास कम से कम 0.20 हेक्टेयर सिंचित कृषि भूमि होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक किसान होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "किसान के पास कम से कम 0.20 हेक्टेयर सिंचित कृषि भूमि होनी चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "landHolding": [
+      {
+        "value": "marginal",
+        "label": "Marginal (below 1 hectare)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "align_left",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Jamabandi copy (not more than 6 months old),"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Aadhar Card/Jan Aadhar Card"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Irrigation Source Certificate,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Supplier's Quotation."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Jamabandi copy (not more than 6 months old),\n   1. Aadhar Card/Jan Aadhar Card\n   1. Irrigation Source Certificate,\n   1. Supplier&amp;#39;s Quotation.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "align_left",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जमाबंदी की प्रति (6 महीने से अधिक पुरानी नहीं),"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आधार कार्ड/जन आधार कार्ड"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सिंचाई स्रोत प्रमाण पत्र,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आपूर्तिकर्ता का उद्धरण।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Jamabandi copy (not more than 6 months old),\n   1. Aadhar Card/Jan Aadhar Card\n   1. Irrigation Source Certificate,\n   1. Supplier&amp;#39;s Quotation.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The government will provide subsidies to farmers to install sprinkler plants. This will save water and farmers will also be able to irrigate their fields through sprinklers."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The government will provide subsidies to farmers to install sprinkler plants. This will save water and farmers will also be able to irrigate their fields through sprinklers.\n"
+        },
+        {
+          "question": "Fawara Sanyantra Subsidy Yojana has been started in which state?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Scheme has been launched in the state of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Scheme has been launched in the state of Rajasthan.\n"
+        },
+        {
+          "question": "Who will get the benefit of Rajasthan Fawara Sanyantra Subsidy Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All the farmers of the state will get the benefit of Rajasthan Scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "All the farmers of the state will get the benefit of Rajasthan Scheme.\n"
+        },
+        {
+          "question": "How much subsidy will be provided to farmers under the Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "70 to 75% subsidy benefit will be provided to the farmers of the state."
+                }
+              ]
+            }
+          ],
+          "answer_md": "70 to 75% subsidy benefit will be provided to the farmers of the state.\n"
+        },
+        {
+          "question": "What is the official website of Rajasthan Fawara Sanyantra Subsidy Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The official website of this Scheme is http://rajkisan.rajasthan.gov.in/."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The official website of this Scheme is http://rajkisan.rajasthan.gov.in/.\n"
+        },
+        {
+          "question": "What is DBT?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer subsidies and welfare payments directly to the bank accounts of beneficiaries."
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer subsidies and welfare payments directly to the bank accounts of beneficiaries.\n"
+        },
+        {
+          "question": "Under which department does this scheme come?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Agriculture Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Agriculture Department.\n"
+        },
+        {
+          "question": "How can i apply online?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "One can apply by visiting the e-Mitra center. https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "One can apply by visiting the e-Mitra center. https://sso.rajasthan.gov.in/signin\n"
+        },
+        {
+          "question": "How do I know if a field in the application form is mandatory?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"Fields marked with an asterisk (*) are mandatory.\""
+                }
+              ]
+            }
+          ],
+          "answer_md": "\"Fields marked with an asterisk (*) are mandatory.\"\n"
+        },
+        {
+          "question": "Is there any agricultural land criteria ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The farmer should have at least 0.2 hectare of irrigated agricultural land."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The farmer should have at least 0.2 hectare of irrigated agricultural land.\n"
+        },
+        {
+          "question": "What documents are required ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Jamabandi copy (not more than 6 months old),\n2. Aadhar Card/Jan Aadhar Card\n3. Irrigation Source Certificate,\n4. Supplier's Quotation."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Jamabandi copy (not more than 6 months old),\n2. Aadhar Card/Jan Aadhar Card\n3. Irrigation Source Certificate,\n4. Supplier's Quotation.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सरकार किसानों को स्प्रिंकलर संयंत्र लगाने के लिए सब्सिडी प्रदान करेगी। इससे पानी की बचत होगी और किसान छिड़काव यंत्रों के माध्यम से अपने खेतों की सिंचाई भी कर सकेंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The government will provide subsidies to farmers to install sprinkler plants. This will save water and farmers will also be able to irrigate their fields through sprinklers.\n"
+        },
+        {
+          "question": "फवारा सन्यंत्र सब्सिडी योजना किस राज्य में शुरू की गई है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान राज्य में योजना शुरू की गई है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Scheme has been launched in the state of Rajasthan.\n"
+        },
+        {
+          "question": "राजस्थान फवारा सन्यंत्र सब्सिडी योजना का लाभ किसे मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य के सभी किसानों को राजस्थान योजना का लाभ मिलेगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "All the farmers of the state will get the benefit of Rajasthan Scheme.\n"
+        },
+        {
+          "question": "योजना के तहत किसानों को कितनी सब्सिडी दी जाएगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य के किसानों को 70 से 75 प्रतिशत सब्सिडी का लाभ दिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "70 to 75% subsidy benefit will be provided to the farmers of the state.\n"
+        },
+        {
+          "question": "राजस्थान फवारा सन्यंत्र सब्सिडी योजना की आधिकारिक वेबसाइट क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना की आधिकारिक वेबसाइट http://rajkisan.rajasthan.gov.in है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The official website of this Scheme is http://rajkisan.rajasthan.gov.in/.\n"
+        },
+        {
+          "question": "डी. बी. टी. क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डी. बी. टी. का अर्थ है प्रत्यक्ष लाभ हस्तांतरण। यह सरकारों द्वारा सब्सिडी और कल्याणकारी भुगतानों को सीधे लाभार्थियों के बैंक खातों में स्थानांतरित करने के लिए उपयोग की जाने वाली एक प्रणाली है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer subsidies and welfare payments directly to the bank accounts of beneficiaries.\n"
+        },
+        {
+          "question": "यह योजना किस विभाग के अंतर्गत आती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कृषि विभाग।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Agriculture Department.\n"
+        },
+        {
+          "question": "मैं ऑनलाइन आवेदन कैसे कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ई-मित्र केंद्र पर जाकर आवेदन किया जा सकता है। //एस. एस. ओ. राजस्थान. जी. वी. इन/साइन इन"
+                }
+              ]
+            }
+          ],
+          "answer_md": "One can apply by visiting the e-Mitra center. https://sso.rajasthan.gov.in/signin\n"
+        },
+        {
+          "question": "मुझे कैसे पता चलेगा कि आवेदन पत्र में कोई क्षेत्र अनिवार्य है या नहीं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "तारांकन चिह्न (*) से चिह्नित क्षेत्र अनिवार्य हैं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "\"Fields marked with an asterisk (*) are mandatory.\"\n"
+        },
+        {
+          "question": "क्या कोई कृषि भूमि मानदंड है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "किसान के पास कम से कम 0.20 हेक्टेयर सिंचित कृषि भूमि होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The farmer should have at least 0.2 hectare of irrigated agricultural land.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. जमाबंदी प्रति (6 महीने से अधिक पुरानी नहीं), 2. आधार कार्ड/जन आधार कार्ड 3. सिंचाई स्रोत प्रमाण पत्र, 4. आपूर्तिकर्ता का उद्धरण।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Jamabandi copy (not more than 6 months old),\n2. Aadhar Card/Jan Aadhar Card\n3. Irrigation Source Certificate,\n4. Supplier's Quotation.\n"
+        }
+      ]
+    }
+  }
+}

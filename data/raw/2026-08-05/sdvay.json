@@ -1,0 +1,1126 @@
+{
+  "scheme_id": "67cddb824f0bd5e698d60d32",
+  "slug": "sdvay",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Marriage Assistance",
+        "Differently Abled Person",
+        "Marriage Grant",
+        "Marriage Grant"
+      ],
+      "schemeName": "Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana",
+      "schemeShortTitle": "VYSDJY",
+      "implementingAgency": "Directorate Of Specially Abled Person, Government Of Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Marriage",
+          "label": "Marriage"
+        }
+      ],
+      "schemeOpenDate": "1997-12-24",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/sap_welfare_schemes.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://dsap.rajasthan.gov.in/scheme/detail/233"
+        },
+        {
+          "title": "Scheme Details (Page No. 4)",
+          "url": "https://cag.gov.in/uploads/download_audit_report/2023/9.-Appendices-064b7cfeec1ad47.97127516.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana&amp;quot; was launched by the Social Justice &amp;amp; Empowerment Department, Government of Rajasthan, in 1997. The scheme aims to provide financial assistance to specially-abled individuals to support a happy married life after marriage. Under this scheme, financial assistance of ₹50,000/- per couple is provided. Additionally, ₹20,000/- is given as event expenses to organizations that organize marriage events for specially-abled individuals. The scheme is implemented by the Directorate of Specially-Abled Persons in the state.\n",
+      "benefits_md": "\n- Financial assistance of ₹50,000/- per couple is provided.\n\n",
+      "briefDescription": "The scheme aims to provide financial assistance to specially-abled individuals to support a happy married life after marriage. Under this scheme, financial assistance of ₹50,000/- per couple is provided.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana\" was launched by the Social Justice & Empowerment Department, Government of Rajasthan, in 1997. The scheme aims to provide financial assistance to specially-abled individuals to support a happy married life after marriage. Under this scheme, financial assistance of ₹50,000/- per couple is provided. Additionally, ₹20,000/- is given as event expenses to organizations that organize marriage events for specially-abled individuals. The scheme is implemented by the Directorate of Specially-Abled Persons in the state."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹50,000/- per couple is provided."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The interested applicant should visit the office of the Block Social Security Officer or District Social Welfare Officer and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the concerned office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the concerned office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note:",
+                    "bold": true
+                  },
+                  {
+                    "text": " To avail of the benefits, specially-abled individuals should submit their application for assistance within six months from the date of marriage, along with the required documents, to the office of the Block Social Security Officer or District Social Welfare Officer."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the office of the Block Social Security Officer or District Social Welfare Officer and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned office.\n**Step 4:** Request a receipt or acknowledgment from the concerned office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n**Note:** To avail of the benefits, specially-abled individuals should submit their application for assistance within six months from the date of marriage, along with the required documents, to the office of the Block Social Security Officer or District Social Welfare Officer.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be a specially-abled individual (male or female).\n1. The applicant should possess a disability certificate with 40% or more disability, issued by a Medical Officer or Medical Board.\n1. The groom should be at least 21 years old, and the bride should be at least 18 years old.\n1. The applicant’s family income from all sources should not exceed ₹2,50,000/- per year.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a specially-abled individual (male or female)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should possess a disability certificate with 40% or more disability, issued by a Medical Officer or Medical Board."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The groom should be at least 21 years old, and the bride should be at least 18 years old."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s family income from all sources should not exceed ₹2,50,000/- per year."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "विवाह सहायता",
+        "भिन्न रूप से सक्षम व्यक्ति",
+        "विवाह अनुदान",
+        "विवाह अनुदान"
+      ],
+      "schemeName": "विशेष योग्यजन सुखद डम्पत्य जीवन योजना",
+      "schemeShortTitle": "VYSDJY",
+      "implementingAgency": "Directorate Of Specially Abled Person, Government Of Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        },
+        {
+          "value": "Marriage",
+          "label": "शादी"
+        }
+      ],
+      "schemeOpenDate": "1997-12-24",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/sap_welfare_schemes.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://dsap.rajasthan.gov.in/scheme/detail/233"
+        },
+        {
+          "title": "योजना विवरण (पृष्ठ संख्या 4)",
+          "url": "https://cag.gov.in/uploads/download_audit_report/2023/9.-Appendices-064b7cfeec1ad47.97127516.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "विशेष योग्यजन सुखद डम्पत्य जीवन योजना की शुरुआत राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा 1997 में की गई थी। इस योजना का उद्देश्य विवाह के बाद एक खुशहाल वैवाहिक जीवन का समर्थन करने के लिए विशेष रूप से विकलांग व्यक्तियों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत प्रति दंपति ₹50,000/- की वित्तीय सहायता प्रदान की जाती है। इसके अतिरिक्त, उन संगठनों को कार्यक्रम के खर्च के रूप में ₹20,000/- दिए जाते हैं जो विशेष रूप से विकलांग व्यक्तियों के लिए विवाह कार्यक्रमों का आयोजन करते हैं। यह योजना राज्य में विशेष रूप से विकलांग व्यक्तियों के निदेशालय द्वारा लागू की जाती है।",
+      "benefits_md": "- प्रति दंपति ₹50,000/- की वित्तीय सहायता प्रदान की जाती है।",
+      "briefDescription": "इस योजना का उद्देश्य विवाह के बाद एक खुशहाल वैवाहिक जीवन का समर्थन करने के लिए विशेष रूप से विकलांग व्यक्तियों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत प्रति दंपति ₹50,000/- की वित्तीय सहायता प्रदान की जाती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा 1997 में विशेष योग्यजन सुखद डम्पत्य जीवन योजना की शुरुआत की गई थी। इस योजना का उद्देश्य विवाह के बाद एक खुशहाल वैवाहिक जीवन का समर्थन करने के लिए विशेष रूप से विकलांग व्यक्तियों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत प्रति दंपति ₹50,000/- की वित्तीय सहायता प्रदान की जाती है। इसके अतिरिक्त, उन संगठनों को कार्यक्रम के खर्च के रूप में ₹20,000/- दिए जाते हैं जो विशेष रूप से विकलांग व्यक्तियों के लिए विवाह कार्यक्रमों का आयोजन करते हैं। यह योजना राज्य में विशेष रूप से विकलांग व्यक्तियों के निदेशालय द्वारा लागू की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रति दंपति ₹50,000/- की वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को खंड सामाजिक सुरक्षा अधिकारी या जिला समाज कल्याण अधिकारी के कार्यालय में जाना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र की एक प्रति का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को संबंधित कार्यालय में जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "संबंधित कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "ध्यान देंः",
+                    "bold": true
+                  },
+                  {
+                    "text": "लाभों का लाभ उठाने के लिए, विशेष रूप से विकलांग व्यक्तियों को विवाह की तारीख से छह महीने के भीतर आवश्यक दस्तावेजों के साथ सहायता के लिए अपना आवेदन खंड सामाजिक सुरक्षा अधिकारी या जिला समाज कल्याण अधिकारी के कार्यालय में जमा करना चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को खंड सामाजिक सुरक्षा अधिकारी या जिला समाज कल्याण अधिकारी के कार्यालय में जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र की एक प्रति का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। चरण 3: दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को संबंधित कार्यालय में जमा करें। * * चरण 4: * * संबंधित कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। * * नोटः * * लाभों का लाभ उठाने के लिए, विशेष रूप से विकलांग व्यक्तियों को विवाह की तारीख से छह महीने के भीतर, आवश्यक दस्तावेजों के साथ, ब्लॉक सामाजिक सुरक्षा अधिकारी या जिला समाज कल्याण अधिकारी के कार्यालय में सहायता के लिए अपना आवेदन जमा करना चाहिए।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "female"
+        },
+        {
+          "category": "male",
+          "gte": 21,
+          "lte": 45
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": 250000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक एक विशेष रूप से सक्षम व्यक्ति (पुरुष या महिला) होना चाहिए। 1. आवेदक के पास 40 प्रतिशत या उससे अधिक अक्षमता का प्रमाण पत्र होना चाहिए, जो चिकित्सा अधिकारी या चिकित्सा बोर्ड द्वारा जारी किया गया हो। 1. दूल्हे की आयु कम से कम 21 वर्ष और दुल्हन की आयु कम से कम 18 वर्ष होनी चाहिए। 1. सभी स्रोतों से आवेदक की पारिवारिक आय प्रति वर्ष ₹ 2,50,000 से अधिक नहीं होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "disabilityPercentage": {
+        "gte": 40,
+        "lte": 100
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक एक विशेष रूप से सक्षम व्यक्ति (पुरुष या महिला) होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास 40 प्रतिशत या उससे अधिक अक्षमता का प्रमाण पत्र होना चाहिए, जो चिकित्सा अधिकारी या चिकित्सा बोर्ड द्वारा जारी किया गया हो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दूल्हे की आयु कम से कम 21 वर्ष और दुल्हन की आयु कम से कम 18 वर्ष होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सभी स्रोतों से आवेदक की पारिवारिक आय प्रति वर्ष ₹ 2,50,000 से अधिक नहीं होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "disability": true,
+      "disabilityType": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "value": "married",
+          "label": "Married"
+        },
+        {
+          "value": "never-married",
+          "label": "Never Married"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "female"
+      },
+      {
+        "category": "male",
+        "gte": 21,
+        "lte": 45
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": 250000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक एक विशेष रूप से सक्षम व्यक्ति (पुरुष या महिला) होना चाहिए। 1. आवेदक के पास 40 प्रतिशत या उससे अधिक अक्षमता का प्रमाण पत्र होना चाहिए, जो चिकित्सा अधिकारी या चिकित्सा बोर्ड द्वारा जारी किया गया हो। 1. दूल्हे की आयु कम से कम 21 वर्ष और दुल्हन की आयु कम से कम 18 वर्ष होनी चाहिए। 1. सभी स्रोतों से आवेदक की पारिवारिक आय प्रति वर्ष ₹ 2,50,000 से अधिक नहीं होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "disabilityPercentage": {
+      "gte": 40,
+      "lte": 100
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक एक विशेष रूप से सक्षम व्यक्ति (पुरुष या महिला) होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास 40 प्रतिशत या उससे अधिक अक्षमता का प्रमाण पत्र होना चाहिए, जो चिकित्सा अधिकारी या चिकित्सा बोर्ड द्वारा जारी किया गया हो।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "दूल्हे की आयु कम से कम 21 वर्ष और दुल्हन की आयु कम से कम 18 वर्ष होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "सभी स्रोतों से आवेदक की पारिवारिक आय प्रति वर्ष ₹ 2,50,000 से अधिक नहीं होनी चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "disability": true,
+    "disabilityType": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "value": "married",
+        "label": "Married"
+      },
+      {
+        "value": "never-married",
+        "label": "Never Married"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity Proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disability Certificate (issued by the competent medical board)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of age/Birth certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marriage Registration Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Wedding Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank account details/Bank Passbook"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents if required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity Proof\n1. Domicile Certificate\n1. Disability Certificate (issued by the competent medical board)\n1. Proof of age/Birth certificate\n1. Marriage Registration Certificate\n1. Income Certificate\n1. Wedding Card\n1. Bank account details/Bank Passbook\n1. Any other documents if required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विकलांगता प्रमाण पत्र (सक्षम चिकित्सा बोर्ड द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयु/जन्म प्रमाण पत्र का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विवाह पंजीकरण प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शादी का कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण/बैंक पासबुक"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity Proof\n1. Domicile Certificate\n1. Disability Certificate (issued by the competent medical board)\n1. Proof of age/Birth certificate\n1. Marriage Registration Certificate\n1. Income Certificate\n1. Wedding Card\n1. Bank account details/Bank Passbook\n1. Any other documents if required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Specially abled men and women with an annual family income from all sources upto ₹2.50 lakhs."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Specially abled men and women with an annual family income from all sources upto [?]2.50 lakhs.\n"
+        },
+        {
+          "question": "What is the financial assistance amount under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eligible couples receive ₹50,000/-."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible couples receive [?]50,000/-.\n"
+        },
+        {
+          "question": "What is the purpose of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To provide financial support for specially abled couples for a stable and happy married life."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To provide financial support for specially abled couples for a stable and happy married life.\n"
+        },
+        {
+          "question": "Is there any income limit for applying?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the family’s annual income should not exceed ₹2.50,000/-.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the family's annual income should not exceed [?]2.50,000/-.\n\n\n"
+        },
+        {
+          "question": "Can both husband and wife apply separately?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the assistance is granted per couple and not to individuals separately."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the assistance is granted per couple and not to individuals separately.\n"
+        },
+        {
+          "question": "Can applicants from any state apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, it is applicable only in the Rajasthan state where it is implemented by the respective government."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is applicable only in the Rajasthan state where it is implemented by the respective government.\n"
+        },
+        {
+          "question": "What documents are required?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Disability certificate, income proof, marriage certificate, identity proof, bank details, and address proof."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Disability certificate, income proof, marriage certificate, identity proof, bank details, and address proof.\n"
+        },
+        {
+          "question": "Where can I apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To avail of the benefits, specially-abled individuals should submit their application for assistance within six months from the date of marriage, along with the required documents, to the office of the Block Social Security Officer or District Social Welfare Officer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To avail of the benefits, specially-abled individuals should submit their application for assistance within six months from the date of marriage, along with the required documents, to the office of the Block Social Security Officer or District Social Welfare Officer.\n"
+        },
+        {
+          "question": "Where can applicants get more information?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Information is available on the official website of the Directorate of Specially Abled Person or at the nearest welfare office. https://dsap.rajasthan.gov.in/scheme/detail/233"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Information is available on the official website of the Directorate of Specially Abled Person or at the nearest welfare office. https://dsap.rajasthan.gov.in/scheme/detail/233\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सभी स्रोतों से 2.5 लाख रुपये तक की वार्षिक पारिवारिक आय वाले विशेष रूप से सक्षम पुरुष और महिलाएँ।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Specially abled men and women with an annual family income from all sources upto [?]2.50 lakhs.\n"
+        },
+        {
+          "question": "इस योजना के तहत वित्तीय सहायता राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्य जोड़ों को ₹50,000/- प्राप्त होते हैं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible couples receive [?]50,000/-.\n"
+        },
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक स्थिर और खुशहाल वैवाहिक जीवन के लिए विशेष रूप से सक्षम जोड़ों को वित्तीय सहायता प्रदान करना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To provide financial support for specially abled couples for a stable and happy married life.\n"
+        },
+        {
+          "question": "क्या आवेदन करने के लिए कोई आय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, परिवार की वार्षिक आय ₹ 2.50,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the family's annual income should not exceed [?]2.50,000/-.\n\n\n"
+        },
+        {
+          "question": "क्या पति और पत्नी दोनों अलग-अलग आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, सहायता प्रति जोड़े दी जाती है न कि व्यक्तियों को अलग से।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the assistance is granted per couple and not to individuals separately.\n"
+        },
+        {
+          "question": "क्या किसी भी राज्य के आवेदक इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह केवल राजस्थान राज्य में लागू होता है जहाँ इसे संबंधित सरकार द्वारा लागू किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is applicable only in the Rajasthan state where it is implemented by the respective government.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "दिव्यांगता प्रमाण पत्र, आय प्रमाण पत्र, विवाह प्रमाण पत्र, पहचान प्रमाण, बैंक विवरण और पते का प्रमाण।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Disability certificate, income proof, marriage certificate, identity proof, bank details, and address proof.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कहाँ आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभों का लाभ उठाने के लिए, विशेष रूप से विकलांग व्यक्तियों को विवाह की तारीख से छह महीने के भीतर आवश्यक दस्तावेजों के साथ सहायता के लिए अपना आवेदन खंड सामाजिक सुरक्षा अधिकारी या जिला समाज कल्याण अधिकारी के कार्यालय में जमा करना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To avail of the benefits, specially-abled individuals should submit their application for assistance within six months from the date of marriage, along with the required documents, to the office of the Block Social Security Officer or District Social Welfare Officer.\n"
+        },
+        {
+          "question": "आवेदक अधिक जानकारी कहाँ से प्राप्त कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जानकारी विशेष रूप से सक्षम व्यक्ति निदेशालय की आधिकारिक वेबसाइट पर या निकटतम कल्याण कार्यालय में उपलब्ध है। //डी. एस. ए. पी. राजस्थान. जी. ओ. वी. इन/योजना/विवरण/233"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Information is available on the official website of the Directorate of Specially Abled Person or at the nearest welfare office. https://dsap.rajasthan.gov.in/scheme/detail/233\n"
+        }
+      ]
+    }
+  }
+}

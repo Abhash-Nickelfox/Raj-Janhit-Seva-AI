@@ -1,0 +1,1593 @@
+{
+  "scheme_id": "68320f1377025b42c32d3dd7",
+  "slug": "sdpsr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Reimbursement",
+        "Pilgrimage",
+        "Pilgrim",
+        "Sindhu"
+      ],
+      "schemeName": "Sindhu Darshan Pilgrimage Scheme - Rajasthan",
+      "schemeShortTitle": "SDPSR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce94cd6d1a3bde468536f",
+          "label": "Travel & Tourism"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Tourism in India",
+          "label": "Tourism in India"
+        }
+      ],
+      "schemeOpenDate": "2016-04-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000048,
+        "label": "Devasthan Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://devasthan.rajasthan.gov.in/pdf/SindhuDarshan2101251230.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://devasthan.rajasthan.gov.in/Schemes.asp"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://devasthan.rajasthan.gov.in/Files/sindhu_darshan_2024.pdf"
+        },
+        {
+          "title": "Notification",
+          "url": "https://devasthan.rajasthan.gov.in/Files/SINDHU_DARSHAN_AAM_SUCHANA_2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Sindhu Darshan Pilgrimage Scheme&amp;quot; was introduced by the Devasthan Department, Government of Rajasthan, on 1st April 2016. The objective of this scheme is to provide financial assistance to pilgrims undertaking a pilgrimage to the Sindhu River in the Ladakh region of India. Under this scheme, selected beneficiaries receive reimbursement of their travel expenses, up to a maximum of ₹10,000/- per pilgrim. \n> **Total Number of Beneficiaries**\n\nThe scheme is limited to 200 pilgrims per year. If there are more applicants than available slots, selection will be by lottery.\n",
+      "benefits_md": "\n- Reimbursement of 50% of actual travel expenses, up to a maximum of ₹10,000 per pilgrim.\n\n> **Note:**\n\nPayment is made via online bank transfer or through account payee cheque or demand draft, depending on departmental conditions.\n",
+      "briefDescription": "The objective of this scheme is to provide financial assistance to pilgrims undertaking a pilgrimage to the Sindhu River in the Ladakh region of India. Under this scheme, selected beneficiaries receive reimbursement of their travel expenses, up to a maximum of ₹10,000/- per pilgrim.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Sindhu Darshan Pilgrimage Scheme\" was introduced by the Devasthan Department, Government of Rajasthan, on 1st April 2016. The objective of this scheme is to provide financial assistance to pilgrims undertaking a pilgrimage to the Sindhu River in the Ladakh region of India. Under this scheme, selected beneficiaries receive reimbursement of their travel expenses, up to a maximum of ₹10,000/- per pilgrim. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Total Number of Beneficiaries",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme is limited to 200 pilgrims per year. If there are more applicants than available slots, selection will be by lottery."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reimbursement of 50% of actual travel expenses, up to a maximum of ₹10,000 per pilgrim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Payment is made via online bank transfer or through account payee cheque or demand draft, depending on departmental conditions."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant downloads the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://devasthan.rajasthan.gov.in/Files/sindhu_darshan_2024.pdf",
+                    "children": [
+                      {
+                        "text": "application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " from the official website. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the Assistant Commissioner’s Office, Devasthan Department."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Note:.",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The application must be submitted within 2 months of pilgrimage completion."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The application submitted no later than December 31, 2024."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Selection & Approval Process",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Only individuals selected by the Devasthan Department are eligible for the grant."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After completion of the pilgrimage, submit proof of expenses and certified documents to the Assistant Commissioner."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Assistant Commissioner will verify and forward all valid applications to the Commissioner, Devasthan Office, Udaipur."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "If applications exceed 200, a computerized lottery will be conducted."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "In case of families applying together, only 3 members per family will be considered."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process**\n\n**Step 1:** The interested applicant downloads the [application form](https://devasthan.rajasthan.gov.in/Files/sindhu_darshan_2024.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Assistant Commissioner’s Office, Devasthan Department.\n&gt; **Note:.**\n\n\n  - The application must be submitted within 2 months of pilgrimage completion.\n  - The application submitted no later than December 31, 2024.\n\n&gt; **Selection &amp;amp; Approval Process**\n\n\n  - Only individuals selected by the Devasthan Department are eligible for the grant.\n  - After completion of the pilgrimage, submit proof of expenses and certified documents to the Assistant Commissioner.\n  - The Assistant Commissioner will verify and forward all valid applications to the Commissioner, Devasthan Office, Udaipur.\n  - If applications exceed 200, a computerized lottery will be conducted.\n  - In case of families applying together, only 3 members per family will be considered.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant&#39;s age should be 21 years or above.\n1. The applicant should not be a person who subsists on alms.\n1. The applicant should not be an income tax payer.\n1. The applicant should not be a retired employee/officer of the Central Government/State Government/Central &amp; State Government Undertakings/Local Body.\n1. Only one-time assistance per lifetime is permitted.\n\n**Note:** Only the person selected by the Devasthan Department, Rajasthan is eligible to get the benefit of the scheme.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's age should be 21 years or above."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be a person who subsists on alms."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be an income tax payer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be a retired employee/officer of the Central Government/State Government/Central & State Government Undertakings/Local Body."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Only one-time assistance per lifetime is permitted."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note: ",
+                  "bold": true
+                },
+                {
+                  "text": "Only the person selected by the Devasthan Department, Rajasthan is eligible to get the benefit of the scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "प्रतिपूर्ति",
+        "तीर्थयात्रा",
+        "तीर्थयात्री",
+        "सिंधु"
+      ],
+      "schemeName": "सिंधु दर्शन तीर्थयात्रा योजना-राजस्थान",
+      "schemeShortTitle": "SDPSR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce94cd6d1a3bde468536f",
+          "label": "Travel & Tourism"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Tourism in India",
+          "label": "भारत में पर्यटन"
+        }
+      ],
+      "schemeOpenDate": "2016-04-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000048,
+        "label": "देवस्थान विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://devasthan.rajasthan.gov.in/pdf/SindhuDarshan2101251230.pdf"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://devasthan.rajasthan.gov.in/Schemes.asp"
+        },
+        {
+          "title": "आवेदन पत्र",
+          "url": "https://devasthan.rajasthan.gov.in/Files/sindhu_darshan_2024.pdf"
+        },
+        {
+          "title": "अधिसूचना",
+          "url": "https://devasthan.rajasthan.gov.in/Files/SINDHU_DARSHAN_AAM_SUCHANA_2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "सिंधु दर्शन तीर्थयात्रा योजना राजस्थान सरकार के देवस्थान विभाग द्वारा 1 अप्रैल 2016 को शुरू की गई थी। इस योजना का उद्देश्य भारत के लद्दाख क्षेत्र में सिंधु नदी की तीर्थयात्रा करने वाले तीर्थयात्रियों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत, चयनित लाभार्थियों को प्रति तीर्थयात्री अधिकतम 10,000 रुपये तक के अपने यात्रा खर्च की प्रतिपूर्ति प्राप्त होती है। > * * लाभार्थियों की कुल संख्या * * यह योजना प्रति वर्ष 200 तीर्थयात्रियों तक सीमित है। यदि उपलब्ध स्थान से अधिक आवेदक हैं, तो चयन लॉटरी द्वारा किया जाएगा।",
+      "benefits_md": "- वास्तविक यात्रा खर्च के 50 प्रतिशत की प्रतिपूर्ति, प्रति तीर्थयात्री अधिकतम 10,000 रुपये तक। * भुगतान विभागीय शर्तों के आधार पर ऑनलाइन बैंक हस्तांतरण या खाता प्राप्तकर्ता चेक या डिमांड ड्राफ्ट के माध्यम से किया जाता है।",
+      "briefDescription": "इस योजना का उद्देश्य भारत के लद्दाख क्षेत्र में सिंधु नदी की तीर्थयात्रा करने वाले तीर्थयात्रियों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत, चयनित लाभार्थियों को प्रति तीर्थयात्री अधिकतम 10,000 रुपये तक के अपने यात्रा खर्च की प्रतिपूर्ति प्राप्त होती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के देवस्थान विभाग द्वारा 1 अप्रैल 2016 को \"सिंधु दर्शन तीर्थयात्रा योजना\" योजना शुरू की गई थी। इस योजना का उद्देश्य भारत के लद्दाख क्षेत्र में सिंधु नदी की तीर्थयात्रा करने वाले तीर्थयात्रियों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत, चयनित लाभार्थियों को प्रति तीर्थयात्री अधिकतम 10,000 रुपये तक के अपने यात्रा खर्च की प्रतिपूर्ति प्राप्त होती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "लाभार्थियों की कुल संख्या",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "यह योजना प्रति वर्ष 200 तीर्थयात्रियों तक सीमित है। यदि उपलब्ध स्थान से अधिक आवेदक हैं, तो चयन लॉटरी द्वारा किया जाएगा।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वास्तविक यात्रा खर्च का 50 प्रतिशत, प्रति तीर्थयात्री अधिकतम 10,000 रुपये तक की प्रतिपूर्ति।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "भुगतान विभागीय शर्तों के आधार पर ऑनलाइन बैंक हस्तांतरण या खाता प्राप्तकर्ता चेक या डिमांड ड्राफ्ट के माध्यम से किया जाता है।"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन की प्रक्रिया",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 1:"
+                  },
+                  {
+                    "text": "इच्छुक आवेदक डाउनलोड करता है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://devasthan.rajasthan.gov.in/Files/sindhu_darshan_2024.pdf",
+                    "children": [
+                      {
+                        "text": "आवेदन पत्र"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "आधिकारिक वेबसाइट से।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को सहायक आयुक्त कार्यालय, देवस्थान विभाग में जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "नोटः।",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "तीर्थयात्रा पूरी होने के 2 महीने के भीतर आवेदन जमा किया जाना चाहिए।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "आवेदन 31 दिसंबर, 2024 के बाद जमा नहीं किया गया।"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "चयन और अनुमोदन प्रक्रिया",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "केवल देवस्थान विभाग द्वारा चयनित व्यक्ति ही अनुदान के लिए पात्र हैं।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "तीर्थयात्रा के पूरा होने के बाद, सहायक आयुक्त को खर्च का प्रमाण और प्रमाणित दस्तावेज जमा करें।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "सहायक आयुक्त सभी वैध आवेदनों का सत्यापन करेगा और उन्हें आयुक्त, देवस्थान कार्यालय, उदयपुर को भेजेगा।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "यदि आवेदन 200 से अधिक हैं, तो एक कम्प्यूटरीकृत लॉटरी आयोजित की जाएगी।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "एक साथ आवेदन करने वाले परिवारों के मामले में, प्रति परिवार केवल 3 सदस्यों पर विचार किया जाएगा।"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * आवेदन प्रक्रिया * * * * चरण 1: * * इच्छुक आवेदक [आवेदन पत्र] डाउनलोड करता है। //देवस्थान. राजस्थान. जीओवी. इन/फाइल्स/सिंधु _ दर्शन _ 2024. पी. डी. एफ.) आधिकारिक वेबसाइट से। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)। * * दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को सहायक आयुक्त कार्यालय, देवस्थान विभाग में जमा करें। * * नोटः * *-आवेदन तीर्थयात्रा पूरी होने के 2 महीने के भीतर जमा किया जाना चाहिए।-आवेदन 31 दिसंबर, 2024 के बाद जमा नहीं किया जाना चाहिए। * * चयन & एम्प; एएमपी; अनुमोदन प्रक्रिया * *-केवल देवस्थान विभाग द्वारा चयनित व्यक्ति ही अनुदान के लिए पात्र हैं।-तीर्थयात्रा पूरी होने के बाद, सहायक आयुक्त को खर्च और प्रमाणित दस्तावेजों का प्रमाण जमा करें।-सहायक आयुक्त सभी वैध आवेदनों का सत्यापन करेगा और उन्हें आयुक्त, देवस्थान कार्यालय, उदयपुर को भेजेगा।-यदि आवेदन 200 से अधिक हैं, तो एक कम्प्यूटरीकृत लॉटरी आयोजित की जाएगी।-एक साथ आवेदन करने वाले परिवारों के मामले में, प्रति परिवार केवल 3 सदस्यों पर विचार किया जाएगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 21,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक की आयु 21 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक ऐसा व्यक्ति नहीं होना चाहिए जो भिक्षा पर जीवन यापन करता हो। 1. आवेदक आयकर दाता नहीं होना चाहिए। 1. आवेदक केंद्र सरकार/राज्य सरकार/केंद्र और राज्य सरकार के उपक्रमों/स्थानीय निकाय का सेवानिवृत्त कर्मचारी/अधिकारी नहीं होना चाहिए। 1. प्रति जीवनकाल केवल एक बार सहायता की अनुमति है। * * नोटः * * केवल देवस्थान विभाग, राजस्थान द्वारा चयनित व्यक्ति ही योजना का लाभ प्राप्त करने का पात्र है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 21 वर्ष या उससे अधिक होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक ऐसा व्यक्ति नहीं होना चाहिए जो भिक्षा पर जीवन यापन करता हो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक आयकर दाता नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक केंद्र सरकार/राज्य सरकार/केंद्र और राज्य सरकार के उपक्रमों/स्थानीय निकाय का सेवानिवृत्त कर्मचारी/अधिकारी नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रति जीवनकाल केवल एक बार सहायता की अनुमति है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ध्यान देंः",
+                  "bold": true
+                },
+                {
+                  "text": "राजस्थान के देवस्थान विभाग द्वारा चुना गया व्यक्ति ही इस योजना का लाभ प्राप्त करने का पात्र है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 1,
+        "value": "All",
+        "label": "All"
+      },
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 21,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक की आयु 21 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक ऐसा व्यक्ति नहीं होना चाहिए जो भिक्षा पर जीवन यापन करता हो। 1. आवेदक आयकर दाता नहीं होना चाहिए। 1. आवेदक केंद्र सरकार/राज्य सरकार/केंद्र और राज्य सरकार के उपक्रमों/स्थानीय निकाय का सेवानिवृत्त कर्मचारी/अधिकारी नहीं होना चाहिए। 1. प्रति जीवनकाल केवल एक बार सहायता की अनुमति है। * * नोटः * * केवल देवस्थान विभाग, राजस्थान द्वारा चयनित व्यक्ति ही योजना का लाभ प्राप्त करने का पात्र है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की आयु 21 वर्ष या उससे अधिक होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक ऐसा व्यक्ति नहीं होना चाहिए जो भिक्षा पर जीवन यापन करता हो।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक आयकर दाता नहीं होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक केंद्र सरकार/राज्य सरकार/केंद्र और राज्य सरकार के उपक्रमों/स्थानीय निकाय का सेवानिवृत्त कर्मचारी/अधिकारी नहीं होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "प्रति जीवनकाल केवल एक बार सहायता की अनुमति है।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "ध्यान देंः",
+                "bold": true
+              },
+              {
+                "text": "राजस्थान के देवस्थान विभाग द्वारा चुना गया व्यक्ति ही इस योजना का लाभ प्राप्त करने का पात्र है।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 1,
+      "value": "All",
+      "label": "All"
+    },
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certified photocopy of Rajasthan Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Photocopy of Janadhaar Card (if available)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of actual travel expenses (tickets, bills, etc.)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Verified certificate of travel from a recognized government department, registered trust, or constituted committee"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Photograph of the applicant at Snigdh Darshan Ghat, Sindhu River"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Photocopy of Inner Line Permit for Khanpurana Pass"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the Janadhaar Card is issued by the Rajasthan Government, a separate domicile or birth certificate is not required. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The department may consider a group/class photo at the Ghat in lieu of the Inner Line Permit."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Certified photocopy of Rajasthan Domicile Certificate\n1. Photocopy of Janadhaar Card (if available)\n1. Proof of actual travel expenses (tickets, bills, etc.)\n1. Verified certificate of travel from a recognized government department, registered trust, or constituted committee\n1. Photograph of the applicant at Snigdh Darshan Ghat, Sindhu River\n1. Photocopy of Inner Line Permit for Khanpurana Pass\n\n> **Note:** \n\n\n- If the Janadhaar Card is issued by the Rajasthan Government, a separate domicile or birth certificate is not required. \n- The department may consider a group/class photo at the Ghat in lieu of the Inner Line Permit.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान अधिवास प्रमाणपत्र की प्रमाणित फोटोकॉपी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जनाधार कार्ड की फोटोकॉपी (यदि उपलब्ध हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वास्तविक यात्रा खर्च का प्रमाण (टिकट, बिल, आदि)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मान्यता प्राप्त सरकारी विभाग, पंजीकृत न्यास या गठित समिति से यात्रा का सत्यापित प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्निग्ध दर्शन घाट, सिंधु नदी पर आवेदक की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "खानपुराना दर्रे के लिए इनर लाइन परमिट की फोटोकॉपी"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि जनाधार कार्ड राजस्थान सरकार द्वारा जारी किया जाता है, तो एक अलग अधिवास या जन्म प्रमाण पत्र की आवश्यकता नहीं है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विभाग इनर लाइन परमिट के बदले में घाट पर एक समूह/वर्ग फोटो पर विचार कर सकता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Certified photocopy of Rajasthan Domicile Certificate\n1. Photocopy of Janadhaar Card (if available)\n1. Proof of actual travel expenses (tickets, bills, etc.)\n1. Verified certificate of travel from a recognized government department, registered trust, or constituted committee\n1. Photograph of the applicant at Snigdh Darshan Ghat, Sindhu River\n1. Photocopy of Inner Line Permit for Khanpurana Pass\n\n> **Note:** \n\n\n- If the Janadhaar Card is issued by the Rajasthan Government, a separate domicile or birth certificate is not required. \n- The department may consider a group/class photo at the Ghat in lieu of the Inner Line Permit.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the maximum grant amount?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹10,000 per pilgrim, reimbursed at 50% of actual travel expenses."
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹10,000 per pilgrim, reimbursed at 50% of actual travel expenses.\n"
+        },
+        {
+          "question": "Who is eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan residents, aged 21+, not income tax payers or retired government employees."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan residents, aged 21+, not income tax payers or retired government employees.\n"
+        },
+        {
+          "question": "What is the total number of beneficiaries?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "200 pilgrims per year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "200 pilgrims per year.\n"
+        },
+        {
+          "question": "How are beneficiaries selected?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Via computerized draw (lottery) if applicants exceed the quota."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Via computerized draw (lottery) if applicants exceed the quota.\n"
+        },
+        {
+          "question": "What is the pilgrimage destination?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Snigdh Darshan Ghat on the Sindhu River in Leh-Ladakh, J&K. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Snigdh Darshan Ghat on the Sindhu River in Leh-Ladakh, J&amp;K. \n"
+        },
+        {
+          "question": "When must the application be submitted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Within 2 months of completing the journey, and before December 31, 2024."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Within 2 months of completing the journey, and before December 31, 2024.\n"
+        },
+        {
+          "question": "Is group/family application allowed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, but only up to 3 members per family are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only up to 3 members per family are eligible.\n"
+        },
+        {
+          "question": "Can I get the grant more than once?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only once in a lifetime."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only once in a lifetime.\n"
+        },
+        {
+          "question": "Where do I submit the form?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At the office of the concerned Assistant Commissioner, Devasthan Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the office of the concerned Assistant Commissioner, Devasthan Department.\n"
+        },
+        {
+          "question": "Is the scheme open every year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, subject to annual notification and availability of slots."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, subject to annual notification and availability of slots.\n"
+        },
+        {
+          "question": "Is accommodation covered under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only travel expenses are reimbursed."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only travel expenses are reimbursed.\n"
+        },
+        {
+          "question": "Who to contact for more information?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Commissioner, Devasthan Department, Udaipur."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Commissioner, Devasthan Department, Udaipur.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "अधिकतम अनुदान राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रति तीर्थयात्री 10,000 रुपये, वास्तविक यात्रा खर्च के 50 प्रतिशत पर प्रतिपूर्ति की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹10,000 per pilgrim, reimbursed at 50% of actual travel expenses.\n"
+        },
+        {
+          "question": "कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के निवासी, जिनकी आयु 21 वर्ष से अधिक है, आयकर दाता या सेवानिवृत्त सरकारी कर्मचारी नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan residents, aged 21+, not income tax payers or retired government employees.\n"
+        },
+        {
+          "question": "लाभार्थियों की कुल संख्या कितनी है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रति वर्ष 200 तीर्थयात्री।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "200 pilgrims per year.\n"
+        },
+        {
+          "question": "लाभार्थियों का चयन कैसे किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यदि आवेदक कोटा से अधिक हैं तो कम्प्यूटरीकृत ड्रॉ (लॉटरी) के माध्यम से।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Via computerized draw (lottery) if applicants exceed the quota.\n"
+        },
+        {
+          "question": "तीर्थस्थल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लेह-लद्दाख, जम्मू और कश्मीर में सिंधु नदी पर स्निग्ध दर्शन घाट।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Snigdh Darshan Ghat on the Sindhu River in Leh-Ladakh, J&amp;K. \n"
+        },
+        {
+          "question": "आवेदन कब जमा करना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यात्रा पूरी करने के 2 महीने के भीतर और 31 दिसंबर, 2024 से पहले।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Within 2 months of completing the journey, and before December 31, 2024.\n"
+        },
+        {
+          "question": "क्या समूह/परिवार के आवेदन की अनुमति है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, लेकिन प्रति परिवार केवल 3 सदस्य ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only up to 3 members per family are eligible.\n"
+        },
+        {
+          "question": "क्या मुझे एक से अधिक बार अनुदान मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, जीवन में केवल एक बार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only once in a lifetime.\n"
+        },
+        {
+          "question": "मैं फॉर्म कहाँ जमा करूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संबंधित सहायक आयुक्त, देवस्थान विभाग के कार्यालय में।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the office of the concerned Assistant Commissioner, Devasthan Department.\n"
+        },
+        {
+          "question": "क्या यह योजना हर साल खुली रहती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, वार्षिक अधिसूचना और स्लॉट की उपलब्धता के अधीन।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, subject to annual notification and availability of slots.\n"
+        },
+        {
+          "question": "क्या आवास इस योजना के अंतर्गत आता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल यात्रा खर्चों की प्रतिपूर्ति की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only travel expenses are reimbursed.\n"
+        },
+        {
+          "question": "अधिक जानकारी के लिए किससे संपर्क करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आयुक्त, देवस्थान विभाग, उदयपुर।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Commissioner, Devasthan Department, Udaipur.\n"
+        }
+      ]
+    }
+  }
+}

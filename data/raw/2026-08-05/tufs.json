@@ -1,0 +1,1150 @@
+{
+  "scheme_id": "67af84c364e707b6d5818e3e",
+  "slug": "tufs",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Identity Card",
+        "Transgender",
+        "Citizen Empowerment"
+      ],
+      "schemeName": "Transgender Utthan Kosh – Identity Card for Transgender",
+      "schemeShortTitle": "TUK-ICT",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Citizen empowerment",
+          "label": "Citizen empowerment"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Old)",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/201909241503347185.pdf"
+        },
+        {
+          "title": "Guidelines (New)",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Transgender Utthan Kosh – Identity Card for Transgender&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, with the aim of identifying transgender persons and issuing identity cards to them. This certificate/identity card will be valid for all government purposes, including obtaining a ration card, Aadhaar card, birth certificate, etc. For the issuance of identity cards, NGOs can generate ID cards through the online portal, for which they will receive an honorarium per ID card. If a transgender person applies for the ID card independently through the online portal, they can receive the payment directly into their account upon presenting their own card.\n",
+      "benefits_md": "\n- Issuance of identification cards to recognized transgender individuals.\n- Transgender person applies for an ID card themselves, the payment will be made to their account upon presentation of the ID card.\n- This certificate/identity card will be valid for all government purposes like ration card, Aadhaar card and birth certificate etc.\n\n",
+      "briefDescription": "This scheme aims to identify transgender persons and issuing identity cards to them. This certificate/identity card will be valid for all government purposes, including obtaining a ration card, Aadhaar card, birth certificate, etc.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Transgender Utthan Kosh – Identity Card for Transgender\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, with the aim of identifying transgender persons and issuing identity cards to them. This certificate/identity card will be valid for all government purposes, including obtaining a ration card, Aadhaar card, birth certificate, etc. For the issuance of identity cards, NGOs can generate ID cards through the online portal, for which they will receive an honorarium per ID card. If a transgender person applies for the ID card independently through the online portal, they can receive the payment directly into their account upon presenting their own card."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Issuance of identification cards to recognized transgender individuals."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Transgender person applies for an ID card themselves, the payment will be made to their account upon presentation of the ID card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This certificate/identity card will be valid for all government purposes like ration card, Aadhaar card and birth certificate etc."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the District-Level Committee at the Collector’s Office/Social Justice and Empowerment Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District-Level Committee at the Collector’s Office/Social Justice and Empowerment Office. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the District-Level Committee at the Collector’s Office/Social Justice and Empowerment Office to whom the application has been submitted."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " For making identity cards, NGOs can make ID cards through online portal, honorarium for which will be paid to NGO per ID card."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " If the transgender person himself gets the ID card made through the online portal, then on presenting his own card, payment can be made into the account."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District-Level Committee at the Collector’s Office/Social Justice and Empowerment Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District-Level Committee at the Collector’s Office/Social Justice and Empowerment Office. \n**Step 4:** Request a receipt or acknowledgment from the District-Level Committee at the Collector’s Office/Social Justice and Empowerment Office to whom the application has been submitted.\n**Note 1:** For making identity cards, NGOs can make ID cards through online portal, honorarium for which will be paid to NGO per ID card.\n**Note 2:** If the transgender person himself gets the ID card made through the online portal, then on presenting his own card, payment can be made into the account.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a permanent resident of Rajasthan.\n1. The applicant must belong to the transgender community.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to the transgender community."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "पहचान पत्र",
+        "ट्रांसजेंडर",
+        "नागरिक सशक्तिकरण"
+      ],
+      "schemeName": "ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर के लिए पहचान पत्र",
+      "schemeShortTitle": "TUK-ICT",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Citizen empowerment",
+          "label": "नागरिक सशक्तिकरण"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश (पुराने)",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/201909241503347185.pdf"
+        },
+        {
+          "title": "दिशानिर्देश (नए)",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर के लिए पहचान पत्र योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा ट्रांसजेंडर व्यक्तियों की पहचान करने और उन्हें पहचान पत्र जारी करने के उद्देश्य से शुरू की गई थी। यह प्रमाण पत्र/पहचान पत्र राशन कार्ड, आधार कार्ड, जन्म प्रमाण पत्र आदि प्राप्त करने सहित सभी सरकारी उद्देश्यों के लिए मान्य होगा। पहचान पत्र जारी करने के लिए, गैर सरकारी संगठन ऑनलाइन पोर्टल के माध्यम से पहचान पत्र बना सकते हैं, जिसके लिए उन्हें प्रति पहचान पत्र मानदेय मिलेगा। यदि कोई ट्रांसजेंडर व्यक्ति ऑनलाइन पोर्टल के माध्यम से स्वतंत्र रूप से आईडी कार्ड के लिए आवेदन करता है, तो वे अपना कार्ड प्रस्तुत करने पर सीधे अपने खाते में भुगतान प्राप्त कर सकते हैं।",
+      "benefits_md": "मान्यता प्राप्त ट्रांसजेंडर व्यक्तियों को पहचान पत्र जारी करना-ट्रांसजेंडर व्यक्ति स्वयं एक पहचान पत्र के लिए आवेदन करता है, पहचान पत्र प्रस्तुत करने पर उनके खाते में भुगतान किया जाएगा।-यह प्रमाण पत्र/पहचान पत्र सभी सरकारी उद्देश्यों जैसे राशन कार्ड, आधार कार्ड और जन्म प्रमाण पत्र आदि के लिए मान्य होगा।",
+      "briefDescription": "इस योजना का उद्देश्य ट्रांसजेंडर व्यक्तियों की पहचान करना और उन्हें पहचान पत्र जारी करना है। यह प्रमाण पत्र/पहचान पत्र राशन कार्ड, आधार कार्ड, जन्म प्रमाण पत्र आदि प्राप्त करने सहित सभी सरकारी उद्देश्यों के लिए मान्य होगा।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग ने ट्रांसजेंडर व्यक्तियों की पहचान करने और उन्हें पहचान पत्र जारी करने के उद्देश्य से \"ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर के लिए पहचान पत्र\" योजना शुरू की थी। यह प्रमाण पत्र/पहचान पत्र राशन कार्ड, आधार कार्ड, जन्म प्रमाण पत्र आदि प्राप्त करने सहित सभी सरकारी उद्देश्यों के लिए मान्य होगा। पहचान पत्र जारी करने के लिए, गैर सरकारी संगठन ऑनलाइन पोर्टल के माध्यम से पहचान पत्र बना सकते हैं, जिसके लिए उन्हें प्रति पहचान पत्र मानदेय मिलेगा। यदि कोई ट्रांसजेंडर व्यक्ति ऑनलाइन पोर्टल के माध्यम से स्वतंत्र रूप से आईडी कार्ड के लिए आवेदन करता है, तो वे अपना कार्ड प्रस्तुत करने पर सीधे अपने खाते में भुगतान प्राप्त कर सकते हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मान्यता प्राप्त ट्रांसजेंडर व्यक्तियों को पहचान पत्र जारी करना।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर व्यक्ति स्वयं एक पहचान पत्र के लिए आवेदन करता है, पहचान पत्र प्रस्तुत होने पर उनके खाते में भुगतान किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह प्रमाण पत्र/पहचान पत्र सभी सरकारी उद्देश्यों जैसे राशन कार्ड, आधार कार्ड और जन्म प्रमाण पत्र आदि के लिए मान्य होगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को (कार्यालय के समय के दौरान) कलेक्टर कार्यालय/सामाजिक न्याय और अधिकारिता कार्यालय में जिला स्तरीय समिति का दौरा करना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "कलेक्टर कार्यालय/सामाजिक न्याय और अधिकारिता कार्यालय में जिला स्तरीय समिति को दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "कलेक्टर कार्यालय/सामाजिक न्याय और अधिकारिता कार्यालय में जिला स्तरीय समिति से रसीद या स्वीकृति का अनुरोध करें, जिसे आवेदन प्रस्तुत किया गया है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "पहचान पत्र बनाने के लिए, गैर सरकारी संगठन ऑनलाइन पोर्टल के माध्यम से पहचान पत्र बना सकते हैं, जिसके लिए प्रति पहचान पत्र गैर सरकारी संगठन को मानदेय दिया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "यदि ट्रांसजेंडर व्यक्ति स्वयं ऑनलाइन पोर्टल के माध्यम से बनाया गया आईडी कार्ड प्राप्त करता है, तो अपना कार्ड प्रस्तुत करने पर खाते में भुगतान किया जा सकता है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को (कार्यालय समय के दौरान) कलेक्टर कार्यालय/सामाजिक न्याय और अधिकारिता कार्यालय में जिला स्तरीय समिति का दौरा करना चाहिए और विशेष रूप से भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। चरण 3: कलेक्टर कार्यालय/सामाजिक न्याय और अधिकारिता कार्यालय में जिला स्तरीय समिति को दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें। चरण 4: कलेक्टर कार्यालय/सामाजिक न्याय और अधिकारिता कार्यालय में जिला स्तरीय समिति से रसीद या पावती का अनुरोध करें, जिसे आवेदन जमा किया गया है। नोट 1: पहचान पत्र बनाने के लिए, गैर सरकारी संगठन ऑनलाइन पोर्टल के माध्यम से पहचान पत्र बना सकते हैं, जिसके लिए प्रति पहचान पत्र पर गैर सरकारी संगठन को मानदेय दिया जाएगा। * * नोट 2: * * यदि ट्रांसजेंडर व्यक्ति स्वयं ऑनलाइन पोर्टल के माध्यम से बनाया गया आईडी कार्ड प्राप्त करता है, तो अपना कार्ड प्रस्तुत करने पर खाते में भुगतान किया जा सकता है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक को राजस्थान का स्थायी निवासी होना चाहिए। 1. आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान का स्थायी निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "transgender",
+          "label": "ट्रांसजेंडर"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक को राजस्थान का स्थायी निवासी होना चाहिए। 1. आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान का स्थायी निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "transgender",
+        "label": "ट्रांसजेंडर"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Non-judicial Affidavit (self-declaring gender identity)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residential proof (Aadhaar Card, Voter ID, or any government-issued proof)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport-sized Photograph"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Transgender Identity Card (If applied self)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank passbook copy (If applied self)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Non-judicial Affidavit (self-declaring gender identity)\n1. Income Certificate\n1. Residential proof (Aadhaar Card, Voter ID, or any government-issued proof)\n1. Passport-sized Photograph\n1. Transgender Identity Card (If applied self)\n1. Bank passbook copy (If applied self)\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गैर-न्यायिक शपथ पत्र (लिंग पहचान की स्व-घोषणा)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवासीय प्रमाण (आधार कार्ड, मतदाता पहचान पत्र या सरकार द्वारा जारी कोई भी प्रमाण)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर पहचान पत्र (यदि स्वयं लागू किया जाता है)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति (यदि स्वयं लागू की गई हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Non-judicial Affidavit (self-declaring gender identity)\n1. Income Certificate\n1. Residential proof (Aadhaar Card, Voter ID, or any government-issued proof)\n1. Passport-sized Photograph\n1. Transgender Identity Card (If applied self)\n1. Bank passbook copy (If applied self)\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the purpose of this scheme? ",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme provides transgender individuals with official identity cards recognizing their self-identified gender."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides transgender individuals with official identity cards recognizing their self-identified gender.\n"
+        },
+        {
+          "question": "Who can apply for the identity card?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Any transgender individual residing in Rajasthan can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Any transgender individual residing in Rajasthan can apply.\n"
+        },
+        {
+          "question": "Is medical examination required for identity verification?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the identity card is issued based on self-declaration."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the identity card is issued based on self-declaration.\n"
+        },
+        {
+          "question": "What documents are required for the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant needs to submit an affidavit, residential proof, and a passport-sized photograph."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant needs to submit an affidavit, residential proof, and a passport-sized photograph.\n"
+        },
+        {
+          "question": "Where should the application be submitted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application should be submitted at the District Collector’s Office."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application should be submitted at the District Collector's Office.\n"
+        },
+        {
+          "question": "Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no fee for applying for the identity card."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no fee for applying for the identity card.\n"
+        },
+        {
+          "question": "How long does it take to receive the identity card?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The identity card is issued within 15 working days after verification."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The identity card is issued within 15 working days after verification.\n"
+        },
+        {
+          "question": "How will the applicant be informed of a rejection?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant will be notified within 7 working days with reasons for rejection."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will be notified within 7 working days with reasons for rejection.\n"
+        },
+        {
+          "question": "Can a rejected applicant reapply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, by addressing the rejection reasons and submitting a revised application."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, by addressing the rejection reasons and submitting a revised application.\n"
+        },
+        {
+          "question": "How long does the re-evaluation process take?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The revised application review process should be completed within 30 working days."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The revised application review process should be completed within 30 working days.\n"
+        },
+        {
+          "question": "Is there an age limit for applying?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no age restriction for applying for the identity card."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no age restriction for applying for the identity card.\n"
+        },
+        {
+          "question": "Who supervises the issuance of the identity card?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The District-Level Committee under the District Collector supervises the process."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District-Level Committee under the District Collector supervises the process.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना ट्रांसजेंडर व्यक्तियों को उनके स्व-पहचाने गए लिंग को पहचानने वाले आधिकारिक पहचान पत्र प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides transgender individuals with official identity cards recognizing their self-identified gender.\n"
+        },
+        {
+          "question": "पहचान पत्र के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में रहने वाला कोई भी ट्रांसजेंडर व्यक्ति आवेदन कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Any transgender individual residing in Rajasthan can apply.\n"
+        },
+        {
+          "question": "क्या पहचान सत्यापन के लिए चिकित्सा जांच की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, पहचान पत्र स्व-घोषणा के आधार पर जारी किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the identity card is issued based on self-declaration.\n"
+        },
+        {
+          "question": "आवेदन के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को एक शपथ पत्र, आवासीय प्रमाण और पासपोर्ट आकार की तस्वीर जमा करनी होगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant needs to submit an affidavit, residential proof, and a passport-sized photograph.\n"
+        },
+        {
+          "question": "आवेदन कहाँ जमा किया जाना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन जिला कलेक्टर के कार्यालय में जमा किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application should be submitted at the District Collector's Office.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, पहचान पत्र के लिए आवेदन करने के लिए कोई शुल्क नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no fee for applying for the identity card.\n"
+        },
+        {
+          "question": "पहचान पत्र प्राप्त करने में कितना समय लगता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सत्यापन के बाद 15 कार्य दिवसों के भीतर पहचान पत्र जारी किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The identity card is issued within 15 working days after verification.\n"
+        },
+        {
+          "question": "अस्वीकृति के बारे में आवेदक को कैसे सूचित किया जाएगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को अस्वीकृति के कारणों के साथ 7 कार्य दिवसों के भीतर सूचित किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will be notified within 7 working days with reasons for rejection.\n"
+        },
+        {
+          "question": "क्या अस्वीकृत आवेदक फिर से आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, अस्वीकृति के कारणों को संबोधित करके और एक संशोधित आवेदन जमा करके।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, by addressing the rejection reasons and submitting a revised application.\n"
+        },
+        {
+          "question": "पुनर्मूल्यांकन प्रक्रिया में कितना समय लगता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संशोधित आवेदन समीक्षा प्रक्रिया 30 कार्य दिवसों के भीतर पूरी की जानी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The revised application review process should be completed within 30 working days.\n"
+        },
+        {
+          "question": "क्या आवेदन करने के लिए कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, पहचान पत्र के लिए आवेदन करने के लिए कोई आयु सीमा नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no age restriction for applying for the identity card.\n"
+        },
+        {
+          "question": "पहचान पत्र जारी करने की निगरानी कौन करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला कलेक्टर के अधीन जिला स्तरीय समिति प्रक्रिया की निगरानी करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District-Level Committee under the District Collector supervises the process.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1090 @@
+{
+  "scheme_id": "67cadcbf1dc65aa2df41c967",
+  "slug": "asr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Persons With Disabilities",
+        "Medical Treatment",
+        "Ration",
+        "Welfare Benefits",
+        "PwD",
+        "Astha Card"
+      ],
+      "schemeName": "Aastha Yojana",
+      "schemeShortTitle": "AYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Health care providers and access",
+          "label": "Health care providers and access"
+        },
+        {
+          "value": "Food Security / Public Distribution System",
+          "label": "Food Security / Public Distribution System"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=114"
+        },
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Schemes/AsthaCard.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Aastha Yojana&amp;quot; was launched by the Department of Social Justice and Empowerment, Government of Rajasthan. It aims to provide BPL-equivalent benefits to families with multiple specially-abled members. Under this scheme, eligible families receive free medical treatment, ration supplies, and other welfare benefits. To avail of the benefits, a family must possess an Aastha Card, and their annual income should not exceed ₹1.20 lakh.\n",
+      "benefits_md": "\n- Aastha cardholder families receive benefits similar to BPL families, including free medical treatment and ration supplies.\n\n**Note:** Aastha cardholders are entitled to benefits from all BPL-related schemes run by different state government departments.\n",
+      "briefDescription": "The scheme aims to provide BPL-equivalent benefits to families with two or more specially-abled members. Under this scheme, eligible families receive free medical treatment, ration supplies, and other welfare benefits. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Aastha Yojana\" was launched by the Department of Social Justice and Empowerment, Government of Rajasthan. It aims to provide BPL-equivalent benefits to families with multiple specially-abled members. Under this scheme, eligible families receive free medical treatment, ration supplies, and other welfare benefits. To avail of the benefits, a family must possess an Aastha Card, and their annual income should not exceed ₹1.20 lakh."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aastha cardholder families receive benefits similar to BPL families, including free medical treatment and ration supplies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " Aastha cardholders are entitled to benefits from all BPL-related schemes run by different state government departments."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit office of the District Social Justice & Empowerment Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District Social Justice & Empowerment Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the District Social Justice & Empowerment Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit office of the District Social Justice &amp;amp; Empowerment Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Social Justice &amp;amp; Empowerment Office.\n**Step 4:** Request a receipt or acknowledgment from the District Social Justice &amp;amp; Empowerment Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The two or more members should be specially abled from the same family.\n1. The applicant must have a disability of 40%.\n1. The annual family income should not exceed ₹1,20,000/-.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The two or more members should be specially abled from the same family."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have a disability of 40%."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The annual family income should not exceed ₹1,20,000/-."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "विकलांग व्यक्ति",
+        "चिकित्सीय उपचार",
+        "राशन",
+        "कल्याणकारी लाभ",
+        "पीडब्लूडी",
+        "आस्था कार्ड"
+      ],
+      "schemeName": "आस्था योजना",
+      "schemeShortTitle": "AYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Health care providers and access",
+          "label": "स्वास्थ्य देखभाल प्रदाता और पहुँच"
+        },
+        {
+          "value": "Food Security / Public Distribution System",
+          "label": "खाद्य सुरक्षा/सार्वजनिक वितरण प्रणाली"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "योजना का विवरण",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=114"
+        },
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Schemes/AsthaCard.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "इस योजना को राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू किया गया था। इसका उद्देश्य कई विशेष रूप से सक्षम सदस्यों वाले परिवारों को बी. पी. एल.-समतुल्य लाभ प्रदान करना है। इस योजना के तहत पात्र परिवारों को मुफ्त चिकित्सा उपचार, राशन की आपूर्ति और अन्य कल्याणकारी लाभ मिलते हैं। लाभों का लाभ उठाने के लिए, एक परिवार के पास एक आस्था कार्ड होना चाहिए, और उनकी वार्षिक आय ₹1.20 लाख से अधिक नहीं होनी चाहिए।",
+      "benefits_md": "- आस्था कार्ड धारक परिवारों को मुफ्त चिकित्सा उपचार और राशन की आपूर्ति सहित बी. पी. एल. परिवारों के समान लाभ मिलते हैं। * * आस्था कार्डधारक राज्य सरकार के विभिन्न विभागों द्वारा संचालित सभी बी. पी. एल. से संबंधित योजनाओं से लाभ प्राप्त करने के हकदार हैं।",
+      "briefDescription": "इस योजना का उद्देश्य दो या दो से अधिक विशेष रूप से सक्षम सदस्यों वाले परिवारों को बी. पी. एल.-समतुल्य लाभ प्रदान करना है। इस योजना के तहत पात्र परिवारों को मुफ्त चिकित्सा उपचार, राशन की आपूर्ति और अन्य कल्याणकारी लाभ मिलते हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"आस्था योजना\" योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इसका उद्देश्य कई विशेष रूप से सक्षम सदस्यों वाले परिवारों को बी. पी. एल.-समतुल्य लाभ प्रदान करना है। इस योजना के तहत पात्र परिवारों को मुफ्त चिकित्सा उपचार, राशन की आपूर्ति और अन्य कल्याणकारी लाभ मिलते हैं। लाभों का लाभ उठाने के लिए, एक परिवार के पास एक आस्था कार्ड होना चाहिए, और उनकी वार्षिक आय ₹1.20 लाख से अधिक नहीं होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आस्था कार्ड धारक परिवारों को मुफ्त चिकित्सा उपचार और राशन आपूर्ति सहित बी. पी. एल. परिवारों के समान लाभ मिलते हैं।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "आस्था कार्डधारक राज्य सरकार के विभिन्न विभागों द्वारा संचालित सभी बी. पी. एल. से संबंधित योजनाओं से लाभ प्राप्त करने के हकदार हैं।"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को जिला सामाजिक न्याय और अधिकारिता कार्यालय के कार्यालय में जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सामाजिक न्याय और अधिकारिता कार्यालय में जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला सामाजिक न्याय और अधिकारिता कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को जिला सामाजिक न्याय और अधिकारिता कार्यालय के कार्यालय में जाना चाहिए और विशेष रूप से भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सामाजिक न्याय और अधिकारिता कार्यालय में जमा करें। चरण 4: जिला सामाजिक न्याय और अधिकारिता कार्यालय से रसीद या पावती का अनुरोध करें, जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. दो या दो से अधिक सदस्य एक ही परिवार के विशेष रूप से सक्षम होने चाहिए। 1. आवेदक को 40 प्रतिशत की अक्षमता होनी चाहिए। 1. वार्षिक पारिवारिक आय ₹ 1,20,000-से अधिक नहीं होनी चाहिए",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "disabilityPercentage": {
+        "gte": 40,
+        "lte": 100
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दो या दो से अधिक सदस्य एक ही परिवार के विशेष रूप से सक्षम होने चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 40 प्रतिशत की अक्षमता होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वार्षिक पारिवारिक आय ₹ 1,20,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "disability": true,
+      "disabilityType": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. दो या दो से अधिक सदस्य एक ही परिवार के विशेष रूप से सक्षम होने चाहिए। 1. आवेदक को 40 प्रतिशत की अक्षमता होनी चाहिए। 1. वार्षिक पारिवारिक आय ₹ 1,20,000-से अधिक नहीं होनी चाहिए",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "disabilityPercentage": {
+      "gte": 40,
+      "lte": 100
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "दो या दो से अधिक सदस्य एक ही परिवार के विशेष रूप से सक्षम होने चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को 40 प्रतिशत की अक्षमता होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वार्षिक पारिवारिक आय ₹ 1,20,000-से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "disability": true,
+    "disabilityType": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disability Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity proof\n1. Domicile Certificate\n1. Disability Certificate\n1. Aadhaar Card\n1. Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निशक्तता प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity proof\n1. Domicile Certificate\n1. Disability Certificate\n1. Aadhaar Card\n1. Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the Aastha Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Families with at least two specially-abled members (40% or more disability) and an annual income below ₹1,20,000 are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Families with at least two specially-abled members (40% or more disability) and an annual income below [?]1,20,000 are eligible.\n"
+        },
+        {
+          "question": "What benefits does the scheme provide?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme provides free medical services, ration supplies, and access to BPL-equivalent welfare schemes."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides free medical services, ration supplies, and access to BPL-equivalent welfare schemes.\n"
+        },
+        {
+          "question": "Is there any fee for applying for the Aastha Card?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, applying for the Aastha Card is completely free of cost.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applying for the Aastha Card is completely free of cost.\n\n"
+        },
+        {
+          "question": "Can an individual apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scheme is for families with at least two eligible members with disabilities."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is for families with at least two eligible members with disabilities.\n"
+        },
+        {
+          "question": "Can Aastha Cardholders avail of other government schemes?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, they are eligible for all BPL-category welfare schemes run by various departments."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, they are eligible for all BPL-category welfare schemes run by various departments.\n"
+        },
+        {
+          "question": "Whom should I contact for more information?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant can contact the District Social Justice & Empowerment Office for queries and application assistance."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant can contact the District Social Justice & Empowerment Office for queries and application assistance.\n"
+        },
+        {
+          "question": "Can I apply online for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the application process is offline. \n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application process is offline. \n\n"
+        },
+        {
+          "question": "Will the Aastha Card expire?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The card remains valid as long as the eligibility criteria are met and for the latest update, contact the department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The card remains valid as long as the eligibility criteria are met and for the latest update, contact the department.\n"
+        },
+        {
+          "question": "Where can I apply for the Aastha Card?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant can apply at the District Social Justice & Empowerment Office in your district."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant can apply at the District Social Justice & Empowerment Office in your district.\n"
+        },
+        {
+          "question": "What documents are needed to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Need an Aadhaar Card, Residence Proof, Disability Certificate, etc."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Need an Aadhaar Card, Residence Proof, Disability Certificate, etc.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "आस्था योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कम से कम दो विशेष रूप से सक्षम सदस्यों (40 प्रतिशत या उससे अधिक विकलांगता) और ₹ 1,20,000 से कम वार्षिक आय वाले परिवार पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Families with at least two specially-abled members (40% or more disability) and an annual income below [?]1,20,000 are eligible.\n"
+        },
+        {
+          "question": "इस योजना से क्या लाभ मिलते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना मुफ्त चिकित्सा सेवाएं, राशन की आपूर्ति और बी. पी. एल.-समतुल्य कल्याणकारी योजनाओं तक पहुंच प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides free medical services, ration supplies, and access to BPL-equivalent welfare schemes.\n"
+        },
+        {
+          "question": "क्या आस्था कार्ड के लिए आवेदन करने के लिए कोई शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आस्था कार्ड के लिए आवेदन करना पूरी तरह से निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applying for the Aastha Card is completely free of cost.\n\n"
+        },
+        {
+          "question": "क्या कोई व्यक्ति इस योजना के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना कम से कम दो योग्य विकलांग सदस्यों वाले परिवारों के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is for families with at least two eligible members with disabilities.\n"
+        },
+        {
+          "question": "क्या आस्था कार्डधारक अन्य सरकारी योजनाओं का लाभ उठा सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, वे विभिन्न विभागों द्वारा संचालित सभी बी. पी. एल. श्रेणी की कल्याण योजनाओं के लिए पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, they are eligible for all BPL-category welfare schemes run by various departments.\n"
+        },
+        {
+          "question": "अधिक जानकारी के लिए मुझे किससे संपर्क करना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक प्रश्नों और आवेदन सहायता के लिए जिला सामाजिक न्याय और अधिकारिता कार्यालय से संपर्क कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant can contact the District Social Justice & Empowerment Office for queries and application assistance.\n"
+        },
+        {
+          "question": "क्या मैं इस योजना के लिए ऑनलाइन आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन प्रक्रिया ऑफ़लाइन है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application process is offline. \n\n"
+        },
+        {
+          "question": "क्या आस्था कार्ड की अवधि समाप्त हो जाएगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कार्ड तब तक वैध रहता है जब तक कि पात्रता मानदंड पूरे नहीं होते हैं और नवीनतम अद्यतन के लिए विभाग से संपर्क करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The card remains valid as long as the eligibility criteria are met and for the latest update, contact the department.\n"
+        },
+        {
+          "question": "मैं आस्था कार्ड के लिए कहाँ आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक आपके जिले में जिला सामाजिक न्याय और अधिकारिता कार्यालय में आवेदन कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant can apply at the District Social Justice & Empowerment Office in your district.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आधार कार्ड, निवास प्रमाण पत्र, विकलांगता प्रमाण पत्र आदि की आवश्यकता होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Need an Aadhaar Card, Residence Proof, Disability Certificate, etc.\n"
+        }
+      ]
+    }
+  }
+}

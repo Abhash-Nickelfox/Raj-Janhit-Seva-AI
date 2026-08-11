@@ -1,0 +1,1210 @@
+{
+  "scheme_id": "648b6113481f59106a699591",
+  "slug": "cmenspy",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "1974-06-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Empowerment",
+        "Social Welfare"
+      ],
+      "schemeName": "Chief Minister Ekal Nari Samman Pension Yojana",
+      "schemeShortTitle": "CMENSPY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/112"
+        },
+        {
+          "title": "Details",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/PhotoVideoGallery/2021/11606b68-0d87-4202-9db1-b515f2b2bec7.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Under this scheme, a pension amount is given to all the divorced, widowed or abandoned women of Rajasthan so that they can easily bear the expenses of their house. The objective of the scheme is to provide financial help to women so that they do not face difficulties in leading a normal life.\n",
+      "benefits_md": "\n1. From 18 to 55 years old: Rs. 500/- per month.\n1. From 55 to 60 years: Rs. 750/- per month.\n1. From 60 to 75 years: 1000/- per month.\n1. Above the age of 75 years: 1500/- per month.\n\n",
+      "exclusions_md": "If the applicant himself or his son is serving in Central Government/Other State Government/State Government/State Undertaking or is a pensioner of Central Government/Other State Government/State Government/State Undertaking, then he/she is not eligible to receive a pension under these rules.\n",
+      "briefDescription": "The Rajasthan State government started the \"Chief Minister Ekal Nari Samman Pension Yojana\" scheme for women's support and empowerment. ",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under this scheme, a pension amount is given to all the divorced, widowed or abandoned women of Rajasthan so that they can easily bear the expenses of their house. The objective of the scheme is to provide financial help to women so that they do not face difficulties in leading a normal life."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "From 18 to 55 years old: Rs. 500/- per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "From 55 to 60 years: Rs. 750/- per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "From 60 to 75 years: 1000/- per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Above the age of 75 years: 1500/- per month."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If the applicant himself or his son is serving in Central Government/Other State Government/State Government/State Undertaking or is a pensioner of Central Government/Other State Government/State Government/State Undertaking, then he/she is not eligible to receive a pension under these rules."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://ssp.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicants have to visit on the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ssp.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "official portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "On the home page, click on apply."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "On the new page, the application form will open."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now applicants need to enter the information asked in the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After entering all the information, upload the required documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on the Submit."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. The applicants have to visit on the [official portal](https://ssp.rajasthan.gov.in/).1. On the home page, click on apply.\n1. On the new page, the application form will open.\n1. Now applicants need to enter the information asked in the application form.\n1. After entering all the information, upload the required documents.\n1. Click on the Submit.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant&#39;s age should be 18 years or more.\n1. A native of the Rajasthan state.\n1. A widow/abandoned/divorced woman who does not have any source of regular income of her own for subsistence. (or)\n1. Annual income from all sources should be less than Rs. 48,000/-.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's age should be 18 years or more."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A native of the Rajasthan state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A widow/abandoned/divorced woman who does not have any source of regular income of her own for subsistence. (or)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Annual income from all sources should be less than Rs. 48,000/-."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "1974-06-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "सशक्तिकरण",
+        "समाज कल्याण"
+      ],
+      "schemeName": "मुख्यमंत्री एकल नारी सम्मान पेंशन योजना",
+      "schemeShortTitle": "CMENSPY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/112"
+        },
+        {
+          "title": "विवरण",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/PhotoVideoGallery/2021/11606b68-0d87-4202-9db1-b515f2b2bec7.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "इस योजना के तहत राजस्थान की सभी तलाकशुदा, विधवा या परित्यक्त महिलाओं को पेंशन राशि दी जाती है ताकि वे आसानी से अपने घर का खर्च उठा सकें। इस योजना का उद्देश्य महिलाओं को वित्तीय सहायता प्रदान करना है ताकि उन्हें सामान्य जीवन जीने में कठिनाइयों का सामना न करना पड़े।",
+      "benefits_md": "1. 18 से 55 वर्ष की आयु तकः रु। 500/- प्रति माह। 1. 55 से 60 वर्ष तकः रु। 750/- प्रति माह। 1. 60 से 75 वर्ष तकः 1000/- प्रति माह। 1. 75 वर्ष से अधिक आयुः 1500/- प्रति माह।",
+      "exclusions_md": "यदि आवेदक स्वयं या उसका बेटा केंद्र सरकार/अन्य राज्य सरकार/राज्य सरकार/राज्य उपक्रम में सेवारत है या केंद्र सरकार/अन्य राज्य सरकार/राज्य सरकार/राज्य उपक्रम का पेंशनभोगी है, तो वह इन नियमों के तहत पेंशन प्राप्त करने का पात्र नहीं है।",
+      "briefDescription": "राजस्थान राज्य सरकार ने महिलाओं के समर्थन और सशक्तिकरण के लिए \"मुख्यमंत्री एकल नारी सम्मान पेंशन योजना\" योजना शुरू की।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना के तहत राजस्थान की सभी तलाकशुदा, विधवा या परित्यक्त महिलाओं को पेंशन राशि दी जाती है ताकि वे आसानी से अपने घर का खर्च उठा सकें। इस योजना का उद्देश्य महिलाओं को वित्तीय सहायता प्रदान करना है ताकि उन्हें सामान्य जीवन जीने में कठिनाइयों का सामना न करना पड़े।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "18 से 55 वर्ष की आयु तकः रु। 500/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "55 से 60 वर्ष तकः रु। 750/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "60 से 75 वर्ष तकः 1000/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "75 वर्ष से अधिक आयुः 1500/- प्रति माह।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "यदि आवेदक स्वयं या उसका बेटा केंद्र सरकार/अन्य राज्य सरकार/राज्य सरकार/राज्य उपक्रम में सेवारत है या केंद्र सरकार/अन्य राज्य सरकार/राज्य सरकार/राज्य उपक्रम का पेंशनभोगी है, तो वह इन नियमों के तहत पेंशन प्राप्त करने का पात्र नहीं है।"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://ssp.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदकों को जाना होगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ssp.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "आधिकारिक पोर्टल"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "होम पेज पर, अप्लाई पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "नए पेज पर आवेदन पत्र खुल जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अब आवेदकों को आवेदन पत्र में गई जानकारी दर्ज करनी होगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सभी जानकारी दर्ज करने के बाद, आवश्यक दस्तावेज अपलोड करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सबमिट पर क्लिक करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदकों को [आधिकारिक पोर्टल] (https://ssp.rajasthan.gov.in). 1 पर जाना होगा। होम पेज पर, अप्लाई पर क्लिक करें। 1. नए पेज पर आवेदन पत्र खुल जाएगा। 1. अब आवेदकों को आवेदन पत्र में गई जानकारी दर्ज करनी होगी। 1. सभी जानकारी दर्ज करने के बाद, आवश्यक दस्तावेज अपलोड करें। 1. सबमिट पर क्लिक करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "female"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": 48000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक & #39; आयु 18 वर्ष या उससे अधिक होनी चाहिए। 1. राजस्थान राज्य के मूल निवासी। 1. एक विधवा/परित्यक्त/तलाकशुदा महिला जिसके पास निर्वाह के लिए अपनी नियमित आय का कोई स्रोत नहीं है। (या) 1. सभी स्रोतों से वार्षिक आय रुपये से कम होनी चाहिए। 48, 000/-",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 18 वर्ष या उससे अधिक होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान राज्य के मूल निवासी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक विधवा/परित्यक्त/तलाकशुदा महिला जिसके पास निर्वाह के लिए अपनी नियमित आय का कोई स्रोत नहीं है। (या)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सभी स्रोतों से वार्षिक आय रुपये से कम होनी चाहिए। 48, 000/-"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "value": "divorced",
+          "label": "Divorced"
+        },
+        {
+          "value": "separated",
+          "label": "Separated"
+        },
+        {
+          "value": "widowed",
+          "label": "Widowed"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "female"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": 48000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक & #39; आयु 18 वर्ष या उससे अधिक होनी चाहिए। 1. राजस्थान राज्य के मूल निवासी। 1. एक विधवा/परित्यक्त/तलाकशुदा महिला जिसके पास निर्वाह के लिए अपनी नियमित आय का कोई स्रोत नहीं है। (या) 1. सभी स्रोतों से वार्षिक आय रुपये से कम होनी चाहिए। 48, 000/-",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की आयु 18 वर्ष या उससे अधिक होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "राजस्थान राज्य के मूल निवासी।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एक विधवा/परित्यक्त/तलाकशुदा महिला जिसके पास निर्वाह के लिए अपनी नियमित आय का कोई स्रोत नहीं है। (या)"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "सभी स्रोतों से वार्षिक आय रुपये से कम होनी चाहिए। 48, 000/-"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "value": "divorced",
+        "label": "Divorced"
+      },
+      {
+        "value": "separated",
+        "label": "Separated"
+      },
+      {
+        "value": "widowed",
+        "label": "Widowed"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ration Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Original residence certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicant - Passport-size photo."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Declaration Form."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death certificate of husband for widow pension."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate issued by the court for divorcee woman pension."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate issued by the Sub-Divisional Officer / Development Officer for abandoned women pension."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card.\n1. Birth certificate.\n1. Ration Card.\n1. Original residence certificate.\n1. Bank Account Details.\n1. Applicant - Passport-size photo.\n1. Income Declaration Form.\n1. Death certificate of husband for widow pension.\n1. Certificate issued by the court for divorcee woman pension.\n1. Certificate issued by the Sub-Divisional Officer / Development Officer for abandoned women pension.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राशन कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मूल निवास प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक-पासपोर्ट आकार का फोटो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय घोषणा प्रपत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विधवा पेंशन के लिए पति का मृत्यु प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "तलाकशुदा महिला पेंशन के लिए अदालत द्वारा जारी प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "परित्यक्त महिला पेंशन के लिए उप-मंडल अधिकारी/विकास अधिकारी द्वारा जारी प्रमाण पत्र।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card.\n1. Birth certificate.\n1. Ration Card.\n1. Original residence certificate.\n1. Bank Account Details.\n1. Applicant - Passport-size photo.\n1. Income Declaration Form.\n1. Death certificate of husband for widow pension.\n1. Certificate issued by the court for divorcee woman pension.\n1. Certificate issued by the Sub-Divisional Officer / Development Officer for abandoned women pension.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the scope of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Rajasthan State government started the \"Chief Minister Ekal Nari Samman Pension Yojana\" scheme for women's support and empowerment."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Rajasthan State government started the \"Chief Minister Ekal Nari Samman Pension Yojana\" scheme for women's support and empowerment.\n"
+        },
+        {
+          "question": "What are the benefits under the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Pension amount : \n1. From 18 to 55 years old: Rs. 500/- per month.\n2. From 55 to 60 years: Rs. 750/- per month.  \n3. From 60 to 75 years: 1000/- per month.\n4. Above the age of 75 years: 1500/- per month."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Pension amount : \n1. From 18 to 55 years old: Rs. 500/- per month.\n2. From 55 to 60 years: Rs. 750/- per month.  \n3. From 60 to 75 years: 1000/- per month.\n4. Above the age of 75 years: 1500/- per month.\n"
+        },
+        {
+          "question": "Who can get the benefits of the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Native of the Rajasthan state who full fill the eligibility criteria. \n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Native of the Rajasthan state who full fill the eligibility criteria. \n\n"
+        },
+        {
+          "question": "What is the minimum eligible age ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Applicant's Age Should Be 18 Years Or More. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Applicant's Age Should Be 18 Years Or More. \n"
+        },
+        {
+          "question": "Can only the people of the Rajasthan state apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A native of the Rajasthan state only."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A native of the Rajasthan state only.\n"
+        },
+        {
+          "question": "Is widow/abandoned/divorced woman may get the benefits ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, A widow/abandoned/divorced woman may get the scheme benefits. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, A widow/abandoned/divorced woman may get the scheme benefits. \n"
+        },
+        {
+          "question": "What is the financial eligibility for applicant ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. A widow/abandoned/divorced woman who does not have any source of regular income of her own for subsistence. (or) \n2. Annual income from all sources should be less than Rs. 48,000/-."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. A widow/abandoned/divorced woman who does not have any source of regular income of her own for subsistence. (or) \n2. Annual income from all sources should be less than Rs. 48,000/-.\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. The applicants have to visit on the official portal.  \n2. On the home page, click on apply. \n3. On the new page, the application form will open. \n4. Now applicants need to enter the information asked in the application form.  \n5. After entering all the information, upload the required documents.\n6. Click on the Submit."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. The applicants have to visit on the official portal.  \n2. On the home page, click on apply. \n3. On the new page, the application form will open. \n4. Now applicants need to enter the information asked in the application form.  \n5. After entering all the information, upload the required documents.\n6. Click on the Submit.\n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Aadhaar Card.  \n2. Birth certificate.  \n3. Ration Card.  \n4. Original residence certificate.  \n5. Bank Account Details.\n6. Applicant - Passport-size photo.\n7. Income Declaration Form.  \n8. Death certificate of husband for widow pension. \n9. Certificate issued by the court for divorcee woman pension.  \n10 Certificate issued by the Sub-Divisional Officer / Development Officer for abandoned women pension."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhaar Card.  \n2. Birth certificate.  \n3. Ration Card.  \n4. Original residence certificate.  \n5. Bank Account Details.\n6. Applicant - Passport-size photo.\n7. Income Declaration Form.  \n8. Death certificate of husband for widow pension. \n9. Certificate issued by the court for divorcee woman pension.  \n10 Certificate issued by the Sub-Divisional Officer / Development Officer for abandoned women pension.\n"
+        },
+        {
+          "question": "If applicant serving the government job or having pension, is she eligible for scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "If the applicant himself or his son is serving in Central Government/Other State Government/State Government/State Undertaking or is a pensioner of Central Government/Other State Government/State Government/State Undertaking, then he/she is not eligible to receive a pension under these rules."
+                }
+              ]
+            }
+          ],
+          "answer_md": "If the applicant himself or his son is serving in Central Government/Other State Government/State Government/State Undertaking or is a pensioner of Central Government/Other State Government/State Government/State Undertaking, then he/she is not eligible to receive a pension under these rules.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का दायरा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान राज्य सरकार ने महिलाओं के समर्थन और सशक्तिकरण के लिए \"मुख्यमंत्री एकल नारी सम्मान पेंशन योजना\" योजना शुरू की।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Rajasthan State government started the \"Chief Minister Ekal Nari Samman Pension Yojana\" scheme for women's support and empowerment.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पेंशन राशिः 1. 18 से 55 वर्ष की आयु तकः रु। 500/- प्रति माह। 2. 55 से 60 वर्ष तकः रु। 750/- प्रति माह। 3. 60 से 75 वर्ष तकः 1000/- प्रति माह। 4. 75 वर्ष से अधिक आयुः 1500/- प्रति माह।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Pension amount : \n1. From 18 to 55 years old: Rs. 500/- per month.\n2. From 55 to 60 years: Rs. 750/- per month.  \n3. From 60 to 75 years: 1000/- per month.\n4. Above the age of 75 years: 1500/- per month.\n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान राज्य के मूल निवासी जो पात्रता मानदंडों को पूरा करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Native of the Rajasthan state who full fill the eligibility criteria. \n\n"
+        },
+        {
+          "question": "न्यूनतम पात्र आयु क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 18 वर्ष या उससे अधिक होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Applicant's Age Should Be 18 Years Or More. \n"
+        },
+        {
+          "question": "क्या केवल राजस्थान राज्य के लोग ही इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल राजस्थान राज्य के मूल निवासी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A native of the Rajasthan state only.\n"
+        },
+        {
+          "question": "क्या विधवा/परित्यक्त/तलाकशुदा महिला को लाभ मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, एक विधवा/परित्यक्त/तलाकशुदा महिला को योजना का लाभ मिल सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, A widow/abandoned/divorced woman may get the scheme benefits. \n"
+        },
+        {
+          "question": "आवेदक के लिए वित्तीय पात्रता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. एक विधवा/परित्यक्त/तलाकशुदा महिला जिसके पास निर्वाह के लिए अपनी नियमित आय का कोई स्रोत नहीं है। (या) सभी स्रोतों से वार्षिक आय रुपये से कम होनी चाहिए। 48, 000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. A widow/abandoned/divorced woman who does not have any source of regular income of her own for subsistence. (or) \n2. Annual income from all sources should be less than Rs. 48,000/-.\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदकों को आधिकारिक पोर्टल पर जाना होगा। 2. होम पेज पर, अप्लाई पर क्लिक करें। 3. नए पेज पर आवेदन पत्र खुल जाएगा। 4. अब आवेदकों को आवेदन पत्र में गई जानकारी दर्ज करनी होगी। 5. सभी जानकारी दर्ज करने के बाद, आवश्यक दस्तावेज अपलोड करें। 6. सबमिट पर क्लिक करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. The applicants have to visit on the official portal.  \n2. On the home page, click on apply. \n3. On the new page, the application form will open. \n4. Now applicants need to enter the information asked in the application form.  \n5. After entering all the information, upload the required documents.\n6. Click on the Submit.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आधार कार्ड। 2. जन्म प्रमाण पत्र। 3. राशन कार्ड। 4. मूल निवास प्रमाण पत्र। 5. बैंक खाते का विवरण। 6. आवेदक-पासपोर्ट आकार का फोटो। 7. आय घोषणा प्रपत्र। 8. विधवा पेंशन के लिए पति का मृत्यु प्रमाण पत्र। 9. तलाकशुदा महिला पेंशन के लिए अदालत द्वारा जारी प्रमाण पत्र। 10 परित्यक्त महिला पेंशन के लिए उप-मंडल अधिकारी/विकास अधिकारी द्वारा जारी प्रमाण पत्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhaar Card.  \n2. Birth certificate.  \n3. Ration Card.  \n4. Original residence certificate.  \n5. Bank Account Details.\n6. Applicant - Passport-size photo.\n7. Income Declaration Form.  \n8. Death certificate of husband for widow pension. \n9. Certificate issued by the court for divorcee woman pension.  \n10 Certificate issued by the Sub-Divisional Officer / Development Officer for abandoned women pension.\n"
+        },
+        {
+          "question": "यदि आवेदक सरकारी नौकरी कर रहा है या उसके पास पेंशन है, तो क्या वह योजना के लिए पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यदि आवेदक स्वयं या उसका बेटा केंद्र सरकार/अन्य राज्य सरकार/राज्य सरकार/राज्य उपक्रम में सेवारत है या केंद्र सरकार/अन्य राज्य सरकार/राज्य सरकार/राज्य उपक्रम का पेंशनभोगी है, तो वह इन नियमों के तहत पेंशन प्राप्त करने का पात्र नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "If the applicant himself or his son is serving in Central Government/Other State Government/State Government/State Undertaking or is a pensioner of Central Government/Other State Government/State Government/State Undertaking, then he/she is not eligible to receive a pension under these rules.\n"
+        }
+      ]
+    }
+  }
+}

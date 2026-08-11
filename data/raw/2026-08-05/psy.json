@@ -1,0 +1,1662 @@
+{
+  "scheme_id": "65d6ef77938a0b13cc8ce874",
+  "slug": "psy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Women",
+        "Children",
+        "Delivery",
+        "Care",
+        "Pregnancy"
+      ],
+      "schemeName": "Prasuti Sahayata Yojana",
+      "schemeShortTitle": "PSY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pregnancy Care",
+          "label": "Pregnancy Care"
+        },
+        {
+          "value": "Childcare",
+          "label": "Childcare"
+        },
+        {
+          "value": "Financial Assistance",
+          "label": "Financial Assistance"
+        }
+      ],
+      "schemeOpenDate": "2016-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "Labour Department"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "file:///C:/Users/ruchi/Downloads/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE.pdf"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Rajasthan Prasuti Sahayata Yojana offers a lifeline to pregnant women from registered construction worker families in the state. Launched by the government, the scheme provides crucial financial support at a critical juncture, aiming to improve the well-being of both mother and child. This assistance empowers women to prioritize their health throughout pregnancy and ensure proper care for their newborns.\n",
+      "benefits_md": "\n- The birth of a daughter: ₹ 21,000/-\n- The birth of a son : ₹ 20,000/-\n- In case of not receiving cash benefits under Janani Suraksha Yojana, ₹1,000/- additional assistance will be payable.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The Rajasthan Prasuti Sahayata Yojana is a scheme launched by the Government of Rajasthan to provide financial assistance to pregnant women from registered construction worker families in the state",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Rajasthan Prasuti Sahayata Yojana offers a lifeline to pregnant women from registered construction worker families in the state. Launched by the government, the scheme provides crucial financial support at a critical juncture, aiming to improve the well-being of both mother and child. This assistance empowers women to prioritize their health throughout pregnancy and ensure proper care for their newborns."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The birth of a daughter: ₹ 21,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The birth of a son : ₹ 20,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of not receiving cash benefits under Janani Suraksha Yojana, ₹1,000/- additional assistance will be payable."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “LDMS” option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In LDMS, select \"Welfare Schemes\" from the side menu and select BOCW Welfare Board. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of \"Shubhshakti Yojana\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out the all relevant detail. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “LDMS” option.\n**Step-4:** In LDMS, select &quot;Welfare Schemes&quot; from the side menu and select BOCW Welfare Board. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of &quot;Shubhshakti Yojana&quot;\n**Step-7:** Fill out the all relevant detail. \n**Step-8:** Submit.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The female worker must be holding a beneficiary identity card under Section 13 of the Maternity Benefit Act.\n1. The age of the female beneficiary should not be less than 20 years at the time of delivery.\n1. Maternity benefits will be payable for a maximum of two deliveries only. If the beneficiary has two or more children before registration, assistance will not be provided. In case of having one child before registration, assistance will be provided for only one delivery.\n1. Construction worker beneficiaries who fail to make their monthly contributions to the Board&#39;s fund will not be eligible for the Maternity Assistance Scheme.\n1. If the beneficiary rectifies the default by making the required monthly payments, they will become eligible for the Maternity Assistance Scheme.\n1. Maternity benefits under the scheme will be provided only for institutional deliveries.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The female worker must be holding a beneficiary identity card under Section 13 of the Maternity Benefit Act."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the female beneficiary should not be less than 20 years at the time of delivery."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maternity benefits will be payable for a maximum of two deliveries only. If the beneficiary has two or more children before registration, assistance will not be provided. In case of having one child before registration, assistance will be provided for only one delivery."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction worker beneficiaries who fail to make their monthly contributions to the Board's fund will not be eligible for the Maternity Assistance Scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the beneficiary rectifies the default by making the required monthly payments, they will become eligible for the Maternity Assistance Scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maternity benefits under the scheme will be provided only for institutional deliveries."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "महिलाएँ",
+        "बच्चे",
+        "डिलीवरी",
+        "देखभाल",
+        "गर्भावस्था"
+      ],
+      "schemeName": "प्रशांति सहायता योजना",
+      "schemeShortTitle": "PSY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pregnancy Care",
+          "label": "गर्भावस्था की देखभाल"
+        },
+        {
+          "value": "Childcare",
+          "label": "बच्चों की देखभाल"
+        },
+        {
+          "value": "Financial Assistance",
+          "label": "वित्तीय सहायता"
+        }
+      ],
+      "schemeOpenDate": "2016-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "श्रम विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "file:///C:/Users/ruchi/Downloads/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE.pdf"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान प्रसुति सहायता योजना राज्य में पंजीकृत निर्माण श्रमिक परिवारों की गर्भवती महिलाओं को जीवन रेखा प्रदान करती है। सरकार द्वारा शुरू की गई यह योजना एक महत्वपूर्ण मोड़ पर महत्वपूर्ण वित्तीय सहायता प्रदान करती है, जिसका उद्देश्य मां और बच्चे दोनों की भलाई में सुधार करना है। यह सहायता महिलाओं को गर्भावस्था के दौरान अपने स्वास्थ्य को प्राथमिकता देने और अपने नवजात शिशुओं की उचित देखभाल सुनिश्चित करने में सक्षम बनाती है।",
+      "benefits_md": "- बेटी का जन्म-₹21,000/- बेटे का जन्म-₹20,000/- जननी सुरक्षा योजना के तहत नकद लाभ प्राप्त नहीं होने की स्थिति में, ₹1,000/- अतिरिक्त सहायता देय होगी।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "राजस्थान प्रसुति सहायता योजना राजस्थान सरकार द्वारा राज्य में पंजीकृत निर्माण श्रमिक परिवारों की गर्भवती महिलाओं को वित्तीय सहायता प्रदान करने के लिए शुरू की गई एक योजना है",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान प्रसुति सहायता योजना राज्य में पंजीकृत निर्माण श्रमिक परिवारों की गर्भवती महिलाओं को जीवन रेखा प्रदान करती है। सरकार द्वारा शुरू की गई यह योजना एक महत्वपूर्ण मोड़ पर महत्वपूर्ण वित्तीय सहायता प्रदान करती है, जिसका उद्देश्य मां और बच्चे दोनों की भलाई में सुधार करना है। यह सहायता महिलाओं को गर्भावस्था के दौरान अपने स्वास्थ्य को प्राथमिकता देने और अपने नवजात शिशुओं की उचित देखभाल सुनिश्चित करने में सक्षम बनाती है।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बेटी का जन्म-₹21,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बेटे का जन्म-₹20,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जननी सुरक्षा योजना के तहत नकद लाभ प्राप्त नहीं होने की स्थिति में ₹1,000/- की अतिरिक्त सहायता देय होगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"एल. डी. एम. एस\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "एल. डी. एम. एस. में, साइड मेन्यू से \"कल्याण योजनाएं\" चुनें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पेज पर राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की सूची मिलेगी, जिसमें से \"शुभशक्ति योजना\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। चरण-3: एल. डी. एम. एस. विकल्प पर क्लिक करें। * * चरण-4: एल. डी. एम. एस. में, साइड मेन्यू से कल्याण योजनाओं का चयन करें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की एक सूची मिलेगी, जिसमें से 'शुभशक्ति योजना' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें। <बीआर>"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 20,
+          "lte": 100
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. महिला कर्मचारी के पास मातृत्व लाभ अधिनियम की धारा 13 के तहत लाभार्थी पहचान पत्र होना चाहिए। 1. महिला लाभार्थी की आयु प्रसव के समय 20 वर्ष से कम नहीं होनी चाहिए। 1. अधिकतम दो प्रसवों के लिए ही मातृत्व लाभ देय होंगे। यदि लाभार्थी के पंजीकरण से पहले दो या दो से अधिक बच्चे हैं, तो सहायता प्रदान नहीं की जाएगी। पंजीकरण से पहले एक बच्चा होने की स्थिति में, केवल एक प्रसव के लिए सहायता प्रदान की जाएगी। 1. निर्माण श्रमिक लाभार्थी जो बोर्ड के कोष में अपना मासिक योगदान करने में विफल रहते हैं, वे मातृत्व सहायता योजना के लिए पात्र नहीं होंगे। 1. यदि लाभार्थी आवश्यक मासिक भुगतान करके चूक को सुधारता है, तो वे मातृत्व सहायता योजना के लिए पात्र हो जाएंगे। 1. इस योजना के तहत मातृत्व लाभ केवल संस्थागत प्रसव के लिए प्रदान किए जाएंगे।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "महिला कर्मचारी के पास मातृत्व लाभ अधिनियम की धारा 13 के तहत लाभार्थी पहचान पत्र होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "महिला लाभार्थी की आयु प्रसव के समय 20 वर्ष से कम नहीं होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकतम दो प्रसवों के लिए ही मातृत्व लाभ देय होंगे। यदि लाभार्थी के पंजीकरण से पहले दो या दो से अधिक बच्चे हैं, तो सहायता प्रदान नहीं की जाएगी। पंजीकरण से पहले एक बच्चा होने की स्थिति में, केवल एक प्रसव के लिए सहायता प्रदान की जाएगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्माण श्रमिक लाभार्थी जो बोर्ड के कोष में अपना मासिक योगदान देने में विफल रहते हैं, वे मातृत्व सहायता योजना के लिए पात्र नहीं होंगे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि लाभार्थी आवश्यक मासिक भुगतान करके चूक को सुधारता है, तो वे मातृत्व सहायता योजना के लिए पात्र हो जाएंगे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के तहत मातृत्व लाभ केवल संस्थागत प्रसव के लिए प्रदान किए जाएंगे।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "pregnant": true,
+      "employmentStatus": {
+        "id": 2,
+        "value": "employed",
+        "label": "Employed"
+      },
+      "occupation": [
+        {
+          "value": "construction-worker",
+          "label": "Construction Worker"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 20,
+        "lte": 100
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. महिला कर्मचारी के पास मातृत्व लाभ अधिनियम की धारा 13 के तहत लाभार्थी पहचान पत्र होना चाहिए। 1. महिला लाभार्थी की आयु प्रसव के समय 20 वर्ष से कम नहीं होनी चाहिए। 1. अधिकतम दो प्रसवों के लिए ही मातृत्व लाभ देय होंगे। यदि लाभार्थी के पंजीकरण से पहले दो या दो से अधिक बच्चे हैं, तो सहायता प्रदान नहीं की जाएगी। पंजीकरण से पहले एक बच्चा होने की स्थिति में, केवल एक प्रसव के लिए सहायता प्रदान की जाएगी। 1. निर्माण श्रमिक लाभार्थी जो बोर्ड के कोष में अपना मासिक योगदान करने में विफल रहते हैं, वे मातृत्व सहायता योजना के लिए पात्र नहीं होंगे। 1. यदि लाभार्थी आवश्यक मासिक भुगतान करके चूक को सुधारता है, तो वे मातृत्व सहायता योजना के लिए पात्र हो जाएंगे। 1. इस योजना के तहत मातृत्व लाभ केवल संस्थागत प्रसव के लिए प्रदान किए जाएंगे।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "महिला कर्मचारी के पास मातृत्व लाभ अधिनियम की धारा 13 के तहत लाभार्थी पहचान पत्र होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "महिला लाभार्थी की आयु प्रसव के समय 20 वर्ष से कम नहीं होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अधिकतम दो प्रसवों के लिए ही मातृत्व लाभ देय होंगे। यदि लाभार्थी के पंजीकरण से पहले दो या दो से अधिक बच्चे हैं, तो सहायता प्रदान नहीं की जाएगी। पंजीकरण से पहले एक बच्चा होने की स्थिति में, केवल एक प्रसव के लिए सहायता प्रदान की जाएगी।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "निर्माण श्रमिक लाभार्थी जो बोर्ड के कोष में अपना मासिक योगदान देने में विफल रहते हैं, वे मातृत्व सहायता योजना के लिए पात्र नहीं होंगे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यदि लाभार्थी आवश्यक मासिक भुगतान करके चूक को सुधारता है, तो वे मातृत्व सहायता योजना के लिए पात्र हो जाएंगे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "इस योजना के तहत मातृत्व लाभ केवल संस्थागत प्रसव के लिए प्रदान किए जाएंगे।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "pregnant": true,
+    "employmentStatus": {
+      "id": 2,
+      "value": "employed",
+      "label": "Employed"
+    },
+    "occupation": [
+      {
+        "value": "construction-worker",
+        "label": "Construction Worker"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar card copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah card copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth certificate copy: Proof of age of the beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of institutional delivery."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other documents: Declaration form regarding the number of living children."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar card copy.\n1. Jan Aadhar/Bhamashah card copy.\n1. Birth certificate copy: Proof of age of the beneficiary.\n1. Certificate of institutional delivery.\n1. Other documents: Declaration form regarding the number of living children.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र की प्रतिः लाभार्थी की उम्र का प्रमाण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संस्थागत वितरण का प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अन्य दस्तावेजः जीवित बच्चों की संख्या के संबंध में घोषणा पत्र।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar card copy.\n1. Jan Aadhar/Bhamashah card copy.\n1. Birth certificate copy: Proof of age of the beneficiary.\n1. Certificate of institutional delivery.\n1. Other documents: Declaration form regarding the number of living children.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The objective of the scheme is to enable the construction worker woman to take proper care of herself and the child after delivery."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the scheme is to enable the construction worker woman to take proper care of herself and the child after delivery.\n"
+        },
+        {
+          "question": "What is the assistance amount of birth of a daughter?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Assistance amount of Rs 21,000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Assistance amount of Rs 21,000/-\n"
+        },
+        {
+          "question": "What will be the age criteria?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants whose age is less than 20 years are not eligible for the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants whose age is less than 20 years are not eligible for the scheme.\n"
+        },
+        {
+          "question": "Is there a Caste-related Eligibility Criteria in this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No\n"
+        },
+        {
+          "question": "Are there any specific documents required for the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nThe age certificate of the beneficiary\nCertificate of Institutional Delivery (Hospital Discharge Ticket)\nDeclaration regarding the number of living children "
+                }
+              ]
+            }
+          ],
+          "answer_md": "\nThe age certificate of the beneficiary\nCertificate of Institutional Delivery (Hospital Discharge Ticket)\nDeclaration regarding the number of living children \n"
+        },
+        {
+          "question": "Will the benefit of this scheme be provided to all the citizens of the state?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state.\n"
+        },
+        {
+          "question": "Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No\n"
+        },
+        {
+          "question": "What is the assistance amount of birth of a Son?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Assistance amount of Rs 20,000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Assistance amount of Rs 20,000/-\n"
+        },
+        {
+          "question": "How many times the applicant can avail of the benefits of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only two times."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only two times.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य निर्माण श्रमिक महिला को प्रसव के बाद अपनी और बच्चे की उचित देखभाल करने में सक्षम बनाना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the scheme is to enable the construction worker woman to take proper care of herself and the child after delivery.\n"
+        },
+        {
+          "question": "बेटी के जन्म की सहायता राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "21, 000/- रुपये की सहायता राशि"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Assistance amount of Rs 21,000/-\n"
+        },
+        {
+          "question": "आयु का मानदंड क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिन आवेदकों की आयु 20 वर्ष से कम है, वे योजना के लिए पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants whose age is less than 20 years are not eligible for the scheme.\n"
+        },
+        {
+          "question": "क्या इस योजना में जाति संबंधी पात्रता मानदंड है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No\n"
+        },
+        {
+          "question": "क्या आवेदन के लिए किसी विशेष दस्तावेज की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जीवित बच्चों की संख्या के संबंध में संस्थागत वितरण (अस्पताल से छुट्टी टिकट) घोषणा के लाभार्थी प्रमाण पत्र का आयु प्रमाण पत्र"
+                }
+              ]
+            }
+          ],
+          "answer_md": "\nThe age certificate of the beneficiary\nCertificate of Institutional Delivery (Hospital Discharge Ticket)\nDeclaration regarding the number of living children \n"
+        },
+        {
+          "question": "क्या इस योजना का लाभ राज्य के सभी नागरिकों को मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना का लाभ केवल राजस्थान राज्य के श्रमिक परिवार की अविवाहित बेटियों को ही दिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No\n"
+        },
+        {
+          "question": "पुत्र के जन्म के लिए सहायता राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "20, 000/- रुपये की सहायता राशि"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Assistance amount of Rs 20,000/-\n"
+        },
+        {
+          "question": "आवेदक कितनी बार योजना का लाभ उठा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल दो बार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only two times.\n"
+        }
+      ]
+    }
+  }
+}

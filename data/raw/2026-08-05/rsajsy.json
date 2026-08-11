@@ -1,0 +1,1571 @@
+{
+  "scheme_id": "6817a719cf124d5d192b31be",
+  "slug": "rsajsy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Journalist",
+        "Senior Citizen",
+        "Honorarium"
+      ],
+      "schemeName": "Rajasthan Varishth Patrakar Samman Yojana",
+      "schemeShortTitle": "RVPSY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Pension",
+          "label": "Pension"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "journalist",
+          "label": "Journalist"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000021,
+        "label": "Information and Public Relations Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/DIPR/2020/Notification/O_270120_3618b4db-5c9d-4023-ab5e-049a93ee5479.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://dipr.rajasthan.gov.in/scheme/detail/492"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Rajasthan Varishth Patrakar Samman Yojana&amp;quot; was implemented by the Information and Public Relations Department, Government of Rajasthan, to recognize and support the contributions of senior accredited journalists. Under this scheme, a monthly financial assistance of ₹15,000/- is provided to full-time accredited journalists who are 60 years of age or older and have served continuously for at least 20 years in daily, weekly, fortnightly newspapers, independent publications, electronic media, or news agencies (including editors, publishers, and owners).\n",
+      "benefits_md": "**Financial Assistance:**\n\n- Monthly Honorarium: ₹15,000/- per month to the senior accredited journalists.\n- In case of the journalist&#39;s death, 50% of the amount is provided to the widow.\n\n**Duration:** \n\n- Paid for a maximum period of 5 years, subject to review.\n\n**Mode of Disbursement:**\n\n- Direct Bank Transfer to the journalist’s savings account.\n\n",
+      "briefDescription": "Under this scheme, a monthly financial assistance of ₹15,000/- is provided to full-time accredited journalists who are 60 years of age or older & have served continuously for at least 20 years in daily, weekly, fortnightly newspapers, independent publications, electronic media, or news agencies.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Rajasthan Varishth Patrakar Samman Yojana\" was implemented by the Information and Public Relations Department, Government of Rajasthan, to recognize and support the contributions of senior accredited journalists. Under this scheme, a monthly financial assistance of ₹15,000/- is provided to full-time accredited journalists who are 60 years of age or older and have served continuously for at least 20 years in daily, weekly, fortnightly newspapers, independent publications, electronic media, or news agencies (including editors, publishers, and owners)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Monthly Honorarium: ₹15,000/- per month to the senior accredited journalists."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of the journalist's death, 50% of the amount is provided to the widow."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Duration:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Paid for a maximum period of 5 years, subject to review."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Direct Bank Transfer to the journalist’s savings account."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "bold": true,
+                "text": "Application Process"
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant downloads the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Advertisement/Achievements/2022/Apr/2602_ACH_0919f4fa-eb86-4c9d-b1b7-a76b45a881c4.pdf",
+                    "children": [
+                      {
+                        "text": "application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " from the official website. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the respective Information and Public Relations Department, Rajasthan or Accreditation Committee. "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Post-Application Process",
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The Accreditation Committee will verify the documents and credentials."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Upon recommendation, final approval will be given by the State Government."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On approval, the monthly honorarium will be directly credited to the applicant's bank account."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The scheme is subject to review and honorarium can be withdrawn in case of misconduct or legal violation."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process**\n\n**Step 1:** The interested applicant downloads the [application form](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Advertisement/Achievements/2022/Apr/2602_ACH_0919f4fa-eb86-4c9d-b1b7-a76b45a881c4.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the respective Information and Public Relations Department, Rajasthan or Accreditation Committee. \n&gt; ***Post-Application Process***\n\n**Step 1:** The Accreditation Committee will verify the documents and credentials.\n**Step 2:** Upon recommendation, final approval will be given by the State Government.\n**Step 3:** On approval, the monthly honorarium will be directly credited to the applicant&amp;#39;s bank account.\n**Note:** The scheme is subject to review and honorarium can be withdrawn in case of misconduct or legal violation.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a full-time accredited journalist.\n   1. The applicant must have continuously worked for at least 20 years in daily newspapers, weekly newspapers, fortnightly news publications, independent journalism, electronic media, or news agencies, including roles such as editor, publisher, or owner of such media organizations.\n   1. Accredited journalists who have been regularly accredited with the Department of Information and Public Relations, Rajasthan for at least 10 years will be eligible for this scheme.\n   1. The journalist should be 60 years of age or older as of the application date.\n   1. The applicant should not be receiving any salary, pension, or regular financial assistance from any newspaper, institution, or any other regular assistance from the State Government.\n   1. The applicant must declare (via affidavit) that they do not fall under the category of an income tax payee.\n   1. The applicant should not have any criminal case registered against them.\n\n**Note:** The honorarium will be given for an initial period of five years.\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a full-time accredited journalist."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have continuously worked for at least 20 years in daily newspapers, weekly newspapers, fortnightly news publications, independent journalism, electronic media, or news agencies, including roles such as editor, publisher, or owner of such media organizations."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Accredited journalists who have been regularly accredited with the Department of Information and Public Relations, Rajasthan for at least 10 years will be eligible for this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The journalist should be 60 years of age or older as of the application date."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not be receiving any salary, pension, or regular financial assistance from any newspaper, institution, or any other regular assistance from the State Government."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must declare (via affidavit) that they do not fall under the category of an income tax payee."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not have any criminal case registered against them."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                },
+                {
+                  "text": " The honorarium will be given for an initial period of five years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "पत्रकार",
+        "वरिष्ठ नागरिक",
+        "मानदेय"
+      ],
+      "schemeName": "राजस्थान वरिष्ठ पत्रकार सम्मान योजना",
+      "schemeShortTitle": "RVPSY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        },
+        {
+          "value": "Pension",
+          "label": "पेंशन"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "journalist",
+          "label": "Journalist"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000021,
+        "label": "सूचना और जनसंपर्क विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/DIPR/2020/Notification/O_270120_3618b4db-5c9d-4023-ab5e-049a93ee5479.pdf"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://dipr.rajasthan.gov.in/scheme/detail/492"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान वरिष्ठ पत्रकार सम्मान योजना को राजस्थान सरकार के सूचना और जनसंपर्क विभाग द्वारा वरिष्ठ मान्यता प्राप्त पत्रकारों के योगदान को पहचानने और उनका समर्थन करने के लिए लागू किया गया था। इस योजना के तहत, पूर्णकालिक मान्यता प्राप्त पत्रकारों को ₹15,000/- की मासिक वित्तीय सहायता प्रदान की जाती है, जिनकी आयु 60 वर्ष या उससे अधिक है और जिन्होंने दैनिक, साप्ताहिक, पाक्षिक समाचार पत्रों, स्वतंत्र प्रकाशनों, इलेक्ट्रॉनिक मीडिया, या समाचार एजेंसियों (संपादकों, प्रकाशकों और मालिकों सहित) में कम से कम 20 साल तक लगातार काम किया है।",
+      "benefits_md": "वित्तीय सहायताः वरिष्ठ मान्यता प्राप्त पत्रकारों को मासिक मानदेय 15,₹000/- प्रति माह। - पत्रकार की मृत्यु के मामले में, 50 प्रतिशत राशि विधवा को प्रदान की जाती है। * * अवधिः * *-अधिकतम 5 वर्ष की अवधि के लिए भुगतान, समीक्षा के अधीन। संवितरण का तरीका-पत्रकार के बचत खाते में सीधे बैंक हस्तांतरण।",
+      "briefDescription": "इस योजना के तहत, पूर्णकालिक मान्यता प्राप्त पत्रकारों को ₹15,000/- की मासिक वित्तीय सहायता प्रदान की जाती है, जिनकी आयु 60 वर्ष या उससे अधिक है और जिन्होंने दैनिक, साप्ताहिक, पाक्षिक समाचार पत्रों, स्वतंत्र प्रकाशनों, इलेक्ट्रॉनिक मीडिया या समाचार एजेंसियों में कम से कम 20 साल तक लगातार काम किया है।",
+      "exclusions_md": "<बीआर>",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वरिष्ठ मान्यता प्राप्त पत्रकारों के योगदान को पहचानने और उनका समर्थन करने के लिए राजस्थान सरकार के सूचना और जनसंपर्क विभाग द्वारा \"राजस्थान वरिष्ठ पत्रकार सम्मान योजना\" लागू की गई थी। इस योजना के तहत, पूर्णकालिक मान्यता प्राप्त पत्रकारों को ₹15,000/- की मासिक वित्तीय सहायता प्रदान की जाती है, जिनकी आयु 60 वर्ष या उससे अधिक है और जिन्होंने दैनिक, साप्ताहिक, पाक्षिक समाचार पत्रों, स्वतंत्र प्रकाशनों, इलेक्ट्रॉनिक मीडिया, या समाचार एजेंसियों (संपादकों, प्रकाशकों और मालिकों सहित) में कम से कम 20 साल तक लगातार काम किया है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मासिक मानदेय-वरिष्ठ मान्यता प्राप्त पत्रकारों को 15,₹000/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पत्रकार की मृत्यु के मामले में, 50 प्रतिशत राशि विधवा को प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "अवधिः",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकतम 5 वर्ष की अवधि के लिए भुगतान, समीक्षा के अधीन।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पत्रकार के बचत खाते में सीधे बैंक हस्तांतरण।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "bold": true,
+                "text": "आवेदन की प्रक्रिया"
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 1:"
+                  },
+                  {
+                    "text": "इच्छुक आवेदक डाउनलोड करता है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Advertisement/Achievements/2022/Apr/2602_ACH_0919f4fa-eb86-4c9d-b1b7-a76b45a881c4.pdf",
+                    "children": [
+                      {
+                        "text": "आवेदन पत्र"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "आधिकारिक वेबसाइट से।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को संबंधित सूचना और जनसंपर्क विभाग, राजस्थान या प्रत्यायन समिति को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "आवेदन के बाद की प्रक्रिया",
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "प्रत्यायन समिति दस्तावेजों और प्रमाण पत्रों का सत्यापन करेगी।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "सिफारिश पर राज्य सरकार द्वारा अंतिम मंजूरी दी जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "मंजूरी मिलने पर मासिक मानदेय सीधे आवेदक के बैंक खाते में जमा हो जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "ध्यान देंः",
+                    "bold": true
+                  },
+                  {
+                    "text": "इस योजना की समीक्षा की जा सकती है और कदाचार या कानूनी उल्लंघन के मामले में मानदेय वापस लिया जा सकता है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रिया * * * * * चरण 1: * * इच्छुक आवेदक आधिकारिक वेबसाइट से [आवेदन पत्र] (https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Advertisement/Achievements/2022/Apr/2602_ACH_0919f4fa-eb86-4c9d-b1b7-a76b45a881c4.pdf) डाउनलोड करता है। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को संबंधित सूचना और जनसंपर्क विभाग, राजस्थान या प्रत्यायन समिति को जमा करें। आवेदन के बाद की प्रक्रिया * * * * * * चरण 1: * * प्रत्यायन समिति दस्तावेजों और प्रमाण पत्रों का सत्यापन करेगी। * * चरण 2: * * सिफारिश पर, राज्य सरकार द्वारा अंतिम मंजूरी दी जाएगी। चरण 3: मंजूरी मिलने पर मासिक मानदेय सीधे आवेदक के बैंक खाते में जमा हो जाएगा। * * नोटः योजना समीक्षा के अधीन है और कदाचार या कानूनी उल्लंघन के मामले में मानदेय वापस लिया जा सकता है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 60,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक को पूर्णकालिक मान्यता प्राप्त पत्रकार होना चाहिए। 1. आवेदक ने दैनिक समाचार पत्रों, साप्ताहिक समाचार पत्रों, पाक्षिक समाचार प्रकाशनों, स्वतंत्र पत्रकारिता, इलेक्ट्रॉनिक मीडिया या समाचार एजेंसियों में कम से कम 20 वर्षों तक लगातार काम किया होना चाहिए, जिसमें संपादक, प्रकाशक या ऐसे मीडिया संगठनों के मालिक जैसी भूमिकाएं शामिल हैं। 1. मान्यता प्राप्त पत्रकार जो कम से कम 10 वर्षों से सूचना और जनसंपर्क विभाग, राजस्थान से नियमित रूप से मान्यता प्राप्त हैं, वे इस योजना के लिए पात्र होंगे। 1. आवेदन की तारीख के अनुसार पत्रकार की आयु 60 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक को राज्य सरकार से किसी भी समाचार पत्र, संस्थान या किसी अन्य नियमित सहायता से कोई वेतन, पेंशन या नियमित वित्तीय सहायता प्राप्त नहीं होनी चाहिए। 1. आवेदक को (शपथ पत्र के माध्यम से) यह घोषणा करनी चाहिए कि वे आयकर दाता की श्रेणी में नहीं आते हैं। 1. आवेदक के खिलाफ कोई आपराधिक मामला दर्ज नहीं होना चाहिए। * * नोटः * मानदेय पांच साल की प्रारंभिक अवधि के लिए दिया जाएगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को पूर्णकालिक मान्यता प्राप्त पत्रकार होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक ने दैनिक समाचार पत्रों, साप्ताहिक समाचार पत्रों, पाक्षिक समाचार प्रकाशनों, स्वतंत्र पत्रकारिता, इलेक्ट्रॉनिक मीडिया या समाचार एजेंसियों में कम से कम 20 वर्षों तक लगातार काम किया होना चाहिए, जिसमें संपादक, प्रकाशक या ऐसे मीडिया संगठनों के मालिक जैसी भूमिकाएं शामिल हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "मान्यता प्राप्त पत्रकार जो कम से कम 10 वर्षों से सूचना और जनसंपर्क विभाग, राजस्थान से नियमित रूप से मान्यता प्राप्त हैं, वे इस योजना के लिए पात्र होंगे।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदन की तारीख के अनुसार पत्रकार की आयु 60 वर्ष या उससे अधिक होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को राज्य सरकार से किसी भी समाचार पत्र, संस्थान या किसी अन्य नियमित सहायता से कोई वेतन, पेंशन या नियमित वित्तीय सहायता प्राप्त नहीं होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को (शपथ पत्र के माध्यम से) यह घोषणा करनी चाहिए कि वे आयकर दाता की श्रेणी में नहीं आते हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक के खिलाफ कोई आपराधिक मामला दर्ज नहीं होना चाहिए।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ध्यान देंः",
+                  "bold": true
+                },
+                {
+                  "text": "मानदेय पांच साल की प्रारंभिक अवधि के लिए दिया जाएगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "employmentStatus": null,
+      "occupation": [
+        {
+          "value": "journalist",
+          "label": "Journalist"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 60,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक को पूर्णकालिक मान्यता प्राप्त पत्रकार होना चाहिए। 1. आवेदक ने दैनिक समाचार पत्रों, साप्ताहिक समाचार पत्रों, पाक्षिक समाचार प्रकाशनों, स्वतंत्र पत्रकारिता, इलेक्ट्रॉनिक मीडिया या समाचार एजेंसियों में कम से कम 20 वर्षों तक लगातार काम किया होना चाहिए, जिसमें संपादक, प्रकाशक या ऐसे मीडिया संगठनों के मालिक जैसी भूमिकाएं शामिल हैं। 1. मान्यता प्राप्त पत्रकार जो कम से कम 10 वर्षों से सूचना और जनसंपर्क विभाग, राजस्थान से नियमित रूप से मान्यता प्राप्त हैं, वे इस योजना के लिए पात्र होंगे। 1. आवेदन की तारीख के अनुसार पत्रकार की आयु 60 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक को राज्य सरकार से किसी भी समाचार पत्र, संस्थान या किसी अन्य नियमित सहायता से कोई वेतन, पेंशन या नियमित वित्तीय सहायता प्राप्त नहीं होनी चाहिए। 1. आवेदक को (शपथ पत्र के माध्यम से) यह घोषणा करनी चाहिए कि वे आयकर दाता की श्रेणी में नहीं आते हैं। 1. आवेदक के खिलाफ कोई आपराधिक मामला दर्ज नहीं होना चाहिए। * * नोटः * मानदेय पांच साल की प्रारंभिक अवधि के लिए दिया जाएगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को पूर्णकालिक मान्यता प्राप्त पत्रकार होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक ने दैनिक समाचार पत्रों, साप्ताहिक समाचार पत्रों, पाक्षिक समाचार प्रकाशनों, स्वतंत्र पत्रकारिता, इलेक्ट्रॉनिक मीडिया या समाचार एजेंसियों में कम से कम 20 वर्षों तक लगातार काम किया होना चाहिए, जिसमें संपादक, प्रकाशक या ऐसे मीडिया संगठनों के मालिक जैसी भूमिकाएं शामिल हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मान्यता प्राप्त पत्रकार जो कम से कम 10 वर्षों से सूचना और जनसंपर्क विभाग, राजस्थान से नियमित रूप से मान्यता प्राप्त हैं, वे इस योजना के लिए पात्र होंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन की तारीख के अनुसार पत्रकार की आयु 60 वर्ष या उससे अधिक होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को राज्य सरकार से किसी भी समाचार पत्र, संस्थान या किसी अन्य नियमित सहायता से कोई वेतन, पेंशन या नियमित वित्तीय सहायता प्राप्त नहीं होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को (शपथ पत्र के माध्यम से) यह घोषणा करनी चाहिए कि वे आयकर दाता की श्रेणी में नहीं आते हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक के खिलाफ कोई आपराधिक मामला दर्ज नहीं होना चाहिए।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "ध्यान देंः",
+                "bold": true
+              },
+              {
+                "text": "मानदेय पांच साल की प्रारंभिक अवधि के लिए दिया जाएगा।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "employmentStatus": null,
+    "occupation": [
+      {
+        "value": "journalist",
+        "label": "Journalist"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport-size Photo"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of age"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Qualification Certificates"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Experience Certificate/Proof of 20 years in journalism"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Accreditation Certificate from the Department minimum 10 years"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self-Declaration Affidavit (₹50 Stamp Paper – stating non-income tax status)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "No Objection Certificate from any affiliated media house (if required)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook/Cancelled Cheque (for account details)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of No Criminal Record (Self-declaration or Police verification)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "No Other Benefit Receive Certificate"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Proof of age\n1. Qualification Certificates\n1. Experience Certificate/Proof of 20 years in journalism\n1. Accreditation Certificate from the Department minimum 10 years\n1. Self-Declaration Affidavit (₹50 Stamp Paper – stating non-income tax status)\n1. No Objection Certificate from any affiliated media house (if required)\n1. Bank Passbook/Cancelled Cheque (for account details)\n1. Proof of No Criminal Record (Self-declaration or Police verification)\n1. No Other Benefit Receive Certificate\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उम्र का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "योग्यता प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पत्रकारिता में 20 वर्षों का अनुभव प्रमाण पत्र/प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विभाग से मान्यता प्रमाण पत्र न्यूनतम 10 वर्ष"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्व-घोषणा शपथ पत्र (₹50 स्टाम्प पेपर-गैर-आयकर स्थिति बताते हुए)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसी भी संबद्ध मीडिया हाउस से अनापत्ति प्रमाण पत्र (यदि आवश्यक हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक/रद्द किया गया चेक (खाते के विवरण के लिए)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कोई आपराधिक रिकॉर्ड नहीं होने का प्रमाण (स्व-घोषणा या पुलिस सत्यापन)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कोई अन्य लाभ प्राप्त प्रमाणपत्र नहीं"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Proof of age\n1. Qualification Certificates\n1. Experience Certificate/Proof of 20 years in journalism\n1. Accreditation Certificate from the Department minimum 10 years\n1. Self-Declaration Affidavit (₹50 Stamp Paper – stating non-income tax status)\n1. No Objection Certificate from any affiliated media house (if required)\n1. Bank Passbook/Cancelled Cheque (for account details)\n1. Proof of No Criminal Record (Self-declaration or Police verification)\n1. No Other Benefit Receive Certificate\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who implements the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Information and Public Relations Department, Government of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Information and Public Relations Department, Government of Rajasthan.\n"
+        },
+        {
+          "question": "How much is the monthly honorarium under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹5,000/- per month."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial assistance of ₹5,000/- per month.\n"
+        },
+        {
+          "question": "What is the minimum age requirement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant must be at least 60 years old."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant must be at least 60 years old.\n"
+        },
+        {
+          "question": "What is the minimum experience required in journalism?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A minimum of 20 years of journalistic work is required."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A minimum of 20 years of journalistic work is required.\n"
+        },
+        {
+          "question": "Are editors and publishers eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if they meet the criteria of service and accreditation."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if they meet the criteria of service and accreditation.\n"
+        },
+        {
+          "question": "Can journalists receiving a government pension apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scheme excludes individuals receiving any regular financial support."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme excludes individuals receiving any regular financial support.\n"
+        },
+        {
+          "question": "What happens if a beneficiary dies?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "His widow will receive ₹2,500/- per month as a partial benefit."
+                }
+              ]
+            }
+          ],
+          "answer_md": "His widow will receive ₹2,500/- per month as a partial benefit.\n"
+        },
+        {
+          "question": "How is the amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Through Direct Benefit Transfer (DBT) to the applicant’s bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through Direct Benefit Transfer (DBT) to the applicant’s bank account.\n"
+        },
+        {
+          "question": "Can the benefit be withdrawn?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, in case of misconduct, criminal charges, or deviation from journalistic ethics."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, in case of misconduct, criminal charges, or deviation from journalistic ethics.\n"
+        },
+        {
+          "question": "Is there any review after receiving the benefit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, every case will be reviewed after five years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, every case will be reviewed after five years.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सूचना और जनसंपर्क विभाग, राजस्थान सरकार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Information and Public Relations Department, Government of Rajasthan.\n"
+        },
+        {
+          "question": "इस योजना के तहत मासिक मानदेय कितना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹5,000/- प्रति माह की वित्तीय सहायता।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial assistance of ₹5,000/- per month.\n"
+        },
+        {
+          "question": "न्यूनतम आयु की आवश्यकता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक की आयु कम से कम 60 वर्ष होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant must be at least 60 years old.\n"
+        },
+        {
+          "question": "पत्रकारिता में न्यूनतम अनुभव की आवश्यकता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कम से कम 20 साल का पत्रकारिता कार्य आवश्यक है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A minimum of 20 years of journalistic work is required.\n"
+        },
+        {
+          "question": "क्या संपादक और प्रकाशक पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, अगर वे सेवा और मान्यता के मानदंडों को पूरा करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if they meet the criteria of service and accreditation.\n"
+        },
+        {
+          "question": "क्या सरकारी पेंशन प्राप्त करने वाले पत्रकार आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना में कोई भी नियमित वित्तीय सहायता प्राप्त करने वाले व्यक्ति शामिल नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme excludes individuals receiving any regular financial support.\n"
+        },
+        {
+          "question": "यदि किसी लाभार्थी की मृत्यु हो जाती है तो क्या होता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उनकी विधवा को आंशिक लाभ के रूप में प्रति माह ₹2,500/- प्राप्त होंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "His widow will receive ₹2,500/- per month as a partial benefit.\n"
+        },
+        {
+          "question": "राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक के बैंक खाते में प्रत्यक्ष लाभ हस्तांतरण (डी. बी. टी.) के माध्यम से।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through Direct Benefit Transfer (DBT) to the applicant’s bank account.\n"
+        },
+        {
+          "question": "क्या लाभ वापस लिया जा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, कदाचार, आपराधिक आरोपों या पत्रकारिता नैतिकता से विचलन के मामले में।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, in case of misconduct, criminal charges, or deviation from journalistic ethics.\n"
+        },
+        {
+          "question": "क्या लाभ प्राप्त करने के बाद कोई समीक्षा की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, हर मामले की समीक्षा पांच साल बाद की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, every case will be reviewed after five years.\n"
+        }
+      ]
+    }
+  }
+}

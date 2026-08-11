@@ -1,0 +1,1764 @@
+{
+  "scheme_id": "65e16ef6da55878ebe0a7eea",
+  "slug": "slesvkspy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Pension",
+        "Old Age",
+        "Financial Assistance",
+        "Social Welfare"
+      ],
+      "schemeName": "Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana",
+      "schemeShortTitle": "SLSVKP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "Pension"
+        }
+      ],
+      "schemeOpenDate": "2019-03-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/KOAPS/DOC_115_d0afbc58-6686-465e-95a8-7492d0343f05.pdf"
+        },
+        {
+          "title": "Details",
+          "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Rajasthan government has introduced the &amp;quot;Suraksha Laghu Evam Simaant Vriddhajan Krishak Samman Pension Yojana&amp;quot; to uplift the lives of small and marginal farmers in the state. This initiative recognizes the significant contributions of these farmers to the agricultural sector and aims to provide them with much-needed social security during their golden years. By offering a monthly pension to eligible farmers aged 60 and above, the scheme seeks to alleviate financial worries and ensure a degree of economic independence for these individuals. This program serves as a critical step towards improving the overall well-being of small and marginal farmers in Rajasthan, acknowledging their hard work and dedication to food production.\n&lt;br&gt;\n\n",
+      "benefits_md": "\n1. To a pensioner below 75 years of age : ₹750/- per month\n1. To pensioners aged 75 years and above : ₹1,000/- per month\n\n",
+      "exclusions_md": "> **Termination of pension:-**\n\n(i) The pension will cease to exist on the date of death of the pensioner. The undrawn amount of pension payable till the date of death will lapse.\n(ii) In case of permanent or temporary migration of the pensioner outside Rajasthan, the pension will normally be terminated. However, the Treasurer/Deputy Treasurer, as the case may be, may resume payment of pension from the date of personal appearance before the pensioner on his return to Rajasthan, but the arrears of accrued pension for the period of his stay outside Rajasthan will be payable. Will not happen.\n(iii) If a small and marginal farmer pensioner has more land than the prescribed category, i.e. if the farmer is out of the small and marginal category, the pension will be stopped.\n<br>\n\n",
+      "briefDescription": "The Rajasthan government's Social Justice and Empowerment Department launched the \"Suraksha Laghu Evan Seemaant Vrddhajan Krshak Sammaan Penshan Yojana\" program, a social welfare initiative that aims to improve the lives by providing them with monthly financial assistance. ",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Rajasthan government has introduced the \"Suraksha Laghu Evam Simaant Vriddhajan Krishak Samman Pension Yojana\" to uplift the lives of small and marginal farmers in the state. This initiative recognizes the significant contributions of these farmers to the agricultural sector and aims to provide them with much-needed social security during their golden years. By offering a monthly pension to eligible farmers aged 60 and above, the scheme seeks to alleviate financial worries and ensure a degree of economic independence for these individuals. This program serves as a critical step towards improving the overall well-being of small and marginal farmers in Rajasthan, acknowledging their hard work and dedication to food production."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To a pensioner below 75 years of age : ₹750/- per month"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To pensioners aged 75 years and above : ₹1,000/- per month"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Termination of pension:-",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) The pension will cease to exist on the date of death of the pensioner. The undrawn amount of pension payable till the date of death will lapse."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) In case of permanent or temporary migration of the pensioner outside Rajasthan, the pension will normally be terminated. However, the Treasurer/Deputy Treasurer, as the case may be, may resume payment of pension from the date of personal appearance before the pensioner on his return to Rajasthan, but the arrears of accrued pension for the period of his stay outside Rajasthan will be payable. Will not happen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) If a small and marginal farmer pensioner has more land than the prescribed category, i.e. if the farmer is out of the small and marginal category, the pension will be stopped."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “IFMS-RAJSSP” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"IFMS-RAJSSP\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah Family ID\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “IFMS-RAJSSP” option. \n**Step-4:** In &quot;IFMS-RAJSSP&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah Family ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan State.\n1. The applicant should be a farmer.\n1. The female applicant&#39;s age should be more than 55 years and the male more than 58 years.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan State."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The female applicant's age should be more than 55 years and the male more than 58 years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "पेंशन",
+        "वृद्धावस्था",
+        "वित्तीय सहायता",
+        "समाज कल्याण"
+      ],
+      "schemeName": "सुरक्षा लघु इवान सीमंत वृद्धाजन कृषक सम्मान पेंशन योजना",
+      "schemeShortTitle": "SLSVKP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "पेंशन"
+        }
+      ],
+      "schemeOpenDate": "2019-03-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/KOAPS/DOC_115_d0afbc58-6686-465e-95a8-7492d0343f05.pdf"
+        },
+        {
+          "title": "विवरण",
+          "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार ने राज्य में छोटे और सीमांत किसानों के जीवन के उत्थान के लिए 'सुरक्षा लघु एवं सामंत वृद्धाजन कृषक सम्मान पेंशन योजना' शुरू की है। यह पहल कृषि क्षेत्र में इन किसानों के महत्वपूर्ण योगदान को मान्यता देती है और इसका उद्देश्य उनके स्वर्णिम वर्षों के दौरान उन्हें बहुत आवश्यक सामाजिक सुरक्षा प्रदान करना है। 60 वर्ष और उससे अधिक आयु के पात्र किसानों को मासिक पेंशन प्रदान करके, यह योजना वित्तीय चिंताओं को कम करने और इन व्यक्तियों के लिए कुछ हद तक आर्थिक स्वतंत्रता सुनिश्चित करने का प्रयास करती है। यह कार्यक्रम खाद्य उत्पादन के प्रति उनकी कड़ी मेहनत और समर्पण को स्वीकार करते हुए राजस्थान में छोटे और सीमांत किसानों के समग्र कल्याण में सुधार की दिशा में एक महत्वपूर्ण कदम के रूप में कार्य करता है। & प्रा. & प्रा. & प्रा.;",
+      "benefits_md": "1. 75 वर्ष से कम आयु के पेंशनभोगी के लिएः ₹750/- प्रति माह। 75 वर्ष और उससे अधिक आयु के पेंशनभोगियों के लिएः ₹1,000/- प्रति माह",
+      "exclusions_md": "> * * पेंशन की समाप्तिः - * (i) पेंशनभोगी की मृत्यु की तारीख को पेंशन का अस्तित्व समाप्त हो जाएगा। मृत्यु की तारीख तक देय पेंशन की बकाया राशि समाप्त हो जाएगी। (ii) राजस्थान से बाहर पेंशनभोगी के स्थायी या अस्थायी प्रवास के मामले में, पेंशन को आम तौर पर समाप्त कर दिया जाएगा। हालांकि, खजांची/उप-खजांची, जैसा भी मामला हो, राजस्थान लौटने पर पेंशनभोगी के सामने व्यक्तिगत उपस्थिति की तारीख से पेंशन का भुगतान फिर से शुरू कर सकता है, लेकिन राजस्थान के बाहर रहने की अवधि के लिए उपार्जित पेंशन का बकाया देय होगा। ऐसा नहीं होगा। (iii) यदि किसी छोटे और सीमांत किसान पेंशनभोगी के पास निर्धारित श्रेणी से अधिक भूमि है, यानी यदि किसान लघु और सीमांत श्रेणी से बाहर है, तो पेंशन बंद कर दी जाएगी",
+      "briefDescription": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग ने \"सुरक्षा लघु इवान सीमंत वर्धजन कृषक सम्मान योजना\" कार्यक्रम शुरू किया, जो एक सामाजिक कल्याण पहल है जिसका उद्देश्य उन्हें मासिक वित्तीय सहायता प्रदान करके जीवन में सुधार करना है।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार ने राज्य में छोटे और सीमांत किसानों के जीवन के उत्थान के लिए \"सुरक्षा लघु एवं सामंत कृषक सम्मान पेंशन योजना\" शुरू की है। यह पहल कृषि क्षेत्र में इन किसानों के महत्वपूर्ण योगदान को मान्यता देती है और इसका उद्देश्य उनके स्वर्णिम वर्षों के दौरान उन्हें बहुत आवश्यक सामाजिक सुरक्षा प्रदान करना है। 60 वर्ष और उससे अधिक आयु के पात्र किसानों को मासिक पेंशन प्रदान करके, यह योजना वित्तीय चिंताओं को कम करने और इन व्यक्तियों के लिए कुछ हद तक आर्थिक स्वतंत्रता सुनिश्चित करने का प्रयास करती है। यह कार्यक्रम खाद्य उत्पादन के प्रति उनकी कड़ी मेहनत और समर्पण को स्वीकार करते हुए राजस्थान में छोटे और सीमांत किसानों के समग्र कल्याण में सुधार की दिशा में एक महत्वपूर्ण कदम के रूप में कार्य करता है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "75 वर्ष से कम आयु के पेंशनभोगी के लिएः ₹750/- प्रति माह"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "75 वर्ष और उससे अधिक आयु के पेंशनभोगियों के लिएः ₹1,000/- प्रति माह"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "पेंशन की समाप्तिः -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) पेंशनभोगी की मृत्यु की तारीख को पेंशन का अस्तित्व समाप्त हो जाएगा। मृत्यु की तारीख तक देय पेंशन की बकाया राशि समाप्त हो जाएगी।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) राजस्थान से बाहर पेंशनभोगी के स्थायी या अस्थायी प्रवास के मामले में, पेंशन को आम तौर पर समाप्त कर दिया जाएगा। हालांकि, खजांची/उप-खजांची, जैसा भी मामला हो, राजस्थान लौटने पर पेंशनभोगी के सामने व्यक्तिगत उपस्थिति की तारीख से पेंशन का भुगतान फिर से शुरू कर सकता है, लेकिन राजस्थान के बाहर रहने की अवधि के लिए उपार्जित पेंशन का बकाया देय होगा। नहीं होगा।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) यदि किसी छोटे और सीमांत किसान पेंशनभोगी के पास निर्धारित श्रेणी से अधिक भूमि है, यानी यदि किसान लघु और सीमांत श्रेणी से बाहर है, तो पेंशन बंद कर दी जाएगी।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". में, \"आवेदन प्रविष्टि अनुरोध\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "\"भामाशाह परिवार आईडी\" दर्ज करें और खोजें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "व्यक्ति का नाम और योजना का नाम चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "आवश्यक विवरण प्रदान करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पेंशनभोगी विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बैंक विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- विकलांगता विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- सत्यापन विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण-3: * * \"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें। * * चरण-4: * * आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी. में 'आवेदन प्रविष्टि अनुरोध' पर क्लिक करें। * * चरण-5: * * भामाशाह परिवार आईडी दर्ज करें और खोजें। * * चरण-6: * * व्यक्ति का नाम और योजना का नाम चुनें। * * चरण-7: * * आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें। * * चरण-8: * * आवश्यक विवरण प्रदान करें। - पेंशनभोगी विवरण। - बैंक विवरण। - विकलांगता विवरण। - सत्यापन विवरण। - दस्तावेज़ अपलोड करें। * * चरण-9: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 55,
+          "lte": 100
+        },
+        {
+          "category": "male",
+          "gte": 58,
+          "lte": 100
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए। 1. आवेदक किसान होना चाहिए। 1. महिला आवेदक की आयु 55 वर्ष और पुरुष की आयु 58 वर्ष से अधिक होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक किसान होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "महिला आवेदक की आयु 55 वर्ष और पुरुष की आयु 58 वर्ष से अधिक होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "employmentStatus": {
+        "id": 4,
+        "value": "self-employed",
+        "label": "Self-Employed/ Entrepreneur"
+      },
+      "occupation": [
+        {
+          "value": "farmer",
+          "label": "Farmer"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 55,
+        "lte": 100
+      },
+      {
+        "category": "male",
+        "gte": 58,
+        "lte": 100
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए। 1. आवेदक किसान होना चाहिए। 1. महिला आवेदक की आयु 55 वर्ष और पुरुष की आयु 58 वर्ष से अधिक होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक किसान होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "महिला आवेदक की आयु 55 वर्ष और पुरुष की आयु 58 वर्ष से अधिक होनी चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "employmentStatus": {
+      "id": 4,
+      "value": "self-employed",
+      "label": "Self-Employed/ Entrepreneur"
+    },
+    "occupation": [
+      {
+        "value": "farmer",
+        "label": "Farmer"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicant - Passport-size photo."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card Copy\n1. Jan Aadhar/Bhamashah Card Copy\n1. Bank Account Details.\n1. Applicant - Passport-size photo.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक-पासपोर्ट आकार का फोटो।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card Copy\n1. Jan Aadhar/Bhamashah Card Copy\n1. Bank Account Details.\n1. Applicant - Passport-size photo.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Rajasthan government's Social Justice and Empowerment Department launched the \"Suraksha Laghu Evan Seemaant Vrddhajan Krshak Sammaan Penshan Yojana\" program, a social welfare initiative that aims to improve the lives by providing them with monthly financial assistance. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Rajasthan government's Social Justice and Empowerment Department launched the \"Suraksha Laghu Evan Seemaant Vrddhajan Krshak Sammaan Penshan Yojana\" program, a social welfare initiative that aims to improve the lives by providing them with monthly financial assistance. \n"
+        },
+        {
+          "question": "What Are The Benefits Under The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial Assistance will be provided under the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance will be provided under the scheme.\n"
+        },
+        {
+          "question": "How much pension amount is given under Vridhjan Krishak Samman Pension Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. To a pensioner below 75 years of age : ₹750/- per month\n2. To pensioners aged 75 years and above : ₹1,000/- per month"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. To a pensioner below 75 years of age : [?]750/- per month\n2. To pensioners aged 75 years and above : [?]1,000/- per month\n"
+        },
+        {
+          "question": "What is the application process for Rajasthan Vridhjan Krishak Samman Pension Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicant need to register them self and then he/she can apply. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant need to register them self and then he/she can apply. \n"
+        },
+        {
+          "question": "What is Bhamashah Card?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account.\n"
+        },
+        {
+          "question": "What is IFSC code?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India."
+                }
+              ]
+            }
+          ],
+          "answer_md": " The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India.\n"
+        },
+        {
+          "question": "What is DBT?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries."
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries.\n"
+        },
+        {
+          "question": "Is there any fees for application ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Fees for Rajasthan Social Security Small and Marginal Old age farmers honor pension scheme is ₹33/- . Payment of fees can be done through E-Mitra."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Fees for Rajasthan Social Security Small and Marginal Old age farmers honor pension scheme is [?]33/- . Payment of fees can be done through E-Mitra.\n"
+        },
+        {
+          "question": "How many times the applicant can avail of the benefits of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only ones."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only ones.\n"
+        },
+        {
+          "question": "Can person from other state apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scheme is only for Rajasthan State."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is only for Rajasthan State.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग ने \"सुरक्षा लघु इवान सीमंत वर्धजन कृषक सम्मान योजना\" कार्यक्रम शुरू किया, जो एक सामाजिक कल्याण पहल है जिसका उद्देश्य उन्हें मासिक वित्तीय सहायता प्रदान करके जीवन में सुधार करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Rajasthan government's Social Justice and Empowerment Department launched the \"Suraksha Laghu Evan Seemaant Vrddhajan Krshak Sammaan Penshan Yojana\" program, a social welfare initiative that aims to improve the lives by providing them with monthly financial assistance. \n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत वित्तीय सहायता प्रदान की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance will be provided under the scheme.\n"
+        },
+        {
+          "question": "वृद्धजन कृषक सम्मान पेंशन योजना के तहत कितनी पेंशन राशि दी जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. 75 वर्ष से कम आयु के पेंशनभोगी के लिएः ₹750/- प्रति माह। 75 वर्ष और उससे अधिक आयु के पेंशनभोगियों के लिएः ₹1,000/- प्रति माह"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. To a pensioner below 75 years of age : [?]750/- per month\n2. To pensioners aged 75 years and above : [?]1,000/- per month\n"
+        },
+        {
+          "question": "राजस्थान वृद्धजन कृषक सम्मान पेंशन योजना के लिए आवेदन प्रक्रिया क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को खुद को पंजीकृत करना होगा और फिर वह आवेदन कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant need to register them self and then he/she can apply. \n"
+        },
+        {
+          "question": "भामाशाह कार्ड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना द्वारा प्रदान किया गया भामाशाह कार्ड गृहिणी के नाम के बैंक खाते से जुड़ा होता है। कार्ड महिलाओं को बायोमेट्रिक पहचान और मुख्य बैंकिंग कार्यों के साथ-साथ विभिन्न प्रकार के नकद लाभ भी प्रदान करता है जो सीधे उनके बैंक खाते में स्थानांतरित किए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account.\n"
+        },
+        {
+          "question": "आईएफएससी कोड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आईएफएससी कोड विशिष्ट रूप से भारत में इलेक्ट्रॉनिक निधि हस्तांतरण प्रणालियों में भाग लेने वाली एक विशिष्ट बैंक शाखा की पहचान करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": " The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India.\n"
+        },
+        {
+          "question": "डी. बी. टी. क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डी. बी. टी. का अर्थ है प्रत्यक्ष लाभ हस्तांतरण। यह सरकारों द्वारा वित्तीय सहायता या सब्सिडी को सीधे लाभार्थियों के बैंक खातों में हस्तांतरित करने के लिए उपयोग की जाने वाली एक प्रणाली है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries.\n"
+        },
+        {
+          "question": "क्या आवेदन के लिए कोई शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सामाजिक सुरक्षा के लिए शुल्क लघु और सीमांत वृद्ध किसान सम्मान पेंशन योजना ₹33/- है। शुल्क का भुगतान ई-मित्र के माध्यम से किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Fees for Rajasthan Social Security Small and Marginal Old age farmers honor pension scheme is [?]33/- . Payment of fees can be done through E-Mitra.\n"
+        },
+        {
+          "question": "आवेदक कितनी बार योजना का लाभ उठा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल एक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only ones.\n"
+        },
+        {
+          "question": "क्या दूसरे राज्य का व्यक्ति इस योजना के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना केवल राजस्थान राज्य के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is only for Rajasthan State.\n"
+        }
+      ]
+    }
+  }
+}

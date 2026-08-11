@@ -1,0 +1,1249 @@
+{
+  "scheme_id": "68207a9121aa532bf6751928",
+  "slug": "jsby",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Financial Assistance",
+        "Death",
+        "Swachh Project",
+        "Sahariya Community",
+        "Insurance"
+      ],
+      "schemeName": "Jan Samuh Bima Yojana",
+      "schemeShortTitle": "JSBY",
+      "implementingAgency": "Swachh Project, Shahabad, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Insurance",
+          "label": "Insurance"
+        },
+        {
+          "value": "Personal finance",
+          "label": "Personal finance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://tad.rajasthan.gov.in/scheme/detail/485"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Jan Samuh Bima Yojana&amp;quot; was launched in 2019 by the Department of Tribal Area Development, Government of Rajasthan. The scheme aims to provide financial assistance to Sahariya families in the event of the death of the heads of the families (primary earning member). Under this scheme, a one-time financial assistance is provided by the insurance company to the deceased&amp;#39;s family to help reduce their economic burden. The heads of these families are insured under the Swachh Project, and the insurance premium is paid by the Swachh Project.\n",
+      "benefits_md": "> **Financial Assistance:** \n\n\n- The insurance company provides financial assistance of ₹25,000/- to the family in case of death of the insured person.\n\n> **Insurance Premium:** \n\n\n- Fully paid under the Swachh Project.\n\n",
+      "briefDescription": "The scheme aims to provide financial assistance to Sahariya families in the event of the death of the heads of the families. Under this scheme, a one-time financial assistance of ₹25,000/- is provided by the insurance company to the deceased's family to help reduce their economic burden.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Jan Samuh Bima Yojana\" was launched in 2019 by the Department of Tribal Area Development, Government of Rajasthan. The scheme aims to provide financial assistance to Sahariya families in the event of the death of the heads of the families (primary earning member). Under this scheme, a one-time financial assistance is provided by the insurance company to the deceased's family to help reduce their economic burden. The heads of these families are insured under the Swachh Project, and the insurance premium is paid by the Swachh Project."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The insurance company provides financial assistance of ₹25,000/- to the family in case of death of the insured person."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Insurance Premium: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fully paid under the Swachh Project."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Survey & Selection:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "A survey is conducted by the Swachh Project in Sahariya bastis of Baran district to identify eligible families."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Enrollment:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Eligible families members are enrolled under the insurance scheme by the Swachh Project."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Submission of Claim (in case of death of the insured):",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The family must submit the required documents to the Swachh Project office at Shahabad."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The documents are verified and forwarded to the insurance company."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Survey &amp; Selection:**\n\n\n- A survey is conducted by the Swachh Project in Sahariya bastis of Baran district to identify eligible families.\n\n> **Enrollment:**\n\n\n- Eligible families members are enrolled under the insurance scheme by the Swachh Project.\n\n> **Submission of Claim (in case of death of the insured):**\n\n\n- The family must submit the required documents to the Swachh Project office at Shahabad.\n- The documents are verified and forwarded to the insurance company.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be native Rajasthan.\n   1. The applicant should be a family member or dependent of the deceased person. \n   1. The deceased person should belong to the Sahariya community.\n   1. The deceased person should be a resident of the Baran district, Rajasthan.\n   1. The insured person must be registered under the scheme before death.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be native Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a family member or dependent of the deceased person. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The deceased person should belong to the Sahariya community."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The deceased person should be a resident of the Baran district, Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The insured person must be registered under the scheme before death."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "वित्तीय सहायता",
+        "मृत्यु",
+        "स्वच्छ परियोजना",
+        "सहरिया समुदाय",
+        "बीमा"
+      ],
+      "schemeName": "जन समूह बीमा योजना",
+      "schemeShortTitle": "JSBY",
+      "implementingAgency": "Swachh Project, Shahabad, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Insurance",
+          "label": "बीमा"
+        },
+        {
+          "value": "Personal finance",
+          "label": "व्यक्तिगत वित्त"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://tad.rajasthan.gov.in/scheme/detail/485"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "जन समुदाय बीमा योजना की शुरुआत 2019 में राजस्थान सरकार के जनजातीय क्षेत्र विकास विभाग द्वारा की गई थी। इस योजना का उद्देश्य परिवारों के प्रमुखों (प्राथमिक कमाने वाले सदस्य) की मृत्यु की स्थिति में सहरिया परिवारों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत, बीमा कंपनी द्वारा मृतक के परिवार को उनके आर्थिक बोझ को कम करने में मदद करने के लिए एक बार की वित्तीय सहायता प्रदान की जाती है। इन परिवारों के प्रमुखों का स्वच्छ परियोजना के तहत बीमा किया जाता है, और बीमा प्रीमियम का भुगतान स्वच्छ परियोजना द्वारा किया जाता है।",
+      "benefits_md": "वित्तीय सहायताः बीमा कंपनी बीमित व्यक्ति की मृत्यु के मामले में परिवार को ₹25,000/- की वित्तीय सहायता प्रदान करती है। > * * बीमा प्रीमियमः * *-स्वच्छ परियोजना के तहत पूरा भुगतान।",
+      "briefDescription": "इस योजना का उद्देश्य परिवार के मुखिया की मृत्यु की स्थिति में सहरिया परिवारों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत, बीमा कंपनी द्वारा मृतक के परिवार को उनके आर्थिक बोझ को कम करने में मदद करने के लिए ₹25,000/- की एकमुश्त वित्तीय सहायता प्रदान की जाती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"जन समुदाय बीमा योजना\" योजना 2019 में राजस्थान सरकार के जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई थी। इस योजना का उद्देश्य परिवारों के प्रमुखों (प्राथमिक कमाने वाले सदस्य) की मृत्यु की स्थिति में सहरिया परिवारों को वित्तीय सहायता प्रदान करना है। इस योजना के तहत, बीमा कंपनी द्वारा मृतक के परिवार को उनके आर्थिक बोझ को कम करने में मदद करने के लिए एक बार की वित्तीय सहायता प्रदान की जाती है। इन परिवारों के प्रमुखों का स्वच्छ परियोजना के तहत बीमा किया जाता है, और बीमा प्रीमियम का भुगतान स्वच्छ परियोजना द्वारा किया जाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "वित्तीय मददः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बीमा कंपनी बीमित व्यक्ति की मृत्यु के मामले में परिवार को ₹25,000/- की वित्तीय सहायता प्रदान करती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "बीमा प्रीमियमः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्वच्छ परियोजना के तहत पूरा भुगतान।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "सर्वेक्षण और चयनः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पात्र परिवारों की पहचान करने के लिए बारां जिले की सहरिया बस्तियों में स्वच्छ परियोजना द्वारा एक सर्वेक्षण किया जाता है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "नामांकनः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पात्र परिवार के सदस्यों को स्वच्छ परियोजना द्वारा बीमा योजना के तहत नामांकित किया जाता है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "दावा प्रस्तुत करना (बीमित व्यक्ति की मृत्यु के मामले में):",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "परिवार को शाहाबाद में स्वच्छ परियोजना कार्यालय में आवश्यक दस्तावेज जमा करने होंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "दस्तावेजों को सत्यापित किया जाता है और बीमा कंपनी को भेजा जाता है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "सर्वेक्षण और चयनः-पात्र परिवारों की पहचान करने के लिए बारां जिले की सहरिया बस्तियों में स्वच्छ परियोजना द्वारा एक सर्वेक्षण किया जाता है। > * * नामांकनः * *-पात्र परिवार के सदस्यों को स्वच्छ परियोजना द्वारा बीमा योजना के तहत नामांकित किया जाता है। > * * दावा प्रस्तुत करना (बीमित व्यक्ति की मृत्यु के मामले में): * *-परिवार को शाहाबाद में स्वच्छ परियोजना कार्यालय में आवश्यक दस्तावेज जमा करने होंगे। - दस्तावेजों को सत्यापित किया जाता है और बीमा कंपनी को भेजा जाता है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक मृतक व्यक्ति के परिवार का सदस्य या आश्रित होना चाहिए। 1. मृतक व्यक्ति को सहरिया समुदाय से होना चाहिए। 1. मृतक व्यक्ति राजस्थान के बारां जिले का निवासी होना चाहिए। 1. बीमित व्यक्ति को मृत्यु से पहले योजना के तहत पंजीकृत होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक मृतक व्यक्ति के परिवार का सदस्य या आश्रित होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "मृतक व्यक्ति को सहरिया समुदाय से होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "मृतक व्यक्ति राजस्थान के बारां जिले का निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बीमित व्यक्ति को मृत्यु से पहले योजना के तहत पंजीकृत होना चाहिए।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "pvtg",
+          "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+        },
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक मृतक व्यक्ति के परिवार का सदस्य या आश्रित होना चाहिए। 1. मृतक व्यक्ति को सहरिया समुदाय से होना चाहिए। 1. मृतक व्यक्ति राजस्थान के बारां जिले का निवासी होना चाहिए। 1. बीमित व्यक्ति को मृत्यु से पहले योजना के तहत पंजीकृत होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक मृतक व्यक्ति के परिवार का सदस्य या आश्रित होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मृतक व्यक्ति को सहरिया समुदाय से होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मृतक व्यक्ति राजस्थान के बारां जिले का निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "बीमित व्यक्ति को मृत्यु से पहले योजना के तहत पंजीकृत होना चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "pvtg",
+        "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+      },
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death Certificate of the insured person"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Bank Passbook"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Caste Certificate \n1. Domicile Certificate\n1. Death Certificate of the insured person\n1. Copy of Bank Passbook\n1. Aadhaar Card\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बीमित व्यक्ति का मृत्यु प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Caste Certificate \n1. Domicile Certificate\n1. Death Certificate of the insured person\n1. Copy of Bank Passbook\n1. Aadhaar Card\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who implements this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Swachh Project, Shahabad, under the Government of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Swachh Project, Shahabad, under the Government of Rajasthan.\n"
+        },
+        {
+          "question": "Who can benefit from the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Families belonging to the Sahariya community residing in Baran district."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Families belonging to the Sahariya community residing in Baran district.\n"
+        },
+        {
+          "question": "What is the benefit amount under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹25,000/- is provided to the family of the deceased."
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹25,000/- is provided to the family of the deceased.\n"
+        },
+        {
+          "question": "Is there any premium to be paid by the beneficiary?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the insurance premium is paid entirely by the Swachh Project."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the insurance premium is paid entirely by the Swachh Project.\n"
+        },
+        {
+          "question": "How are the beneficiaries selected?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Through a household survey conducted in Sahariya bastis."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through a household survey conducted in Sahariya bastis.\n"
+        },
+        {
+          "question": "What documents are required to claim the benefit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Caste certificate, domicile certificate, death certificate, bank passbook copy, and Aadhaar card."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Caste certificate, domicile certificate, death certificate, bank passbook copy, and Aadhaar card.\n"
+        },
+        {
+          "question": "Where can the claim application be submitted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At the Swachh Project office in Shahabad."
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the Swachh Project office in Shahabad.\n"
+        },
+        {
+          "question": "Can families outside Baran district apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scheme is limited to Sahariya families in Baran district. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme is limited to Sahariya families in Baran district. \n"
+        },
+        {
+          "question": "Is the benefit amount recurring or one-time?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is a one-time benefit provided after the insured person’s death."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is a one-time benefit provided after the insured person’s death.\n"
+        },
+        {
+          "question": "What is the expected time for receiving the benefit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After the claim is verified and approved by the insurance company."
+                }
+              ]
+            }
+          ],
+          "answer_md": "After the claim is verified and approved by the insurance company.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के अधीन स्वच्छ परियोजना, शाहाबाद।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Swachh Project, Shahabad, under the Government of Rajasthan.\n"
+        },
+        {
+          "question": "इस योजना का लाभ कौन उठा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बारां जिले में रहने वाले सहरिया समुदाय के परिवार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Families belonging to the Sahariya community residing in Baran district.\n"
+        },
+        {
+          "question": "इस योजना के तहत लाभ राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मृतक के परिवार को ₹25,000/- प्रदान किए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹25,000/- is provided to the family of the deceased.\n"
+        },
+        {
+          "question": "क्या लाभार्थी को कोई प्रीमियम देना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, बीमा प्रीमियम का भुगतान पूरी तरह से स्वच्छ परियोजना द्वारा किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the insurance premium is paid entirely by the Swachh Project.\n"
+        },
+        {
+          "question": "लाभार्थियों का चयन कैसे किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सहरिया बस्तियों में किए गए घरेलू सर्वेक्षण के माध्यम से।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through a household survey conducted in Sahariya bastis.\n"
+        },
+        {
+          "question": "लाभ का दावा करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र, अधिवास प्रमाण पत्र, मृत्यु प्रमाण पत्र, बैंक पासबुक की प्रति और आधार कार्ड।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Caste certificate, domicile certificate, death certificate, bank passbook copy, and Aadhaar card.\n"
+        },
+        {
+          "question": "दावा आवेदन कहाँ जमा किया जा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "शाहाबाद में स्वच्छ परियोजना कार्यालय में।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the Swachh Project office in Shahabad.\n"
+        },
+        {
+          "question": "क्या बारां जिले के बाहर के परिवार आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना बारां जिले के सहरिया परिवारों तक ही सीमित है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme is limited to Sahariya families in Baran district. \n"
+        },
+        {
+          "question": "क्या लाभ राशि आवर्ती है या एक बार?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह बीमित व्यक्ति की मृत्यु के बाद प्रदान किया जाने वाला एकमुश्त लाभ है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is a one-time benefit provided after the insured person’s death.\n"
+        },
+        {
+          "question": "लाभ प्राप्त करने के लिए अपेक्षित समय क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "क्लेम के सत्यापन और बीमा कंपनी द्वारा अनुमोदित होने के बाद।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "After the claim is verified and approved by the insurance company.\n"
+        }
+      ]
+    }
+  }
+}

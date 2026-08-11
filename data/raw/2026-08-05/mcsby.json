@@ -1,0 +1,1345 @@
+{
+  "scheme_id": "6490851c380f8e12354011b9",
+  "slug": "mcsby",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-05-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000025,
+        "label": "Medical, Health and Family Welfare Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Health Insurance",
+          "label": "Health Insurance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Health Insurance",
+        "Family Welfare"
+      ],
+      "schemeName": "Mukhyamantri Chiranjeevi Swasthya Beema Yojana",
+      "schemeShortTitle": "MCSBY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        }
+      ],
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Detail",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/775"
+        },
+        {
+          "title": "Official Site",
+          "url": "https://chiranjeevi.rajasthan.gov.in/#/home"
+        },
+        {
+          "title": "Registration Process",
+          "url": "https://chiranjeevi.rajasthan.gov.in/#/chiranjeevi/scheme-registration-process"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Government of Rajasthan has always been in the forefront in making various innovations to provide health services to the citizens of the state. Rajasthan has also successfully operated free medicines and free tests in the state in the past, due to which the general public is getting the benefit of free medicines and tests in the government hospitals of the state.\nThis scheme has been brought with the commitment of providing good health to all the citizens of the state by freeing them from the huge expenditure on medical treatment so that there is no compulsion of money in the treatment of suffering and serious diseases.\n<br>\n\n",
+      "benefits_md": "\n1. Cashless treatment facility up to Rs. 25,00,000/- will be provided to each family of Rajasthan.\n1. National Food Security Act, the insurance premium of families eligible for Socio-Economic Census, small and marginal farmers and contract workers will be borne by the state government.\n1. Other families will have to pay a premium of Rs. 850/- per year.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The state government has announced the implementation of 'Universal Health Coverage' in the state in the budget announcement 2021-22, in compliance of which Chief Minister Chiranjeevi Health Insurance Scheme was started in the state from May 1, 2021. ",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Government of Rajasthan has always been in the forefront in making various innovations to provide health services to the citizens of the state. Rajasthan has also successfully operated free medicines and free tests in the state in the past, due to which the general public is getting the benefit of free medicines and tests in the government hospitals of the state."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme has been brought with the commitment of providing good health to all the citizens of the state by freeing them from the huge expenditure on medical treatment so that there is no compulsion of money in the treatment of suffering and serious diseases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cashless treatment facility up to Rs. 25,00,000/- will be provided to each family of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "National Food Security Act, the insurance premium of families eligible for Socio-Economic Census, small and marginal farmers and contract workers will be borne by the state government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other families will have to pay a premium of Rs. 850/- per year."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://chiranjeevi.rajasthan.gov.in",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The "
+              },
+              {
+                "type": "link",
+                "link": "https://chiranjeevi.rajasthan.gov.in/#/home",
+                "children": [
+                  {
+                    "text": "process "
+                  }
+                ]
+              },
+              {
+                "text": "for registering category wise is as follows -"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration process for free benefit category-",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The eligible families under the Food Security Act and the eligible families of the Socio-Economic Census 2011 are already benefited under the scheme. Hence they do not require registration."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "It will be necessary for the beneficiary to register on the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://chiranjeevi.rajasthan.gov.in",
+                    "children": [
+                      {
+                        "text": "registration portal or "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "beneficiaries can register online through their SSO ID or by visiting E Mitra Kendra."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "It is necessary for the beneficiary to have Jan Aadhar card / Jan Aadhar card number / Jan Aadhar card registration receipt number and Aadhar card number."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "OTP on the mobile number registered in the Aadhaar card of the applicant before registration. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The application for registration in the scheme of contract workers will be verified online by the nodal officer of the concerned department and will be updated regularly."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Small and marginal farmers who are not linked with Jan Aadhaar card, they will be able to get the seeding of land holding done in Jan Aadhaar card as per the prescribed procedure on Jan Aadhaar portal through E-Mitra. After seeding, the family can be registered on the above mentioned registration portal of the scheme itself through online/e-mitra."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After successful registration, the beneficiary will be able to print the policy document."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Category receiving benefits by paying Rs.850/- per family per year:-",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "It will be necessary for the beneficiary to register himself "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://chiranjeevi.rajasthan.gov.in/.",
+                    "children": [
+                      {
+                        "text": "online portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "These beneficiaries will have to pay Rs. 850/- per family per year as premium amount to the concerned E Mitra center or through digital payment mode. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After successful registration, the beneficiary will be able to print the policy document."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The step-wise detailed process of registration under the scheme by e-Mitra or by yourself is available on the scheme's website "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://chiranjeevi.rajasthan.gov.in/.",
+                    "children": [
+                      {
+                        "text": "https://chiranjeevi.rajasthan.gov.in/."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "The [process ](https://chiranjeevi.rajasthan.gov.in/#/home)for registering category wise is as follows -\n**Registration process for free benefit category-**\n\n1. The eligible families under the Food Security Act and the eligible families of the Socio-Economic Census 2011 are already benefited under the scheme. Hence they do not require registration.\n1. It will be necessary for the beneficiary to register on the [registration portal or ](https://chiranjeevi.rajasthan.gov.in)beneficiaries can register online through their SSO ID or by visiting E Mitra Kendra.1. It is necessary for the beneficiary to have Jan Aadhar card / Jan Aadhar card number / Jan Aadhar card registration receipt number and Aadhar card number.\n1. OTP on the mobile number registered in the Aadhaar card of the applicant before registration. \n1. The application for registration in the scheme of contract workers will be verified online by the nodal officer of the concerned department and will be updated regularly.\n1. Small and marginal farmers who are not linked with Jan Aadhaar card, they will be able to get the seeding of land holding done in Jan Aadhaar card as per the prescribed procedure on Jan Aadhaar portal through E-Mitra. After seeding, the family can be registered on the above mentioned registration portal of the scheme itself through online/e-mitra.\n1. After successful registration, the beneficiary will be able to print the policy document.\n\n<br>\n\n**Category receiving benefits by paying Rs.850/- per family per year:-**\n\n1. It will be necessary for the beneficiary to register himself [online portal.](https://chiranjeevi.rajasthan.gov.in/.)1. These beneficiaries will have to pay Rs. 850/- per family per year as premium amount to the concerned E Mitra center or through digital payment mode. \n1. After successful registration, the beneficiary will be able to print the policy document.\n1. The step-wise detailed process of registration under the scheme by e-Mitra or by yourself is available on the scheme&#39;s website [https://chiranjeevi.rajasthan.gov.in/.](https://chiranjeevi.rajasthan.gov.in/.)\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "Under the scheme, eligible families have been divided into two categories-\n\n   1. **Category receiving free benefits:-** 100 percent of the premium of the eligible families of such category determined by the state government is paid by the government. Presently eligible families under Food Security Act, eligible families of Socio-Economic Census (SECC) 2011, contract workers working in state government departments/boards/corporations/government companies, small marginal farmers and those who received Covid-19 ex-gratia last year destitute and helpless families are included in the free category.   1. **Category receiving benefits by paying Rs.850/- per family per year:-** The families of the state who do not come under the category of free eligible families and are not government employees/pensioners and are not taking benefits under the Medical Attendance Rules They can avail the benefits of the scheme by paying 50% of the fixed premium Rs. 850/- per family per year. The remaining 50 percent of the premium will be borne by the government.   1. **All EWS** families are also proposed to be given the benefit of Chiranjeevi Yojana free of cost.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the scheme, eligible families have been divided into two categories-"
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Category receiving free benefits:-",
+                      "bold": true
+                    },
+                    {
+                      "text": " 100 percent of the premium of the eligible families of such category determined by the state government is paid by the government. Presently eligible families under Food Security Act, eligible families of Socio-Economic Census (SECC) 2011, contract workers working in state government departments/boards/corporations/government companies, small marginal farmers and those who received Covid-19 ex-gratia last year destitute and helpless families are included in the free category."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Category receiving benefits by paying Rs.850/- per family per year:-",
+                      "bold": true
+                    },
+                    {
+                      "text": " The families of the state who do not come under the category of free eligible families and are not government employees/pensioners and are not taking benefits under the Medical Attendance Rules They can avail the benefits of the scheme by paying 50% of the fixed premium Rs. 850/- per family per year. The remaining 50 percent of the premium will be borne by the government."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All EWS ",
+                      "bold": true
+                    },
+                    {
+                      "text": "families are also proposed to be given the benefit of Chiranjeevi Yojana free of cost."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-05-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000025,
+        "label": "चिकित्सा, स्वास्थ्य और परिवार कल्याण विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Health Insurance",
+          "label": "स्वास्थ्य बीमा"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "स्वास्थ्य बीमा",
+        "परिवार कल्याण"
+      ],
+      "schemeName": "मुख्यमंत्री चिरंजीवी स्वास्थ्य बीमा योजना",
+      "schemeShortTitle": "MCSBY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        }
+      ],
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/775"
+        },
+        {
+          "title": "आधिकारिक साइट",
+          "url": "https://chiranjeevi.rajasthan.gov.in/#/home"
+        },
+        {
+          "title": "पंजीकरण प्रक्रिया",
+          "url": "https://chiranjeevi.rajasthan.gov.in/#/chiranjeevi/scheme-registration-process"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार हमेशा राज्य के नागरिकों को स्वास्थ्य सेवाएं प्रदान करने के लिए विभिन्न नवाचार करने में सबसे आगे रही है। राजस्थान ने अतीत में राज्य में मुफ्त दवाएं और मुफ्त परीक्षण भी सफलतापूर्वक संचालित किए हैं, जिसके कारण आम जनता को राज्य के सरकारी अस्पतालों में मुफ्त दवाओं और परीक्षणों का लाभ मिल रहा है। यह योजना राज्य के सभी नागरिकों को चिकित्सा उपचार पर भारी खर्च से मुक्त करके अच्छा स्वास्थ्य प्रदान करने की प्रतिबद्धता के साथ लाई गई है ताकि पीड़ितों और गंभीर बीमारियों के इलाज में पैसे की मजबूरी न हो",
+      "benefits_md": "1. रुपये तक की कैशलेस उपचार सुविधा। 25,00,000-राजस्थान के प्रत्येक परिवार को प्रदान किया जाएगा। 1. राष्ट्रीय खाद्य सुरक्षा अधिनियम, सामाजिक-आर्थिक जनगणना के लिए पात्र परिवारों, छोटे और सीमांत किसानों और अनुबंध श्रमिकों का बीमा प्रीमियम राज्य सरकार द्वारा वहन किया जाएगा। 1. अन्य परिवारों को रुपये का प्रीमियम देना होगा। 850/- प्रति वर्ष।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "राज्य सरकार ने बजट घोषणा 2021-22 में राज्य में 'सार्वभौमिक स्वास्थ्य कवरेज' के कार्यान्वयन की घोषणा की है, जिसके अनुपालन में 1 मई, 2021 से राज्य में मुख्यमंत्री चिरंजीवी स्वास्थ्य बीमा योजना शुरू की गई थी।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार हमेशा राज्य के नागरिकों को स्वास्थ्य सेवाएं प्रदान करने के लिए विभिन्न नवाचार करने में सबसे आगे रही है। राजस्थान ने अतीत में राज्य में मुफ्त दवाएं और मुफ्त परीक्षण भी सफलतापूर्वक संचालित किए हैं, जिसके कारण आम जनता को राज्य के सरकारी अस्पतालों में मुफ्त दवाओं और परीक्षणों का लाभ मिल रहा है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "यह योजना राज्य के सभी नागरिकों को चिकित्सा उपचार पर भारी खर्च से मुक्त करके अच्छा स्वास्थ्य प्रदान करने की प्रतिबद्धता के साथ लाई गई है ताकि पीड़ितों और गंभीर बीमारियों के इलाज में पैसे की मजबूरी न हो।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रुपये तक की कैशलेस उपचार सुविधा। 25,00,000-राजस्थान के प्रत्येक परिवार को प्रदान किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राष्ट्रीय खाद्य सुरक्षा अधिनियम, सामाजिक-आर्थिक जनगणना के लिए पात्र परिवारों, छोटे और सीमांत किसानों और अनुबंध श्रमिकों का बीमा प्रीमियम राज्य सरकार द्वारा वहन किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अन्य परिवारों को रुपये का प्रीमियम देना होगा। 850/- प्रति वर्ष।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://chiranjeevi.rajasthan.gov.in",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "द"
+              },
+              {
+                "type": "link",
+                "link": "https://chiranjeevi.rajasthan.gov.in/#/home",
+                "children": [
+                  {
+                    "text": "प्रक्रिया"
+                  }
+                ]
+              },
+              {
+                "text": "श्रेणीवार पंजीकरण के लिए निम्नानुसार है -"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "निःशुल्क लाभ श्रेणी के लिए पंजीकरण प्रक्रिया -",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "खाद्य सुरक्षा अधिनियम के तहत पात्र परिवार और सामाजिक-आर्थिक जनगणना 2011 के पात्र परिवार पहले से ही इस योजना के तहत लाभान्वित हैं। इसलिए उन्हें पंजीकरण की आवश्यकता नहीं है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लाभार्थी के लिए पंजीकरण करना आवश्यक होगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://chiranjeevi.rajasthan.gov.in",
+                    "children": [
+                      {
+                        "text": "पंजीकरण पोर्टल या"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "लाभार्थी अपने एसएसओ आईडी के माध्यम से या ई मित्र केंद्र पर जाकर ऑनलाइन पंजीकरण कर सकते हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लाभार्थी के लिए जन आधार कार्ड/जन आधार कार्ड संख्या/जन आधार कार्ड पंजीकरण रसीद संख्या और आधार कार्ड संख्या होना आवश्यक है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पंजीकरण से पहले आवेदक के आधार कार्ड में पंजीकृत मोबाइल नंबर पर ओ. टी. पी.।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "संविदा कर्मचारियों की योजना में पंजीकरण के लिए आवेदन का संबंधित विभाग के नोडल अधिकारी द्वारा ऑनलाइन सत्यापन किया जाएगा और इसे नियमित रूप से अद्यतन किया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छोटे और सीमांत किसान जो जन आधार कार्ड से जुड़े नहीं हैं, वे ई-मित्र के माध्यम से जन आधार पोर्टल पर निर्धारित प्रक्रिया के अनुसार जन आधार कार्ड में भूमि जोत की सीडिंग करवा सकेंगे। बीजन के बाद, परिवार को योजना के उपरोक्त पंजीकरण पोर्टल पर ऑनलाइन/ई-मित्र के माध्यम से पंजीकृत किया जा सकता है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सफल पंजीकरण के बाद, लाभार्थी पॉलिसी दस्तावेज़ का प्रिंट ले सकेगा।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "प्रति वर्ष प्रति परिवार 850 रुपये का भुगतान करके लाभ प्राप्त करने वाली श्रेणीः -",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लाभार्थी के लिए खुद को पंजीकृत करना आवश्यक होगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://chiranjeevi.rajasthan.gov.in/.",
+                    "children": [
+                      {
+                        "text": "ऑनलाइन पोर्टल।"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इन लाभार्थियों को एक लाख रुपये का भुगतान करना होगा। 850/- प्रति परिवार प्रति वर्ष प्रीमियम राशि के रूप में संबंधित ई मित्र केंद्र को या डिजिटल भुगतान मोड के माध्यम से।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सफल पंजीकरण के बाद, लाभार्थी पॉलिसी दस्तावेज़ का प्रिंट ले सकेगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "ई-मित्रा या स्वयं द्वारा योजना के तहत पंजीकरण की चरण-वार विस्तृत प्रक्रिया योजना की वेबसाइट पर उपलब्ध है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://chiranjeevi.rajasthan.gov.in/.",
+                    "children": [
+                      {
+                        "text": "https://chiranjeevi.rajasthan.gov.in/."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "श्रेणीवार पंजीकरण के लिए [प्रक्रिया] (https://chiranjeevi.rajasthan.gov.in/#/home) इस प्रकार है-* * निःशुल्क लाभ श्रेणी के लिए पंजीकरण प्रक्रिया-* * 1। खाद्य सुरक्षा अधिनियम के तहत पात्र परिवार और सामाजिक-आर्थिक जनगणना 2011 के पात्र परिवार पहले से ही इस योजना के तहत लाभान्वित हैं। इसलिए उन्हें पंजीकरण की आवश्यकता नहीं है। 1. लाभार्थी के लिए [पंजीकरण पोर्टल या] (https://chiranjeevi.rajasthan.gov.in) पर पंजीकरण करना आवश्यक होगा, लाभार्थी अपने एसएसओ आईडी के माध्यम से या ई मित्र केंद्र. 1 पर जाकर ऑनलाइन पंजीकरण कर सकते हैं। लाभार्थी के लिए जन आधार कार्ड/जन आधार कार्ड संख्या/जन आधार कार्ड पंजीकरण रसीद संख्या और आधार कार्ड संख्या होना आवश्यक है। 1. पंजीकरण से पहले आवेदक के आधार कार्ड में पंजीकृत मोबाइल नंबर पर ओ. टी. पी.। 1. संविदा कर्मचारियों की योजना में पंजीकरण के लिए आवेदन का संबंधित विभाग के नोडल अधिकारी द्वारा ऑनलाइन सत्यापन किया जाएगा और इसे नियमित रूप से अद्यतन किया जाएगा। 1. छोटे और सीमांत किसान जो जन आधार कार्ड से जुड़े नहीं हैं, वे ई-मित्र के माध्यम से जन आधार पोर्टल पर निर्धारित प्रक्रिया के अनुसार जन आधार कार्ड में भूमि जोत की सीडिंग करवा सकेंगे। बीजन के बाद, परिवार को योजना के उपरोक्त पंजीकरण पोर्टल पर ऑनलाइन/ई-मित्र के माध्यम से पंजीकृत किया जा सकता है। 1. सफल पंजीकरण के बाद, लाभार्थी पॉलिसी दस्तावेज़ का प्रिंट ले सकेगा। प्रति वर्ष प्रति परिवार 850/- रुपये का भुगतान करके लाभ प्राप्त करने वाली श्रेणी - लाभार्थी के लिए खुद को पंजीकृत करना आवश्यक होगा [ऑनलाइन पोर्टल] (https://chiranjeevi.rajasthan.gov.in.) 1. इन लाभार्थियों को एक लाख रुपये का भुगतान करना होगा। 850/- प्रति परिवार प्रति वर्ष प्रीमियम राशि के रूप में संबंधित ई मित्र केंद्र को या डिजिटल भुगतान मोड के माध्यम से। 1. सफल पंजीकरण के बाद, लाभार्थी पॉलिसी दस्तावेज़ का प्रिंट ले सकेगा। 1. ई-मित्रा या स्वयं द्वारा योजना के तहत पंजीकरण की चरण-वार विस्तृत प्रक्रिया योजना की वेबसाइट [https://chiranjeevi.rajasthan.gov.in] (https://chiranjeevi.rajasthan.gov.in) पर उपलब्ध है"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "इस योजना के तहत पात्र परिवारों को दो श्रेणियों में विभाजित किया गया है-1. * * मुफ्त लाभ प्राप्त करने वाली श्रेणीः राज्य सरकार द्वारा निर्धारित ऐसी श्रेणी के पात्र परिवारों के प्रीमियम का 100 प्रतिशत सरकार द्वारा भुगतान किया जाता है। खाद्य सुरक्षा अधिनियम के तहत वर्तमान में पात्र परिवार, सामाजिक-आर्थिक जनगणना (एस. ई. सी. सी.) 2011 के पात्र परिवार, राज्य सरकार के विभागों/बोर्डों/निगमों/सरकारी कंपनियों में काम करने वाले अनुबंध कर्मचारी, छोटे सीमांत किसान और जिन्हें पिछले साल कोविड-19 अनुग्रह राशि मिली थी, बेसहारा और असहाय परिवारों को मुफ्त श्रेणी में शामिल किया गया है। 1. प्रति वर्ष प्रति परिवार 850/- रुपये का भुगतान करके लाभ प्राप्त करने वाली श्रेणीः राज्य के वे परिवार जो मुफ्त पात्र परिवारों की श्रेणी में नहीं आते हैं और सरकारी कर्मचारी/पेंशनभोगी नहीं हैं और चिकित्सा उपस्थिति नियमों के तहत लाभ नहीं ले रहे हैं, वे निर्धारित प्रीमियम का 50 प्रतिशत भुगतान करके योजना का लाभ उठा सकते हैं। 850/- प्रति परिवार प्रति वर्ष। प्रीमियम का शेष 50 प्रतिशत सरकार द्वारा वहन किया जाएगा। 1. सभी ईडब्ल्यूएस परिवारों को चिरंजीवी योजना का लाभ मुफ्त में देने का भी प्रस्ताव है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना के तहत पात्र परिवारों को दो श्रेणियों में विभाजित किया गया है -"
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "निःशुल्क लाभ प्राप्त करने वाली श्रेणी -",
+                      "bold": true
+                    },
+                    {
+                      "text": "राज्य सरकार द्वारा निर्धारित ऐसी श्रेणी के पात्र परिवारों के प्रीमियम का 100 प्रतिशत सरकार द्वारा भुगतान किया जाता है। खाद्य सुरक्षा अधिनियम के तहत वर्तमान में पात्र परिवार, सामाजिक-आर्थिक जनगणना (एस. ई. सी. सी.) 2011 के पात्र परिवार, राज्य सरकार के विभागों/बोर्डों/निगमों/सरकारी कंपनियों में काम करने वाले अनुबंध कर्मचारी, छोटे सीमांत किसान और जिन्हें पिछले साल कोविड-19 अनुग्रह राशि मिली थी, बेसहारा और असहाय परिवारों को मुफ्त श्रेणी में शामिल किया गया है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रति वर्ष प्रति परिवार 850 रुपये का भुगतान करके लाभ प्राप्त करने वाली श्रेणीः -",
+                      "bold": true
+                    },
+                    {
+                      "text": "राज्य के वे परिवार जो मुफ्त पात्र परिवारों की श्रेणी में नहीं आते हैं और सरकारी कर्मचारी/पेंशनभोगी नहीं हैं और चिकित्सा उपस्थिति नियमों के तहत लाभ नहीं ले रहे हैं, वे निर्धारित प्रीमियम का 50 प्रतिशत भुगतान करके योजना का लाभ उठा सकते हैं। 850/- प्रति परिवार प्रति वर्ष। प्रीमियम का शेष 50 प्रतिशत सरकार द्वारा वहन किया जाएगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सभी ईडब्ल्यूएस",
+                      "bold": true
+                    },
+                    {
+                      "text": "चिरंजीवी योजना का लाभ परिवारों को मुफ्त में देने का भी प्रस्ताव है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "इस योजना के तहत पात्र परिवारों को दो श्रेणियों में विभाजित किया गया है-1. * * मुफ्त लाभ प्राप्त करने वाली श्रेणीः राज्य सरकार द्वारा निर्धारित ऐसी श्रेणी के पात्र परिवारों के प्रीमियम का 100 प्रतिशत सरकार द्वारा भुगतान किया जाता है। खाद्य सुरक्षा अधिनियम के तहत वर्तमान में पात्र परिवार, सामाजिक-आर्थिक जनगणना (एस. ई. सी. सी.) 2011 के पात्र परिवार, राज्य सरकार के विभागों/बोर्डों/निगमों/सरकारी कंपनियों में काम करने वाले अनुबंध कर्मचारी, छोटे सीमांत किसान और जिन्हें पिछले साल कोविड-19 अनुग्रह राशि मिली थी, बेसहारा और असहाय परिवारों को मुफ्त श्रेणी में शामिल किया गया है। 1. प्रति वर्ष प्रति परिवार 850/- रुपये का भुगतान करके लाभ प्राप्त करने वाली श्रेणीः राज्य के वे परिवार जो मुफ्त पात्र परिवारों की श्रेणी में नहीं आते हैं और सरकारी कर्मचारी/पेंशनभोगी नहीं हैं और चिकित्सा उपस्थिति नियमों के तहत लाभ नहीं ले रहे हैं, वे निर्धारित प्रीमियम का 50 प्रतिशत भुगतान करके योजना का लाभ उठा सकते हैं। 850/- प्रति परिवार प्रति वर्ष। प्रीमियम का शेष 50 प्रतिशत सरकार द्वारा वहन किया जाएगा। 1. सभी ईडब्ल्यूएस परिवारों को चिरंजीवी योजना का लाभ मुफ्त में देने का भी प्रस्ताव है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "इस योजना के तहत पात्र परिवारों को दो श्रेणियों में विभाजित किया गया है -"
+          }
+        ]
+      },
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "निःशुल्क लाभ प्राप्त करने वाली श्रेणी -",
+                    "bold": true
+                  },
+                  {
+                    "text": "राज्य सरकार द्वारा निर्धारित ऐसी श्रेणी के पात्र परिवारों के प्रीमियम का 100 प्रतिशत सरकार द्वारा भुगतान किया जाता है। खाद्य सुरक्षा अधिनियम के तहत वर्तमान में पात्र परिवार, सामाजिक-आर्थिक जनगणना (एस. ई. सी. सी.) 2011 के पात्र परिवार, राज्य सरकार के विभागों/बोर्डों/निगमों/सरकारी कंपनियों में काम करने वाले अनुबंध कर्मचारी, छोटे सीमांत किसान और जिन्हें पिछले साल कोविड-19 अनुग्रह राशि मिली थी, बेसहारा और असहाय परिवारों को मुफ्त श्रेणी में शामिल किया गया है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रति वर्ष प्रति परिवार 850 रुपये का भुगतान करके लाभ प्राप्त करने वाली श्रेणीः -",
+                    "bold": true
+                  },
+                  {
+                    "text": "राज्य के वे परिवार जो मुफ्त पात्र परिवारों की श्रेणी में नहीं आते हैं और सरकारी कर्मचारी/पेंशनभोगी नहीं हैं और चिकित्सा उपस्थिति नियमों के तहत लाभ नहीं ले रहे हैं, वे निर्धारित प्रीमियम का 50 प्रतिशत भुगतान करके योजना का लाभ उठा सकते हैं। 850/- प्रति परिवार प्रति वर्ष। प्रीमियम का शेष 50 प्रतिशत सरकार द्वारा वहन किया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सभी ईडब्ल्यूएस",
+                    "bold": true
+                  },
+                  {
+                    "text": "चिरंजीवी योजना का लाभ परिवारों को मुफ्त में देने का भी प्रस्ताव है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar Card / Jan Aadhar Card Number / Jan Aadhar Card Registration Receipt Number"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": " It is necessary to have Aadhaar card number."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan Aadhar Card / Jan Aadhar Card Number / Jan Aadhar Card Registration Receipt Number\n1.  It is necessary to have Aadhaar card number.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड/जन आधार कार्ड संख्या/जन आधार कार्ड पंजीकरण रसीद संख्या"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड नंबर होना जरूरी है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan Aadhar Card / Jan Aadhar Card Number / Jan Aadhar Card Registration Receipt Number\n1.  It is necessary to have Aadhaar card number.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the \" Mukhyamantri Chiranjeevi Swasthya Beema Yojana\" ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The state government has announced the implementation of 'Universal Health Coverage' in the state in the budget announcement 2021-22, in compliance of which Chief Minister Chiranjeevi Health Insurance Scheme was started in the state from May 1, 2021."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The state government has announced the implementation of 'Universal Health Coverage' in the state in the budget announcement 2021-22, in compliance of which Chief Minister Chiranjeevi Health Insurance Scheme was started in the state from May 1, 2021.\n"
+        },
+        {
+          "question": "What are the benefits under the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Cashless treatment facility up to Rs. 25,00,000/- will be provided to each family of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Cashless treatment facility up to Rs. 25,00,000/- will be provided to each family of Rajasthan.\n"
+        },
+        {
+          "question": "How much amount need to be pay by \"Category Receiving Benefits By Paying Some Amount\" ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "These beneficiaries will have to pay Rs. 850/- per family per year"
+                }
+              ]
+            }
+          ],
+          "answer_md": "These beneficiaries will have to pay Rs. 850/- per family per year\n"
+        },
+        {
+          "question": "Who can join the Chiranjeevi scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Every family of Rajasthan can join this scheme. The family of government employees does not need to join this scheme because Rajasthan Government Health Scheme Yojana being brought for them."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Every family of Rajasthan can join this scheme. The family of government employees does not need to join this scheme because Rajasthan Government Health Scheme Yojana being brought for them.\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The process for registering category wise is as follows-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The process for registering category wise is as follows-\n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Jan Aadhar/Bhamashah Card Copy. \n2. Aadhar Card Copy."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Jan Aadhar/Bhamashah Card Copy. \n2. Aadhar Card Copy.\n"
+        },
+        {
+          "question": "What is the official web portal to apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Https://chiranjeeviapp.rajasthan.gov.in/webapp/"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Https://chiranjeeviapp.rajasthan.gov.in/webapp/\n"
+        },
+        {
+          "question": "Once The Registration Is Done In Chiranjeevi Yojana, If A Beneficiary Has To Add Or Delete The Name Of A Family Member, Then What Will Be The Process?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For this, amendment in Janadhar card can be done by visiting E-Mitra center."
+                }
+              ]
+            }
+          ],
+          "answer_md": "For this, amendment in Janadhar card can be done by visiting E-Mitra center.\n"
+        },
+        {
+          "question": "Will a genera category have to pay the rupees during the registration itself or can he deposit the rupees later also?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicant have to pay a premium amount of Rs 850/- at the time of registration at the E-Mitra center only."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant have to pay a premium amount of Rs 850/- at the time of registration at the E-Mitra center only.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "\"मुख्यमंत्री चिरंजीवी स्वास्थ्य बीमा योजना\" क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य सरकार ने बजट घोषणा 2021-22 में राज्य में 'सार्वभौमिक स्वास्थ्य कवरेज' के कार्यान्वयन की घोषणा की है, जिसके अनुपालन में 1 मई, 2021 से राज्य में मुख्यमंत्री चिरंजीवी स्वास्थ्य बीमा योजना शुरू की गई थी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The state government has announced the implementation of 'Universal Health Coverage' in the state in the budget announcement 2021-22, in compliance of which Chief Minister Chiranjeevi Health Insurance Scheme was started in the state from May 1, 2021.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "रुपये तक की कैशलेस उपचार सुविधा। 25,00,000-राजस्थान के प्रत्येक परिवार को प्रदान किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Cashless treatment facility up to Rs. 25,00,000/- will be provided to each family of Rajasthan.\n"
+        },
+        {
+          "question": "\"कुछ राशि का भुगतान करके लाभ प्राप्त करने वाली श्रेणी\" द्वारा कितनी राशि का भुगतान करने की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इन लाभार्थियों को एक लाख रुपये का भुगतान करना होगा। 850/- प्रति परिवार प्रति वर्ष"
+                }
+              ]
+            }
+          ],
+          "answer_md": "These beneficiaries will have to pay Rs. 850/- per family per year\n"
+        },
+        {
+          "question": "चिरंजीवी योजना में कौन शामिल हो सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान का हर परिवार इस योजना से जुड़ सकता है। सरकारी कर्मचारियों के परिवार को इस योजना में शामिल होने की आवश्यकता नहीं है क्योंकि उनके लिए राजस्थान सरकार स्वास्थ्य योजना योजना लाई जा रही है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Every family of Rajasthan can join this scheme. The family of government employees does not need to join this scheme because Rajasthan Government Health Scheme Yojana being brought for them.\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "श्रेणीवार पंजीकरण की प्रक्रिया इस प्रकार है -"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The process for registering category wise is as follows-\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. जन आधार/भामाशाह कार्ड की प्रतिलिपि। 2. आधार कार्ड की प्रतिलिपि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Jan Aadhar/Bhamashah Card Copy. \n2. Aadhar Card Copy.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक वेब पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एच. टी. टी. पी. एस.:// चिरंजिवियाप. राजस्थान. जी. ओ. वी. इन/वेबएप्प /"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Https://chiranjeeviapp.rajasthan.gov.in/webapp/\n"
+        },
+        {
+          "question": "चिरंजीवी योजना में एक बार पंजीकरण हो जाने के बाद, यदि किसी लाभार्थी को परिवार के किसी सदस्य का नाम जोड़ना या हटाना है, तो प्रक्रिया क्या होगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इसके लिए ई-मित्र केंद्र पर जाकर जनाधार कार्ड में संशोधन किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "For this, amendment in Janadhar card can be done by visiting E-Mitra center.\n"
+        },
+        {
+          "question": "क्या एक पीढ़ी वर्ग को पंजीकरण के दौरान ही रुपये का भुगतान करना होगा या वह बाद में भी रुपये जमा कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को केवल ई-मित्र केंद्र पर पंजीकरण के समय 850/- रुपये की प्रीमियम राशि का भुगतान करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant have to pay a premium amount of Rs 850/- at the time of registration at the E-Mitra center only.\n"
+        }
+      ]
+    }
+  }
+}

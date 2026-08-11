@@ -1,0 +1,1916 @@
+{
+  "scheme_id": "65d790f3938a0b13cc8e3106",
+  "slug": "hksadmmyghkdms",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Constrution Worker",
+        "Health & Wellness",
+        "Workers"
+      ],
+      "schemeName": "Hita-dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana",
+      "schemeShortTitle": "HKSMD",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "Labour Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://labour.rajasthan.gov.in/Schemes.aspx"
+        },
+        {
+          "title": "Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/226"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/singin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Beneficiary&#39;s Death or Injury Assistance Scheme, established by the Labor department of Rajasthan State, is a compassionate government program designed to offer a helping hand to families of beneficiaries who have experienced the loss of a loved one or the sudden hardship of an injury, regardless of whether the cause was natural or accidental. Recognizing the significant emotional and financial strain that such events can inflict, this initiative aims to provide a measure of financial security during these difficult times, allowing families to focus on healing and rebuilding their lives.\n",
+      "benefits_md": "\n1. In case of death due to accident : ₹5,00,000/-\n1. In case of permanent total disability due to accident : ₹3,00,000/-\n\n  - Permanent total disability means disabling of two eyes or both hands or both legs due to accident.\n\n1. In case of partial permanent disability due to accident : ₹1,00,000/-\n\n  - Permanent partial disability means disabling of one hand or one leg.\n\n1. In case of serious injury in an accident : Up to ₹20,000/-\n\n  -  (Serious injury in an accident means the beneficiary being admitted as an in-patient in the hospital for at least 5 days. The determination of serious injury will be decided based on the certificate issued by the Medical Board .)\n\n1. In case of minor injuries in an accident : Up to ₹5,000/-\n\n  - Minor injuries means hospitalization as an inpatient in a hospital for less than 5 days\n\n1. In case of normal death of a construction worker : ₹75,000/-\n\n",
+      "exclusions_md": "\n- Death due to suicide or consumption of drugs or substances or\n- In case of death or injury due to fighting with each other in violation of the law for committing a crime.\n\n",
+      "briefDescription": "By the labor department of Rajasthan started \"Hita-Dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana\" for the construction workers.\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Beneficiary's Death or Injury Assistance Scheme, established by the Labor department of Rajasthan State, is a compassionate government program designed to offer a helping hand to families of beneficiaries who have experienced the loss of a loved one or the sudden hardship of an injury, regardless of whether the cause was natural or accidental. Recognizing the significant emotional and financial strain that such events can inflict, this initiative aims to provide a measure of financial security during these difficult times, allowing families to focus on healing and rebuilding their lives."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of death due to accident : ₹5,00,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of permanent total disability due to accident : ₹3,00,000/-"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Permanent total disability means disabling of two eyes or both hands or both legs due to accident."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of partial permanent disability due to accident : ₹1,00,000/-"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Permanent partial disability means disabling of one hand or one leg."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of serious injury in an accident : Up to ₹20,000/-"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": " (Serious injury in an accident means the beneficiary being admitted as an in-patient in the hospital for at least 5 days. The determination of serious injury will be decided based on the certificate issued by the Medical Board .)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of minor injuries in an accident : Up to ₹5,000/-"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Minor injuries means hospitalization as an inpatient in a hospital for less than 5 days"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of normal death of a construction worker : ₹75,000/-"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death due to suicide or consumption of drugs or substances or"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of death or injury due to fighting with each other in violation of the law for committing a crime."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": " Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “LDMS” option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In LDMS, select \"Welfare Schemes\" from the side menu and select BOCW Welfare Board. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of \"Yojana\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out the all relevant detail. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  -  Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “LDMS” option.\n**Step-4:** In LDMS, select &quot;Welfare Schemes&quot; from the side menu and select BOCW Welfare Board. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of &quot;Yojana&quot;\n**Step-7:** Fill out the all relevant detail. \n**Step-8:** Submit.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Construction workers must be between 18 to 60 years of age.\n1. Construction workers must be registered with the labor board.\n1. Construction worker must be depositing their contributions regularly. \n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction workers must be between 18 to 60 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction workers must be registered with the labor board."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction worker must be depositing their contributions regularly. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "निर्माण कार्यकर्ता",
+        "स्वास्थ्य और कल्याण",
+        "कर्मचारी"
+      ],
+      "schemeName": "हित-धिकारी के समान अथव दुर्घतन में मृत्यु या घायल होने की दशा में सहायता योजना",
+      "schemeShortTitle": "HKSMD",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "श्रम विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://labour.rajasthan.gov.in/Schemes.aspx"
+        },
+        {
+          "title": "विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/226"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/singin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान राज्य के श्रम विभाग द्वारा स्थापित लाभार्थी की मृत्यु या चोट सहायता योजना, एक दयालु सरकारी कार्यक्रम है जिसे उन लाभार्थियों के परिवारों को सहायता प्रदान करने के लिए डिज़ाइन किया गया है जिन्होंने किसी प्रियजन को खो दिया है या चोट की अचानक कठिनाई का अनुभव किया है, चाहे कारण प्राकृतिक हो या आकस्मिक। इस तरह की घटनाओं से उत्पन्न होने वाले महत्वपूर्ण भावनात्मक और वित्तीय तनाव को पहचानते हुए, इस पहल का उद्देश्य इन कठिन समय के दौरान वित्तीय सुरक्षा प्रदान करना है, जिससे परिवार अपने जीवन को ठीक करने और पुनर्निर्माण पर ध्यान केंद्रित कर सकें।",
+      "benefits_md": "1. दुर्घटना के कारण मृत्यु के मामले मेंः ₹ 5,00,000-1। दुर्घटना के कारण स्थायी कुल अक्षमता के मामले मेंः ₹ 3,00,000-- स्थायी कुल अक्षमता का अर्थ है दुर्घटना के कारण दो आंखों या दोनों हाथों या दोनों पैरों को अक्षम करना। 1. दुर्घटना के कारण आंशिक स्थायी अक्षमता के मामले मेंः ₹ 1,00,000-- स्थायी आंशिक अक्षमता का अर्थ है एक हाथ या एक पैर को अक्षम करना। 1. दुर्घटना में गंभीर चोट के मामले मेंः ₹20,000/- तक (दुर्घटना में गंभीर चोट का मतलब है कि लाभार्थी को कम से कम 5 दिनों के लिए अस्पताल में एक रोगी के रूप में भर्ती कराया जा रहा है। गंभीर चोट का निर्धारण मेडिकल बोर्ड द्वारा जारी प्रमाण पत्र के आधार पर किया जाएगा)। 1. दुर्घटना में मामूली चोटों के मामले मेंः ₹5,000/- तक की मामूली चोटों का अर्थ है 5 दिनों से कम समय के लिए अस्पताल में एक रोगी के रूप में अस्पताल में भर्ती होना। एक निर्माण श्रमिक की सामान्य मृत्यु के मामले मेंः ₹75,000/-",
+      "exclusions_md": "आत्महत्या या नशीली दवाओं या पदार्थों के सेवन के कारण मृत्यु या-अपराध करने के लिए कानून का उल्लंघन करते हुए एक-दूसरे के साथ लड़ाई के कारण मृत्यु या चोट लगने की स्थिति में।",
+      "briefDescription": "राजस्थान के श्रम विभाग ने निर्माण श्रमिकों के लिए \"हित-धिकारी के समय में अथव दुर्घतन में मृत्यु या खयाल होने की दशा में सहायता योजना\" शुरू की।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान राज्य के श्रम विभाग द्वारा स्थापित लाभार्थी मृत्यु या चोट सहायता योजना, एक दयालु सरकारी कार्यक्रम है जिसे उन लाभार्थियों के परिवारों को सहायता प्रदान करने के लिए डिज़ाइन किया गया है जिन्होंने किसी प्रियजन को खो दिया है या चोट की अचानक कठिनाई का अनुभव किया है, चाहे कारण प्राकृतिक हो या आकस्मिक। इस तरह की घटनाओं से उत्पन्न होने वाले महत्वपूर्ण भावनात्मक और वित्तीय तनाव को पहचानते हुए, इस पहल का उद्देश्य इन कठिन समय के दौरान वित्तीय सुरक्षा प्रदान करना है, जिससे परिवार अपने जीवन को ठीक करने और पुनर्निर्माण पर ध्यान केंद्रित कर सकें।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दुर्घटना के कारण मृत्यु के मामले मेंः ₹ 5,00,000 -"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दुर्घटना के कारण स्थायी कुल अक्षमता के मामले मेंः ₹ 3,00,000 -"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्थायी पूर्ण अक्षमता का अर्थ है दुर्घटना के कारण दो आँखों या दोनों हाथों या दोनों पैरों को अक्षम करना।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दुर्घटना के कारण आंशिक स्थायी विकलांगता के मामले मेंः ₹ 1,00,000 -"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्थायी आंशिक अक्षमता का अर्थ है एक हाथ या एक पैर को अक्षम करना।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दुर्घटना में गंभीर चोट लगने की स्थिति मेंः 20,000/- तक"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "(दुर्घटना में गंभीर चोट का अर्थ है कि लाभार्थी को कम से कम 5 दिनों के लिए अस्पताल में एक रोगी के रूप में भर्ती कराया जाना। गंभीर चोट का निर्धारण मेडिकल बोर्ड द्वारा जारी प्रमाण पत्र के आधार पर किया जाएगा)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दुर्घटना में मामूली चोट लगने की स्थिति मेंः ₹5,000/- तक"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "मामूली चोटों का मतलब है 5 दिनों से कम समय के लिए अस्पताल में एक रोगी के रूप में अस्पताल में भर्ती होना"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक निर्माण श्रमिक की सामान्य मृत्यु के मामले मेंः ₹75,000/-"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आत्महत्या या नशीली दवाओं या पदार्थों के सेवन के कारण मृत्यु या"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अपराध करने के लिए कानून का उल्लंघन करते हुए एक-दूसरे से लड़ने के कारण मृत्यु या चोट लगने की स्थिति में।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"एल. डी. एम. एस\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "एल. डी. एम. एस. में, साइड मेन्यू से \"कल्याण योजनाएं\" चुनें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पेज पर राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की सूची मिलेगी, जिसमें से \"योजना\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। चरण-3: एल. डी. एम. एस. विकल्प पर क्लिक करें। * * चरण-4: एल. डी. एम. एस. में, साइड मेन्यू से कल्याण योजनाओं का चयन करें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की एक सूची मिलेगी, जिसमें से 'योजना' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें। <बीआर>"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. निर्माण श्रमिकों की आयु 18 से 60 वर्ष के बीच होनी चाहिए। 1. निर्माण श्रमिकों को श्रम बोर्ड के साथ पंजीकृत होना चाहिए। 1. निर्माण श्रमिक को नियमित रूप से अपना योगदान जमा करना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्माण श्रमिकों की आयु 18 से 60 वर्ष के बीच होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्माण श्रमिकों को श्रम बोर्ड के साथ पंजीकृत होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्माण श्रमिक को नियमित रूप से अपना योगदान जमा करना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "employmentStatus": {
+        "id": 2,
+        "value": "employed",
+        "label": "Employed"
+      },
+      "occupation": [
+        {
+          "value": "construction-worker",
+          "label": "Construction Worker"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. निर्माण श्रमिकों की आयु 18 से 60 वर्ष के बीच होनी चाहिए। 1. निर्माण श्रमिकों को श्रम बोर्ड के साथ पंजीकृत होना चाहिए। 1. निर्माण श्रमिक को नियमित रूप से अपना योगदान जमा करना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "निर्माण श्रमिकों की आयु 18 से 60 वर्ष के बीच होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "निर्माण श्रमिकों को श्रम बोर्ड के साथ पंजीकृत होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "निर्माण श्रमिक को नियमित रूप से अपना योगदान जमा करना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "employmentStatus": {
+      "id": 2,
+      "value": "employed",
+      "label": "Employed"
+    },
+    "occupation": [
+      {
+        "value": "construction-worker",
+        "label": "Construction Worker"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of discharge ticket from hospital in case of accident."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of mortuary report or FIR in case of accidental death."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death certificate issued by the registered authority in case of death."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate from the employer/employer of the place where the worker worked."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of beneficiary registration identity card or card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Bhamshah family card or Bhamshah nomination."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Aadhar Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of first page of bank account passbook."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of discharge ticket from hospital in case of accident.\n1. Copy of mortuary report or FIR in case of accidental death.\n1. Death certificate issued by the registered authority in case of death.\n1. Certificate from the employer/employer of the place where the worker worked.\n1. Copy of beneficiary registration identity card or card.\n1. Copy of Bhamshah family card or Bhamshah nomination.\n1. Copy of Aadhar Card.\n1. Copy of first page of bank account passbook.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दुर्घटना की स्थिति में अस्पताल से छुट्टी टिकट की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आकस्मिक मृत्यु के मामले में मुर्दाघर रिपोर्ट या एफ. आई. आर. की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मृत्यु के मामले में पंजीकृत प्राधिकारी द्वारा जारी मृत्यु प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उस स्थान के नियोक्ता/नियोक्ता से प्रमाण पत्र जहाँ कर्मचारी काम करता था।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी पंजीकरण पहचान पत्र या कार्ड की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भमशाह पारिवारिक कार्ड या भमशाह नामांकन की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाता पासबुक के पहले पृष्ठ की प्रति।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of discharge ticket from hospital in case of accident.\n1. Copy of mortuary report or FIR in case of accidental death.\n1. Death certificate issued by the registered authority in case of death.\n1. Certificate from the employer/employer of the place where the worker worked.\n1. Copy of beneficiary registration identity card or card.\n1. Copy of Bhamshah family card or Bhamshah nomination.\n1. Copy of Aadhar Card.\n1. Copy of first page of bank account passbook.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " providing financial assistance in case of natural or accidental death or injury of the beneficiary by the Building Labor Welfare Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": " providing financial assistance in case of natural or accidental death or injury of the beneficiary by the Building Labor Welfare Department.\n"
+        },
+        {
+          "question": "What benefits are provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial Assistance will be provided. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance will be provided. \n"
+        },
+        {
+          "question": "May Other State persons also apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scheme is currently limited to Rajasthan. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme is currently limited to Rajasthan. \n"
+        },
+        {
+          "question": "What amount of benefits is provided in cases of death?\"",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. In case of death due to accident : ₹5,00,000/-\n2. In case of normal death of a construction worker : ₹75,000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. In case of death due to accident : [?]5,00,000/-\n2. In case of normal death of a construction worker : [?]75,000/-\n"
+        },
+        {
+          "question": "What amount of benefits is provided in case of permanent disability ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In case of permanent total disability due to accident : ₹3,00,000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of permanent total disability due to accident : [?]3,00,000/-\n"
+        },
+        {
+          "question": "What amount of benefits is provided in cases of partial permanent disability?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In case of partial permanent disability due to accident : ₹1,00,000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of partial permanent disability due to accident : [?]1,00,000/-\n"
+        },
+        {
+          "question": "What amount of benefits is provided In case of minor injuries?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In case of minor injuries in an accident : Up to ₹5,000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of minor injuries in an accident : Up to [?]5,000/-\n"
+        },
+        {
+          "question": "What is the eligible age to get the scheme benefits?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Construction workers must be between 18 to 60 years of age."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Construction workers must be between 18 to 60 years of age.\n"
+        },
+        {
+          "question": "What documents are required ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Copy of discharge ticket from hospital in case of accident.\n2. Copy of mortuary report or FIR in case of accidental death.\n3. Death certificate issued by the registered authority in case of death.\n4. Certificate from the employer/employer of the place where the worker worked.\n5. Copy of beneficiary registration identity card or card.\n6. Copy of Bhamshah family card or Bhamshah nomination.\n7. Copy of Aadhar Card.\n8. Copy of first page of bank account passbook."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Copy of discharge ticket from hospital in case of accident.\n2. Copy of mortuary report or FIR in case of accidental death.\n3. Death certificate issued by the registered authority in case of death.\n4. Certificate from the employer/employer of the place where the worker worked.\n5. Copy of beneficiary registration identity card or card.\n6. Copy of Bhamshah family card or Bhamshah nomination.\n7. Copy of Aadhar Card.\n8. Copy of first page of bank account passbook.\n"
+        },
+        {
+          "question": "What is official portal to apply online ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Follow the below URL \nLink : https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Follow the below URL \nLink : https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "भवन श्रम कल्याण विभाग द्वारा लाभार्थी की प्राकृतिक या आकस्मिक मृत्यु या चोट लगने की स्थिति में वित्तीय सहायता प्रदान करना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": " providing financial assistance in case of natural or accidental death or injury of the beneficiary by the Building Labor Welfare Department.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ प्रदान किए जाते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आर्थिक सहायता प्रदान की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance will be provided. \n"
+        },
+        {
+          "question": "क्या राज्य के अन्य व्यक्ति भी इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना वर्तमान में राजस्थान तक ही सीमित है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme is currently limited to Rajasthan. \n"
+        },
+        {
+          "question": "मृत्यु के मामलों में कितना लाभ प्रदान किया जाता है",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. दुर्घटना के कारण मृत्यु के मामले मेंः ₹ 5,00,000-2। एक निर्माण श्रमिक की सामान्य मृत्यु के मामले मेंः ₹75,000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. In case of death due to accident : [?]5,00,000/-\n2. In case of normal death of a construction worker : [?]75,000/-\n"
+        },
+        {
+          "question": "स्थायी अक्षमता के मामले में कितना लाभ प्रदान किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "दुर्घटना के कारण स्थायी कुल अक्षमता के मामले मेंः ₹ 3,00,000 -"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of permanent total disability due to accident : [?]3,00,000/-\n"
+        },
+        {
+          "question": "आंशिक स्थायी अक्षमता के मामलों में कितना लाभ प्रदान किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "दुर्घटना के कारण आंशिक स्थायी विकलांगता के मामले मेंः ₹ 1,00,000 -"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of partial permanent disability due to accident : [?]1,00,000/-\n"
+        },
+        {
+          "question": "मामूली चोटों के मामले में कितना लाभ प्रदान किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "दुर्घटना में मामूली चोट लगने की स्थिति मेंः ₹5,000/- तक"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of minor injuries in an accident : Up to [?]5,000/-\n"
+        },
+        {
+          "question": "योजना का लाभ प्राप्त करने के लिए पात्र आयु क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निर्माण श्रमिकों की आयु 18 से 60 वर्ष के बीच होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Construction workers must be between 18 to 60 years of age.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. दुर्घटना की स्थिति में अस्पताल से छुट्टी टिकट की प्रति। 2. आकस्मिक मृत्यु के मामले में मुर्दाघर रिपोर्ट या एफ. आई. आर. की प्रति। 3. मृत्यु के मामले में पंजीकृत प्राधिकारी द्वारा जारी मृत्यु प्रमाण पत्र। 4. उस स्थान के नियोक्ता/नियोक्ता से प्रमाण पत्र जहाँ कर्मचारी काम करता था। 5. लाभार्थी पंजीकरण पहचान पत्र या कार्ड की प्रति। 6. भमशाह पारिवारिक कार्ड या भमशाह नामांकन की प्रति। 7. आधार कार्ड की प्रति। 8. बैंक खाता पासबुक के पहले पृष्ठ की प्रति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Copy of discharge ticket from hospital in case of accident.\n2. Copy of mortuary report or FIR in case of accidental death.\n3. Death certificate issued by the registered authority in case of death.\n4. Certificate from the employer/employer of the place where the worker worked.\n5. Copy of beneficiary registration identity card or card.\n6. Copy of Bhamshah family card or Bhamshah nomination.\n7. Copy of Aadhar Card.\n8. Copy of first page of bank account passbook.\n"
+        },
+        {
+          "question": "ऑनलाइन आवेदन करने के लिए आधिकारिक पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नीचे दिए गए यू. आर. एल. लिंक का पालन करेंः https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Follow the below URL \nLink : https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    }
+  }
+}

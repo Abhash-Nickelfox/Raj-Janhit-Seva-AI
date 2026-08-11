@@ -1,0 +1,1330 @@
+{
+  "scheme_id": "67bdd3f26247a62366d28bbc",
+  "slug": "tuk-chterts",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Transgender",
+        "Educational Fees",
+        "Reimbursement Of Fees",
+        "Higher Education",
+        "Technical Education",
+        "Student"
+      ],
+      "schemeName": "Transgender Utthan Kosh - College/Higher/Technical Educational Fees Refund for Transgender Students",
+      "schemeShortTitle": "TUK-CHTERTS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110051259226370.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Transgender Utthan Kosh - College/Higher/Technical Educational Fees Refund for Transgender Students&amp;quot; scheme was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. It aims to promote higher and technical education among transgender individuals by providing financial assistance for their educational expenses. Under this scheme, transgender students receive a refund of their school, college, higher, or technical education fees.\n",
+      "benefits_md": "***Educational Fee Refund:***\n\n- Full reimbursement of prescribed fees is provided for transgender students enrolled in schools, colleges, or technical institutes pursuing higher or technical education.\n\n***Direct Bank Transfer:*** \n\n- The amount is credited directly to the beneficiary&#39;s bank account after verification.\n\n",
+      "briefDescription": "The scheme aims to promote higher and technical education among transgender individuals by providing financial assistance for their educational expenses. Under this scheme, transgender students receive a refund of their school, college, higher, or technical education fees.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Transgender Utthan Kosh - College/Higher/Technical Educational Fees Refund for Transgender Students\" scheme was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. It aims to promote higher and technical education among transgender individuals by providing financial assistance for their educational expenses. Under this scheme, transgender students receive a refund of their school, college, higher, or technical education fees."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Educational Fee Refund:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Full reimbursement of prescribed fees is provided for transgender students enrolled in schools, colleges, or technical institutes pursuing higher or technical education."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Direct Bank Transfer:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The amount is credited directly to the beneficiary's bank account after verification."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Submission:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must fill out the scholarship application form and attach the required documents. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the complete application form to the head of the educational institution. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Institutional Verification:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The head of the educational institution verifies the application and forwards it to the Social Justice and Empowerment Department's district office."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Approval Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The district office verifies the documents and approves/rejects the application within one month."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Disbursement:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upon approval, the scholarship amount is transferred to the applicant's bank account."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Submission:***\n\n- The applicant must fill out the scholarship application form and attach the required documents. \n- Submit the complete application form to the head of the educational institution. \n\n***Institutional Verification:***\n\n- The head of the educational institution verifies the application and forwards it to the Social Justice and Empowerment Department&#39;s district office.\n\n***Approval Process:***\n\n- The district office verifies the documents and approves/rejects the application within one month.\n\n***Disbursement:***\n\n- Upon approval, the scholarship amount is transferred to the applicant&#39;s bank account.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Rajasthan.\n1. The applicant should belong to the transgender community.\n1. The applicant should be pursuing a higher or technical course.\n1. The applicant should be enrolled in a recognized school, college, or technical education institute in Rajasthan.\n1. The applicant’s family annual income should not exceed ₹8,00,000/-.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to the transgender community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be pursuing a higher or technical course."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in a recognized school, college, or technical education institute in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s family annual income should not exceed ₹8,00,000/-."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "ट्रांसजेंडर",
+        "शिक्षा शुल्क",
+        "शुल्क की प्रतिपूर्ति",
+        "उच्च शिक्षा",
+        "तकनीकी शिक्षा",
+        "विद्यार्थी"
+      ],
+      "schemeName": "ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर छात्रों के लिए कॉलेज/उच्च/तकनीकी शैक्षिक शुल्क वापसी",
+      "schemeShortTitle": "TUK-CHTERTS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110051259226370.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर छात्रों के लिए कॉलेज/उच्च/तकनीकी शैक्षिक शुल्क वापसी योजना सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार द्वारा शुरू की गई थी। इसका उद्देश्य ट्रांसजेंडर व्यक्तियों के बीच उनके शैक्षिक खर्चों के लिए वित्तीय सहायता प्रदान करके उच्च और तकनीकी शिक्षा को बढ़ावा देना है। इस योजना के तहत, ट्रांसजेंडर छात्रों को उनके स्कूल, कॉलेज, उच्चतर या तकनीकी शिक्षा शुल्क का रिफंड मिलता है।",
+      "benefits_md": "शैक्षणिक शुल्क वापसीः उच्च या तकनीकी शिक्षा प्राप्त करने वाले स्कूलों, कॉलेजों या तकनीकी संस्थानों में नामांकित ट्रांसजेंडर छात्रों के लिए निर्धारित शुल्क की पूरी प्रतिपूर्ति प्रदान की जाती है। डायरेक्ट बैंक ट्रांसफरः-सत्यापन के बाद राशि सीधे लाभार्थी के बैंक खाते में जमा की जाती है।",
+      "briefDescription": "इस योजना का उद्देश्य ट्रांसजेंडर व्यक्तियों के बीच उनके शैक्षिक खर्चों के लिए वित्तीय सहायता प्रदान करके उच्च और तकनीकी शिक्षा को बढ़ावा देना है। इस योजना के तहत, ट्रांसजेंडर छात्रों को उनके स्कूल, कॉलेज, उच्चतर या तकनीकी शिक्षा शुल्क का रिफंड मिलता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर छात्रों के लिए कॉलेज/उच्च/तकनीकी शैक्षिक शुल्क वापसी\" योजना सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार द्वारा शुरू की गई थी। इसका उद्देश्य ट्रांसजेंडर व्यक्तियों के बीच उनके शैक्षिक खर्चों के लिए वित्तीय सहायता प्रदान करके उच्च और तकनीकी शिक्षा को बढ़ावा देना है। इस योजना के तहत, ट्रांसजेंडर छात्रों को उनके स्कूल, कॉलेज, उच्चतर या तकनीकी शिक्षा शुल्क का रिफंड मिलता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "शैक्षिक शुल्क वापसीः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उच्च या तकनीकी शिक्षा प्राप्त करने वाले स्कूलों, कॉलेजों या तकनीकी संस्थानों में नामांकित ट्रांसजेंडर छात्रों के लिए निर्धारित शुल्क की पूरी प्रतिपूर्ति प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "प्रत्यक्ष बैंक हस्तांतरणः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सत्यापन के बाद राशि सीधे लाभार्थी के बैंक खाते में जमा की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन जमा करनाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को छात्रवृत्ति आवेदन पत्र भरना होगा और आवश्यक दस्तावेज संलग्न करने होंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "शैक्षणिक संस्थान के प्रमुख को पूरा आवेदन पत्र जमा करें।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "संस्थागत सत्यापनः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "शैक्षणिक संस्थान का प्रमुख आवेदन का सत्यापन करता है और इसे सामाजिक न्याय और अधिकारिता विभाग के जिला कार्यालय को भेजता है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "स्वीकृति प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जिला कार्यालय दस्तावेजों का सत्यापन करता है और एक महीने के भीतर आवेदन को मंजूरी/अस्वीकार कर देता है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "संवितरणः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मंजूरी मिलने पर, छात्रवृत्ति राशि आवेदक के बैंक खाते में स्थानांतरित कर दी जाती है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * * आवेदन जमा करनाः * * *-आवेदक को छात्रवृत्ति आवेदन पत्र भरना होगा और आवश्यक दस्तावेज संलग्न करने होंगे। - शैक्षणिक संस्थान के प्रमुख को पूरा आवेदन पत्र जमा करें। संस्थागत सत्यापनः शैक्षणिक संस्थान का प्रमुख आवेदन का सत्यापन करता है और इसे सामाजिक न्याय और अधिकारिता विभाग के जिला कार्यालय को भेजता है। अनुमोदन प्रक्रियाः जिला कार्यालय दस्तावेजों का सत्यापन करता है और एक महीने के भीतर आवेदन को मंजूरी/अस्वीकार कर देता है। संवितरणः मंजूरी मिलने पर छात्रवृत्ति राशि आवेदक के बैंक खाते में हस्तांतरित कर दी जाती है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 17,
+          "lte": 45,
+          "category": "General"
+        },
+        {
+          "gte": 17,
+          "lte": 45,
+          "category": "EWS"
+        },
+        {
+          "gte": 17,
+          "lte": 45,
+          "category": "Female"
+        },
+        {
+          "gte": 17,
+          "lte": 45,
+          "category": "OBC"
+        },
+        {
+          "gte": 17,
+          "lte": 45,
+          "category": "SC"
+        },
+        {
+          "gte": 17,
+          "lte": 45,
+          "category": "ST"
+        },
+        {
+          "gte": 17,
+          "lte": 45,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Diploma",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Professional Degree",
+          "status": "Completed",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": 800000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए। 1. आवेदक को उच्च या तकनीकी पाठ्यक्रम का अनुसरण करना चाहिए। 1. आवेदक को राजस्थान में किसी मान्यता प्राप्त स्कूल, कॉलेज या तकनीकी शिक्षा संस्थान में नामांकित होना चाहिए। 1. आवेदक के परिवार की वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को उच्च या तकनीकी पाठ्यक्रम का अनुसरण करना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान में किसी मान्यता प्राप्त स्कूल, कॉलेज या तकनीकी शिक्षा संस्थान में नामांकित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के परिवार की वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "transgender",
+          "label": "ट्रांसजेंडर"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 17,
+        "lte": 45,
+        "category": "General"
+      },
+      {
+        "gte": 17,
+        "lte": 45,
+        "category": "EWS"
+      },
+      {
+        "gte": 17,
+        "lte": 45,
+        "category": "Female"
+      },
+      {
+        "gte": 17,
+        "lte": 45,
+        "category": "OBC"
+      },
+      {
+        "gte": 17,
+        "lte": 45,
+        "category": "SC"
+      },
+      {
+        "gte": 17,
+        "lte": 45,
+        "category": "ST"
+      },
+      {
+        "gte": 17,
+        "lte": 45,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Diploma",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Professional Degree",
+        "status": "Completed",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": 800000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए। 1. आवेदक को उच्च या तकनीकी पाठ्यक्रम का अनुसरण करना चाहिए। 1. आवेदक को राजस्थान में किसी मान्यता प्राप्त स्कूल, कॉलेज या तकनीकी शिक्षा संस्थान में नामांकित होना चाहिए। 1. आवेदक के परिवार की वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को उच्च या तकनीकी पाठ्यक्रम का अनुसरण करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान में किसी मान्यता प्राप्त स्कूल, कॉलेज या तकनीकी शिक्षा संस्थान में नामांकित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के परिवार की वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "transgender",
+        "label": "ट्रांसजेंडर"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Transgender Identity Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "School Enrollment Certificate "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Previous Year’s Mark Sheet "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Parents/Guardians Income Certificate "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate/Ration Card/Voter ID"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Transgender Identity Certificate\n1. School Enrollment Certificate \n1. Previous Year’s Mark Sheet \n1. Aadhaar Card \n1. Parents/Guardians Income Certificate \n1. Domicile Certificate/Ration Card/Voter ID\n1. Bank Passbook Copy\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर पहचान प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विद्यालय नामांकन प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछले वर्ष की मार्कशीट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता/अभिभावक आय प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाण पत्र/राशन कार्ड/मतदाता पहचान पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Transgender Identity Certificate\n1. School Enrollment Certificate \n1. Previous Year’s Mark Sheet \n1. Aadhaar Card \n1. Parents/Guardians Income Certificate \n1. Domicile Certificate/Ration Card/Voter ID\n1. Bank Passbook Copy\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The transgender student residing in Rajasthan and enrolled in a recognized educational institution."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The transgender student residing in Rajasthan and enrolled in a recognized educational institution.\n"
+        },
+        {
+          "question": "What expenses are covered under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Examination fees for primary, higher, and technical education.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Examination fees for primary, higher, and technical education.\n\n\n"
+        },
+        {
+          "question": "Is there an income limit for eligibility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant’s family income should not exceed ₹8,00,000 per annum."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant's family income should not exceed [?]8,00,000 per annum.\n"
+        },
+        {
+          "question": "How will the refund be processed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After verification, the amount will be transferred to the applicant’s bank account via Direct Benefit Transfer (DBT)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "After verification, the amount will be transferred to the applicant's bank account via Direct Benefit Transfer (DBT).\n"
+        },
+        {
+          "question": "How long does it take for the refund to be processed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The district office will complete the verification within one month of application submission."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The district office will complete the verification within one month of application submission.\n"
+        },
+        {
+          "question": "Can students from outside Rajasthan apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only Rajasthan residents are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only Rajasthan residents are eligible.\n"
+        },
+        {
+          "question": "Is there a minimum academic requirement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant must have passed the previous academic year with a minimum qualifying score."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must have passed the previous academic year with a minimum qualifying score.\n"
+        },
+        {
+          "question": "Whom can I contact for assistance?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Contact your educational institution or the district office of the Social Justice and Empowerment Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Contact your educational institution or the district office of the Social Justice and Empowerment Department.\n"
+        },
+        {
+          "question": "What documents are required for application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Transgender identity certificate, enrollment proof, previous year marksheet, Aadhaar, income certificate, domicile proof, and bank passbook."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender identity certificate, enrollment proof, previous year marksheet, Aadhaar, income certificate, domicile proof, and bank passbook.\n"
+        },
+        {
+          "question": "How can I apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Submit the application through your educational institution, which will forward it to the district Social Justice and Empowerment office."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit the application through your educational institution, which will forward it to the district Social Justice and Empowerment office.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में रहने वाली ट्रांसजेंडर छात्रा ने एक मान्यता प्राप्त शैक्षणिक संस्थान में दाखिला लिया।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The transgender student residing in Rajasthan and enrolled in a recognized educational institution.\n"
+        },
+        {
+          "question": "इस योजना के तहत कौन से खर्च शामिल हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्राथमिक, उच्च और तकनीकी शिक्षा के लिए परीक्षा शुल्क।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Examination fees for primary, higher, and technical education.\n\n\n"
+        },
+        {
+          "question": "क्या पात्रता के लिए आय की कोई सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक की पारिवारिक आय प्रति वर्ष ₹ 8,00,000 से अधिक नहीं होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant's family income should not exceed [?]8,00,000 per annum.\n"
+        },
+        {
+          "question": "रिफंड की प्रक्रिया कैसे की जाएगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सत्यापन के बाद, राशि को डायरेक्ट बेनिफिट ट्रांसफर (डीबीटी) के माध्यम से आवेदक के बैंक खाते में स्थानांतरित कर दिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "After verification, the amount will be transferred to the applicant's bank account via Direct Benefit Transfer (DBT).\n"
+        },
+        {
+          "question": "रिफंड को संसाधित होने में कितना समय लगता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला कार्यालय आवेदन जमा करने के एक महीने के भीतर सत्यापन पूरा कर लेगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The district office will complete the verification within one month of application submission.\n"
+        },
+        {
+          "question": "क्या राजस्थान के बाहर के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान के निवासी ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only Rajasthan residents are eligible.\n"
+        },
+        {
+          "question": "क्या कोई न्यूनतम शैक्षणिक आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक को पिछले शैक्षणिक वर्ष में न्यूनतम योग्यता अंक के साथ उत्तीर्ण होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must have passed the previous academic year with a minimum qualifying score.\n"
+        },
+        {
+          "question": "मदद के लिए मैं किससे संपर्क कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अपने शैक्षणिक संस्थान या सामाजिक न्याय और अधिकारिता विभाग के जिला कार्यालय से संपर्क करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Contact your educational institution or the district office of the Social Justice and Empowerment Department.\n"
+        },
+        {
+          "question": "आवेदन के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर पहचान प्रमाण पत्र, नामांकन प्रमाण पत्र, पिछले वर्ष की मार्कशीट, आधार, आय प्रमाण पत्र, अधिवास प्रमाण पत्र और बैंक पासबुक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender identity certificate, enrollment proof, previous year marksheet, Aadhaar, income certificate, domicile proof, and bank passbook.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अपने शैक्षणिक संस्थान के माध्यम से आवेदन जमा करें, जो इसे जिला सामाजिक न्याय और अधिकारिता कार्यालय को भेज देगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit the application through your educational institution, which will forward it to the district Social Justice and Empowerment office.\n"
+        }
+      ]
+    }
+  }
+}

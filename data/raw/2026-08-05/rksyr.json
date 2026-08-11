@@ -1,0 +1,1902 @@
+{
+  "scheme_id": "65eab9a1da55878ebe1759a8",
+  "slug": "rksyr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Food Security",
+        "BPL",
+        "Families",
+        "Development"
+      ],
+      "schemeName": "Khadya Suraksha Yojana",
+      "schemeShortTitle": "RKSYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Food Security / Public Distribution System",
+          "label": "Food Security / Public Distribution System"
+        }
+      ],
+      "schemeOpenDate": "2013-10-02",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000015,
+        "label": "Food and Civil Supplies Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://rrcc.rajasthan.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Rashtriya Khadya Suraksha Yojana&quot; started on 02-10-2013 by the Food and Civil Supplies Department of Rajasthan. This scheme aim is to provide adequate quality food grains at reasonable prices to the people so that they can lead a dignified life. The Act provides for coverage of 75% of the rural population and 50% of the urban population to receive subsidized food grains under the Targeted Public Distribution System (TPDS) which covers about two-thirds of the population. \n",
+      "benefits_md": "\n1. Antyodaya families are provided with 35 kg of wheat per family.\n1. Other eligible beneficiaries receive 5 kg of wheat per unit per month.\n1. Ration card holders categorized under Antyodaya and Below Poverty Line (BPL) in the state are entitled to wheat at a subsidized rate of ₹1 per kg.\n1. Other eligible families categorized as Priority Household receive food security at ₹2 per kg per month.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme \"Rashtriya Khadya Suraksha Yojana\" aims to ensure that every person in Rajasthan has access to an adequate quantity of food at affordable prices.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Rashtriya Khadya Suraksha Yojana\" started on 02-10-2013 by the Food and Civil Supplies Department of Rajasthan. This scheme aim is to provide adequate quality food grains at reasonable prices to the people so that they can lead a dignified life. The Act provides for coverage of 75% of the rural population and 50% of the urban population to receive subsidized food grains under the Targeted Public Distribution System (TPDS) which covers about two-thirds of the population. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Antyodaya families are provided with 35 kg of wheat per family."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other eligible beneficiaries receive 5 kg of wheat per unit per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ration card holders categorized under Antyodaya and Below Poverty Line (BPL) in the state are entitled to wheat at a subsidized rate of ₹1 per kg."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other eligible families categorized as Priority Household receive food security at ₹2 per kg per month."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant need to Downloads the "
+              },
+              {
+                "type": "link",
+                "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf",
+                "children": [
+                  {
+                    "text": "document"
+                  }
+                ]
+              },
+              {
+                "text": " and get the application form from page no. 4."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " Carefully read any instructions or guidelines provided. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Collect all the information and documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Ration Card."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Aadhaar Card."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Bhamashah Card."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Cast Certificate"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - BPL Card (If applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Affidavit (available in form page no. 6)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Make a copy of the completed form for your records before submitting it. This will serve as a reference in case you need to refer back to the information provided."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the form to the concerned Appellate Officer (Sub Division/District Logistics Officer) ."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7: ",
+                "bold": true
+              },
+              {
+                "text": "The Appellate Officer will thoroughly scrutinize the application. If complete and correct, the applicant's name will be added to the food security list. However, if doubts arise regarding the presented documents, the officer will only proceed after clarification."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "The Appellate Officer will issue an appeal order with a computer-generated digitized signature, automatically updating the applicant's name in the online food security list."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " The responsibility of the Appellate Officers is limited to verifying the completeness of the application and attached certificates. If any applicant is found to have provided false information to gain inclusion in the food security list, their name will be canceled, and legal action will be taken."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step-1:** The applicant need to Downloads the [document](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf) and get the application form from page no. 4.\n**Step-2:** Carefully read any instructions or guidelines provided. \n**Step-3:** Collect all the information and documents.\n           - Ration Card.\n           - Aadhaar Card.\n           - Bhamashah Card.\n           - Cast Certificate\n           - BPL Card (If applicable).\n           - Affidavit (available in form page no. 6).\n**Step-5:** Make a copy of the completed form for your records before submitting it. This will serve as a reference in case you need to refer back to the information provided.\n**Step-6:** Submit the form to the concerned Appellate Officer (Sub Division/District Logistics Officer) .\n**Step-7:** The Appellate Officer will thoroughly scrutinize the application. If complete and correct, the applicant&#39;s name will be added to the food security list. However, if doubts arise regarding the presented documents, the officer will only proceed after clarification.\n**Step-8:** The Appellate Officer will issue an appeal order with a computer-generated digitized signature, automatically updating the applicant&#39;s name in the online food security list.\n**Step-9:** The responsibility of the Appellate Officers is limited to verifying the completeness of the application and attached certificates. If any applicant is found to have provided false information to gain inclusion in the food security list, their name will be canceled, and legal action will be taken.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be of Antyodaya/ BPL families/Annapurna.\n1. The applicant should have a ration card.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be of Antyodaya/ BPL families/Annapurna."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have a ration card."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "खाद्य सुरक्षा",
+        "बी. पी. एल",
+        "परिवार",
+        "विकास"
+      ],
+      "schemeName": "खाद्या सुरक्षा योजना",
+      "schemeShortTitle": "RKSYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Food Security / Public Distribution System",
+          "label": "खाद्य सुरक्षा/सार्वजनिक वितरण प्रणाली"
+        }
+      ],
+      "schemeOpenDate": "2013-10-02",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000015,
+        "label": "खाद्य और नागरिक आपूर्ति विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://rrcc.rajasthan.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राष्ट्रीय खाद्या सुरक्षा योजना राजस्थान के खाद्य और नागरिक आपूर्ति विभाग द्वारा 02-10-2013 पर शुरू की गई थी। इस योजना का उद्देश्य लोगों को उचित मूल्य पर पर्याप्त गुणवत्ता वाला खाद्यान्न प्रदान करना है ताकि वे सम्मानजनक जीवन जी सकें। इस अधिनियम में लक्षित सार्वजनिक वितरण प्रणाली (टी. पी. डी. एस.) के तहत 75 प्रतिशत ग्रामीण आबादी और 50 प्रतिशत शहरी आबादी को सब्सिडी वाला खाद्यान्न प्राप्त करने का प्रावधान है, जिसमें लगभग दो-तिहाई आबादी शामिल है।",
+      "benefits_md": "1. अन्त्योदय परिवारों को प्रति परिवार 35 किलो गेहूं प्रदान किया जाता है। 1. अन्य पात्र लाभार्थियों को प्रति माह प्रति इकाई 5 किलो गेहूं मिलता है। 1. राज्य में अन्त्योदय और गरीबी रेखा से नीचे (बी. पी. एल.) के तहत वर्गीकृत राशन कार्ड धारक 1 रुपये प्रति किलोग्राम की रियायती दर पर गेहूं के हकदार हैं। 1. प्राथमिक परिवार के रूप में वर्गीकृत अन्य पात्र परिवारों को प्रति माह 2 रुपये प्रति किलोग्राम की दर से खाद्य सुरक्षा मिलती है।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "\"राष्ट्रीय खाद्या सुरक्षा योजना\" योजना का उद्देश्य यह सुनिश्चित करना है कि राजस्थान में प्रत्येक व्यक्ति को सस्ती कीमतों पर पर्याप्त मात्रा में भोजन मिल सके।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"राष्ट्रीय खाद्या सुरक्षा योजना\" राजस्थान के खाद्य और नागरिक आपूर्ति विभाग द्वारा 02-10-2013 पर शुरू की गई थी। इस योजना का उद्देश्य लोगों को उचित मूल्य पर पर्याप्त गुणवत्ता वाला खाद्यान्न प्रदान करना है ताकि वे सम्मानजनक जीवन जी सकें। इस अधिनियम में लक्षित सार्वजनिक वितरण प्रणाली (टी. पी. डी. एस.) के तहत 75 प्रतिशत ग्रामीण आबादी और 50 प्रतिशत शहरी आबादी को सब्सिडी वाला खाद्यान्न प्राप्त करने का प्रावधान है, जिसमें लगभग दो-तिहाई आबादी शामिल है।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अन्त्योदय परिवारों को प्रति परिवार 35 किलो गेहूं प्रदान किया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अन्य पात्र लाभार्थियों को प्रति माह प्रति इकाई 5 किलो गेहूं मिलता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राज्य में अन्त्योदय और गरीबी रेखा से नीचे (बी. पी. एल.) के तहत वर्गीकृत राशन कार्ड धारक 1 रुपये प्रति किलोग्राम की रियायती दर पर गेहूं के हकदार हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्राथमिक परिवार के रूप में वर्गीकृत अन्य पात्र परिवारों को प्रति माह 2 रुपये प्रति किलोग्राम की दर से खाद्य सुरक्षा मिलती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को डाउनलोड करने की आवश्यकता है"
+              },
+              {
+                "type": "link",
+                "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf",
+                "children": [
+                  {
+                    "text": "दस्तावेज़"
+                  }
+                ]
+              },
+              {
+                "text": "और पेज नं. से आवेदन पत्र प्राप्त करें। 4."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "दिए गए किसी भी निर्देश या दिशानिर्देश को ध्यान से पढ़ें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "सभी जानकारी और दस्तावेज एकत्र करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- राशन कार्ड।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- आधार कार्ड।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- भामाशाह कार्ड।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- कास्ट सर्टिफिकेट"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बी. पी. एल. कार्ड (यदि लागू हो)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- शपथ पत्र (फॉर्म पृष्ठ संख्या में उपलब्ध है। 6)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "भरे हुए फॉर्म को जमा करने से पहले अपने रिकॉर्ड के लिए उसकी एक प्रति बना लें। यदि आपको प्रदान की गई जानकारी को वापस संदर्भित करने की आवश्यकता है तो यह एक संदर्भ के रूप में काम करेगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित अपीलीय अधिकारी (उपखंड/जिला रसद अधिकारी) को प्रपत्र जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "अपीलीय अधिकारी आवेदन की पूरी तरह से जांच करेगा। यदि पूर्ण और सही है, तो आवेदक का नाम खाद्य सुरक्षा सूची में जोड़ा जाएगा। हालांकि, यदि प्रस्तुत दस्तावेजों के बारे में संदेह पैदा होता है, तो अधिकारी स्पष्टीकरण के बाद ही आगे बढ़ेगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "अपीलीय अधिकारी ऑनलाइन खाद्य सुरक्षा सूची में आवेदक के नाम को स्वचालित रूप से अद्यतन करते हुए कंप्यूटर द्वारा उत्पन्न डिजिटल हस्ताक्षर के साथ एक अपील आदेश जारी करेगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "अपीलीय अधिकारियों की जिम्मेदारी आवेदन और संलग्न प्रमाणपत्रों की पूर्णता को सत्यापित करने तक सीमित है। यदि किसी आवेदक ने खाद्य सुरक्षा सूची में शामिल करने के लिए गलत जानकारी दी है, तो उनका नाम रद्द कर दिया जाएगा और कानूनी कार्रवाई की जाएगी।"
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण-1: * * आवेदक को [दस्तावेज़] डाउनलोड करने की आवश्यकता है। //जंकल्यनफाइल. राजस्थान. जी. ओ. वी. इन// सामग्री/अपलोड फ़ोल्डर/योजना/खाद्य/एन. एफ. एस. ए./डी. ओ. सी. 203 _ 2सी. एफ. 8164सी-98बी 5-43 ए 0-958 ई-एफ. डी. सी. डी. 2ई7ए68. पी. डी. एफ.) और पृष्ठ संख्या से आवेदन पत्र प्राप्त करें। 4. चरण-2: * * दिए गए किसी भी निर्देश या दिशानिर्देश को ध्यान से पढ़ें। * * चरण-3: सभी जानकारी और दस्तावेज एकत्र करें.-राशन कार्ड.-आधार कार्ड.-भामाशाह कार्ड.-कास्ट सर्टिफिकेट-बी. पी. एल. कार्ड (यदि लागू हो).-शपथ पत्र (फॉर्म पृष्ठ संख्या में उपलब्ध)। 6). * * चरण-5: * * जमा करने से पहले अपने रिकॉर्ड के लिए भरे हुए फॉर्म की एक प्रति बना लें। यह एक संदर्भ के रूप में काम करेगा यदि आपको प्रदान की गई जानकारी को वापस संदर्भित करने की आवश्यकता है। * * चरण-6: संबंधित अपीलीय अधिकारी (उपखंड/जिला रसद अधिकारी) को प्रपत्र जमा करें। * * चरण-7: * अपीलीय अधिकारी आवेदन की पूरी तरह से जांच करेगा। यदि पूर्ण और सही है, तो आवेदक & #39; इसका नाम खाद्य सुरक्षा सूची में जोड़ा जाएगा। हालांकि, यदि प्रस्तुत दस्तावेजों के बारे में संदेह उत्पन्न होता है, तो अधिकारी स्पष्टीकरण के बाद ही आगे बढ़ेगा। * * चरण-8: * * अपीलीय अधिकारी एक कंप्यूटर-जनरेटेड डिजिटल हस्ताक्षर के साथ एक अपील आदेश जारी करेगा, जो स्वचालित रूप से आवेदक को अपडेट करेगा & #39; ऑनलाइन खाद्य सुरक्षा सूची में नाम। * * चरण-9: * अपीलीय अधिकारियों की जिम्मेदारी आवेदन और संलग्न प्रमाणपत्रों की पूर्णता को सत्यापित करने तक सीमित है। यदि किसी आवेदक ने खाद्य सुरक्षा सूची में शामिल करने के लिए गलत जानकारी दी है, तो उनका नाम रद्द कर दिया जाएगा और कानूनी कार्रवाई की जाएगी।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक अन्त्योदय/बी. पी. एल. परिवारों/अन्नपूर्णा का होना चाहिए। 1. आवेदक के पास राशन कार्ड होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक अन्त्योदय/बी. पी. एल. परिवारों/अन्नपूर्णा का होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास राशन कार्ड होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "isBpl": "Yes",
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक अन्त्योदय/बी. पी. एल. परिवारों/अन्नपूर्णा का होना चाहिए। 1. आवेदक के पास राशन कार्ड होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक अन्त्योदय/बी. पी. एल. परिवारों/अन्नपूर्णा का होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास राशन कार्ड होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "isBpl": "Yes",
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ration Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bhamashah Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cast Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "BPL Card (If applicable)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Affidavit (available in the "
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf",
+                  "children": [
+                    {
+                      "text": "document "
+                    }
+                  ]
+                },
+                {
+                  "text": "page no. 6)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Ration Card.\n1. Aadhaar Card.\n1. Bhamashah Card.\n1. Cast Certificate\n1. BPL Card (If applicable).\n1. Affidavit (available in the [document ](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf)page no. 6).\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राशन कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भामाशाह कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कास्ट सर्टिफिकेट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बी. पी. एल. कार्ड (यदि लागू हो)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शपथ पत्र (में उपलब्ध)"
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf",
+                  "children": [
+                    {
+                      "text": "दस्तावेज़"
+                    }
+                  ]
+                },
+                {
+                  "text": "पेज नं. 6)।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Ration Card.\n1. Aadhaar Card.\n1. Bhamashah Card.\n1. Cast Certificate\n1. BPL Card (If applicable).\n1. Affidavit (available in the [document ](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf)page no. 6).\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the Rashtriya Khadya Suraksha Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme aims to provide "
+                },
+                {
+                  "text": "adequate quality food grains",
+                  "bold": true
+                },
+                {
+                  "text": " at affordable rates to the "
+                },
+                {
+                  "text": "economically weaker sections of Rajasthan",
+                  "bold": true
+                },
+                {
+                  "text": " to ensure a dignified standard of living."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme aims to provide **adequate quality food grains** at affordable rates to the **economically weaker sections of Rajasthan** to ensure a dignified standard of living.\n"
+        },
+        {
+          "question": "Who are the primary beneficiaries of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme covers:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Antyodaya families",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Below Poverty Line (BPL)",
+                      "bold": true
+                    },
+                    {
+                      "text": " families"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Priority Household members",
+                      "bold": true
+                    },
+                    {
+                      "text": " under the Targeted Public Distribution System (TPDS)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme covers:\n\n- **Antyodaya families**\n- **Below Poverty Line (BPL)** families- **Priority Household members** under the Targeted Public Distribution System (TPDS)\n"
+        },
+        {
+          "question": "What food grain quantity and price are offered under this scheme?",
+          "answer": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Antyodaya families: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "35 kg wheat per family at ₹1/kg"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "BPL and Priority households: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "5 kg wheat per unit per month at ₹2/kg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "\n- **Antyodaya families:** 35 kg wheat per family at ₹1/kg- **BPL and Priority households:** 5 kg wheat per unit per month at ₹2/kg\n"
+        },
+        {
+          "question": "What is the coverage of this scheme in Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It covers "
+                },
+                {
+                  "text": "75% of the rural population",
+                  "bold": true
+                },
+                {
+                  "text": " and "
+                },
+                {
+                  "text": "50% of the urban population",
+                  "bold": true
+                },
+                {
+                  "text": ", targeting nearly two-thirds of the state’s total residents."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It covers **75% of the rural population** and **50% of the urban population**, targeting nearly two-thirds of the state’s total residents.\n"
+        },
+        {
+          "question": "Who is eligible to apply under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants must:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Be "
+                    },
+                    {
+                      "text": "natives of Rajasthan",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Belong to "
+                    },
+                    {
+                      "text": "Antyodaya, BPL, or Priority Household",
+                      "bold": true
+                    },
+                    {
+                      "text": " categories"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Possess a valid "
+                    },
+                    {
+                      "text": "ration card",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants must:\n\n- Be **natives of Rajasthan**- Belong to **Antyodaya, BPL, or Priority Household** categories- Possess a valid **ration card**\n"
+        },
+        {
+          "question": "What documents are required to apply?",
+          "answer": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Ration Card"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Aadhaar Card"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Bhamashah Card"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Caste Certificate"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "BPL Card (if applicable)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Affidavit (available on page 6 of the application form)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "\n- Ration Card\n- Aadhaar Card\n- Bhamashah Card\n- Caste Certificate\n- BPL Card (if applicable)\n- Affidavit (available on page 6 of the application form)\n\n"
+        },
+        {
+          "question": "How can one apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application process is "
+                },
+                {
+                  "text": "offline",
+                  "bold": true
+                },
+                {
+                  "text": ". Applicants must:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Download and fill the form"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Attach required documents"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Submit to the "
+                    },
+                    {
+                      "text": "Sub Division/District Logistics Officer",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Await verification and inclusion in the food security list"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application process is **offline**. Applicants must:\n\n- Download and fill the form\n- Attach required documents\n- Submit to the **Sub Division/District Logistics Officer**- Await verification and inclusion in the food security list\n\n"
+        },
+        {
+          "question": "What is the role of the Appellate Officer?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Appellate Officer:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Verifies submitted forms"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Approves or rejects based on document authenticity"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Updates the food security list online using a "
+                    },
+                    {
+                      "text": "digitized signature",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "**The Appellate Officer:**\n\n- Verifies submitted forms\n- Approves or rejects based on document authenticity\n- Updates the food security list online using a **digitized signature**\n"
+        },
+        {
+          "question": "Where can the application form be obtained?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants can "
+                },
+                {
+                  "text": "download the form",
+                  "bold": true
+                },
+                {
+                  "text": " from the official document ("
+                },
+                {
+                  "text": "refer to page no. 4",
+                  "bold": true
+                },
+                {
+                  "text": ") or collect it from the concerned local office."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can **download the form** from the official document (**refer to page no. 4**) or collect it from the concerned local office.\n"
+        },
+        {
+          "question": "What happens in case of false information in the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "If any applicant is found submitting"
+                },
+                {
+                  "text": " false or misleading information",
+                  "bold": true
+                },
+                {
+                  "text": ", their name will be "
+                },
+                {
+                  "text": "removed from the list",
+                  "bold": true
+                },
+                {
+                  "text": ", and "
+                },
+                {
+                  "text": "legal action",
+                  "bold": true
+                },
+                {
+                  "text": " will be taken."
+                }
+              ]
+            }
+          ],
+          "answer_md": "If any applicant is found submitting **false or misleading information**, their name will be **removed from the list**, and **legal action** will be taken.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "राष्ट्रीय खाद्या सुरक्षा योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना का उद्देश्य प्रदान करना है"
+                },
+                {
+                  "text": "पर्याप्त गुणवत्ता वाला खाद्यान्न",
+                  "bold": true
+                },
+                {
+                  "text": "किफायती दरों पर"
+                },
+                {
+                  "text": "राजस्थान के आर्थिक रूप से कमजोर वर्ग",
+                  "bold": true
+                },
+                {
+                  "text": "गरिमापूर्ण जीवन स्तर सुनिश्चित करना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme aims to provide **adequate quality food grains** at affordable rates to the **economically weaker sections of Rajasthan** to ensure a dignified standard of living.\n"
+        },
+        {
+          "question": "इस योजना के प्राथमिक लाभार्थी कौन हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना में शामिल हैंः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अन्त्योदय परिवार",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "गरीबी रेखा से नीचे (बी. पी. एल.)",
+                      "bold": true
+                    },
+                    {
+                      "text": "परिवार"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्राथमिकता वाले घरेलू सदस्य",
+                      "bold": true
+                    },
+                    {
+                      "text": "लक्षित सार्वजनिक वितरण प्रणाली (टी. पी. डी. एस.)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme covers:\n\n- **Antyodaya families**\n- **Below Poverty Line (BPL)** families- **Priority Household members** under the Targeted Public Distribution System (TPDS)\n"
+        },
+        {
+          "question": "इस योजना के तहत खाद्यान्न की कितनी मात्रा और कीमत दी जाती है?",
+          "answer": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अन्त्योदय परिवारः",
+                      "bold": true
+                    },
+                    {
+                      "text": "प्रति परिवार 35 किलो गेहूं 1 रुपये प्रति किलो पर"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बी. पी. एल. और प्राथमिकता वाले परिवारः",
+                      "bold": true
+                    },
+                    {
+                      "text": "5 किलो गेहूं प्रति इकाई प्रति माह 2 रुपये प्रति किलोग्राम पर"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "\n- **Antyodaya families:** 35 kg wheat per family at ₹1/kg- **BPL and Priority households:** 5 kg wheat per unit per month at ₹2/kg\n"
+        },
+        {
+          "question": "राजस्थान में इस योजना का क्या कवरेज है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह कवर करता है"
+                },
+                {
+                  "text": "75 प्रतिशत ग्रामीण आबादी",
+                  "bold": true
+                },
+                {
+                  "text": "और"
+                },
+                {
+                  "text": "शहरी आबादी का 50 प्रतिशत",
+                  "bold": true
+                },
+                {
+                  "text": ", राज्य के कुल निवासियों के लगभग दो-तिहाई को लक्षित करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It covers **75% of the rural population** and **50% of the urban population**, targeting nearly two-thirds of the state’s total residents.\n"
+        },
+        {
+          "question": "इस योजना के तहत आवेदन करने के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदकों को करना होगाः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बनो"
+                    },
+                    {
+                      "text": "राजस्थान के मूल निवासी",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "से संबंधित है"
+                    },
+                    {
+                      "text": "अन्त्योदय, बी. पी. एल., या प्राथमिकता वाला परिवार",
+                      "bold": true
+                    },
+                    {
+                      "text": "श्रेणियाँ"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "वैध रखें"
+                    },
+                    {
+                      "text": "राशन कार्ड",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants must:\n\n- Be **natives of Rajasthan**- Belong to **Antyodaya, BPL, or Priority Household** categories- Possess a valid **ration card**\n"
+        },
+        {
+          "question": "आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "राशन कार्ड"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आधार कार्ड"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "भामाशाह कार्ड"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जाति प्रमाणपत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बी. पी. एल. कार्ड (यदि लागू हो)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "शपथ पत्र (आवेदन पत्र के पृष्ठ 6 पर उपलब्ध)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "\n- Ration Card\n- Aadhaar Card\n- Bhamashah Card\n- Caste Certificate\n- BPL Card (if applicable)\n- Affidavit (available on page 6 of the application form)\n\n"
+        },
+        {
+          "question": "इस योजना के लिए कोई कैसे आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन की प्रक्रिया है -"
+                },
+                {
+                  "text": "ऑफ़लाइन",
+                  "bold": true
+                },
+                {
+                  "text": ".. आवेदकों को करना होगाः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "फॉर्म डाउनलोड करें और भरें"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवश्यक दस्तावेज संलग्न करें"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रस्तुत करें"
+                    },
+                    {
+                      "text": "उपखंड/जिला रसद अधिकारी",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "खाद्य सुरक्षा सूची में सत्यापन और समावेश की प्रतीक्षा करें"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application process is **offline**. Applicants must:\n\n- Download and fill the form\n- Attach required documents\n- Submit to the **Sub Division/District Logistics Officer**- Await verification and inclusion in the food security list\n\n"
+        },
+        {
+          "question": "अपीलीय अधिकारी की क्या भूमिका होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अपीलीय अधिकारीः",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जमा किए गए प्रपत्रों को सत्यापित करता है"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "दस्तावेज़ की प्रामाणिकता के आधार पर अनुमोदन या अस्वीकृति"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एक का उपयोग करके खाद्य सुरक्षा सूची को ऑनलाइन अद्यतन करता है"
+                    },
+                    {
+                      "text": "डिजिटाइज्ड हस्ताक्षर",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "**The Appellate Officer:**\n\n- Verifies submitted forms\n- Approves or rejects based on document authenticity\n- Updates the food security list online using a **digitized signature**\n"
+        },
+        {
+          "question": "आवेदन पत्र कहाँ से प्राप्त किया जा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उम्मीदवार कर सकते हैं आवेदन"
+                },
+                {
+                  "text": "फॉर्म डाउनलोड करें",
+                  "bold": true
+                },
+                {
+                  "text": "आधिकारिक दस्तावेज़ से ("
+                },
+                {
+                  "text": "पृष्ठ संख्या का संदर्भ लें। 4",
+                  "bold": true
+                },
+                {
+                  "text": ") या इसे संबंधित स्थानीय कार्यालय से एकत्र करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can **download the form** from the official document (**refer to page no. 4**) or collect it from the concerned local office.\n"
+        },
+        {
+          "question": "आवेदन में गलत जानकारी होने पर क्या होता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यदि कोई आवेदक प्रस्तुत करते हुए पाया जाता है"
+                },
+                {
+                  "text": "गलत या भ्रामक जानकारी",
+                  "bold": true
+                },
+                {
+                  "text": "उनका नाम होगा"
+                },
+                {
+                  "text": "सूची से हटाया गया",
+                  "bold": true
+                },
+                {
+                  "text": ", और"
+                },
+                {
+                  "text": "कानूनी कार्रवाई",
+                  "bold": true
+                },
+                {
+                  "text": "लिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "If any applicant is found submitting **false or misleading information**, their name will be **removed from the list**, and **legal action** will be taken.\n"
+        }
+      ]
+    }
+  }
+}

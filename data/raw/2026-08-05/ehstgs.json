@@ -1,0 +1,1078 @@
+{
+  "scheme_id": "64a6625c380f8e1235465c1d",
+  "slug": "ehstgs",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Financial Assistance",
+        "Education",
+        "Girl Empowerment"
+      ],
+      "schemeName": "Economic Help To Sahariya Tribal Girl Students (Class 11 And 12)",
+      "schemeShortTitle": "EHSTGS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": "2001-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/TAD/EHSTGS/DOC_610_7e011725-b752-436c-99cd-876dd77a9ac5.pdf"
+        },
+        {
+          "title": "Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/610"
+        },
+        {
+          "title": "User Manual",
+          "url": "https://tad.rajasthan.gov.in/writereaddata/FilesManagement/PDF/09232022172344PMIncentive%20Scheme%20Help.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "To promote girl education by motivating Saharia tribe girl students of Baran district to study in higher education and provide financial assistance to Sahariya tribe girl students for encouragement for higher secondary education. Those who are studying regularly in government schools in higher secondary classes (11th and 12th) and who have not got accommodation in government hostels.\n&lt;br&gt;\n\n&lt;br&gt;\n\n",
+      "benefits_md": "The student will be paid ₹3,500/- for a total of 10 months at the rate of Rs. 350/- per month.\n",
+      "briefDescription": "Rajasthan Government started a scholarship for Sahariya tribal girls' higher education (Class 11 and 12). ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To promote girl education by motivating Saharia tribe girl students of Baran district to study in higher education and provide financial assistance to Sahariya tribe girl students for encouragement for higher secondary education. Those who are studying regularly in government schools in higher secondary classes (11th and 12th) and who have not got accommodation in government hostels."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The student will be paid ₹3,500/- for a total of 10 months at the rate of Rs. 350/- per month."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://tad.rajasthan.gov.in/Content/Hindi/index.aspx",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to visit the official "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://tad.rajasthan.gov.in/Content/Hindi/index.aspx",
+                    "children": [
+                      {
+                        "text": "web portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "On the Home page, click on \"Online Portal For Tad Educational Incentive Schemes\"."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now click on “click here to apply online”. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If applicants are existing SSO users, log in with their SSO user and password. and If applicants don’t have SSO Id then create one by clicking “Registration”. Applicants can create SSO IDs by using Janaadhar & Google"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After completing the SSO profile click on the “SCHOLARSHIP (CE, TAD, MINORITY)” App."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select the “STUDENT” button."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select Appropriate Scheme and click on the “Next” button"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out all required academic information and click on the “Submit” button"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicants have to visit the official [web portal](https://tad.rajasthan.gov.in/Content/Hindi/index.aspx).1. On the Home page, click on &quot;Online Portal For Tad Educational Incentive Schemes&quot;.\n1. Now click on “click here to apply online”. \n1. If applicants are existing SSO users, log in with their SSO user and password. and If applicants don’t have SSO Id then create one by clicking “Registration”. Applicants can create SSO IDs by using Janaadhar &amp; Google\n1. After completing the SSO profile click on the “SCHOLARSHIP (CE, TAD, MINORITY)” App.\n1. Select the “STUDENT” button.\n1. Select Appropriate Scheme and click on the “Next” button\n1. Fill out all required academic information and click on the “Submit” button\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.\n1. The girl child should be studying regularly in a government school.\n1. The mother/father/guardian/guardian of the student should not be an income taxpayer.\n1. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.\n1. Vaidya Bhamashah card and Aadhaar should be there.\n1. Students should be a native of Rajasthan.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The girl student should belong to the Saharia tribe of the Baran district of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The girl child should be studying regularly in a government school."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The mother/father/guardian/guardian of the student should not be an income taxpayer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Vaidya Bhamashah card and Aadhaar should be there."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Students should be a native of Rajasthan."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "शिक्षा",
+        "बालिका सशक्तिकरण"
+      ],
+      "schemeName": "सहरिया जनजातीय बालिकाओं को आर्थिक सहायता (कक्षा 11 और 12)",
+      "schemeShortTitle": "EHSTGS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": "2001-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/TAD/EHSTGS/DOC_610_7e011725-b752-436c-99cd-876dd77a9ac5.pdf"
+        },
+        {
+          "title": "विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/610"
+        },
+        {
+          "title": "उपयोगकर्ता नियमावली",
+          "url": "https://tad.rajasthan.gov.in/writereaddata/FilesManagement/PDF/09232022172344PMIncentive%20Scheme%20Help.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "बारां जिले की सहरिया जनजाति की छात्राओं को उच्च शिक्षा में पढ़ने के लिए प्रेरित करके बालिका शिक्षा को बढ़ावा देना और उच्च माध्यमिक शिक्षा के लिए प्रोत्साहित करने के लिए सहरिया जनजाति की छात्राओं को वित्तीय सहायता प्रदान करना। जो उच्च माध्यमिक कक्षाओं (11वीं और 12वीं) में सरकारी स्कूलों में नियमित रूप से पढ़ रहे हैं और जिन्हें सरकारी छात्रावासों में आवास नहीं मिला है। & प्रा. & प्रा. & प्रा. & प्रा. & प्रा. & प्रा",
+      "benefits_md": "छात्र को कुल 10 महीनों के लिए 3,₹500/- की दर से भुगतान किया जाएगा। 350/- प्रति माह।",
+      "briefDescription": "राजस्थान सरकार ने सहरिया आदिवासी लड़कियों की उच्च शिक्षा (कक्षा 11 और 12) के लिए छात्रवृत्ति शुरू की।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बारां जिले की सहरिया जनजाति की छात्राओं को उच्च शिक्षा में पढ़ने के लिए प्रेरित करके बालिका शिक्षा को बढ़ावा देना और उच्च माध्यमिक शिक्षा के लिए प्रोत्साहित करने के लिए सहरिया जनजाति की छात्राओं को वित्तीय सहायता प्रदान करना। जो उच्च माध्यमिक कक्षाओं (11वीं और 12वीं) में सरकारी स्कूलों में नियमित रूप से पढ़ रहे हैं और जिन्हें सरकारी छात्रावासों में आवास नहीं मिला है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "छात्र को कुल 10 महीनों के लिए 3,₹500/- की दर से भुगतान किया जाएगा। 350/- प्रति माह।"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://tad.rajasthan.gov.in/Content/Hindi/index.aspx",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदकों को अधिकारी के पास जाना होगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://tad.rajasthan.gov.in/Content/Hindi/index.aspx",
+                    "children": [
+                      {
+                        "text": "वेब पोर्टल"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "होम पेज पर, \"ऑनलाइन पोर्टल फॉर टाड एजुकेशनल इंसेंटिव स्कीम्स\" पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अब \"ऑनलाइन आवेदन करने के लिए यहाँ क्लिक करें\" पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि आवेदक मौजूदा एसएसओ उपयोगकर्ता हैं, तो अपने एसएसओ उपयोगकर्ता और पासवर्ड के साथ लॉग इन करें. और यदि आवेदकों के पास एसएसओ आईडी नहीं है तो \"पंजीकरण\" पर क्लिक करके एक बनाएं। आवेदक जनाधर और गूगल का उपयोग करके एसएसओ आईडी बना सकते हैं"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एस. एस. ओ. प्रोफाइल पूरा करने के बाद \"स्कॉलरशिप (सी. ई., टी. ए. डी., माइनॉरिटी)\" ऐप पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "\"छात्र\" बटन चुनें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उपयुक्त योजना चुनें और \"अगला\" बटन पर क्लिक करें"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सभी आवश्यक शैक्षणिक जानकारी भरें और \"जमा करें\" बटन पर क्लिक करें"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदकों को आधिकारिक [वेब पोर्टल] (https://tad.rajasthan.gov.in/Content/Hindi/index.aspx). 1 पर जाना होगा। होम पेज पर 'ऑनलाइन पोर्टल फॉर टाड एजुकेशनल इंसेंटिव स्कीम्स' पर क्लिक करें। 1. अब \"ऑनलाइन आवेदन करने के लिए यहाँ क्लिक करें\" पर क्लिक करें। 1. यदि आवेदक मौजूदा एसएसओ उपयोगकर्ता हैं, तो अपने एसएसओ उपयोगकर्ता और पासवर्ड के साथ लॉग इन करें। और यदि आवेदकों के पास एसएसओ आईडी नहीं है तो \"पंजीकरण\" पर क्लिक करके एक आईडी बनाएँ। आवेदक जनाधर और गूगल 1 का उपयोग करके एसएसओ आईडी बना सकते हैं। एस. एस. ओ. प्रोफाइल पूरा करने के बाद \"स्कॉलरशिप (सी. ई., टी. ए. डी., माइनॉरिटी)\" ऐप पर क्लिक करें। 1. \"छात्र\" बटन चुनें। 1. उपयुक्त योजना चुनें और \"अगला\" बटन 1 पर क्लिक करें। सभी आवश्यक शैक्षणिक जानकारी भरें और \"जमा करें\" बटन पर क्लिक करें"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 14,
+          "lte": 20
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. छात्रा राजस्थान के बारां जिले की सहरिया जनजाति की होनी चाहिए। 1. बालिका सरकारी विद्यालय में नियमित रूप से पढ़ती होनी चाहिए। 1. छात्र की मां/पिता/अभिभावक/अभिभावक आयकरदाता नहीं होना चाहिए। 1. जो छात्राएँ सरकार द्वारा संचालित आवासीय विद्यालयों/आश्रम छात्रावासों में पढ़ रही हैं, वे इसके हकदार नहीं होंगी। 1. वैद्य भामाशाह कार्ड और आधार होना चाहिए। 1. छात्र राजस्थान का मूल निवासी होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रा राजस्थान के बारां जिले की सहरिया जनजाति की होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बालिका सरकारी विद्यालय में नियमित रूप से पढ़ती होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र की माँ/पिता/अभिभावक/अभिभावक को आयकरदाता नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जो छात्राएँ सरकार द्वारा संचालित आवासीय विद्यालयों/आश्रम छात्रावासों में पढ़ रही हैं, वे इसके हकदार नहीं होंगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वैद्य भामाशाह कार्ड और आधार होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "pvtg",
+          "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 14,
+        "lte": 20
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. छात्रा राजस्थान के बारां जिले की सहरिया जनजाति की होनी चाहिए। 1. बालिका सरकारी विद्यालय में नियमित रूप से पढ़ती होनी चाहिए। 1. छात्र की मां/पिता/अभिभावक/अभिभावक आयकरदाता नहीं होना चाहिए। 1. जो छात्राएँ सरकार द्वारा संचालित आवासीय विद्यालयों/आश्रम छात्रावासों में पढ़ रही हैं, वे इसके हकदार नहीं होंगी। 1. वैद्य भामाशाह कार्ड और आधार होना चाहिए। 1. छात्र राजस्थान का मूल निवासी होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्रा राजस्थान के बारां जिले की सहरिया जनजाति की होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "बालिका सरकारी विद्यालय में नियमित रूप से पढ़ती होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र की माँ/पिता/अभिभावक/अभिभावक को आयकरदाता नहीं होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "जो छात्राएँ सरकार द्वारा संचालित आवासीय विद्यालयों/आश्रम छात्रावासों में पढ़ रही हैं, वे इसके हकदार नहीं होंगी।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वैद्य भामाशाह कार्ड और आधार होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "pvtg",
+        "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate Copy."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Caste Certificate Copy.\n1. Education Qualification Marksheet / Certificate Copy.\n1. Aadhar Card Copy.\n1. Jan Aadhar/Bhamashah Card Copy.\n1. Income Certificate Copy.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Caste Certificate Copy.\n1. Education Qualification Marksheet / Certificate Copy.\n1. Aadhar Card Copy.\n1. Jan Aadhar/Bhamashah Card Copy.\n1. Income Certificate Copy.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan Government started a scholarship for Sahariya tribal girls' higher education (Class 11 and 12)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Government started a scholarship for Sahariya tribal girls' higher education (Class 11 and 12).\n"
+        },
+        {
+          "question": "What Are The Benefits Under The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The student will be paid Rs. 3,500/- for a total of 10 months at the rate of Rs. 350/- per month."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The student will be paid Rs. 3,500/- for a total of 10 months at the rate of Rs. 350/- per month.\n"
+        },
+        {
+          "question": "Who Can Get The Benefits Of The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The girl student should belong to the Saharia tribe of the Baran district of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.\n"
+        },
+        {
+          "question": "May other state person apply for the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only rajasthan residential may apply for the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only rajasthan residential may apply for the scheme.\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicants have to visit the official web portal.\n2. On the Home page, click on \"Online Portal For Tad Educational Incentive Schemes\".\n3. Follow the instruction.\n4. Fill out all required academic information and click on the “Submit” button"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants have to visit the official web portal.\n2. On the Home page, click on \"Online Portal For Tad Educational Incentive Schemes\".\n3. Follow the instruction.\n4. Fill out all required academic information and click on the \"Submit\" button\n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Caste Certificate Copy. \n2. Education Qualification Marksheet / Certificate Copy.  \n3. Aadhar Card Copy. \n4. Jan Aadhar/Bhamashah Card Copy. \n5. Income Certificate Copy."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Caste Certificate Copy. \n2. Education Qualification Marksheet / Certificate Copy.  \n3. Aadhar Card Copy. \n4. Jan Aadhar/Bhamashah Card Copy. \n5. Income Certificate Copy.\n"
+        },
+        {
+          "question": "What is the official portal to apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Follow the URL: https://tad.rajasthan.gov.in/Content/Hindi/index.aspx"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Follow the URL: https://tad.rajasthan.gov.in/Content/Hindi/index.aspx\n"
+        },
+        {
+          "question": "Can All girl students get the scheme benefits ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The girl students, who are belong to the Saharia tribe of the Baran district of Rajasthan, can get the scheme benfits."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The girl students, who are belong to the Saharia tribe of the Baran district of Rajasthan, can get the scheme benfits.\n"
+        },
+        {
+          "question": "Can boy students also apply for the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this is only for girl students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this is only for girl students.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह क्या योजना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार ने सहरिया आदिवासी लड़कियों की उच्च शिक्षा (कक्षा 11 और 12) के लिए छात्रवृत्ति शुरू की।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Government started a scholarship for Sahariya tribal girls' higher education (Class 11 and 12).\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्र को रुपये का भुगतान किया जाएगा। 3, 500/- कुल 10 महीनों के लिए रु। 350/- प्रति माह।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The student will be paid Rs. 3,500/- for a total of 10 months at the rate of Rs. 350/- per month.\n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रा राजस्थान के बारां जिले की सहरिया जनजाति की होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.\n"
+        },
+        {
+          "question": "क्या राज्य का कोई अन्य व्यक्ति इस योजना के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान निवासी ही इस योजना के लिए आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only rajasthan residential may apply for the scheme.\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. उम्मीदवारों को आधिकारिक वेबसाइट पर जाना होगा। 2. होम पेज पर, \"ऑनलाइन पोर्टल फॉर टाड एजुकेशनल इंसेंटिव स्कीम्स\" पर क्लिक करें। 3. निर्देश का पालन करें। 4. सभी आवश्यक शैक्षणिक जानकारी भरें और \"जमा करें\" बटन पर क्लिक करें"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants have to visit the official web portal.\n2. On the Home page, click on \"Online Portal For Tad Educational Incentive Schemes\".\n3. Follow the instruction.\n4. Fill out all required academic information and click on the \"Submit\" button\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. जाति प्रमाणपत्र की प्रतिलिपि। 2. शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि। 3. आधार कार्ड की प्रतिलिपि। 4. जन आधार/भामाशाह कार्ड की प्रतिलिपि। 5. आय प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Caste Certificate Copy. \n2. Education Qualification Marksheet / Certificate Copy.  \n3. Aadhar Card Copy. \n4. Jan Aadhar/Bhamashah Card Copy. \n5. Income Certificate Copy.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यू. आर. एल. का पालन करेंः https://tad.rajasthan.gov.in/Content/Hindi/index.aspx"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Follow the URL: https://tad.rajasthan.gov.in/Content/Hindi/index.aspx\n"
+        },
+        {
+          "question": "क्या सभी बालिकाओं को योजना का लाभ मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के बारां जिले की सहरिया जनजाति की छात्राएँ इस योजना का लाभ ले सकती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The girl students, who are belong to the Saharia tribe of the Baran district of Rajasthan, can get the scheme benfits.\n"
+        },
+        {
+          "question": "क्या छात्र भी इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह केवल लड़कियों के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this is only for girl students.\n"
+        }
+      ]
+    }
+  }
+}

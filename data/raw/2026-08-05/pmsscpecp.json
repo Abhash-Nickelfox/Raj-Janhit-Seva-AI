@@ -1,0 +1,1781 @@
+{
+  "scheme_id": "67bf3177f4981008fe917e35",
+  "slug": "pmsscpecp",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Scholarship",
+        "Post-Matric",
+        "Sanitation Worker",
+        "Scavenger",
+        "Student"
+      ],
+      "schemeName": "Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession",
+      "schemeShortTitle": "AFACPECP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": "2021-10-06",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110061548490675.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession&amp;quot; scheme was launched by the Social Justice and Empowerment Department, Government of Rajasthan. The scheme provides an additional financial assistance of ₹500/- per month to children of individuals working in the cleaning or sanitation profession. This assistance is given to students already receiving a scholarship under the Post-Matric Scholarship Scheme, ensuring their continued education.\n",
+      "benefits_md": "**Financial Assistance:** \n\n  - This scheme provides ₹500/- per month as additional financial assistance to children of individuals working in the cleaning/sanitation profession.\n\n**Note:** Assistance will be provided for a maximum of 10 months per year.\n",
+      "briefDescription": "This scheme aims to provide additional financial assistance of ₹500/- per month to children of individuals working in cleaning/sanitation profession. This assistance is given to students already receiving a scholarship under Post-Matric Scholarship Scheme, ensuring their continued education.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession\" scheme was launched by the Social Justice and Empowerment Department, Government of Rajasthan. The scheme provides an additional financial assistance of ₹500/- per month to children of individuals working in the cleaning or sanitation profession. This assistance is given to students already receiving a scholarship under the Post-Matric Scholarship Scheme, ensuring their continued education."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance: ",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "This scheme provides ₹500/- per month as additional financial assistance to children of individuals working in the cleaning/sanitation profession."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                },
+                {
+                  "text": " Assistance will be provided for a maximum of 10 months per year."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “IFMS-RAJSSP\" option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Select \"Continue to RajSSP\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes, and click on the name of \"Yojana\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Select the category \"sanitation worker\""
+              },
+              {
+                "bold": true,
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-8: "
+              },
+              {
+                "text": "Fill out all relevant details and upload the required document. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “IFMS-RAJSSP&quot; option.\n**Step-4:** Select &quot;Continue to RajSSP&quot;. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes, and click on the name of &quot;Yojana&quot;\n**Step-7:** Select the category &quot;sanitation worker&quot;**** \n**Step-8:** Fill out all relevant details and upload the required document. \n**Step-9:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a student.\n   1. The applicant should be eligible for or currently receiving a scholarship under the Post-Matric Scholarship Scheme.\n   1. The applicant should belong to Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Classes (OBC), Economically Backward Classes (EBC), or Extremely Backward Classes (EBC).\n   1. The applicant&amp;#39;s parents or guardian should be engaged in the cleaning profession and belong to the scavenger class.\n   1. If the applicant&amp;#39;s parent is not alive, the guardian engaged in the cleaning profession and belonging to the scavenger class is eligible to apply.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a student."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be eligible for or currently receiving a scholarship under the Post-Matric Scholarship Scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should belong to Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Classes (OBC), Economically Backward Classes (EBC), or Extremely Backward Classes (EBC)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant's parents or guardian should be engaged in the cleaning profession and belong to the scavenger class."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If the applicant's parent is not alive, the guardian engaged in the cleaning profession and belonging to the scavenger class is eligible to apply."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "छात्रवृत्ति",
+        "मैट्रिक के बाद",
+        "सफाई कर्मचारी",
+        "सफाईकर्मी",
+        "विद्यार्थी"
+      ],
+      "schemeName": "सफाई के पेशे में लगे व्यक्तियों के बच्चों के लिए अतिरिक्त वित्तीय सहायता",
+      "schemeShortTitle": "AFACPECP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": "2021-10-06",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110061548490675.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा सफाई पेशे में लगे व्यक्तियों के बच्चों के लिए अतिरिक्त वित्तीय सहायता योजना शुरू की गई थी। यह योजना सफाई या स्वच्छता पेशे में काम करने वाले व्यक्तियों के बच्चों को प्रति माह ₹500/- की अतिरिक्त वित्तीय सहायता प्रदान करती है। यह सहायता उन छात्रों को दी जाती है जो पहले से ही पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्रवृत्ति प्राप्त कर रहे हैं, जिससे उनकी निरंतर शिक्षा सुनिश्चित होती है।",
+      "benefits_md": "वित्तीय सहायता-यह योजना सफाई/स्वच्छता पेशे में काम करने वाले व्यक्तियों के बच्चों को अतिरिक्त वित्तीय सहायता के रूप में प्रति माह 500 रुपये प्रदान करती है। * * नोटः * * सहायता प्रति वर्ष अधिकतम 10 महीने के लिए प्रदान की जाएगी।",
+      "briefDescription": "इस योजना का उद्देश्य सफाई/स्वच्छता पेशे में काम करने वाले व्यक्तियों के बच्चों को प्रति माह 500 रुपये की अतिरिक्त वित्तीय सहायता प्रदान करना है। यह सहायता उन छात्रों को दी जाती है जो पहले से ही पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्रवृत्ति प्राप्त कर रहे हैं, जिससे उनकी निरंतर शिक्षा सुनिश्चित होती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा \"सफाई पेशे में लगे व्यक्तियों के बच्चों के लिए अतिरिक्त वित्तीय सहायता\" योजना शुरू की गई थी। यह योजना सफाई या स्वच्छता पेशे में काम करने वाले व्यक्तियों के बच्चों को प्रति माह ₹500/- की अतिरिक्त वित्तीय सहायता प्रदान करती है। यह सहायता उन छात्रों को दी जाती है जो पहले से ही पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्रवृत्ति प्राप्त कर रहे हैं, जिससे उनकी निरंतर शिक्षा सुनिश्चित होती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "वित्तीय मददः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यह योजना सफाई/स्वच्छता पेशे में काम करने वाले व्यक्तियों के बच्चों को अतिरिक्त वित्तीय सहायता के रूप में प्रति माह 500 रुपये प्रदान करती है।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ध्यान देंः",
+                  "bold": true
+                },
+                {
+                  "text": "सहायता प्रति वर्ष अधिकतम 10 महीने के लिए प्रदान की जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"राजएसएसपी को जारी रखें\" चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पेज पर सभी योजनाओं के नामों की सूची मिलेगी और \"योजना\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "\"सफाई कर्मचारी\" श्रेणी का चयन करें"
+              },
+              {
+                "bold": true,
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-8:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें और आवश्यक दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण-3: * * 'आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी.' विकल्प पर क्लिक करें। * * चरण-4: * * 'राजएसएसपी' को जारी रखें 'का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, सभी योजनाओं के नामों की एक सूची मिलेगी, और 'योजना' के नाम पर क्लिक करें। * * चरण-9: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "General"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "EWS"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Female"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "OBC"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "SC"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "ST"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक छात्र होना चाहिए। 1. आवेदक को पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्रवृत्ति के लिए पात्र होना चाहिए या वर्तमान में प्राप्त करना चाहिए। 1. आवेदक अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़े वर्ग (ओ. बी. सी.), आर्थिक रूप से पिछड़े वर्ग (ई. बी. सी.), या अत्यंत पिछड़े वर्ग (ई. बी. सी.) से संबंधित होना चाहिए। 1. आवेदक के माता-पिता या अभिभावक को सफाई के पेशे से जुड़ा होना चाहिए और सफाई कर्मचारी वर्ग से संबंधित होना चाहिए। 1. यदि आवेदक के माता-पिता जीवित नहीं हैं, तो सफाई के पेशे में लगे और सफाई कर्मचारी वर्ग से संबंधित अभिभावक आवेदन करने के पात्र हैं।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक छात्र होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्रवृत्ति के लिए पात्र होना चाहिए या वर्तमान में प्राप्त करना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़े वर्ग (ओ. बी. सी.), आर्थिक रूप से पिछड़े वर्ग (ई. बी. सी.), या अत्यंत पिछड़े वर्ग (ई. बी. सी.) से संबंधित होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक के माता-पिता या अभिभावक को सफाई के पेशे से जुड़ा होना चाहिए और सफाई कर्मचारी वर्ग से संबंधित होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि आवेदक के माता-पिता जीवित नहीं हैं, तो सफाई के पेशे में लगे और मैला ढोने वाले वर्ग से संबंधित अभिभावक आवेदन करने के पात्र हैं।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "obc",
+          "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+        },
+        {
+          "value": "pvtg",
+          "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+        },
+        {
+          "value": "sc",
+          "label": "अनुसूचित जाति (एससी)"
+        },
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "occupation": [
+        {
+          "value": "safai-karamchari",
+          "label": "Safai Karamchari"
+        }
+      ],
+      "isStudent": "Yes",
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "General"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "EWS"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Female"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "OBC"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "SC"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "ST"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक छात्र होना चाहिए। 1. आवेदक को पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्रवृत्ति के लिए पात्र होना चाहिए या वर्तमान में प्राप्त करना चाहिए। 1. आवेदक अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़े वर्ग (ओ. बी. सी.), आर्थिक रूप से पिछड़े वर्ग (ई. बी. सी.), या अत्यंत पिछड़े वर्ग (ई. बी. सी.) से संबंधित होना चाहिए। 1. आवेदक के माता-पिता या अभिभावक को सफाई के पेशे से जुड़ा होना चाहिए और सफाई कर्मचारी वर्ग से संबंधित होना चाहिए। 1. यदि आवेदक के माता-पिता जीवित नहीं हैं, तो सफाई के पेशे में लगे और सफाई कर्मचारी वर्ग से संबंधित अभिभावक आवेदन करने के पात्र हैं।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक छात्र होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्रवृत्ति के लिए पात्र होना चाहिए या वर्तमान में प्राप्त करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़े वर्ग (ओ. बी. सी.), आर्थिक रूप से पिछड़े वर्ग (ई. बी. सी.), या अत्यंत पिछड़े वर्ग (ई. बी. सी.) से संबंधित होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक के माता-पिता या अभिभावक को सफाई के पेशे से जुड़ा होना चाहिए और सफाई कर्मचारी वर्ग से संबंधित होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि आवेदक के माता-पिता जीवित नहीं हैं, तो सफाई के पेशे में लगे और मैला ढोने वाले वर्ग से संबंधित अभिभावक आवेदन करने के पात्र हैं।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "obc",
+        "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+      },
+      {
+        "value": "pvtg",
+        "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+      },
+      {
+        "value": "sc",
+        "label": "अनुसूचित जाति (एससी)"
+      },
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "occupation": [
+      {
+        "value": "safai-karamchari",
+        "label": "Safai Karamchari"
+      }
+    ],
+    "isStudent": "Yes",
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Parents/guardians "
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110061548490675.pdf",
+                  "children": [
+                    {
+                      "text": "Certificate"
+                    }
+                  ]
+                },
+                {
+                  "text": " of being engaged in cleaning profession"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Admission Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Educational Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document If Required. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Parents/guardians [Certificate](https://sje.rajasthan.gov.in/siteadmin/Uploads/202110061548490675.pdf) of being engaged in cleaning profession1. Admission Certificate\n1. Educational Certificate\n1. Caste Certificate \n1. Any Other Document If Required. \n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता/अभिभावक"
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110061548490675.pdf",
+                  "children": [
+                    {
+                      "text": "प्रमाणपत्र"
+                    }
+                  ]
+                },
+                {
+                  "text": "साफ-सफाई के पेशे में लगे रहना"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रवेश प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Parents/guardians [Certificate](https://sje.rajasthan.gov.in/siteadmin/Uploads/202110061548490675.pdf) of being engaged in cleaning profession1. Admission Certificate\n1. Educational Certificate\n1. Caste Certificate \n1. Any Other Document If Required. \n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students from SC, ST, OBC, EBC, or Extremely Backward Class (EBC) backgrounds whose parents/guardians work in sanitation can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students from SC, ST, OBC, EBC, or Extremely Backward Class (EBC) backgrounds whose parents/guardians work in sanitation can apply.\n"
+        },
+        {
+          "question": "How much financial assistance is provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "An additional ₹500 per month, up to ₹5,000 annually, is provided."
+                }
+              ]
+            }
+          ],
+          "answer_md": "An additional [?]500 per month, up to [?]5,000 annually, is provided.\n"
+        },
+        {
+          "question": "Is this scholarship available for all educational courses?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scheme applies to post-matric educational courses."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme applies to post-matric educational courses.\n"
+        },
+        {
+          "question": "Can I apply offline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the application process is completely online."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application process is completely online.\n"
+        },
+        {
+          "question": "Is there a reservation for female students?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "There is no specific gender-based reservation, but all eligible students can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "There is no specific gender-based reservation, but all eligible students can apply.\n"
+        },
+        {
+          "question": "Can I apply if I am already receiving another scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, students under the Post-Matric Scholarship Scheme can receive this additional financial assistance."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students under the Post-Matric Scholarship Scheme can receive this additional financial assistance.\n"
+        },
+        {
+          "question": "Is there an income limit to apply under the Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the income limit is not mentioned in the scheme. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the income limit is not mentioned in the scheme. \n"
+        },
+        {
+          "question": "What is the application deadline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The deadline varies yearly. Applicants should check the official Rajasthan Post-Matric Scholarship portal for the latest updates."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The deadline varies yearly. Applicants should check the official Rajasthan Post-Matric Scholarship portal for the latest updates.\n"
+        },
+        {
+          "question": "Can I apply if I am already receiving another scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, students under the Post-Matric Scholarship Scheme can receive this additional financial assistance."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students under the Post-Matric Scholarship Scheme can receive this additional financial assistance.\n"
+        },
+        {
+          "question": "Do I need to submit a new application every year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, students must reapply annually and submit updated documents."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students must reapply annually and submit updated documents.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस छात्रवृत्ति के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एससी, एसटी, ओ. बी. सी., ई. बी. सी., या अत्यंत पिछड़े वर्ग (ई. बी. सी.) पृष्ठभूमि के छात्र जिनके माता-पिता/अभिभावक स्वच्छता में काम करते हैं, वे आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students from SC, ST, OBC, EBC, or Extremely Backward Class (EBC) backgrounds whose parents/guardians work in sanitation can apply.\n"
+        },
+        {
+          "question": "कितनी वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रति माह अतिरिक्त ₹500, सालाना ₹5,000 तक, प्रदान किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "An additional [?]500 per month, up to [?]5,000 annually, is provided.\n"
+        },
+        {
+          "question": "क्या यह छात्रवृत्ति सभी शैक्षणिक पाठ्यक्रमों के लिए उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना मैट्रिक के बाद के शैक्षिक पाठ्यक्रमों पर लागू होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme applies to post-matric educational courses.\n"
+        },
+        {
+          "question": "क्या मैं ऑफ़लाइन आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन प्रक्रिया पूरी तरह से ऑनलाइन है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application process is completely online.\n"
+        },
+        {
+          "question": "क्या महिला छात्रों के लिए आरक्षण है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कोई विशिष्ट लिंग-आधारित आरक्षण नहीं है, लेकिन सभी पात्र छात्र आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "There is no specific gender-based reservation, but all eligible students can apply.\n"
+        },
+        {
+          "question": "अगर मुझे पहले से ही दूसरी छात्रवृत्ति मिल रही है तो क्या मैं आवेदन कर सकता हूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्र इस अतिरिक्त वित्तीय सहायता को प्राप्त कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students under the Post-Matric Scholarship Scheme can receive this additional financial assistance.\n"
+        },
+        {
+          "question": "क्या इस योजना के तहत आवेदन करने के लिए आय की कोई सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, योजना में आय सीमा का उल्लेख नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the income limit is not mentioned in the scheme. \n"
+        },
+        {
+          "question": "आवेदन की समय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "समय सीमा सालाना बदलती रहती है। आवेदकों को नवीनतम अपडेट के लिए आधिकारिक राजस्थान पोस्ट-मैट्रिक छात्रवृत्ति पोर्टल की जांच करनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The deadline varies yearly. Applicants should check the official Rajasthan Post-Matric Scholarship portal for the latest updates.\n"
+        },
+        {
+          "question": "अगर मुझे पहले से ही दूसरी छात्रवृत्ति मिल रही है तो क्या मैं आवेदन कर सकता हूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, पोस्ट-मैट्रिक छात्रवृत्ति योजना के तहत छात्र इस अतिरिक्त वित्तीय सहायता को प्राप्त कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students under the Post-Matric Scholarship Scheme can receive this additional financial assistance.\n"
+        },
+        {
+          "question": "क्या मुझे हर साल एक नया आवेदन जमा करने की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, छात्रों को सालाना फिर से आवेदन करना चाहिए और अद्यतन दस्तावेज जमा करने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students must reapply annually and submit updated documents.\n"
+        }
+      ]
+    }
+  }
+}

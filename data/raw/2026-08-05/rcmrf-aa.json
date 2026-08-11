@@ -1,0 +1,1433 @@
+{
+  "scheme_id": "6417f8cae88cf6dc84ef7194",
+  "slug": "rcmrf-aa",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Crisis/Disaster/Accident",
+          "label": "Crisis/Disaster/Accident"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Accident",
+        "Financial Assistance"
+      ],
+      "schemeName": "Rajasthan Chief Minister's Relief Fund - Accident Assistance",
+      "schemeShortTitle": "RCMRF-AA",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/435"
+        },
+        {
+          "title": "Guidelines (Hindi)",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/cmrf/CMRFAH/DOC_435_18e2e39a-0263-44f6-967f-33f44247ae5c.pdf"
+        },
+        {
+          "title": "Proforma For The Income Certificate, Affidavit, And Declaration",
+          "url": "https://cmrelief.rajasthan.gov.in/pdf/Proforma2.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "\"Rajasthan Chief Minister's Relief Fund - Accident Assistance\" is a scheme by the Chief Minister's Secretariat, Govt. of Rajasthan. In case of death due to accident, ₹ 1,00,000 is provided. In case of serious injury, assistance is up to ₹ 20,000. The assistance is \"one-time full-support\".",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Launched in April 1999, \"Rajasthan Chief Minister's Relief Fund - Accident Assistance\" is a scheme by the Chief Minister's Secretariat, Govt. of Rajasthan. In case of death due to accident, ₹ 1,00,000 is provided to the dependent of the deceased. In case of serious injury, assistance should be approved up to ₹ 20,000, keeping in view the seriousness of the injury to the ordinary injured. A revolving fund of ₹20,00,000 each has been made available to all district collectors. The assistance is \"one-time full-support\" and is sanctioned by the concerned District Collector. For assistance, one has to apply either to the Tehsil/District Collector's Office or to the Chief Minister's Office."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of death due to accident, ₹ 1,00,000 is provided to the dependent of the deceased. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of serious injury, assistance should be approved up to ₹ 20,000, keeping in view the seriousness of the injury to the ordinary injured. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A revolving fund of ₹20,00,000 each has been made available to all district collectors. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The assistance is \"one-time full-support\" and is sanctioned by the concerned District Collector."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of death of a seriously injured person in an accident while undergoing treatment, assistance is given on applying within a period of 6 months from the date of death instead of the date of application."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance is not payable twice in the same case. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance is not payable in case of loss of property due to fire or other reasons. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance is not payable in cases of suicide."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance should not be given from the Chief Minister's Relief Fund in case assistance is due from other schemes of the state government. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "It is not necessary to provide assistance if the family is capable. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "Launched in April 1999, &quot;Rajasthan Chief Minister&#39;s Relief Fund - Accident Assistance&quot; is a scheme by the Chief Minister&#39;s Secretariat, Govt. of Rajasthan. In case of death due to accident, ₹ 1,00,000 is provided to the dependent of the deceased. In case of serious injury, assistance should be approved up to ₹ 20,000, keeping in view the seriousness of the injury to the ordinary injured. A revolving fund of ₹20,00,000 each has been made available to all district collectors. The assistance is &quot;one-time full-support&quot; and is sanctioned by the concerned District Collector. For assistance, one has to apply either to the Tehsil/District Collector&#39;s Office or to the Chief Minister&#39;s Office.\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The letter requesting the assistance, along with the required self-attested documents must be sent to the Official Email ID of CMRF: cmrf.cmo@rajasthan.gov.in, or in person, to the concerned Tehsil/District Collector's Office, or to the Chief Accounts Officer (CAO), Room No. 301, Chief Minister's Office, Government Secretariat, Jaipur, Rajasthan - 302 005."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE :",
+                "bold": true
+              },
+              {
+                "text": " In case the application is incomplete, the applicant should be informed to make the corrections."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The victim should be a resident of the state of Rajasthan.\n1. The victim should have suffered serious injury / death.\n1. In case of death, the assistance is payable only to the dependent parents/husband-wife/son-daughter of the deceased in the accident. \n1. Under special circumstances, assistance can be given to grandparents/dependent siblings with the consent of the Chief Minister&#39;s Office. \n1. In cases of murder and rape, action should be taken to give compensation under the Rajasthan Victim Compensation (Amended) Scheme-2015 under the provision of providing assistance in cases of murder and rape.\n1. The applicant must apply within a maximum period of 6 months from the date of accident.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The victim should be a resident of the state of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The victim should have suffered serious injury / death."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of death, the assistance is payable only to the dependent parents/husband-wife/son-daughter of the deceased in the accident. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Under special circumstances, assistance can be given to grandparents/dependent siblings with the consent of the Chief Minister's Office. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In cases of murder and rape, action should be taken to give compensation under the Rajasthan Victim Compensation (Amended) Scheme-2015 under the provision of providing assistance in cases of murder and rape."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must apply within a maximum period of 6 months from the date of accident."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Crisis/Disaster/Accident",
+          "label": "संकट/आपदा/दुर्घटना"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "दुर्घटना",
+        "वित्तीय सहायता"
+      ],
+      "schemeName": "राजस्थान मुख्यमंत्री राहत कोष-दुर्घटना सहायता",
+      "schemeShortTitle": "RCMRF-AA",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/435"
+        },
+        {
+          "title": "दिशानिर्देश (हिंदी)",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/cmrf/CMRFAH/DOC_435_18e2e39a-0263-44f6-967f-33f44247ae5c.pdf"
+        },
+        {
+          "title": "आय प्रमाणपत्र, शपथ पत्र और घोषणा के लिए प्रोफार्मा",
+          "url": "https://cmrelief.rajasthan.gov.in/pdf/Proforma2.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "\"राजस्थान मुख्यमंत्री राहत कोष-दुर्घटना सहायता\" मुख्यमंत्री सचिवालय, राजस्थान सरकार की एक योजना है। दुर्घटना के कारण मृत्यु के मामले में, ₹ 1,00,000 प्रदान किया जाता है। गंभीर चोट के मामले में, सहायता 20,000 रुपये तक है। सहायता \"एक बार का पूर्ण समर्थन\" है।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "अप्रैल 1999 में शुरू किया गया, \"राजस्थान मुख्यमंत्री राहत कोष-दुर्घटना सहायता\" मुख्यमंत्री सचिवालय, राजस्थान सरकार द्वारा एक योजना है। दुर्घटना के कारण मृत्यु के मामले में, मृतक के आश्रित को ₹ 1,00,000 प्रदान किया जाता है। गंभीर चोट के मामले में, सामान्य घायल की चोट की गंभीरता को ध्यान में रखते हुए 20,000 रुपये तक की सहायता को मंजूरी दी जानी चाहिए। सभी जिला कलेक्टरों को प्रत्येक के लिए ₹ 20,00,000 की एक घूर्णन निधि उपलब्ध कराई गई है। यह सहायता \"एक बार का पूर्ण समर्थन\" है और इसे संबंधित जिला कलेक्टर द्वारा स्वीकृत किया जाता है। सहायता के लिए, किसी को या तो तहसील/जिला कलेक्टर कार्यालय या मुख्यमंत्री कार्यालय में आवेदन करना होगा।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दुर्घटना के कारण मृत्यु के मामले में, मृतक के आश्रित को ₹ 1,00,000 प्रदान किया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गंभीर चोट के मामले में, सामान्य घायल की चोट की गंभीरता को ध्यान में रखते हुए, 20,000 रुपये तक की सहायता को मंजूरी दी जानी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सभी जिला कलेक्टरों को प्रत्येक के लिए ₹ 20,00,000 की एक घूर्णन निधि उपलब्ध कराई गई है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह सहायता \"एक बार का पूर्ण समर्थन\" है और इसे संबंधित जिला कलेक्टर द्वारा स्वीकृत किया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उपचार के दौरान दुर्घटना में गंभीर रूप से घायल व्यक्ति की मृत्यु के मामले में, आवेदन की तारीख के बजाय मृत्यु की तारीख से 6 महीने की अवधि के भीतर आवेदन करने पर सहायता दी जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सहायता एक ही मामले में दो बार देय नहीं है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आग या अन्य कारणों से संपत्ति के नुकसान के मामले में सहायता देय नहीं है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आत्महत्या के मामलों में सहायता देय नहीं है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राज्य सरकार की अन्य योजनाओं से सहायता मिलने की स्थिति में मुख्यमंत्री राहत कोष से सहायता नहीं दी जानी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि परिवार सक्षम है तो सहायता प्रदान करने की आवश्यकता नहीं है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "अप्रैल 1999 में शुरू किया गया, राजस्थान के मुख्यमंत्री राहत कोष-दुर्घटना सहायता मुख्यमंत्री सचिवालय, सरकार द्वारा एक योजना है। राजस्थान से। दुर्घटना के कारण मृत्यु के मामले में, मृतक के आश्रित को ₹ 1,00,000 प्रदान किया जाता है। गंभीर चोट के मामले में, सामान्य घायल की चोट की गंभीरता को ध्यान में रखते हुए, 20,000 रुपये तक की सहायता को मंजूरी दी जानी चाहिए। सभी जिला कलेक्टरों को प्रत्येक के लिए ₹ 20,00,000 की एक घूर्णन निधि उपलब्ध कराई गई है। सहायता एक बार का पूर्ण समर्थन है और इसे संबंधित जिला कलेक्टर द्वारा स्वीकृत किया जाता है। सहायता के लिए, किसी को या तो तहसील/जिला कलेक्टर के कार्यालय या मुख्यमंत्री के कार्यालय में आवेदन करना होगा।"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "सहायता का अनुरोध करने वाला पत्र, आवश्यक स्व-सत्यापित दस्तावेजों के साथ सीएमआरएफ के आधिकारिक ईमेल आईडी पर भेजा जाना चाहिएः cmrf.cmo@rajasthan.gov.in, या व्यक्तिगत रूप से, संबंधित तहसील/जिला कलेक्टर कार्यालय, या मुख्य लेखा अधिकारी (सी. ए. ओ.), कमरा संख्या 301, मुख्यमंत्री कार्यालय, सरकारी सचिवालय, जयपुर, राजस्थान-303005 को।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोटः",
+                "bold": true
+              },
+              {
+                "text": "यदि आवेदन अधूरा है, तो आवेदक को सुधार करने के लिए सूचित किया जाना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पीड़ित राजस्थान राज्य का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पीड़ित को गंभीर चोट/मृत्यु का सामना करना पड़ा होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मृत्यु के मामले में, सहायता केवल दुर्घटना में मृतक के आश्रित माता-पिता/पति-पत्नी/बेटे-बेटी को देय है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विशेष परिस्थितियों में, मुख्यमंत्री कार्यालय की सहमति से दादा-दादी/आश्रित भाई-बहनों को सहायता दी जा सकती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "हत्या के मामलों में सहायता प्रदान करने के प्रावधान के तहत राजस्थान पीड़ित मुआवजा (संशोधित) योजना-2015 के तहत मुआवजा देने के लिए कार्रवाई की जानी चाहिए और"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को दुर्घटना की तारीख से अधिकतम 6 महीने की अवधि के भीतर आवेदन करना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "employmentStatus": {
+        "id": 1,
+        "value": "All",
+        "label": "All"
+      },
+      "occupation": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "eligibilityDescription_md": "1. पीड़ित राजस्थान राज्य का निवासी होना चाहिए। 1. पीड़ित को गंभीर चोट/मृत्यु का सामना करना पड़ा होगा। 1. मृत्यु के मामले में, सहायता केवल दुर्घटना में मृतक के आश्रित माता-पिता/पति-पत्नी/बेटे-बेटी को देय है। 1. विशेष परिस्थितियों में, मुख्यमंत्री कार्यालय की सहमति से दादा-दादी/आश्रित भाई-बहनों को सहायता दी जा सकती है। 1. हत्या के मामलों में सहायता प्रदान करने के प्रावधान के तहत राजस्थान पीड़ित मुआवजा (संशोधित) योजना-2015 के तहत मुआवजा देने के लिए कार्रवाई की जानी चाहिए। आवेदक को दुर्घटना की तारीख से अधिकतम 6 महीने की अवधि के भीतर आवेदन करना चाहिए।"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पीड़ित राजस्थान राज्य का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पीड़ित को गंभीर चोट/मृत्यु का सामना करना पड़ा होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "मृत्यु के मामले में, सहायता केवल दुर्घटना में मृतक के आश्रित माता-पिता/पति-पत्नी/बेटे-बेटी को देय है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "विशेष परिस्थितियों में, मुख्यमंत्री कार्यालय की सहमति से दादा-दादी/आश्रित भाई-बहनों को सहायता दी जा सकती है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "हत्या के मामलों में सहायता प्रदान करने के प्रावधान के तहत राजस्थान पीड़ित मुआवजा (संशोधित) योजना-2015 के तहत मुआवजा देने के लिए कार्रवाई की जानी चाहिए और"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को दुर्घटना की तारीख से अधिकतम 6 महीने की अवधि के भीतर आवेदन करना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "employmentStatus": {
+      "id": 1,
+      "value": "All",
+      "label": "All"
+    },
+    "occupation": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "eligibilityDescription_md": "1. पीड़ित राजस्थान राज्य का निवासी होना चाहिए। 1. पीड़ित को गंभीर चोट/मृत्यु का सामना करना पड़ा होगा। 1. मृत्यु के मामले में, सहायता केवल दुर्घटना में मृतक के आश्रित माता-पिता/पति-पत्नी/बेटे-बेटी को देय है। 1. विशेष परिस्थितियों में, मुख्यमंत्री कार्यालय की सहमति से दादा-दादी/आश्रित भाई-बहनों को सहायता दी जा सकती है। 1. हत्या के मामलों में सहायता प्रदान करने के प्रावधान के तहत राजस्थान पीड़ित मुआवजा (संशोधित) योजना-2015 के तहत मुआवजा देने के लिए कार्रवाई की जानी चाहिए। आवेदक को दुर्घटना की तारीख से अधिकतम 6 महीने की अवधि के भीतर आवेदन करना चाहिए।"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport Sized Photograph."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Identity of the Applicant (and of the deceased, if applicable)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residential Proof (Domicile Certificate)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Medical Report of the Injured (Mandatory)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Post Mortem Report in Case of Death (Mandatory) or "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In Case of Mutilation of the Dead Body, the Satisfaction Certificate of the Inquest Officer (Mandatory)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "FIR Report (Mandatory)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ration Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "First Page of Bank Account Passbook / Canceled Check or Photocopy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate/Proof [http://cmrelief.rajasthan.gov.in/pdf/Proforma2.pdf]"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Address Proof  (Ration Card)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Treatment Estimate by the Doctor."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की पहचान का प्रमाण (और मृतक का, यदि लागू हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवासीय प्रमाण (अधिवास प्रमाण पत्र)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "घायल की चिकित्सा रिपोर्ट (अनिवार्य)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मृत्यु (अनिवार्य) के मामले में पोस्टमॉर्टम रिपोर्ट या"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मृत शरीर के विच्छेदन के मामले में, पूछताछ अधिकारी का संतुष्टि प्रमाण पत्र (अनिवार्य)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एफ. आई. आर. रिपोर्ट (अनिवार्य)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राशन कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाता पासबुक का पहला पृष्ठ/रद्द चेक या फोटोकॉपी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र/प्रमाण [http://cmrelief.rajasthan.gov.in/pdf/Proforma2.pdf]"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पते का प्रमाण (राशन कार्ड)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "चिकित्सक द्वारा उपचार का अनुमान।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": ""
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "When Was The Rajasthan Chief Minister's Relief Fund Launched?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Rajasthan Chief Minister's Relief Fund was launched in April 1999."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Rajasthan Chief Minister's Relief Fund was launched in April 1999.\n"
+        },
+        {
+          "question": "What Is The Maximum Amount Of Financial Assistance Provided In Case Of \"Death Due To Accident\"?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In case of death due to an accident, ₹ 1,00,000 is provided to the dependent of the deceased."
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of death due to an accident, [?] 1,00,000 is provided to the dependent of the deceased.\n"
+        },
+        {
+          "question": "What Is The Maximum Amount Of Financial Assistance Provided In Case Of \"Serious Injury\"?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In case of serious injury, assistance should be approved up to ₹ 20,000, keeping in view the seriousness of the injury to the ordinary injured."
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of serious injury, assistance should be approved up to [?] 20,000, keeping in view the seriousness of the injury to the ordinary injured.\n"
+        },
+        {
+          "question": "What Is The Amount Of Revolving Fund That Has Been Made Available To The District Collectors Of Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A revolving fund of ₹20,00,000 each has been made available to all district collectors."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A revolving fund of [?]20,00,000 each has been made available to all district collectors.\n"
+        },
+        {
+          "question": "Is The Amount Of Financial Assistance Provided As A Lump Sum Or In Installments?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The assistance is \"one-time full-support\" and is provided as lumpsum."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The assistance is \"one-time full-support\" and is provided as lumpsum.\n"
+        },
+        {
+          "question": "Who Sanctions The Amount Of Financial Assistance?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The amount of financial assistance is sanctioned by the concerned District Collector."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount of financial assistance is sanctioned by the concerned District Collector.\n"
+        },
+        {
+          "question": "Where Can I Find The Link To The Scheme Guidelines?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme guidelines can be found at this link - https://jankalyan.rajasthan.gov.in/#/scheme/detail/435"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme guidelines can be found at this link - https://jankalyan.rajasthan.gov.in/#/scheme/detail/435\n"
+        },
+        {
+          "question": "How Can One Apply To This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To apply to this scheme, the letter requesting the assistance, along with the required self-attested documents must be sent to the Official Email ID of CMRF: cmrf.cmo@rajasthan.gov.in, or in person, to the concerned Tehsil/District Collector's Office, or to the Chief Accounts Officer (CAO), Room No. 301, Chief Minister's Office, Government Secretariat, Jaipur, Rajasthan - 302 005."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To apply to this scheme, the letter requesting the assistance, along with the required self-attested documents must be sent to the Official Email ID of CMRF: cmrf.cmo@rajasthan.gov.in, or in person, to the concerned Tehsil/District Collector's Office, or to the Chief Accounts Officer (CAO), Room No. 301, Chief Minister's Office, Government Secretariat, Jaipur, Rajasthan - 302 005.\n"
+        },
+        {
+          "question": "What Documents Are Required In Order To Apply To This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The following documents are required in order to apply to this scheme:\nApplication.\nMedical Report of the Injured (Mandatory).\nPost Mortem Report in Case of Death (Mandatory) or \nIn Case of Mutilation of the Dead Body, the Satisfaction Certificate of the Inquest Officer (Mandatory).\nFIR Report (Mandatory).\nRation Card.\nAadhaar Card. \nFirst Page of Bank Account Passbook / Canceled Check or Photocopy.\nIncome Certificate/Proof\nAddress Proof  (Ration Card)\nTreatment Estimate by the Doctor\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The following documents are required in order to apply to this scheme:\nApplication.\nMedical Report of the Injured (Mandatory).\nPost Mortem Report in Case of Death (Mandatory) or \nIn Case of Mutilation of the Dead Body, the Satisfaction Certificate of the Inquest Officer (Mandatory).\nFIR Report (Mandatory).\nRation Card.\nAadhaar Card. \nFirst Page of Bank Account Passbook / Canceled Check or Photocopy.\nIncome Certificate/Proof\nAddress Proof  (Ration Card)\nTreatment Estimate by the Doctor\n\n"
+        },
+        {
+          "question": "What Is The Official Email ID Of The Rajasthan Chief Minister's Relief Fund?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The official Email ID of the Rajasthan Chief Minister's Relief Fund is: cmrf.cmo@rajasthan.gov.in"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The official Email ID of the Rajasthan Chief Minister's Relief Fund is: cmrf.cmo@rajasthan.gov.in\n"
+        },
+        {
+          "question": "In What Case Is A Satisfaction Certificate Of The Inquest Officer Mandatory?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In case of mutilation of the dead body, the satisfaction certificate of the inquest officer is mandatory."
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of mutilation of the dead body, the satisfaction certificate of the inquest officer is mandatory.\n"
+        },
+        {
+          "question": "Is The FIR Report Mandatory In Order To Apply To This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the FIR Report is a mandatory document."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the FIR Report is a mandatory document.\n"
+        },
+        {
+          "question": "What Is The Address Of The Chief Accounts Officer (CAO) Of Govt. Of Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The address of the Chief Accounts Officer (CAO) is: Room No. 301, Chief Minister's Office, Government Secretariat, Jaipur, Rajasthan - 302 005."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The address of the Chief Accounts Officer (CAO) is: Room No. 301, Chief Minister's Office, Government Secretariat, Jaipur, Rajasthan - 302 005.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "राजस्थान के मुख्यमंत्री राहत कोष की शुरुआत कब हुई थी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के मुख्यमंत्री राहत कोष की शुरुआत अप्रैल 1999 में की गई थी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Rajasthan Chief Minister's Relief Fund was launched in April 1999.\n"
+        },
+        {
+          "question": "\"दुर्घटना के कारण मृत्यु\" के मामले में प्रदान की जाने वाली वित्तीय सहायता की अधिकतम राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "दुर्घटना के कारण मृत्यु के मामले में, मृतक के आश्रित को ₹ 1,00,000 प्रदान किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of death due to an accident, [?] 1,00,000 is provided to the dependent of the deceased.\n"
+        },
+        {
+          "question": "\"गंभीर चोट\" के मामले में प्रदान की जाने वाली वित्तीय सहायता की अधिकतम राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "गंभीर चोट के मामले में, सामान्य घायल की चोट की गंभीरता को ध्यान में रखते हुए, 20,000 रुपये तक की सहायता को मंजूरी दी जानी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of serious injury, assistance should be approved up to [?] 20,000, keeping in view the seriousness of the injury to the ordinary injured.\n"
+        },
+        {
+          "question": "राजस्थान के जिला कलेक्टरों को उपलब्ध कराई गई घूर्णन निधि की राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सभी जिला कलेक्टरों को प्रत्येक के लिए ₹ 20,00,000 की एक घूर्णन निधि उपलब्ध कराई गई है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A revolving fund of [?]20,00,000 each has been made available to all district collectors.\n"
+        },
+        {
+          "question": "क्या वित्तीय सहायता की राशि एकमुश्त राशि के रूप में प्रदान की जाती है या किश्तों में?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सहायता \"एक बार का पूर्ण समर्थन\" है और इसे एकमुश्त के रूप में प्रदान किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The assistance is \"one-time full-support\" and is provided as lumpsum.\n"
+        },
+        {
+          "question": "वित्तीय सहायता की राशि पर कौन प्रतिबंध लगाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वित्तीय सहायता की राशि संबंधित जिला कलेक्टर द्वारा स्वीकृत की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount of financial assistance is sanctioned by the concerned District Collector.\n"
+        },
+        {
+          "question": "मुझे योजना दिशानिर्देशों का लिंक कहाँ मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना के दिशा-निर्देश इस लिंक पर पाए जा सकते हैं-https://jankalyan.rajasthan.gov.in/#/scheme/detail/435"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme guidelines can be found at this link - https://jankalyan.rajasthan.gov.in/#/scheme/detail/435\n"
+        },
+        {
+          "question": "इस योजना के लिए कोई कैसे आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना में आवेदन करने के लिए, आवश्यक स्व-सत्यापित दस्तावेजों के साथ सहायता का अनुरोध करने वाले पत्र को सीएमआरएफ के आधिकारिक ईमेल आईडी पर भेजा जाना चाहिएः cmrf.cmo@rajasthan.gov.in, या व्यक्तिगत रूप से, संबंधित तहसील/जिला कलेक्टर कार्यालय, या मुख्य लेखा अधिकारी (सी. ए. ओ.), कमरा संख्या 301, मुख्यमंत्री कार्यालय, सरकारी सचिवालय, जयपुर, राजस्थान-303005 को।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To apply to this scheme, the letter requesting the assistance, along with the required self-attested documents must be sent to the Official Email ID of CMRF: cmrf.cmo@rajasthan.gov.in, or in person, to the concerned Tehsil/District Collector's Office, or to the Chief Accounts Officer (CAO), Room No. 301, Chief Minister's Office, Government Secretariat, Jaipur, Rajasthan - 302 005.\n"
+        },
+        {
+          "question": "इस योजना में आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना में आवेदन करने के लिए निम्नलिखित दस्तावेजों की आवश्यकता होती हैः घायल की चिकित्सा रिपोर्ट (अनिवार्य)। मृत्यु (अनिवार्य) या मृत शरीर के विच्छेदन के मामले में पोस्टमॉर्टम रिपोर्ट, पूछताछ अधिकारी (अनिवार्य) का संतुष्टि प्रमाण पत्र। एफ. आई. आर. रिपोर्ट (अनिवार्य)। राशन कार्ड। आधार कार्ड। बैंक खाता पासबुक का पहला पृष्ठ/रद्द चेक या फोटोकॉपी। आय प्रमाण पत्र/पते का प्रमाण प्रमाण (राशन कार्ड) डॉक्टर द्वारा उपचार का अनुमान"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The following documents are required in order to apply to this scheme:\nApplication.\nMedical Report of the Injured (Mandatory).\nPost Mortem Report in Case of Death (Mandatory) or \nIn Case of Mutilation of the Dead Body, the Satisfaction Certificate of the Inquest Officer (Mandatory).\nFIR Report (Mandatory).\nRation Card.\nAadhaar Card. \nFirst Page of Bank Account Passbook / Canceled Check or Photocopy.\nIncome Certificate/Proof\nAddress Proof  (Ration Card)\nTreatment Estimate by the Doctor\n\n"
+        },
+        {
+          "question": "राजस्थान के मुख्यमंत्री राहत कोष की आधिकारिक ईमेल आईडी क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के मुख्यमंत्री राहत कोष की आधिकारिक ईमेल आईडी हैः cmrf.cmo@rajasthan.gov.in"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The official Email ID of the Rajasthan Chief Minister's Relief Fund is: cmrf.cmo@rajasthan.gov.in\n"
+        },
+        {
+          "question": "किस मामले में पूछताछ अधिकारी का संतुष्टि प्रमाण पत्र अनिवार्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "शव को क्षत-विक्षत करने के मामले में जांच अधिकारी का संतुष्टि प्रमाण पत्र अनिवार्य है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case of mutilation of the dead body, the satisfaction certificate of the inquest officer is mandatory.\n"
+        },
+        {
+          "question": "क्या इस योजना में आवेदन करने के लिए एफ. आई. आर. रिपोर्ट अनिवार्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, एफ. आई. आर. रिपोर्ट एक अनिवार्य दस्तावेज है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the FIR Report is a mandatory document.\n"
+        },
+        {
+          "question": "सरकार के मुख्य लेखा अधिकारी (सी. ए. ओ.) का पता क्या है? राजस्थान का?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मुख्य लेखा अधिकारी (सी. ए. ओ.) का पता हैः कमरा संख्या 301, मुख्यमंत्री कार्यालय, सरकारी सचिवालय, जयपुर, राजस्थान-303005।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The address of the Chief Accounts Officer (CAO) is: Room No. 301, Chief Minister's Office, Government Secretariat, Jaipur, Rajasthan - 302 005.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1530 @@
+{
+  "scheme_id": "65e034ac938a0b13cc9b5b2e",
+  "slug": "ignvpyrr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Pension",
+        "Women",
+        "Widow"
+      ],
+      "schemeName": "Indira Gandhi National Vidhva Pension yojana",
+      "schemeShortTitle": "IGNVPYRR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "Pension"
+        }
+      ],
+      "schemeOpenDate": "2009-10-07",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/109"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Indira Gandhi National Vidhva Pension Yojana (IGNWPS)” Started On 7-10-2009 under the Social Justice and Empowerment Department, Government. of Rajasthan. Under this scheme, financial support is provided to the widows of the state of Rajasthan. A widow whose household is below the poverty line is eligible to get the benefits of the pension scheme. The beneficiary receives a monthly pension amount consisting of the Central and State governments&amp;#39; share.\n",
+      "benefits_md": "\n- Women who are more than 40 to less than 75 years old monthly pension of ₹ 1000/-.\n- Women who are more than 75 years old monthly pension of ₹ 1500/-.\n\n",
+      "briefDescription": "In the Indira Gandhi National Vidhva Pension Yojana (IGNWPS), financial support is provided to the widows of the state of Rajasthan.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Indira Gandhi National Vidhva Pension Yojana (IGNWPS)” Started On 7-10-2009 under the Social Justice and Empowerment Department, Government. of Rajasthan. Under this scheme, financial support is provided to the widows of the state of Rajasthan. A widow whose household is below the poverty line is eligible to get the benefits of the pension scheme. The beneficiary receives a monthly pension amount consisting of the Central and State governments' share."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women who are more than 40 to less than 75 years old monthly pension of ₹ 1000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women who are more than 75 years old monthly pension of ₹ 1500/-."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “IFMS-RAJSSP\" option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Select \"Continue to RajSSP\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes,and click on the name of \"Yojana\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out all relevant details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “IFMS-RAJSSP&quot; option.\n**Step-4:** Select &quot;Continue to RajSSP&quot;. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes,and click on the name of &quot;Yojana&quot;\n**Step-7:** Fill out all relevant details. \n**Step-8:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should have a domicile in the state of Rajasthan.\n1. The applicant should be from a Below Poverty Line (BPL) family.\n1. The application should be aged 40 years.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have a domicile in the state of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be from a Below Poverty Line (BPL) family."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The application should be aged 40 years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "पेंशन",
+        "महिलाएँ",
+        "विधवा"
+      ],
+      "schemeName": "इंदिरा गांधी राष्ट्रीय विधव पेंशन योजना",
+      "schemeShortTitle": "IGNVPYRR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "पेंशन"
+        }
+      ],
+      "schemeOpenDate": "2009-10-07",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/109"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "\"इंदिरा गांधी राष्ट्रीय विधव पेंशन योजना (आई. जी. एन. डब्ल्यू. पी. एस.)\" योजना सामाजिक न्याय और अधिकारिता विभाग, सरकार के तहत 7-10-2009 पर शुरू हुई। राजस्थान से। इस योजना के तहत राजस्थान राज्य की विधवाओं को वित्तीय सहायता प्रदान की जाती है। एक विधवा जिसका परिवार गरीबी रेखा से नीचे है, वह पेंशन योजना का लाभ प्राप्त करने की पात्र है। लाभार्थी को एक मासिक पेंशन राशि प्राप्त होती है जिसमें केंद्र और राज्य सरकारों का हिस्सा होता है।",
+      "benefits_md": "- जिन महिलाओं की आयु 40 वर्ष से अधिक और 75 वर्ष से कम है, उनकी मासिक पेंशन 1000/- है",
+      "briefDescription": "इंदिरा गांधी राष्ट्रीय विधव पेंशन योजना (आई. जी. एन. डब्ल्यू. पी. एस.) में राजस्थान राज्य की विधवाओं को वित्तीय सहायता प्रदान की जाती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"इंदिरा गांधी राष्ट्रीय विधव पेंशन योजना (आई. जी. एन. डब्ल्यू. पी. एस.)\" योजना की शुरुआत राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग के तहत आई. डी. 1 पर की गई थी। इस योजना के तहत राजस्थान राज्य की विधवाओं को वित्तीय सहायता प्रदान की जाती है। एक विधवा जिसका परिवार गरीबी रेखा से नीचे है, वह पेंशन योजना का लाभ प्राप्त करने की पात्र है। लाभार्थी को मासिक पेंशन राशि मिलती है जिसमें केंद्र और राज्य सरकारों का हिस्सा होता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "40 वर्ष से अधिक और 75 वर्ष से कम आयु की महिलाओं को ₹1000/- की मासिक पेंशन मिलती है"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "75 वर्ष से अधिक आयु की महिलाएँ ₹1500/- की मासिक पेंशन प्राप्त करती हैं"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"राजएसएसपी को जारी रखें\" चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पेज पर सभी योजनाओं के नामों की सूची मिलेगी और \"योजना\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण-3: * * 'आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी.' विकल्प पर क्लिक करें। * * चरण-4: * * 'राजएसएसपी' को जारी रखें 'का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, सभी योजनाओं के नामों की एक सूची मिलेगी, और 'योजना' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 40,
+          "lte": 100
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक का राजस्थान राज्य में अधिवास होना चाहिए। 1. आवेदक गरीबी रेखा से नीचे (बी. पी. एल.) परिवार से होना चाहिए। 1. आवेदन की आयु 40 वर्ष होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक का राजस्थान राज्य में अधिवास होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक गरीबी रेखा से नीचे (बी. पी. एल.) परिवार से होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदन की आयु 40 वर्ष होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "isBpl": "Yes",
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "value": "widowed",
+          "label": "Widowed"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 40,
+        "lte": 100
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक का राजस्थान राज्य में अधिवास होना चाहिए। 1. आवेदक गरीबी रेखा से नीचे (बी. पी. एल.) परिवार से होना चाहिए। 1. आवेदन की आयु 40 वर्ष होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक का राजस्थान राज्य में अधिवास होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक गरीबी रेखा से नीचे (बी. पी. एल.) परिवार से होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदन की आयु 40 वर्ष होनी चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "isBpl": "Yes",
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "value": "widowed",
+        "label": "Widowed"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Photos of applicant. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Husband's death certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "B.P.L. card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate to confirm age."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Photos of applicant. \n1. Husband&#39;s death certificate.\n1. B.P.L. card.\n1. Certificate to confirm age.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की तस्वीरें।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पति का मृत्यु प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बी. पी. एल. कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयु की पुष्टि करने के लिए प्रमाण पत्र।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Photos of applicant. \n1. Husband&#39;s death certificate.\n1. B.P.L. card.\n1. Certificate to confirm age.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Indira Gandhi National Widow Pension Scheme by the Government of India provides financial assistance to widows living below the poverty line."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Indira Gandhi National Widow Pension Scheme by the Government of India provides financial assistance to widows living below the poverty line.\n"
+        },
+        {
+          "question": "Who is eligible to benefit from the Indira Gandhi National Widow Pension Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Widows belonging to economically vulnerable households, often identified based on their Below Poverty Line (BPL) status, are eligible to receive benefits under this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Widows belonging to economically vulnerable households, often identified based on their Below Poverty Line (BPL) status, are eligible to receive benefits under this scheme.\n"
+        },
+        {
+          "question": "What is the amount of pension provided ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Amount of pension provided Rs 1000 to Rs1500."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Amount of pension provided Rs 1000 to Rs1500.\n"
+        },
+        {
+          "question": "Is there any age restriction for widows to avail benefits under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Widow applicants of more than 40 years are eligible to receive pension benefits under this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Widow applicants of more than 40 years are eligible to receive pension benefits under this scheme.\n"
+        },
+        {
+          "question": "Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Fees for Indira Gandhi National Widow Pension Scheme is Rs. 33/- . Payment of fees can be done through E-Mitra."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Fees for Indira Gandhi National Widow Pension Scheme is Rs. 33/- . Payment of fees can be done through E-Mitra.\n"
+        },
+        {
+          "question": "May other state person apply for the scheme benefits?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No. only Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No. only Rajasthan.\n"
+        },
+        {
+          "question": "What is Bhamashah Card ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account.\n\n"
+        },
+        {
+          "question": "What is \"IFSC code\"?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India.\n"
+        },
+        {
+          "question": "What is DBT?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries. \n"
+        },
+        {
+          "question": "Is this scheme for Urban area?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Urban and Rural Both."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Urban and Rural Both.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "भारत सरकार की इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना गरीबी रेखा से नीचे रहने वाली विधवाओं को वित्तीय सहायता प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Indira Gandhi National Widow Pension Scheme by the Government of India provides financial assistance to widows living below the poverty line.\n"
+        },
+        {
+          "question": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना से कौन लाभान्वित हो सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आर्थिक रूप से कमजोर परिवारों से संबंधित विधवाएँ, जिनकी पहचान अक्सर गरीबी रेखा (बी. पी. एल.) से नीचे की स्थिति के आधार पर की जाती है, इस योजना के तहत लाभ प्राप्त करने के पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Widows belonging to economically vulnerable households, often identified based on their Below Poverty Line (BPL) status, are eligible to receive benefits under this scheme.\n"
+        },
+        {
+          "question": "पेंशन की कितनी राशि प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पेंशन की राशि 1000 रुपये से 1500 रुपये तक प्रदान की गई।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Amount of pension provided Rs 1000 to Rs1500.\n"
+        },
+        {
+          "question": "क्या विधवाओं के लिए इस योजना का लाभ उठाने के लिए कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "40 वर्ष से अधिक आयु के विधवा आवेदक इस योजना के तहत पेंशन लाभ प्राप्त करने के पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Widow applicants of more than 40 years are eligible to receive pension benefits under this scheme.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना के लिए शुल्क रु। 33/-। शुल्क का भुगतान ई-मित्र के माध्यम से किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Fees for Indira Gandhi National Widow Pension Scheme is Rs. 33/- . Payment of fees can be done through E-Mitra.\n"
+        },
+        {
+          "question": "क्या राज्य का कोई अन्य व्यक्ति इस योजना के लाभों के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नं. केवल राजस्थान।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No. only Rajasthan.\n"
+        },
+        {
+          "question": "भामाशाह कार्ड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना द्वारा प्रदान किया गया भामाशाह कार्ड गृहिणी के नाम के बैंक खाते से जुड़ा होता है। कार्ड महिलाओं को बायोमेट्रिक पहचान और मुख्य बैंकिंग कार्यों के साथ-साथ विभिन्न प्रकार के नकद लाभ भी प्रदान करता है जो सीधे उनके बैंक खाते में स्थानांतरित किए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account.\n\n"
+        },
+        {
+          "question": "आईएफएससी कोड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आईएफएससी कोड विशिष्ट रूप से भारत में इलेक्ट्रॉनिक निधि हस्तांतरण प्रणालियों में भाग लेने वाली एक विशिष्ट बैंक शाखा की पहचान करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India.\n"
+        },
+        {
+          "question": "डी. बी. टी. क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डी. बी. टी. का अर्थ है प्रत्यक्ष लाभ हस्तांतरण। यह सरकारों द्वारा वित्तीय सहायता या सब्सिडी को सीधे लाभार्थियों के बैंक खातों में हस्तांतरित करने के लिए उपयोग की जाने वाली एक प्रणाली है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries. \n"
+        },
+        {
+          "question": "क्या यह योजना शहरी क्षेत्र के लिए है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "शहरी और ग्रामीण दोनों।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Urban and Rural Both.\n"
+        }
+      ]
+    }
+  }
+}

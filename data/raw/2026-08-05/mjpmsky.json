@@ -1,0 +1,2372 @@
+{
+  "scheme_id": "660ebfe7d7abbe47ee1e5d8e",
+  "slug": "mjpmsky",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Agriculture",
+        "Financial Support"
+      ],
+      "schemeName": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana ",
+      "schemeShortTitle": "MJPMSKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Agriculture Department of the Rajasthan Government is pleased to announce the Mahatma Jyotiba Phule Mandi Shramik Kalyan Yojana. This program is designed to enhance the lives of mandi workers within the state. The Yojana offers a comprehensive suite of benefits, including healthcare services with a focus on medical insurance coverage.  Furthermore, the program extends financial assistance to aid mandi workers with matrimonial endeavors.  In the event of a medical condition, the Yojana can facilitate access to appropriate treatment facilities, ensuring workers receive the necessary care.\n",
+      "benefits_md": "> **Obstetric Support:**\n\n\n- For a maximum of two deliveries, the female license holder Hammal and Palledar are entitled to be paid assistance equivalent to 45 days&#39; wages as per the prevailing wage rate determined by the state government as an unskilled labourer.\n- As paternity leave, an amount equivalent to 15 days wages is payable to the Hammal/Tulara/Palledar father of the child as per the prevailing wage rate determined by the State Government as an unskilled laborer.\n\n> **Help for marriage:**\n\n\n- To the extent of the marriage of a licensed woman and two daughters of a licensed woman, ₹ 50,000/-per marriage assistance is payable. \n- Application has to be submitted in the format prescribed by the concerned licensee 90 days before the marriage.\n\n<br>\n\n> **Scholarship / Meritorious Student Award Scheme**\n\n\n- Every student who gets first-division marks and whose guardian is a licensed Hammal or Palledar in Mandi is given a merit scholarship at the following rate:-\n\nClassMale StudentFemale StudentHigher grades (70% to 80%) in the 10th ₹3,000/- to ₹2,000/-₹3,500/-to ₹2,500/-lump sum per studentHigher scores in the 12th Between 80% to 90% between 70% to 80%₹5,000/-,₹4,000/-,₹3,000/-₹6,000/-,₹5,000/-,₹4,000/-lump sum per studentMore than 60% marks in graduation₹4,000/-₹5,000/-lump sum per studentMore than 60% marks in post-graduation₹3,000/-₹4,000/-lump sum per student<br>\n\n\n- **This award is payable as soon as possible within three months of establishing eligibility.**\n\n> **Medical Aid:-**\n\n\n- Reimbursement of medical expenditures up to a maximum of ₹20,000/-is permitted if a licensed Hammaal or Pulladar becomes gravely ill (due to cancer, heart attack, liver, kidney, etc.) and is admitted to a government hospital or health center.\n\n",
+      "briefDescription": "The Agriculture Department of Rajasthan runs the Mahatma Jyotiba Phule Mandi Shramik Kalyan Yojana, a program that offers a range of assistance programs to improve the well-being of mandi laborers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Agriculture Department of the Rajasthan Government is pleased to announce the Mahatma Jyotiba Phule Mandi Shramik Kalyan Yojana. This program is designed to enhance the lives of mandi workers within the state. The Yojana offers a comprehensive suite of benefits, including healthcare services with a focus on medical insurance coverage.  Furthermore, the program extends financial assistance to aid mandi workers with matrimonial endeavors.  In the event of a medical condition, the Yojana can facilitate access to appropriate treatment facilities, ensuring workers receive the necessary care."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Obstetric Support:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For a maximum of two deliveries, the female license holder Hammal and Palledar are entitled to be paid assistance equivalent to 45 days' wages as per the prevailing wage rate determined by the state government as an unskilled labourer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "As paternity leave, an amount equivalent to 15 days wages is payable to the Hammal/Tulara/Palledar father of the child as per the prevailing wage rate determined by the State Government as an unskilled laborer."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Help for marriage:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To the extent of the marriage of a licensed woman and two daughters of a licensed woman, ₹ 50,000/-per marriage assistance is payable. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Application has to be submitted in the format prescribed by the concerned licensee 90 days before the marriage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Scholarship / Meritorious Student Award Scheme",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Every student who gets first-division marks and whose guardian is a licensed Hammal or Palledar in Mandi is given a merit scholarship at the following rate:-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Male Student"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Female Student"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Higher grades (70% to 80%) in the 10th "
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,000/- to ₹2,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,500/-to ₹2,500/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "lump sum per student"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Higher scores in the 12th Between 80% to 90% between 70% to 80%"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹5,000/-,₹4,000/-,₹3,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹6,000/-,₹5,000/-,₹4,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "lump sum per student"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "More than 60% marks in graduation"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹5,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "lump sum per student"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "More than 60% marks in post-graduation"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "lump sum per student"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "This award is payable as soon as possible within three months of establishing eligibility."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Medical Aid:-",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reimbursement of medical expenditures up to a maximum of ₹20,000/-is permitted if a licensed Hammaal or Pulladar becomes gravely ill (due to cancer, heart attack, liver, kidney, etc.) and is admitted to a government hospital or health center."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Complete the registration process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "dashboard "
+                  }
+                ]
+              },
+              {
+                "text": "will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “ RAJ-KISAN ” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"Citizen\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on Get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5:** Complete the registration process.\n<br>\n\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Citizen&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be Farmers/agricultural laborers of the Rajasthan.\n1. The applicant workers hold licenses from the market committee.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be Farmers/agricultural laborers of the Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant workers hold licenses from the market committee."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "किसान",
+        "कृषि",
+        "वित्तीय सहायता"
+      ],
+      "schemeName": "महात्मा ज्योतिबा फुले मंडी श्रमिक कल्याण योजना",
+      "schemeShortTitle": "MJPMSKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "कृषि विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के कृषि विभाग को महात्मा ज्योतिबा फुले मंडी श्रमिक कल्याण योजना की घोषणा करते हुए खुशी हो रही है। यह कार्यक्रम राज्य के भीतर मंडी श्रमिकों के जीवन को बेहतर बनाने के लिए बनाया गया है। यह योजना चिकित्सा बीमा कवरेज पर ध्यान केंद्रित करते हुए स्वास्थ्य सेवाओं सहित कई व्यापक लाभ प्रदान करती है। इसके अलावा, यह कार्यक्रम वैवाहिक प्रयासों के साथ मंडी श्रमिकों की सहायता के लिए वित्तीय सहायता प्रदान करता है। चिकित्सा स्थिति की स्थिति में, यह योजना उचित उपचार सुविधाओं तक पहुंच की सुविधा प्रदान कर सकती है, यह सुनिश्चित करते हुए कि श्रमिकों को आवश्यक देखभाल प्राप्त हो।",
+      "benefits_md": "> * * प्रसूति समर्थनः * *-अधिकतम दो प्रसवों के लिए, महिला लाइसेंस धारक हम्माल और पलदार 45 दिनों के बराबर भुगतान सहायता के हकदार हैं। एक अकुशल मजदूर के रूप में राज्य सरकार द्वारा निर्धारित प्रचलित मजदूरी दर के अनुसार मजदूरी।-पितृत्व अवकाश के रूप में, राज्य सरकार द्वारा एक अकुशल मजदूर के रूप में निर्धारित प्रचलित मजदूरी दर के अनुसार बच्चे के हम्मल/तुलारा/पलदार पिता को 15 दिनों की मजदूरी के बराबर राशि का भुगतान किया जाता है। * *-एक लाइसेंस प्राप्त महिला और एक लाइसेंस प्राप्त महिला की दो बेटियों के विवाह की सीमा तक, प्रति विवाह सहायता ₹50,000/- देय है।-विवाह से 90 दिन पहले संबंधित लाइसेंसधारी द्वारा निर्धारित प्रारूप में आवेदन जमा करना होगा। छात्रवृत्ति/मेधावी छात्र पुरस्कार योजना * *-प्रत्येक छात्र जो प्रथम श्रेणी के अंक प्राप्त करता है और जिसका अभिभावक मंडी में लाइसेंस प्राप्त हम्माल या पलदार है, उसे निम्नलिखित दर पर योग्यता छात्रवृत्ति दी जाती हैः - कक्षा पुरुष छात्र महिला छात्र 10वीं में उच्च ग्रेड (70 प्रतिशत से 80 प्रतिशत) प्रति छात्र ₹3,000/- से ₹2,000/- से ₹2,500/- से ₹2,500/- एकमुश्त राशि 12वीं में उच्च अंक 80 प्रतिशत से 90 प्रतिशत के बीच 70 प्रतिशत से 80 प्रतिशत के बीच ₹5,000/-, ₹4,000/-, ₹3,000/-, ₹6,000/-, ₹5,000/-, ₹4,000/- एकमुश्त राशि प्रति छात्र स्नातक में 60 प्रतिशत से अधिक अंक प्रति छात्र ₹4,000/- ₹5,000/- एकमुश्त राशि स्नातकोत्तर में 60 प्रतिशत से अधिक अंक प्रति छात्र ₹3,000/- ₹4,000/- एकमुश्त राशि - * *-अधिकतम ₹20,000/- तक के चिकित्सा व्यय की प्रतिपूर्ति की अनुमति है यदि कोई लाइसेंस प्राप्त हम्माल या पुल्लादर गंभीर रूप से बीमार हो जाता है (कैंसर, दिल का दौरा, यकृत, गुर्दा, आदि के कारण) और उसे सरकारी अस्पताल या स्वास्थ्य केंद्र में भर्ती कराया जाता है।",
+      "briefDescription": "राजस्थान का कृषि विभाग महात्मा ज्योतिबा फुले मंडी श्रमिक कल्याण योजना चलाता है, जो एक ऐसा कार्यक्रम है जो मंडी मजदूरों की भलाई में सुधार के लिए कई सहायता कार्यक्रम प्रदान करता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के कृषि विभाग को महात्मा ज्योतिबा फुले मंडी श्रमिक कल्याण योजना की घोषणा करते हुए खुशी हो रही है। यह कार्यक्रम राज्य के भीतर मंडी श्रमिकों के जीवन को बेहतर बनाने के लिए बनाया गया है। यह योजना चिकित्सा बीमा कवरेज पर ध्यान केंद्रित करते हुए स्वास्थ्य सेवाओं सहित कई व्यापक लाभ प्रदान करती है। इसके अलावा, यह कार्यक्रम वैवाहिक प्रयासों के साथ मंडी श्रमिकों की सहायता के लिए वित्तीय सहायता प्रदान करता है। चिकित्सा स्थिति की स्थिति में, यह योजना उचित उपचार सुविधाओं तक पहुंच की सुविधा प्रदान कर सकती है, यह सुनिश्चित करते हुए कि श्रमिकों को आवश्यक देखभाल प्राप्त हो।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "प्रसूति समर्थनः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकतम दो प्रसवों के लिए, महिला लाइसेंस धारक हम्माल और पलदार एक अकुशल मजदूर के रूप में राज्य सरकार द्वारा निर्धारित प्रचलित मजदूरी दर के अनुसार 45 दिनों के वेतन के बराबर सहायता का भुगतान करने के हकदार हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पितृत्व अवकाश के रूप में, राज्य सरकार द्वारा एक अकुशल मजदूर के रूप में निर्धारित प्रचलित मजदूरी दर के अनुसार बच्चे के पिता हम्मल/तुलारा/पलदार को 15 दिनों की मजदूरी के बराबर राशि का भुगतान किया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "शादी के लिए मददः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक लाइसेंस प्राप्त महिला और एक लाइसेंस प्राप्त महिला की दो बेटियों के विवाह की सीमा तक, प्रति विवाह सहायता ₹50,000/- देय है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदन संबंधित लाइसेंसधारी द्वारा निर्धारित प्रारूप में विवाह से 90 दिन पहले जमा करना होगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "छात्रवृत्ति/मेधावी छात्र पुरस्कार योजना",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रत्येक छात्र जो प्रथम श्रेणी के अंक प्राप्त करता है और जिसका अभिभावक मंडी में लाइसेंस प्राप्त हम्माल या पलदार है, उसे निम्नलिखित दर पर योग्यता छात्रवृत्ति दी जाती हैः -"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "वर्ग"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पुरुष छात्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "महिला छात्रा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में उच्च ग्रेड (70 प्रतिशत से 80 प्रतिशत)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,000/- से ₹2,000/- तक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,500/- से ₹2,500/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रति छात्र एकमुश्त राशि"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "12वीं में उच्च अंक 80 से 90 प्रतिशत के बीच 70 से 80 प्रतिशत के बीच"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 5,000/-, ₹ 4,000/-, ₹ 3,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 6,000/-, ₹ 5,000/-, ₹ 4,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रति छात्र एकमुश्त राशि"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातक में 60 प्रतिशत से अधिक अंक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹5,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रति छात्र एकमुश्त राशि"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातकोत्तर में 60 प्रतिशत से अधिक अंक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रति छात्र एकमुश्त राशि"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "यह पुरस्कार पात्रता स्थापित करने के तीन महीने के भीतर जल्द से जल्द देय है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "चिकित्सकीय मददः -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि कोई लाइसेंस प्राप्त हम्माल या पुल्लादर गंभीर रूप से बीमार हो जाता है (कैंसर, दिल का दौरा, यकृत, गुर्दा, आदि के कारण) और उसे सरकारी अस्पताल या स्वास्थ्य केंद्र में भर्ती कराया जाता है तो अधिकतम 20,000 रुपये तक के चिकित्सा व्यय की प्रतिपूर्ति की अनुमति है।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "पंजीकरण प्रक्रिया को पूरा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉगइन करने के बाद,"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "डैशबोर्ड"
+                  }
+                ]
+              },
+              {
+                "text": "खुलेंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"राज-किसान\" विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"नागरिक\" में, \"आवेदन प्रविष्टि अनुरोध\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "\"भामाशाह आईडी\" या \"जनाधार आईडी\" दर्ज करें और खोजें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "व्यक्ति का नाम और योजना का नाम चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "आवश्यक विवरण प्रदान करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पेंशनभोगी विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बैंक विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- विकलांगता विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- सत्यापन विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। चरण-5: पंजीकरण प्रक्रिया को पूरा करें। आवेदन करें * * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * लॉग इन करने के बाद, [डैशबोर्ड] (https://sso.rajasthan.gov.in/dashboard) खुल जाएगा। * * चरण-3: * * \"राज-किसान\" विकल्प पर क्लिक करें। * * चरण-4: 'नागरिक' में 'आवेदन प्रविष्टि अनुरोध' पर क्लिक करें। * * चरण-5: 'भामाशाह आईडी' या 'जनाधार आईडी' दर्ज करें और खोजें। * * चरण-6: * * व्यक्ति का नाम और योजना का नाम चुनें। * * चरण-7: * * आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें। * * चरण-8: * * आवश्यक विवरण प्रदान करें। - पेंशनभोगी विवरण। - बैंक विवरण। - विकलांगता विवरण। - सत्यापन विवरण। - दस्तावेज़ अपलोड करें। * * चरण-9: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का किसान/कृषि मजदूर होना चाहिए। 1. आवेदक श्रमिकों के पास बाजार समिति से लाइसेंस होते हैं।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का किसान/कृषि मजदूर होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक श्रमिकों के पास बाजार समिति से लाइसेंस होते हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का किसान/कृषि मजदूर होना चाहिए। 1. आवेदक श्रमिकों के पास बाजार समिति से लाइसेंस होते हैं।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का किसान/कृषि मजदूर होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक श्रमिकों के पास बाजार समिति से लाइसेंस होते हैं।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card / Janadhar Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mark sheet."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Age proof."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Medical certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Photos."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card / Janadhar Card.\n1. Mark sheet.\n1. Age proof.\n1. Medical certificate.\n1. Bank account.\n1. Photos.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड/जनाधार कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मार्कशीट।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उम्र का प्रमाण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "चिकित्सा प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाता।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "तस्वीरें."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card / Janadhar Card.\n1. Mark sheet.\n1. Age proof.\n1. Medical certificate.\n1. Bank account.\n1. Photos.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the Mahatma Jyotiba Phule Mandi Shramik Kalyaan Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Mahatma Jyotiba Phule Mandi Shramik Kalyaan Yojana is a welfare scheme aimed at improving the lives of laborers working in agricultural produce markets (mandis)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Mahatma Jyotiba Phule Mandi Shramik Kalyaan Yojana is a welfare scheme aimed at improving the lives of laborers working in agricultural produce markets (mandis).\n"
+        },
+        {
+          "question": "May Other State persons also apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scheme is only for Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is only for Rajasthan.\n"
+        },
+        {
+          "question": "What is Janadhar card?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Jan Aadhaar is \"one number, one card, one identity\" scheme, Its main objective is to prepare a. database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Jan Aadhaar is \"one number, one card, one identity\" scheme, Its main objective is to prepare a. database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members.\n"
+        },
+        {
+          "question": "How do a applicant know if a field in the application form is mandatory?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A distinctive sign (“*” symbol, “mandatory” mention, etc.)"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A distinctive sign (\"*\" symbol, \"mandatory\" mention, etc.)\n"
+        },
+        {
+          "question": "How can i apply online?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "One can apply by visiting the e-Mitra center. https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "One can apply by visiting the e-Mitra center. https://sso.rajasthan.gov.in/signin\n"
+        },
+        {
+          "question": "Are there specific eligibility criteria for beneficiaries?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, eligibility criteria may include holding a valid mandi license or being a registered mandi laborer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, eligibility criteria may include holding a valid mandi license or being a registered mandi laborer.\n"
+        },
+        {
+          "question": "Who is the target audience of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme targets laborers working in mandis."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme targets laborers working in mandis.\n"
+        },
+        {
+          "question": "How many times can this scheme be availed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only ones."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only ones.\n"
+        },
+        {
+          "question": "What benefits do female license holders and their daughters receive?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "They receive financial assistance of Rs. 50,000 per marriage, upon application submission 90 days before the wedding."
+                }
+              ]
+            }
+          ],
+          "answer_md": "They receive financial assistance of Rs. 50,000 per marriage, upon application submission 90 days before the wedding.\n"
+        },
+        {
+          "question": "Can i apply offline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "According to the guidelines you can apply online only."
+                }
+              ]
+            }
+          ],
+          "answer_md": "According to the guidelines you can apply online only.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "महात्मा ज्योतिबा फुले मंडी श्रमिक कल्याण योजना क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "महात्मा ज्योतिबा फुले मंडी श्रमिक कल्याण योजना एक कल्याणकारी योजना है जिसका उद्देश्य कृषि उपज बाजारों (मंडियों) में काम करने वाले मजदूरों के जीवन में सुधार करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Mahatma Jyotiba Phule Mandi Shramik Kalyaan Yojana is a welfare scheme aimed at improving the lives of laborers working in agricultural produce markets (mandis).\n"
+        },
+        {
+          "question": "क्या राज्य के अन्य व्यक्ति भी इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना केवल राजस्थान के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is only for Rajasthan.\n"
+        },
+        {
+          "question": "जनाधार कार्ड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जन आधार \"एक संख्या, एक कार्ड, एक पहचान\" योजना है, इसका मुख्य उद्देश्य राज्य के निवासी परिवारों की जनसांख्यिकीय और सामाजिक-आर्थिक जानकारी का डेटाबेस तैयार करना और जन आधार कार्ड के माध्यम से परिवार और उसके सदस्यों की पहचान तैयार करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Jan Aadhaar is \"one number, one card, one identity\" scheme, Its main objective is to prepare a. database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members.\n"
+        },
+        {
+          "question": "एक आवेदक को कैसे पता चलेगा कि आवेदन पत्र में एक क्षेत्र अनिवार्य है या नहीं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक विशिष्ट चिन्ह (\"*\" प्रतीक, \"अनिवार्य\" उल्लेख, आदि)"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A distinctive sign (\"*\" symbol, \"mandatory\" mention, etc.)\n"
+        },
+        {
+          "question": "मैं ऑनलाइन आवेदन कैसे कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ई-मित्र केंद्र पर जाकर आवेदन किया जा सकता है। //एस. एस. ओ. राजस्थान. जी. वी. इन/साइन इन"
+                }
+              ]
+            }
+          ],
+          "answer_md": "One can apply by visiting the e-Mitra center. https://sso.rajasthan.gov.in/signin\n"
+        },
+        {
+          "question": "क्या लाभार्थियों के लिए कोई विशिष्ट पात्रता मानदंड हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, पात्रता मानदंड में एक वैध मंडी लाइसेंस रखना या एक पंजीकृत मंडी मजदूर होना शामिल हो सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, eligibility criteria may include holding a valid mandi license or being a registered mandi laborer.\n"
+        },
+        {
+          "question": "इस योजना के लक्षित दर्शक कौन हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना मंडियों में काम करने वाले मजदूरों को लक्षित करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme targets laborers working in mandis.\n"
+        },
+        {
+          "question": "इस योजना का लाभ कितनी बार उठाया जा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल एक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only ones.\n"
+        },
+        {
+          "question": "महिला लाइसेंस धारकों और उनकी बेटियों को क्या लाभ मिलते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उन्हें एक लाख रुपये की वित्तीय सहायता मिलती है। शादी से 90 दिन पहले आवेदन जमा करने पर प्रति शादी 50,000।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "They receive financial assistance of Rs. 50,000 per marriage, upon application submission 90 days before the wedding.\n"
+        },
+        {
+          "question": "क्या मैं ऑफ़लाइन आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "दिशानिर्देशों के अनुसार आप केवल ऑनलाइन आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "According to the guidelines you can apply online only.\n"
+        }
+      ]
+    }
+  }
+}

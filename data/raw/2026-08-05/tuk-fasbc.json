@@ -1,0 +1,1272 @@
+{
+  "scheme_id": "67bafca40117797439f1ffa0",
+  "slug": "tuk-fasbc",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Transgender",
+        "Pre-Matric",
+        "Student"
+      ],
+      "schemeName": "Transgender Utthan Kosh - Financial Assistance for Studying Bisexual Children",
+      "schemeShortTitle": "TUK-FASBC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110051259226370.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Transgender Utthan Kosh - Financial Assistance for Studying Bisexual Children&amp;quot; was implemented by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide financial assistance for education and upliftment of transgender individuals. Under this scheme, transgender students from class 6th and higher classes receive a monthly stipend to cover accommodation and daily expenses if they live away from their homes for education.\n",
+      "benefits_md": "\n- Financial assistance of ₹6,000/- per month for up to 12 months to support transgender students living away from their homes for education.\n\n**NOTE:**\n\n- Assistance is provided directly to the student&#39;s bank account.\n- Students must submit a rental receipt each month to continue receiving assistance.\n\n",
+      "briefDescription": "The scheme objective is to provide financial assistance of ₹6,000 per month for up to 12 months to transgender students from Class 6 and above for accommodation and daily needs if they live away from their homes for education.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Transgender Utthan Kosh - Financial Assistance for Studying Bisexual Children\" was implemented by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide financial assistance for education and upliftment of transgender individuals. Under this scheme, transgender students from class 6th and higher classes receive a monthly stipend to cover accommodation and daily expenses if they live away from their homes for education."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹6,000/- per month for up to 12 months to support transgender students living away from their homes for education."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance is provided directly to the student's bank account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Students must submit a rental receipt each month to continue receiving assistance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the concerned Educational Institution and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the Educational Institution."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the Educational Institution to whom the application has been submitted."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The concerned institution will forward the application form along with the recommendation to the district office of the Social Justice and Empowerment Department."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The District Office, Social Justice and Empowerment Department will examine the received application form within a month and issue offline approval and transfer the amount to the applicant's bank account every month."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the concerned Educational Institution and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in application.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Educational Institution.\n**Step 4:** Request a receipt or acknowledgment from the Educational Institution to whom the application has been submitted.\n**Step 5:** The concerned institution will forward the application form along with the recommendation to the district office of the Social Justice and Empowerment Department.\n**Step 6:** The District Office, Social Justice and Empowerment Department will examine the received application form within a month and issue offline approval and transfer the amount to the applicant&amp;#39;s bank account every month.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should belong to transgender community. \n1. The applicant should be studying in class 6th or higher class.\n1. The applicant should be residing away from their home for study purpose.\n1. The gross annual income of applicant should be up to ₹8.00 lakh.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to transgender community. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying in class 6th or higher class."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be residing away from their home for study purpose."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The gross annual income of applicant should be up to ₹8.00 lakh."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "ट्रांसजेंडर",
+        "प्री-मैट्रिक",
+        "विद्यार्थी"
+      ],
+      "schemeName": "ट्रांसजेंडर उत्थान कोष-उभयलिंगी बच्चों के अध्ययन के लिए वित्तीय सहायता",
+      "schemeShortTitle": "TUK-FASBC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110051259226370.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "ट्रांसजेंडर उत्थान कोष-उभयलिंगी बच्चों के अध्ययन के लिए वित्तीय सहायता योजना को राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया गया था, जिसका उद्देश्य ट्रांसजेंडर व्यक्तियों की शिक्षा और उत्थान के लिए वित्तीय सहायता प्रदान करना है। इस योजना के तहत, कक्षा 6 और उच्चतर कक्षाओं के ट्रांसजेंडर छात्रों को शिक्षा के लिए अपने घरों से दूर रहने पर आवास और दैनिक खर्चों को पूरा करने के लिए मासिक वजीफा मिलता है।",
+      "benefits_md": "- शिक्षा के लिए अपने घरों से दूर रहने वाले ट्रांसजेंडर छात्रों की सहायता के लिए 12 महीने तक प्रति माह 6,000 रुपये की वित्तीय सहायता। * * नोटः *-सहायता सीधे छात्र को प्रदान की जाती है & #39; बैंक खाता-सहायता प्राप्त करना जारी रखने के लिए छात्रों को हर महीने किराये की रसीद जमा करनी होगी।",
+      "briefDescription": "इस योजना का उद्देश्य कक्षा 6 और उससे ऊपर के ट्रांसजेंडर छात्रों को शिक्षा के लिए अपने घरों से दूर रहने पर आवास और दैनिक जरूरतों के लिए 12 महीने तक 6,000 रुपये प्रति माह की वित्तीय सहायता प्रदान करना है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा \"ट्रांसजेंडर उत्थान कोष-उभयलिंगी बच्चों के अध्ययन के लिए वित्तीय सहायता\" योजना लागू की गई थी, जिसका उद्देश्य ट्रांसजेंडर व्यक्तियों की शिक्षा और उत्थान के लिए वित्तीय सहायता प्रदान करना है। इस योजना के तहत, कक्षा 6 और उच्चतर कक्षाओं के ट्रांसजेंडर छात्रों को शिक्षा के लिए अपने घरों से दूर रहने पर आवास और दैनिक खर्चों को पूरा करने के लिए मासिक वजीफा मिलता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा के लिए अपने घरों से दूर रहने वाले ट्रांसजेंडर छात्रों की सहायता के लिए 12 महीने तक प्रति माह 6,000 रुपये की वित्तीय सहायता।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "नोटः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सहायता सीधे छात्र के बैंक खाते में प्रदान की जाती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सहायता प्राप्त करना जारी रखने के लिए छात्रों को हर महीने किराये की रसीद जमा करनी होगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को संबंधित शैक्षणिक संस्थान में (कार्यालय के समय के दौरान) जाना चाहिए और भरे हुए आवेदन को जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को शैक्षणिक संस्थान में जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिस शैक्षणिक संस्थान को आवेदन प्रस्तुत किया गया है, उससे रसीद या पावती का अनुरोध करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "संबंधित संस्थान अनुशंसा के साथ आवेदन पत्र को सामाजिक न्याय और अधिकारिता विभाग के जिला कार्यालय को भेजेगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 6:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला कार्यालय, सामाजिक न्याय और अधिकारिता विभाग एक महीने के भीतर प्राप्त आवेदन पत्र की जांच करेगा और ऑफ़लाइन अनुमोदन जारी करेगा और हर महीने आवेदक के बैंक खाते में राशि हस्तांतरित करेगा।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को संबंधित शैक्षणिक संस्थान में जाना चाहिए और भरे हुए आवेदन को जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। चरण 3: दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को शैक्षणिक संस्थान में जमा करें। चरण 4: उस शैक्षणिक संस्थान से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। चरण 5: संबंधित संस्थान अनुशंसा के साथ आवेदन पत्र को सामाजिक न्याय और अधिकारिता विभाग के जिला कार्यालय को भेज देगा। चरण 6: जिला कार्यालय, सामाजिक न्याय और अधिकारिता विभाग एक महीने के भीतर प्राप्त आवेदन पत्र की जांच करेगा और ऑफ़लाइन अनुमोदन जारी करेगा और हर महीने आवेदक के बैंक खाते में राशि हस्तांतरित करेगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 9,
+          "lte": 40,
+          "category": "General"
+        },
+        {
+          "gte": 9,
+          "lte": 40,
+          "category": "EWS"
+        },
+        {
+          "gte": 9,
+          "lte": 40,
+          "category": "Female"
+        },
+        {
+          "gte": 9,
+          "lte": 40,
+          "category": "OBC"
+        },
+        {
+          "gte": 9,
+          "lte": 40,
+          "category": "SC"
+        },
+        {
+          "gte": 9,
+          "lte": 40,
+          "category": "ST"
+        },
+        {
+          "gte": 9,
+          "lte": 40,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Middle (6-8)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Professional Degree",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Diploma",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "ITI Course",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": 0,
+        "lte": 800000
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए। 1. आवेदक को छठी या उच्चतर कक्षा में पढ़ रहा होना चाहिए। 1. आवेदक को अध्ययन के उद्देश्य से अपने घर से दूर रहना चाहिए। 1. आवेदक की सकल वार्षिक आय 8 लाख रुपये तक होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को छठी या उच्चतर कक्षा में पढ़ रहा होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को अध्ययन के उद्देश्य से अपने घर से दूर रहना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की सकल वार्षिक आय 8 लाख रुपये तक होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "transgender",
+          "label": "ट्रांसजेंडर"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 9,
+        "lte": 40,
+        "category": "General"
+      },
+      {
+        "gte": 9,
+        "lte": 40,
+        "category": "EWS"
+      },
+      {
+        "gte": 9,
+        "lte": 40,
+        "category": "Female"
+      },
+      {
+        "gte": 9,
+        "lte": 40,
+        "category": "OBC"
+      },
+      {
+        "gte": 9,
+        "lte": 40,
+        "category": "SC"
+      },
+      {
+        "gte": 9,
+        "lte": 40,
+        "category": "ST"
+      },
+      {
+        "gte": 9,
+        "lte": 40,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Middle (6-8)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Professional Degree",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Diploma",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "ITI Course",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": 0,
+      "lte": 800000
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए। 1. आवेदक को छठी या उच्चतर कक्षा में पढ़ रहा होना चाहिए। 1. आवेदक को अध्ययन के उद्देश्य से अपने घर से दूर रहना चाहिए। 1. आवेदक की सकल वार्षिक आय 8 लाख रुपये तक होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को छठी या उच्चतर कक्षा में पढ़ रहा होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को अध्ययन के उद्देश्य से अपने घर से दूर रहना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की सकल वार्षिक आय 8 लाख रुपये तक होनी चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "transgender",
+        "label": "ट्रांसजेंडर"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Transgender Identity Proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Enrollment in Class 6 or higher"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residence Proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Monthly Rental Receipt"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Transgender Identity Proof\n1. Proof of Enrollment in Class 6 or higher\n1. Residence Proof\n1. Monthly Rental Receipt\n1. Bank Account Details\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कक्षा 6 या उच्चतर में नामांकन का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निवास प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मासिक किराया रसीद"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Transgender Identity Proof\n1. Proof of Enrollment in Class 6 or higher\n1. Residence Proof\n1. Monthly Rental Receipt\n1. Bank Account Details\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Transgender students studying in Class 6 and above who reside away from home."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender students studying in Class 6 and above who reside away from home.\n"
+        },
+        {
+          "question": "How much financial assistance is provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹6,000 per month for up to 12 months.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial assistance of [?]6,000 per month for up to 12 months.\n\n\n"
+        },
+        {
+          "question": "How is the amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The amount is directly transferred to the applicant's bank account every month."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is directly transferred to the applicant's bank account every month.\n"
+        },
+        {
+          "question": "Is there a deadline to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications can be submitted throughout the academic year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications can be submitted throughout the academic year.\n"
+        },
+        {
+          "question": "Can a student apply if they live in a hostel?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, as long as they provide hostel accommodation proof."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, as long as they provide hostel accommodation proof.\n"
+        },
+        {
+          "question": "What if a student fails to submit a rental receipt?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The monthly assistance will be withheld until the receipt is submitted.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The monthly assistance will be withheld until the receipt is submitted.\n\n\n"
+        },
+        {
+          "question": "Can students from other states apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only transgender students residing in Rajasthan are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only transgender students residing in Rajasthan are eligible.\n"
+        },
+        {
+          "question": "What is the mode of application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications must be submitted offline through the educational institution.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted offline through the educational institution.\n\n\n"
+        },
+        {
+          "question": "How long does the verification process take?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The district office verifies applications within one month."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The district office verifies applications within one month.\n"
+        },
+        {
+          "question": "Where can applicants get more information?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicant can contact the District Social Justice and Empowerment Office or visit the official website of the Social Justice and Empowerment Department, Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant can contact the District Social Justice and Empowerment Office or visit the official website of the Social Justice and Empowerment Department, Rajasthan.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कक्षा 6 और उससे ऊपर पढ़ने वाले ट्रांसजेंडर छात्र जो घर से दूर रहते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender students studying in Class 6 and above who reside away from home.\n"
+        },
+        {
+          "question": "कितनी वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "12 महीने तक के लिए 6,000 रुपये प्रति माह की वित्तीय सहायता।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial assistance of [?]6,000 per month for up to 12 months.\n\n\n"
+        },
+        {
+          "question": "राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह राशि हर महीने सीधे आवेदक के बैंक खाते में हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is directly transferred to the applicant's bank account every month.\n"
+        },
+        {
+          "question": "क्या आवेदन करने की कोई समय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन पूरे शैक्षणिक वर्ष में जमा किए जा सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications can be submitted throughout the academic year.\n"
+        },
+        {
+          "question": "यदि छात्र छात्रावास में रहते हैं तो क्या कोई छात्र आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, जब तक वे छात्रावास आवास प्रमाण प्रदान करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, as long as they provide hostel accommodation proof.\n"
+        },
+        {
+          "question": "यदि कोई छात्र किराये की रसीद जमा करने में विफल रहता है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "रसीद जमा होने तक मासिक सहायता रोक दी जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The monthly assistance will be withheld until the receipt is submitted.\n\n\n"
+        },
+        {
+          "question": "क्या अन्य राज्यों के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान में रहने वाले ट्रांसजेंडर छात्र ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only transgender students residing in Rajasthan are eligible.\n"
+        },
+        {
+          "question": "आवेदन का तरीका क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन शैक्षणिक संस्थान के माध्यम से ऑफ़लाइन जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted offline through the educational institution.\n\n\n"
+        },
+        {
+          "question": "सत्यापन प्रक्रिया में कितना समय लगता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला कार्यालय एक महीने के भीतर आवेदनों का सत्यापन करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The district office verifies applications within one month.\n"
+        },
+        {
+          "question": "आवेदक अधिक जानकारी कहाँ से प्राप्त कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक जिला सामाजिक न्याय और अधिकारिता कार्यालय से संपर्क कर सकते हैं या सामाजिक न्याय और अधिकारिता विभाग, राजस्थान की आधिकारिक वेबसाइट पर जा सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant can contact the District Social Justice and Empowerment Office or visit the official website of the Social Justice and Empowerment Department, Rajasthan.\n"
+        }
+      ]
+    }
+  }
+}

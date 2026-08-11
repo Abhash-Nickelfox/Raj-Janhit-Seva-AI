@@ -1,0 +1,1240 @@
+{
+  "scheme_id": "649566df380f8e123542a437",
+  "slug": "zbnf",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2020-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Low Cost Fartming",
+        "Agriculture",
+        "Farmer",
+        "Training"
+      ],
+      "schemeName": "Zero Budget Natural Farming",
+      "schemeShortTitle": "ZBNF",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/440"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Zero Budget Natural Farming is natural farming based on cow-products (cow urine, dung) produced by indigenous cows. All agricultural inputs are prepared by the farmer from his own farm, no inputs are purchased from the market. Therefore, he does not have to spend anything directly. Due to which it is called zero budget based farming. At present, reducing the indiscriminate use of chemical fertilizers, pesticides and irrigation. To reduce the cost of agriculture, improve the quality of agricultural products and increase production per acre. Use of Beejamrit for treatment of seeds and Dravjeevamrit and Ghanjeevamrit etc. for nutrition. Use of Neemastra, Brahrastra and Aagnestra for the prevention of insects.\n&lt;br&gt;\n\n**Objective:-**\n\n   1. To promote environment-protected and climate-tolerant natural farming practices so that the fertility power of the land can be increased.\n   1. To reduce the cost of cultivation by less irrigation, sustainable and integrated organic methods so that farmers can get more income per unit area.\n   1. Production of chemical free and nutritious food for human health and wellness.\n   1. Protecting biodiversity and environment.\n   1. Empowering farmers for production, processing and progress by developing them in the form of clusters / groups.\n   1. To make farmers entrepreneurs for marketing and by connecting directly with the national market.\n\n",
+      "benefits_md": "\n   1. A subsidy of 50% provides to farmers to buy the farming items.\n   1. A large drum of 200 litres, a small drum of 50 litres capacity, a bucket of 20 litres capacity, a Jug, filter, water spray, sprayer, Trichoderma, cow-urine, dung, etc. Material and organic mulch material like leaves of trees, weed bedding, leaves of millet-sorghum, etc., groundnut peels, and in the field for moisture conservation between the rows, 50% of the total cost of available other waste material or a maximum of Rs.600/- per farmer will be given as subsidy by DBT. \n   1. Training and Farmers Tours.\n   1. Gram Panchayat level Training.\n\n",
+      "briefDescription": "The Rajasthan State government started a scheme \"Zero Budget Natual Farming\" in 2020-21 to promote  natural farming. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Zero Budget Natural Farming is natural farming based on cow-products (cow urine, dung) produced by indigenous cows. All agricultural inputs are prepared by the farmer from his own farm, no inputs are purchased from the market. Therefore, he does not have to spend anything directly. Due to which it is called zero budget based farming. At present, reducing the indiscriminate use of chemical fertilizers, pesticides and irrigation. To reduce the cost of agriculture, improve the quality of agricultural products and increase production per acre. Use of Beejamrit for treatment of seeds and Dravjeevamrit and Ghanjeevamrit etc. for nutrition. Use of Neemastra, Brahrastra and Aagnestra for the prevention of insects."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Objective:-",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To promote environment-protected and climate-tolerant natural farming practices so that the fertility power of the land can be increased."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To reduce the cost of cultivation by less irrigation, sustainable and integrated organic methods so that farmers can get more income per unit area."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Production of chemical free and nutritious food for human health and wellness."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Protecting biodiversity and environment."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Empowering farmers for production, processing and progress by developing them in the form of clusters / groups."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To make farmers entrepreneurs for marketing and by connecting directly with the national market."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A subsidy of 50% provides to farmers to buy the farming items."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A large drum of 200 litres, a small drum of 50 litres capacity, a bucket of 20 litres capacity, a Jug, filter, water spray, sprayer, Trichoderma, cow-urine, dung, etc. Material and organic mulch material like leaves of trees, weed bedding, leaves of millet-sorghum, etc., groundnut peels, and in the field for moisture conservation between the rows, 50% of the total cost of available other waste material or a maximum of Rs.600/- per farmer will be given as subsidy by DBT. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training and Farmers Tours."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gram Panchayat level Training."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Get the application form to apply under this scheme."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter all the necessary information asked in the form carefully."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach the required documents with the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the application form to the same agriculture department."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana.\n1. Get the application form to apply under this scheme.\n1. Enter all the necessary information asked in the form carefully.\n1. Attach the required documents with the application form.\n1. Submit the application form to the same agriculture department.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Interested farmers should be selected for the scheme who have a special interest in natural farming. Every farmer must have a minimum of one-acre land ownership or family account holder.\n1. Interested farmers may be from the same village, neighboring villages, or different villages as far as possible. \n1. Interested farmers will be selected by the Regional Assistant Agriculture Officer / Agriculture Supervisor.\n1. Horticulture crops and animal husbandry should also be included in natural farming.\n1. For the selection of farmers, priority should be given to SC, ST, BPL, small and marginal farmers as much as possible. Youths up to 35 years should be included for natural farming so that their capacity can increase.\n1. Necessary material like drum, bucket, jug etc. will be given on grant to the concerned farmer for setting up the input unit for natural farming. \n1. Farmers selected under Paramparagat Krishi Vikas Yojana should not be included in this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interested farmers should be selected for the scheme who have a special interest in natural farming. Every farmer must have a minimum of one-acre land ownership or family account holder."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interested farmers may be from the same village, neighboring villages, or different villages as far as possible. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interested farmers will be selected by the Regional Assistant Agriculture Officer / Agriculture Supervisor."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Horticulture crops and animal husbandry should also be included in natural farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For the selection of farmers, priority should be given to SC, ST, BPL, small and marginal farmers as much as possible. Youths up to 35 years should be included for natural farming so that their capacity can increase."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Necessary material like drum, bucket, jug etc. will be given on grant to the concerned farmer for setting up the input unit for natural farming. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers selected under Paramparagat Krishi Vikas Yojana should not be included in this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2020-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "कृषि विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "कृषि निवेश-बीज, उर्वरक आदि।"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "कम लागत वाली खेती",
+        "कृषि",
+        "किसान",
+        "प्रशिक्षण"
+      ],
+      "schemeName": "शून्य बजट प्राकृतिक खेती",
+      "schemeShortTitle": "ZBNF",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/440"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "शून्य बजट प्राकृतिक खेती स्वदेशी गायों द्वारा उत्पादित गाय-उत्पादों (गोमूत्र, गोबर) पर आधारित प्राकृतिक खेती है। सभी कृषि आदान किसान द्वारा अपने खेत से तैयार किए जाते हैं, बाजार से कोई निवेश नहीं खरीदा जाता है। इसलिए, उसे सीधे कुछ भी खर्च नहीं करना पड़ता है। जिसके कारण इसे शून्य बजट आधारित खेती कहा जाता है। वर्तमान में, रासायनिक उर्वरकों, कीटनाशकों और सिंचाई के अंधाधुंध उपयोग को कम करना। कृषि की लागत को कम करने के लिए कृषि उत्पादों की गुणवत्ता में सुधार करना और प्रति एकड़ उत्पादन बढ़ाना। बीजों के उपचार के लिए बीजामृत और द्रविवामृत और घंजीवामृत आदि का उपयोग। पोषण के लिए। कीटों की रोकथाम के लिए नीमास्त्र, ब्रह्मास्त्र और अगनेस्ट्र का उपयोग। उद्देश्यः-* * 1। पर्यावरण-संरक्षित और जलवायु-सहिष्णु प्राकृतिक कृषि प्रथाओं को बढ़ावा देना ताकि भूमि की प्रजनन शक्ति को बढ़ाया जा सके। 1. कम सिंचाई, टिकाऊ और एकीकृत जैविक तरीकों से खेती की लागत को कम करना ताकि किसानों को प्रति इकाई क्षेत्र में अधिक आय मिल सके। 1. मानव स्वास्थ्य और कल्याण के लिए रसायन मुक्त और पौष्टिक भोजन का उत्पादन। 1. जैव विविधता और पर्यावरण की रक्षा करना। 1. किसानों को समूहों/समूहों के रूप में विकसित करके उत्पादन, प्रसंस्करण और प्रगति के लिए सशक्त बनाना। 1. किसानों को विपणन के लिए उद्यमी बनाना और सीधे राष्ट्रीय बाजार से जोड़ना।",
+      "benefits_md": "1. किसानों को खेती के सामान खरीदने के लिए 50 प्रतिशत की सब्सिडी दी जाती है। 1. 200 लीटर का एक बड़ा ड्रम, 50 लीटर क्षमता का एक छोटा ड्रम, 20 लीटर क्षमता की एक बाल्टी, एक जग, फिल्टर, पानी का स्प्रे, स्प्रेयर, ट्राइकोडर्मा, गोमूत्र, गोबर आदि। पेड़ों की पत्तियां, खरपतवार बिस्तर, बाजरा-ज्वार की पत्तियां आदि, मूंगफली के छिलकों जैसी सामग्री और जैविक मल्च सामग्री और कतारों के बीच नमी संरक्षण के लिए खेत में उपलब्ध अन्य अपशिष्ट सामग्री की कुल लागत का 50 प्रतिशत या प्रति किसान अधिकतम 600/- रुपये डी. बी. टी. द्वारा सब्सिडी के रूप में दिए जाएंगे। 1. प्रशिक्षण और किसानों के दौरे। 1. ग्राम पंचायत स्तर का प्रशिक्षण।",
+      "briefDescription": "राजस्थान राज्य सरकार ने प्राकृतिक खेती को बढ़ावा देने के लिए 2020-21 में \"शून्य बजट प्राकृतिक खेती\" योजना शुरू की।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "शून्य बजट प्राकृतिक खेती स्वदेशी गायों द्वारा उत्पादित गाय-उत्पादों (गोमूत्र, गोबर) पर आधारित प्राकृतिक खेती है। सभी कृषि आदान किसान द्वारा अपने खेत से तैयार किए जाते हैं, बाजार से कोई निवेश नहीं खरीदा जाता है। इसलिए, उसे सीधे कुछ भी खर्च नहीं करना पड़ता है। जिसके कारण इसे शून्य बजट आधारित खेती कहा जाता है। वर्तमान में, रासायनिक उर्वरकों, कीटनाशकों और सिंचाई के अंधाधुंध उपयोग को कम करना। कृषि की लागत को कम करने के लिए कृषि उत्पादों की गुणवत्ता में सुधार करना और प्रति एकड़ उत्पादन बढ़ाना। बीजों के उपचार के लिए बीजामृत और पोषण के लिए द्रविवामृत और घंजीवामृत आदि का उपयोग। कीटों की रोकथाम के लिए नीमास्त्र, ब्रह्मास्त्र और अगनेस्ट्र का उपयोग।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उद्देश्यः -",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पर्यावरण-संरक्षित और जलवायु-सहिष्णु प्राकृतिक कृषि प्रथाओं को बढ़ावा देना ताकि भूमि की प्रजनन शक्ति को बढ़ाया जा सके।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कम सिंचाई, टिकाऊ और एकीकृत जैविक तरीकों से खेती की लागत को कम करना ताकि किसानों को प्रति इकाई क्षेत्र में अधिक आय मिल सके।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "मानव स्वास्थ्य और कल्याण के लिए रसायन मुक्त और पौष्टिक भोजन का उत्पादन।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जैव विविधता और पर्यावरण की रक्षा करना।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "किसानों को समूहों/समूहों के रूप में विकसित करके उत्पादन, प्रसंस्करण और प्रगति के लिए सशक्त बनाना।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "किसानों को विपणन के लिए उद्यमी बनाना और सीधे राष्ट्रीय बाजार से जोड़ना।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "किसानों को खेती के सामान खरीदने के लिए 50 प्रतिशत की सब्सिडी दी जाती है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "200 लीटर का एक बड़ा ड्रम, 50 लीटर क्षमता का एक छोटा ड्रम, 20 लीटर क्षमता की एक बाल्टी, एक जग, फिल्टर, पानी का स्प्रे, स्प्रेयर, ट्राइकोडर्मा, गोमूत्र, गोबर आदि। पेड़ों की पत्तियां, खरपतवार बिस्तर, बाजरा-ज्वार की पत्तियां आदि, मूंगफली के छिलकों जैसी सामग्री और जैविक मल्च सामग्री और कतारों के बीच नमी संरक्षण के लिए खेत में उपलब्ध अन्य अपशिष्ट सामग्री की कुल लागत का 50 प्रतिशत या प्रति किसान अधिकतम 600/- रुपये डी. बी. टी. द्वारा सब्सिडी के रूप में दिए जाएंगे।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रशिक्षण और किसानों के दौरे।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "ग्राम पंचायत स्तर का प्रशिक्षण।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक किसानों को मुख्यमंत्री स्वावलंबन योजना का लाभ प्राप्त करने के लिए आपके जिले के कृषि विभाग कार्यालय या कृषि विज्ञान केंद्र जाना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इस योजना के तहत आवेदन करने के लिए आवेदन पत्र प्राप्त करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रपत्र में गई सभी आवश्यक जानकारी ध्यान से दर्ज करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन पत्र के साथ आवश्यक दस्तावेज संलग्न करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उसी कृषि विभाग में आवेदन पत्र जमा करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदक किसानों को मुख्यमंत्री स्वावलंबन योजना का लाभ प्राप्त करने के लिए आपके जिले के कृषि विभाग कार्यालय या कृषि विज्ञान केंद्र जाना होगा। 1. इस योजना के तहत आवेदन करने के लिए आवेदन पत्र प्राप्त करें। 1. प्रपत्र में गई सभी आवश्यक जानकारी ध्यान से दर्ज करें। 1. आवेदन पत्र के साथ आवश्यक दस्तावेज संलग्न करें। 1. उसी कृषि विभाग में आवेदन पत्र जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. इस योजना के लिए ऐसे किसानों का चयन किया जाना चाहिए जिनकी प्राकृतिक खेती में विशेष रुचि हो। प्रत्येक किसान के पास कम से कम एक एकड़ भूमि का स्वामित्व या पारिवारिक खाताधारक होना चाहिए। 1. इच्छुक किसान यथासंभव एक ही गाँव, पड़ोसी गाँव या अलग-अलग गाँवों से हो सकते हैं। 1. इच्छुक किसानों का चयन क्षेत्रीय सहायक कृषि अधिकारी/कृषि पर्यवेक्षक द्वारा किया जाएगा। 1. बागवानी फसलों और पशुपालन को भी प्राकृतिक खेती में शामिल किया जाना चाहिए। 1. किसानों के चयन के लिए एससी, एसटी, बी. पी. एल., छोटे और सीमांत किसानों को यथासंभव प्राथमिकता दी जानी चाहिए। 35 वर्ष तक के युवाओं को प्राकृतिक खेती के लिए शामिल किया जाना चाहिए ताकि उनकी क्षमता में वृद्धि हो सके। 1. प्राकृतिक खेती के लिए इनपुट इकाई स्थापित करने के लिए संबंधित किसान को अनुदान पर ड्रम, बाल्टी, जग आदि जैसी आवश्यक सामग्री दी जाएगी। 1. परम्परा कृषि विकास योजना के तहत चयनित किसानों को इस योजना में शामिल नहीं किया जाना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के लिए ऐसे किसानों का चयन किया जाना चाहिए जिनकी प्राकृतिक खेती में विशेष रुचि हो। प्रत्येक किसान के पास कम से कम एक एकड़ भूमि का स्वामित्व या पारिवारिक खाताधारक होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इच्छुक किसान यथासंभव एक ही गाँव, पड़ोसी गाँव या अलग-अलग गाँवों से हो सकते हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इच्छुक किसानों का चयन क्षेत्रीय सहायक कृषि अधिकारी/कृषि पर्यवेक्षक द्वारा किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बागवानी फसलों और पशुपालन को भी प्राकृतिक खेती में शामिल किया जाना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसानों के चयन के लिए एससी, एसटी, बी. पी. एल., छोटे और सीमांत किसानों को यथासंभव प्राथमिकता दी जानी चाहिए। 35 वर्ष तक के युवाओं को प्राकृतिक खेती के लिए शामिल किया जाना चाहिए ताकि उनकी क्षमता में वृद्धि हो सके।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्राकृतिक खेती के लिए इनपुट इकाई स्थापित करने के लिए संबंधित किसान को अनुदान पर ड्रम, बाल्टी, जग आदि जैसी आवश्यक सामग्री दी जाएगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "परम्परा कृषि विकास योजना के तहत चयनित किसानों को इस योजना में शामिल नहीं किया जाना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. इस योजना के लिए ऐसे किसानों का चयन किया जाना चाहिए जिनकी प्राकृतिक खेती में विशेष रुचि हो। प्रत्येक किसान के पास कम से कम एक एकड़ भूमि का स्वामित्व या पारिवारिक खाताधारक होना चाहिए। 1. इच्छुक किसान यथासंभव एक ही गाँव, पड़ोसी गाँव या अलग-अलग गाँवों से हो सकते हैं। 1. इच्छुक किसानों का चयन क्षेत्रीय सहायक कृषि अधिकारी/कृषि पर्यवेक्षक द्वारा किया जाएगा। 1. बागवानी फसलों और पशुपालन को भी प्राकृतिक खेती में शामिल किया जाना चाहिए। 1. किसानों के चयन के लिए एससी, एसटी, बी. पी. एल., छोटे और सीमांत किसानों को यथासंभव प्राथमिकता दी जानी चाहिए। 35 वर्ष तक के युवाओं को प्राकृतिक खेती के लिए शामिल किया जाना चाहिए ताकि उनकी क्षमता में वृद्धि हो सके। 1. प्राकृतिक खेती के लिए इनपुट इकाई स्थापित करने के लिए संबंधित किसान को अनुदान पर ड्रम, बाल्टी, जग आदि जैसी आवश्यक सामग्री दी जाएगी। 1. परम्परा कृषि विकास योजना के तहत चयनित किसानों को इस योजना में शामिल नहीं किया जाना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "इस योजना के लिए ऐसे किसानों का चयन किया जाना चाहिए जिनकी प्राकृतिक खेती में विशेष रुचि हो। प्रत्येक किसान के पास कम से कम एक एकड़ भूमि का स्वामित्व या पारिवारिक खाताधारक होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "इच्छुक किसान यथासंभव एक ही गाँव, पड़ोसी गाँव या अलग-अलग गाँवों से हो सकते हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "इच्छुक किसानों का चयन क्षेत्रीय सहायक कृषि अधिकारी/कृषि पर्यवेक्षक द्वारा किया जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "बागवानी फसलों और पशुपालन को भी प्राकृतिक खेती में शामिल किया जाना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "किसानों के चयन के लिए एससी, एसटी, बी. पी. एल., छोटे और सीमांत किसानों को यथासंभव प्राथमिकता दी जानी चाहिए। 35 वर्ष तक के युवाओं को प्राकृतिक खेती के लिए शामिल किया जाना चाहिए ताकि उनकी क्षमता में वृद्धि हो सके।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "प्राकृतिक खेती के लिए इनपुट इकाई स्थापित करने के लिए संबंधित किसान को अनुदान पर ड्रम, बाल्टी, जग आदि जैसी आवश्यक सामग्री दी जाएगी।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "परम्परा कृषि विकास योजना के तहत चयनित किसानों को इस योजना में शामिल नहीं किया जाना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Aadhar Card."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Bank Passbook."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Land Proof."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Aadhar Card.\n   1. Bank Passbook.\n   1. Land Proof.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आधार कार्ड।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बैंक पासबुक।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "भूमि प्रमाण।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Aadhar Card.\n   1. Bank Passbook.\n   1. Land Proof.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Rajasthan State government started a scheme \"Zero Budget Natual Farming\" in 2020-21 to promote natural farming."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Rajasthan State government started a scheme \"Zero Budget Natual Farming\" in 2020-21 to promote natural farming.\n"
+        },
+        {
+          "question": "What Are The Benefits Under The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Subsidy To Buy Farming Equipment & Training. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Subsidy To Buy Farming Equipment & Training. \n"
+        },
+        {
+          "question": "Who Can Get The Benefits Of The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interested Farmers Should Be Selected For The Scheme Who Have A Special Interest In Natural Farming. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Interested Farmers Should Be Selected For The Scheme Who Have A Special Interest In Natural Farming. \n"
+        },
+        {
+          "question": "What Is The Land Holding Eligibility ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Every Farmer Must Have A Minimum Of One-Acre Land Ownership."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Every Farmer Must Have A Minimum Of One-Acre Land Ownership.\n"
+        },
+        {
+          "question": "Is There Any Provision For The SC/ST Category Farmers ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For The Selection Of Farmers, Priority Should Be Given To SC, ST, BPL, Small And Marginal Farmers As Much As Possible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "For The Selection Of Farmers, Priority Should Be Given To SC, ST, BPL, Small And Marginal Farmers As Much As Possible.\n"
+        },
+        {
+          "question": "Farmers Up To Which Age Are Given Priority ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Youths Farmers Up To 35 Years. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Youths Farmers Up To 35 Years. \n"
+        },
+        {
+          "question": "What Is The Financial Eligibility For Applicant ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "There Are No Financial Eligibility Criteria. \n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "There Are No Financial Eligibility Criteria. \n\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicant Farmers Have To Go To The Agriculture Department Office Or Krishi Vigyan Kendra Of Your District To Get The Benefit Of Mukhyamantri Swavalamban Yojana.\n2. Get The Application Form To Apply Under This Scheme.\n3. Enter All The Necessary Information Asked In The Form Carefully.\n4. Attach The Required Documents With The Application Form.\n5. Submit The Application Form To The Same Agriculture Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant Farmers Have To Go To The Agriculture Department Office Or Krishi Vigyan Kendra Of Your District To Get The Benefit Of Mukhyamantri Swavalamban Yojana.\n2. Get The Application Form To Apply Under This Scheme.\n3. Enter All The Necessary Information Asked In The Form Carefully.\n4. Attach The Required Documents With The Application Form.\n5. Submit The Application Form To The Same Agriculture Department.\n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Aadhar Card.  \n2. Bank Passbook.\n3. Land Proof."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhar Card.  \n2. Bank Passbook.\n3. Land Proof.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह क्या योजना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान राज्य सरकार ने प्राकृतिक खेती को बढ़ावा देने के लिए 2020-21 में \"शून्य बजट प्राकृतिक खेती\" योजना शुरू की।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Rajasthan State government started a scheme \"Zero Budget Natual Farming\" in 2020-21 to promote natural farming.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कृषि उपकरण और प्रशिक्षण खरीदने के लिए अनुदान।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Subsidy To Buy Farming Equipment & Training. \n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इच्छुक किसानों को इस योजना के लिए चुना जाना चाहिए जिनकी प्राकृतिक खेती में विशेष रुचि है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Interested Farmers Should Be Selected For The Scheme Who Have A Special Interest In Natural Farming. \n"
+        },
+        {
+          "question": "भूमि धारण योग्यता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रत्येक किसान के पास न्यूनतम एक एकड़ भूमि का स्वामित्व होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Every Farmer Must Have A Minimum Of One-Acre Land Ownership.\n"
+        },
+        {
+          "question": "क्या एससी/एसटी श्रेणी के किसानों के लिए कोई प्रावधान है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "किसानों के चयन के लिए एससी, एसटी, बी. पी. एल., छोटे और सीमांत किसानों को यथासंभव प्राथमिकता दी जानी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "For The Selection Of Farmers, Priority Should Be Given To SC, ST, BPL, Small And Marginal Farmers As Much As Possible.\n"
+        },
+        {
+          "question": "किस उम्र तक के किसानों को प्राथमिकता दी जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "35 वर्ष तक के युवा किसान।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Youths Farmers Up To 35 Years. \n"
+        },
+        {
+          "question": "आवेदक के लिए वित्तीय पात्रता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कोई वित्तीय पात्रता मानदंड नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "There Are No Financial Eligibility Criteria. \n\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक किसानों को मुख्यमंत्री स्वावलंबन योजना का लाभ प्राप्त करने के लिए आपके जिले के कृषि विभाग कार्यालय या कृषि विज्ञान केंद्र जाना होगा। 2. इस योजना के तहत आवेदन करने के लिए आवेदन पत्र प्राप्त करें। 3. प्रपत्र में गई सभी आवश्यक जानकारी सावधानीपूर्वक दर्ज करें। 4. आवेदन पत्र के साथ आवश्यक दस्तावेज संलग्न करें। 5. उसी कृषि विभाग को आवेदन पत्र जमा करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant Farmers Have To Go To The Agriculture Department Office Or Krishi Vigyan Kendra Of Your District To Get The Benefit Of Mukhyamantri Swavalamban Yojana.\n2. Get The Application Form To Apply Under This Scheme.\n3. Enter All The Necessary Information Asked In The Form Carefully.\n4. Attach The Required Documents With The Application Form.\n5. Submit The Application Form To The Same Agriculture Department.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आधार कार्ड। 2. बैंक पासबुक। 3. भूमि प्रमाण।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhar Card.  \n2. Bank Passbook.\n3. Land Proof.\n"
+        }
+      ]
+    }
+  }
+}

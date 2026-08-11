@@ -1,0 +1,1665 @@
+{
+  "scheme_id": "65e9669dda55878ebe15b1ec",
+  "slug": "imspeksyrc",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Computer",
+        "Education",
+        "Training",
+        "Empowered"
+      ],
+      "schemeName": "Indira Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna -RS-CIT",
+      "schemeShortTitle": "IMSPEKSYRC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        },
+        {
+          "value": "Coaching",
+          "label": "Coaching"
+        }
+      ],
+      "schemeOpenDate": "2020-12-09",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000037,
+        "label": "Women and Child Development Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/W_CD/RSCIT/DOC_696_6e94af70-f6f5-4882-bcee-af379e75a7ac.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/696"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": " Indira Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna Started on 20-12-2020 under the Women and Child Development Department Rajasthan State Government is to make the girls and women of the state empower in the field of computers by providing free computer courses to them. As we all know, in the present times, the use of computers is increasing rapidly. In most of the departments, all the work in government and private companies is being done digitally. \nIn such a situation, this decision of the  Rajasthan government is very important for the girls and women of the state. According to this scheme, women get computer knowledge for free. By doing this, they can become self-reliant and empowered, thus their future will also be bright, this has been the main objective of the Rajasthan Government under the Indira Mahila Shakti Prashikshan Kaushal Samvardhan Yojana.\n<br>\n\n&gt; **Out of the allotted seats, Scheduled Caste candidates will be selected on 18% seats and Scheduled Tribe candidates will be selected on 14% seats. In case of non-availability in the concerned category, it can be filled by others.**\n\n",
+      "benefits_md": "> **Free basic computer training for women and girls, general information about MS Word, MS Excel, MS PowerPoint, email, etc. is given. Training will be given through RKCL ( Rajasthan Knowledge Corporation Limited).**\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The objective of Indira Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna is to provide empowerment to the girls and women of the state in the field of computers by providing free computer courses to them.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Indira Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna Started on 20-12-2020 under the Women and Child Development Department Rajasthan State Government is to make the girls and women of the state empower in the field of computers by providing free computer courses to them. As we all know, in the present times, the use of computers is increasing rapidly. In most of the departments, all the work in government and private companies is being done digitally. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In such a situation, this decision of the  Rajasthan government is very important for the girls and women of the state. According to this scheme, women get computer knowledge for free. By doing this, they can become self-reliant and empowered, thus their future will also be bright, this has been the main objective of the Rajasthan Government under the Indira Mahila Shakti Prashikshan Kaushal Samvardhan Yojana."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "align_left",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Out of the allotted seats, Scheduled Caste candidates will be selected on 18% seats and Scheduled Tribe candidates will be selected on 14% seats. In case of non-availability in the concerned category, it can be filled by others.",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Free basic computer training for women and girls, general information about MS Word, MS Excel, MS PowerPoint, email, etc. is given. Training will be given through RKCL ( Rajasthan Knowledge Corporation Limited).",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1: ",
+                "bold": true
+              },
+              {
+                "text": "Applicants have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://www.myrkcl.com/wcdnew",
+                "children": [
+                  {
+                    "text": "official portal. "
+                  }
+                ]
+              },
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Now enter your Mobile number and enter the Code."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click send OTP, and Enter OTP to confirm."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " Now you will come to a new page, and read all the instructions before processing."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now \"Click here to apply online for RS-CIT Course\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Enter your details like"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - District ."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Tehsil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Preference 1 or 2."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Your Name."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Father Name ."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "           - Upload required documents etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " After uploading all your important information and documents, click on submit"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "After applying, an application ID will be received on your mobile or email."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Login",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1: ",
+                "bold": true
+              },
+              {
+                "text": "Applicants have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://www.myrkcl.com/wcdnew",
+                "children": [
+                  {
+                    "text": "official portal. "
+                  }
+                ]
+              },
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " Now Click on Login "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Now enter your application ID"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Application Name"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Father Name "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            -  Date of Birth"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Click on login."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration** \n\n**Step-1:** Applicants have to visit the [official portal. ](https://www.myrkcl.com/wcdnew) \n**Step-2:** Now enter your Mobile number and enter the Code.\n**Step-3:** Click send OTP, and Enter OTP to confirm.\n**Step-4:** Now you will come to a new page, and read all the instructions before processing.\n**Step-5:** Now &quot;Click here to apply online for RS-CIT Course&quot;.\n**Step-6:** Enter your details like\n           - District .\n           - Tehsil.\n           - Preference 1 or 2.\n           - Your Name.\n           - Father Name .\n           - Upload required documents etc.\n**Step-7:** After uploading all your important information and documents, click on submit\n**Step-8:** After applying, an application ID will be received on your mobile or email.\n<br>\n\n> **Login**\n\n**Step-1:** Applicants have to visit the [official portal. ](https://www.myrkcl.com/wcdnew) \n**Step-2:** Now Click on Login \n**Step-3:** Now enter your application ID\n            - Application Name\n            - Father Name \n            -  Date of Birth\n**Step-4:** Click on login.\n<br>\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant is a native citizen of Rajasthan.\n   1. Only women of the state will be considered eligible for the scheme.\n   1. Only girls and women between the ages of 16 years to 40 years will be considered eligible for the scheme.\n   1. Widow/divorced/abandoned women suffering from violence be given priority.\n   1. The applicant trainees who have passed class 10th from a government school and are graduates.\n   1. The applicant  Anganwadi worker must be a Graduate. \n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_left",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant is a native citizen of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Only women of the state will be considered eligible for the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Only girls and women between the ages of 16 years to 40 years will be considered eligible for the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Widow/divorced/abandoned women suffering from violence be given priority."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant trainees who have passed class 10th from a government school and are graduates."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant  Anganwadi worker must be a Graduate. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "कम्प्यूटर",
+        "शिक्षा",
+        "प्रशिक्षण",
+        "सशक्त हुए"
+      ],
+      "schemeName": "इंदिरा महिला शक्ति प्रशिक्षण एवं कौशल संवर्धन योजना-आर. एस.-सी. आई. टी",
+      "schemeShortTitle": "IMSPEKSYRC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        },
+        {
+          "value": "Coaching",
+          "label": "कोचिंग"
+        }
+      ],
+      "schemeOpenDate": "2020-12-09",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000037,
+        "label": "महिला एवं बाल विकास विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/W_CD/RSCIT/DOC_696_6e94af70-f6f5-4882-bcee-af379e75a7ac.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/696"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "महिला और बाल विकास विभाग के तहत आईडी1 पर शुरू की गई इंदिरा महिला शक्ति प्रशिक्षण एवं कौशल संवर्धन योजना राजस्थान राज्य सरकार राज्य की लड़कियों और महिलाओं को मुफ्त कंप्यूटर पाठ्यक्रम प्रदान करके उन्हें कंप्यूटर के क्षेत्र में सशक्त बनाना चाहती है। जैसा कि हम सभी जानते हैं, वर्तमान समय में कंप्यूटर का उपयोग तेजी से बढ़ रहा है। अधिकांश विभागों में सरकारी और निजी कंपनियों में सभी काम डिजिटल तरीके से किए जा रहे हैं। ऐसे में राजस्थान सरकार का यह फैसला राज्य की लड़कियों और महिलाओं के लिए बहुत महत्वपूर्ण है। इस योजना के अनुसार महिलाओं को कंप्यूटर का ज्ञान मुफ्त में मिलता है। ऐसा करने से वे आत्मनिर्भर और सशक्त बन सकते हैं, इस प्रकार उनका भविष्य भी उज्ज्वल होगा, इंदिरा महिला शक्ति प्रशिक्षण कौशल संवर्धन योजना के तहत राजस्थान सरकार का यही मुख्य उद्देश्य रहा है। आवंटित सीटों में से अनुसूचित जाति के उम्मीदवारों का चयन 18 प्रतिशत सीटों पर और अनुसूचित जनजाति के उम्मीदवारों का चयन 14 प्रतिशत सीटों पर किया जाएगा। संबंधित श्रेणी में अनुपलब्धता के मामले में, इसे अन्य लोगों द्वारा भरा जा सकता है",
+      "benefits_md": "महिलाओं और लड़कियों के लिए मुफ्त बुनियादी कंप्यूटर प्रशिक्षण, एमएस वर्ड, एमएस एक्सेल, एमएस पावरप्वाइंट, ईमेल आदि के बारे में सामान्य जानकारी दी जाती है। प्रशिक्षण आर. के. सी. एल. (राजस्थान नॉलेज कॉर्पोरेशन लिमिटेड) के माध्यम से दिया जाएगा",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "इंदिरा महिला शक्ति प्रशिक्षण एवं कौशल संवर्धन योजना का उद्देश्य राज्य की लड़कियों और महिलाओं को मुफ्त कंप्यूटर पाठ्यक्रम प्रदान करके उन्हें कंप्यूटर के क्षेत्र में सशक्त बनाना है।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "महिला और बाल विकास विभाग के तहत आईडी1 पर शुरू की गई इंदिरा महिला शक्ति प्रशिक्षण एवं कौशल संवर्धन योजना राजस्थान राज्य सरकार राज्य की लड़कियों और महिलाओं को मुफ्त कंप्यूटर पाठ्यक्रम प्रदान करके उन्हें कंप्यूटर के क्षेत्र में सशक्त बनाना चाहती है। जैसा कि हम सभी जानते हैं, वर्तमान समय में कंप्यूटर का उपयोग तेजी से बढ़ रहा है। अधिकांश विभागों में सरकारी और निजी कंपनियों में सभी काम डिजिटल तरीके से किए जा रहे हैं।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ऐसे में राजस्थान सरकार का यह फैसला राज्य की लड़कियों और महिलाओं के लिए बहुत महत्वपूर्ण है। इस योजना के अनुसार महिलाओं को कंप्यूटर का ज्ञान मुफ्त में मिलता है। ऐसा करने से वे आत्मनिर्भर और सशक्त बन सकते हैं, इस प्रकार उनका भविष्य भी उज्ज्वल होगा, इंदिरा महिला शक्ति प्रशिक्षण कौशल संवर्धन योजना के तहत राजस्थान सरकार का यही मुख्य उद्देश्य रहा है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "align_left",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "आवंटित सीटों में से अनुसूचित जाति के उम्मीदवारों का चयन 18 प्रतिशत सीटों पर और अनुसूचित जनजाति के उम्मीदवारों का चयन 14 प्रतिशत सीटों पर किया जाएगा। संबंधित श्रेणी में अनुपलब्धता के मामले में, इसे अन्य लोगों द्वारा भरा जा सकता है।",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "महिलाओं और लड़कियों के लिए मुफ्त बुनियादी कंप्यूटर प्रशिक्षण, एमएस वर्ड, एमएस एक्सेल, एमएस पावरप्वाइंट, ईमेल आदि के बारे में सामान्य जानकारी दी जाती है। प्रशिक्षण आर. के. सी. एल. (राजस्थान नॉलेज कॉर्पोरेशन लिमिटेड) के माध्यम से दिया जाएगा।",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदकों को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://www.myrkcl.com/wcdnew",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "अब अपना मोबाइल नंबर दर्ज करें और कोड दर्ज करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "सेंड ओ. टी. पी. पर क्लिक करें और पुष्टि करने के लिए ओ. टी. पी. दर्ज करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "अब आप एक नए पृष्ठ पर आएंगे, और प्रक्रिया से पहले सभी निर्देशों को पढ़ेंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "आर. एस.-सी. आई. टी. पाठ्यक्रम के लिए ऑनलाइन आवेदन करने के लिए यहां क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "अपना विवरण दर्ज करें जैसे"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- जिला।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- तहसील।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- वरीयता 1 या 2।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- आपका नाम।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पिता का नाम।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- आवश्यक दस्तावेज आदि अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "अपनी सभी महत्वपूर्ण जानकारी और दस्तावेज अपलोड करने के बाद, सबमिट पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन करने के बाद, आपके मोबाइल या ईमेल पर एक आवेदन आईडी प्राप्त होगी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "लॉगइन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदकों को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://www.myrkcl.com/wcdnew",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "अब लॉगिन पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "अब अपना आवेदन आईडी दर्ज करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- आवेदन का नाम"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पिता का नाम"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- जन्म तिथि"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "लॉगिन पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदकों को [आधिकारिक पोर्टल पर जाना होगा। ] (https://www.myrkcl.com/wcdnew) * * चरण-2: * * अब अपना मोबाइल नंबर दर्ज करें और कोड दर्ज करें। चरण-3: सेंड ओ. टी. पी. पर क्लिक करें और पुष्टि करने के लिए ओ. टी. पी. दर्ज करें। * * चरण-4: * * अब आप एक नए पृष्ठ पर आएंगे, और प्रक्रिया से पहले सभी निर्देशों को पढ़ लेंगे। * * चरण-5: आर. एस.-सी. आई. टी. पाठ्यक्रम के लिए ऑनलाइन आवेदन करने के लिए यहाँ क्लिक करें। * * चरण-6: * * अपना विवरण दर्ज करें जैसे-जिला। - तहसील। - वरीयता 1 या 2। - आपका नाम। - पिता का नाम। - आवश्यक दस्तावेज आदि अपलोड करें। * * चरण-7: * * अपनी सभी महत्वपूर्ण जानकारी और दस्तावेज अपलोड करने के बाद, जमा करें पर क्लिक करें * * चरण-8: * * आवेदन करने के बाद, आपके मोबाइल या ईमेल पर एक आवेदन आईडी प्राप्त होगी। चरण-1: * * आवेदकों को [आधिकारिक पोर्टल पर जाना होगा। ] (https://www.myrkcl.com/wcdnew) * * चरण-2: * * अब लॉगिन पर क्लिक करें * * चरण-3: * * अब अपना आवेदन आईडी दर्ज करें-आवेदन का नाम-पिता का नाम-जन्म तिथि * * चरण-4: * * लॉगिन पर क्लिक करें। <बीआर> <बीआर>"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 16,
+          "lte": 40
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Completed",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी है। 1. इस योजना के लिए केवल राज्य की महिलाओं को ही पात्र माना जाएगा। 1. केवल 16 वर्ष से 40 वर्ष की आयु की लड़कियों और महिलाओं को ही इस योजना के लिए पात्र माना जाएगा। 1. हिंसा से पीड़ित विधवा/तलाकशुदा/परित्यक्त महिलाओं को प्राथमिकता दी जानी चाहिए। 1. आवेदक प्रशिक्षु जिन्होंने सरकारी विद्यालय से 10वीं कक्षा उत्तीर्ण की है और स्नातक हैं। 1. आवेदक आंगनवाड़ी कार्यकर्ता को स्नातक होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_left",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इस योजना के लिए केवल राज्य की महिलाओं को ही पात्र माना जाएगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "केवल 16 वर्ष से 40 वर्ष की आयु की लड़कियों और महिलाओं को ही इस योजना के लिए पात्र माना जाएगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "हिंसा से पीड़ित विधवा/तलाकशुदा/परित्यक्त महिलाओं को प्राथमिकता दी जानी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक प्रशिक्षु जिन्होंने सरकारी विद्यालय से 10वीं कक्षा उत्तीर्ण की है और स्नातक हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक आंगनवाड़ी कार्यकर्ता को स्नातक होना चाहिए।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 16,
+        "lte": 40
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Completed",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी है। 1. इस योजना के लिए केवल राज्य की महिलाओं को ही पात्र माना जाएगा। 1. केवल 16 वर्ष से 40 वर्ष की आयु की लड़कियों और महिलाओं को ही इस योजना के लिए पात्र माना जाएगा। 1. हिंसा से पीड़ित विधवा/तलाकशुदा/परित्यक्त महिलाओं को प्राथमिकता दी जानी चाहिए। 1. आवेदक प्रशिक्षु जिन्होंने सरकारी विद्यालय से 10वीं कक्षा उत्तीर्ण की है और स्नातक हैं। 1. आवेदक आंगनवाड़ी कार्यकर्ता को स्नातक होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_left",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इस योजना के लिए केवल राज्य की महिलाओं को ही पात्र माना जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "केवल 16 वर्ष से 40 वर्ष की आयु की लड़कियों और महिलाओं को ही इस योजना के लिए पात्र माना जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "हिंसा से पीड़ित विधवा/तलाकशुदा/परित्यक्त महिलाओं को प्राथमिकता दी जानी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक प्रशिक्षु जिन्होंने सरकारी विद्यालय से 10वीं कक्षा उत्तीर्ण की है और स्नातक हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक आंगनवाड़ी कार्यकर्ता को स्नातक होना चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Age certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Address proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Class 10th mark sheet"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of the FIR in the case of a woman victim of violence / Domestic Incident Report under the Protection / Copy of the document for registering the case at Women's Safety and Advice Center / Aparajita."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste certificate in case of Scheduled Castes and Tribes."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death certificate of husband in case of widow/talaq deed in case of divorcee/affidavit of desertion in case of deserter."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar card\n1. Identity card\n1. Income certificate\n1. Age certificate\n1. Address proof\n1. Class 10th mark sheet\n1. Copy of the FIR in the case of a woman victim of violence / Domestic Incident Report under the Protection / Copy of the document for registering the case at Women&#39;s Safety and Advice Center / Aparajita.\n1. Caste certificate in case of Scheduled Castes and Tribes.\n1. Death certificate of husband in case of widow/talaq deed in case of divorcee/affidavit of desertion in case of deserter.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयु प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पते का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10वीं कक्षा की मार्कशीट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "महिला सुरक्षा और सलाह केंद्र/अपराजित में मामला दर्ज करने के लिए दस्तावेज़ की सुरक्षा/प्रति के तहत हिंसा/घरेलू घटना की शिकार महिला के मामले में प्राथमिकी की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुसूचित जाति और जनजाति के मामले में जाति प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विधवा/तलाक विलेख के मामले में पति का मृत्यु प्रमाण पत्र/तलाकशुदा के मामले में त्याग पत्र।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar card\n1. Identity card\n1. Income certificate\n1. Age certificate\n1. Address proof\n1. Class 10th mark sheet\n1. Copy of the FIR in the case of a woman victim of violence / Domestic Incident Report under the Protection / Copy of the document for registering the case at Women&#39;s Safety and Advice Center / Aparajita.\n1. Caste certificate in case of Scheduled Castes and Tribes.\n1. Death certificate of husband in case of widow/talaq deed in case of divorcee/affidavit of desertion in case of deserter.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme Free basic computer training for women and girls, general information about MS Word, MS Excel, MS Power Point, email etc. is given."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under the scheme Free basic computer training for women and girls, general information about MS Word, MS Excel, MS Power Point, email etc. is given.\n"
+        },
+        {
+          "question": "What should be the education of the beneficiary under scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The beneficiary must have passed class 10th, only after this, the beneficiary will be considered eligible for the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary must have passed class 10th, only after this, the beneficiary will be considered eligible for the scheme.\n"
+        },
+        {
+          "question": "May Other State persons also apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This scheme is only for the native citizens of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "This scheme is only for the native citizens of Rajasthan.\n"
+        },
+        {
+          "question": "Is there any age criteria ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Girls and women between the ages of 16 years to 40 years will be considered eligible for the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girls and women between the ages of 16 years to 40 years will be considered eligible for the scheme.\n"
+        },
+        {
+          "question": "Can boy also take the benefit this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scheme is only for girls/women."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is only for girls/women.\n"
+        },
+        {
+          "question": "Can students from all streams avail the benefits of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes.\n"
+        },
+        {
+          "question": "Widows, divorcees can apply this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, they both can apply this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, they both can apply this scheme.\n"
+        },
+        {
+          "question": "How do I know if a field in the application form is mandatory?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A distinctive sign “*” symbol, “mandatory” mention."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A distinctive sign \"*\" symbol, \"mandatory\" mention.\n"
+        },
+        {
+          "question": "Which is the implementing department of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Women and Child Development Department of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Women and Child Development Department of Rajasthan.\n"
+        },
+        {
+          "question": "Is this scheme for Urban area?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, Urban and Rural area people can apply this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Urban and Rural area people can apply this scheme.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत महिलाओं और लड़कियों के लिए मुफ्त बुनियादी कंप्यूटर प्रशिक्षण, एमएस वर्ड, एमएस एक्सेल, एमएस पावर प्वाइंट, ईमेल आदि के बारे में सामान्य जानकारी दी जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under the scheme Free basic computer training for women and girls, general information about MS Word, MS Excel, MS Power Point, email etc. is given.\n"
+        },
+        {
+          "question": "योजना के तहत लाभार्थी की शिक्षा क्या होनी चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी को 10वीं कक्षा उत्तीर्ण होना चाहिए, इसके बाद ही लाभार्थी को योजना के लिए पात्र माना जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary must have passed class 10th, only after this, the beneficiary will be considered eligible for the scheme.\n"
+        },
+        {
+          "question": "क्या राज्य के अन्य व्यक्ति भी इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना केवल राजस्थान के मूल निवासियों के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "This scheme is only for the native citizens of Rajasthan.\n"
+        },
+        {
+          "question": "क्या कोई आयु मानदंड है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "16 वर्ष से 40 वर्ष की आयु की लड़कियों और महिलाओं को इस योजना के लिए पात्र माना जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girls and women between the ages of 16 years to 40 years will be considered eligible for the scheme.\n"
+        },
+        {
+          "question": "क्या लड़का भी इस योजना का लाभ उठा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना केवल लड़कियों/महिलाओं के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is only for girls/women.\n"
+        },
+        {
+          "question": "क्या सभी स्ट्रीम के छात्र इस योजना का लाभ उठा सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes.\n"
+        },
+        {
+          "question": "विधवाएँ, तलाकशुदा इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, वे दोनों इस योजना को लागू कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, they both can apply this scheme.\n"
+        },
+        {
+          "question": "मुझे कैसे पता चलेगा कि आवेदन पत्र में कोई क्षेत्र अनिवार्य है या नहीं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक विशिष्ट चिन्ह \"*\" प्रतीक, \"अनिवार्य\" उल्लेख।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A distinctive sign \"*\" symbol, \"mandatory\" mention.\n"
+        },
+        {
+          "question": "इस योजना का कार्यान्वयन विभाग कौन सा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान का महिला और बाल विकास विभाग।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Women and Child Development Department of Rajasthan.\n"
+        },
+        {
+          "question": "क्या यह योजना शहरी क्षेत्र के लिए है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, शहरी और ग्रामीण क्षेत्र के लोग इस योजना के लिए आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Urban and Rural area people can apply this scheme.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1226 @@
+{
+  "scheme_id": "67b8594cd6a94de2eee5a7dd",
+  "slug": "tuk-sept",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Self-employment",
+        "Business",
+        "Transgender",
+        "Financial Assistance",
+        "Loan"
+      ],
+      "schemeName": "Transgender Utthan Kosh - Self Employment Programme for Transgender",
+      "schemeShortTitle": "TUK-SEPT",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110051259226370.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Transgender Utthan Kosh - Self Employment Programme for Transgender&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, with the aim of providing financial support for self-employment or business establishment to transgender individuals, promoting their economic independence.\nUnder the scheme, transgender persons aged between 21 and 50 years are eligible to take a loan from any nationalized or cooperative bank to set up their self-employment or business. The loan amount may be revised by the state government from time to time. The benefit of the scheme is available to a transgender person only once.\n",
+      "benefits_md": "\n- **Financial Assistance:** 25% of the total business cost or ₹50,000/- (whichever is lower) for self-employment/business establishment.- **Loan Support:** The beneficiary must secure a loan from a nationalized/cooperative bank to avail of the grant.- **One-Time Benefit:** The assistance is available only once per individual.\n**Note:** The grant is disbursed only after the beneficiary starts the business and gets it verified by the lending agency.\n",
+      "briefDescription": "The scheme objective is to provide financial assistance to transgender individuals for self-employment/business establishment. Eligible beneficiaries can receive up to ₹50,000/- or 25% of the project cost.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Transgender Utthan Kosh - Self Employment Programme for Transgender\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, with the aim of providing financial support for self-employment or business establishment to transgender individuals, promoting their economic independence."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme, transgender persons aged between 21 and 50 years are eligible to take a loan from any nationalized or cooperative bank to set up their self-employment or business. The loan amount may be revised by the state government from time to time. The benefit of the scheme is available to a transgender person only once."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Assistance:",
+                  "bold": true
+                },
+                {
+                  "text": " 25% of the total business cost or ₹50,000/- (whichever is lower) for self-employment/business establishment."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Loan Support:",
+                  "bold": true
+                },
+                {
+                  "text": " The beneficiary must secure a loan from a nationalized/cooperative bank to avail of the grant."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One-Time Benefit:",
+                  "bold": true
+                },
+                {
+                  "text": " The assistance is available only once per individual."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " The grant is disbursed only after the beneficiary starts the business and gets it verified by the lending agency."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: The interested applicant should visit (during office hours) the Social Justice and Empowerment Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: Submit the duly filled and signed application form along with the documents to the Social Justice and Empowerment Office. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: Request a receipt or acknowledgment from the Social Justice and Empowerment Office to whom the application has been submitted."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After a transgender person takes a loan from any nationalized / cooperative bank, on the basis of loan approval, the District Magistrate will deposit the grant amount in the loan account of the transgender person."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The applicant will receive the said amount only on the condition that he starts the related business and gets its physical verification done by the related lending agency."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "Step 1: The interested applicant should visit (during office hours) the Social Justice and Empowerment Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in application.\nStep 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\nStep 3: Submit the duly filled and signed application form along with the documents to the Social Justice and Empowerment Office. \nStep 4: Request a receipt or acknowledgment from the Social Justice and Empowerment Office to whom the application has been submitted.\n**Note 1:** After a transgender person takes a loan from any nationalized / cooperative bank, on the basis of loan approval, the District Magistrate will deposit the grant amount in the loan account of the transgender person.\n**Note 2:** The applicant will receive the said amount only on the condition that he starts the related business and gets its physical verification done by the related lending agency.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Rajasthan.\n1. The applicant should be a transgender person.\n1. The applicant should be between 21 and 50 years of age.\n1. The applicant should secure a loan from a nationalized/cooperative bank.\n1. The gross annual income of applicant should not exceed ₹8,00,000/-.\n1. Each transgender individual can avail the benefits of this scheme only once.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a transgender person."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be between 21 and 50 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should secure a loan from a nationalized/cooperative bank."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The gross annual income of applicant should not exceed ₹8,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Each transgender individual can avail the benefits of this scheme only once."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "स्व-रोजगार",
+        "कारोबार",
+        "ट्रांसजेंडर",
+        "वित्तीय सहायता",
+        "ऋण"
+      ],
+      "schemeName": "ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर के लिए स्व-रोजगार कार्यक्रम",
+      "schemeShortTitle": "TUK-SEPT",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "स्थापना/स्टार्टअप/उद्यमिता"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "उद्यमिता विकास"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110051259226370.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "ट्रांसजेंडर उत्थान कोष योजना-ट्रांसजेंडर के लिए स्व-रोजगार कार्यक्रम राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू किया गया था, जिसका उद्देश्य ट्रांसजेंडर व्यक्तियों को उनकी आर्थिक स्वतंत्रता को बढ़ावा देने के लिए स्व-रोजगार या व्यावसायिक प्रतिष्ठान के लिए वित्तीय सहायता प्रदान करना था। इस योजना के तहत, 21 से 50 वर्ष की आयु के ट्रांसजेंडर व्यक्ति अपना स्व-रोजगार या व्यवसाय स्थापित करने के लिए किसी भी राष्ट्रीयकृत या सहकारी बैंक से ऋण लेने के पात्र हैं। ऋण राशि को राज्य सरकार द्वारा समय-समय पर संशोधित किया जा सकता है। इस योजना का लाभ एक ट्रांसजेंडर व्यक्ति को केवल एक बार मिलता है।",
+      "benefits_md": "- * * वित्तीय सहायताः * * कुल व्यावसायिक लागत का 25 प्रतिशत या स्व-रोजगार/व्यावसायिक प्रतिष्ठान के लिए ₹50,000/- (जो भी कम हो)। * * नोटः * * अनुदान तभी वितरित किया जाता है जब लाभार्थी व्यवसाय शुरू करता है और इसे ऋण देने वाली एजेंसी द्वारा सत्यापित किया जाता है।",
+      "briefDescription": "इस योजना का उद्देश्य ट्रांसजेंडर व्यक्तियों को स्व-रोजगार/व्यावसायिक प्रतिष्ठान के लिए वित्तीय सहायता प्रदान करना है। पात्र लाभार्थी ₹50,000/- या परियोजना लागत का 25 प्रतिशत तक प्राप्त कर सकते हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर के लिए स्व-रोजगार कार्यक्रम\" योजना सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार द्वारा शुरू की गई थी, जिसका उद्देश्य ट्रांसजेंडर व्यक्तियों को उनकी आर्थिक स्वतंत्रता को बढ़ावा देने के लिए स्व-रोजगार या व्यावसायिक प्रतिष्ठान के लिए वित्तीय सहायता प्रदान करना था।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, 21 से 50 वर्ष की आयु के ट्रांसजेंडर व्यक्ति अपना स्व-रोजगार या व्यवसाय स्थापित करने के लिए किसी भी राष्ट्रीयकृत या सहकारी बैंक से ऋण लेने के पात्र हैं। ऋण राशि को राज्य सरकार द्वारा समय-समय पर संशोधित किया जा सकता है। इस योजना का लाभ एक ट्रांसजेंडर व्यक्ति को केवल एक बार मिलता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आर्थिक मददः",
+                  "bold": true
+                },
+                {
+                  "text": "स्व-रोजगार/व्यावसायिक प्रतिष्ठान के लिए कुल व्यावसायिक लागत का 25 प्रतिशत या 50,000/- (जो भी कम हो)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ऋण समर्थनः",
+                  "bold": true
+                },
+                {
+                  "text": "अनुदान का लाभ उठाने के लिए लाभार्थी को राष्ट्रीयकृत/सहकारी बैंक से ऋण लेना होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एकमुश्त लाभः",
+                  "bold": true
+                },
+                {
+                  "text": "सहायता प्रति व्यक्ति केवल एक बार उपलब्ध है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "लाभार्थी द्वारा व्यवसाय शुरू करने और ऋण देने वाली एजेंसी द्वारा सत्यापित किए जाने के बाद ही अनुदान वितरित किया जाता है।"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1: इच्छुक आवेदक को (कार्यालय समय के दौरान) सामाजिक न्याय और अधिकारिता कार्यालय जाना चाहिए और विशेष रूप से भरे हुए आवेदन को जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3: सामाजिक न्याय और अधिकारिता कार्यालय में दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4: सामाजिक न्याय और अधिकारिता कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "एक ट्रांसजेंडर व्यक्ति के किसी भी राष्ट्रीयकृत/सहकारी बैंक से ऋण लेने के बाद, ऋण अनुमोदन के आधार पर, जिला मजिस्ट्रेट अनुदान राशि को ट्रांसजेंडर व्यक्ति के ऋण खाते में जमा करेगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदक को उक्त राशि केवल इस शर्त पर प्राप्त होगी कि वह संबंधित व्यवसाय शुरू करेगा और संबंधित ऋण देने वाली एजेंसी द्वारा इसका भौतिक सत्यापन कराएगा।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को (कार्यालय समय के दौरान) सामाजिक न्याय और अधिकारिता कार्यालय जाना चाहिए और विशेष रूप से भरे हुए आवेदन को जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। चरण 3: सामाजिक न्याय और अधिकारिता कार्यालय में दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें। चरण 4: सामाजिक न्याय और अधिकारिता कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। * * नोट 1: * * एक ट्रांसजेंडर व्यक्ति के किसी भी राष्ट्रीयकृत/सहकारी बैंक से ऋण लेने के बाद, ऋण अनुमोदन के आधार पर, जिला मजिस्ट्रेट अनुदान राशि को ट्रांसजेंडर व्यक्ति के ऋण खाते में जमा करेगा। * * नोट 2: * * आवेदक को उक्त राशि केवल इस शर्त पर प्राप्त होगी कि वह संबंधित व्यवसाय शुरू करेगा और संबंधित ऋण देने वाली एजेंसी द्वारा इसका भौतिक सत्यापन कराएगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 21,
+          "lte": 50,
+          "category": "General"
+        },
+        {
+          "gte": 21,
+          "lte": 50,
+          "category": "EWS"
+        },
+        {
+          "gte": 21,
+          "lte": 50,
+          "category": "Female"
+        },
+        {
+          "gte": 21,
+          "lte": 50,
+          "category": "OBC"
+        },
+        {
+          "gte": 21,
+          "lte": 50,
+          "category": "SC"
+        },
+        {
+          "gte": 21,
+          "lte": 50,
+          "category": "ST"
+        },
+        {
+          "gte": 21,
+          "lte": 50,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": 800000
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक एक ट्रांसजेंडर व्यक्ति होना चाहिए। 1. आवेदक की आयु 21 से 50 वर्ष के बीच होनी चाहिए। 1. आवेदक को किसी राष्ट्रीयकृत/सहकारी बैंक से ऋण लेना चाहिए। 1. आवेदक की सकल वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए। 1. प्रत्येक ट्रांसजेंडर व्यक्ति इस योजना का लाभ केवल एक बार ले सकता है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक एक ट्रांसजेंडर व्यक्ति होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 21 से 50 वर्ष के बीच होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को किसी राष्ट्रीयकृत/सहकारी बैंक से ऋण लेना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की सकल वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रत्येक ट्रांसजेंडर व्यक्ति इस योजना का लाभ केवल एक बार ले सकता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "transgender",
+          "label": "ट्रांसजेंडर"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 21,
+        "lte": 50,
+        "category": "General"
+      },
+      {
+        "gte": 21,
+        "lte": 50,
+        "category": "EWS"
+      },
+      {
+        "gte": 21,
+        "lte": 50,
+        "category": "Female"
+      },
+      {
+        "gte": 21,
+        "lte": 50,
+        "category": "OBC"
+      },
+      {
+        "gte": 21,
+        "lte": 50,
+        "category": "SC"
+      },
+      {
+        "gte": 21,
+        "lte": 50,
+        "category": "ST"
+      },
+      {
+        "gte": 21,
+        "lte": 50,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": 800000
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक एक ट्रांसजेंडर व्यक्ति होना चाहिए। 1. आवेदक की आयु 21 से 50 वर्ष के बीच होनी चाहिए। 1. आवेदक को किसी राष्ट्रीयकृत/सहकारी बैंक से ऋण लेना चाहिए। 1. आवेदक की सकल वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए। 1. प्रत्येक ट्रांसजेंडर व्यक्ति इस योजना का लाभ केवल एक बार ले सकता है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक एक ट्रांसजेंडर व्यक्ति होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की आयु 21 से 50 वर्ष के बीच होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को किसी राष्ट्रीयकृत/सहकारी बैंक से ऋण लेना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की सकल वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "प्रत्येक ट्रांसजेंडर व्यक्ति इस योजना का लाभ केवल एक बार ले सकता है।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "transgender",
+        "label": "ट्रांसजेंडर"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate of Parent/Guardian "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Original Residence Certificate/Ration Card/Voter ID Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Bank Passbooks"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Age Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity Card\n1. Aadhar Card Copy\n1. Income Certificate of Parent/Guardian \n1. Original Residence Certificate/Ration Card/Voter ID Card\n1. Copy of Bank Passbooks\n1. Age Certificate\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता/अभिभावक का आय प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मूल निवास प्रमाण पत्र/राशन कार्ड/मतदाता पहचान पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयु प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity Card\n1. Aadhar Card Copy\n1. Income Certificate of Parent/Guardian \n1. Original Residence Certificate/Ration Card/Voter ID Card\n1. Copy of Bank Passbooks\n1. Age Certificate\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for the Transgender Upliftment Fund?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The transgender person aged between 21-50 years and a resident of Rajasthan can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The transgender person aged between 21-50 years and a resident of Rajasthan can apply.\n"
+        },
+        {
+          "question": "What is the financial assistance provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme provides 25% of the total business cost or ₹50,000, whichever is lower."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides 25% of the total business cost or [?]50,000, whichever is lower.\n"
+        },
+        {
+          "question": "Do I need to take a loan to avail of the scheme benefits?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant must secure a loan from a nationalized or cooperative bank."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must secure a loan from a nationalized or cooperative bank.\n"
+        },
+        {
+          "question": "Which department implements this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Social Justice & Empowerment Department, Government of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Social Justice & Empowerment Department, Government of Rajasthan.\n"
+        },
+        {
+          "question": "How can I apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Submit an application along with required documents to the Social Justice & Empowerment Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit an application along with required documents to the Social Justice & Empowerment Department.\n"
+        },
+        {
+          "question": "Can I apply if I am working in a job?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if you intend to start a self-employment venture."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if you intend to start a self-employment venture.\n"
+        },
+        {
+          "question": "How is the grant disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The amount is transferred directly to the applicant's loan account after verification."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred directly to the applicant's loan account after verification.\n"
+        },
+        {
+          "question": "What documents are required for application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Transgender Identity Certificate, residence proof, age proof, loan sanction letter, and business plan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender Identity Certificate, residence proof, age proof, loan sanction letter, and business plan.\n"
+        },
+        {
+          "question": "What type of businesses are eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Any legal business for self-employment approved by the lending bank."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Any legal business for self-employment approved by the lending bank.\n"
+        },
+        {
+          "question": "Can I apply if I am working in a job?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if you intend to start a self-employment venture."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if you intend to start a self-employment venture.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "ट्रांसजेंडर उत्थान कोष के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "21-50 वर्ष के बीच की आयु का ट्रांसजेंडर व्यक्ति और राजस्थान का निवासी आवेदन कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The transgender person aged between 21-50 years and a resident of Rajasthan can apply.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना कुल व्यावसायिक लागत का 25 प्रतिशत या ₹50,000, जो भी कम हो, प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides 25% of the total business cost or [?]50,000, whichever is lower.\n"
+        },
+        {
+          "question": "क्या इस योजना का लाभ उठाने के लिए मुझे ऋण लेने की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक को किसी राष्ट्रीयकृत या सहकारी बैंक से ऋण लेना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must secure a loan from a nationalized or cooperative bank.\n"
+        },
+        {
+          "question": "कौन सा विभाग इस योजना को लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Social Justice & Empowerment Department, Government of Rajasthan.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग को आवश्यक दस्तावेजों के साथ एक आवेदन जमा करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit an application along with required documents to the Social Justice & Empowerment Department.\n"
+        },
+        {
+          "question": "अगर मैं नौकरी कर रहा हूँ तो क्या मैं आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यदि आप एक स्व-रोजगार उद्यम शुरू करने का इरादा रखते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if you intend to start a self-employment venture.\n"
+        },
+        {
+          "question": "अनुदान का वितरण कैसे किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सत्यापन के बाद राशि सीधे आवेदक के ऋण खाते में हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred directly to the applicant's loan account after verification.\n"
+        },
+        {
+          "question": "आवेदन के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर पहचान प्रमाण पत्र, निवास प्रमाण पत्र, आयु प्रमाण पत्र, ऋण मंजूरी पत्र और व्यवसाय योजना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender Identity Certificate, residence proof, age proof, loan sanction letter, and business plan.\n"
+        },
+        {
+          "question": "किस प्रकार के व्यवसाय पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ऋण देने वाले बैंक द्वारा अनुमोदित स्व-रोजगार के लिए कोई भी कानूनी व्यवसाय।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Any legal business for self-employment approved by the lending bank.\n"
+        },
+        {
+          "question": "अगर मैं नौकरी कर रहा हूँ तो क्या मैं आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यदि आप एक स्व-रोजगार उद्यम शुरू करने का इरादा रखते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if you intend to start a self-employment venture.\n"
+        }
+      ]
+    }
+  }
+}

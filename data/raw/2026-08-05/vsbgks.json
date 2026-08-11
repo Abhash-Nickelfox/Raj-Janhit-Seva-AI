@@ -1,0 +1,1109 @@
+{
+  "scheme_id": "6763f1cbf41779c1f975ad92",
+  "slug": "vsbgks",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal Shelter",
+        "Cattle Welfare Scheme",
+        "Cow Protection",
+        "Animal Husbandry"
+      ],
+      "schemeName": "Vadh Se Bachaye Govansh Ko Sahayata Yojana",
+      "schemeShortTitle": "VSBGKS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "Shelter, integrated support and assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "joint-liability-groups",
+          "label": "Joint Liability Groups (JLGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000002,
+        "label": "Animal Husbandry Department"
+      },
+      "schemeFor": "Infra"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://gopalan.rajasthan.gov.in/scheme/detail/578"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Vadh Se Bachaye Govansh Ko Sahayata Yojana&amp;quot; scheme, by the Animal Husbandry Department, Rajasthan, aims to ensure the welfare of cattle saved from illegal slaughter or smuggling. Registered cow shelters (gaushalas), municipal bodies, Panchayati Raj institutions, or other approved organizations are entrusted with the custody of such cattle. Financial assistance is provided for their fodder and care for the duration of custody or up to one year, whichever is shorter.\n",
+      "benefits_md": "\n  - Financial assistance of ₹40/day for large cattle and ₹20/day for small cattle.\n  - Support is provided for a maximum of one (1) year or the custody period, whichever is shorter.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The \"Vadh Se Bachaye Govansh Ko Sahayata Yojana\" scheme, initiated by the Directorate of Gopalan on 02/07/2015, provides financial assistance for the care and maintenance of cattle rescued from illegal slaughter or smuggling.\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Vadh Se Bachaye Govansh Ko Sahayata Yojana\" scheme, by the Animal Husbandry Department, Rajasthan, aims to ensure the welfare of cattle saved from illegal slaughter or smuggling. Registered cow shelters (gaushalas), municipal bodies, Panchayati Raj institutions, or other approved organizations are entrusted with the custody of such cattle. Financial assistance is provided for their fodder and care for the duration of custody or up to one year, whichever is shorter."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Financial assistance of ₹40/day for large cattle and ₹20/day for small cattle."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Support is provided for a maximum of one (1) year or the custody period, whichever is shorter."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Collect the application form from the office of the District Joint Director, Department of Animal Husbandry."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in the details and attach the required documents (FIR copy and approval)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the application to the office of the District Joint Director, Department of Animal Husbandry."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "The application will be reviewed and approved by the District-level Gopalan Committee."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Upon approval, funds will be disbursed to the organization."
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Scheme Contact Details:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Nodal Officer Name & Designation: Dr Kaushal Kumar Verma; Joint Director\t"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Phone Number: 9414207430"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Email: dir.dgs@rajasthan.gov.in"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Collect the application form from the office of the District Joint Director, Department of Animal Husbandry.\n**Step 2:** Fill in the details and attach the required documents (FIR copy and approval).\n**Step 3:** Submit the application to the office of the District Joint Director, Department of Animal Husbandry.\n**Step 4:** The application will be reviewed and approved by the District-level Gopalan Committee.\n**Step 5:** Upon approval, funds will be disbursed to the organization.\n&gt; **Scheme Contact Details:**\n\n&gt; Nodal Officer Name &amp;amp; Designation: Dr Kaushal Kumar Verma; Joint Director\t\n\n&gt; Phone Number: 9414207430\n\n&gt; Email: dir.dgs@rajasthan.gov.in\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - Registered Gaushalas/ Nandi Shalas/ Kanj Houses/ Local bodies/ Panchayati Raj institutions/Other approved institutions which are taking care of cows rescued from cow smuggling/ slaughter.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Registered Gaushalas/ Nandi Shalas/ Kanj Houses/ Local bodies/ Panchayati Raj institutions/Other approved institutions which are taking care of cows rescued from cow smuggling/ slaughter."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "पशु आश्रय",
+        "पशु कल्याण योजना",
+        "गायों का संरक्षण",
+        "पशुपालन"
+      ],
+      "schemeName": "वध से बचे गोवंश को सहायता योजना",
+      "schemeShortTitle": "VSBGKS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "आश्रय, एकीकृत सहायता और सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "joint-liability-groups",
+          "label": "Joint Liability Groups (JLGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000002,
+        "label": "पशुपालन विभाग"
+      },
+      "schemeFor": "Infra"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://gopalan.rajasthan.gov.in/scheme/detail/578"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "पशुपालन विभाग, राजस्थान द्वारा 'वध से बचे गोवंश को सहायता योजना' का उद्देश्य अवैध वध या तस्करी से बचाए गए मवेशियों का कल्याण सुनिश्चित करना है। पंजीकृत गौशालाओं (गौशालाओं), नगर निकायों, पंचायती राज संस्थानों या अन्य अनुमोदित संगठनों को ऐसे मवेशियों की देखरेख का काम सौंपा जाता है। उनके चारे और देखभाल के लिए अभिरक्षा की अवधि या एक वर्ष तक, जो भी कम हो, के लिए वित्तीय सहायता प्रदान की जाती है।",
+      "benefits_md": "- बड़े मवेशियों के लिए ₹40/दिन और छोटे मवेशियों के लिए ₹20/दिन की वित्तीय सहायता-अधिकतम एक (1) वर्ष या अभिरक्षा अवधि, जो भी कम हो, के लिए सहायता प्रदान की जाती है।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "गोपालन निदेशालय द्वारा 02/07/2015 पर शुरू की गई \"वध से बचे गोवंश को सहायता योजना\", अवैध वध या तस्करी से बचाए गए मवेशियों की देखभाल और रखरखाव के लिए वित्तीय सहायता प्रदान करती है।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पशुपालन विभाग, राजस्थान द्वारा \"वध से बचे गोवंश को सहायता योजना\" योजना का उद्देश्य अवैध वध या तस्करी से बचाए गए मवेशियों का कल्याण सुनिश्चित करना है। पंजीकृत गौशालाओं (गौशालाओं), नगर निकायों, पंचायती राज संस्थानों या अन्य अनुमोदित संगठनों को ऐसे मवेशियों की देखरेख का काम सौंपा जाता है। उनके चारे और देखभाल के लिए अभिरक्षा की अवधि या एक वर्ष तक, जो भी कम हो, के लिए वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बड़े मवेशियों के लिए ₹40/दिन और छोटे मवेशियों के लिए ₹20/दिन की वित्तीय सहायता।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सहायता अधिकतम एक (1) वर्ष या अभिरक्षा अवधि, जो भी कम हो, के लिए प्रदान की जाती है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय से आवेदन पत्र एकत्र करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "विवरण भरें और आवश्यक दस्तावेज (एफ. आई. आर. की प्रति और अनुमोदन) संलग्न करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय में आवेदन जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन की जिला स्तरीय गोपालन समिति द्वारा समीक्षा और अनुमोदन किया जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 5:",
+                "bold": true
+              },
+              {
+                "text": "अनुमोदन के बाद, संगठन को धन वितरित किया जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "योजना संपर्क विवरणः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "नोडल अधिकारी का नाम और पदनामः डॉ. कौशल कुमार वर्मा; संयुक्त निदेशक"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "फोन नंबरः 9414207430"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "ईमेलः dir.dgs@rajasthan.gov.in"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * * जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय से आवेदन पत्र एकत्र करें। चरण 2: विवरण भरें और आवश्यक दस्तावेज (एफ. आई. आर. की प्रति और अनुमोदन) संलग्न करें। * * चरण 3: * * जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय में आवेदन जमा करें। * * चरण 4: * * आवेदन की समीक्षा की जाएगी और जिला स्तर की गोपालन समिति द्वारा अनुमोदित किया जाएगा। * * चरण 5: मंजूरी मिलने पर, संगठन को धन वितरित किया जाएगा। योजना संपर्क विवरणः नोडल अधिकारी का नाम और पदनामः डॉ. कौशल कुमार वर्मा; संयुक्त निदेशक और जीटी; फोन नंबरः 9414207430 & जीटी; ईमेलः dir.dgs@rajasthan.gov.in"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "- पंजीकृत गौशालाएं/नंदी शालाएं/कांज हाउस/स्थानीय निकाय/पंचायती राज संस्थान/अन्य अनुमोदित संस्थान जो गाय की तस्करी/वध से बचाई गई गायों की देखभाल कर रहे हैं।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पंजीकृत गौशालाएँ/नंदी शालाएँ/कांज हाउस/स्थानीय निकाय/पंचायती राज संस्थान/अन्य अनुमोदित संस्थान जो गाय की तस्करी/वध से बचाई गई गायों की देखभाल कर रहे हैं।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "- पंजीकृत गौशालाएं/नंदी शालाएं/कांज हाउस/स्थानीय निकाय/पंचायती राज संस्थान/अन्य अनुमोदित संस्थान जो गाय की तस्करी/वध से बचाई गई गायों की देखभाल कर रहे हैं।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पंजीकृत गौशालाएँ/नंदी शालाएँ/कांज हाउस/स्थानीय निकाय/पंचायती राज संस्थान/अन्य अनुमोदित संस्थान जो गाय की तस्करी/वध से बचाई गई गायों की देखभाल कर रहे हैं।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Copy of the FIR related to cattle rescue."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Approval copy from a competent authority."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n  - Copy of the FIR related to cattle rescue.\n  - Approval copy from a competent authority.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पशु बचाव से संबंधित एफ. आई. आर. की प्रति।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सक्षम प्राधिकारी से अनुमोदन प्रतिलिपि।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n  - Copy of the FIR related to cattle rescue.\n  - Approval copy from a competent authority.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the \"Vadh se bachaye govansh ko sahayata\"?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The objective of the scheme is to provide financial assistance for the care and maintenance of cattle rescued from illegal slaughter or smuggling."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the scheme is to provide financial assistance for the care and maintenance of cattle rescued from illegal slaughter or smuggling.\n"
+        },
+        {
+          "question": "Who is eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Registered organizations such as gaushalas, Nandishalas, kanji houses, municipal bodies, or Panchayati Raj institutions that have custody of cattle rescued from smuggling or illegal slaughter are eligible for the scheme.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Registered organizations such as gaushalas, Nandishalas, kanji houses, municipal bodies, or Panchayati Raj institutions that have custody of cattle rescued from smuggling or illegal slaughter are eligible for the scheme.\n\n\n"
+        },
+        {
+          "question": "What type of assistance is provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme provides financial assistance of ₹40/- per day for large cattle and ₹20/- per day for small cattle to support their fodder and maintenance.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides financial assistance of [?]40/- per day for large cattle and [?]20/- per day for small cattle to support their fodder and maintenance.\n\n\n"
+        },
+        {
+          "question": "What is the maximum duration for receiving assistance?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Assistance is provided for a maximum duration of one year or the custody period of the cattle, whichever is shorter.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Assistance is provided for a maximum duration of one year or the custody period of the cattle, whichever is shorter.\n\n\n"
+        },
+        {
+          "question": "What documents are required to apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants must provide a copy of the FIR related to the cattle rescue and approval from a competent authority.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants must provide a copy of the FIR related to the cattle rescue and approval from a competent authority.\n\n\n"
+        },
+        {
+          "question": "Where can the application form for the scheme be obtained?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application form can be obtained from the office of the District Joint Director, Department of Animal Husbandry.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application form can be obtained from the office of the District Joint Director, Department of Animal Husbandry.\n\n\n"
+        },
+        {
+          "question": "How is the application processed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications are reviewed and approved by the District-level Gopalan Committee after submission. Upon approval, the financial assistance is disbursed to the organization.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications are reviewed and approved by the District-level Gopalan Committee after submission. Upon approval, the financial assistance is disbursed to the organization.\n\n\n"
+        },
+        {
+          "question": "Can individuals apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, individuals cannot apply for the scheme. It is exclusively for registered organizations that meet the eligibility criteria.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, individuals cannot apply for the scheme. It is exclusively for registered organizations that meet the eligibility criteria.\n\n\n"
+        },
+        {
+          "question": "How is the assistance amount calculated?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The assistance amount is calculated based on the number of rescued cattle and the daily rate specified for large and small cattle.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The assistance amount is calculated based on the number of rescued cattle and the daily rate specified for large and small cattle.\n\n\n"
+        },
+        {
+          "question": "Is there a specific deadline for submitting applications?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "While there is no fixed deadline, applications should be submitted promptly after custody of the rescued cattle is taken.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "While there is no fixed deadline, applications should be submitted promptly after custody of the rescued cattle is taken.\n\n\n"
+        },
+        {
+          "question": "Whom can applicants contact for more information about the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants can contact the office of the District Joint Director, Department of Animal Husbandry, for more information and assistance regarding the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can contact the office of the District Joint Director, Department of Animal Husbandry, for more information and assistance regarding the scheme.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "\"वध से बचे गोवंश को सहायता\" का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य अवैध वध या तस्करी से बचाए गए मवेशियों की देखभाल और रखरखाव के लिए वित्तीय सहायता प्रदान करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the scheme is to provide financial assistance for the care and maintenance of cattle rescued from illegal slaughter or smuggling.\n"
+        },
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "गोशाला, नंदीशाला, कांजी हाउस, नगर निकाय या पंचायती राज संस्थान जैसे पंजीकृत संगठन जिनके पास तस्करी या अवैध वध से बचाए गए मवेशियों की अभिरक्षा है, वे इस योजना के लिए पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Registered organizations such as gaushalas, Nandishalas, kanji houses, municipal bodies, or Panchayati Raj institutions that have custody of cattle rescued from smuggling or illegal slaughter are eligible for the scheme.\n\n\n"
+        },
+        {
+          "question": "इस योजना के तहत किस प्रकार की सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना बड़े मवेशियों के लिए 40 रुपये प्रति दिन और छोटे मवेशियों के लिए 20 रुपये प्रति दिन की वित्तीय सहायता प्रदान करती है ताकि उनके चारे और रखरखाव का समर्थन किया जा सके।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides financial assistance of [?]40/- per day for large cattle and [?]20/- per day for small cattle to support their fodder and maintenance.\n\n\n"
+        },
+        {
+          "question": "सहायता प्राप्त करने की अधिकतम अवधि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सहायता अधिकतम एक वर्ष की अवधि या मवेशियों की अभिरक्षा अवधि, जो भी कम हो, के लिए प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Assistance is provided for a maximum duration of one year or the custody period of the cattle, whichever is shorter.\n\n\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदकों को मवेशियों के बचाव और एक सक्षम प्राधिकारी से अनुमोदन से संबंधित प्राथमिकी की एक प्रति प्रदान करनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants must provide a copy of the FIR related to the cattle rescue and approval from a competent authority.\n\n\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन पत्र कहाँ से प्राप्त किया जा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन पत्र जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय से प्राप्त किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application form can be obtained from the office of the District Joint Director, Department of Animal Husbandry.\n\n\n"
+        },
+        {
+          "question": "आवेदन की प्रक्रिया कैसे की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जमा करने के बाद जिला स्तरीय गोपालन समिति द्वारा आवेदनों की समीक्षा और अनुमोदन किया जाता है। अनुमोदन पर, वित्तीय सहायता संगठन को वितरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications are reviewed and approved by the District-level Gopalan Committee after submission. Upon approval, the financial assistance is disbursed to the organization.\n\n\n"
+        },
+        {
+          "question": "क्या व्यक्ति इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, व्यक्ति इस योजना के लिए आवेदन नहीं कर सकते हैं। यह विशेष रूप से पंजीकृत संगठनों के लिए है जो पात्रता मानदंडों को पूरा करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, individuals cannot apply for the scheme. It is exclusively for registered organizations that meet the eligibility criteria.\n\n\n"
+        },
+        {
+          "question": "सहायता राशि की गणना कैसे की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सहायता राशि की गणना बचाए गए मवेशियों की संख्या और बड़े और छोटे मवेशियों के लिए निर्दिष्ट दैनिक दर के आधार पर की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The assistance amount is calculated based on the number of rescued cattle and the daily rate specified for large and small cattle.\n\n\n"
+        },
+        {
+          "question": "क्या आवेदन जमा करने की कोई विशिष्ट समय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जबकि कोई निश्चित समय सीमा नहीं है, बचाए गए मवेशियों की अभिरक्षा लेने के तुरंत बाद आवेदन जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "While there is no fixed deadline, applications should be submitted promptly after custody of the rescued cattle is taken.\n\n\n"
+        },
+        {
+          "question": "योजना के बारे में अधिक जानकारी के लिए आवेदक किससे संपर्क कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना के संबंध में अधिक जानकारी और सहायता के लिए आवेदक पशुपालन विभाग के जिला संयुक्त निदेशक के कार्यालय से संपर्क कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can contact the office of the District Joint Director, Department of Animal Husbandry, for more information and assistance regarding the scheme.\n"
+        }
+      ]
+    }
+  }
+}

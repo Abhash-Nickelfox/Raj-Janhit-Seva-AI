@@ -1,0 +1,1792 @@
+{
+  "scheme_id": "65d834d5938a0b13cc8eaf82",
+  "slug": "nskvmyhvphvbkpy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Labour",
+        "Empowerment",
+        "Construction Worker",
+        "Financial Support"
+      ],
+      "schemeName": "Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana",
+      "schemeShortTitle": "NSVYB",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2020-12-20",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "Labour Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/LAB_/VISA/DOC_820_45f07db9-c276-4ef1-a382-7c5350622b19.pdf"
+        },
+        {
+          "title": "Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/820"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "This scheme, launched by the Rajasthan Government&#39;s Labor Department, is designed to alleviate the financial burden of visa expenses for construction workers seeking employment abroad. By reimbursing these costs, the scheme aims to encourage construction workers to pursue overseas employment opportunities and contribute to the state&#39;s economy through foreign remittances. \n",
+      "benefits_md": "> The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of ₹5,000/-.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The Labor department of Rajasthan started \"Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana\" to help construction workers.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme, launched by the Rajasthan Government's Labor Department, is designed to alleviate the financial burden of visa expenses for construction workers seeking employment abroad. By reimbursing these costs, the scheme aims to encourage construction workers to pursue overseas employment opportunities and contribute to the state's economy through foreign remittances. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of ₹5,000/-."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “LDMS” option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In LDMS, select \"Welfare Schemes\" from the side menu and select BOCW Welfare Board. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of \"Yojana\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out the all relevant detail. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Time for applying:",
+                "bold": true
+              },
+              {
+                "text": " After the date of publication of the notification, the registered beneficiary will have to apply within a maximum period of 3 months after obtaining a valid visa as per the rules."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “LDMS” option.\n**Step-4:** In LDMS, select &quot;Welfare Schemes&quot; from the side menu and select BOCW Welfare Board. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of &quot;Yojana&quot;\n**Step-7:** Fill out the all relevant detail. \n**Step-8:** Submit.\n<br>\n\n> **Time for applying:** After the date of publication of the notification, the registered beneficiary will have to apply within a maximum period of 3 months after obtaining a valid visa as per the rules.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Construction workers must be registered with the board as beneficiaries and must be continuously depositing their contributions.\n1. To obtain overseas contract employment, construction worker need permission from the Protector of Emigrants (POE) office under the Emigration Act, 1983.\n1. The recruiting agency must be registered under the Emigration Act or possess a valid permit from the POE office\n1. The reimbursement of the visa amount will be payable only if the beneficiary has a valid passport with a minimum validity of 6 months along with a valid visa.\n1. The benefit of this scheme will be payable only if the future employment of the beneficiary abroad is in the construction and other construction works.\n1. The beneficiary will be entitled to the assistance amount only once.\n1. If any information given in the assistance application submitted by the beneficiary under the scheme is found to be false, the concerned beneficiary will be responsible for depositing the entire assistance amount approved under the scheme along with interest in one go.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction workers must be registered with the board as beneficiaries and must be continuously depositing their contributions."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To obtain overseas contract employment, construction worker need permission from the Protector of Emigrants (POE) office under the Emigration Act, 1983."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The recruiting agency must be registered under the Emigration Act or possess a valid permit from the POE office"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The reimbursement of the visa amount will be payable only if the beneficiary has a valid passport with a minimum validity of 6 months along with a valid visa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The benefit of this scheme will be payable only if the future employment of the beneficiary abroad is in the construction and other construction works."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary will be entitled to the assistance amount only once."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If any information given in the assistance application submitted by the beneficiary under the scheme is found to be false, the concerned beneficiary will be responsible for depositing the entire assistance amount approved under the scheme along with interest in one go."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "श्रम",
+        "सशक्तिकरण",
+        "निर्माण कार्यकर्ता",
+        "वित्तीय सहायता"
+      ],
+      "schemeName": "निर्माण श्रमिको को विदेश माई रोजगार हेतू वीजा प्रति व्यक्ति व्याय का पुनर्भरण योजना",
+      "schemeShortTitle": "NSVYB",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "schemeOpenDate": "2020-12-20",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "श्रम विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/LAB_/VISA/DOC_820_45f07db9-c276-4ef1-a382-7c5350622b19.pdf"
+        },
+        {
+          "title": "विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/820"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के श्रम विभाग द्वारा शुरू की गई यह योजना विदेश में रोजगार चाहने वाले निर्माण श्रमिकों के लिए वीजा खर्च के वित्तीय बोझ को कम करने के लिए बनाई गई है। इन लागतों की प्रतिपूर्ति करके, इस योजना का उद्देश्य निर्माण श्रमिकों को विदेशों में रोजगार के अवसरों को प्राप्त करने के लिए प्रोत्साहित करना और विदेशी प्रेषण के माध्यम से राज्य की अर्थव्यवस्था में योगदान करना है।",
+      "benefits_md": "> लाभार्थी को विदेश में रोजगार के लिए वीजा के लिए अधिकतम ₹5,000/- तक के खर्च की प्रतिपूर्ति की जाएगी",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "राजस्थान के श्रम विभाग ने निर्माण श्रमिकों की मदद के लिए \"निर्माण श्रमिक को विदेश माई रोजगार हेतू वीजा पर होन वाले व्यवसाय का पुनर्भरण योजना\" शुरू की।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के श्रम विभाग द्वारा शुरू की गई यह योजना विदेश में रोजगार चाहने वाले निर्माण श्रमिकों के लिए वीजा खर्च के वित्तीय बोझ को कम करने के लिए बनाई गई है। इन लागतों की प्रतिपूर्ति करके, इस योजना का उद्देश्य निर्माण श्रमिकों को विदेशों में रोजगार के अवसरों को प्राप्त करने के लिए प्रोत्साहित करना और विदेशी प्रेषण के माध्यम से राज्य की अर्थव्यवस्था में योगदान करना है।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "लाभार्थी को विदेश में रोजगार के लिए वीजा के लिए किए गए खर्च की प्रतिपूर्ति अधिकतम ₹5,000/- तक की जाएगी"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"एल. डी. एम. एस\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "एल. डी. एम. एस. में, साइड मेन्यू से \"कल्याण योजनाएं\" चुनें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पेज पर राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की सूची मिलेगी, जिसमें से \"योजना\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करने का समयः",
+                "bold": true
+              },
+              {
+                "text": "अधिसूचना के प्रकाशन की तारीख के बाद, पंजीकृत लाभार्थी को नियमों के अनुसार वैध वीजा प्राप्त करने के बाद अधिकतम 3 महीने की अवधि के भीतर आवेदन करना होगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। चरण-3: एल. डी. एम. एस. विकल्प पर क्लिक करें। * * चरण-4: एल. डी. एम. एस. में, साइड मेन्यू से कल्याण योजनाओं का चयन करें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की एक सूची मिलेगी, जिसमें से 'योजना' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें। आवेदन करने का समयः अधिसूचना के प्रकाशन की तारीख के बाद, पंजीकृत लाभार्थी को नियमों के अनुसार वैध वीजा प्राप्त करने के बाद अधिकतम 3 महीने की अवधि के भीतर आवेदन करना होगा। <बीआर>"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. निर्माण श्रमिकों को बोर्ड के साथ लाभार्थियों के रूप में पंजीकृत होना चाहिए और लगातार अपना योगदान जमा करना चाहिए। 1. विदेशी अनुबंध रोजगार प्राप्त करने के लिए, निर्माण श्रमिक को उत्प्रवास अधिनियम, 1983 के तहत प्रोटेक्टर ऑफ इमिग्रेंट्स (पी. ओ. ई.) कार्यालय से अनुमति की आवश्यकता होती है। 1. भर्ती एजेंसी को उत्प्रवास अधिनियम के तहत पंजीकृत होना चाहिए या उसके पास पी. ओ. ई. कार्यालय से वैध परमिट होना चाहिए। वीजा राशि की प्रतिपूर्ति केवल तभी देय होगी जब लाभार्थी के पास वैध वीजा के साथ न्यूनतम 6 महीने की वैधता वाला वैध पासपोर्ट हो। 1. इस योजना का लाभ तभी देय होगा जब लाभार्थी का भविष्य का रोजगार विदेश में निर्माण और अन्य निर्माण कार्यों में हो। 1. लाभार्थी केवल एक बार सहायता राशि का हकदार होगा। 1. यदि योजना के तहत लाभार्थी द्वारा प्रस्तुत सहायता आवेदन में दी गई कोई भी जानकारी गलत पाई जाती है, तो संबंधित लाभार्थी एक बार में ब्याज के साथ योजना के तहत अनुमोदित पूरी सहायता राशि जमा करने के लिए जिम्मेदार होगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्माण श्रमिकों को बोर्ड के साथ लाभार्थियों के रूप में पंजीकृत होना चाहिए और लगातार अपना योगदान जमा करना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विदेशी अनुबंध रोजगार प्राप्त करने के लिए, निर्माण श्रमिक को उत्प्रवास अधिनियम, 1983 के तहत प्रोटेक्टर ऑफ इमिग्रेंट्स (पी. ओ. ई.) कार्यालय से अनुमति की आवश्यकता होती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भर्ती एजेंसी को उत्प्रवास अधिनियम के तहत पंजीकृत होना चाहिए या उसके पास पी. ओ. ई. कार्यालय से वैध परमिट होना चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वीजा राशि की प्रतिपूर्ति केवल तभी देय होगी जब लाभार्थी के पास वैध वीजा के साथ न्यूनतम 6 महीने की वैधता वाला वैध पासपोर्ट हो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना का लाभ तभी देय होगा जब लाभार्थी का भविष्य का रोजगार विदेश में निर्माण और अन्य निर्माण कार्यों में हो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी केवल एक बार सहायता राशि का हकदार होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि योजना के तहत लाभार्थी द्वारा प्रस्तुत सहायता आवेदन में दी गई कोई भी जानकारी गलत पाई जाती है, तो संबंधित लाभार्थी एक बार में ब्याज के साथ योजना के तहत अनुमोदित पूरी सहायता राशि जमा करने के लिए जिम्मेदार होगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "employmentStatus": {
+        "id": 2,
+        "value": "employed",
+        "label": "Employed"
+      },
+      "occupation": [
+        {
+          "value": "construction-worker",
+          "label": "Construction Worker"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. निर्माण श्रमिकों को बोर्ड के साथ लाभार्थियों के रूप में पंजीकृत होना चाहिए और लगातार अपना योगदान जमा करना चाहिए। 1. विदेशी अनुबंध रोजगार प्राप्त करने के लिए, निर्माण श्रमिक को उत्प्रवास अधिनियम, 1983 के तहत प्रोटेक्टर ऑफ इमिग्रेंट्स (पी. ओ. ई.) कार्यालय से अनुमति की आवश्यकता होती है। 1. भर्ती एजेंसी को उत्प्रवास अधिनियम के तहत पंजीकृत होना चाहिए या उसके पास पी. ओ. ई. कार्यालय से वैध परमिट होना चाहिए। वीजा राशि की प्रतिपूर्ति केवल तभी देय होगी जब लाभार्थी के पास वैध वीजा के साथ न्यूनतम 6 महीने की वैधता वाला वैध पासपोर्ट हो। 1. इस योजना का लाभ तभी देय होगा जब लाभार्थी का भविष्य का रोजगार विदेश में निर्माण और अन्य निर्माण कार्यों में हो। 1. लाभार्थी केवल एक बार सहायता राशि का हकदार होगा। 1. यदि योजना के तहत लाभार्थी द्वारा प्रस्तुत सहायता आवेदन में दी गई कोई भी जानकारी गलत पाई जाती है, तो संबंधित लाभार्थी एक बार में ब्याज के साथ योजना के तहत अनुमोदित पूरी सहायता राशि जमा करने के लिए जिम्मेदार होगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "निर्माण श्रमिकों को बोर्ड के साथ लाभार्थियों के रूप में पंजीकृत होना चाहिए और लगातार अपना योगदान जमा करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "विदेशी अनुबंध रोजगार प्राप्त करने के लिए, निर्माण श्रमिक को उत्प्रवास अधिनियम, 1983 के तहत प्रोटेक्टर ऑफ इमिग्रेंट्स (पी. ओ. ई.) कार्यालय से अनुमति की आवश्यकता होती है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "भर्ती एजेंसी को उत्प्रवास अधिनियम के तहत पंजीकृत होना चाहिए या उसके पास पी. ओ. ई. कार्यालय से वैध परमिट होना चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वीजा राशि की प्रतिपूर्ति केवल तभी देय होगी जब लाभार्थी के पास वैध वीजा के साथ न्यूनतम 6 महीने की वैधता वाला वैध पासपोर्ट हो।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "इस योजना का लाभ तभी देय होगा जब लाभार्थी का भविष्य का रोजगार विदेश में निर्माण और अन्य निर्माण कार्यों में हो।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी केवल एक बार सहायता राशि का हकदार होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यदि योजना के तहत लाभार्थी द्वारा प्रस्तुत सहायता आवेदन में दी गई कोई भी जानकारी गलत पाई जाती है, तो संबंधित लाभार्थी एक बार में ब्याज के साथ योजना के तहत अनुमोदित पूरी सहायता राशि जमा करने के लिए जिम्मेदार होगा।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "employmentStatus": {
+      "id": 2,
+      "value": "employed",
+      "label": "Employed"
+    },
+    "occupation": [
+      {
+        "value": "construction-worker",
+        "label": "Construction Worker"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of the registration identity card of the beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of the beneficiary's Aadhaar card and Jan Aadhaar card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The first page of the beneficiary's savings bank account passbook (containing the candidate's name, bank account number, and Copy of the IFS code mentioned)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Visa with a copy of passport."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of employment contract issued by the foreign employer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof/Challan/Invoice of the amount deposited for Visa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registration number of Recruiting Agent and copy of advertisement given for overseas employment."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of the registration identity card of the beneficiary.\n1. Copy of the beneficiary&#39;s Aadhaar card and Jan Aadhaar card.\n1. The first page of the beneficiary&#39;s savings bank account passbook (containing the candidate&#39;s name, bank account number, and Copy of the IFS code mentioned).\n1. Visa with a copy of passport.\n1. Copy of employment contract issued by the foreign employer.\n1. Proof/Challan/Invoice of the amount deposited for Visa.\n1. Registration number of Recruiting Agent and copy of advertisement given for overseas employment.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी के पंजीकरण पहचान पत्र की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी के आधार कार्ड और जन आधार कार्ड की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी की बचत बैंक खाता पासबुक का पहला पृष्ठ (जिसमें उम्मीदवार का नाम, बैंक खाता संख्या और उल्लिखित आई. एफ. एस. कोड की प्रति होती है)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट की एक प्रति के साथ वीजा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विदेशी नियोक्ता द्वारा जारी रोजगार अनुबंध की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वीजा के लिए जमा की गई राशि का प्रमाण/चालान/चालान।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भर्ती अभिकर्ता की पंजीकरण संख्या और विदेशी रोजगार के लिए दिए गए विज्ञापन की प्रति।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of the registration identity card of the beneficiary.\n1. Copy of the beneficiary&#39;s Aadhaar card and Jan Aadhaar card.\n1. The first page of the beneficiary&#39;s savings bank account passbook (containing the candidate&#39;s name, bank account number, and Copy of the IFS code mentioned).\n1. Visa with a copy of passport.\n1. Copy of employment contract issued by the foreign employer.\n1. Proof/Challan/Invoice of the amount deposited for Visa.\n1. Registration number of Recruiting Agent and copy of advertisement given for overseas employment.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Labor department of Rajasthan started \"Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana\" to help construction workers."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Labor department of Rajasthan started \"Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana\" to help construction workers.\n"
+        },
+        {
+          "question": "What are the benefits of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " The benefit of the Visa Expenses Reimbursement Scheme for employment abroad."
+                }
+              ]
+            }
+          ],
+          "answer_md": " The benefit of the Visa Expenses Reimbursement Scheme for employment abroad.\n"
+        },
+        {
+          "question": " Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is not application fee. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is not application fee. \n"
+        },
+        {
+          "question": "What documents are required ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Copy of the registration identity card of the beneficiary.\nCopy of the beneficiary's Aadhaar card and Jan Aadhaar card.\nThe first page of the beneficiary's savings bank account passbook (containing the candidate's name, bank account number, and Copy of the IFS code mentioned).\nVisa with a copy of passport.Copy of employment contract issued by the foreign employer. Proof/Challan/Invoice of the amount deposited for Visa. \nRegistration number of Recruiting Agent and copy of advertisement given for overseas employment."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Copy of the registration identity card of the beneficiary.\nCopy of the beneficiary's Aadhaar card and Jan Aadhaar card.\nThe first page of the beneficiary's savings bank account passbook (containing the candidate's name, bank account number, and Copy of the IFS code mentioned).\nVisa with a copy of passport.Copy of employment contract issued by the foreign employer. Proof/Challan/Invoice of the amount deposited for Visa. \nRegistration number of Recruiting Agent and copy of advertisement given for overseas employment.\n"
+        },
+        {
+          "question": "How much financial assistance is provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of ₹5,000/-."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of [?]5,000/-.\n"
+        },
+        {
+          "question": "Is there any time limits for submit the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The beneficiary will have to submit the application form within a maximum period of 3 months after obtaining the validity of the visa."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary will have to submit the application form within a maximum period of 3 months after obtaining the validity of the visa.\n"
+        },
+        {
+          "question": "Can applicant apply online ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, Applicant has to visit the official portal. https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Applicant has to visit the official portal. https://sso.rajasthan.gov.in/signin\n"
+        },
+        {
+          "question": "Can applicants from outside Rajasthan apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this is only Madhya Pradesh construction worker."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this is only Madhya Pradesh construction worker.\n"
+        },
+        {
+          "question": "Can construction work get the benefit twice?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The beneficiary will be entitled to the assistance amount only at once."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary will be entitled to the assistance amount only at once.\n"
+        },
+        {
+          "question": "Will the benefit of this scheme be provided to all the citizens of the state?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the benefit of this scheme will be provided only the labour."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit of this scheme will be provided only the labour.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के श्रम विभाग ने निर्माण श्रमिकों की मदद के लिए \"निर्माण श्रमिक को विदेश माई रोजगार हेतू वीजा पर होन वाले व्यवसाय का पुनर्भरण योजना\" शुरू की।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Labor department of Rajasthan started \"Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana\" to help construction workers.\n"
+        },
+        {
+          "question": "इस योजना के क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विदेश में रोजगार के लिए वीजा व्यय प्रतिपूर्ति योजना का लाभ।"
+                }
+              ]
+            }
+          ],
+          "answer_md": " The benefit of the Visa Expenses Reimbursement Scheme for employment abroad.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, कोई आवेदन शुल्क नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is not application fee. \n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी के पंजीकरण पहचान पत्र की प्रति। लाभार्थी के आधार कार्ड और जन आधार कार्ड की प्रति। लाभार्थी की बचत बैंक खाता पासबुक का पहला पृष्ठ (जिसमें उम्मीदवार का नाम, बैंक खाता संख्या और उल्लिखित आई. एफ. एस. कोड की प्रति होती है)। पासपोर्ट की प्रति के साथ वीजा. विदेशी नियोक्ता द्वारा जारी रोजगार अनुबंध की प्रति। वीजा के लिए जमा की गई राशि का प्रमाण/चालान/चालान। भर्ती अभिकर्ता की पंजीकरण संख्या और विदेशी रोजगार के लिए दिए गए विज्ञापन की प्रति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Copy of the registration identity card of the beneficiary.\nCopy of the beneficiary's Aadhaar card and Jan Aadhaar card.\nThe first page of the beneficiary's savings bank account passbook (containing the candidate's name, bank account number, and Copy of the IFS code mentioned).\nVisa with a copy of passport.Copy of employment contract issued by the foreign employer. Proof/Challan/Invoice of the amount deposited for Visa. \nRegistration number of Recruiting Agent and copy of advertisement given for overseas employment.\n"
+        },
+        {
+          "question": "इस योजना के तहत कितनी वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी को विदेश में रोजगार के लिए वीजा के लिए किए गए खर्च की प्रतिपूर्ति अधिकतम ₹5,000/- तक की जाएगी"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of [?]5,000/-.\n"
+        },
+        {
+          "question": "क्या आवेदन जमा करने के लिए कोई समय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी को वीजा की वैधता प्राप्त करने के बाद अधिकतम 3 महीने की अवधि के भीतर आवेदन पत्र जमा करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary will have to submit the application form within a maximum period of 3 months after obtaining the validity of the visa.\n"
+        },
+        {
+          "question": "क्या आवेदक ऑनलाइन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक को आधिकारिक पोर्टल पर जाना होगा। //एस. एस. ओ. राजस्थान. जी. वी. इन/साइन इन"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Applicant has to visit the official portal. https://sso.rajasthan.gov.in/signin\n"
+        },
+        {
+          "question": "क्या राजस्थान के बाहर के आवेदक इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह केवल मध्य प्रदेश का निर्माण श्रमिक है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this is only Madhya Pradesh construction worker.\n"
+        },
+        {
+          "question": "क्या निर्माण कार्य को दो बार लाभ मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी केवल एक बार में सहायता राशि का हकदार होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary will be entitled to the assistance amount only at once.\n"
+        },
+        {
+          "question": "क्या इस योजना का लाभ राज्य के सभी नागरिकों को मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना का लाभ केवल श्रमिकों को ही दिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit of this scheme will be provided only the labour.\n"
+        }
+      ]
+    }
+  }
+}

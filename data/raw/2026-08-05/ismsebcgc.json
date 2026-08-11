@@ -1,0 +1,1469 @@
+{
+  "scheme_id": "680e8435096abd5b8bc31473",
+  "slug": "ismsebcgc",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Student",
+        "Meritorious",
+        "Economically Backward Class"
+      ],
+      "schemeName": "Incentive Scheme for Meritorious Students of Economically Backward Class of General Category",
+      "schemeShortTitle": "ISMSEBCGC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "Education (Elementary and Secondary) Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=63d105de12a7f949a0e67697"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Incentive Scheme for Meritorious Students of Economically Backward Class of General Category&amp;quot; was launched by the Education Department, Government of Rajasthan. Under this scheme, a one-time financial assistance of ₹15,000/- along with a certificate of appreciation is awarded to the top 100 meritorious students of Class 10 and each stream (Science, Commerce, Arts) of Class 12, who are listed in the state-level merit list of the Rajasthan Board of Secondary Education (RBSE), Ajmer. The scheme is implemented by the Directorate of Secondary Education, Rajasthan, Bikaner.\n",
+      "benefits_md": "> **Financial Assistance:**\n\n\n  - One-time financial assistance of ₹15,000/- is provided to economically backward students from the general category studying in government and private schools.\n\n&gt; **Certificate of Appreciation:**\n\n\n  - An official certificate is awarded along with the monetary benefit.\n\n",
+      "briefDescription": "Under this scheme, a one-time financial assistance of ₹15,000/- along with a certificate of appreciation is awarded to top 100 meritorious students of Class 10 & each stream of Class 12, who are listed in state-level merit list of Rajasthan Board of Secondary Education, Ajmer.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Incentive Scheme for Meritorious Students of Economically Backward Class of General Category\" was launched by the Education Department, Government of Rajasthan. Under this scheme, a one-time financial assistance of ₹15,000/- along with a certificate of appreciation is awarded to the top 100 meritorious students of Class 10 and each stream (Science, Commerce, Arts) of Class 12, who are listed in the state-level merit list of the Rajasthan Board of Secondary Education (RBSE), Ajmer. The scheme is implemented by the Directorate of Secondary Education, Rajasthan, Bikaner."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "One-time financial assistance of ₹15,000/- is provided to economically backward students from the general category studying in government and private schools."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Certificate of Appreciation:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "An official certificate is awarded along with the monetary benefit."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "To avail of the benefits of the scheme, students should fill out the online application form through the institution head (principal) of their respective school."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Eligible students are identified by the head of their institution."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit copies of all the mandatory documents (self-attested, if required) to the respective school."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The school will visit the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx",
+                    "children": [
+                      {
+                        "text": "Shala Darpan, Rajasthan"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " Portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Using the school's login credentials (Login ID and Password), the school will fill and submit the application form. "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Post-Application Process:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The institution head forwards the online application to the concerned District Education Officer (DEO) Headquarters (Primary/Secondary Education)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "The District Education Officer compiles and forwards the verified applications of all eligible students from the district to the Directorate of Secondary Education, Rajasthan, Bikaner."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Post-verification, the incentive amount is disbursed to the students' bank accounts."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\n**Step 1:** To avail of the benefits of the scheme, students should fill out the online application form through the institution head (principal) of their respective school.\n**Step 2:** Eligible students are identified by the head of their institution.\n**Step 3:** Submit copies of all the mandatory documents (self-attested, if required) to the respective school.\n**Step 4:** The school will visit the [Shala Darpan, Rajasthan](https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx) Portal.\n**Step 5:** Using the school&amp;#39;s login credentials (Login ID and Password), the school will fill and submit the application form. \n&gt; **Post-Application Process:**\n\n**Step 1:** The institution head forwards the online application to the concerned District Education Officer (DEO) Headquarters (Primary/Secondary Education).\n**Step 2:** The District Education Officer compiles and forwards the verified applications of all eligible students from the district to the Directorate of Secondary Education, Rajasthan, Bikaner.\n**Step 3:** Post-verification, the incentive amount is disbursed to the students&amp;amp;#39; bank accounts.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Rajasthan.\n   1. The applicant should be a student.\n   1. The applicant should belong to the economically backward class from the general category.\n   1. The applicant should be studying in a government or private school.\n   1. The applicant should have passed Class 10th, Praveshika, Class 12th (Science/Commerce/Arts), or Varishta Upadhyay examination conducted by Rajasthan Board of Secondary Education (RBSE), Ajmer.   1. The applicant should have secured a minimum of 75% marks in the qualifying examination.\n   1. The applicant’s parents’ combined annual income from all sources should be less than ₹2,50,000.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a student."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should belong to the economically backward class from the general category."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be studying in a government or private school."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have passed Class 10"
+                    },
+                    {
+                      "text": "th",
+                      "superscript": true
+                    },
+                    {
+                      "text": ", Praveshika, Class 12"
+                    },
+                    {
+                      "text": "th",
+                      "superscript": true
+                    },
+                    {
+                      "text": " (Science/Commerce/Arts), or Varishta Upadhyay examination conducted by Rajasthan Board of Secondary Education (RBSE), Ajmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have secured a minimum of 75% marks in the qualifying examination."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant’s parents’ combined annual income from all sources should be less than ₹2,50,000."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "विद्यार्थी",
+        "गुणवान",
+        "आर्थिक रूप से पिछड़ा वर्ग"
+      ],
+      "schemeName": "सामान्य श्रेणी के आर्थिक रूप से पिछड़े वर्ग के मेधावी छात्रों के लिए प्रोत्साहन योजना",
+      "schemeShortTitle": "ISMSEBCGC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "शिक्षा (प्राथमिक और माध्यमिक) विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=63d105de12a7f949a0e67697"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के शिक्षा विभाग द्वारा सामान्य श्रेणी के आर्थिक रूप से पिछड़े वर्ग के मेधावी छात्रों के लिए प्रोत्साहन योजना शुरू की गई थी। इस योजना के तहत, राजस्थान माध्यमिक शिक्षा बोर्ड (आरबीएसई), अजमेर की राज्य स्तरीय योग्यता सूची में सूचीबद्ध कक्षा 10 के शीर्ष 100 मेधावी छात्रों और कक्षा 12 की प्रत्येक धारा (विज्ञान, वाणिज्य, कला) को प्रशंसा प्रमाण पत्र के साथ 15,000 रुपये की एकमुश्त वित्तीय सहायता प्रदान की जाती है। इस योजना को माध्यमिक शिक्षा निदेशालय, राजस्थान, बीकानेर द्वारा लागू किया जाता है।",
+      "benefits_md": "वित्तीय सहायता-सरकारी और निजी स्कूलों में पढ़ने वाले सामान्य श्रेणी के आर्थिक रूप से पिछड़े छात्रों को 15,₹000/- की एकमुश्त वित्तीय सहायता प्रदान की जाती है। प्रशंसा प्रमाण पत्रः * *-मौद्रिक लाभ के साथ एक आधिकारिक प्रमाण पत्र प्रदान किया जाता है।",
+      "briefDescription": "इस योजना के तहत, राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर की राज्य स्तरीय योग्यता सूची में सूचीबद्ध कक्षा 10 और कक्षा 12 की प्रत्येक धारा के शीर्ष 100 मेधावी छात्रों को प्रशंसा प्रमाण पत्र के साथ 15,000 रुपये की एकमुश्त वित्तीय सहायता प्रदान की जाती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के शिक्षा विभाग द्वारा \"सामान्य श्रेणी के आर्थिक रूप से पिछड़े वर्ग के मेधावी छात्रों के लिए प्रोत्साहन योजना\" शुरू की गई थी। इस योजना के तहत, राजस्थान माध्यमिक शिक्षा बोर्ड (आरबीएसई), अजमेर की राज्य स्तरीय योग्यता सूची में सूचीबद्ध कक्षा 10 के शीर्ष 100 मेधावी छात्रों और कक्षा 12 की प्रत्येक धारा (विज्ञान, वाणिज्य, कला) को प्रशंसा प्रमाण पत्र के साथ 15,000 रुपये की एकमुश्त वित्तीय सहायता प्रदान की जाती है। इस योजना को माध्यमिक शिक्षा निदेशालय, राजस्थान, बीकानेर द्वारा लागू किया जाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "वित्तीय मददः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सरकारी और निजी स्कूलों में पढ़ने वाले सामान्य श्रेणी के आर्थिक रूप से पिछड़े छात्रों को 15,₹000/- की एकमुश्त वित्तीय सहायता प्रदान की जाती है।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "प्रशंसा प्रमाण पत्रः",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "मौद्रिक लाभ के साथ एक आधिकारिक प्रमाण पत्र प्रदान किया जाता है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "आवेदन प्रक्रियाः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "योजना का लाभ उठाने के लिए, छात्रों को अपने संबंधित स्कूल के संस्थान प्रमुख (प्राचार्य) के माध्यम से ऑनलाइन आवेदन पत्र भरना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "योग्य छात्रों की पहचान उनके संस्थान के प्रमुख द्वारा की जाती है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "सभी अनिवार्य दस्तावेजों की प्रतियां (यदि आवश्यक हो तो स्व-सत्यापित) संबंधित स्कूल को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "विद्यालय का दौरा करेंगे"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx",
+                    "children": [
+                      {
+                        "text": "शाला दर्पण, राजस्थान"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "स्कूल के लॉगिन क्रेडेंशियल्स (लॉगिन आईडी और पासवर्ड) का उपयोग करके, स्कूल आवेदन पत्र भरेगा और जमा करेगा।"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "आवेदन के बाद की प्रक्रियाः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": "संस्थान प्रमुख ऑनलाइन आवेदन संबंधित जिला शिक्षा अधिकारी (डी. ई. ओ.) मुख्यालय (प्राथमिक/माध्यमिक शिक्षा) को भेजता है।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": "जिला शिक्षा अधिकारी जिले के सभी योग्य छात्रों के सत्यापित आवेदनों को माध्यमिक शिक्षा निदेशालय, राजस्थान, बीकानेर को संकलित और अग्रेषित करता है।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": "सत्यापन के बाद, प्रोत्साहन राशि छात्रों के बैंक खातों में वितरित की जाती है।"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रियाः योजना का लाभ उठाने के लिए छात्रों को अपने संबंधित स्कूल के संस्थान प्रमुख (प्राचार्य) के माध्यम से ऑनलाइन आवेदन पत्र भरना चाहिए। चरण 2: पात्र छात्रों की पहचान उनके संस्थान के प्रमुख द्वारा की जाती है। चरण 3: सभी अनिवार्य दस्तावेजों की प्रतियां (यदि आवश्यक हो तो स्व-सत्यापित) संबंधित स्कूल में जमा करें। चरण 4: स्कूल [शाला दर्पण, राजस्थान] (https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx) पोर्टल पर जाएगा। * * चरण 5: * * स्कूल के लॉगिन क्रेडेंशियल्स (लॉगिन आईडी और पासवर्ड) का उपयोग करके, स्कूल आवेदन पत्र भरेगा और जमा करेगा। आवेदन के बाद की प्रक्रियाः चरण 1: संस्थान प्रमुख ऑनलाइन आवेदन को संबंधित जिला शिक्षा अधिकारी (डी. ई. ओ.) मुख्यालय (प्राथमिक/माध्यमिक शिक्षा) को भेजता है। * * चरण 2: * * जिला शिक्षा अधिकारी जिले के सभी योग्य छात्रों के सत्यापित आवेदनों को माध्यमिक शिक्षा निदेशालय, राजस्थान, बीकानेर को संकलित और अग्रेषित करता है। * * चरण 3: * * सत्यापन के बाद, प्रोत्साहन राशि छात्रों के बैंक खातों में वितरित की जाती है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "ews",
+          "gte": 14,
+          "lte": 25
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Completed",
+          "score_gte": 75,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Completed",
+          "score_gte": 75,
+          "score_lte": 100
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": 250000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्र होना चाहिए। 1. आवेदक को सामान्य श्रेणी से आर्थिक रूप से पिछड़े वर्ग से होना चाहिए। 1. आवेदक को सरकारी या निजी स्कूल में पढ़ रहा होना चाहिए। 1. आवेदक को राजस्थान माध्यमिक शिक्षा बोर्ड (आरबीएसई), अजमेर द्वारा आयोजित कक्षा 10वीं, प्रवेशिका, कक्षा 12वीं (विज्ञान/वाणिज्य/कला), या वरिष्ट उपाध्याय परीक्षा उत्तीर्ण होना चाहिए। 1. आवेदक को योग्यता परीक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने चाहिए। 1. आवेदक के माता-पिता की सभी स्रोतों से संयुक्त वार्षिक आय ₹ 2,50,000 से कम होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": 0,
+        "lte": 250000
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक छात्र होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को सामान्य श्रेणी से आर्थिक रूप से पिछड़े वर्ग से होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को सरकारी या निजी स्कूल में पढ़ रहा होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को 10वीं कक्षा उत्तीर्ण होना चाहिए"
+                    },
+                    {
+                      "text": "थ",
+                      "superscript": true
+                    },
+                    {
+                      "text": ", प्रवेशिका, कक्षा 12"
+                    },
+                    {
+                      "text": "थ",
+                      "superscript": true
+                    },
+                    {
+                      "text": "(विज्ञान/वाणिज्य/कला), या राजस्थान माध्यमिक शिक्षा बोर्ड (आरबीएसई), अजमेर द्वारा आयोजित वरिष्ट उपाध्याय परीक्षा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को योग्यता परीक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक के माता-पिता की सभी स्रोतों से संयुक्त वार्षिक आय ₹ 2,50,000 से कम होनी चाहिए।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "value": "rural",
+          "label": "ग्रामीण"
+        }
+      ],
+      "caste": [
+        {
+          "value": "general",
+          "label": "जनरल"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "ews",
+        "gte": 14,
+        "lte": 25
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Completed",
+        "score_gte": 75,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Completed",
+        "score_gte": 75,
+        "score_lte": 100
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": 250000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्र होना चाहिए। 1. आवेदक को सामान्य श्रेणी से आर्थिक रूप से पिछड़े वर्ग से होना चाहिए। 1. आवेदक को सरकारी या निजी स्कूल में पढ़ रहा होना चाहिए। 1. आवेदक को राजस्थान माध्यमिक शिक्षा बोर्ड (आरबीएसई), अजमेर द्वारा आयोजित कक्षा 10वीं, प्रवेशिका, कक्षा 12वीं (विज्ञान/वाणिज्य/कला), या वरिष्ट उपाध्याय परीक्षा उत्तीर्ण होना चाहिए। 1. आवेदक को योग्यता परीक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने चाहिए। 1. आवेदक के माता-पिता की सभी स्रोतों से संयुक्त वार्षिक आय ₹ 2,50,000 से कम होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": 0,
+      "lte": 250000
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक छात्र होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को सामान्य श्रेणी से आर्थिक रूप से पिछड़े वर्ग से होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को सरकारी या निजी स्कूल में पढ़ रहा होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को 10वीं कक्षा उत्तीर्ण होना चाहिए"
+                  },
+                  {
+                    "text": "थ",
+                    "superscript": true
+                  },
+                  {
+                    "text": ", प्रवेशिका, कक्षा 12"
+                  },
+                  {
+                    "text": "थ",
+                    "superscript": true
+                  },
+                  {
+                    "text": "(विज्ञान/वाणिज्य/कला), या राजस्थान माध्यमिक शिक्षा बोर्ड (आरबीएसई), अजमेर द्वारा आयोजित वरिष्ट उपाध्याय परीक्षा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को योग्यता परीक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक के माता-पिता की सभी स्रोतों से संयुक्त वार्षिक आय ₹ 2,50,000 से कम होनी चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "value": "rural",
+        "label": "ग्रामीण"
+      }
+    ],
+    "caste": [
+      {
+        "value": "general",
+        "label": "जनरल"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card or Jan Aadhaar Card of the Student"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marksheet Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate /EWS certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card or Jan Aadhaar Card of the Student\n1. Marksheet Copy\n1. Income Certificate /EWS certificate\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र का आधार कार्ड या जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मार्कशीट प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र/ई. डब्ल्यू. एस. प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card or Jan Aadhaar Card of the Student\n1. Marksheet Copy\n1. Income Certificate /EWS certificate\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who implements the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Directorate of Secondary Education, Rajasthan, Bikaner."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Directorate of Secondary Education, Rajasthan, Bikaner.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "How much financial benefit is provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A one-time financial assistance of ₹15,000/-."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A one-time financial assistance of ₹15,000/-.\n"
+        },
+        {
+          "question": "What additional benefit is provided apart from the cash incentive?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A certificate of appreciation."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A certificate of appreciation.\n"
+        },
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "General category students with 75% or above marks and parental income below ₹2,50,000/- per annum."
+                }
+              ]
+            }
+          ],
+          "answer_md": "General category students with 75% or above marks and parental income below ₹2,50,000/- per annum.\n"
+        },
+        {
+          "question": "Which classes' students are eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students of Class 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": ", Praveshika, Class 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " (Science, Commerce, Arts), and Varishta Upadhyay."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students of Class 10th, Praveshika, Class 12th (Science, Commerce, Arts), and Varishta Upadhyay.\n"
+        },
+        {
+          "question": "How many students benefit each year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A total of 400 students annually."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A total of 400 students annually.\n"
+        },
+        {
+          "question": "What is the minimum percentage required for eligibility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At least 75% marks in the qualifying examination."
+                }
+              ]
+            }
+          ],
+          "answer_md": "At least 75% marks in the qualifying examination.\n"
+        },
+        {
+          "question": "What documents are required to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Aadhaar/Jan Aadhaar Card, Marksheet, and Income Certificate."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Aadhaar/Jan Aadhaar Card, Marksheet, and Income Certificate.\n"
+        },
+        {
+          "question": "How can a student apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Through their school Principal via online application."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through their school Principal via online application.\n"
+        },
+        {
+          "question": "Who verifies and forwards the applications?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The concerned District Education Officer (Primary/Secondary Education)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The concerned District Education Officer (Primary/Secondary Education).\n"
+        },
+        {
+          "question": "When is the amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After verification of merit and eligibility."
+                }
+              ]
+            }
+          ],
+          "answer_md": "After verification of merit and eligibility.\n"
+        },
+        {
+          "question": "Is this benefit provided every year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The benefit is given only once for each qualifying examination."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The benefit is given only once for each qualifying examination.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "माध्यमिक शिक्षा निदेशालय, राजस्थान, बीकानेर।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Directorate of Secondary Education, Rajasthan, Bikaner.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "इस योजना के तहत कितना वित्तीय लाभ प्रदान किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹15,000/- की एकमुश्त वित्तीय सहायता"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A one-time financial assistance of ₹15,000/-.\n"
+        },
+        {
+          "question": "नकद प्रोत्साहन के अलावा कौन सा अतिरिक्त लाभ प्रदान किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रशंसा का प्रमाण पत्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A certificate of appreciation.\n"
+        },
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "75 प्रतिशत या उससे अधिक अंकों वाले सामान्य श्रेणी के छात्र और माता-पिता की आय ₹ 2,50,000 से कम-प्रति वर्ष।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "General category students with 75% or above marks and parental income below ₹2,50,000/- per annum.\n"
+        },
+        {
+          "question": "किस वर्ग के छात्र इस योजना के लिए पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "10वीं कक्षा के छात्र"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": ", प्रवेशिका, कक्षा 12"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "(विज्ञान, वाणिज्य, कला) और वरिष्ट उपाध्याय।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students of Class 10th, Praveshika, Class 12th (Science, Commerce, Arts), and Varishta Upadhyay.\n"
+        },
+        {
+          "question": "प्रत्येक वर्ष कितने छात्र लाभान्वित होते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सालाना कुल 400 छात्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A total of 400 students annually.\n"
+        },
+        {
+          "question": "पात्रता के लिए आवश्यक न्यूनतम प्रतिशत क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्यता परीक्षा में कम से कम 75 प्रतिशत अंक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "At least 75% marks in the qualifying examination.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आधार/जन आधार कार्ड, मार्कशीट और आय प्रमाण पत्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Aadhaar/Jan Aadhaar Card, Marksheet, and Income Certificate.\n"
+        },
+        {
+          "question": "एक छात्र इस योजना के लिए कैसे आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ऑनलाइन आवेदन के माध्यम से अपने स्कूल के प्राचार्य के माध्यम से।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through their school Principal via online application.\n"
+        },
+        {
+          "question": "आवेदनों को कौन सत्यापित करता है और आगे बढ़ाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संबंधित जिला शिक्षा अधिकारी (प्राथमिक/माध्यमिक शिक्षा)।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The concerned District Education Officer (Primary/Secondary Education).\n"
+        },
+        {
+          "question": "राशि कब वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्यता और पात्रता के सत्यापन के बाद।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "After verification of merit and eligibility.\n"
+        },
+        {
+          "question": "क्या यह लाभ हर साल प्रदान किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रत्येक योग्यता परीक्षा के लिए केवल एक बार लाभ दिया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The benefit is given only once for each qualifying examination.\n"
+        }
+      ]
+    }
+  }
+}

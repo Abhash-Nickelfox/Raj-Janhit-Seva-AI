@@ -1,0 +1,2376 @@
+{
+  "scheme_id": "65efec8f938a0b13ccb3682f",
+  "slug": "spk",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Pipe Line",
+        "Agriculture",
+        "Irrigation",
+        "Development"
+      ],
+      "schemeName": "Sinchai Pipeline Karyakram",
+      "schemeShortTitle": "SPK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": "2020-04-29",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/AGRI_/IPLP/DOC_250_33da8ac2-d17a-49e6-ad16-615dd5ff570a.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/250"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": " The &quot;Sinchai Pipeline Karyakram&quot; under The Agriculture Department of the  Rajasthan government will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this direction, considering the problems of farmers.\n<br>\n\n> **Feature :**\n\n\n1. Farmers will be eligible for a grant only if they purchase BIS-marked pipes from a manufacturer or their authorized distributor/seller registered with the Agriculture Department, either in cash or by taking a loan from a bank, and successfully install them on their farm.\n1. Each pipe distributed on a grant basis must be embossed with the year of manufacture and the grant distribution year. The grant will be admissible only on pipes manufactured and sold in the eligible year. Additionally, the grant will be admissible on the remaining pipes from the previous year in the next financial year as well.\n1. The concerned manufacturer will necessarily provide information about the remaining stock of the previous financial year to the Deputy Director and Assistant Director of Agriculture (Ext.) office in the district. The grant will not be admissible in the absence of information.\n1. In the financial year, the list of maximum retail price (MRP) of pipes will be sent by the pipe manufacturers to the Deputy Director and Assistant Director of Agriculture (Ext.) office through selected dealers in the district. The dealer will also submit an affidavit that no bill will be charged more than the MRP.\n\n<br>\n\n**Component****Component****Ice. Code****Description**PipelinePipe4984 /14151 Pt I &amp;amp;amp;amp; II : 199H.D.P.E. irrigation pipePipelinePipe4985 ¼4 kg/cm2 &amp;amp;amp;amp;63 ¼2-5 kg/cm2 &amp;amp;amp;amp;90 mm and above ½PVC for water supply. irrigation pipePipelinePipeIS 16190 : 2014 ¼ 63 mm and above and 200 mm and above ½HDPE High Density Polyethylene Laminated Knitted Flat Tube Irrigation Pipe for Water Supply<br>\n\n<br>\n\n> **The subsidy will be payable only on pipes of diameter 63 mm or more than 63 mm.**\n\n",
+      "benefits_md": "\n1. Cost of transporting water: 50% of the cost (capped at ₹1000/-).\n1. Pipe material cost:\n\n  - HDPE pipe: ₹50 per meter (capped at ₹15,000/- total).\n  - PVC pipe: ₹35 per meter (capped at ₹15,000/- total).\n  - HDPE laminated flat tube pipe: ₹20 per meter (capped at ₹15,000/- total).\n\n\n",
+      "briefDescription": "In \"Sinchai Pipeline Karyakram\" Rajasthan government will provide subsidies to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The \"Sinchai Pipeline Karyakram\" under The Agriculture Department of the  Rajasthan government will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this direction, considering the problems of farmers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Feature :",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers will be eligible for a grant only if they purchase BIS-marked pipes from a manufacturer or their authorized distributor/seller registered with the Agriculture Department, either in cash or by taking a loan from a bank, and successfully install them on their farm."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Each pipe distributed on a grant basis must be embossed with the year of manufacture and the grant distribution year. The grant will be admissible only on pipes manufactured and sold in the eligible year. Additionally, the grant will be admissible on the remaining pipes from the previous year in the next financial year as well."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The concerned manufacturer will necessarily provide information about the remaining stock of the previous financial year to the Deputy Director and Assistant Director of Agriculture (Ext.) office in the district. The grant will not be admissible in the absence of information."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In the financial year, the list of maximum retail price (MRP) of pipes will be sent by the pipe manufacturers to the Deputy Director and Assistant Director of Agriculture (Ext.) office through selected dealers in the district. The dealer will also submit an affidavit that no bill will be charged more than the MRP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Ice. Code",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Description",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipeline"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipe"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4984 /14151 Pt I & II : 199"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "H.D.P.E. irrigation pipe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipeline"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipe"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4985 ¼4 kg/cm2 &63 ¼2-5 kg/cm2 &90 mm and above ½"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "PVC for water supply. irrigation pipe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipeline"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipe"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "IS 16190 : 2014 ¼ 63 mm and above and 200 mm and above ½"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "HDPE High Density Polyethylene Laminated Knitted Flat Tube Irrigation Pipe for Water Supply"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "The subsidy will be payable only on pipes of diameter 63 mm or more than 63 mm.",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cost of transporting water: 50% of the cost (capped at ₹1000/-)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pipe material cost:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "HDPE pipe: ₹50 per meter (capped at ₹15,000/- total)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "PVC pipe: ₹35 per meter (capped at ₹15,000/- total)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "HDPE laminated flat tube pipe: ₹20 per meter (capped at ₹15,000/- total)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Complete the registration process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "dashboard "
+                  }
+                ]
+              },
+              {
+                "text": "will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “ RAJ-KISAN ” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"Citizen\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on Get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5:** Complete the registration process.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Citizen&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The agricultural land should be owned by the applicant.\n1. The applicant must be a farmer residing in Rajasthan.\n1. This scheme applies to farmers who have a diesel engine, electric pump, or tractor-driven pump set available on a borewell or well.\n1. Applicants must own at least 2 bighas of cultivable agricultural land.\n1. The farmer&#39;s bank account must be linked to an Aadhar card. Additionally, no farmer can apply again for the next 10 years after receiving the benefit.\n1. Farmers must apply for the grant within 30 days of purchasing the pipe and after this timeframe will not be considered.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The agricultural land should be owned by the applicant."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer residing in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This scheme applies to farmers who have a diesel engine, electric pump, or tractor-driven pump set available on a borewell or well."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicants must own at least 2 bighas of cultivable agricultural land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer's bank account must be linked to an Aadhar card. Additionally, no farmer can apply again for the next 10 years after receiving the benefit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers must apply for the grant within 30 days of purchasing the pipe and after this timeframe will not be considered."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "पाइप लाइन",
+        "कृषि",
+        "सिंचाई",
+        "विकास"
+      ],
+      "schemeName": "सिंचाई पाइपलाइन कार्यक्रम",
+      "schemeShortTitle": "SPK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "भूमि और जल संसाधन"
+        }
+      ],
+      "schemeOpenDate": "2020-04-29",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "कृषि विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/AGRI_/IPLP/DOC_250_33da8ac2-d17a-49e6-ad16-615dd5ff570a.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/250"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के कृषि विभाग के तहत सिंचाई पाइपलाइन कार्यक्रम किसानों को सिंचाई पाइपलाइन खरीदने पर सब्सिडी प्रदान करेगा। ताकि किसान सिंचाई की समस्या से छुटकारा पा सकें। और उनकी आय में वृद्धि हो सकती है। हमारे देश में ऐसे कई किसान हैं जिनकी आर्थिक स्थिति कमजोर है और वे पाइपलाइन नहीं खरीद पा रहे हैं, जिससे पानी की कमी के कारण उनकी फसल बर्बाद हो जाती है। सिंचाई की समस्या को दूर करने के लिए केंद्र और राज्य सरकारों द्वारा कई प्रकार की योजनाएं भी चलाई जा रही हैं। इस दिशा में किसानों की समस्याओं को ध्यान में रखते हुए। <b>> * * फ़ीचरः * * 1. किसान अनुदान के लिए तभी पात्र होंगे जब वे किसी निर्माता या कृषि विभाग में पंजीकृत अपने अधिकृत वितरक/विक्रेता से बी. आई. एस.-चिह्नित पाइप या तो नकद में या बैंक से ऋण लेकर खरीदते हैं और उन्हें अपने खेत में सफलतापूर्वक स्थापित करते हैं। 1. अनुदान के आधार पर वितरित प्रत्येक पाइप को निर्माण के वर्ष और अनुदान वितरण वर्ष के साथ उभारा जाना चाहिए। अनुदान केवल योग्य वर्ष में निर्मित और बेचे जाने वाले पाइपों पर ही स्वीकार्य होगा। इसके अतिरिक्त, अनुदान अगले वित्तीय वर्ष में भी पिछले वर्ष से शेष पाइपों पर स्वीकार्य होगा। 1. संबंधित निर्माता अनिवार्य रूप से उप निदेशक और सहायक कृषि निदेशक (अतिरिक्त) को पिछले वित्तीय वर्ष के शेष स्टॉक के बारे में जानकारी प्रदान करेगा। जिले में कार्यालय। जानकारी के अभाव में अनुदान स्वीकार्य नहीं होगा। 1. वित्तीय वर्ष में पाइप निर्माताओं द्वारा पाइपों के अधिकतम खुदरा मूल्य (एम. आर. पी.) की सूची उप निदेशक और सहायक कृषि निदेशक (अतिरिक्त) को भेजी जाएगी। जिले में चयनित विक्रेताओं के माध्यम से कार्यालय। विक्रेता एक शपथ पत्र भी प्रस्तुत करेगा कि एम. आर. पी. से अधिक कोई बिल नहीं लिया जाएगा। <बीआर> * * घटक * * * * घटक * * * * बर्फ। कोड * * * * विवरण * * पाइपलाइनपाइप 4984/14151 पं. I और पं. II: 199 एच. डी. पी. ई. जल आपूर्ति के लिए सिंचाई पाइप पाइपलाइन पाइप 4985 1/4 किग्रा/से. मी. 2 और 63/2-5 किग्रा/से. मी. 2 और 90 मि. मी. और 1⁄2 से अधिक पी. वी. सी. सिंचाई पाइप पाइपलाइन पाइप आई. एस. 16190:133 मि. मी. और उससे ऊपर और 200 मि. मी. और उससे ऊपर 1⁄2 एच. डी. पी. ई. उच्च घनत्व पॉलीइथिलीन लैमिनेटेड बुना हुआ फ्लैट ट्यूब सिंचाई पाइप जलापूर्ति के लिए सब्सिडी केवल 63 मि. मी. या 63 मि. मी. से अधिक व्यास वाले पाइपों पर देय होगी। * *",
+      "benefits_md": "1. जल परिवहन की लागतः लागत का 50 प्रतिशत (₹1000/- तक सीमित)। 1. पाइप सामग्री की लागतः-एच. डी. पी. ई. पाइपः ₹50 प्रति मीटर (कुल ₹15,000 तक सीमित)। - पीवीसी पाइपः ₹35 प्रति मीटर (कुल ₹15,000/- तक सीमित)। - एच. डी. पी. ई. लैमिनेटेड फ्लैट ट्यूब पाइपः ₹20 प्रति मीटर (कुल ₹15,000 तक सीमित)।",
+      "briefDescription": "\"सिंचाई पाइपलाइन कार्यक्रम\" में राजस्थान सरकार किसानों को सिंचाई पाइपलाइनों की खरीद पर सब्सिडी प्रदान करेगी। ताकि किसान सिंचाई की समस्या से छुटकारा पा सकें। और उनकी आय में वृद्धि हो सकती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के कृषि विभाग के तहत \"सिंचाई पाइपलाइन कार्यक्रम\" किसानों को सिंचाई पाइपलाइन खरीदने पर सब्सिडी प्रदान करेगा। ताकि किसान सिंचाई की समस्या से छुटकारा पा सकें। और उनकी आय में वृद्धि हो सकती है। हमारे देश में ऐसे कई किसान हैं जिनकी आर्थिक स्थिति कमजोर है और वे पाइपलाइन नहीं खरीद पा रहे हैं, जिससे पानी की कमी के कारण उनकी फसल बर्बाद हो जाती है। सिंचाई की समस्या को दूर करने के लिए केंद्र और राज्य सरकारों द्वारा कई प्रकार की योजनाएं भी चलाई जा रही हैं। इस दिशा में किसानों की समस्याओं को ध्यान में रखते हुए।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "विशेषताएँः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसान अनुदान के लिए तभी पात्र होंगे जब वे किसी निर्माता या कृषि विभाग में पंजीकृत अपने अधिकृत वितरक/विक्रेता से बी. आई. एस.-चिह्नित पाइप या तो नकद में या बैंक से ऋण लेकर खरीदते हैं और उन्हें अपने खेत में सफलतापूर्वक स्थापित करते हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुदान के आधार पर वितरित प्रत्येक पाइप को निर्माण के वर्ष और अनुदान वितरण वर्ष के साथ उभारा जाना चाहिए। अनुदान केवल योग्य वर्ष में निर्मित और बेचे जाने वाले पाइपों पर ही स्वीकार्य होगा। इसके अतिरिक्त, अनुदान अगले वित्तीय वर्ष में भी पिछले वर्ष से शेष पाइपों पर स्वीकार्य होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संबंधित निर्माता अनिवार्य रूप से जिले में उप निदेशक और सहायक कृषि निदेशक (अतिरिक्त) कार्यालय को पिछले वित्तीय वर्ष के शेष स्टॉक के बारे में जानकारी प्रदान करेगा। जानकारी के अभाव में अनुदान स्वीकार्य नहीं होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वित्तीय वर्ष में पाइप निर्माताओं द्वारा पाइपों के अधिकतम खुदरा मूल्य (एम. आर. पी.) की सूची जिले के चयनित विक्रेताओं के माध्यम से उप निदेशक और सहायक कृषि निदेशक (अतिरिक्त) कार्यालय को भेजी जाएगी। विक्रेता एक शपथ पत्र भी प्रस्तुत करेगा कि एम. आर. पी. से अधिक कोई बिल नहीं लिया जाएगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "घटक",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "घटक",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "बर्फ। कोड",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "वर्णन",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पाइपलाइन"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पाइप"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4984/14151 पं. 1 और 2:199"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "एच. डी. पी. ई. सिंचाई पाइप"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पाइपलाइन"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पाइप"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4985 1⁄4 किग्रा/से. मी. 2 और 63 1⁄2-5 किग्रा/से. मी. 2 और 90 मि. मी. और 1⁄2 से अधिक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "जलापूर्ति के लिए पी. वी. सी.. सिंचाई पाइप"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पाइपलाइन"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पाइप"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आईएस 16190:2014 1/4 63 मिमी और उससे ऊपर और 200 मिमी और उससे ऊपर"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "जल आपूर्ति के लिए एच. डी. पी. ई. उच्च घनत्व पॉलीइथिलीन लैमिनेटेड बुना हुआ फ्लैट ट्यूब सिंचाई पाइप"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "सब्सिडी केवल 63 मिमी व्यास या 63 मिमी से अधिक के पाइपों पर देय होगी।",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जल परिवहन की लागतः लागत का 50 प्रतिशत (₹1000/- तक सीमित)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पाइप सामग्री की लागतः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एच. डी. पी. ई. पाइपः ₹50 प्रति मीटर (कुल ₹15,000 तक सीमित)।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पी. वी. सी. पाइपः ₹35 प्रति मीटर (कुल ₹15,000 तक सीमित)।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एच. डी. पी. ई. लैमिनेटेड फ्लैट ट्यूब पाइपः ₹20 प्रति मीटर (कुल ₹15,000 तक सीमित)।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "पंजीकरण प्रक्रिया को पूरा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉगइन करने के बाद,"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "डैशबोर्ड"
+                  }
+                ]
+              },
+              {
+                "text": "खुलेंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"राज-किसान\" विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"नागरिक\" में, \"आवेदन प्रविष्टि अनुरोध\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "\"भामाशाह आईडी\" या \"जनाधार आईडी\" दर्ज करें और खोजें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "व्यक्ति का नाम और योजना का नाम चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "आवश्यक विवरण प्रदान करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पेंशनभोगी विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बैंक विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- विकलांगता विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- सत्यापन विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। चरण-5: पंजीकरण प्रक्रिया को पूरा करें। आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * लॉग इन करने के बाद, [डैशबोर्ड] (https://sso.rajasthan.gov.in/dashboard) खुल जाएगा। * * चरण-3: * * \"राज-किसान\" विकल्प पर क्लिक करें। * * चरण-4: 'नागरिक' में 'आवेदन प्रविष्टि अनुरोध' पर क्लिक करें। * * चरण-5: 'भामाशाह आईडी' या 'जनाधार आईडी' दर्ज करें और खोजें। * * चरण-6: * * व्यक्ति का नाम और योजना का नाम चुनें। * * चरण-7: * * आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें। * * चरण-8: * * आवश्यक विवरण प्रदान करें। - पेंशनभोगी विवरण। - बैंक विवरण। - विकलांगता विवरण। - सत्यापन विवरण। - दस्तावेज़ अपलोड करें। * * चरण-9: * * जमा करें। <बीआर>"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. कृषि भूमि का स्वामित्व आवेदक के पास होना चाहिए। 1. आवेदक राजस्थान में रहने वाला किसान होना चाहिए। 1. यह योजना उन किसानों पर लागू होती है जिनके पास बोरवेल या कुएं पर डीजल इंजन, बिजली पंप या ट्रैक्टर से चलने वाला पंप सेट उपलब्ध है। 1. आवेदक के पास कम से कम 2 बीघा खेती योग्य कृषि भूमि होनी चाहिए। 1. किसान का बैंक खाता आधार कार्ड से जुड़ा होना चाहिए। इसके अलावा, कोई भी किसान लाभ प्राप्त करने के बाद अगले 10 वर्षों तक फिर से आवेदन नहीं कर सकता है। 1. किसानों को पाइप खरीदने के 30 दिनों के भीतर अनुदान के लिए आवेदन करना चाहिए और इस समय सीमा के बाद इस पर विचार नहीं किया जाएगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कृषि भूमि का स्वामित्व आवेदक के पास होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान में रहने वाला किसान होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह योजना उन किसानों पर लागू होती है जिनके पास बोरवेल या कुएं पर डीजल इंजन, बिजली पंप या ट्रैक्टर से चलने वाला पंप सेट उपलब्ध है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास कम से कम 2 बीघा खेती योग्य कृषि भूमि होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसान का बैंक खाता आधार कार्ड से जुड़ा होना चाहिए। इसके अलावा, कोई भी किसान लाभ प्राप्त करने के बाद अगले 10 वर्षों तक फिर से आवेदन नहीं कर सकता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसानों को पाइप खरीदने के 30 दिनों के भीतर अनुदान के लिए आवेदन करना चाहिए और इस समय सीमा के बाद इस पर विचार नहीं किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "landHolding": [
+        {
+          "value": "small",
+          "label": "Small (1 - 2 hectare)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. कृषि भूमि का स्वामित्व आवेदक के पास होना चाहिए। 1. आवेदक राजस्थान में रहने वाला किसान होना चाहिए। 1. यह योजना उन किसानों पर लागू होती है जिनके पास बोरवेल या कुएं पर डीजल इंजन, बिजली पंप या ट्रैक्टर से चलने वाला पंप सेट उपलब्ध है। 1. आवेदक के पास कम से कम 2 बीघा खेती योग्य कृषि भूमि होनी चाहिए। 1. किसान का बैंक खाता आधार कार्ड से जुड़ा होना चाहिए। इसके अलावा, कोई भी किसान लाभ प्राप्त करने के बाद अगले 10 वर्षों तक फिर से आवेदन नहीं कर सकता है। 1. किसानों को पाइप खरीदने के 30 दिनों के भीतर अनुदान के लिए आवेदन करना चाहिए और इस समय सीमा के बाद इस पर विचार नहीं किया जाएगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "कृषि भूमि का स्वामित्व आवेदक के पास होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान में रहने वाला किसान होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यह योजना उन किसानों पर लागू होती है जिनके पास बोरवेल या कुएं पर डीजल इंजन, बिजली पंप या ट्रैक्टर से चलने वाला पंप सेट उपलब्ध है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास कम से कम 2 बीघा खेती योग्य कृषि भूमि होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "किसान का बैंक खाता आधार कार्ड से जुड़ा होना चाहिए। इसके अलावा, कोई भी किसान लाभ प्राप्त करने के बाद अगले 10 वर्षों तक फिर से आवेदन नहीं कर सकता है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "किसानों को पाइप खरीदने के 30 दिनों के भीतर अनुदान के लिए आवेदन करना चाहिए और इस समय सीमा के बाद इस पर विचार नहीं किया जाएगा।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "landHolding": [
+      {
+        "value": "small",
+        "label": "Small (1 - 2 hectare)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport size photo."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Aadhar Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Jamabandi or Jamabandi."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Bank Passbook."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport size photo.\n1. Copy of Aadhar Card.\n1. Copy of Jamabandi or Jamabandi.\n1. Copy of Bank Passbook.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जमाबंदी या जमाबंदी की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport size photo.\n1. Copy of Aadhar Card.\n1. Copy of Jamabandi or Jamabandi.\n1. Copy of Bank Passbook.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan Government will provide subsidy to the farmers on purchasing irrigation pipeline and try to reduce the financial burden. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Government will provide subsidy to the farmers on purchasing irrigation pipeline and try to reduce the financial burden. \n"
+        },
+        {
+          "question": "May Other State persons also apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scheme only for Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme only for Rajasthan.\n"
+        },
+        {
+          "question": "What documents are required ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Passport size photo.\n2. Copy of Aadhar Card.\n3. Copy of Jamabandi or Jamabandi.\n4. Copy of Bank Passbook."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Passport size photo.\n2. Copy of Aadhar Card.\n3. Copy of Jamabandi or Jamabandi.\n4. Copy of Bank Passbook.\n"
+        },
+        {
+          "question": "What is DBT?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes.\n"
+        },
+        {
+          "question": "Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Application form is free for Irrigation Pipe Line Program."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Application form is free for Irrigation Pipe Line Program.\n"
+        },
+        {
+          "question": "What is IFSC code?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that deal with online fund transfers."
+                }
+              ]
+            }
+          ],
+          "answer_md": "IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that deal with online fund transfers.\n"
+        },
+        {
+          "question": "How do a applicant know if a field in the application form is mandatory?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A distinctive sign (“*” symbol, “mandatory” mention, etc.)"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A distinctive sign (\"*\" symbol, \"mandatory\" mention, etc.)\n"
+        },
+        {
+          "question": "Is this scheme for Urban area?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, Urban and Rural both can apply for this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Urban and Rural both can apply for this scheme.\n"
+        },
+        {
+          "question": "Can applicant fill the application form in a language other than English?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, applicant can fill only in English language."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applicant can fill only in English language.\n"
+        },
+        {
+          "question": "What is office web to apply for the scheme benefits?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Follow the below url.\nLink : https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Follow the below url.\nLink : https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार किसानों को सिंचाई पाइपलाइन खरीदने पर सब्सिडी प्रदान करेगी और वित्तीय बोझ को कम करने का प्रयास करेगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Government will provide subsidy to the farmers on purchasing irrigation pipeline and try to reduce the financial burden. \n"
+        },
+        {
+          "question": "क्या राज्य के अन्य व्यक्ति भी इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना केवल राजस्थान के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme only for Rajasthan.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. पासपोर्ट आकार की तस्वीर। 2. आधार कार्ड की प्रति। 3. जमाबंदी या जमाबंदी की प्रतिलिपि। 4. बैंक पासबुक की प्रति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Passport size photo.\n2. Copy of Aadhar Card.\n3. Copy of Jamabandi or Jamabandi.\n4. Copy of Bank Passbook.\n"
+        },
+        {
+          "question": "डी. बी. टी. क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रत्यक्ष लाभ अंतरण (डी. बी. टी.) की शुरुआत भारत सरकार द्वारा जनवरी, 2013 में की गई थी। यहां विभिन्न सरकारी योजनाओं के लाभार्थियों के बैंक खाते में सीधे धन हस्तांतरित किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सिंचाई पाइप लाइन कार्यक्रम के लिए आवेदन पत्र निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Application form is free for Irrigation Pipe Line Program.\n"
+        },
+        {
+          "question": "आईएफएससी कोड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आईएफएससी (भारतीय वित्तीय प्रणाली कोड) एक 11 अंकों का अल्फान्यूमेरिक कोड है जो ऑनलाइन फंड ट्रांसफर से निपटने वाली विभिन्न बैंक शाखाओं की पहचान करने में मदद करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that deal with online fund transfers.\n"
+        },
+        {
+          "question": "एक आवेदक को कैसे पता चलेगा कि आवेदन पत्र में एक क्षेत्र अनिवार्य है या नहीं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक विशिष्ट चिन्ह (\"*\" प्रतीक, \"अनिवार्य\" उल्लेख, आदि)"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A distinctive sign (\"*\" symbol, \"mandatory\" mention, etc.)\n"
+        },
+        {
+          "question": "क्या यह योजना शहरी क्षेत्र के लिए है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, शहरी और ग्रामीण दोनों इस योजना के लिए आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Urban and Rural both can apply for this scheme.\n"
+        },
+        {
+          "question": "क्या आवेदक अंग्रेजी के अलावा किसी अन्य भाषा में आवेदन पत्र भर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदक केवल अंग्रेजी भाषा में भर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applicant can fill only in English language.\n"
+        },
+        {
+          "question": "योजना के लाभों के लिए आवेदन करने के लिए ऑफिस वेब क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नीचे दिए गए यूआरएल का पालन करें। लिंकः https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Follow the below url.\nLink : https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    }
+  }
+}

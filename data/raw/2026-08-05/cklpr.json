@@ -1,0 +1,1856 @@
+{
+  "scheme_id": "65f00ab2da55878ebe212f59",
+  "slug": "cklpr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Education",
+        "Girl",
+        "Child Development",
+        "Financial"
+      ],
+      "schemeName": "Chhatraon Ke Liye Protsahan Rashi",
+      "schemeShortTitle": "CKLPR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Log In",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "Registration Video Tutorial",
+          "url": "https://rajkisan.rajasthan.gov.in/Video/Citizen%20Login%20process%20manual.mp4"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Chhaatron Ke Liye Protsahan Rashi&quot; scheme Under the Agriculture Department of the Rajasthan government provides financial assistance to economically disadvantaged students who may face challenges in accessing education due to financial constraints. Studying agriculture aims to equip individuals with the knowledge and skills necessary to enhance agricultural productivity sustainably.\nThis includes learning about innovative farming techniques, crop management practices, breeding strategies, and technological advancements that can increase yields and efficiency in agricultural production. Students learn about food safety standards, quality control measures, food processing techniques, and foodborne pathogens to ensure the safety and integrity of the food supply.\n",
+      "benefits_md": "\n1. Senior Secondary Level:\n\n  - Girls studying agriculture in 11th and 12th standard will receive a scholarship of ₹15,000 per year.\n\n1. Undergraduate Level:\n\n  - Girls enrolled in undergraduate agricultural programs (4/5 years) like Horticulture, Dairy, Agricultural Engineering, Food Processing, and Shri Karna Narendra Business School, Jobner will receive a scholarship of ₹25,000 per year.\n\n1. Postgraduate Level:\n\n  - Girls pursuing M.Sc. Agriculture (2 years) will receive a scholarship of ₹25,000 per year.\n\n1. PhD Level:\n\n  - Girls pursuing PhD in Agriculture (maximum 3 years) will receive a scholarship of ₹40,000 per year.\n\n\n",
+      "exclusions_md": "> **The incentive amount will not be payable to them:**\n\n\n1. On taking admission again in the same class as the students who failed in the previous year.\n1. Girl students who have taken re-admission in the same class for category improvement.\n1. Girls who leave school/college/university in the middle of the session\n\n",
+      "briefDescription": "In the \"Chhatraon Ke Liye Protsahan Rashi\" scheme to encourages girl students to study agriculture subject and provides financial assistance to economically disadvantaged students who may face challenges in accessing education due to financial constraints.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Chhaatron Ke Liye Protsahan Rashi\" scheme Under the Agriculture Department of the Rajasthan government provides financial assistance to economically disadvantaged students who may face challenges in accessing education due to financial constraints. Studying agriculture aims to equip individuals with the knowledge and skills necessary to enhance agricultural productivity sustainably."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This includes learning about innovative farming techniques, crop management practices, breeding strategies, and technological advancements that can increase yields and efficiency in agricultural production. Students learn about food safety standards, quality control measures, food processing techniques, and foodborne pathogens to ensure the safety and integrity of the food supply."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Senior Secondary Level:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Girls studying agriculture in 11th and 12th standard will receive a scholarship of ₹15,000 per year."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Undergraduate Level:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Girls enrolled in undergraduate agricultural programs (4/5 years) like Horticulture, Dairy, Agricultural Engineering, Food Processing, and Shri Karna Narendra Business School, Jobner will receive a scholarship of ₹25,000 per year."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Postgraduate Level:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Girls pursuing M.Sc. Agriculture (2 years) will receive a scholarship of ₹25,000 per year."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "PhD Level:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Girls pursuing PhD in Agriculture (maximum 3 years) will receive a scholarship of ₹40,000 per year."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "The incentive amount will not be payable to them:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "On taking admission again in the same class as the students who failed in the previous year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Girl students who have taken re-admission in the same class for category improvement."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Girls who leave school/college/university in the middle of the session"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Complete the registration process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1: Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal. "
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: After login, "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "dashboard"
+                  }
+                ]
+              },
+              {
+                "text": " will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: Click on “ RAJ-KISAN ” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: In \"Citizen\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: Enter the \"Bhamashah Family ID\" and search. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7: Complete the Aadhaar Authentication and click on get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9: Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5:** Complete the registration process.\n<br>\n\n> **Apply**\n\nStep-1: Applicant have to visit the [official portal. ](https://sso.rajasthan.gov.in/signin)\nStep-2: After login, [dashboard](https://sso.rajasthan.gov.in/dashboard) will open.\nStep-3: Click on “ RAJ-KISAN ” option. \nStep-4: In &quot;Citizen&quot;, click on &quot;Application Entry Request&quot;.\nStep-5: Enter the &quot;Bhamashah Family ID&quot; and search. \nStep-6: Select the person name and scheme name. \nStep-7: Complete the Aadhaar Authentication and click on get details. \nStep-8: Provide the required details.\n- Pensioner Details.\n- Bank Details.\n- Disability Details.\n- Verification Details.\n- Upload Documents.\nStep-9: Submit.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a Girl.\n1. The applicant should be a native of Rajasthan \n1. The applicant should be studying in schools, colleges, and universities recognized by the government and state government.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Girl."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying in schools, colleges, and universities recognized by the government and state government."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "शिक्षा",
+        "लड़की",
+        "बाल विकास",
+        "वित्तीय"
+      ],
+      "schemeName": "छत्रों के लिए प्रोत्साहन राशि",
+      "schemeShortTitle": "CKLPR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "कृषि विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉग इन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "पंजीकरण वीडियो ट्यूटोरियल",
+          "url": "https://rajkisan.rajasthan.gov.in/Video/Citizen%20Login%20process%20manual.mp4"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के कृषि विभाग के तहत 'छतरो के लिए प्रोत्साहन राशि' योजना आर्थिक रूप से वंचित छात्रों को वित्तीय सहायता प्रदान करती है, जिन्हें वित्तीय बाधाओं के कारण शिक्षा प्राप्त करने में चुनौतियों का सामना करना पड़ सकता है। कृषि के अध्ययन का उद्देश्य व्यक्तियों को कृषि उत्पादकता को स्थायी रूप से बढ़ाने के लिए आवश्यक ज्ञान और कौशल से लैस करना है। इसमें नवीन कृषि तकनीकों, फसल प्रबंधन प्रथाओं, प्रजनन रणनीतियों और तकनीकी प्रगति के बारे में सीखना शामिल है जो कृषि उत्पादन में उपज और दक्षता बढ़ा सकते हैं। छात्र खाद्य आपूर्ति की सुरक्षा और अखंडता सुनिश्चित करने के लिए खाद्य सुरक्षा मानकों, गुणवत्ता नियंत्रण उपायों, खाद्य प्रसंस्करण तकनीकों और खाद्य जनित रोगजनकों के बारे में सीखते हैं।",
+      "benefits_md": "1. वरिष्ठ माध्यमिक स्तरः-11वीं और 12वीं कक्षा में कृषि की पढ़ाई करने वाली लड़कियों को प्रति वर्ष 15,000 रुपये की छात्रवृत्ति मिलेगी। 1. स्नातक स्तरः-बागवानी, डेयरी, कृषि इंजीनियरिंग, खाद्य प्रसंस्करण और श्री कर्ण नरेंद्र बिजनेस स्कूल, जॉब्नर जैसे स्नातक कृषि कार्यक्रमों (4/5 वर्ष) में नामांकित लड़कियों को प्रति वर्ष 25,000 रुपये की छात्रवृत्ति मिलेगी। 1. स्नातकोत्तर स्तरः-एम. एससी. करने वाली लड़कियाँ। कृषि (2 वर्ष) को प्रति वर्ष 25,000 रुपये की छात्रवृत्ति मिलेगी। 1. पी. एच. डी. स्तरः-कृषि में पी. एच. डी. (अधिकतम 3 वर्ष) करने वाली लड़कियों को प्रति वर्ष 40,000 रुपये की छात्रवृत्ति मिलेगी।",
+      "exclusions_md": "> * * प्रोत्साहन राशि उन्हें देय नहीं होगीः * * 1। उसी कक्षा में फिर से प्रवेश लेने पर जो छात्र पिछले वर्ष में असफल रहे थे। 1. छात्राएँ जिन्होंने श्रेणी सुधार के लिए एक ही कक्षा में फिर से प्रवेश लिया है। 1. सत्र के बीच में स्कूल/कॉलेज/विश्वविद्यालय छोड़ने वाली लड़कियां",
+      "briefDescription": "लड़कियों को कृषि विषय का अध्ययन करने के लिए प्रोत्साहित करने और आर्थिक रूप से वंचित छात्रों को वित्तीय सहायता प्रदान करने के लिए \"छत्रों के लिए प्रोत्साहन राशि\" योजना में, जो वित्तीय बाधाओं के कारण शिक्षा प्राप्त करने में चुनौतियों का सामना कर सकते हैं।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के कृषि विभाग के तहत \"छतरो के लिए प्रोत्साहन राशि\" योजना आर्थिक रूप से वंचित छात्रों को वित्तीय सहायता प्रदान करती है, जिन्हें वित्तीय बाधाओं के कारण शिक्षा प्राप्त करने में चुनौतियों का सामना करना पड़ सकता है। कृषि के अध्ययन का उद्देश्य व्यक्तियों को कृषि उत्पादकता को स्थायी रूप से बढ़ाने के लिए आवश्यक ज्ञान और कौशल से लैस करना है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इसमें नवीन कृषि तकनीकों, फसल प्रबंधन प्रथाओं, प्रजनन रणनीतियों और तकनीकी प्रगति के बारे में सीखना शामिल है जो कृषि उत्पादन में उपज और दक्षता बढ़ा सकते हैं। छात्र खाद्य आपूर्ति की सुरक्षा और अखंडता सुनिश्चित करने के लिए खाद्य सुरक्षा मानकों, गुणवत्ता नियंत्रण उपायों, खाद्य प्रसंस्करण तकनीकों और खाद्य जनित रोगजनकों के बारे में सीखते हैं।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वरिष्ठ माध्यमिक स्तरः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "11वीं और 12वीं कक्षा में कृषि की पढ़ाई करने वाली लड़कियों को प्रति वर्ष 15,000 रुपये की छात्रवृत्ति मिलेगी।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातक स्तरः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बागवानी, डेयरी, कृषि इंजीनियरिंग, खाद्य प्रसंस्करण और श्री कर्ण नरेंद्र बिजनेस स्कूल, जॉब्नर जैसे स्नातक कृषि कार्यक्रमों (4/5 वर्ष) में नामांकित लड़कियों को प्रति वर्ष 25,000 रुपये की छात्रवृत्ति मिलेगी।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातकोत्तर स्तरः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एम. एससी. करने वाली लड़कियाँ कृषि (2 वर्ष) को प्रति वर्ष 25,000 रुपये की छात्रवृत्ति मिलेगी।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पीएचडी स्तरः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कृषि में पीएचडी (अधिकतम 3 वर्ष) करने वाली लड़कियों को प्रति वर्ष 40,000 रुपये की छात्रवृत्ति मिलेगी।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "प्रोत्साहन राशि उन्हें देय नहीं होगीः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उसी कक्षा में फिर से प्रवेश लेने पर जो छात्र पिछले वर्ष में असफल रहे थे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्राएँ जिन्होंने श्रेणी सुधार के लिए एक ही कक्षा में फिर से प्रवेश लिया है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सत्र के बीच में स्कूल/कॉलेज/विश्वविद्यालय छोड़ने वाली लड़कियां"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "पंजीकरण प्रक्रिया को पूरा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1: आवेदक को वेबसाइट पर जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2: लॉग इन करने के बाद,"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "डैशबोर्ड"
+                  }
+                ]
+              },
+              {
+                "text": "खुलेंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3: \"राज-किसान\" विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4: \"नागरिक\" में, \"आवेदन प्रविष्टि अनुरोध\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5: \"भामाशाह परिवार आईडी\" दर्ज करें और खोजें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6: व्यक्ति का नाम और योजना का नाम चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7: आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8: आवश्यक विवरण प्रदान करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पेंशनभोगी विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बैंक विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- विकलांगता विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- सत्यापन विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9: जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। चरण-5: पंजीकरण प्रक्रिया को पूरा करें। चरण-1: आवेदक को [आधिकारिक पोर्टल पर जाना होगा। ] (https://sso.rajasthan.gov.in/signin) चरण-2: लॉग इन करने के बाद, [डैशबोर्ड] (https://sso.rajasthan.gov.in/dashboard) खुल जाएगा। चरण-3: \"राज-किसान\" विकल्प पर क्लिक करें। चरण-4: 'नागरिक' में 'आवेदन प्रविष्टि अनुरोध' पर क्लिक करें। चरण-5: 'भामाशाह फैमिली आईडी' दर्ज करें और खोजें। चरण-6: व्यक्ति का नाम और योजना का नाम चुनें। चरण-7: आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें। चरण-8: आवश्यक विवरण प्रदान करें। - पेंशनभोगी विवरण। - बैंक विवरण। - विकलांगता विवरण। - सत्यापन विवरण। - दस्तावेज़ अपलोड करें। चरण-9: जमा करें। <बीआर>"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 16,
+          "lte": 100
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक लड़की होनी चाहिए। 1. आवेदक राजस्थान का मूल निवासी होना चाहिए। आवेदक को सरकार और राज्य सरकार द्वारा मान्यता प्राप्त स्कूलों, कॉलेजों और विश्वविद्यालयों में अध्ययन करना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक लड़की होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को सरकार और राज्य सरकार द्वारा मान्यता प्राप्त स्कूलों, कॉलेजों और विश्वविद्यालयों में अध्ययन करना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 16,
+        "lte": 100
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक लड़की होनी चाहिए। 1. आवेदक राजस्थान का मूल निवासी होना चाहिए। आवेदक को सरकार और राज्य सरकार द्वारा मान्यता प्राप्त स्कूलों, कॉलेजों और विश्वविद्यालयों में अध्ययन करना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक लड़की होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को सरकार और राज्य सरकार द्वारा मान्यता प्राप्त स्कूलों, कॉलेजों और विश्वविद्यालयों में अध्ययन करना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Address proof."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "last year's mark sheet."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport size photo."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mobile number."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Address proof.\n1. last year&#39;s mark sheet.\n1. Bank account.\n1. Passport size photo.\n1. Mobile number.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पते का प्रमाण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछले साल की मार्कशीट।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाता।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मोबाइल नंबर।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Address proof.\n1. last year&#39;s mark sheet.\n1. Bank account.\n1. Passport size photo.\n1. Mobile number.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme To encourage girl students to study agriculture subject."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under the scheme To encourage girl students to study agriculture subject.\n"
+        },
+        {
+          "question": "Incentive amount will be payable to the Girl students who have taken re-admission in the same class for category improvement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Incentive amount will not be payable to Them."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Incentive amount will not be payable to Them.\n"
+        },
+        {
+          "question": "Can boy apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only girls can apply for the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only girls can apply for the scheme.\n"
+        },
+        {
+          "question": "Is there a Caste-related Eligibility Criteria in this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no caste-related eligibility."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no caste-related eligibility.\n"
+        },
+        {
+          "question": "Which is the implementing department of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Agriculture Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Agriculture Department.\n"
+        },
+        {
+          "question": "How can i apply online ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Click on this link and follow the steps https://ssoapps.rajasthan.gov.in/imsupy/Introduction.aspx"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Click on this link and follow the steps https://ssoapps.rajasthan.gov.in/imsupy/Introduction.aspx\n"
+        },
+        {
+          "question": "May Other State persons also apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only Rajasthan citizens can apply for this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only Rajasthan citizens can apply for this scheme.\n"
+        },
+        {
+          "question": "How do I know if a field in the application form is mandatory?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A distinctive sign “*” symbol, “mandatory” mention."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A distinctive sign \"*\" symbol, \"mandatory\" mention.\n"
+        },
+        {
+          "question": "How many times the applicant can avail of the benefits of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only ones."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only ones.\n"
+        },
+        {
+          "question": "What is Jan Aadhaar?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Jan Aadhaar is \"one number, one card, one identity\" scheme, Its main objective is to prepare a. database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Jan Aadhaar is \"one number, one card, one identity\" scheme, Its main objective is to prepare a. database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत छात्राओं को कृषि विषय का अध्ययन करने के लिए प्रोत्साहित करना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under the scheme To encourage girl students to study agriculture subject.\n"
+        },
+        {
+          "question": "श्रेणी सुधार के लिए एक ही कक्षा में फिर से प्रवेश लेने वाली छात्राओं को प्रोत्साहन राशि का भुगतान किया जाएगा।",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रोत्साहन राशि उन्हें देय नहीं होगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Incentive amount will not be payable to Them.\n"
+        },
+        {
+          "question": "क्या लड़का इस योजना के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल लड़कियाँ ही इस योजना के लिए आवेदन कर सकती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only girls can apply for the scheme.\n"
+        },
+        {
+          "question": "क्या इस योजना में जाति से संबंधित पात्रता मानदंड हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, जाति से संबंधित कोई पात्रता नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no caste-related eligibility.\n"
+        },
+        {
+          "question": "इस योजना का कार्यान्वयन विभाग कौन सा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कृषि विभाग।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Agriculture Department.\n"
+        },
+        {
+          "question": "मैं ऑनलाइन आवेदन कैसे कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस लिंक पर क्लिक करें और https://ssoapps.rajasthan.gov.in/imsupy/Introduction.aspx चरणों का पालन करें"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Click on this link and follow the steps https://ssoapps.rajasthan.gov.in/imsupy/Introduction.aspx\n"
+        },
+        {
+          "question": "क्या राज्य के अन्य व्यक्ति भी इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान के नागरिक ही इस योजना के लिए आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only Rajasthan citizens can apply for this scheme.\n"
+        },
+        {
+          "question": "मुझे कैसे पता चलेगा कि आवेदन पत्र में कोई क्षेत्र अनिवार्य है या नहीं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक विशिष्ट चिन्ह \"*\" प्रतीक, \"अनिवार्य\" उल्लेख।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A distinctive sign \"*\" symbol, \"mandatory\" mention.\n"
+        },
+        {
+          "question": "आवेदक कितनी बार योजना का लाभ उठा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल एक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only ones.\n"
+        },
+        {
+          "question": "जन आधार क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जन आधार \"एक संख्या, एक कार्ड, एक पहचान\" योजना है, इसका मुख्य उद्देश्य राज्य के निवासी परिवारों की जनसांख्यिकीय और सामाजिक-आर्थिक जानकारी का डेटाबेस तैयार करना और जन आधार कार्ड के माध्यम से परिवार और उसके सदस्यों की पहचान तैयार करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Jan Aadhaar is \"one number, one card, one identity\" scheme, Its main objective is to prepare a. database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members.\n"
+        }
+      ]
+    }
+  }
+}

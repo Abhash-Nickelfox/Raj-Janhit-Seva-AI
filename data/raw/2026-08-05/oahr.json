@@ -1,0 +1,1573 @@
+{
+  "scheme_id": "682c5cb26e3fd3b163f40d55",
+  "slug": "oahr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Scheduled Tribe",
+        "Hostel",
+        "Student",
+        "Tribal",
+        "Ashram Hostels",
+        "Free Accommodation"
+      ],
+      "schemeName": "Operation of Ashram Hostels",
+      "schemeShortTitle": "OAHR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Hostel service",
+          "label": "Hostel service"
+        },
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "Shelter, integrated support and assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://tad.rajasthan.gov.in/scheme/detail/533"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Operation of Ashram Hostels&amp;quot; was launched by the Department of Tribal Area Development, Government of Rajasthan. It aims to ensure continued education for tribal students who lack access to nearby higher-level schools due to the poor economic condition of their families. Under this scheme, free accommodation, nutritious meals, educational materials, uniforms, personal hygiene items, and other facilities are provided to Scheduled Tribe (ST) students residing in ashram hostels operated by the Tribal Area Development Department.\n",
+      "benefits_md": "> **Students are provided with the following annually and monthly benefits:**\n\n**Annually (per student):**\n\n- School uniform with stitching\n- Shoes, socks, towel, and warm sweater\n\n**Monthly (per student):**\n\n- Nutritious breakfast and meals\n- Hair oil\n- Bathing and washing soap\n- Hair cutting service\n- Laundry for bed linen (sheet, pillow cover, blanket)\n- Electricity and water facilities\n- Newspapers and magazines\n\n",
+      "briefDescription": "Under this scheme, free accommodation, nutritious meals, educational materials, uniforms, personal hygiene items, and other facilities are provided to Scheduled Tribe (ST) students residing in ashram hostels operated by the Tribal Area Development Department.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Operation of Ashram Hostels\" was launched by the Department of Tribal Area Development, Government of Rajasthan. It aims to ensure continued education for tribal students who lack access to nearby higher-level schools due to the poor economic condition of their families. Under this scheme, free accommodation, nutritious meals, educational materials, uniforms, personal hygiene items, and other facilities are provided to Scheduled Tribe (ST) students residing in ashram hostels operated by the Tribal Area Development Department."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Students are provided with the following annually and monthly benefits:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Annually (per student):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "School uniform with stitching"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Shoes, socks, towel, and warm sweater"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Monthly (per student):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Nutritious breakfast and meals"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Hair oil"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bathing and washing soap"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Hair cutting service"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Laundry for bed linen (sheet, pillow cover, blanket)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Electricity and water facilities"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Newspapers and magazines"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Keep the receipt or acknowledgment form for future reference."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Note:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "All new admissions will be made on the basis of merit."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Admission to hostels in specific tribal areas will be given only to tribal students belonging to the same area."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Re-admission in the next academic year will be granted only if the student passes the annual examination."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Keep the receipt or acknowledgment form for future reference.\n&gt; **Note:**\n\n\n  - All new admissions will be made on the basis of merit.\n  - Admission to hostels in specific tribal areas will be given only to tribal students belonging to the same area.\n  - Re-admission in the next academic year will be granted only if the student passes the annual examination.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Rajasthan.\n   1. The applicant should belong to the Scheduled Tribe community.\n   1. Scheduled Tribe students are eligible if there is no primary school within 1.5 km, no upper primary school within 3 km, and no secondary/higher secondary school within 5 km of their residence.\n   1. The parents/guardians should not be an income tax payee.\n   1. The applicant&amp;#39;s family should not own more than 400 square yards of urban land.\n   1. The applicant&amp;#39;s family should not own more than 15 bighas of agricultural land.\n   1. The student should pass the current academic year to continue enrollment in the next year.\n   1. The student should be a resident of the same district in which the hostel application has been made.\n\n**Notes:**\n\n  - All new admissions will be made on the basis of merit.\n  - Admission to hostels in specific tribal areas will be given only to tribal students belonging to the same area.\n  - Re-admission in the next academic year will be granted only if the student passes the annual examination.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should belong to the Scheduled Tribe community."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Scheduled Tribe students are eligible if there is no primary school within 1.5 km, no upper primary school within 3 km, and no secondary/higher secondary school within 5 km of their residence."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The parents/guardians should not be an income tax payee."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant's family should not own more than 400 square yards of urban land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant's family should not own more than 15 bighas of agricultural land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The student should pass the current academic year to continue enrollment in the next year."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The student should be a resident of the same district in which the hostel application has been made."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Notes:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All new admissions will be made on the basis of merit."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Admission to hostels in specific tribal areas will be given only to tribal students belonging to the same area."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Re-admission in the next academic year will be granted only if the student passes the annual examination."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "अनुसूचित जनजाति",
+        "छात्रावास",
+        "विद्यार्थी",
+        "जनजातीय",
+        "आश्रम छात्रावास",
+        "निःशुल्क आवास"
+      ],
+      "schemeName": "आश्रम छात्रावासों का संचालन",
+      "schemeShortTitle": "OAHR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Hostel service",
+          "label": "छात्रावास सेवा"
+        },
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "आश्रय, एकीकृत सहायता और सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://tad.rajasthan.gov.in/scheme/detail/533"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "आश्रम छात्रावासों के संचालन की योजना राजस्थान सरकार के जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई थी। इसका उद्देश्य आदिवासी छात्रों के लिए निरंतर शिक्षा सुनिश्चित करना है, जो अपने परिवारों की खराब आर्थिक स्थिति के कारण आस-पास के उच्च स्तर के स्कूलों तक पहुंच से वंचित हैं। इस योजना के तहत जनजातीय क्षेत्र विकास विभाग द्वारा संचालित आश्रम छात्रावासों में रहने वाले अनुसूचित जनजाति (एसटी) के छात्रों को मुफ्त आवास, पौष्टिक भोजन, शैक्षिक सामग्री, वर्दी, व्यक्तिगत स्वच्छता की वस्तुएं और अन्य सुविधाएं प्रदान की जाती हैं।",
+      "benefits_md": "> * * छात्रों को निम्नलिखित वार्षिक और मासिक लाभ प्रदान किए जाते हैंः * * * * * वार्षिक (प्रति छात्र): * * *-सिलाई के साथ स्कूल की वर्दी-जूते, मोजे, तौलिया और गर्म स्वेटर * * मासिक (प्रति छात्र): * *-पौष्टिक नाश्ता और भोजन-बालों का तेल-नहाने और धोने का साबुन-बाल काटने की सेवा-बिस्तर के लिए कपड़े धोने (चादर, तकिया कवर, कंबल)-बिजली और पानी की सुविधा-समाचार पत्र और पत्रिकाएँ",
+      "briefDescription": "इस योजना के तहत जनजातीय क्षेत्र विकास विभाग द्वारा संचालित आश्रम छात्रावासों में रहने वाले अनुसूचित जनजाति (एसटी) के छात्रों को मुफ्त आवास, पौष्टिक भोजन, शैक्षिक सामग्री, वर्दी, व्यक्तिगत स्वच्छता की वस्तुएं और अन्य सुविधाएं प्रदान की जाती हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के जनजातीय क्षेत्र विकास विभाग द्वारा \"आश्रम छात्रावासों का संचालन\" योजना शुरू की गई थी। इसका उद्देश्य आदिवासी छात्रों के लिए निरंतर शिक्षा सुनिश्चित करना है, जो अपने परिवारों की खराब आर्थिक स्थिति के कारण आस-पास के उच्च स्तर के स्कूलों तक पहुंच से वंचित हैं। इस योजना के तहत जनजातीय क्षेत्र विकास विभाग द्वारा संचालित आश्रम छात्रावासों में रहने वाले अनुसूचित जनजाति (एसटी) के छात्रों को मुफ्त आवास, पौष्टिक भोजन, शैक्षिक सामग्री, वर्दी, व्यक्तिगत स्वच्छता की वस्तुएं और अन्य सुविधाएं प्रदान की जाती हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "छात्रों को निम्नलिखित वार्षिक और मासिक लाभ प्रदान किए जाते हैंः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "वार्षिक (प्रति छात्र):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सिलाई के साथ स्कूल की वर्दी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जूते, मोजे, तौलिया और गर्म स्वेटर"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "मासिक (प्रति छात्र):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पौष्टिक नाश्ता और भोजन"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बालों का तेल"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नहाना और साबुन धोना"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बाल काटने की सेवा"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बिस्तर लिनन के लिए कपड़े धोने (चादर, तकिया कवर, कंबल)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बिजली और पानी की सुविधाएं"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "समाचार पत्र और पत्रिकाएँ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "भविष्य के संदर्भ के लिए रसीद या पावती प्रपत्र अपने पास रखें।"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "ध्यान देंः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "सभी नए प्रवेश योग्यता के आधार पर किए जाएंगे।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "विशिष्ट जनजातीय क्षेत्रों में छात्रावासों में प्रवेश केवल उसी क्षेत्र के जनजातीय छात्रों को दिया जाएगा।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "अगले शैक्षणिक वर्ष में पुनः प्रवेश तभी दिया जाएगा जब छात्र वार्षिक परीक्षा उत्तीर्ण करेगा।"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए। * * चरण 2: * * आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए। * * चरण 3: * * आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है। * * भविष्य के संदर्भ के लिए रसीद या पावती प्रपत्र अपने पास रखें। * * नोटः *-सभी नए प्रवेश योग्यता के आधार पर किए जाएंगे।-विशिष्ट आदिवासी क्षेत्रों में छात्रावासों में प्रवेश केवल उसी क्षेत्र के आदिवासी छात्रों को दिया जाएगा।-अगले शैक्षणिक वर्ष में फिर से प्रवेश केवल तभी दिया जाएगा जब छात्र वार्षिक परीक्षा उत्तीर्ण करेगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "st",
+          "gte": 5,
+          "lte": 25
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Primary (1-5)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Middle (6-8)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक अनुसूचित जनजाति समुदाय से होना चाहिए। 1. अनुसूचित जनजाति के छात्र पात्र हैं यदि उनके निवास के डेढ़ किलोमीटर के भीतर कोई प्राथमिक विद्यालय नहीं है, 3 किलोमीटर के भीतर कोई उच्च प्राथमिक विद्यालय नहीं है, और उनके निवास के 5 किलोमीटर के भीतर कोई माध्यमिक/उच्च माध्यमिक विद्यालय नहीं है। 1. माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए। 1. आवेदक के परिवार के पास 400 वर्ग गज से अधिक शहरी भूमि नहीं होनी चाहिए। 1. आवेदक के परिवार के पास 15 बीघा से अधिक कृषि भूमि नहीं होनी चाहिए। 1. छात्र को अगले वर्ष नामांकन जारी रखने के लिए वर्तमान शैक्षणिक वर्ष में उत्तीर्ण होना चाहिए। 1. छात्र को उसी जिले का निवासी होना चाहिए जिसमें छात्रावास के लिए आवेदन किया गया है। * * नोटः-सभी नए प्रवेश योग्यता के आधार पर किए जाएंगे। - विशिष्ट जनजातीय क्षेत्रों में छात्रावासों में प्रवेश केवल उसी क्षेत्र के जनजातीय छात्रों को दिया जाएगा। - अगले शैक्षणिक वर्ष में पुनः प्रवेश केवल तभी दिया जाएगा जब छात्र वार्षिक परीक्षा उत्तीर्ण करेगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक अनुसूचित जनजाति समुदाय से होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अनुसूचित जनजाति के छात्र पात्र हैं यदि उनके निवास के डेढ़ किलोमीटर के भीतर कोई प्राथमिक विद्यालय नहीं है, 3 किलोमीटर के भीतर कोई उच्च प्राथमिक विद्यालय नहीं है, और उनके निवास के 5 किलोमीटर के भीतर कोई माध्यमिक/उच्च माध्यमिक विद्यालय नहीं है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक के परिवार के पास 400 वर्ग गज से अधिक शहरी भूमि नहीं होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक के परिवार के पास 15 बीघा से अधिक कृषि भूमि नहीं होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्र को अगले वर्ष नामांकन जारी रखने के लिए वर्तमान शैक्षणिक वर्ष में उत्तीर्ण होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्र को उसी जिले का निवासी होना चाहिए जिसमें छात्रावास के लिए आवेदन किया गया है।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "टिप्पणियाँः",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सभी नए प्रवेश योग्यता के आधार पर किए जाएंगे।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "विशिष्ट जनजातीय क्षेत्रों में छात्रावासों में प्रवेश केवल उसी क्षेत्र के जनजातीय छात्रों को दिया जाएगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अगले शैक्षणिक वर्ष में पुनः प्रवेश तभी दिया जाएगा जब छात्र वार्षिक परीक्षा उत्तीर्ण करेगा।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes",
+      "maritalStatus": [
+        {
+          "value": "never-married",
+          "label": "Never Married"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "st",
+        "gte": 5,
+        "lte": 25
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Primary (1-5)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Middle (6-8)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक अनुसूचित जनजाति समुदाय से होना चाहिए। 1. अनुसूचित जनजाति के छात्र पात्र हैं यदि उनके निवास के डेढ़ किलोमीटर के भीतर कोई प्राथमिक विद्यालय नहीं है, 3 किलोमीटर के भीतर कोई उच्च प्राथमिक विद्यालय नहीं है, और उनके निवास के 5 किलोमीटर के भीतर कोई माध्यमिक/उच्च माध्यमिक विद्यालय नहीं है। 1. माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए। 1. आवेदक के परिवार के पास 400 वर्ग गज से अधिक शहरी भूमि नहीं होनी चाहिए। 1. आवेदक के परिवार के पास 15 बीघा से अधिक कृषि भूमि नहीं होनी चाहिए। 1. छात्र को अगले वर्ष नामांकन जारी रखने के लिए वर्तमान शैक्षणिक वर्ष में उत्तीर्ण होना चाहिए। 1. छात्र को उसी जिले का निवासी होना चाहिए जिसमें छात्रावास के लिए आवेदन किया गया है। * * नोटः-सभी नए प्रवेश योग्यता के आधार पर किए जाएंगे। - विशिष्ट जनजातीय क्षेत्रों में छात्रावासों में प्रवेश केवल उसी क्षेत्र के जनजातीय छात्रों को दिया जाएगा। - अगले शैक्षणिक वर्ष में पुनः प्रवेश केवल तभी दिया जाएगा जब छात्र वार्षिक परीक्षा उत्तीर्ण करेगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक अनुसूचित जनजाति समुदाय से होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अनुसूचित जनजाति के छात्र पात्र हैं यदि उनके निवास के डेढ़ किलोमीटर के भीतर कोई प्राथमिक विद्यालय नहीं है, 3 किलोमीटर के भीतर कोई उच्च प्राथमिक विद्यालय नहीं है, और उनके निवास के 5 किलोमीटर के भीतर कोई माध्यमिक/उच्च माध्यमिक विद्यालय नहीं है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक के परिवार के पास 400 वर्ग गज से अधिक शहरी भूमि नहीं होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक के परिवार के पास 15 बीघा से अधिक कृषि भूमि नहीं होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र को अगले वर्ष नामांकन जारी रखने के लिए वर्तमान शैक्षणिक वर्ष में उत्तीर्ण होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र को उसी जिले का निवासी होना चाहिए जिसमें छात्रावास के लिए आवेदन किया गया है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "टिप्पणियाँः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सभी नए प्रवेश योग्यता के आधार पर किए जाएंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "विशिष्ट जनजातीय क्षेत्रों में छात्रावासों में प्रवेश केवल उसी क्षेत्र के जनजातीय छात्रों को दिया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अगले शैक्षणिक वर्ष में पुनः प्रवेश तभी दिया जाएगा जब छात्र वार्षिक परीक्षा उत्तीर्ण करेगा।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes",
+    "maritalStatus": [
+      {
+        "value": "never-married",
+        "label": "Never Married"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet/Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Caste Certificate\n1. Education Qualification Marksheet/Certificate\n1. Income Certificate\n1. Jan Aadhar/Bhamashah Card\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Caste Certificate\n1. Education Qualification Marksheet/Certificate\n1. Income Certificate\n1. Jan Aadhar/Bhamashah Card\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only Scheduled Tribe (ST) students who meet the eligibility criteria can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only Scheduled Tribe (ST) students who meet the eligibility criteria can apply.\n"
+        },
+        {
+          "question": "What are the main benefits provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students receive free food, school uniforms, shoes, toiletries, grooming services, electricity, water, and access to newspapers/ magazines."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students receive free food, school uniforms, shoes, toiletries, grooming services, electricity, water, and access to newspapers/ magazines.\n"
+        },
+        {
+          "question": "Is there any income limit for eligibility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant’s parents/guardians must not be income tax payers, and land ownership must be within the prescribed limits."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant’s parents/guardians must not be income tax payers, and land ownership must be within the prescribed limits.\n"
+        },
+        {
+          "question": "What is the admission criteria for new applicants?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Merit-based admission is followed for all new applications."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Merit-based admission is followed for all new applications.\n"
+        },
+        {
+          "question": "Is there any fee for applying to this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the application is completely free of cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application is completely free of cost.\n"
+        },
+        {
+          "question": "Is this scheme available for students of other castes?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, it is exclusively for Scheduled Tribe (ST) students. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is exclusively for Scheduled Tribe (ST) students. \n"
+        },
+        {
+          "question": "Can students from other states apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only permanent residents of Rajasthan are eligible to apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only permanent residents of Rajasthan are eligible to apply.\n"
+        },
+        {
+          "question": "What documents are required to apply?",
+          "answer": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The applicant needs to submit a caste certificate, educational marksheet/certificate, income certificate, and jan aadhaar or bhamashah card. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant needs to submit a caste certificate, educational marksheet/certificate, income certificate, and jan aadhaar or bhamashah card. \n"
+        },
+        {
+          "question": "What is the mode of application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications must be submitted online via e-Mitra kiosks or the official scheme website  "
+                },
+                {
+                  "type": "link",
+                  "link": "https://tad.rajasthan.gov.in",
+                  "children": [
+                    {
+                      "text": "https://tad.rajasthan.gov.in"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted online via e-Mitra kiosks or the official scheme website  [https://tad.rajasthan.gov.in](https://tad.rajasthan.gov.in).\n"
+        },
+        {
+          "question": "Can students from urban areas apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, but only if their family does not own more than 400 square yards of urban land. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only if their family does not own more than 400 square yards of urban land. \n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल अनुसूचित जनजाति (एसटी) के छात्र जो पात्रता मानदंडों को पूरा करते हैं, आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only Scheduled Tribe (ST) students who meet the eligibility criteria can apply.\n"
+        },
+        {
+          "question": "इस योजना के तहत प्रदान किए जाने वाले मुख्य लाभ क्या हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रों को मुफ्त भोजन, स्कूल की वर्दी, जूते, प्रसाधन सामग्री, सौंदर्य सेवाएं, बिजली, पानी और समाचार पत्रों/पत्रिकाओं तक पहुंच प्राप्त होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students receive free food, school uniforms, shoes, toiletries, grooming services, electricity, water, and access to newspapers/ magazines.\n"
+        },
+        {
+          "question": "क्या पात्रता के लिए कोई आय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक के माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए और भूमि का स्वामित्व निर्धारित सीमा के भीतर होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant’s parents/guardians must not be income tax payers, and land ownership must be within the prescribed limits.\n"
+        },
+        {
+          "question": "नए आवेदकों के लिए प्रवेश मानदंड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सभी नए आवेदनों के लिए योग्यता आधारित प्रवेश का पालन किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Merit-based admission is followed for all new applications.\n"
+        },
+        {
+          "question": "क्या इस योजना में आवेदन करने के लिए कोई शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन पूरी तरह से निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application is completely free of cost.\n"
+        },
+        {
+          "question": "क्या यह योजना अन्य जातियों के छात्रों के लिए उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह विशेष रूप से अनुसूचित जनजाति (एसटी) के छात्रों के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is exclusively for Scheduled Tribe (ST) students. \n"
+        },
+        {
+          "question": "क्या अन्य राज्यों के छात्र इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान के स्थायी निवासी ही आवेदन करने के पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only permanent residents of Rajasthan are eligible to apply.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "आवेदक को जाति प्रमाण पत्र, शैक्षिक अंकपत्र/प्रमाण पत्र, आय प्रमाण पत्र और जन आधार या भामाशाह कार्ड जमा करना होगा।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant needs to submit a caste certificate, educational marksheet/certificate, income certificate, and jan aadhaar or bhamashah card. \n"
+        },
+        {
+          "question": "आवेदन का तरीका क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन ई-मित्र कियोस्क या आधिकारिक योजना वेबसाइट के माध्यम से ऑनलाइन जमा किए जाने चाहिए"
+                },
+                {
+                  "type": "link",
+                  "link": "https://tad.rajasthan.gov.in",
+                  "children": [
+                    {
+                      "text": "https://tad.rajasthan.gov.in"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted online via e-Mitra kiosks or the official scheme website  [https://tad.rajasthan.gov.in](https://tad.rajasthan.gov.in).\n"
+        },
+        {
+          "question": "क्या शहरी क्षेत्रों के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, लेकिन केवल तभी जब उनके परिवार के पास 400 वर्ग गज से अधिक शहरी भूमि न हो।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only if their family does not own more than 400 square yards of urban land. \n"
+        }
+      ]
+    }
+  }
+}

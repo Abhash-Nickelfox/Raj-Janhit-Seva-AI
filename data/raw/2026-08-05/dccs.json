@@ -1,0 +1,1208 @@
+{
+  "scheme_id": "67b0ae530cc99d069d33edb0",
+  "slug": "dccs",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Cycle",
+        "Special Backward Classes",
+        "Girl",
+        "Student",
+        "Free Bicycle"
+      ],
+      "schemeName": "Devnarayan Chhatra Cycle Scheme",
+      "schemeShortTitle": "DCCS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Aids/Appliances",
+          "label": "Aids/Appliances"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=87"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Devnarayan Chhatra Cycle Scheme&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, aims to promote education and mobility among girls belonging to the Special Backward Classes (SBC) or specific communities such as Banjara, Baldia, Labana, Gadiya-Lohar, Gadolia, Gujar, Gurjar, Raiko, Rebari (Debasi), and Gadaria (Gadri, Gyari). Under this scheme, free bicycles are provided to girl students studying in 9th Class in government schools of Rajasthan.\n",
+      "benefits_md": "\n- Free distribution of cycles to girl students**.** \n",
+      "briefDescription": "The scheme provides free bicycles to girl students studying in Class 9 in government schools of Rajasthan who belong to the Special Backward Classes or specific communities such as Banjara, Baldia, Labana-Gadiya Lohar, Gadolia, Gujar Gurjar, Raiko, Rebari (Debasi).",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Devnarayan Chhatra Cycle Scheme\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, aims to promote education and mobility among girls belonging to the Special Backward Classes (SBC) or specific communities such as Banjara, Baldia, Labana, Gadiya-Lohar, Gadolia, Gujar, Gurjar, Raiko, Rebari (Debasi), and Gadaria (Gadri, Gyari). Under this scheme, free bicycles are provided to girl students studying in 9th Class in government schools of Rajasthan."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free distribution of cycles to girl students"
+                },
+                {
+                  "bold": true,
+                  "text": ". "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the principal of the respective government school where the student is enrolled and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the principal of the respective government school. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the principal of the respective government school to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the principal of the respective government school where the student is enrolled and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the principal of the respective government school. \n**Step 4:** Request a receipt or acknowledgment from the principal of the respective government school to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a girl student.\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be enrolled in class 9th in a government school of Rajasthan.1. The applicant must belong to one of the following Special Backward Class (SBC) communities:\n\n\n- Banjara, Baldia, Labana\n- Gadiya Lohar, Gadolia\n- Gujar, Gurjar\n- Raika, Rebari (Debasi)\n- Gadaria (Gadri, Gyari)\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a girl student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in class 9"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " in a government school of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to one of the following Special Backward Class (SBC) communities:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Banjara, Baldia, Labana"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gadiya Lohar, Gadolia"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gujar, Gurjar"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Raika, Rebari (Debasi)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gadaria (Gadri, Gyari)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "चक्र",
+        "विशेष पिछड़े वर्ग",
+        "लड़की",
+        "विद्यार्थी",
+        "मुफ्त साइकिल"
+      ],
+      "schemeName": "देवनारायण छात्र साइकिल योजना",
+      "schemeShortTitle": "DCCS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Aids/Appliances",
+          "label": "सहायक/उपकरण"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=87"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई देवनारायण छात्र साइकिल योजना का उद्देश्य विशेष पिछड़े वर्गों (एस. बी. सी.) या बंजारा, बलदिया, लाबाना, गड़िया-लोहार, गडोलिया, गुर्जर, रायको, रेबारी (देबासी) और गदरिया (गदरी, ग्यारी) जैसे विशिष्ट समुदायों से संबंधित लड़कियों के बीच शिक्षा और गतिशीलता को बढ़ावा देना है। इस योजना के तहत राजस्थान के सरकारी स्कूलों में 9वीं कक्षा में पढ़ने वाली छात्राओं को मुफ्त साइकिल दी जाती है।",
+      "benefits_md": "- छात्राओं को मुफ्त साइकिलों का वितरण",
+      "briefDescription": "यह योजना राजस्थान के सरकारी स्कूलों में कक्षा 9 में पढ़ने वाली उन लड़कियों को मुफ्त साइकिल प्रदान करती है जो विशेष पिछड़े वर्ग या बंजारा, बलदिया, लबना-गड़िया लोहार, गडोलिया, गुजर गुर्जर, राइको, रेबारी (देबासी) जैसे विशिष्ट समुदायों से संबंधित हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई \"देवनारायण छात्र साइकिल योजना\" का उद्देश्य विशेष पिछड़े वर्गों (एस. बी. सी.) या बंजारा, बलदिया, लाबाना, गड़िया-लोहार, गडोलिया, गुर्जर, गुर्जर, रायको, रेबारी (देबासी) और गदरिया (गदरी, ग्यारी) जैसे विशिष्ट समुदायों से संबंधित लड़कियों के बीच शिक्षा और गतिशीलता को बढ़ावा देना है। इस योजना के तहत राजस्थान के सरकारी स्कूलों में 9वीं कक्षा में पढ़ने वाली छात्राओं को मुफ्त साइकिल दी जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्राओं को मुफ्त साइकिलों का वितरण"
+                },
+                {
+                  "bold": true,
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को संबंधित सरकारी स्कूल के प्राचार्य के पास (कार्यालय के समय के दौरान) जाना चाहिए जहां छात्र नामांकित है और विशेष रूप से भरे हुए आवेदन जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को संबंधित सरकारी स्कूल के प्राचार्य को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "संबंधित सरकारी स्कूल के प्रधानाचार्य से रसीद या पावती का अनुरोध करें, जिन्हें आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को संबंधित सरकारी स्कूल के प्राचार्य के पास जाना चाहिए (कार्यालय के समय के दौरान) जहां छात्र नामांकित है और विशेष रूप से भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को संबंधित सरकारी स्कूल के प्राचार्य को जमा करें। * * चरण 4: * * संबंधित सरकारी स्कूल के प्रिंसिपल से रसीद या पावती का अनुरोध करें जिन्हें आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 12,
+          "lte": 16,
+          "category": "General"
+        },
+        {
+          "gte": 12,
+          "lte": 16,
+          "category": "EWS"
+        },
+        {
+          "gte": 12,
+          "lte": 16,
+          "category": "Female"
+        },
+        {
+          "gte": 12,
+          "lte": 16,
+          "category": "OBC"
+        },
+        {
+          "gte": 12,
+          "lte": 16,
+          "category": "SC"
+        },
+        {
+          "gte": 12,
+          "lte": 16,
+          "category": "ST"
+        },
+        {
+          "gte": 12,
+          "lte": 16,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक छात्रा होनी चाहिए। 1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को राजस्थान के किसी सरकारी स्कूल में 9वीं कक्षा में नामांकित होना चाहिए। आवेदक निम्नलिखित विशेष पिछड़ा वर्ग (एस. बी. सी.) समुदायों में से किसी एक से संबंधित होना चाहिएः-बंजारा, बलदिया, लाबाना-गड़िया लोहार, गडोलिया-गुजर, गुर्जर-रायका, रेबारी (देबासी)-गदरिया (गदरी, ग्यारी)",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक छात्रा होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को कक्षा 9 में नामांकित होना चाहिए"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "राजस्थान के एक सरकारी स्कूल में।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को निम्नलिखित विशेष पिछड़े वर्ग (एस. बी. सी.) समुदायों में से एक होना चाहिएः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बंजारा, बलदिया, लाबाना"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गडिया लोहार, गडोलिया"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गुर्जर, गुर्जर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रायका, रेबारी (देबासी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गदरिया (गदरी, ग्यारी)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "pvtg",
+          "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+        },
+        {
+          "value": "obc",
+          "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 12,
+        "lte": 16,
+        "category": "General"
+      },
+      {
+        "gte": 12,
+        "lte": 16,
+        "category": "EWS"
+      },
+      {
+        "gte": 12,
+        "lte": 16,
+        "category": "Female"
+      },
+      {
+        "gte": 12,
+        "lte": 16,
+        "category": "OBC"
+      },
+      {
+        "gte": 12,
+        "lte": 16,
+        "category": "SC"
+      },
+      {
+        "gte": 12,
+        "lte": 16,
+        "category": "ST"
+      },
+      {
+        "gte": 12,
+        "lte": 16,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक छात्रा होनी चाहिए। 1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को राजस्थान के किसी सरकारी स्कूल में 9वीं कक्षा में नामांकित होना चाहिए। आवेदक निम्नलिखित विशेष पिछड़ा वर्ग (एस. बी. सी.) समुदायों में से किसी एक से संबंधित होना चाहिएः-बंजारा, बलदिया, लाबाना-गड़िया लोहार, गडोलिया-गुजर, गुर्जर-रायका, रेबारी (देबासी)-गदरिया (गदरी, ग्यारी)",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक छात्रा होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को कक्षा 9 में नामांकित होना चाहिए"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "राजस्थान के एक सरकारी स्कूल में।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को निम्नलिखित विशेष पिछड़े वर्ग (एस. बी. सी.) समुदायों में से एक होना चाहिएः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "बंजारा, बलदिया, लाबाना"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "गडिया लोहार, गडोलिया"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "गुर्जर, गुर्जर"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "रायका, रेबारी (देबासी)"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "गदरिया (गदरी, ग्यारी)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "pvtg",
+        "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+      },
+      {
+        "value": "obc",
+        "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Rajasthan Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "SBC Caste Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Educational Certificate of Class 9"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Rajasthan Domicile Certificate\n1. SBC Caste Certificate\n1. Income Certificate\n1. Aadhaar Card\n1. Educational Certificate of Class 9th1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एसबीसी जाति प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कक्षा 9 का शैक्षिक प्रमाण पत्र"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Rajasthan Domicile Certificate\n1. SBC Caste Certificate\n1. Income Certificate\n1. Aadhaar Card\n1. Educational Certificate of Class 9th1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Girls studying in Class 9 in Rajasthan government schools, belonging to SBC communities."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girls studying in Class 9 in Rajasthan government schools, belonging to SBC communities.\n"
+        },
+        {
+          "question": "What benefit is provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A free bicycle for eligible girl students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A free bicycle for eligible girl students.\n"
+        },
+        {
+          "question": "Which communities are eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Banjara, Baldia, Labana, Gadiya Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadri, Gyari)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Banjara, Baldia, Labana, Gadiya Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadri, Gyari).\n"
+        },
+        {
+          "question": "Can private school students apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only students studying in government schools are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students studying in government schools are eligible.\n"
+        },
+        {
+          "question": "Is there any income limit for eligibility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, income criteria are not applicable under this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, income criteria are not applicable under this scheme.\n"
+        },
+        {
+          "question": "How can students apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "They need to submit an application through their school principal along with required documents."
+                }
+              ]
+            }
+          ],
+          "answer_md": "They need to submit an application through their school principal along with required documents.\n"
+        },
+        {
+          "question": "How is the bicycle provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The approved students receive the bicycle directly from the school."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The approved students receive the bicycle directly from the school.\n"
+        },
+        {
+          "question": "Is this benefit given every year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, each girl gets the bicycle only once in Class 9."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, each girl gets the bicycle only once in Class 9.\n"
+        },
+        {
+          "question": "Where can I get more details?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Visit the official website of the Secondary Education Department, Bikaner: www.rajshiksha.gov.in."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Visit the official website of the Secondary Education Department, Bikaner: www.rajshiksha.gov.in.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के सरकारी स्कूलों में कक्षा 9 में पढ़ने वाली लड़कियां, जो एस. बी. सी. समुदायों से संबंधित हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girls studying in Class 9 in Rajasthan government schools, belonging to SBC communities.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्य बालिकाओं के लिए मुफ्त साइकिल।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A free bicycle for eligible girl students.\n"
+        },
+        {
+          "question": "कौन से समुदाय पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बंजारा, बलदिया, लाबाना, गदिया लोहार, गडोलिया, गुजर, गुर्जर, रायका, रेबारी (देबासी) और गदरिया (गदरी, ग्यारी)।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Banjara, Baldia, Labana, Gadiya Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadri, Gyari).\n"
+        },
+        {
+          "question": "क्या निजी विद्यालय के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल सरकारी स्कूलों में पढ़ने वाले छात्र ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students studying in government schools are eligible.\n"
+        },
+        {
+          "question": "क्या पात्रता के लिए कोई आय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना के तहत आय मानदंड लागू नहीं होते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, income criteria are not applicable under this scheme.\n"
+        },
+        {
+          "question": "छात्र कैसे आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उन्हें आवश्यक दस्तावेजों के साथ अपने स्कूल के प्रिंसिपल के माध्यम से एक आवेदन जमा करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "They need to submit an application through their school principal along with required documents.\n"
+        },
+        {
+          "question": "साइकिल कैसे प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "स्वीकृत छात्र सीधे स्कूल से साइकिल प्राप्त करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The approved students receive the bicycle directly from the school.\n"
+        },
+        {
+          "question": "क्या यह लाभ हर साल दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, प्रत्येक लड़की को कक्षा 9 में केवल एक बार साइकिल मिलती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, each girl gets the bicycle only once in Class 9.\n"
+        },
+        {
+          "question": "मुझे अधिक जानकारी कहाँ मिल सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "माध्यमिक शिक्षा विभाग, बीकानेर की आधिकारिक वेबसाइट पर जाएँः www.rajshiksha.gov.in।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Visit the official website of the Secondary Education Department, Bikaner: www.rajshiksha.gov.in.\n"
+        }
+      ]
+    }
+  }
+}

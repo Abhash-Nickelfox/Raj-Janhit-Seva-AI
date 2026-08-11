@@ -1,0 +1,1732 @@
+{
+  "scheme_id": "6807cb9192da06bdddb7d8ec",
+  "slug": "aby",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Financial Assistance",
+        "Girl Student",
+        "BPL",
+        "Below Poverty Line",
+        "Daughter"
+      ],
+      "schemeName": "Aapki Beti Yojana",
+      "schemeShortTitle": "ABY",
+      "implementingAgency": "Rajasthan Balika Shiksha Foundation",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Financial Assistance",
+          "label": "Financial Assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "Education (Elementary and Secondary) Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=670104fd629122007438dba7"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Aapki Beti Yojana&amp;quot; scheme was launched by the School Education Department, Government of Rajasthan, to support girls in continuing their education in government schools from Class 1 to 12. Under the scheme, financial assistance of ₹2,100/- per year is provided to girls studying in Class 1 to 8 in government schools who belong to families living below the poverty line (BPL) and whose one or both parents have passed away. For girls studying in Class 9 to 12, the assistance is ₹2,500/- per year. The scheme is implemented by the Rajasthan Balika Shiksha Foundation.\n",
+      "benefits_md": "> **Financial Assistance:**\n\n\n- ₹2,100/- per annum for girl students in classes 1st to 8th.- ₹2,500/- per annum for girl students in classes 9th to 12th.\n> ***Mode of Disbursement:***\n\n\n- Direct Benefit Transfer (DBT) to the bank account linked with Jan Aadhaar of the family head or the girl child.\n\n",
+      "briefDescription": "Under the scheme, financial assistance of ₹2,100/- per year is provided to girls studying in Class 1 to 8 in government schools, belonging to families living below the poverty line (BPL) and whose both or one parent has passed away. Girls studying in Class 9 to 12 receive ₹2,500/- per year.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Aapki Beti Yojana\" scheme was launched by the School Education Department, Government of Rajasthan, to support girls in continuing their education in government schools from Class 1 to 12. Under the scheme, financial assistance of ₹2,100/- per year is provided to girls studying in Class 1 to 8 in government schools who belong to families living below the poverty line (BPL) and whose one or both parents have passed away. For girls studying in Class 9 to 12, the assistance is ₹2,500/- per year. The scheme is implemented by the Rajasthan Balika Shiksha Foundation."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹2,100/- per annum for girl students in classes 1"
+                },
+                {
+                  "text": "st",
+                  "superscript": true
+                },
+                {
+                  "text": " to 8"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹2,500/- per annum for girl students in classes 9"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " to 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Direct Benefit Transfer (DBT) to the bank account linked with Jan Aadhaar of the family head or the girl child."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "To avail of the benefits of the scheme, the parents/guardians need to contact their respective government school.",
+                "italic": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Data Entry on Shala Darpan Portal:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "School authorities log in through the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx",
+                    "children": [
+                      {
+                        "text": "Shala Darpan School Login"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Navigate to the \"Student\" tab and fill required details in Form-9."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Category Selection for Eligible Girls:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Under the “Mandatory Student Information for Beneficiary Schemes” section, select class-wise eligible girls under “BPL” and “Orphan/Single Parent” categories."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beneficiary Approval:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Visit the Beneficiary Scheme Portal through School Login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select the appropriate scheme and approve and lock the displayed list of eligible girls."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Verification by District Education Officer (DEO):",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Locked data is reflected on the DEO (primary/secondary) office login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "DEO completes final verification using OTP-based approval."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Jan Aadhaar Verification:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Before submission, ensure that the girl’s Jan Aadhaar is verified on the Shala Darpan Portal, as funds are transferred via DBT."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> ***To avail of the benefits of the scheme, the parents/guardians need to contact their respective government school.***\n\n**Data Entry on Shala Darpan Portal:**\n\n- School authorities log in through the [Shala Darpan School Login](https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx).- Navigate to the &quot;Student&quot; tab and fill required details in Form-9.\n\n**Category Selection for Eligible Girls:**\n\n- Under the “Mandatory Student Information for Beneficiary Schemes” section, select class-wise eligible girls under “BPL” and “Orphan/Single Parent” categories.\n\n**Beneficiary Approval:**\n\n- Visit the Beneficiary Scheme Portal through School Login.\n- Select the appropriate scheme and approve and lock the displayed list of eligible girls.\n\n**Verification by District Education Officer (DEO):**\n\n- Locked data is reflected on the DEO (primary/secondary) office login.\n- DEO completes final verification using OTP-based approval.\n\n**Jan Aadhaar Verification:**\n\n- Before submission, ensure that the girl’s Jan Aadhaar is verified on the Shala Darpan Portal, as funds are transferred via DBT.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be a girl student \n1. The applicant should be studying in a government school in Rajasthan.\n1. The applicant should be studying in classes 1st to 12th.1. The applicant’s family should fall under the Below Poverty Line (BPL) category.\n1. The applicant should have lost either one parent (single parent) or both parents.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a girl student "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying in a government school in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying in classes 1"
+                },
+                {
+                  "text": "st",
+                  "superscript": true
+                },
+                {
+                  "text": " to 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s family should fall under the Below Poverty Line (BPL) category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have lost either one parent (single parent) or both parents."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "वित्तीय सहायता",
+        "छात्रा",
+        "बी. पी. एल",
+        "गरीबी रेखा से नीचे",
+        "बेटी"
+      ],
+      "schemeName": "आपकी बेटी योजना",
+      "schemeShortTitle": "ABY",
+      "implementingAgency": "Rajasthan Balika Shiksha Foundation",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        },
+        {
+          "value": "Financial Assistance",
+          "label": "वित्तीय सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "शिक्षा (प्राथमिक और माध्यमिक) विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=670104fd629122007438dba7"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "आपकी बेटी योजना योजना राजस्थान सरकार के स्कूल शिक्षा विभाग द्वारा सरकारी स्कूलों में कक्षा 1 से 12 तक लड़कियों की शिक्षा जारी रखने में सहायता करने के लिए शुरू की गई थी। इस योजना के तहत सरकारी स्कूलों में कक्षा 1 से 8 तक पढ़ने वाली उन लड़कियों को प्रति वर्ष ₹2,100/- की वित्तीय सहायता प्रदान की जाती है जो गरीबी रेखा (बी. पी. एल.) से नीचे रहने वाले परिवारों से संबंधित हैं और जिनके माता-पिता में से एक या दोनों का निधन हो गया है। कक्षा 9 से 12 तक पढ़ने वाली लड़कियों के लिए, सहायता ₹2,500/- प्रति वर्ष है। इस योजना को राजस्थान बालिका शिक्षा फाउंडेशन द्वारा लागू किया जाता है।",
+      "benefits_md": "वित्तीय सहायताः 1मसँ 8म कक्षाक छात्रा सभक लेल ₹2,100/- प्रति वर्ष आ 9मसँ 12म कक्षाक छात्रा सभक लेल ₹2,500/- प्रति वर्ष। > * * * संवितरण का विधिः * * *-परिवार के मुखिया या बालिका के जन आधार से जुड़े बैंक खाते में प्रत्यक्ष लाभ अंतरण (डी. बी. टी.)।",
+      "briefDescription": "इस योजना के तहत सरकारी स्कूलों में कक्षा 1 से 8 तक पढ़ने वाली उन लड़कियों को प्रति वर्ष ₹2,100/- की वित्तीय सहायता प्रदान की जाती है, जो गरीबी रेखा (बी. पी. एल.) से नीचे रहने वाले परिवारों से संबंधित हैं और जिनके माता-पिता दोनों या एक की मृत्यु हो गई है। कक्षा 9 से 12 तक पढ़ने वाली लड़कियों को प्रति वर्ष ₹2,500/- मिलते हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"आपकी बेटी योजना\" योजना राजस्थान सरकार के स्कूल शिक्षा विभाग द्वारा सरकारी स्कूलों में कक्षा 1 से 12 तक लड़कियों की शिक्षा जारी रखने में सहायता करने के लिए शुरू की गई थी। इस योजना के तहत सरकारी स्कूलों में कक्षा 1 से 8 तक पढ़ने वाली उन लड़कियों को प्रति वर्ष ₹2,100/- की वित्तीय सहायता प्रदान की जाती है जो गरीबी रेखा (बी. पी. एल.) से नीचे रहने वाले परिवारों से संबंधित हैं और जिनके माता-पिता में से एक या दोनों का निधन हो गया है। कक्षा 9 से 12 तक पढ़ने वाली लड़कियों के लिए, सहायता ₹2,500/- प्रति वर्ष है। इस योजना को राजस्थान बालिका शिक्षा फाउंडेशन द्वारा लागू किया जाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कक्षा 1 में लड़कियों के लिए ₹2,100/- प्रति वर्ष"
+                },
+                {
+                  "text": "सेंट",
+                  "superscript": true
+                },
+                {
+                  "text": "8 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कक्षा 9 में लड़कियों के लिए ₹2,500/- प्रति वर्ष"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "12 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "परिवार के मुखिया या बालिका के जन आधार से जुड़े बैंक खाते में प्रत्यक्ष लाभ अंतरण (डी. बी. टी.)।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "योजना का लाभ उठाने के लिए माता-पिता/अभिभावकों को अपने संबंधित सरकारी स्कूल से संपर्क करना होगा।",
+                "italic": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "शाला दर्पण पोर्टल पर डेटा प्रविष्टिः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "स्कूल अधिकारियों के माध्यम से लॉग इन करें"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx",
+                    "children": [
+                      {
+                        "text": "शाला दर्पण स्कूल लॉगिन करें"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "\"स्टूडेंट\" टैब पर जाएँ और फॉर्म-9 में आवश्यक विवरण भरें।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "योग्य लड़कियों के लिए श्रेणी चयनः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "\"लाभार्थी योजनाओं के लिए अनिवार्य छात्र सूचना\" अनुभाग के तहत, \"बी. पी. एल\". और \"अनाथ/एकल अभिभावक\" श्रेणियों के तहत वर्ग-वार योग्य लड़कियों का चयन करें।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "लाभार्थी अनुमोदनः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "स्कूल लॉगिन के माध्यम से लाभार्थी योजना पोर्टल पर जाएँ।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उपयुक्त योजना का चयन करें और पात्र लड़कियों की प्रदर्शित सूची को मंजूरी दें और लॉक करें।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "जिला शिक्षा अधिकारी (डी. ई. ओ.) द्वारा सत्यापनः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लॉक किया गया डेटा डी. ई. ओ. (प्राथमिक/माध्यमिक) कार्यालय लॉगिन पर दिखाई देता है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "डी. ई. ओ. ओ. टी. पी. आधारित अनुमोदन का उपयोग करके अंतिम सत्यापन पूरा करता है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "जन आधार सत्यापनः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जमा करने से पहले, सुनिश्चित करें कि लड़की का जन आधार शाला दर्पण पोर्टल पर सत्यापित है, क्योंकि धन डीबीटी के माध्यम से हस्तांतरित किया जाता है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "योजना का लाभ उठाने के लिए माता-पिता/अभिभावकों को अपने संबंधित सरकारी स्कूल से संपर्क करना होगा। शाला दर्पण पोर्टल पर डेटा प्रविष्टिः * * *-स्कूल अधिकारी [शाला दर्पण स्कूल लॉगिन] (https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx) के माध्यम से लॉग इन करते हैं।-छात्र टैब पर जाएं और फॉर्म-9 में आवश्यक विवरण भरें। योग्य लड़कियों के लिए श्रेणी चयनः * *-\"लाभार्थी योजनाओं के लिए अनिवार्य छात्र जानकारी\" अनुभाग के तहत, \"बी. पी. एल\". और \"अनाथ/एकल माता-पिता\" श्रेणियों के तहत वर्ग-वार योग्य लड़कियों का चयन करें। * * लाभार्थी अनुमोदनः * *-स्कूल लॉगिन के माध्यम से लाभार्थी योजना पोर्टल पर जाएँ। - उपयुक्त योजना का चयन करें और पात्र लड़कियों की प्रदर्शित सूची को मंजूरी दें और लॉक करें। जिला शिक्षा अधिकारी (डी. ई. ओ.) द्वारा सत्यापनः-लॉक किया गया डेटा डी. ई. ओ. (प्राथमिक/माध्यमिक) कार्यालय लॉगिन पर दिखाई देता है। - डी. ई. ओ. ओ. टी. पी. आधारित अनुमोदन का उपयोग करके अंतिम सत्यापन पूरा करता है। * * जन आधार सत्यापनः-जमा करने से पहले, सुनिश्चित करें कि लड़की का जन आधार शाला दर्पण पोर्टल पर सत्यापित है, क्योंकि धन डीबीटी के माध्यम से हस्तांतरित किया जाता है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "General"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "EWS"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "Female"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "Male"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "OBC"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "SC"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "ST"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "Transgender"
+        },
+        {
+          "gte": 5,
+          "lte": 21,
+          "category": "Widow"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Primary (1-5)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Middle (6-8)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्रा होनी चाहिए। आवेदक राजस्थान के किसी सरकारी स्कूल में पढ़ रहा होना चाहिए। 1. आवेदक को कक्षा 1 से 12वीं तक पढ़ा होना चाहिए। आवेदक का परिवार गरीबी रेखा से नीचे (बी. पी. एल.) श्रेणी में होना चाहिए। 1. आवेदक ने या तो एक माता-पिता (एकल माता-पिता) या दोनों माता-पिता को खो दिया होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक छात्रा होनी चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान के किसी सरकारी स्कूल में पढ़ रहा होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक कक्षा 1 में पढ़ रहा होना चाहिए"
+                },
+                {
+                  "text": "सेंट",
+                  "superscript": true
+                },
+                {
+                  "text": "12 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक का परिवार गरीबी रेखा से नीचे (बी. पी. एल.) श्रेणी में होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक ने या तो एक माता-पिता (एकल माता-पिता) या दोनों माता-पिता को खो दिया होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "isBpl": "Yes",
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes",
+      "maritalStatus": [
+        {
+          "value": "never-married",
+          "label": "Never Married"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "General"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "EWS"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "Female"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "Male"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "OBC"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "SC"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "ST"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "Transgender"
+      },
+      {
+        "gte": 5,
+        "lte": 21,
+        "category": "Widow"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Primary (1-5)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Middle (6-8)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्रा होनी चाहिए। आवेदक राजस्थान के किसी सरकारी स्कूल में पढ़ रहा होना चाहिए। 1. आवेदक को कक्षा 1 से 12वीं तक पढ़ा होना चाहिए। आवेदक का परिवार गरीबी रेखा से नीचे (बी. पी. एल.) श्रेणी में होना चाहिए। 1. आवेदक ने या तो एक माता-पिता (एकल माता-पिता) या दोनों माता-पिता को खो दिया होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक छात्रा होनी चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान के किसी सरकारी स्कूल में पढ़ रहा होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक कक्षा 1 में पढ़ रहा होना चाहिए"
+              },
+              {
+                "text": "सेंट",
+                "superscript": true
+              },
+              {
+                "text": "12 तक"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक का परिवार गरीबी रेखा से नीचे (बी. पी. एल.) श्रेणी में होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक ने या तो एक माता-पिता (एकल माता-पिता) या दोनों माता-पिता को खो दिया होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "isBpl": "Yes",
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes",
+    "maritalStatus": [
+      {
+        "value": "never-married",
+        "label": "Never Married"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport size photo of the applicant"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity proof of applicant"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Educational Certificates"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "BPL Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death Certificate of Parent(s)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhaar Card of Family Head or the Girl"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Passbook linked with Jan Aadhaar"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport size photo of the applicant\n1. Identity proof of applicant\n1. Educational Certificates\n1. BPL Certificate\n1. Death Certificate of Parent(s)\n1. Jan Aadhaar Card of Family Head or the Girl\n1. Bank Account Passbook linked with Jan Aadhaar\n1. Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक का पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बी. पी. एल प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता का मृत्यु प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "परिवार के मुखिया या लड़की का जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार से जुड़ी बैंक खाता पासबुक"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport size photo of the applicant\n1. Identity proof of applicant\n1. Educational Certificates\n1. BPL Certificate\n1. Death Certificate of Parent(s)\n1. Jan Aadhaar Card of Family Head or the Girl\n1. Bank Account Passbook linked with Jan Aadhaar\n1. Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible to apply under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Girls from BPL families studying in government schools (classes 1"
+                },
+                {
+                  "text": "st",
+                  "superscript": true
+                },
+                {
+                  "text": " to 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": ") who have lost one or both parents are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girls from BPL families studying in government schools (classes 1st to 12th) who have lost one or both parents are eligible.\n"
+        },
+        {
+          "question": "What is the amount of financial aid provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹2,100 for classes 1"
+                },
+                {
+                  "text": "st",
+                  "superscript": true
+                },
+                {
+                  "text": " to 8"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " and ₹2,500 for classes 9"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " to 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " annually."
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹2,100 for classes 1st to 8th and ₹2,500 for classes 9th to 12th annually.\n"
+        },
+        {
+          "question": "How is the amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The amount is transferred directly to the Jan Aadhaar-linked bank account of the family head or the girl."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred directly to the Jan Aadhaar-linked bank account of the family head or the girl.\n"
+        },
+        {
+          "question": "Do students studying in private schools qualify for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only students studying in government schools are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students studying in government schools are eligible.\n"
+        },
+        {
+          "question": "Is re-application required every year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the application must be submitted each academic year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the application must be submitted each academic year.\n"
+        },
+        {
+          "question": "Can a student with an unverified Jan Aadhaar apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, Jan Aadhaar must be verified for the application to be processed."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, Jan Aadhaar must be verified for the application to be processed.\n"
+        },
+        {
+          "question": "How does the school submit data on the portal?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Schools use Shala Darpan Login and follow the structured steps to submit Form-9 and approve beneficiaries."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Schools use Shala Darpan Login and follow the structured steps to submit Form-9 and approve beneficiaries.\n"
+        },
+        {
+          "question": "What is the role of the Beneficiary Scheme Portal?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is used for viewing, approving, locking, and submitting the beneficiary list."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is used for viewing, approving, locking, and submitting the beneficiary list.\n"
+        },
+        {
+          "question": "Is a death certificate mandatory?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the death certificate of the deceased parent(s) is required."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the death certificate of the deceased parent(s) is required.\n<br>\n\n"
+        },
+        {
+          "question": "Can Jan Aadhaar be in the name of the girl herself?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the Jan Aadhaar can be in the name of the girl or the family head."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the Jan Aadhaar can be in the name of the girl or the family head.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के तहत आवेदन करने के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सरकारी स्कूलों में पढ़ने वाली बी. पी. एल. परिवारों की लड़कियां (कक्षा 1)"
+                },
+                {
+                  "text": "सेंट",
+                  "superscript": true
+                },
+                {
+                  "text": "12 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": ") जिन्होंने एक या दोनों माता-पिता को खो दिया है, वे पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girls from BPL families studying in government schools (classes 1st to 12th) who have lost one or both parents are eligible.\n"
+        },
+        {
+          "question": "वित्तीय सहायता की राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कक्षा 1 के लिए ₹2,100"
+                },
+                {
+                  "text": "सेंट",
+                  "superscript": true
+                },
+                {
+                  "text": "8 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "और कक्षा 9 के लिए ₹2,500"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "12 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "सालाना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹2,100 for classes 1st to 8th and ₹2,500 for classes 9th to 12th annually.\n"
+        },
+        {
+          "question": "राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह राशि सीधे परिवार के मुखिया या लड़की के जन आधार से जुड़े बैंक खाते में हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred directly to the Jan Aadhaar-linked bank account of the family head or the girl.\n"
+        },
+        {
+          "question": "क्या निजी विद्यालयों में पढ़ने वाले छात्र इस योजना के लिए योग्य हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल सरकारी स्कूलों में पढ़ने वाले छात्र ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students studying in government schools are eligible.\n"
+        },
+        {
+          "question": "क्या हर साल पुनः आवेदन की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदन प्रत्येक शैक्षणिक वर्ष में जमा किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the application must be submitted each academic year.\n"
+        },
+        {
+          "question": "क्या असत्यापित जन आधार वाला छात्र आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन को संसाधित करने के लिए जन आधार को सत्यापित किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, Jan Aadhaar must be verified for the application to be processed.\n"
+        },
+        {
+          "question": "स्कूल पोर्टल पर डेटा कैसे जमा करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "स्कूल शाला दर्पण लॉगिन का उपयोग करते हैं और फॉर्म-9 जमा करने और लाभार्थियों को मंजूरी देने के लिए संरचित चरणों का पालन करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Schools use Shala Darpan Login and follow the structured steps to submit Form-9 and approve beneficiaries.\n"
+        },
+        {
+          "question": "लाभार्थी योजना पोर्टल की क्या भूमिका है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इसका उपयोग लाभार्थी सूची को देखने, अनुमोदन करने, ताला लगाने और जमा करने के लिए किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is used for viewing, approving, locking, and submitting the beneficiary list.\n"
+        },
+        {
+          "question": "क्या मृत्यु प्रमाण पत्र अनिवार्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, मृतक माता-पिता का मृत्यु प्रमाण पत्र आवश्यक है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the death certificate of the deceased parent(s) is required.\n<br>\n\n"
+        },
+        {
+          "question": "क्या जन आधार लड़की के नाम पर हो सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, जन आधार लड़की या परिवार के मुखिया के नाम पर हो सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the Jan Aadhaar can be in the name of the girl or the family head.\n"
+        }
+      ]
+    }
+  }
+}

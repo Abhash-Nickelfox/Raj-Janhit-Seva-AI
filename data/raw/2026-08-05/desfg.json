@@ -1,0 +1,2405 @@
+{
+  "scheme_id": "67f252ca8e7fcdf4bf2ff670",
+  "slug": "desfg",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Fee Reimbursement",
+        "Girl Student",
+        "Post-Graduation",
+        "Diploma",
+        "Undergraduate",
+        "Distance Education"
+      ],
+      "schemeName": "Distance Education Scheme for Girls",
+      "schemeShortTitle": "DESG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Universities and higher education",
+          "label": "Universities and higher education"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        }
+      ],
+      "schemeOpenDate": "2022-09-09",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000045,
+        "label": "Higher Education Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://hte.rajasthan.gov.in/files/uploads/sch_1429-2-4.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Distance Education Scheme for Girls&amp;quot; scheme was launched by the Higher Education Department, Government of Rajasthan in 2022. It aims to provide distance education opportunities to girls and women who are unable to attend college or university regularly due to family or other reasons. Under this scheme, the fees for undergraduate, postgraduate, diploma, and certificate courses are reimbursed for girls from Rajasthan pursuing distance education.\n***Objectives:***\n\n  - To support education of girl child in UG, PG, Diploma, Certificate courses under ODL (open and distance learning) by reimbursing fee.\n  - To improve Gross Enrollment Ratio (GER) as well as the ratio of female and male proportional representation in higher education that is, Gender Parity Index (GPI).\n\n***Target Group:***\n\n  - Girl students of Rajasthan who are admitted in courses under distance education mode in the state funded Universities/ State Government Institutes including IGNOU.\n  - State funded Universities of Rajasthan included under section 2(f) &amp;amp; and 12(B) of UGC Act and IGNOU are only allowed in the scheme.\n\n",
+      "benefits_md": "***Reimbursement of full course fees for distance Education in:***\n\n- Undergraduate (UG) courses\n- Postgraduate (PG) courses\n- Diploma courses\n- Certificate and PG Diploma courses\n\n**Note:** No other additional grant will be payable.\n***Duration of Fee Disbursement:***\n\n- After selection, the candidate&#39;s fee will be reimbursed on Direct Benefit Transfer (DBT) mode on annual basis on satisfactory academic performance of the student.\n- The fee reimbursement would be awarded from the date of joining the course as certified by the University/Institution.\n\n",
+      "briefDescription": " The scheme aims to support girls' higher education through distance learning by reimbursing their course fees for UG, PG, Diploma, Certificate, and PG Diploma undertaken by girls through distance education in Rajasthan.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Distance Education Scheme for Girls\" scheme was launched by the Higher Education Department, Government of Rajasthan in 2022. It aims to provide distance education opportunities to girls and women who are unable to attend college or university regularly due to family or other reasons. Under this scheme, the fees for undergraduate, postgraduate, diploma, and certificate courses are reimbursed for girls from Rajasthan pursuing distance education."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Objectives:",
+                  "bold": true,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To support education of girl child in UG, PG, Diploma, Certificate courses under ODL (open and distance learning) by reimbursing fee."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To improve Gross Enrollment Ratio (GER) as well as the ratio of female and male proportional representation in higher education that is, Gender Parity Index (GPI)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Target Group:",
+                  "bold": true,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Girl students of Rajasthan who are admitted in courses under distance education mode in the state funded Universities/ State Government Institutes including IGNOU."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "State funded Universities of Rajasthan included under section 2(f) & and 12(B) of UGC Act and IGNOU are only allowed in the scheme."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reimbursement of full course fees for distance Education in:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Undergraduate (UG) courses"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Postgraduate (PG) courses"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Diploma courses"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate and PG Diploma courses"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " No other additional grant will be payable."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Duration of Fee Disbursement:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "After selection, the candidate's fee will be reimbursed on Direct Benefit Transfer (DBT) mode on annual basis on satisfactory academic performance of the student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fee reimbursement would be awarded from the date of joining the course as certified by the University/Institution."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “DE-HE\" option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Select \"Continue to RajSSP\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes, and click on the name of \"SCHOLARSHIP (SJE)\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 7: "
+              },
+              {
+                "text": "Fill out all relevant details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Renewal Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit renewal application through the same portal after the academic year ends."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Students not promoted to the next level will lose eligibility for further reimbursement."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Changing courses will forfeit fee reimbursement from the date of the change."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step 1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step 2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step 3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step 4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n> **Apply**\n\n**Step 1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step 2:** After login, dashboard will open.\n**Step 3:** Click on “DE-HE&quot; option.\n**Step 4:** Select &quot;Continue to RajSSP&quot;. \n**Step 5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step 6:** In this new page, will get a list of names of all the schemes, and click on the name of &quot;SCHOLARSHIP (SJE)&quot;\n**Step 7:** Fill out all relevant details. \n**Step 8:** Submit.\n***Renewal Process:***\n\n- Submit renewal application through the same portal after the academic year ends.\n- Students not promoted to the next level will lose eligibility for further reimbursement.\n- Changing courses will forfeit fee reimbursement from the date of the change.\n\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Renewal Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the renewal application through the same portal after the academic year ends."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Students not promoted to the next level will lose eligibility for further reimbursement."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Changing courses will forfeit fee reimbursement from the date of the change."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n***Renewal Process:***\n\n- Submit the renewal application through the same portal after the academic year ends.\n- Students not promoted to the next level will lose eligibility for further reimbursement.\n- Changing courses will forfeit fee reimbursement from the date of the change.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a girl student.\n   1. The applicant should be a native of Rajasthan.\n   1. The applicant should be enrolled in UG, PG, Diploma, Certificate or PG Diploma courses under distance education mode.\n   1. The applicant should be studying in a state-funded university or government institution in Rajasthan, including IGNOU (Indira Gandhi National Open University).\n   1. The applicant who is availing of other fee reimbursement in State Government Schemes during the same tenure is not eligible in this scheme. But these students will get reimbursement of difference amount of &amp;quot;Existing Scholarship&amp;quot; and &amp;quot;Distance Education Scheme for Girls&amp;quot;.\n   1. Students holding prize/incentive scholarships are not excluded from applying for this scheme.\n\n**Note:** The student who is eligible for distance education course in Post Matric/Other Scheme of Social Justice Department, Govt. of Rajasthan will get fee reimbursement from the existing process of fee reimbursement under Social Justice Department/ Other Department. The student will not get fee reimbursement from SJE portal under the category &amp;quot;DE-HE&amp;quot;.\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a girl student."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be enrolled in UG, PG, Diploma, Certificate or PG Diploma courses under distance education mode."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be studying in a state-funded university or government institution in Rajasthan, including IGNOU (Indira Gandhi National Open University)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant who is availing of other fee reimbursement in State Government Schemes during the same tenure is not eligible in this scheme. But these students will get reimbursement of difference amount of \"Existing Scholarship\" and \"Distance Education Scheme for Girls\"."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Students holding prize/incentive scholarships are not excluded from applying for this scheme."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note: ",
+                  "bold": true
+                },
+                {
+                  "text": "The student who is eligible for distance education course in Post Matric/Other Scheme of Social Justice Department, Govt. of Rajasthan will get fee reimbursement from the existing process of fee reimbursement under Social Justice Department/ Other Department. The student will not get fee reimbursement from SJE portal under the category \"DE-HE\"."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "शुल्क प्रतिपूर्ति",
+        "छात्रा",
+        "स्नातकोत्तर",
+        "डिप्लोमा",
+        "स्नातक",
+        "दूरस्थ शिक्षा"
+      ],
+      "schemeName": "लड़कियों के लिए दूरस्थ शिक्षा योजना",
+      "schemeShortTitle": "DESG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        },
+        {
+          "value": "Universities and higher education",
+          "label": "विश्वविद्यालय और उच्च शिक्षा"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        }
+      ],
+      "schemeOpenDate": "2022-09-09",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000045,
+        "label": "उच्च शिक्षा विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://hte.rajasthan.gov.in/files/uploads/sch_1429-2-4.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के उच्च शिक्षा विभाग द्वारा 2022 में लड़कियों के लिए दूरस्थ शिक्षा योजना शुरू की गई थी। इसका उद्देश्य उन लड़कियों और महिलाओं को दूरस्थ शिक्षा के अवसर प्रदान करना है जो परिवार या अन्य कारणों से नियमित रूप से कॉलेज या विश्वविद्यालय में जाने में असमर्थ हैं। इस योजना के तहत राजस्थान की दूरस्थ शिक्षा प्राप्त करने वाली लड़कियों के लिए स्नातक, स्नातकोत्तर, डिप्लोमा और प्रमाण पत्र पाठ्यक्रमों के लिए शुल्क की प्रतिपूर्ति की जाती है। उद्देश्यः-शुल्क की प्रतिपूर्ति करके ओडीएल (मुक्त और दूरस्थ शिक्षा) के तहत यूजी, पीजी, डिप्लोमा, प्रमाणपत्र पाठ्यक्रमों में बालिकाओं की शिक्षा का समर्थन करना। सकल नामांकन अनुपात (जी. ई. आर.) के साथ-साथ उच्च शिक्षा में महिला और पुरुष आनुपातिक प्रतिनिधित्व के अनुपात यानी लिंग समानता सूचकांक (जी. पी. आई.) में सुधार करना। * * * लक्ष्य समूहः * * *-राजस्थान की छात्राएँ जो इग्नू सहित राज्य वित्त पोषित विश्वविद्यालयों/राज्य सरकार के संस्थानों में दूरस्थ शिक्षा के माध्यम से पाठ्यक्रमों में प्रवेश लेती हैं। - यू. जी. सी. अधिनियम और इग्नू की धारा 2 (एफ) और 12 (बी) के तहत शामिल राजस्थान के राज्य वित्त पोषित विश्वविद्यालयों को ही इस योजना में अनुमति दी गई है।",
+      "benefits_md": "* * * दूरस्थ शिक्षा के लिए पूर्ण पाठ्यक्रम शुल्क की प्रतिपूर्तिः * * *-स्नातक (यूजी) पाठ्यक्रम-स्नातकोत्तर (पीजी) पाठ्यक्रम-डिप्लोमा पाठ्यक्रम-प्रमाणपत्र और पीजी डिप्लोमा पाठ्यक्रम * * नोटः * * कोई अन्य अतिरिक्त अनुदान देय नहीं होगा। * * * शुल्क संवितरण की अवधिः * * *-चयन के बाद, उम्मीदवार के शुल्क की प्रतिपूर्ति छात्र के संतोषजनक शैक्षणिक प्रदर्शन पर वार्षिक आधार पर प्रत्यक्ष लाभ हस्तांतरण (डी. बी. टी.) मोड पर की जाएगी। - शुल्क प्रतिपूर्ति विश्वविद्यालय/संस्थान द्वारा प्रमाणित पाठ्यक्रम में शामिल होने की तारीख से प्रदान की जाएगी।",
+      "briefDescription": "इस योजना का उद्देश्य राजस्थान में दूरस्थ शिक्षा के माध्यम से लड़कियों द्वारा शुरू किए गए यूजी, पीजी, डिप्लोमा, सर्टिफिकेट और पीजी डिप्लोमा के लिए उनके पाठ्यक्रम शुल्क की प्रतिपूर्ति करके दूरस्थ शिक्षा के माध्यम से लड़कियों की उच्च शिक्षा का समर्थन करना है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के उच्च शिक्षा विभाग द्वारा 2022 में \"लड़कियों के लिए दूरस्थ शिक्षा योजना\" योजना शुरू की गई थी। इसका उद्देश्य उन लड़कियों और महिलाओं को दूरस्थ शिक्षा के अवसर प्रदान करना है जो परिवार या अन्य कारणों से नियमित रूप से कॉलेज या विश्वविद्यालय में जाने में असमर्थ हैं। इस योजना के तहत राजस्थान की दूरस्थ शिक्षा प्राप्त करने वाली लड़कियों के लिए स्नातक, स्नातकोत्तर, डिप्लोमा और प्रमाण पत्र पाठ्यक्रमों के लिए शुल्क की प्रतिपूर्ति की जाती है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उद्देश्यः",
+                  "bold": true,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "शुल्क की प्रतिपूर्ति करके ओडीएल (मुक्त और दूरस्थ शिक्षा) के तहत यूजी, पीजी, डिप्लोमा, प्रमाणपत्र पाठ्यक्रमों में बालिकाओं की शिक्षा का समर्थन करना।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सकल नामांकन अनुपात (जी. ई. आर.) के साथ-साथ उच्च शिक्षा में महिला और पुरुष आनुपातिक प्रतिनिधित्व के अनुपात यानी लिंग समानता सूचकांक (जी. पी. आई.) में सुधार करना।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लक्ष्य समूहः",
+                  "bold": true,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "राजस्थान की छात्राएँ जिन्हें इग्नू सहित राज्य वित्त पोषित विश्वविद्यालयों/राज्य सरकार के संस्थानों में दूरस्थ शिक्षा के माध्यम से पाठ्यक्रमों में प्रवेश दिया जाता है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यू. जी. सी. अधिनियम और इग्नू की धारा 2 (एफ) और 12 (बी) के तहत शामिल राजस्थान के राज्य वित्त पोषित विश्वविद्यालयों को ही इस योजना में अनुमति दी गई है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "दूरस्थ शिक्षा के लिए पूर्ण पाठ्यक्रम शुल्क की प्रतिपूर्तिः",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातक (यू. जी.) पाठ्यक्रम"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातकोत्तर (पीजी) पाठ्यक्रम"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "डिप्लोमा पाठ्यक्रम"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सर्टिफिकेट और पीजी डिप्लोमा पाठ्यक्रम"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "कोई अन्य अतिरिक्त अनुदान देय नहीं होगा।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "शुल्क संवितरण की अवधिः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "चयन के बाद, उम्मीदवार के शुल्क की प्रतिपूर्ति छात्र के संतोषजनक शैक्षणिक प्रदर्शन पर वार्षिक आधार पर प्रत्यक्ष लाभ हस्तांतरण (डी. बी. टी.) मोड पर की जाएगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शुल्क प्रतिपूर्ति विश्वविद्यालय/संस्थान द्वारा प्रमाणित पाठ्यक्रम में शामिल होने की तारीख से प्रदान की जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "\"डी. ई.-एच. ई\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "\"राजएसएसपी को जारी रखें\" चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पृष्ठ में, सभी योजनाओं के नामों की सूची मिलेगी, और \"स्कॉलरशिप (एसजेई)\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नवीनीकरण प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "शैक्षणिक वर्ष समाप्त होने के बाद उसी पोर्टल के माध्यम से नवीनीकरण आवेदन जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अगले स्तर पर पदोन्नत नहीं होने वाले छात्र आगे की प्रतिपूर्ति के लिए पात्रता खो देंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पाठ्यक्रम बदलने से परिवर्तन की तारीख से शुल्क प्रतिपूर्ति जब्त हो जाएगी।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण 1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण 2: \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण 3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण 4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण 1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण 2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण 3: * * \"DE-HE & quot; विकल्प पर क्लिक करें। * * चरण 4: * * 'राजएसएसपी' को जारी रखें 'का चयन करें। * * चरण 5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण 6: * * इस नए पृष्ठ में, सभी योजनाओं के नामों की एक सूची मिलेगी, और 'स्कॉलरशिप (एसजेई)' के नाम पर क्लिक करें। * * चरण 8: * * जमा करें। नवीनीकरण प्रक्रियाः शैक्षणिक वर्ष समाप्त होने के बाद उसी पोर्टल के माध्यम से नवीनीकरण आवेदन जमा करें। - जो छात्र अगले स्तर पर पदोन्नत नहीं हुए हैं, वे आगे की प्रतिपूर्ति के लिए पात्रता खो देंगे। - पाठ्यक्रम बदलने से परिवर्तन की तारीख से शुल्क प्रतिपूर्ति जब्त हो जाएगी।"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित प्राधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन प्रस्तुत किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नवीनीकरण प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "शैक्षणिक वर्ष समाप्त होने के बाद उसी पोर्टल के माध्यम से नवीनीकरण आवेदन जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अगले स्तर पर पदोन्नत नहीं होने वाले छात्र आगे की प्रतिपूर्ति के लिए पात्रता खो देंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पाठ्यक्रम बदलने से परिवर्तन की तारीख से शुल्क प्रतिपूर्ति जब्त हो जाएगी।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए। * * चरण 2: * * आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए। * * चरण 3: * * आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है। * * संबंधित प्राधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन प्रस्तुत किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। * * * नवीनीकरण प्रक्रियाः * * *-शैक्षणिक वर्ष समाप्त होने के बाद उसी पोर्टल के माध्यम से नवीनीकरण आवेदन जमा करें।-अगले स्तर पर पदोन्नत नहीं हुए छात्र आगे की प्रतिपूर्ति के लिए पात्रता खो देंगे।-पाठ्यक्रम बदलने से परिवर्तन की तारीख से शुल्क प्रतिपूर्ति जब्त हो जाएगी।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 16,
+          "lte": 50
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Diploma",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "ITI Course",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक छात्रा होनी चाहिए। 1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को दूरस्थ शिक्षा मोड के तहत यूजी, पीजी, डिप्लोमा, सर्टिफिकेट या पीजी डिप्लोमा पाठ्यक्रमों में नामांकित होना चाहिए। 1. आवेदक को इग्नू (इंदिरा गांधी राष्ट्रीय मुक्त विश्वविद्यालय) सहित राजस्थान में राज्य वित्त पोषित विश्वविद्यालय या सरकारी संस्थान में अध्ययन करना चाहिए। 1. जो आवेदक इसी कार्यकाल के दौरान राज्य सरकार की योजनाओं में अन्य शुल्क प्रतिपूर्ति का लाभ उठा रहा है, वह इस योजना में पात्र नहीं है। लेकिन इन छात्रों को लड़कियों के लिए मौजूदा छात्रवृत्ति और दूरस्थ शिक्षा योजना की अंतर राशि की प्रतिपूर्ति मिलेगी। 1. पुरस्कार/प्रोत्साहन छात्रवृत्ति प्राप्त करने वाले छात्रों को इस योजना के लिए आवेदन करने से बाहर नहीं रखा गया है। * * नोटः * * वह छात्र जो सामाजिक न्याय विभाग, सरकार की पोस्ट मैट्रिक/अन्य योजना में दूरस्थ शिक्षा पाठ्यक्रम के लिए पात्र है। राजस्थान सरकार को सामाजिक न्याय विभाग/अन्य विभाग के तहत शुल्क प्रतिपूर्ति की मौजूदा प्रक्रिया से शुल्क प्रतिपूर्ति मिलेगी। छात्र को 'डी. ई.-एच. ई.' श्रेणी के तहत एस. जे. ई. पोर्टल से शुल्क प्रतिपूर्ति नहीं मिलेगी।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक छात्रा होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को दूरस्थ शिक्षा मोड के तहत यूजी, पीजी, डिप्लोमा, सर्टिफिकेट या पीजी डिप्लोमा पाठ्यक्रमों में नामांकित होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को इग्नू (इंदिरा गांधी राष्ट्रीय मुक्त विश्वविद्यालय) सहित राजस्थान में राज्य वित्त पोषित विश्वविद्यालय या सरकारी संस्थान में अध्ययन करना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जो आवेदक इसी कार्यकाल के दौरान राज्य सरकार की योजनाओं में अन्य शुल्क प्रतिपूर्ति का लाभ उठा रहा है, वह इस योजना में पात्र नहीं है। लेकिन इन छात्रों को \"मौजूदा छात्रवृत्ति\" और \"लड़कियों के लिए दूरस्थ शिक्षा योजना\" की अंतर राशि की प्रतिपूर्ति मिलेगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पुरस्कार/प्रोत्साहन छात्रवृत्ति प्राप्त करने वाले छात्रों को इस योजना के लिए आवेदन करने से बाहर नहीं रखा गया है।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ध्यान देंः",
+                  "bold": true
+                },
+                {
+                  "text": "जो छात्र राजस्थान सरकार के सामाजिक न्याय विभाग की पोस्ट मैट्रिक/अन्य योजना में दूरस्थ शिक्षा पाठ्यक्रम के लिए पात्र है, उसे सामाजिक न्याय विभाग/अन्य विभाग के तहत शुल्क प्रतिपूर्ति की मौजूदा प्रक्रिया से शुल्क प्रतिपूर्ति मिलेगी। छात्र को \"डी. ई.-एच. ई\". श्रेणी के तहत एस. जे. ई. पोर्टल से शुल्क प्रतिपूर्ति नहीं मिलेगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 16,
+        "lte": 50
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Diploma",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "ITI Course",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक छात्रा होनी चाहिए। 1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को दूरस्थ शिक्षा मोड के तहत यूजी, पीजी, डिप्लोमा, सर्टिफिकेट या पीजी डिप्लोमा पाठ्यक्रमों में नामांकित होना चाहिए। 1. आवेदक को इग्नू (इंदिरा गांधी राष्ट्रीय मुक्त विश्वविद्यालय) सहित राजस्थान में राज्य वित्त पोषित विश्वविद्यालय या सरकारी संस्थान में अध्ययन करना चाहिए। 1. जो आवेदक इसी कार्यकाल के दौरान राज्य सरकार की योजनाओं में अन्य शुल्क प्रतिपूर्ति का लाभ उठा रहा है, वह इस योजना में पात्र नहीं है। लेकिन इन छात्रों को लड़कियों के लिए मौजूदा छात्रवृत्ति और दूरस्थ शिक्षा योजना की अंतर राशि की प्रतिपूर्ति मिलेगी। 1. पुरस्कार/प्रोत्साहन छात्रवृत्ति प्राप्त करने वाले छात्रों को इस योजना के लिए आवेदन करने से बाहर नहीं रखा गया है। * * नोटः * * वह छात्र जो सामाजिक न्याय विभाग, सरकार की पोस्ट मैट्रिक/अन्य योजना में दूरस्थ शिक्षा पाठ्यक्रम के लिए पात्र है। राजस्थान सरकार को सामाजिक न्याय विभाग/अन्य विभाग के तहत शुल्क प्रतिपूर्ति की मौजूदा प्रक्रिया से शुल्क प्रतिपूर्ति मिलेगी। छात्र को 'डी. ई.-एच. ई.' श्रेणी के तहत एस. जे. ई. पोर्टल से शुल्क प्रतिपूर्ति नहीं मिलेगी।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक छात्रा होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को दूरस्थ शिक्षा मोड के तहत यूजी, पीजी, डिप्लोमा, सर्टिफिकेट या पीजी डिप्लोमा पाठ्यक्रमों में नामांकित होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को इग्नू (इंदिरा गांधी राष्ट्रीय मुक्त विश्वविद्यालय) सहित राजस्थान में राज्य वित्त पोषित विश्वविद्यालय या सरकारी संस्थान में अध्ययन करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जो आवेदक इसी कार्यकाल के दौरान राज्य सरकार की योजनाओं में अन्य शुल्क प्रतिपूर्ति का लाभ उठा रहा है, वह इस योजना में पात्र नहीं है। लेकिन इन छात्रों को \"मौजूदा छात्रवृत्ति\" और \"लड़कियों के लिए दूरस्थ शिक्षा योजना\" की अंतर राशि की प्रतिपूर्ति मिलेगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पुरस्कार/प्रोत्साहन छात्रवृत्ति प्राप्त करने वाले छात्रों को इस योजना के लिए आवेदन करने से बाहर नहीं रखा गया है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "ध्यान देंः",
+                "bold": true
+              },
+              {
+                "text": "जो छात्र राजस्थान सरकार के सामाजिक न्याय विभाग की पोस्ट मैट्रिक/अन्य योजना में दूरस्थ शिक्षा पाठ्यक्रम के लिए पात्र है, उसे सामाजिक न्याय विभाग/अन्य विभाग के तहत शुल्क प्रतिपूर्ति की मौजूदा प्रक्रिया से शुल्क प्रतिपूर्ति मिलेगी। छात्र को \"डी. ई.-एच. ई\". श्रेणी के तहत एस. जे. ई. पोर्टल से शुल्क प्रतिपूर्ति नहीं मिलेगी।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Educational Qualification Certificate "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Admission"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fee Receipt"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport-sized Photograph"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate, If applicable"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate/Proof of residence in Rajasthan"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Non-judicial stamp of 100 Rupees (Not receiving any other scholarship from another department)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity proof\n1. Educational Qualification Certificate \n1. Jan Aadhaar Card\n1. Proof of Admission\n1. Fee Receipt\n1. Bank Account Details\n1. Passport-sized Photograph\n1. Income Certificate\n1. Caste Certificate, If applicable\n1. Domicile Certificate/Proof of residence in Rajasthan\n1. Non-judicial stamp of 100 Rupees (Not receiving any other scholarship from another department)\n1. Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक योग्यता प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रवेश का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शुल्क रसीद"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र, यदि लागू हो"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान में अधिवास प्रमाण पत्र/निवास का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "100 रुपये का गैर-न्यायिक डाक टिकट (किसी अन्य विभाग से कोई अन्य छात्रवृत्ति प्राप्त नहीं करना)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity proof\n1. Educational Qualification Certificate \n1. Jan Aadhaar Card\n1. Proof of Admission\n1. Fee Receipt\n1. Bank Account Details\n1. Passport-sized Photograph\n1. Income Certificate\n1. Caste Certificate, If applicable\n1. Domicile Certificate/Proof of residence in Rajasthan\n1. Non-judicial stamp of 100 Rupees (Not receiving any other scholarship from another department)\n1. Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Girl students who are residents of Rajasthan and have enrolled in distance education courses at state-funded universities or IGNOU."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girl students who are residents of Rajasthan and have enrolled in distance education courses at state-funded universities or IGNOU.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "Is there any age limit to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no age limit under this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no age limit under this scheme.\n"
+        },
+        {
+          "question": "Which courses are covered under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Undergraduate, Postgraduate, Diploma, Certificate, and PG Diploma courses offered through distance education."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Undergraduate, Postgraduate, Diploma, Certificate, and PG Diploma courses offered through distance education.\n"
+        },
+        {
+          "question": "Are private universities eligible under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only state-funded universities recognized under UGC Act sections 2(f) & 12(B) and IGNOU are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only state-funded universities recognized under UGC Act sections 2(f) &amp; 12(B) and IGNOU are eligible.\n"
+        },
+        {
+          "question": "How do I apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications must be submitted online once a year via the HTE portal/ SSO portal under the \"DE-HE\" category."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted online once a year via the HTE portal/ SSO portal under the &quot;DE-HE&quot; category.\n"
+        },
+        {
+          "question": "Will incomplete applications be accepted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, incomplete applications will be rejected after scrutiny."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, incomplete applications will be rejected after scrutiny.\n"
+        },
+        {
+          "question": "Who verifies the submitted application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The university or institution where the student is enrolled verifies the online application."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The university or institution where the student is enrolled verifies the online application.\n"
+        },
+        {
+          "question": "Is the scheme applicable for regular mode students?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only distance education mode students are eligible."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only distance education mode students are eligible.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "What is the selection criteria?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Selection is based on fund availability, with 30% of the annual budget reserved for UG students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selection is based on fund availability, with 30% of the annual budget reserved for UG students.\n"
+        },
+        {
+          "question": "What is the seat-wise distribution under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Undergraduate (UG): 16,000 seats, Postgraduate (PG): 5,300 seats, Diploma: 10,000 seats, PG Diploma: 3,000 seats, Certificate Courses: 2,000 seats"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Undergraduate (UG): 16,000 seats, Postgraduate (PG): 5,300 seats, Diploma: 10,000 seats, PG Diploma: 3,000 seats, Certificate Courses: 2,000 seats\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्राएँ जो राजस्थान की निवासी हैं और जिन्होंने राज्य द्वारा वित्त पोषित विश्वविद्यालयों या इग्नू में दूरस्थ शिक्षा पाठ्यक्रमों में दाखिला लिया है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Girl students who are residents of Rajasthan and have enrolled in distance education courses at state-funded universities or IGNOU.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "क्या आवेदन करने के लिए कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना के तहत कोई आयु सीमा नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no age limit under this scheme.\n"
+        },
+        {
+          "question": "इस योजना के तहत कौन से पाठ्यक्रम शामिल हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "दूरस्थ शिक्षा के माध्यम से प्रदान किए जाने वाले स्नातक, स्नातकोत्तर, डिप्लोमा, प्रमाणपत्र और पीजी डिप्लोमा पाठ्यक्रम।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Undergraduate, Postgraduate, Diploma, Certificate, and PG Diploma courses offered through distance education.\n"
+        },
+        {
+          "question": "क्या निजी विश्वविद्यालय इस योजना के तहत पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल यू. जी. सी. अधिनियम की धारा 2 (एफ) और 12 (बी) और इग्नू के तहत मान्यता प्राप्त राज्य वित्त पोषित विश्वविद्यालय ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only state-funded universities recognized under UGC Act sections 2(f) &amp; 12(B) and IGNOU are eligible.\n"
+        },
+        {
+          "question": "मैं योजना के लिए कैसे आवेदन करूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन \"डी. ई.-एच. ई\". श्रेणी के तहत एच. टी. ई. पोर्टल/एस. एस. ओ. पोर्टल के माध्यम से वर्ष में एक बार ऑनलाइन जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted online once a year via the HTE portal/ SSO portal under the &quot;DE-HE&quot; category.\n"
+        },
+        {
+          "question": "क्या अधूरे आवेदन स्वीकार किए जाएंगे?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, अधूरे आवेदनों को जांच के बाद खारिज कर दिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, incomplete applications will be rejected after scrutiny.\n"
+        },
+        {
+          "question": "प्रस्तुत आवेदन को कौन सत्यापित करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिस विश्वविद्यालय या संस्थान में छात्र नामांकित है, वह ऑनलाइन आवेदन का सत्यापन करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The university or institution where the student is enrolled verifies the online application.\n"
+        },
+        {
+          "question": "क्या यह योजना रेगुलर मोड के छात्रों के लिए लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल दूरस्थ शिक्षा मोड के छात्र पात्र हैं।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only distance education mode students are eligible.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "चयन मानदंड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "चयन निधि की उपलब्धता पर आधारित होता है, जिसमें वार्षिक बजट का 30 प्रतिशत यूजी छात्रों के लिए आरक्षित होता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selection is based on fund availability, with 30% of the annual budget reserved for UG students.\n"
+        },
+        {
+          "question": "योजना के तहत सीट-वार वितरण क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "स्नातक (यूजी): 16,000 सीटें, स्नातकोत्तर (पीजी): 5,300 सीटें, डिप्लोमा-10,000 सीटें, पीजी डिप्लोमा-3,000 सीटें, प्रमाणपत्र पाठ्यक्रमः 2,000 सीटें"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Undergraduate (UG): 16,000 seats, Postgraduate (PG): 5,300 seats, Diploma: 10,000 seats, PG Diploma: 3,000 seats, Certificate Courses: 2,000 seats\n"
+        }
+      ]
+    }
+  }
+}

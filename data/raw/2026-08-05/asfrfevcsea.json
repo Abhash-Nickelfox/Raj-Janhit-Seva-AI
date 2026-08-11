@@ -1,0 +1,1206 @@
+{
+  "scheme_id": "64217b310912d761b99e8acd",
+  "slug": "asfrfevcsea",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "Labour Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Employment services and jobs",
+          "label": "Employment services and jobs"
+        },
+        {
+          "value": "Placement assistance",
+          "label": "Placement assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Construction Worker",
+        "Employment",
+        "VISA",
+        "Abroad",
+        "Assistance"
+      ],
+      "schemeName": "Assistance Scheme For Reimbursement For Expenditure On Visa By Construction Workers For Employment Abroad",
+      "schemeShortTitle": "ASFRFEVCSEA",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Labour Department Website",
+          "url": "https://labour.rajasthan.gov.in/Schemes.aspx#"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "This scheme will be called \"Reimbursement of expenditure incurred on visa for employment abroad to construction workers\". The purpose of this scheme is to provide assistance to the registered beneficiaries employed in building and other construction works for better employment opportunities.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Reimbursement of Expenditure Incurred on Visa for Employment Abroad to Construction Workers is a scheme implemented in the state of Rajasthan to provide financial assistance to construction workers who are seeking employment abroad. Under this scheme, registered construction workers in Rajasthan who have secured employment in foreign countries are eligible for reimbursement of expenses incurred on obtaining the necessary visa and related documentation. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To be eligible for this scheme, the construction worker must be registered with the Construction Workers Welfare Board in Rajasthan and provide proof of employment in a foreign country. The aim of this scheme is to reduce the financial burden on construction workers who are seeking employment abroad by providing financial support for expenses related to obtaining visas, which can often be a significant expense. This scheme aims to promote the welfare of construction workers and support them in their efforts to secure employment opportunities abroad."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Under this scheme, registered construction workers in Rajasthan who have secured employment in foreign countries are eligible for reimbursement of expenses incurred on obtaining the necessary visa and related documentation. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Under this scheme, a maximum amount of Rs.5000/- will be reimbursed from the circle level to the eligible beneficiary for reimbursement of the expenditure incurred for visa for the purpose of employment abroad."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "The Reimbursement of Expenditure Incurred on Visa for Employment Abroad to Construction Workers is a scheme implemented in the state of Rajasthan to provide financial assistance to construction workers who are seeking employment abroad. Under this scheme, registered construction workers in Rajasthan who have secured employment in foreign countries are eligible for reimbursement of expenses incurred on obtaining the necessary visa and related documentation. \n<br>\n\nTo be eligible for this scheme, the construction worker must be registered with the Construction Workers Welfare Board in Rajasthan and provide proof of employment in a foreign country. The aim of this scheme is to reduce the financial burden on construction workers who are seeking employment abroad by providing financial support for expenses related to obtaining visas, which can often be a significant expense. This scheme aims to promote the welfare of construction workers and support them in their efforts to secure employment opportunities abroad.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://ldms.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The application will have to be submitted online by the beneficiary on the Board's online portal "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ldms.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "www.ldms.rajasthan.gov.in"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " in the prescribed form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Time period for submission of application - After the date of publication of the notification, the registered beneficiary will have to submit the application within a maximum period of 3 months after obtaining a valid visa as per rules."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The approval under the scheme will be issued after the senior most officer of the local labor office or other officer authorized by the divisional secretary, test and complete satisfaction."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The assistance amount will be transferred through electronic means (RTGS / NEFT) to the candidate's bank account under the central banking system."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": " 1. Applicant should be a resident of Rajasthan State.\n 2.Applicant should be registered as Construction Worker under labor laws.\n<br>\n\nOther Conditions\n 1. For getting contract employment abroad, it is necessary to take permission for migration from the office of Protectors of Emigrants (POE) under the Migrant Act, 1983.\n 2. Registration of the recruiting agency under the Overseas Act or a valid permit from the POE office is necessary.\n 3. Reimbursement of visa amount under the above scheme will be payable on the beneficiary passport having a minimum validity of 6 months including valid visa.\n 4. Under the scheme, the benefit of assistance amount will be payable to the beneficiary only once.\n 5. During scrutiny of application and documents, if any facts found to be false resulting in the cancellation of eligibility, it will be the responsibility of the concerned beneficiary to deposit all the assistance amount sanctioned under the scheme along with interest.              \n 6. The benefit of this scheme will be payable only if the beneficiary is employed abroad, is in the building and other construction works.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 1. Applicant should be a resident of Rajasthan State."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 2.Applicant should be registered as Construction Worker under labor laws."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Other Conditions"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 1. For getting contract employment abroad, it is necessary to take permission for migration from the office of Protectors of Emigrants (POE) under the Migrant Act, 1983."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 2. Registration of the recruiting agency under the Overseas Act or a valid permit from the POE office is necessary."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 3. Reimbursement of visa amount under the above scheme will be payable on the beneficiary passport having a minimum validity of 6 months including valid visa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 4. Under the scheme, the benefit of assistance amount will be payable to the beneficiary only once."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 5. During scrutiny of application and documents, if any facts found to be false resulting in the cancellation of eligibility, it will be the responsibility of the concerned beneficiary to deposit all the assistance amount sanctioned under the scheme along with interest.              "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 6. The benefit of this scheme will be payable only if the beneficiary is employed abroad, is in the building and other construction works."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "श्रम विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Employment services and jobs",
+          "label": "रोजगार सेवाएँ और नौकरियाँ"
+        },
+        {
+          "value": "Placement assistance",
+          "label": "प्लेसमेंट सहायता"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "निर्माण कार्यकर्ता",
+        "रोजगार",
+        "वीजा",
+        "विदेश में",
+        "सहायता"
+      ],
+      "schemeName": "विदेश में रोजगार के लिए निर्माण श्रमिकों द्वारा वीजा पर खर्च की प्रतिपूर्ति के लिए सहायता योजना",
+      "schemeShortTitle": "ASFRFEVCSEA",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "श्रम विभाग की वेबसाइट",
+          "url": "https://labour.rajasthan.gov.in/Schemes.aspx#"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "इस योजना को \"निर्माण श्रमिकों को विदेश में रोजगार के लिए वीजा पर किए गए खर्च की प्रतिपूर्ति\" कहा जाएगा। इस योजना का उद्देश्य भवन और अन्य निर्माण कार्यों में कार्यरत पंजीकृत लाभार्थियों को बेहतर रोजगार के अवसरों के लिए सहायता प्रदान करना है।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "निर्माण श्रमिकों को विदेश में रोजगार के लिए वीजा पर किए गए खर्च की प्रतिपूर्ति राजस्थान राज्य में उन निर्माण श्रमिकों को वित्तीय सहायता प्रदान करने के लिए लागू की गई एक योजना है जो विदेश में रोजगार चाहते हैं। इस योजना के तहत, राजस्थान में पंजीकृत निर्माण श्रमिक जिन्होंने विदेशों में रोजगार प्राप्त किया है, वे आवश्यक वीजा और संबंधित दस्तावेज प्राप्त करने पर हुए खर्च की प्रतिपूर्ति के लिए पात्र हैं।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना के लिए पात्र होने के लिए, निर्माण श्रमिक को राजस्थान में निर्माण श्रमिक कल्याण बोर्ड के साथ पंजीकृत होना चाहिए और विदेश में रोजगार का प्रमाण देना चाहिए। इस योजना का उद्देश्य वीजा प्राप्त करने से संबंधित खर्चों के लिए वित्तीय सहायता प्रदान करके विदेश में रोजगार की तलाश करने वाले निर्माण श्रमिकों पर वित्तीय बोझ को कम करना है, जो अक्सर एक महत्वपूर्ण खर्च हो सकता है। इस योजना का उद्देश्य निर्माण श्रमिकों के कल्याण को बढ़ावा देना और विदेशों में रोजगार के अवसरों को सुरक्षित करने के उनके प्रयासों में उनका समर्थन करना है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, राजस्थान में पंजीकृत निर्माण श्रमिक जिन्होंने विदेशों में रोजगार प्राप्त किया है, वे आवश्यक वीजा और संबंधित दस्तावेज प्राप्त करने पर हुए खर्च की प्रतिपूर्ति के लिए पात्र हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, विदेश में रोजगार के उद्देश्य से वीजा के लिए किए गए खर्च की प्रतिपूर्ति के लिए पात्र लाभार्थी को सर्कल स्तर से अधिकतम 5000/- रुपये की राशि की प्रतिपूर्ति की जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "निर्माण श्रमिकों को विदेश में रोजगार के लिए वीजा पर किए गए खर्च की प्रतिपूर्ति राजस्थान राज्य में उन निर्माण श्रमिकों को वित्तीय सहायता प्रदान करने के लिए लागू की गई एक योजना है जो विदेश में रोजगार चाहते हैं। इस योजना के तहत, राजस्थान में पंजीकृत निर्माण श्रमिक जिन्होंने विदेशों में रोजगार प्राप्त किया है, वे आवश्यक वीजा और संबंधित दस्तावेज प्राप्त करने पर हुए खर्च की प्रतिपूर्ति के लिए पात्र हैं। इस योजना के लिए पात्र होने के लिए, निर्माण श्रमिक को राजस्थान में निर्माण श्रमिक कल्याण बोर्ड के साथ पंजीकृत होना चाहिए और विदेश में रोजगार का प्रमाण प्रदान करना चाहिए। इस योजना का उद्देश्य वीजा प्राप्त करने से संबंधित खर्चों के लिए वित्तीय सहायता प्रदान करके विदेश में रोजगार की तलाश करने वाले निर्माण श्रमिकों पर वित्तीय बोझ को कम करना है, जो अक्सर एक महत्वपूर्ण खर्च हो सकता है। इस योजना का उद्देश्य निर्माण श्रमिकों के कल्याण को बढ़ावा देना और विदेशों में रोजगार के अवसरों को सुरक्षित करने के उनके प्रयासों में उनका समर्थन करना है"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://ldms.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "बोर्ड के ऑनलाइन पोर्टल पर लाभार्थी द्वारा आवेदन ऑनलाइन जमा करना होगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ldms.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "www.ldms.rajasthan.gov.in"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "निर्धारित प्रपत्र में।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन जमा करने की समय अवधि-अधिसूचना के प्रकाशन की तारीख के बाद, पंजीकृत लाभार्थी को नियमों के अनुसार वैध वीजा प्राप्त करने के बाद अधिकतम 3 महीने की अवधि के भीतर आवेदन जमा करना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "योजना के तहत मंजूरी स्थानीय श्रम कार्यालय के सबसे वरिष्ठ अधिकारी या संभागीय सचिव द्वारा अधिकृत अन्य अधिकारी द्वारा परीक्षण और पूर्ण संतुष्टि के बाद जारी की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सहायता राशि केंद्रीय बैंकिंग प्रणाली के तहत उम्मीदवार के बैंक खाते में इलेक्ट्रॉनिक माध्यमों (आरटीजीएस/एनईएफटी) के माध्यम से हस्तांतरित की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. आवेदक को राजस्थान राज्य का निवासी होना चाहिए।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. आवेदक को श्रम कानूनों के तहत निर्माण कार्यकर्ता के रूप में पंजीकृत होना चाहिए।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "अन्य शर्तें"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. विदेश में अनुबंध रोजगार प्राप्त करने के लिए, प्रवासी अधिनियम, 1983 के तहत प्रोटेक्टर्स ऑफ इमिग्रेंट्स (पी. ओ. ई.) के कार्यालय से प्रवास की अनुमति लेना आवश्यक है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. विदेशी अधिनियम के तहत भर्ती एजेंसी का पंजीकरण या पीओई कार्यालय से एक वैध परमिट आवश्यक है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. उपरोक्त योजना के तहत वीजा राशि की प्रतिपूर्ति वैध वीजा सहित न्यूनतम 6 महीने की वैधता वाले लाभार्थी पासपोर्ट पर देय होगी।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. इस योजना के तहत सहायता राशि का लाभ लाभार्थी को केवल एक बार दिया जाएगा।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई तथ्य गलत पाया जाता है जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6. इस योजना का लाभ केवल तभी देय होगा जब लाभार्थी विदेश में कार्यरत हो, भवन और अन्य निर्माण कार्यों में हो।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "eligibilityDescription_md": "1. आवेदक को राजस्थान राज्य का निवासी होना चाहिए। 2. आवेदक को श्रम कानूनों के तहत निर्माण कार्यकर्ता के रूप में पंजीकृत होना चाहिए। विदेश में अनुबंध रोजगार प्राप्त करने के लिए, प्रवासी अधिनियम, 1983 के तहत प्रोटेक्टर्स ऑफ इमिग्रेंट्स (पी. ओ. ई.) के कार्यालय से प्रवास की अनुमति लेना आवश्यक है। 2. विदेशी अधिनियम के तहत भर्ती एजेंसी का पंजीकरण या पीओई कार्यालय से एक वैध परमिट आवश्यक है। 3. उपरोक्त योजना के तहत वीजा राशि की प्रतिपूर्ति वैध वीजा सहित न्यूनतम 6 महीने की वैधता वाले लाभार्थी पासपोर्ट पर देय होगी। 4. इस योजना के तहत सहायता राशि का लाभ लाभार्थी को केवल एक बार दिया जाएगा। 5. आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई तथ्य गलत पाया जाता है जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे। 6. इस योजना का लाभ केवल तभी देय होगा जब लाभार्थी विदेश में कार्यरत हो, भवन और अन्य निर्माण कार्यों में हो"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "1. आवेदक को राजस्थान राज्य का निवासी होना चाहिए।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "2. आवेदक को श्रम कानूनों के तहत निर्माण कार्यकर्ता के रूप में पंजीकृत होना चाहिए।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "अन्य शर्तें"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "1. विदेश में अनुबंध रोजगार प्राप्त करने के लिए, प्रवासी अधिनियम, 1983 के तहत प्रोटेक्टर्स ऑफ इमिग्रेंट्स (पी. ओ. ई.) के कार्यालय से प्रवास की अनुमति लेना आवश्यक है।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "2. विदेशी अधिनियम के तहत भर्ती एजेंसी का पंजीकरण या पीओई कार्यालय से एक वैध परमिट आवश्यक है।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "3. उपरोक्त योजना के तहत वीजा राशि की प्रतिपूर्ति वैध वीजा सहित न्यूनतम 6 महीने की वैधता वाले लाभार्थी पासपोर्ट पर देय होगी।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "4. इस योजना के तहत सहायता राशि का लाभ लाभार्थी को केवल एक बार दिया जाएगा।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "5. आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई तथ्य गलत पाया जाता है जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "6. इस योजना का लाभ केवल तभी देय होगा जब लाभार्थी विदेश में कार्यरत हो, भवन और अन्य निर्माण कार्यों में हो।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "eligibilityDescription_md": "1. आवेदक को राजस्थान राज्य का निवासी होना चाहिए। 2. आवेदक को श्रम कानूनों के तहत निर्माण कार्यकर्ता के रूप में पंजीकृत होना चाहिए। विदेश में अनुबंध रोजगार प्राप्त करने के लिए, प्रवासी अधिनियम, 1983 के तहत प्रोटेक्टर्स ऑफ इमिग्रेंट्स (पी. ओ. ई.) के कार्यालय से प्रवास की अनुमति लेना आवश्यक है। 2. विदेशी अधिनियम के तहत भर्ती एजेंसी का पंजीकरण या पीओई कार्यालय से एक वैध परमिट आवश्यक है। 3. उपरोक्त योजना के तहत वीजा राशि की प्रतिपूर्ति वैध वीजा सहित न्यूनतम 6 महीने की वैधता वाले लाभार्थी पासपोर्ट पर देय होगी। 4. इस योजना के तहत सहायता राशि का लाभ लाभार्थी को केवल एक बार दिया जाएगा। 5. आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई तथ्य गलत पाया जाता है जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे। 6. इस योजना का लाभ केवल तभी देय होगा जब लाभार्थी विदेश में कार्यरत हो, भवन और अन्य निर्माण कार्यों में हो"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. Copy of the beneficiary registration identity card."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. Copy of the beneficiary Aadhaar card and Jan Aadhaar card."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. The first page of the beneficiary savings bank account passbook (which contains the name of the candidate, bank account number and IFS code to be mentioned)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. Copy of passport with visa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. Copy of the employment contract issued by the foreign employer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6. Proof of amount deposited for Visa / Invoice / Invoice."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "7. Registration number of the recruiting agent and copy of the advertisement given for overseas employment."
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. लाभार्थी पंजीकरण पहचान पत्र की प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. लाभार्थी आधार कार्ड और जन आधार कार्ड की प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. लाभार्थी बचत बैंक खाता पासबुक का पहला पृष्ठ (जिसमें उम्मीदवार का नाम, बैंक खाता संख्या और आई. एफ. एस. कोड का उल्लेख किया जाना है)।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. वीजा के साथ पासपोर्ट की प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. विदेशी नियोक्ता द्वारा जारी रोजगार अनुबंध की प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6. वीजा/चालान/चालान के लिए जमा की गई राशि का प्रमाण।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "7. भर्ती अभिकर्ता की पंजीकरण संख्या और विदेशी रोजगार के लिए दिए गए विज्ञापन की प्रति।"
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": ""
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who Can Apply For This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Reimbursement of Expenditure Incurred on Visa for Employment Abroad to Construction Workers is a scheme implemented in the state of Rajasthan to provide financial assistance to construction workers who are seeking employment abroad."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Reimbursement of Expenditure Incurred on Visa for Employment Abroad to Construction Workers is a scheme implemented in the state of Rajasthan to provide financial assistance to construction workers who are seeking employment abroad.\n"
+        },
+        {
+          "question": "What is the aim of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The aim of this scheme is to reduce the financial burden on construction workers who are seeking employment abroad by providing financial support for expenses related to obtaining visas, which can often be a significant expense. This scheme aims to promote the welfare of construction workers and support them in their efforts to secure employment opportunities abroad."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The aim of this scheme is to reduce the financial burden on construction workers who are seeking employment abroad by providing financial support for expenses related to obtaining visas, which can often be a significant expense. This scheme aims to promote the welfare of construction workers and support them in their efforts to secure employment opportunities abroad.\n"
+        },
+        {
+          "question": "What are the eligibility Criteria?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " 1. Applicant should be a resident of Rajasthan State.\n 2.Applicant should be registered as Construction Worker under labor laws.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": " 1. Applicant should be a resident of Rajasthan State.\n 2.Applicant should be registered as Construction Worker under labor laws.\n\n"
+        },
+        {
+          "question": "Is there any need to show any proof of abroad employment? Any formalities?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " 1. For getting contract employment abroad, it is necessary to take permission for migration from the office of Protectors of Emigrants (POE) under the Migrant Act, 1983.\n 2. Registration of the recruiting agency under the Overseas Act or a valid permit from the POE office is necessary.\n 3. Reimbursment of visa amount under the above scheme will be payable on the beneficiarys passport having a minimum validity of 6 months including valid visa.\n 4. Under the scheme, the benefit of assistance amount will be payable to the beneficiary only once.\n 5. During scrutiny of application and documents, if any facts found to be false resulting in the cancellation of eligibility, it will be the responsibility of the concerned beneficiary to deposit all the assistance amount sanctioned under the scheme along with interest.              \n 6. The benefit of this scheme will be payable only if the beneficiary is employed abroad, is in the building and other construction works.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": " 1. For getting contract employment abroad, it is necessary to take permission for migration from the office of Protectors of Emigrants (POE) under the Migrant Act, 1983.\n 2. Registration of the recruiting agency under the Overseas Act or a valid permit from the POE office is necessary.\n 3. Reimbursment of visa amount under the above scheme will be payable on the beneficiarys passport having a minimum validity of 6 months including valid visa.\n 4. Under the scheme, the benefit of assistance amount will be payable to the beneficiary only once.\n 5. During scrutiny of application and documents, if any facts found to be false resulting in the cancellation of eligibility, it will be the responsibility of the concerned beneficiary to deposit all the assistance amount sanctioned under the scheme along with interest.              \n 6. The benefit of this scheme will be payable only if the beneficiary is employed abroad, is in the building and other construction works.\n\n"
+        },
+        {
+          "question": "Which documents are required to Submit while applying for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Copy of the beneficiary registration identity card.\n2. Copy of the beneficiary Aadhaar card and Jan Aadhaar card.\n3. The first page of the beneficiary savings bank account passbook (which contains the name of the candidate, bank account number and IFS code to be mentioned).\n4. Copy of passport with visa.\n5. Copy of the employment contract issued by the foreign employer.\n6. Proof of amount deposited for Visa / Invoice / Invoice.\n7. Registration number of the recruiting agent and copy of the advertisement given for overseas employment."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Copy of the beneficiary registration identity card.\n2. Copy of the beneficiary Aadhaar card and Jan Aadhaar card.\n3. The first page of the beneficiary savings bank account passbook (which contains the name of the candidate, bank account number and IFS code to be mentioned).\n4. Copy of passport with visa.\n5. Copy of the employment contract issued by the foreign employer.\n6. Proof of amount deposited for Visa / Invoice / Invoice.\n7. Registration number of the recruiting agent and copy of the advertisement given for overseas employment.\n"
+        },
+        {
+          "question": "How To Apply For This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application will have to be submitted online by the beneficiary on the Board's online portal www.ldms.rajasthan.gov.in in the prescribed form.\n\n\nTime period for submission of application - After the date of publication of the notification, the registered beneficiary will have to submit the application within a maximum period of 3 months after obtaining a valid visa as per rules.\n\n\nThe approval under the scheme will be issued after the senior most officer of the local labor office or other officer authorized by the divisional secretary, test and complete satisfaction.\n\nThe assistance amount will be transferred through electronic means (RTGS / NEFT) to the candidate's bank account under the central banking system.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application will have to be submitted online by the beneficiary on the Board's online portal www.ldms.rajasthan.gov.in in the prescribed form.\n\n\nTime period for submission of application - After the date of publication of the notification, the registered beneficiary will have to submit the application within a maximum period of 3 months after obtaining a valid visa as per rules.\n\n\nThe approval under the scheme will be issued after the senior most officer of the local labor office or other officer authorized by the divisional secretary, test and complete satisfaction.\n\nThe assistance amount will be transferred through electronic means (RTGS / NEFT) to the candidate's bank account under the central banking system.\n\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निर्माण श्रमिकों को विदेश में रोजगार के लिए वीजा पर किए गए खर्च की प्रतिपूर्ति राजस्थान राज्य में उन निर्माण श्रमिकों को वित्तीय सहायता प्रदान करने के लिए लागू की गई एक योजना है जो विदेश में रोजगार चाहते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Reimbursement of Expenditure Incurred on Visa for Employment Abroad to Construction Workers is a scheme implemented in the state of Rajasthan to provide financial assistance to construction workers who are seeking employment abroad.\n"
+        },
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य वीजा प्राप्त करने से संबंधित खर्चों के लिए वित्तीय सहायता प्रदान करके विदेश में रोजगार की तलाश करने वाले निर्माण श्रमिकों पर वित्तीय बोझ को कम करना है, जो अक्सर एक महत्वपूर्ण खर्च हो सकता है। इस योजना का उद्देश्य निर्माण श्रमिकों के कल्याण को बढ़ावा देना और विदेशों में रोजगार के अवसरों को सुरक्षित करने के उनके प्रयासों में उनका समर्थन करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The aim of this scheme is to reduce the financial burden on construction workers who are seeking employment abroad by providing financial support for expenses related to obtaining visas, which can often be a significant expense. This scheme aims to promote the welfare of construction workers and support them in their efforts to secure employment opportunities abroad.\n"
+        },
+        {
+          "question": "पात्रता मानदंड क्या हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक को राजस्थान राज्य का निवासी होना चाहिए। 2. आवेदक को श्रम कानूनों के तहत निर्माण कार्यकर्ता के रूप में पंजीकृत होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": " 1. Applicant should be a resident of Rajasthan State.\n 2.Applicant should be registered as Construction Worker under labor laws.\n\n"
+        },
+        {
+          "question": "क्या विदेश में रोजगार का कोई प्रमाण दिखाने की आवश्यकता है? कोई औपचारिकताएं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. विदेश में अनुबंध रोजगार प्राप्त करने के लिए, प्रवासी अधिनियम, 1983 के तहत प्रोटेक्टर्स ऑफ इमिग्रेंट्स (पी. ओ. ई.) के कार्यालय से प्रवास की अनुमति लेना आवश्यक है। 2. विदेशी अधिनियम के तहत भर्ती एजेंसी का पंजीकरण या पीओई कार्यालय से एक वैध परमिट आवश्यक है। 3. उपरोक्त योजना के तहत वीजा राशि की प्रतिपूर्ति वैध वीजा सहित न्यूनतम 6 महीने की वैधता वाले लाभार्थी के पासपोर्ट पर देय होगी। 4. इस योजना के तहत सहायता राशि का लाभ लाभार्थी को केवल एक बार दिया जाएगा। 5. आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई तथ्य गलत पाया जाता है जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे। 6. इस योजना का लाभ केवल तभी देय होगा जब लाभार्थी विदेश में कार्यरत हो, भवन और अन्य निर्माण कार्यों में हो।"
+                }
+              ]
+            }
+          ],
+          "answer_md": " 1. For getting contract employment abroad, it is necessary to take permission for migration from the office of Protectors of Emigrants (POE) under the Migrant Act, 1983.\n 2. Registration of the recruiting agency under the Overseas Act or a valid permit from the POE office is necessary.\n 3. Reimbursment of visa amount under the above scheme will be payable on the beneficiarys passport having a minimum validity of 6 months including valid visa.\n 4. Under the scheme, the benefit of assistance amount will be payable to the beneficiary only once.\n 5. During scrutiny of application and documents, if any facts found to be false resulting in the cancellation of eligibility, it will be the responsibility of the concerned beneficiary to deposit all the assistance amount sanctioned under the scheme along with interest.              \n 6. The benefit of this scheme will be payable only if the beneficiary is employed abroad, is in the building and other construction works.\n\n"
+        },
+        {
+          "question": "इस योजना के लिए आवेदन करते समय किन दस्तावेजों को जमा करना आवश्यक है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. लाभार्थी पंजीकरण पहचान पत्र की प्रति। 2. लाभार्थी आधार कार्ड और जन आधार कार्ड की प्रति। 3. लाभार्थी बचत बैंक खाता पासबुक का पहला पृष्ठ (जिसमें उम्मीदवार का नाम, बैंक खाता संख्या और आई. एफ. एस. कोड का उल्लेख किया जाना है)। 4. वीजा के साथ पासपोर्ट की प्रति। 5. विदेशी नियोक्ता द्वारा जारी रोजगार अनुबंध की प्रति। 6. वीजा/चालान/चालान के लिए जमा की गई राशि का प्रमाण। 7. भर्ती अभिकर्ता की पंजीकरण संख्या और विदेशी रोजगार के लिए दिए गए विज्ञापन की प्रति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Copy of the beneficiary registration identity card.\n2. Copy of the beneficiary Aadhaar card and Jan Aadhaar card.\n3. The first page of the beneficiary savings bank account passbook (which contains the name of the candidate, bank account number and IFS code to be mentioned).\n4. Copy of passport with visa.\n5. Copy of the employment contract issued by the foreign employer.\n6. Proof of amount deposited for Visa / Invoice / Invoice.\n7. Registration number of the recruiting agent and copy of the advertisement given for overseas employment.\n"
+        },
+        {
+          "question": "इस योजना के लिए कैसे आवेदन करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन को लाभार्थी द्वारा निर्धारित प्रपत्र में बोर्ड के ऑनलाइन पोर्टल www.ldms.rajasthan.gov.in पर ऑनलाइन जमा करना होगा। आवेदन जमा करने की समय अवधि-अधिसूचना के प्रकाशन की तारीख के बाद, पंजीकृत लाभार्थी को नियमों के अनुसार वैध वीजा प्राप्त करने के बाद अधिकतम 3 महीने की अवधि के भीतर आवेदन जमा करना होगा। योजना के तहत मंजूरी स्थानीय श्रम कार्यालय के सबसे वरिष्ठ अधिकारी या संभागीय सचिव द्वारा अधिकृत अन्य अधिकारी द्वारा परीक्षण और पूर्ण संतुष्टि के बाद जारी की जाएगी। सहायता राशि केंद्रीय बैंकिंग प्रणाली के तहत उम्मीदवार के बैंक खाते में इलेक्ट्रॉनिक माध्यमों (आरटीजीएस/एनईएफटी) के माध्यम से हस्तांतरित की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application will have to be submitted online by the beneficiary on the Board's online portal www.ldms.rajasthan.gov.in in the prescribed form.\n\n\nTime period for submission of application - After the date of publication of the notification, the registered beneficiary will have to submit the application within a maximum period of 3 months after obtaining a valid visa as per rules.\n\n\nThe approval under the scheme will be issued after the senior most officer of the local labor office or other officer authorized by the divisional secretary, test and complete satisfaction.\n\nThe assistance amount will be transferred through electronic means (RTGS / NEFT) to the candidate's bank account under the central banking system.\n\n"
+        }
+      ]
+    }
+  }
+}

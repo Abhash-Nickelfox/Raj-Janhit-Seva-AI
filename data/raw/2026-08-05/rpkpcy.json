@@ -1,0 +1,1735 @@
+{
+  "scheme_id": "67ffd860186a623fddce25b0",
+  "slug": "rpkpcy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Scholarship",
+        "Student",
+        "Talent Search",
+        "Secondary Education",
+        "Higher Education"
+      ],
+      "schemeName": "Rajya Pratibha Khoj Pariksha Chhatravriti Yojana",
+      "schemeShortTitle": "RPKPCY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Universities and higher education",
+          "label": "Universities and higher education"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "Education (Elementary and Secondary) Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://igrs.rajasthan.gov.in/scheme/detail/279"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Rajya Pratibha Khoj Pariksha Chhatravriti Yojana&amp;quot; was implemented by the Secondary Education Department, Government of Rajasthan. Under this scheme, students are provided with scholarships or a one-time incentive for pursuing education up to the postgraduate level, after being selected through the State Talent Search Examination organized by the Board of Secondary Education Rajasthan, Ajmer.\nStudents studying in Classes 10 and 12 in all government schools, recognized private schools, and Swami Vivekanand Model Schools in the state, who have secured a minimum of 50% marks in Classes 9 and 11 respectively, are eligible to apply for the examination. Students selected through this examination will be entitled to the benefits provided under the scheme.\n",
+      "benefits_md": "**Type of Benefit: Scholarship and One-Time Incentive**\n**Class at the time of application****No. of Selected Students &amp;amp;amp;amp; Basis of Selection Basis****Scholarship Rate (For a period of 10 Months)****One-Time Incentive (20 students in each)**Class 10th50 students (≥80% marks)₹1,250/month (for Class 11-12)₹4,000 for topper, ₹2,000 each for othersClass 12th - Arts50 students (≥80% marks)₹2,000/month (for UG &amp;amp;amp;amp; PG)₹4,000 for topper, ₹2,000 each for othersClass 12th - Commerce50 students (≥80% marks)₹2,000/month (for UG &amp;amp;amp;amp; PG)₹4,000 for topper, ₹2,000 each for othersClass 12th - Science50 students (≥80% marks)₹2,000/month (for UG &amp;amp;amp;amp; PG)₹4,000 for topper, ₹2,000 each for others**NOTE:**\n\n- Direct Benefit Transfer (DBT) to the beneficiary’s bank account.\n- Monthly (for up to 10 months per academic year).\n\n",
+      "briefDescription": "Under this scheme, students are provided with scholarships or a one-time incentive for pursuing education up to the postgraduate level, after being selected through the State Talent Search Examination organized by the Board of Secondary Education Rajasthan, Ajmer.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Rajya Pratibha Khoj Pariksha Chhatravriti Yojana\" was implemented by the Secondary Education Department, Government of Rajasthan. Under this scheme, students are provided with scholarships or a one-time incentive for pursuing education up to the postgraduate level, after being selected through the State Talent Search Examination organized by the Board of Secondary Education Rajasthan, Ajmer."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students studying in Classes 10 and 12 in all government schools, recognized private schools, and Swami Vivekanand Model Schools in the state, who have secured a minimum of 50% marks in Classes 9 and 11 respectively, are eligible to apply for the examination. Students selected through this examination will be entitled to the benefits provided under the scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Type of Benefit: Scholarship and One-Time Incentive",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class at the time of application",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "No. of Selected Students & Basis of Selection Basis",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Scholarship Rate (For a period of 10 Months)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "One-Time Incentive (20 students in each)",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class 10"
+                    },
+                    {
+                      "text": "th",
+                      "superscript": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 students (≥80% marks)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,250/month (for Class 11-12)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000 for topper, ₹2,000 each for others"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class 12"
+                    },
+                    {
+                      "text": "th",
+                      "superscript": true
+                    },
+                    {
+                      "text": " - Arts"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 students (≥80% marks)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,000/month (for UG & PG)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000 for topper, ₹2,000 each for others"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class 12"
+                    },
+                    {
+                      "text": "th",
+                      "superscript": true
+                    },
+                    {
+                      "text": " - Commerce"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 students (≥80% marks)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,000/month (for UG & PG)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000 for topper, ₹2,000 each for others"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class 12"
+                    },
+                    {
+                      "text": "th",
+                      "superscript": true
+                    },
+                    {
+                      "text": " - Science"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 students (≥80% marks)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,000/month (for UG & PG)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000 for topper, ₹2,000 each for others"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Direct Benefit Transfer (DBT) to the beneficiary’s bank account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Monthly (for up to 10 months per academic year)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " To avail of the benefits of the scheme, the applicant needs to contact their respective school or college administration."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit copies of all the mandatory documents (self-attested, if required) to the school/college."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The school will visit the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx",
+                    "children": [
+                      {
+                        "text": "Shala Darpan, Rajasthan"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " Portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Using the school's login credentials (Login ID and Password), the school will fill and submit the application form. "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** To avail of the benefits of the scheme, the applicant needs to contact their respective school or college administration.\n**Step 2:** Submit copies of all the mandatory documents (self-attested, if required) to the school/college.\n**Step 3:** The school will visit the [Shala Darpan, Rajasthan](https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx) Portal.\n**Step 4:** Using the school&amp;#39;s login credentials (Login ID and Password), the school will fill and submit the application form. \n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Rajasthan.\n   1. The applicant should be a student currently enrolled in Class 10 or Class 12.\n   1. The student should be studying in a government school, a recognized private school, or a Swami Vivekanand Model School located in Rajasthan.\n   1. For Class 10 applicants, a minimum of 50% marks should have been secured in Class 9. For Class 12 applicants, at least 50% marks should have been obtained in Class 11.\n   1. The applicant should have appeared for and qualified in the State Talent Search Examination conducted by the Board of Secondary Education, Rajasthan.\n   1. To be considered for selection, the applicant should have scored a minimum of 80% marks in the Talent Search Examination.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a student currently enrolled in Class 10 or Class 12."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The student should be studying in a government school, a recognized private school, or a Swami Vivekanand Model School located in Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For Class 10 applicants, a minimum of 50% marks should have been secured in Class 9. For Class 12 applicants, at least 50% marks should have been obtained in Class 11."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have appeared for and qualified in the State Talent Search Examination conducted by the Board of Secondary Education, Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To be considered for selection, the applicant should have scored a minimum of 80% marks in the Talent Search Examination."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "छात्रवृत्ति",
+        "विद्यार्थी",
+        "प्रतिभा की खोज",
+        "माध्यमिक शिक्षा",
+        "उच्च शिक्षा"
+      ],
+      "schemeName": "राज्य प्रतिभा खोज परीक्षा छत्रपति योजना",
+      "schemeShortTitle": "RPKPCY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Universities and higher education",
+          "label": "विश्वविद्यालय और उच्च शिक्षा"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "शिक्षा (प्राथमिक और माध्यमिक) विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://igrs.rajasthan.gov.in/scheme/detail/279"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "इस योजना को राजस्थान सरकार के माध्यमिक शिक्षा विभाग द्वारा लागू किया गया था। इस योजना के तहत, छात्रों को माध्यमिक शिक्षा बोर्ड राजस्थान, अजमेर द्वारा आयोजित राज्य प्रतिभा खोज परीक्षा के माध्यम से चुने जाने के बाद, स्नातकोत्तर स्तर तक शिक्षा प्राप्त करने के लिए छात्रवृत्ति या एक बार का प्रोत्साहन प्रदान किया जाता है। राज्य के सभी सरकारी स्कूलों, मान्यता प्राप्त निजी स्कूलों और स्वामी विवेकानंद मॉडल स्कूलों में कक्षा 10 और 12 में पढ़ने वाले छात्र, जिन्होंने क्रमशः कक्षा 9 और 11 में न्यूनतम 50 प्रतिशत अंक प्राप्त किए हैं, परीक्षा के लिए आवेदन करने के पात्र हैं। इस परीक्षा के माध्यम से चयनित छात्र योजना के तहत प्रदान किए गए लाभों के हकदार होंगे।",
+      "benefits_md": "* * लाभ का प्रकारः छात्रवृत्ति और आवेदन के समय एक बार का प्रोत्साहन वर्ग * * * * * नहीं। चयनित छात्रों और चयन के आधार पर छात्रवृत्ति दर (10 महीने की अवधि के लिए) * * * * एक बार का प्रोत्साहन (प्रत्येक में 20 छात्र) * * 10वीं के 50 छात्र (80 प्रतिशत अंक) 1,250 रुपये प्रति माह (कक्षा के लिए) टॉपर के लिए 4,000 रुपये, अन्य के लिए 2,000 रुपये 12वीं-कला के 50 छात्र (80 प्रतिशत अंक) 2,000 रुपये प्रति माह (स्नातक और स्नातकोत्तर के लिए) टॉपर के लिए 4,000 रुपये, 12वीं-वाणिज्य के 50 छात्र (80 प्रतिशत अंक) प्रत्येक के लिए 2,000 रुपये (स्नातक और स्नातकोत्तर के लिए) - मासिक (प्रति शैक्षणिक वर्ष 10 महीने तक)।",
+      "briefDescription": "इस योजना के तहत, छात्रों को माध्यमिक शिक्षा बोर्ड राजस्थान, अजमेर द्वारा आयोजित राज्य प्रतिभा खोज परीक्षा के माध्यम से चुने जाने के बाद, स्नातकोत्तर स्तर तक शिक्षा प्राप्त करने के लिए छात्रवृत्ति या एक बार का प्रोत्साहन प्रदान किया जाता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"राज्य प्रतिभा खोज परीक्षा छत्रपति योजना\" योजना राजस्थान सरकार के माध्यमिक शिक्षा विभाग द्वारा लागू की गई थी। इस योजना के तहत, छात्रों को माध्यमिक शिक्षा बोर्ड राजस्थान, अजमेर द्वारा आयोजित राज्य प्रतिभा खोज परीक्षा के माध्यम से चुने जाने के बाद, स्नातकोत्तर स्तर तक शिक्षा प्राप्त करने के लिए छात्रवृत्ति या एक बार का प्रोत्साहन प्रदान किया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य के सभी सरकारी स्कूलों, मान्यता प्राप्त निजी स्कूलों और स्वामी विवेकानंद मॉडल स्कूलों में कक्षा 10 और 12 में पढ़ने वाले छात्र, जिन्होंने क्रमशः कक्षा 9 और 11 में न्यूनतम 50 प्रतिशत अंक प्राप्त किए हैं, परीक्षा के लिए आवेदन करने के पात्र हैं। इस परीक्षा के माध्यम से चयनित छात्र योजना के तहत प्रदान किए गए लाभों के हकदार होंगे।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "लाभ का प्रकारः छात्रवृत्ति और एक बार का प्रोत्साहन",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आवेदन के समय कक्षा",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "चयनित छात्रों की संख्या और चयन आधार",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "छात्रवृत्ति दर (10 महीने की अवधि के लिए)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "एक बार का प्रोत्साहन (प्रत्येक में 20 छात्र)",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कक्षा 10"
+                    },
+                    {
+                      "text": "थ",
+                      "superscript": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 छात्र (80 प्रतिशत से अधिक अंक)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,250/माह (कक्षा 11-12 के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "टॉपर के लिए ₹4,000, दूसरों के लिए ₹2,000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कक्षा 12"
+                    },
+                    {
+                      "text": "थ",
+                      "superscript": true
+                    },
+                    {
+                      "text": "- कला"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 छात्र (80 प्रतिशत से अधिक अंक)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,000/माह (यूजी और पीजी के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "टॉपर के लिए ₹4,000, दूसरों के लिए ₹2,000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कक्षा 12"
+                    },
+                    {
+                      "text": "थ",
+                      "superscript": true
+                    },
+                    {
+                      "text": "- व्यापार"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 छात्र (80 प्रतिशत से अधिक अंक)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,000/माह (यूजी और पीजी के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "टॉपर के लिए ₹4,000, दूसरों के लिए ₹2,000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कक्षा 12"
+                    },
+                    {
+                      "text": "थ",
+                      "superscript": true
+                    },
+                    {
+                      "text": "- विज्ञान"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50 छात्र (80 प्रतिशत से अधिक अंक)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,000/माह (यूजी और पीजी के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "टॉपर के लिए ₹4,000, दूसरों के लिए ₹2,000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "नोटः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी के बैंक खाते में प्रत्यक्ष लाभ अंतरण (डी. बी. टी.)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मासिक (प्रति शैक्षणिक वर्ष 10 महीने तक)।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "योजना का लाभ उठाने के लिए आवेदक को अपने संबंधित स्कूल या कॉलेज प्रशासन से संपर्क करना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "सभी अनिवार्य दस्तावेजों की प्रतियां (यदि आवश्यक हो तो स्व-सत्यापित) स्कूल/कॉलेज में जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "विद्यालय का दौरा करेंगे"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx",
+                    "children": [
+                      {
+                        "text": "शाला दर्पण, राजस्थान"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "स्कूल के लॉगिन क्रेडेंशियल्स (लॉगिन आईडी और पासवर्ड) का उपयोग करके, स्कूल आवेदन पत्र भरेगा और जमा करेगा।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: योजना का लाभ उठाने के लिए आवेदक को अपने संबंधित स्कूल या कॉलेज प्रशासन से संपर्क करने की आवश्यकता है। चरण 2: स्कूल/कॉलेज में सभी अनिवार्य दस्तावेजों (यदि आवश्यक हो तो स्व-सत्यापित) की प्रतियां जमा करें। चरण 3: स्कूल [शाला दर्पण, राजस्थान] (https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx) पोर्टल पर जाएगा। * * चरण 4: * * स्कूल के लॉगिन क्रेडेंशियल्स (लॉगिन आईडी और पासवर्ड) का उपयोग करके, स्कूल आवेदन पत्र भरेगा और जमा करेगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "General"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "EWS"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Female"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Male"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "OBC"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "SC"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "ST"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Transgender"
+        },
+        {
+          "gte": 13,
+          "lte": 45,
+          "category": "Widow"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Pursuing",
+          "score_gte": 50,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक वर्तमान में कक्षा 10 या कक्षा 12 में नामांकित छात्र होना चाहिए। 1. छात्र को सरकारी स्कूल, किसी मान्यता प्राप्त निजी स्कूल या राजस्थान में स्थित स्वामी विवेकानंद मॉडल स्कूल में पढ़ रहा होना चाहिए। 1. कक्षा 10 के आवेदकों के लिए, कक्षा 9 में न्यूनतम 50 प्रतिशत अंक प्राप्त होने चाहिए। कक्षा 12 के आवेदकों के लिए, कक्षा 11 में कम से कम 50 प्रतिशत अंक प्राप्त होने चाहिए। 1. आवेदक को माध्यमिक शिक्षा बोर्ड, राजस्थान द्वारा आयोजित राज्य प्रतिभा खोज परीक्षा में उपस्थित होना चाहिए और उत्तीर्ण होना चाहिए। 1. चयन के लिए विचार किए जाने के लिए, आवेदक को प्रतिभा खोज परीक्षा में न्यूनतम 80 प्रतिशत अंक प्राप्त करने चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक वर्तमान में कक्षा 10 या कक्षा 12 में नामांकित छात्र होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्र को सरकारी स्कूल, किसी मान्यता प्राप्त निजी स्कूल या राजस्थान में स्थित स्वामी विवेकानंद मॉडल स्कूल में पढ़ रहा होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कक्षा 10 के आवेदकों के लिए, कक्षा 9 में न्यूनतम 50 प्रतिशत अंक प्राप्त होने चाहिए। कक्षा 12 के आवेदकों के लिए, कक्षा 11 में कम से कम 50 प्रतिशत अंक प्राप्त होने चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को माध्यमिक शिक्षा बोर्ड, राजस्थान द्वारा आयोजित राज्य प्रतिभा खोज परीक्षा में उपस्थित होना चाहिए और उत्तीर्ण होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "चयन के लिए विचार किए जाने के लिए, आवेदक को प्रतिभा खोज परीक्षा में न्यूनतम 80 प्रतिशत अंक प्राप्त करने चाहिए।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "General"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "EWS"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Female"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Male"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "OBC"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "SC"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "ST"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Transgender"
+      },
+      {
+        "gte": 13,
+        "lte": 45,
+        "category": "Widow"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Pursuing",
+        "score_gte": 50,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक वर्तमान में कक्षा 10 या कक्षा 12 में नामांकित छात्र होना चाहिए। 1. छात्र को सरकारी स्कूल, किसी मान्यता प्राप्त निजी स्कूल या राजस्थान में स्थित स्वामी विवेकानंद मॉडल स्कूल में पढ़ रहा होना चाहिए। 1. कक्षा 10 के आवेदकों के लिए, कक्षा 9 में न्यूनतम 50 प्रतिशत अंक प्राप्त होने चाहिए। कक्षा 12 के आवेदकों के लिए, कक्षा 11 में कम से कम 50 प्रतिशत अंक प्राप्त होने चाहिए। 1. आवेदक को माध्यमिक शिक्षा बोर्ड, राजस्थान द्वारा आयोजित राज्य प्रतिभा खोज परीक्षा में उपस्थित होना चाहिए और उत्तीर्ण होना चाहिए। 1. चयन के लिए विचार किए जाने के लिए, आवेदक को प्रतिभा खोज परीक्षा में न्यूनतम 80 प्रतिशत अंक प्राप्त करने चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक वर्तमान में कक्षा 10 या कक्षा 12 में नामांकित छात्र होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र को सरकारी स्कूल, किसी मान्यता प्राप्त निजी स्कूल या राजस्थान में स्थित स्वामी विवेकानंद मॉडल स्कूल में पढ़ रहा होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "कक्षा 10 के आवेदकों के लिए, कक्षा 9 में न्यूनतम 50 प्रतिशत अंक प्राप्त होने चाहिए। कक्षा 12 के आवेदकों के लिए, कक्षा 11 में कम से कम 50 प्रतिशत अंक प्राप्त होने चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को माध्यमिक शिक्षा बोर्ड, राजस्थान द्वारा आयोजित राज्य प्रतिभा खोज परीक्षा में उपस्थित होना चाहिए और उत्तीर्ण होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "चयन के लिए विचार किए जाने के लिए, आवेदक को प्रतिभा खोज परीक्षा में न्यूनतम 80 प्रतिशत अंक प्राप्त करने चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhaar Card or Bhamashah Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Educational Qualification Marksheet or Certificate Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residence proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card Copy\n1. Jan Aadhaar Card or Bhamashah Card Copy\n1. Educational Qualification Marksheet or Certificate Copy\n1. Residence proof\n1. Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड या भामाशाह कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक योग्यता मार्कशीट या प्रमाणपत्र की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निवास प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card Copy\n1. Jan Aadhaar Card or Bhamashah Card Copy\n1. Educational Qualification Marksheet or Certificate Copy\n1. Residence proof\n1. Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students of Class 10 or 12 in Rajasthan’s government, private recognized schools, or Swami Vivekananda Model Schools."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students of Class 10 or 12 in Rajasthan’s government, private recognized schools, or Swami Vivekananda Model Schools.\n"
+        },
+        {
+          "question": "What is the minimum academic requirement to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A minimum of 50% marks in the previous class (Class 9 or 11 as applicable)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A minimum of 50% marks in the previous class (Class 9 or 11 as applicable).\n"
+        },
+        {
+          "question": "Are service or residential quotas applicable?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, selection is purely merit-based."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, selection is purely merit-based.\n"
+        },
+        {
+          "question": "Can I apply offline for the exam or scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only online applications are accepted."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only online applications are accepted.\n"
+        },
+        {
+          "question": "Till when is the scholarship available after selection?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It continues up to postgraduate level, subject to eligibility and academic progress."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It continues up to postgraduate level, subject to eligibility and academic progress.\n"
+        },
+        {
+          "question": "Is there any application fee for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the application form is free of cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application form is free of cost.\n"
+        },
+        {
+          "question": "What is the selection criteria for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Selection is based on performance in the State Talent Search Examination."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selection is based on performance in the State Talent Search Examination.\n"
+        },
+        {
+          "question": "Who conducts the examination?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Board of Secondary Education Rajasthan, Ajmer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Board of Secondary Education Rajasthan, Ajmer.\n"
+        },
+        {
+          "question": "What is the mode of scholarship disbursement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Through Direct Benefit Transfer (DBT)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through Direct Benefit Transfer (DBT).\n"
+        },
+        {
+          "question": "How many students are selected from each stream?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "50 students from each stream – Arts, Commerce, and Science – and 50 from class 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ],
+          "answer_md": "50 students from each stream – Arts, Commerce, and Science – and 50 from class 10th.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के सरकारी, निजी मान्यता प्राप्त स्कूलों या स्वामी विवेकानंद मॉडल स्कूलों में कक्षा 10 या 12 के छात्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students of Class 10 or 12 in Rajasthan’s government, private recognized schools, or Swami Vivekananda Model Schools.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए न्यूनतम शैक्षणिक आवश्यकता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पिछली कक्षा में न्यूनतम 50 प्रतिशत अंक (9वीं या 11वीं)।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A minimum of 50% marks in the previous class (Class 9 or 11 as applicable).\n"
+        },
+        {
+          "question": "क्या सेवा या आवासीय कोटा लागू होते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, चयन विशुद्ध रूप से योग्यता-आधारित है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, selection is purely merit-based.\n"
+        },
+        {
+          "question": "क्या मैं परीक्षा या छात्रवृत्ति के लिए ऑफ़लाइन आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल ऑनलाइन आवेदन स्वीकार किए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only online applications are accepted.\n"
+        },
+        {
+          "question": "चयन के बाद छात्रवृत्ति कब तक उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योग्यता और शैक्षणिक प्रगति के अधीन स्नातकोत्तर स्तर तक जारी रहता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It continues up to postgraduate level, subject to eligibility and academic progress.\n"
+        },
+        {
+          "question": "क्या इस योजना के लिए कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन पत्र निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application form is free of cost.\n"
+        },
+        {
+          "question": "छात्रवृत्ति के लिए चयन मानदंड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "चयन राज्य प्रतिभा खोज परीक्षा में प्रदर्शन के आधार पर किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selection is based on performance in the State Talent Search Examination.\n"
+        },
+        {
+          "question": "परीक्षा कौन आयोजित करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "माध्यमिक शिक्षा बोर्ड, राजस्थान, अजमेर।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Board of Secondary Education Rajasthan, Ajmer.\n"
+        },
+        {
+          "question": "छात्रवृत्ति वितरण का तरीका क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रत्यक्ष लाभ हस्तांतरण (डी. बी. टी.) के माध्यम से।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through Direct Benefit Transfer (DBT).\n"
+        },
+        {
+          "question": "प्रत्येक स्ट्रीम से कितने छात्रों का चयन किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रत्येक स्ट्रीम-कला, वाणिज्य और विज्ञान-से 50 छात्र और कक्षा 10 से 50 छात्र"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ],
+          "answer_md": "50 students from each stream – Arts, Commerce, and Science – and 50 from class 10th.\n"
+        }
+      ]
+    }
+  }
+}

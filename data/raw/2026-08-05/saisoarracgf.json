@@ -1,0 +1,2026 @@
+{
+  "scheme_id": "67ff4e15bd5fb5093616babf",
+  "slug": "saisoarracgf",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Interest Subsidy",
+        "Collateral-Free Loans",
+        "Annual Guarantee Fees",
+        "MSME Policy",
+        "MSME",
+        "Enterprise"
+      ],
+      "schemeName": "Scheme for Additional Interest Subsidy over and above RIPS 2024 and Reimbursement of Annual Credit Guarantee Fee",
+      "schemeShortTitle": "SAISOARRACGF",
+      "implementingAgency": "District Industries & Commerce Centers, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Employee management",
+          "label": "Employee management"
+        },
+        {
+          "value": "Technology upgradation",
+          "label": "Technology upgradation"
+        },
+        {
+          "value": "Micro finance",
+          "label": "Micro finance"
+        },
+        {
+          "value": "Credit Linked Subsidy",
+          "label": "Credit Linked Subsidy"
+        },
+        {
+          "value": "Machine & skill up-Gradation",
+          "label": "Machine & skill up-Gradation"
+        },
+        {
+          "value": "Loan",
+          "label": "Loan"
+        }
+      ],
+      "schemeOpenDate": "2024-12-04",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "industries",
+          "label": "Industries"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000019,
+        "label": "Industry Department"
+      },
+      "schemeCloseDate": "2029-03-31",
+      "schemeFor": "Infra"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 3)",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Scheme for Additional Interest Subsidy over and above RIPS 2024 and Reimbursement of Annual Credit Guarantee Fee&amp;quot; has been  introduced under the Rajasthan MSME Policy 2024 by the Department of Industries and Commerce, Government of Rajasthan. Under this scheme, support will be provided to selected projects for establishment of new MSMEs or for expansion/ diversification/ modernization of existing MSMEs through the provisions given in the policy. The scheme will remain in force until 31st March 2029.\n***Objective:***\nThe scheme’s objective is to create new employment opportunities for all sections of society in the state and to ease the establishment of enterprises in the state. The policy envisages supporting the creation of new MSMEs or the expansion/diversification/modernization of existing MSMEs through additional interest subsidies and collateral-free loans. \n***Scheme Implementation:***\nThis scheme will be implemented through the respective District Industries &amp;amp; Commerce Centers in their districts under the aegis of the Department of Industries &amp;amp; Commerce. Office of the Commissioner, Industries &amp;amp; Commerce will be the nodal agency for the implementation and supervision of the scheme at the state level.\n",
+      "benefits_md": "**Additional Interest Subsidy support over and above RIPS 2024 will be provided to eligible projects for establishment of new MSMEs or for expansion/ diversification/ modernization of existing MSMEs as per below:**\n**Loan Amount for plant and machinery/equipment or apparatus****Interest Subvention as per RIPS 2024****Additional Interest Subvention under the scheme**Up to INR 5 crores6%2%INR 5 crores-10 crores4%1%INR 10 crores-50 crores3%0.5%**Note 1:** The duration of the additional interest subsidy will be the same as prescribed under RIPS’2024 for MSMEs.\n**Note 2:** Enterprises availing collateral free term loan for plant and machinery/ equipment or apparatus (for loan amount below INR 5 Cr. only) from Member Lending Institutions (MLIs) under CGTMSE will be eligible to avail assistance as reimbursement of 100% Annual Guarantee Fees paid to MLIs for the period of seven (7) years.\n",
+      "briefDescription": "As per the MSME Policy 2024, it supports the establishment of new MSMEs and the expansion, diversification, or modernization of existing ones by offering interest subsidies and reimbursement of guarantee fees to ease access to finance and reduce the cost of credit.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Scheme for Additional Interest Subsidy over and above RIPS 2024 and Reimbursement of Annual Credit Guarantee Fee\" has been  introduced under the Rajasthan MSME Policy 2024 by the Department of Industries and Commerce, Government of Rajasthan. Under this scheme, support will be provided to selected projects for establishment of new MSMEs or for expansion/ diversification/ modernization of existing MSMEs through the provisions given in the policy. The scheme will remain in force until 31st March 2029."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Objective:",
+                  "bold": true,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme’s objective is to create new employment opportunities for all sections of society in the state and to ease the establishment of enterprises in the state. The policy envisages supporting the creation of new MSMEs or the expansion/diversification/modernization of existing MSMEs through additional interest subsidies and collateral-free loans. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Scheme Implementation:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This scheme will be implemented through the respective District Industries & Commerce Centers in their districts under the aegis of the Department of Industries & Commerce. Office of the Commissioner, Industries & Commerce will be the nodal agency for the implementation and supervision of the scheme at the state level."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Additional Interest Subsidy support over and above RIPS 2024 will be provided to eligible projects for establishment of new MSMEs or for expansion/ diversification/ modernization of existing MSMEs as per below:",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Loan Amount for plant and machinery/equipment or apparatus",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Interest Subvention as per RIPS 2024",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Additional Interest Subvention under the scheme",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Up to INR 5 crores"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "6%"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "INR 5 crores-10 crores"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4%"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "INR 10 crores-50 crores"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3%"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "0.5%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note 1:",
+              "bold": true
+            },
+            {
+              "text": " The duration of the additional interest subsidy will be the same as prescribed under RIPS’2024 for MSMEs."
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 2:",
+                  "bold": true
+                },
+                {
+                  "text": " Enterprises availing collateral free term loan for plant and machinery/ equipment or apparatus (for loan amount below INR 5 Cr. only) from Member Lending Institutions (MLIs) under CGTMSE will be eligible to avail assistance as reimbursement of 100% Annual Guarantee Fees paid to MLIs for the period of seven (7) years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Application Process:",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant downloads the application form "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                    "children": [
+                      {
+                        "text": "(Annexure 1.1)"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " from the official website. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the respective-"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The General Manager, District Industries & Commerce Centre (DICC), "
+                      },
+                      {
+                        "text": "for loans up to ₹10 crores.",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Commissioner, Industries & Commerce, "
+                      },
+                      {
+                        "text": "for loans above ₹10 crores.",
+                        "bold": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The application must be submitted within 6 months of approval of interest subvention under RIPS 2024."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Post-Application Process:",
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "Applications are reviewed by the District Level Task Force Committee (DLTFC) for loans up to ₹10 crores or the High-Level Task Force Committee (HLTFC) above ₹10 crores under the chairmanship of the Commissioner of Industries and Commerce, Government of Rajasthan. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "After approval, the applicant will claim the subsidy and reimbursement quarterly by submitting a CA Certificate ("
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                    "children": [
+                      {
+                        "text": "Annexure 1.2"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ") in the prescribed form to the concerned GM, DICC. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "GM, DICC disburses the sanctioned amount."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Condonation of Delay:",
+                    "italic": true,
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In case of delayed submission of application, approval committee (DLTFC or HLTFC) would reserve the right to condone the delay up to a maximum of 6 months, provided applicant presents valid reasons for the delay in writing."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Disbursement of the benefits:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant shall submit the claim to the concerned GM DICC for release of interest subsidy as well as reimbursement of Annual Credit Guarantee fee as per the prescribed CA Certificate."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Concerned General Manager, District Industries & Commerce Center (DICC) will be authorized to release the Interest Subsidy as per the provisions of the approval of the DLTFC/ HLTFC."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Note:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The applicant's claim submission for interest subsidy and annual credit guarantee fee reimbursement is eligible only following the release of the interest subsidy under RIPS 2024 for that specific quarter."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** The interested applicant downloads the application form [(Annexure 1.1)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the respective-\n\n  - The General Manager, District Industries &amp;amp; Commerce Centre (DICC), **for loans up to ₹10 crores.**  - The Commissioner, Industries &amp;amp; Commerce, **for loans above ₹10 crores.**\n**Note:** The application must be submitted within 6 months of approval of interest subvention under RIPS 2024.\n***Post-Application Process:***\n**Step 1:** Applications are reviewed by the District Level Task Force Committee (DLTFC) for loans up to ₹10 crores or the High-Level Task Force Committee (HLTFC) above ₹10 crores under the chairmanship of the Commissioner of Industries and Commerce, Government of Rajasthan. \n**Step 2:** After approval, the applicant will claim the subsidy and reimbursement quarterly by submitting a CA Certificate ([Annexure 1.2](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)) in the prescribed form to the concerned GM, DICC. \n**Step 3:** GM, DICC disburses the sanctioned amount.\n***Condonation of Delay:***\nIn case of delayed submission of application, approval committee (DLTFC or HLTFC) would reserve the right to condone the delay up to a maximum of 6 months, provided applicant presents valid reasons for the delay in writing.\n**Disbursement of the benefits:**\n\n  - The applicant shall submit the claim to the concerned GM DICC for release of interest subsidy as well as reimbursement of Annual Credit Guarantee fee as per the prescribed CA Certificate.\n  - Concerned General Manager, District Industries &amp;amp; Commerce Center (DICC) will be authorized to release the Interest Subsidy as per the provisions of the approval of the DLTFC/ HLTFC.\n\n**Note:**\nThe applicant&amp;#39;s claim submission for interest subsidy and annual credit guarantee fee reimbursement is eligible only following the release of the interest subsidy under RIPS 2024 for that specific quarter.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**Following type of beneficiaries would be eligible for additional interest subsidy as per the scheme:**\n\n1. Interest subvention subsidy should have been approved for the applicant under RIPS 2024; and\n1. Beneficiary enterprise should fall under any of the following categories:\n\n\n- One District One Product (ODOP) enterprises in respective districts.\n- Enterprises owned by Scheduled Caste (SC)/Scheduled Tribe (ST) or women entrepreneurs.\n- Young entrepreneurs in the state in the age group of 18 to 45 years for starting their new enterprise for a maximum loan amount of up to ₹10 crore. \n- Establishment of new MSMEs or expansion/ diversification/ modernization of existing MSMEs in Area Category 3 as defined in RIPS 2024.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Following type of beneficiaries would be eligible for additional interest subsidy as per the scheme:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interest subvention subsidy should have been approved for the applicant under RIPS 2024; and"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary enterprise should fall under any of the following categories:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One District One Product (ODOP) enterprises in respective districts."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Enterprises owned by Scheduled Caste (SC)/Scheduled Tribe (ST) or women entrepreneurs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Young entrepreneurs in the state in the age group of 18 to 45 years for starting their new enterprise for a maximum loan amount of up to ₹10 crore. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Establishment of new MSMEs or expansion/ diversification/ modernization of existing MSMEs in Area Category 3 as defined in RIPS 2024."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "ब्याज सब्सिडी",
+        "संपार्श्विक-मुक्त ऋण",
+        "वार्षिक गारंटी शुल्क",
+        "एमएसएमई नीति",
+        "एमएसएमई",
+        "उद्यम"
+      ],
+      "schemeName": "आर. आई. पी. एस. 2024 के ऊपर अतिरिक्त ब्याज सब्सिडी और वार्षिक ऋण गारंटी शुल्क की प्रतिपूर्ति के लिए योजना",
+      "schemeShortTitle": "SAISOARRACGF",
+      "implementingAgency": "District Industries & Commerce Centers, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "स्थापना/स्टार्टअप/उद्यमिता"
+        },
+        {
+          "value": "Employee management",
+          "label": "कर्मचारी प्रबंधन"
+        },
+        {
+          "value": "Technology upgradation",
+          "label": "प्रौद्योगिकी उन्नयन"
+        },
+        {
+          "value": "Micro finance",
+          "label": "सूक्ष्म वित्त"
+        },
+        {
+          "value": "Credit Linked Subsidy",
+          "label": "क्रेडिट से जुड़ी सब्सिडी"
+        },
+        {
+          "value": "Machine & skill up-Gradation",
+          "label": "मशीन और कौशल उन्नयन"
+        },
+        {
+          "value": "Loan",
+          "label": "ऋण"
+        }
+      ],
+      "schemeOpenDate": "2024-12-04",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "industries",
+          "label": "Industries"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000019,
+        "label": "उद्योग विभाग"
+      },
+      "schemeCloseDate": "2029-03-31",
+      "schemeFor": "Infra"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश (पृष्ठ संख्या 3)",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "उद्योग और वाणिज्य विभाग, राजस्थान सरकार द्वारा राजस्थान एम. एस. एम. ई. नीति 2024 के तहत आर. आई. पी. एस. 2024 के अलावा अतिरिक्त ब्याज सब्सिडी और वार्षिक ऋण गारंटी शुल्क की प्रतिपूर्ति के लिए योजना शुरू की गई है। इस योजना के तहत, नीति में दिए गए प्रावधानों के माध्यम से नए एमएसएमई की स्थापना या मौजूदा एमएसएमई के विस्तार/विविधीकरण/आधुनिकीकरण के लिए चयनित परियोजनाओं को सहायता प्रदान की जाएगी। यह योजना 31 मार्च 2029 तक लागू रहेगी। इस योजना का उद्देश्य राज्य में समाज के सभी वर्गों के लिए रोजगार के नए अवसर पैदा करना और राज्य में उद्यमों की स्थापना को आसान बनाना है। इस नीति में अतिरिक्त ब्याज सब्सिडी और संपार्श्विक-मुक्त ऋणों के माध्यम से नए एमएसएमई के निर्माण या मौजूदा एमएसएमई के विस्तार/विविधीकरण/आधुनिकीकरण का समर्थन करने की परिकल्पना की गई है। योजना कार्यान्वयनः यह योजना उद्योग और वाणिज्य विभाग के तत्वावधान में संबंधित जिला उद्योग और वाणिज्य केंद्रों के माध्यम से उनके जिलों में लागू की जाएगी। उद्योग और वाणिज्य आयुक्त का कार्यालय राज्य स्तर पर योजना के कार्यान्वयन और पर्यवेक्षण के लिए नोडल एजेंसी होगी।",
+      "benefits_md": "आर. आई. पी. एस. 2024 के अलावा पात्र परियोजनाओं को नए एम. एस. एम. ई. की स्थापना के लिए या मौजूदा एम. एस. एम. ई. के विस्तार/विविधीकरण/आधुनिकीकरण के लिए नीचे दिए गए अनुसार अतिरिक्त ब्याज सब्सिडी सहायता प्रदान की जाएगीः * * * * संयंत्र और मशीनरी/उपकरण या उपकरण के लिए ऋण राशि * * * * आर. आई. पी. एस. 2024 के अनुसार ब्याज अनुदान * * योजना के तहत अतिरिक्त ब्याज अनुदान * * 5 करोड़ रुपये तक 6%2% 5 करोड़-10 करोड़ रुपये 4%1% 10 करोड़-50 करोड़ रुपये 3%0.5% * * नोटः * एम. एस. एम. ई. के लिए अतिरिक्त ब्याज सब्सिडी की अवधि आर. आई. पी. एस. 2024 के तहत निर्धारित के समान होगी। * * टिप्पणी 2: * * संयंत्र और मशीनरी/उपकरण या उपकरण (5 करोड़ रुपये से कम ऋण राशि के लिए) के लिए संपार्श्विक मुक्त सावधि ऋण प्राप्त करने वाले उद्यम। केवल सी. जी. टी. एम. एस. ई. के तहत ऋण देने वाले सदस्य संस्थानों (एम. एल. आई.) से सात (7) वर्षों की अवधि के लिए एम. एल. आई. को भुगतान किए गए वार्षिक गारंटी शुल्क की प्रतिपूर्ति के रूप में सहायता प्राप्त करने के लिए पात्र होंगे।",
+      "briefDescription": "एमएसएमई नीति 2024 के अनुसार, यह वित्त तक पहुंच को आसान बनाने और ऋण की लागत को कम करने के लिए ब्याज सब्सिडी और गारंटी शुल्क की प्रतिपूर्ति की पेशकश करके नए एमएसएमई की स्थापना और मौजूदा एमएसएमई के विस्तार, विविधीकरण या आधुनिकीकरण का समर्थन करता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के उद्योग और वाणिज्य विभाग द्वारा राजस्थान एम. एस. एम. ई. नीति 2024 के तहत \"आर. आई. पी. एस. 2024 के ऊपर और ऊपर अतिरिक्त ब्याज सब्सिडी और वार्षिक ऋण गारंटी शुल्क की प्रतिपूर्ति की योजना\" शुरू की गई है। इस योजना के तहत, नीति में दिए गए प्रावधानों के माध्यम से नए एमएसएमई की स्थापना या मौजूदा एमएसएमई के विस्तार/विविधीकरण/आधुनिकीकरण के लिए चयनित परियोजनाओं को सहायता प्रदान की जाएगी। यह योजना 31 मार्च 2029 तक लागू रहेगी।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उद्देश्यः",
+                  "bold": true,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य राज्य में समाज के सभी वर्गों के लिए रोजगार के नए अवसर पैदा करना और राज्य में उद्यमों की स्थापना को आसान बनाना है। इस नीति में अतिरिक्त ब्याज सब्सिडी और संपार्श्विक-मुक्त ऋणों के माध्यम से नए एमएसएमई के निर्माण या मौजूदा एमएसएमई के विस्तार/विविधीकरण/आधुनिकीकरण का समर्थन करने की परिकल्पना की गई है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "योजना कार्यान्वयनः"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना उद्योग और वाणिज्य विभाग के तत्वावधान में संबंधित जिला उद्योग और वाणिज्य केंद्रों के माध्यम से उनके जिलों में लागू की जाएगी। उद्योग और वाणिज्य आयुक्त का कार्यालय राज्य स्तर पर योजना के कार्यान्वयन और पर्यवेक्षण के लिए नोडल एजेंसी होगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आर. आई. पी. एस. 2024 के अलावा पात्र परियोजनाओं को नए एम. एस. एम. ई. की स्थापना या मौजूदा एम. एस. एम. ई. के विस्तार/विविधीकरण/आधुनिकीकरण के लिए अतिरिक्त ब्याज सब्सिडी सहायता प्रदान की जाएगी",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "संयंत्र और मशीनरी/उपकरण या उपकरण के लिए ऋण राशि",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आर. आई. पी. एस. 2024 के अनुसार ब्याज अनुदान",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "योजना के तहत अतिरिक्त ब्याज अनुदान",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "5 करोड़ रुपये तक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "6 प्रतिशत"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 प्रतिशत"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "5 करोड़-10 करोड़ रुपये"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4 प्रतिशत"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 प्रतिशत"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10 करोड़-50 करोड़ रुपये"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3 प्रतिशत"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "0. 0%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "नोट 1:",
+              "bold": true
+            },
+            {
+              "text": "अतिरिक्त ब्याज सब्सिडी की अवधि एमएसएमई के लिए आरआईपीएस '2024 के तहत निर्धारित के समान होगी।"
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नोट 2:",
+                  "bold": true
+                },
+                {
+                  "text": "सी. जी. टी. एम. एस. ई. के तहत सदस्य ऋण संस्थानों (एम. एल. आई.) से संयंत्र और मशीनरी/उपकरण या उपकरण (केवल 5 करोड़ रुपये से कम ऋण राशि के लिए) के लिए संपार्श्विक मुक्त सावधि ऋण प्राप्त करने वाले उद्यम सात (7) वर्षों की अवधि के लिए एम. एल. आई. को भुगतान किए गए वार्षिक गारंटी शुल्क की प्रतिपूर्ति के रूप में सहायता प्राप्त करने के पात्र होंगे।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "आवेदन प्रक्रियाः",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 1:"
+                  },
+                  {
+                    "text": "इच्छुक आवेदक आवेदन पत्र डाउनलोड करता है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                    "children": [
+                      {
+                        "text": "(परिशिष्ट 1)"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "आधिकारिक वेबसाइट से।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को संबंधित को जमा करें -"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.),"
+                      },
+                      {
+                        "text": "10 करोड़ रुपये तक के ऋण के लिए।",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "आयुक्त, उद्योग और वाणिज्य,"
+                      },
+                      {
+                        "text": "10 करोड़ रुपये से अधिक के ऋण के लिए।",
+                        "bold": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "ध्यान देंः",
+                    "bold": true
+                  },
+                  {
+                    "text": "आर. आई. पी. एस. 2024 के तहत ब्याज अनुदान की मंजूरी के 6 महीने के भीतर आवेदन जमा किया जाना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "आवेदन के बाद की प्रक्रियाः",
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 1:"
+                  },
+                  {
+                    "text": "10 करोड़ रुपये तक के ऋण के लिए जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) या 10 करोड़ रुपये से अधिक के ऋण के लिए उच्च स्तरीय कार्य बल समिति (एच. एल. टी. एफ. सी.) द्वारा उद्योग और वाणिज्य आयुक्त, राजस्थान सरकार की अध्यक्षता में आवेदनों की समीक्षा की जाती है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 2:"
+                  },
+                  {
+                    "text": "अनुमोदन के बाद, आवेदक एक सी. ए. प्रमाण पत्र जमा करके सब्सिडी और प्रतिपूर्ति का दावा करेगा ("
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                    "children": [
+                      {
+                        "text": "अनुलग्नक 1.2"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ") निर्धारित प्रपत्र में संबंधित जी. एम., डी. आई. सी. सी. को भेजें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 3:"
+                  },
+                  {
+                    "text": "जी. एम., डी. आई. सी. सी. स्वीकृत राशि वितरित करता है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "विलम्ब की निंदाः",
+                    "italic": true,
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "आवेदन जमा करने में देरी के मामले में, अनुमोदन समिति (डी. एल. टी. एफ. सी. या एच. एल. टी. एफ. सी.) अधिकतम 6 महीने तक की देरी को माफ करने का अधिकार सुरक्षित रखेगी, बशर्ते आवेदक लिखित रूप में देरी के वैध कारण प्रस्तुत करे।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "लाभों का वितरणः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "आवेदक निर्धारित सीए प्रमाणपत्र के अनुसार ब्याज सब्सिडी जारी करने के साथ-साथ वार्षिक क्रेडिट गारंटी शुल्क की प्रतिपूर्ति के लिए संबंधित जी. एम. डी. आई. सी. सी. को दावा प्रस्तुत करेगा।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "संबंधित महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को डी. एल. टी. एफ. सी./एच. एल. टी. एफ. सी. की मंजूरी के प्रावधानों के अनुसार ब्याज सब्सिडी जारी करने के लिए अधिकृत किया जाएगा।"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "ध्यान देंः"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "ब्याज सब्सिडी और वार्षिक क्रेडिट गारंटी शुल्क प्रतिपूर्ति के लिए आवेदक का दावा प्रस्तुत करना उस विशिष्ट तिमाही के लिए आर. आई. पी. एस. 2024 के तहत ब्याज सब्सिडी जारी होने के बाद ही पात्र है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * * आवेदन प्रक्रियाः * * * * * चरण 1: * * इच्छुक आवेदक आधिकारिक वेबसाइट से आवेदन पत्र [(अनुलग्नक 1.1)] (https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf) डाउनलोड करता है। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * 10 करोड़ रुपये तक के ऋण के लिए दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को संबंधित-महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को जमा करें। * *-आयुक्त, उद्योग और वाणिज्य, ₹10 करोड़ से अधिक के ऋण के लिए। * * * * नोटः * * आर. आई. पी. एस. 2024 के तहत ब्याज अनुदान की मंजूरी के 6 महीने के भीतर आवेदन जमा किया जाना चाहिए। * * * आवेदन के बाद की प्रक्रियाः * * * * * चरण 1: * * आवेदनों की समीक्षा जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) द्वारा 10 करोड़ रुपये तक के ऋण के लिए या उच्च स्तरीय कार्य बल समिति (एच. एल. टी. एफ. सी.) द्वारा उद्योग और वाणिज्य आयुक्त, राजस्थान सरकार की अध्यक्षता में की जाती है। * * चरण 2: * * अनुमोदन के बाद, आवेदक संबंधित जी. एम., डी. आई. सी. सी. को निर्धारित प्रपत्र में सी. ए. प्रमाणपत्र ([अनुलग्नक 1.2] (https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf) जमा करके सब्सिडी और प्रतिपूर्ति का दावा करेगा। * * चरण 3: जी. एम., डी. आई. सी. सी. स्वीकृत राशि का वितरण करता है। आवेदन जमा करने में देरी के मामले में, अनुमोदन समिति (डी. एल. टी. एफ. सी. या एच. एल. टी. एफ. सी.) अधिकतम 6 महीने तक की देरी को माफ करने का अधिकार सुरक्षित रखेगी, बशर्ते आवेदक लिखित रूप में देरी के वैध कारण प्रस्तुत करे। लाभों का वितरणः आवेदक निर्धारित सीए प्रमाणपत्र के अनुसार ब्याज सब्सिडी जारी करने के साथ-साथ वार्षिक क्रेडिट गारंटी शुल्क की प्रतिपूर्ति के लिए संबंधित जी. एम. डी. आई. सी. सी. को दावा प्रस्तुत करेगा। - संबंधित महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को डी. एल. टी. एफ. सी./एच. एल. टी. एफ. सी. की मंजूरी के प्रावधानों के अनुसार ब्याज सब्सिडी जारी करने के लिए अधिकृत किया जाएगा। * * नोटः * * ब्याज सब्सिडी और वार्षिक क्रेडिट गारंटी शुल्क प्रतिपूर्ति के लिए आवेदक का दावा प्रस्तुत करना उस विशिष्ट तिमाही के लिए आर. आई. पी. एस. 2024 के तहत ब्याज सब्सिडी जारी होने के बाद ही पात्र है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "निम्नलिखित प्रकार के लाभार्थी योजना के अनुसार अतिरिक्त ब्याज सब्सिडी के लिए पात्र होंगेः * * 1. आर. आई. पी. एस. 2024 के तहत आवेदक के लिए ब्याज अनुदान सब्सिडी को मंजूरी दी जानी चाहिए। और 1. लाभार्थी उद्यम निम्नलिखित में से किसी भी श्रेणी के अंतर्गत आना चाहिएः संबंधित जिलों में एक जिला एक उत्पाद (ओडीओपी) उद्यम.-अनुसूचित जाति (एससी)/अनुसूचित जनजाति (एसटी) या महिला उद्यमियों के स्वामित्व वाले उद्यम.-राज्य में 18 से 45 वर्ष की आयु वर्ग के युवा उद्यमियों को अधिकतम 10 करोड़ रुपये तक की ऋण राशि के साथ अपना नया उद्यम शुरू करने के लिए।-नए एमएसएमई की स्थापना या आरआईपीएस 2024 में परिभाषित क्षेत्र श्रेणी 3 में मौजूदा एमएसएमई का विस्तार/विविधीकरण/आधुनिकीकरण।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "निम्नलिखित प्रकार के लाभार्थी योजना के अनुसार अतिरिक्त ब्याज सब्सिडी के लिए पात्र होंगेः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आर. आई. पी. एस. 2024 के तहत आवेदक के लिए ब्याज अनुदान सब्सिडी को मंजूरी दी जानी चाहिए थी; और"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी उद्यम निम्नलिखित में से किसी भी श्रेणी के अंतर्गत आना चाहिएः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संबंधित जिलों में एक जिला एक उत्पाद (ओडीओपी) उद्यम।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुसूचित जाति (एससी)/अनुसूचित जनजाति (एसटी) या महिला उद्यमियों के स्वामित्व वाले उद्यम।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राज्य में 18 से 45 वर्ष की आयु वर्ग के युवा उद्यमियों को 10 करोड़ रुपये तक की अधिकतम ऋण राशि के साथ अपना नया उद्यम शुरू करने के लिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आर. आई. पी. एस. 2024 में परिभाषित क्षेत्र श्रेणी 3 में नए एम. एस. एम. ई. की स्थापना या मौजूदा एम. एस. एम. ई. का विस्तार/विविधीकरण/आधुनिकीकरण।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "निम्नलिखित प्रकार के लाभार्थी योजना के अनुसार अतिरिक्त ब्याज सब्सिडी के लिए पात्र होंगेः * * 1. आर. आई. पी. एस. 2024 के तहत आवेदक के लिए ब्याज अनुदान सब्सिडी को मंजूरी दी जानी चाहिए। और 1. लाभार्थी उद्यम निम्नलिखित में से किसी भी श्रेणी के अंतर्गत आना चाहिएः संबंधित जिलों में एक जिला एक उत्पाद (ओडीओपी) उद्यम.-अनुसूचित जाति (एससी)/अनुसूचित जनजाति (एसटी) या महिला उद्यमियों के स्वामित्व वाले उद्यम.-राज्य में 18 से 45 वर्ष की आयु वर्ग के युवा उद्यमियों को अधिकतम 10 करोड़ रुपये तक की ऋण राशि के साथ अपना नया उद्यम शुरू करने के लिए।-नए एमएसएमई की स्थापना या आरआईपीएस 2024 में परिभाषित क्षेत्र श्रेणी 3 में मौजूदा एमएसएमई का विस्तार/विविधीकरण/आधुनिकीकरण।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "निम्नलिखित प्रकार के लाभार्थी योजना के अनुसार अतिरिक्त ब्याज सब्सिडी के लिए पात्र होंगेः",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आर. आई. पी. एस. 2024 के तहत आवेदक के लिए ब्याज अनुदान सब्सिडी को मंजूरी दी जानी चाहिए थी; और"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी उद्यम निम्नलिखित में से किसी भी श्रेणी के अंतर्गत आना चाहिएः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "संबंधित जिलों में एक जिला एक उत्पाद (ओडीओपी) उद्यम।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अनुसूचित जाति (एससी)/अनुसूचित जनजाति (एसटी) या महिला उद्यमियों के स्वामित्व वाले उद्यम।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "राज्य में 18 से 45 वर्ष की आयु वर्ग के युवा उद्यमियों को 10 करोड़ रुपये तक की अधिकतम ऋण राशि के साथ अपना नया उद्यम शुरू करने के लिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आर. आई. पी. एस. 2024 में परिभाषित क्षेत्र श्रेणी 3 में नए एम. एस. एम. ई. की स्थापना या मौजूदा एम. एस. एम. ई. का विस्तार/विविधीकरण/आधुनिकीकरण।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Board Resolution/Power of attorney in the name of Authorized Signatory"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Udyam Registration Certificate (URC)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Application made under RIPS 2024 along with the Project Report submitted "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Loan sanction letter, repayment schedule(s), and disbursal schedule (till date of production) from lending institution/bank(s)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certification confirming utilization of loan for purchase of plant and machinery/equipment or apparatus"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of first bill of sale/supply"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Sanction/Approval Letter/EC issued for Interest Subvention under RIPS 2024"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Relevant certificates/documents confirming adherence to the eligibility criteria"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Undertaking/Declaration on non-judicial stamp paper as per "
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure 1.3"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Board Resolution/Power of attorney in the name of Authorized Signatory\n1. Udyam Registration Certificate (URC)\n1. Application made under RIPS 2024 along with the Project Report submitted \n1. Loan sanction letter, repayment schedule(s), and disbursal schedule (till date of production) from lending institution/bank(s)\n1. Certification confirming utilization of loan for purchase of plant and machinery/equipment or apparatus\n1. Copy of first bill of sale/supply\n1. Copy of Sanction/Approval Letter/EC issued for Interest Subvention under RIPS 2024\n1. Relevant certificates/documents confirming adherence to the eligibility criteria\n1. Undertaking/Declaration on non-judicial stamp paper as per [Annexure 1.3](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकृत हस्ताक्षरकर्ता के नाम पर बोर्ड संकल्प/पावर ऑफ अटॉर्नी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उद्यम पंजीकरण प्रमाणपत्र (यू. आर. सी.)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आर. आई. पी. एस. 2024 के तहत प्रस्तुत परियोजना रिपोर्ट के साथ किया गया आवेदन"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ऋण देने वाली संस्था/बैंक से ऋण स्वीकृति पत्र, पुनर्भुगतान अनुसूची और वितरण अनुसूची (उत्पादन की तारीख तक)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संयंत्र और मशीनरी/उपकरण या उपकरण की खरीद के लिए ऋण के उपयोग की पुष्टि करने वाला प्रमाणन"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बिक्री/आपूर्ति के पहले बिल की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आर. आई. पी. एस. 2024 के तहत ब्याज अनुदान के लिए जारी मंजूरी/अनुमोदन पत्र/ई. सी. की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पात्रता मानदंडों के पालन की पुष्टि करने वाले प्रासंगिक प्रमाण पत्र/दस्तावेज"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गैर-न्यायिक स्टाम्प पेपर पर उपक्रम/घोषणा"
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "अनुलग्नक 1.3"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Board Resolution/Power of attorney in the name of Authorized Signatory\n1. Udyam Registration Certificate (URC)\n1. Application made under RIPS 2024 along with the Project Report submitted \n1. Loan sanction letter, repayment schedule(s), and disbursal schedule (till date of production) from lending institution/bank(s)\n1. Certification confirming utilization of loan for purchase of plant and machinery/equipment or apparatus\n1. Copy of first bill of sale/supply\n1. Copy of Sanction/Approval Letter/EC issued for Interest Subvention under RIPS 2024\n1. Relevant certificates/documents confirming adherence to the eligibility criteria\n1. Undertaking/Declaration on non-judicial stamp paper as per [Annexure 1.3](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Enterprises approved for interest subvention under RIPS 2024 and meeting category-based eligibility."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Enterprises approved for interest subvention under RIPS 2024 and meeting category-based eligibility.\n"
+        },
+        {
+          "question": "What is the maximum additional interest subsidy offered?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Up to 2% additional over RIPS 2024 rates, based on loan size."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Up to 2% additional over RIPS 2024 rates, based on loan size.\n"
+        },
+        {
+          "question": "Is reimbursement of credit guarantee fee applicable for all loans?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only for collateral-free loans up to INR 5 Crores under CGTMSE."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only for collateral-free loans up to INR 5 Crores under CGTMSE.\n"
+        },
+        {
+          "question": "What is the reimbursement duration for guarantee fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For a maximum of 7 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "For a maximum of 7 years.\n"
+        },
+        {
+          "question": "What is the mode of application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Offline submission to GM DICC or Commissioner I&C, based on loan size."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Offline submission to GM DICC or Commissioner I&amp;C, based on loan size.\n"
+        },
+        {
+          "question": "What documents are needed to claim subsidy?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "CA Certificate, proof of interest paid, guarantee fee receipt, loan sanction, and RIPS approval."
+                }
+              ]
+            }
+          ],
+          "answer_md": "CA Certificate, proof of interest paid, guarantee fee receipt, loan sanction, and RIPS approval.\n"
+        },
+        {
+          "question": "Can enterprises outside Rajasthan apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the enterprise must be established in Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the enterprise must be established in Rajasthan.\n"
+        },
+        {
+          "question": "What if the application is delayed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Delay of up to 6 months may be condoned by DLTFC/HLTFC with valid reasons."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Delay of up to 6 months may be condoned by DLTFC/HLTFC with valid reasons.\n"
+        },
+        {
+          "question": "Is this applicable to both manufacturing and services?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, for enterprises engaged in both sectors."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, for enterprises engaged in both sectors.\n"
+        },
+        {
+          "question": "When can I submit the claim?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After the interest subsidy under RIPS 2024 for the respective quarter has been released."
+                }
+              ]
+            }
+          ],
+          "answer_md": "After the interest subsidy under RIPS 2024 for the respective quarter has been released.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के तहत कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आर. आई. पी. एस. 2024 के तहत ब्याज अनुदान और श्रेणी-आधारित पात्रता को पूरा करने के लिए उद्यमों को मंजूरी दी गई।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Enterprises approved for interest subvention under RIPS 2024 and meeting category-based eligibility.\n"
+        },
+        {
+          "question": "अधिकतम अतिरिक्त ब्याज सब्सिडी क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ऋण के आकार के आधार पर आर. आई. पी. एस. 2024 दरों पर 2 प्रतिशत तक अतिरिक्त।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Up to 2% additional over RIPS 2024 rates, based on loan size.\n"
+        },
+        {
+          "question": "क्या क्रेडिट गारंटी शुल्क की प्रतिपूर्ति सभी ऋणों के लिए लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल सी. जी. टी. एम. एस. ई. के तहत 5 करोड़ रुपये तक के संपार्श्विक-मुक्त ऋण के लिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only for collateral-free loans up to INR 5 Crores under CGTMSE.\n"
+        },
+        {
+          "question": "गारंटी शुल्क की प्रतिपूर्ति की अवधि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अधिकतम 7 वर्षों के लिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "For a maximum of 7 years.\n"
+        },
+        {
+          "question": "आवेदन का तरीका क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ऋण के आकार के आधार पर जी. एम. डी. आई. सी. सी. या आयुक्त आई. एंड. सी. को ऑफ़लाइन जमा करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Offline submission to GM DICC or Commissioner I&amp;C, based on loan size.\n"
+        },
+        {
+          "question": "सब्सिडी का दावा करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सीए प्रमाणपत्र, भुगतान किए गए ब्याज का प्रमाण, गारंटी शुल्क रसीद, ऋण मंजूरी और आर. आई. पी. एस. अनुमोदन।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "CA Certificate, proof of interest paid, guarantee fee receipt, loan sanction, and RIPS approval.\n"
+        },
+        {
+          "question": "क्या राजस्थान के बाहर के उद्यम आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, उद्यम राजस्थान में स्थापित किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the enterprise must be established in Rajasthan.\n"
+        },
+        {
+          "question": "आवेदन में देरी होने पर क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डी. एल. टी. एफ. सी./एच. एल. टी. एफ. सी. द्वारा वैध कारणों से 6 महीने तक की देरी को माफ किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Delay of up to 6 months may be condoned by DLTFC/HLTFC with valid reasons.\n"
+        },
+        {
+          "question": "क्या यह विनिर्माण और सेवा दोनों पर लागू होता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, दोनों क्षेत्रों में लगे उद्यमों के लिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, for enterprises engaged in both sectors.\n"
+        },
+        {
+          "question": "मैं कब दावा जमा कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संबंधित तिमाही के लिए आर. आई. पी. एस. 2024 के तहत ब्याज सब्सिडी जारी कर दी गई है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "After the interest subsidy under RIPS 2024 for the respective quarter has been released.\n"
+        }
+      ]
+    }
+  }
+}

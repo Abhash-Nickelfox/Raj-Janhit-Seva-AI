@@ -1,0 +1,1932 @@
+{
+  "scheme_id": "65d33347cd96dc5e07591aae",
+  "slug": "sbsky",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Girl",
+        "Labor",
+        "Financial Assistance"
+      ],
+      "schemeName": "Shubhshakti Yojana",
+      "schemeShortTitle": "SBSKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2016-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "Labour Department"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/Scheme/LAB_/SSY/DOC_221_3508d3ec-1148-4bd3-a9c9-612934bad740.pdf"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Shubshakti Yojana has been initiated by the Rajasthan government with the aim of providing financial assistance to regular construction workers, unmarried laborers, and their daughters. The primary objective of this scheme to support and strengthen the daughters of labour families in Rajasthan state. \n<br>\n\n",
+      "benefits_md": "\n- Receives a financial assistance of ₹55,000/-.\n- The amount is directly transferred to the beneficiary&#39;s bank account.\n- The funds can be used for various purposes, including:\n\n   1. Higher education\n   1. Vocational training\n   1. Starting a business\n   1. Skill development training\n   1. Marriage expenses\n\n\n",
+      "briefDescription": "The Shubshakti Yojana has been initiated by the Rajasthan government with the aim of providing financial assistance to regular construction workers, unmarried laborers, and their daughters.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Shubshakti Yojana has been initiated by the Rajasthan government with the aim of providing financial assistance to regular construction workers, unmarried laborers, and their daughters. The primary objective of this scheme to support and strengthen the daughters of labour families in Rajasthan state. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Receives a financial assistance of ₹55,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The amount is directly transferred to the beneficiary's bank account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The funds can be used for various purposes, including:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Higher education"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Vocational training"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Starting a business"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Skill development training"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Marriage expenses"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “LDMS” option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In LDMS, select \"Welfare Schemes\" from the side menu and select BOCW Welfare Board. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of \"Shubhshakti Yojana\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out the all relevant detail. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “LDMS” option.\n**Step-4:** In LDMS, select &quot;Welfare Schemes&quot; from the side menu and select BOCW Welfare Board. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of &quot;Shubhshakti Yojana&quot;\n**Step-7:** Fill out the all relevant detail. \n**Step-8:** Submit.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. One parent (either father or mother or both) must be registered as a beneficiary/construction worker for at least one year in the board.\n1. A maximum of two daughters of the beneficiary or the female beneficiary and her one daughter will be given the incentive amount.\n1. The female beneficiary must be unmarried or the beneficiary&#39;s daughter must be at least 18 years old and unmarried.\n1. The daughter of the beneficiary/female beneficiary must have passed at least the 8th standard.\n1. There should be a savings bank account in the name of the daughter of the beneficiary/female beneficiary.\n1. If the beneficiary has his own house, there should be a toilet in the house.\n1. The beneficiary must have worked as a construction worker for at least 90 days during the year before the application date.\n1. The incentive amount will be payable only after physical verification of the beneficiary being a construction worker, which can be done by various authorities.\n1. The incentive amount can be used by the female beneficiary/daughter for further education, vocational training, starting her own business, or for her own marriage, with proper counseling.\n1. The application for the scheme must be submitted in the prescribed form by the beneficiary after completing one year as a registered beneficiary, and the beneficiary&#39;s identity card must be valid/active at the time of application.\n1. Girls who have already received assistance under the Board&#39;s Marriage Assistance Scheme earlier will not be eligible for assistance under this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One parent (either father or mother or both) must be registered as a beneficiary/construction worker for at least one year in the board."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A maximum of two daughters of the beneficiary or the female beneficiary and her one daughter will be given the incentive amount."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The female beneficiary must be unmarried or the beneficiary's daughter must be at least 18 years old and unmarried."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The daughter of the beneficiary/female beneficiary must have passed at least the 8th standard."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "There should be a savings bank account in the name of the daughter of the beneficiary/female beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the beneficiary has his own house, there should be a toilet in the house."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary must have worked as a construction worker for at least 90 days during the year before the application date."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The incentive amount will be payable only after physical verification of the beneficiary being a construction worker, which can be done by various authorities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The incentive amount can be used by the female beneficiary/daughter for further education, vocational training, starting her own business, or for her own marriage, with proper counseling."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The application for the scheme must be submitted in the prescribed form by the beneficiary after completing one year as a registered beneficiary, and the beneficiary's identity card must be valid/active at the time of application."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Girls who have already received assistance under the Board's Marriage Assistance Scheme earlier will not be eligible for assistance under this scheme."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "लड़की",
+        "श्रम",
+        "वित्तीय सहायता"
+      ],
+      "schemeName": "शुभशक्ति योजना",
+      "schemeShortTitle": "SBSKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2016-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "श्रम विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/Scheme/LAB_/SSY/DOC_221_3508d3ec-1148-4bd3-a9c9-612934bad740.pdf"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार द्वारा नियमित निर्माण श्रमिकों, अविवाहित मजदूरों और उनकी बेटियों को वित्तीय सहायता प्रदान करने के उद्देश्य से शुभशक्ति योजना शुरू की गई है। इस योजना का प्राथमिक उद्देश्य राजस्थान राज्य में श्रमिक परिवारों की बेटियों का समर्थन करना और उन्हें मजबूत करना है",
+      "benefits_md": "- ₹55,000/- की वित्तीय सहायता प्राप्त करता है।-राशि सीधे लाभार्थी को हस्तांतरित की जाती है। बैंक खाता-निधियों का उपयोग विभिन्न उद्देश्यों के लिए किया जा सकता है, जिनमें शामिल हैंः 1. उच्च शिक्षा 1. व्यावसायिक प्रशिक्षण 1. 1. व्यवसाय शुरू करना। कौशल विकास प्रशिक्षण 1. शादी के खर्च",
+      "briefDescription": "राजस्थान सरकार द्वारा नियमित निर्माण श्रमिकों, अविवाहित मजदूरों और उनकी बेटियों को वित्तीय सहायता प्रदान करने के उद्देश्य से शुभशक्ति योजना शुरू की गई है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार द्वारा नियमित निर्माण श्रमिकों, अविवाहित मजदूरों और उनकी बेटियों को वित्तीय सहायता प्रदान करने के उद्देश्य से शुभशक्ति योजना शुरू की गई है। इस योजना का प्राथमिक उद्देश्य राजस्थान राज्य में श्रमिक परिवारों की बेटियों का समर्थन करना और उन्हें मजबूत करना है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹55,000/- की वित्तीय सहायता प्राप्त करता है"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह राशि सीधे लाभार्थी के बैंक खाते में हस्तांतरित की जाती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "धन का उपयोग विभिन्न उद्देश्यों के लिए किया जा सकता है, जिनमें शामिल हैंः"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उच्च शिक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "व्यावसायिक प्रशिक्षण"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एक व्यवसाय शुरू करें"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कौशल विकास प्रशिक्षण"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "शादी के खर्च"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"एल. डी. एम. एस\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "एल. डी. एम. एस. में, साइड मेन्यू से \"कल्याण योजनाएं\" चुनें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पेज पर राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की सूची मिलेगी, जिसमें से \"शुभशक्ति योजना\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। चरण-3: एल. डी. एम. एस. विकल्प पर क्लिक करें। * * चरण-4: एल. डी. एम. एस. में, साइड मेन्यू से कल्याण योजनाओं का चयन करें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की एक सूची मिलेगी, जिसमें से 'शुभशक्ति योजना' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें। <बीआर>"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "female"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. माता-पिता में से एक (या तो पिता या माता या दोनों) को बोर्ड में कम से कम एक वर्ष के लिए लाभार्थी/निर्माण श्रमिक के रूप में पंजीकृत होना चाहिए। 1. लाभार्थी या महिला लाभार्थी की अधिकतम दो बेटियां और उसकी एक बेटी को प्रोत्साहन राशि दी जाएगी। 1. महिला लाभार्थी अविवाहित होनी चाहिए या लाभार्थी की बेटी की आयु कम से कम 18 वर्ष और अविवाहित होनी चाहिए। 1. लाभार्थी/महिला लाभार्थी की बेटी को कम से कम 8वीं कक्षा उत्तीर्ण होना चाहिए। 1. लाभार्थी/महिला लाभार्थी की बेटी के नाम पर एक बचत बैंक खाता होना चाहिए। 1. यदि लाभार्थी का अपना घर है तो घर में शौचालय होना चाहिए। 1. लाभार्थी ने आवेदन की तारीख से पहले वर्ष के दौरान कम से कम 90 दिनों तक निर्माण श्रमिक के रूप में काम किया होना चाहिए। 1. प्रोत्साहन राशि का भुगतान लाभार्थी के निर्माण श्रमिक होने के भौतिक सत्यापन के बाद ही किया जाएगा, जो विभिन्न प्राधिकरणों द्वारा किया जा सकता है। 1. प्रोत्साहन राशि का उपयोग महिला लाभार्थी/बेटी द्वारा आगे की शिक्षा, व्यावसायिक प्रशिक्षण, अपना व्यवसाय शुरू करने या उचित परामर्श के साथ अपनी शादी के लिए किया जा सकता है। 1. योजना के लिए आवेदन एक पंजीकृत लाभार्थी के रूप में एक वर्ष पूरा करने के बाद लाभार्थी द्वारा निर्धारित प्रपत्र में जमा किया जाना चाहिए, और लाभार्थी का पहचान पत्र आवेदन के समय वैध/सक्रिय होना चाहिए। 1. जिन लड़कियों को पहले ही बोर्ड की विवाह सहायता योजना के तहत सहायता मिल चुकी है, वे इस योजना के तहत सहायता के लिए पात्र नहीं होंगी।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता में से एक (या तो पिता या माता या दोनों) को बोर्ड में कम से कम एक वर्ष के लिए लाभार्थी/निर्माण श्रमिक के रूप में पंजीकृत होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी या महिला लाभार्थी की अधिकतम दो बेटियां और उसकी एक बेटी को प्रोत्साहन राशि दी जाएगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "महिला लाभार्थी अविवाहित होनी चाहिए या लाभार्थी की बेटी की आयु कम से कम 18 वर्ष और अविवाहित होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी/महिला लाभार्थी की बेटी को कम से कम 8वीं कक्षा उत्तीर्ण होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी/महिला लाभार्थी की बेटी के नाम पर एक बचत बैंक खाता होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि लाभार्थी का अपना घर है तो घर में शौचालय होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी ने आवेदन की तारीख से पहले वर्ष के दौरान कम से कम 90 दिनों तक निर्माण श्रमिक के रूप में काम किया होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रोत्साहन राशि का भुगतान लाभार्थी के निर्माण श्रमिक होने के भौतिक सत्यापन के बाद ही किया जाएगा, जो विभिन्न प्राधिकरणों द्वारा किया जा सकता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रोत्साहन राशि का उपयोग महिला लाभार्थी/बेटी द्वारा आगे की शिक्षा, व्यावसायिक प्रशिक्षण, अपना व्यवसाय शुरू करने या उचित परामर्श के साथ अपनी शादी के लिए किया जा सकता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "योजना के लिए आवेदन एक पंजीकृत लाभार्थी के रूप में एक वर्ष पूरा करने के बाद लाभार्थी द्वारा निर्धारित प्रपत्र में जमा किया जाना चाहिए, और आवेदन के समय लाभार्थी का पहचान पत्र वैध/सक्रिय होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जिन लड़कियों को पहले ही बोर्ड की विवाह सहायता योजना के तहत सहायता मिल चुकी है, वे इस योजना के तहत सहायता के लिए पात्र नहीं होंगी।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "employmentStatus": {
+        "id": 2,
+        "value": "employed",
+        "label": "Employed"
+      },
+      "occupation": [
+        {
+          "value": "construction-worker",
+          "label": "Construction Worker"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "female"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. माता-पिता में से एक (या तो पिता या माता या दोनों) को बोर्ड में कम से कम एक वर्ष के लिए लाभार्थी/निर्माण श्रमिक के रूप में पंजीकृत होना चाहिए। 1. लाभार्थी या महिला लाभार्थी की अधिकतम दो बेटियां और उसकी एक बेटी को प्रोत्साहन राशि दी जाएगी। 1. महिला लाभार्थी अविवाहित होनी चाहिए या लाभार्थी की बेटी की आयु कम से कम 18 वर्ष और अविवाहित होनी चाहिए। 1. लाभार्थी/महिला लाभार्थी की बेटी को कम से कम 8वीं कक्षा उत्तीर्ण होना चाहिए। 1. लाभार्थी/महिला लाभार्थी की बेटी के नाम पर एक बचत बैंक खाता होना चाहिए। 1. यदि लाभार्थी का अपना घर है तो घर में शौचालय होना चाहिए। 1. लाभार्थी ने आवेदन की तारीख से पहले वर्ष के दौरान कम से कम 90 दिनों तक निर्माण श्रमिक के रूप में काम किया होना चाहिए। 1. प्रोत्साहन राशि का भुगतान लाभार्थी के निर्माण श्रमिक होने के भौतिक सत्यापन के बाद ही किया जाएगा, जो विभिन्न प्राधिकरणों द्वारा किया जा सकता है। 1. प्रोत्साहन राशि का उपयोग महिला लाभार्थी/बेटी द्वारा आगे की शिक्षा, व्यावसायिक प्रशिक्षण, अपना व्यवसाय शुरू करने या उचित परामर्श के साथ अपनी शादी के लिए किया जा सकता है। 1. योजना के लिए आवेदन एक पंजीकृत लाभार्थी के रूप में एक वर्ष पूरा करने के बाद लाभार्थी द्वारा निर्धारित प्रपत्र में जमा किया जाना चाहिए, और लाभार्थी का पहचान पत्र आवेदन के समय वैध/सक्रिय होना चाहिए। 1. जिन लड़कियों को पहले ही बोर्ड की विवाह सहायता योजना के तहत सहायता मिल चुकी है, वे इस योजना के तहत सहायता के लिए पात्र नहीं होंगी।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "माता-पिता में से एक (या तो पिता या माता या दोनों) को बोर्ड में कम से कम एक वर्ष के लिए लाभार्थी/निर्माण श्रमिक के रूप में पंजीकृत होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी या महिला लाभार्थी की अधिकतम दो बेटियां और उसकी एक बेटी को प्रोत्साहन राशि दी जाएगी।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "महिला लाभार्थी अविवाहित होनी चाहिए या लाभार्थी की बेटी की आयु कम से कम 18 वर्ष और अविवाहित होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी/महिला लाभार्थी की बेटी को कम से कम 8वीं कक्षा उत्तीर्ण होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी/महिला लाभार्थी की बेटी के नाम पर एक बचत बैंक खाता होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यदि लाभार्थी का अपना घर है तो घर में शौचालय होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी ने आवेदन की तारीख से पहले वर्ष के दौरान कम से कम 90 दिनों तक निर्माण श्रमिक के रूप में काम किया होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "प्रोत्साहन राशि का भुगतान लाभार्थी के निर्माण श्रमिक होने के भौतिक सत्यापन के बाद ही किया जाएगा, जो विभिन्न प्राधिकरणों द्वारा किया जा सकता है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "प्रोत्साहन राशि का उपयोग महिला लाभार्थी/बेटी द्वारा आगे की शिक्षा, व्यावसायिक प्रशिक्षण, अपना व्यवसाय शुरू करने या उचित परामर्श के साथ अपनी शादी के लिए किया जा सकता है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "योजना के लिए आवेदन एक पंजीकृत लाभार्थी के रूप में एक वर्ष पूरा करने के बाद लाभार्थी द्वारा निर्धारित प्रपत्र में जमा किया जाना चाहिए, और आवेदन के समय लाभार्थी का पहचान पत्र वैध/सक्रिय होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "जिन लड़कियों को पहले ही बोर्ड की विवाह सहायता योजना के तहत सहायता मिल चुकी है, वे इस योजना के तहत सहायता के लिए पात्र नहीं होंगी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "employmentStatus": {
+      "id": 2,
+      "value": "employed",
+      "label": "Employed"
+    },
+    "occupation": [
+      {
+        "value": "construction-worker",
+        "label": "Construction Worker"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of beneficiary's registration identity card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank passbook front page copy (Account holder name, Account No, IFSC code)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card or Copy of Bhamashah Card (Optional)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary's daughter's birth certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "8th class mark sheet (Issued by the private school recognized by the state or state government)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport size photo."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of beneficiary&#39;s registration identity card.\n1. Bank passbook front page copy (Account holder name, Account No, IFSC code).\n1. Aadhaar Card or Copy of Bhamashah Card (Optional).\n1. Beneficiary&#39;s daughter&#39;s birth certificate.\n1. 8th class mark sheet (Issued by the private school recognized by the state or state government).\n1. Passport size photo.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी के पंजीकरण पहचान पत्र की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक के पहले पृष्ठ की प्रति (खाता धारक का नाम, खाता संख्या, आईएफएससी कोड)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड या भामाशाह कार्ड की प्रति (वैकल्पिक)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी की बेटी का जन्म प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "8वीं कक्षा की मार्कशीट (राज्य या राज्य सरकार द्वारा मान्यता प्राप्त निजी विद्यालय द्वारा जारी)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of beneficiary&#39;s registration identity card.\n1. Bank passbook front page copy (Account holder name, Account No, IFSC code).\n1. Aadhaar Card or Copy of Bhamashah Card (Optional).\n1. Beneficiary&#39;s daughter&#39;s birth certificate.\n1. 8th class mark sheet (Issued by the private school recognized by the state or state government).\n1. Passport size photo.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the goal of the Shubh Shakti Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme empowers construction workers’ daughters by supporting their education, entrepreneurship, and financial support.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme empowers construction workers' daughters by supporting their education, entrepreneurship, and financial support.\n\n"
+        },
+        {
+          "question": "Who qualifies for the Shubh Shakti Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme is open to the daughters of Rajasthan construction employees. A daughter must be at least 18 during she marries.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme is open to the daughters of Rajasthan construction employees. A daughter must be at least 18 during she marries.\n\n"
+        },
+        {
+          "question": "How much financial assistance is provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eligible girls receive financial aid of ₹ 55,000/- at the time of their marriage. The scheme also offers financial assistance for education and entrepreneurship purposes."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible girls receive financial aid of [?] 55,000/- at the time of their marriage. The scheme also offers financial assistance for education and entrepreneurship purposes.\n"
+        },
+        {
+          "question": "What are the scheme’s long-term advantages?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The program aims to give financial security throughout marriages, promote education, and provide girls with entrepreneurial options. It supports female equality, economic progress, and self-sufficiency.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The program aims to give financial security throughout marriages, promote education, and provide girls with entrepreneurial options. It supports female equality, economic progress, and self-sufficiency.\n\n"
+        },
+        {
+          "question": "How does the scheme impact education among girls?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Shubh Shakti Yojana offers financial assistance for education, enabling girls to pursue their academic aspirations. It removes financial barriers and helps them acquire the knowledge, skills, and qualifications necessary for a successful future."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Shubh Shakti Yojana offers financial assistance for education, enabling girls to pursue their academic aspirations. It removes financial barriers and helps them acquire the knowledge, skills, and qualifications necessary for a successful future.\n"
+        },
+        {
+          "question": "Is there an age limit for the daughters of construction employees under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The daughter must be 18 when she marries to qualify for the plan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The daughter must be 18 when she marries to qualify for the plan.\n"
+        },
+        {
+          "question": "Is the Shubh Shakti Yojana only applicable in Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the scheme is currently limited to Rajasthan. Similar schemes, with varied objectives and components, may be implemented in other states.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the scheme is currently limited to Rajasthan. Similar schemes, with varied objectives and components, may be implemented in other states.\n\n"
+        },
+        {
+          "question": "Can the financial assistance be used for purposes other than marriage?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, in addition to marriage assistance, the scheme provides financial aid for education and entrepreneurship. The girls can utilize the assistance for educational expenses or to start their businesses.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, in addition to marriage assistance, the scheme provides financial aid for education and entrepreneurship. The girls can utilize the assistance for educational expenses or to start their businesses.\n\n"
+        },
+        {
+          "question": "Under the Shubh Shakti Yojana, how many daughters get money on their marriage?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A maximum of ₹55000 is given on the marriage of a maximum of 2 daughters of a family."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A maximum of [?]55000 is given on the marriage of a maximum of 2 daughters of a family.\n"
+        },
+        {
+          "question": "Will the benefit of this scheme be provided to all the citizens of the state?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state.\n\n"
+        },
+        {
+          "question": "How to apply online for Shubh Shakti Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "By logging in to the SSO portal of Rajasthan, an online application for the Shubh Shakti Yojana can be made by visiting the LDMS option."
+                }
+              ]
+            }
+          ],
+          "answer_md": "By logging in to the SSO portal of Rajasthan, an online application for the Shubh Shakti Yojana can be made by visiting the LDMS option.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "शुभ शक्ति योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना निर्माण श्रमिकों की बेटियों को उनकी शिक्षा, उद्यमिता और वित्तीय सहायता का समर्थन करके सशक्त बनाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme empowers construction workers' daughters by supporting their education, entrepreneurship, and financial support.\n\n"
+        },
+        {
+          "question": "शुभ शक्ति योजना के लिए कौन योग्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना राजस्थान के निर्माण कर्मचारियों की बेटियों के लिए खुली है। विवाह के दौरान बेटी की आयु कम से कम 18 वर्ष होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme is open to the daughters of Rajasthan construction employees. A daughter must be at least 18 during she marries.\n\n"
+        },
+        {
+          "question": "इस योजना के तहत कितनी वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्य लड़कियों को उनकी शादी के समय ₹55,000/- की वित्तीय सहायता मिलती है। यह योजना शिक्षा और उद्यमिता उद्देश्यों के लिए वित्तीय सहायता भी प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible girls receive financial aid of [?] 55,000/- at the time of their marriage. The scheme also offers financial assistance for education and entrepreneurship purposes.\n"
+        },
+        {
+          "question": "इस योजना के दीर्घकालिक लाभ क्या हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस कार्यक्रम का उद्देश्य पूरे विवाह में वित्तीय सुरक्षा देना, शिक्षा को बढ़ावा देना और लड़कियों को उद्यमशीलता के विकल्प प्रदान करना है। यह महिला समानता, आर्थिक प्रगति और आत्मनिर्भरता का समर्थन करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The program aims to give financial security throughout marriages, promote education, and provide girls with entrepreneurial options. It supports female equality, economic progress, and self-sufficiency.\n\n"
+        },
+        {
+          "question": "यह योजना लड़कियों की शिक्षा को कैसे प्रभावित करती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "शुभ शक्ति योजना शिक्षा के लिए वित्तीय सहायता प्रदान करती है, जिससे लड़कियां अपनी शैक्षणिक आकांक्षाओं को पूरा कर सकती हैं। यह वित्तीय बाधाओं को दूर करता है और उन्हें सफल भविष्य के लिए आवश्यक ज्ञान, कौशल और योग्यता प्राप्त करने में मदद करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Shubh Shakti Yojana offers financial assistance for education, enabling girls to pursue their academic aspirations. It removes financial barriers and helps them acquire the knowledge, skills, and qualifications necessary for a successful future.\n"
+        },
+        {
+          "question": "क्या इस योजना के तहत निर्माण कर्मचारियों की बेटियों के लिए कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना के लिए अर्हता प्राप्त करने के लिए बेटी को 18 वर्ष की होनी चाहिए जब वह शादी करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The daughter must be 18 when she marries to qualify for the plan.\n"
+        },
+        {
+          "question": "क्या शुभ शक्ति योजना केवल राजस्थान में लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यह योजना वर्तमान में राजस्थान तक ही सीमित है। विभिन्न उद्देश्यों और घटकों के साथ इसी तरह की योजनाओं को अन्य राज्यों में लागू किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the scheme is currently limited to Rajasthan. Similar schemes, with varied objectives and components, may be implemented in other states.\n\n"
+        },
+        {
+          "question": "क्या वित्तीय सहायता का उपयोग विवाह के अलावा अन्य उद्देश्यों के लिए किया जा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, विवाह सहायता के अलावा, यह योजना शिक्षा और उद्यमिता के लिए वित्तीय सहायता प्रदान करती है। लड़कियाँ इस सहायता का उपयोग शैक्षिक खर्चों के लिए या अपना व्यवसाय शुरू करने के लिए कर सकती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, in addition to marriage assistance, the scheme provides financial aid for education and entrepreneurship. The girls can utilize the assistance for educational expenses or to start their businesses.\n\n"
+        },
+        {
+          "question": "शुभ शक्ति योजना के तहत, कितनी बेटियों को उनकी शादी पर पैसे मिलते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक परिवार की अधिकतम 2 बेटियों की शादी पर अधिकतम 55000 रुपये दिए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A maximum of [?]55000 is given on the marriage of a maximum of 2 daughters of a family.\n"
+        },
+        {
+          "question": "क्या इस योजना का लाभ राज्य के सभी नागरिकों को मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना का लाभ केवल राजस्थान राज्य के श्रमिक परिवार की अविवाहित बेटियों को ही दिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state.\n\n"
+        },
+        {
+          "question": "शुभ शक्ति योजना के लिए ऑनलाइन आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के एसएसओ पोर्टल पर लॉग इन करके, एलडीएमएस विकल्प पर जाकर शुभ शक्ति योजना के लिए एक ऑनलाइन आवेदन किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "By logging in to the SSO portal of Rajasthan, an online application for the Shubh Shakti Yojana can be made by visiting the LDMS option.\n"
+        }
+      ]
+    }
+  }
+}

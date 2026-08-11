@@ -1,0 +1,1505 @@
+{
+  "scheme_id": "67f1512a47fce4bdae1f3dfa",
+  "slug": "usr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Scholarship",
+        "Girl Student",
+        "Undergraduate",
+        "Postgraduate",
+        "Urdu"
+      ],
+      "schemeName": "Urdu Scholarship- Rajasthan",
+      "schemeShortTitle": "USR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000045,
+        "label": "Higher Education Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://hte.rajasthan.gov.in/scholarship/2301202102.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://jansoochna.rajasthan.gov.in/"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://hte.rajasthan.gov.in/files/uploads/offline-forms.pdf"
+        },
+        {
+          "title": "Application Form - New",
+          "url": "https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_new.pdf"
+        },
+        {
+          "title": "Application Form - Renewal",
+          "url": "https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_renew.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Urdu Scholarship&amp;quot; scheme was introduced by the Higher Education Department, Government of Rajasthan, aims to promote the Urdu language by providing financial assistance to students who study Urdu as an optional subject. At the graduation level, the scholarship is exclusively available to girl students who have secured at least 50% marks in their qualifying examination and are studying Urdu as an optional subject. At the postgraduate level, both male and female students are eligible, provided they have passed their graduation or post-graduation examination with at least a second division and have opted for Urdu as a subject. It is mandatory for all applicants to study Urdu as an optional subject to be eligible for this scholarship.\n",
+      "benefits_md": "\n- A monthly scholarship of ₹100/- for students studying Urdu at the undergraduate level.\n- A monthly scholarship of ₹150/- for students studying Urdu at the postgraduate level.\n\n",
+      "briefDescription": "The scheme aims to promote the Urdu language among female students at the undergraduate and postgraduate levels. Under this scheme, a monthly scholarship is provided to undergraduate and postgraduate students who are studying Urdu as an optional subject.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Urdu Scholarship\" scheme was introduced by the Higher Education Department, Government of Rajasthan, aims to promote the Urdu language by providing financial assistance to students who study Urdu as an optional subject. At the graduation level, the scholarship is exclusively available to girl students who have secured at least 50% marks in their qualifying examination and are studying Urdu as an optional subject. At the postgraduate level, both male and female students are eligible, provided they have passed their graduation or post-graduation examination with at least a second division and have opted for Urdu as a subject. It is mandatory for all applicants to study Urdu as an optional subject to be eligible for this scholarship."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A monthly scholarship of ₹100/- for students studying Urdu at the undergraduate level."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A monthly scholarship of ₹150/- for students studying Urdu at the postgraduate level."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should download the "
+              },
+              {
+                "type": "link",
+                "link": "https://hte.rajasthan.gov.in/files/uploads/offline-forms.pdf",
+                "children": [
+                  {
+                    "text": "application form"
+                  }
+                ]
+              },
+              {
+                "text": " from the "
+              },
+              {
+                "type": "link",
+                "link": "https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_new.pdf",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the related college. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the related college to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE: ",
+                "bold": true
+              },
+              {
+                "text": "Incomplete or outdated applications will be rejected."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Post Application Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The college will forward the application to the Higher Education Department, Rajasthan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Renewal Process:",
+                "underline": true,
+                "italic": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Only those students who were sanctioned a new scholarship in the previous year are eligible for renewal. ("
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_renew.pdf",
+                    "children": [
+                      {
+                        "text": "Renewal Form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "To qualify, they must have secured at least 50% marks and passed in second division in their last examination."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** The applicant should download the [application form](https://hte.rajasthan.gov.in/files/uploads/offline-forms.pdf) from the [official website](https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_new.pdf).\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the related college. \n**Step 4:** Request a receipt or acknowledgment from the related college to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n**NOTE:** Incomplete or outdated applications will be rejected.\n***Post Application Process:***\nThe college will forward the application to the Higher Education Department, Rajasthan.\n***Renewal Process:***\n\n- Only those students who were sanctioned a new scholarship in the previous year are eligible for renewal. ([Renewal Form](https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_renew.pdf))- To qualify, they must have secured at least 50% marks and passed in second division in their last examination.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Rajasthan.\n   1. At graduation level, only female students are eligible.\n   1. At post-graduation level, both male and female students are eligible.\n   1. The applicant should be studying Urdu as an optional subject at the graduation or post-graduation level.\n   1. For graduation level applicants, a minimum of 50% marks in the previous qualifying examination is required.\n   1. For post-graduation level applicants, the student should have passed graduation/post-graduation with at least second division.\n   1. It is mandatory to study Urdu as a subject to receive the scholarship.\n   1. The scholarship is applicable only for those who are regularly enrolled in recognized colleges/universities.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "At graduation level, only female students are eligible."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "At post-graduation level, both male and female students are eligible."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be studying Urdu as an optional subject at the graduation or post-graduation level."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For graduation level applicants, a minimum of 50% marks in the previous qualifying examination is required."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For post-graduation level applicants, the student should have passed graduation/post-graduation with at least second division."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "It is mandatory to study Urdu as a subject to receive the scholarship."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The scholarship is applicable only for those who are regularly enrolled in recognized colleges/universities."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "छात्रवृत्ति",
+        "छात्रा",
+        "स्नातक",
+        "स्नातकोत्तर",
+        "उर्दू"
+      ],
+      "schemeName": "उर्दू छात्रवृत्ति-राजस्थान",
+      "schemeShortTitle": "USR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000045,
+        "label": "उच्च शिक्षा विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://hte.rajasthan.gov.in/scholarship/2301202102.pdf"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://jansoochna.rajasthan.gov.in/"
+        },
+        {
+          "title": "आवेदन पत्र",
+          "url": "https://hte.rajasthan.gov.in/files/uploads/offline-forms.pdf"
+        },
+        {
+          "title": "आवेदन पत्र-नया",
+          "url": "https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_new.pdf"
+        },
+        {
+          "title": "आवेदन पत्र-नवीनीकरण",
+          "url": "https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_renew.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के उच्च शिक्षा विभाग द्वारा शुरू की गई उर्दू छात्रवृत्ति योजना का उद्देश्य वैकल्पिक विषय के रूप में उर्दू का अध्ययन करने वाले छात्रों को वित्तीय सहायता प्रदान करके उर्दू भाषा को बढ़ावा देना है। स्नातक स्तर पर, छात्रवृत्ति विशेष रूप से उन लड़कियों के लिए उपलब्ध है जिन्होंने अपनी योग्यता परीक्षा में कम से कम 50 प्रतिशत अंक प्राप्त किए हैं और एक वैकल्पिक विषय के रूप में उर्दू का अध्ययन कर रही हैं। स्नातकोत्तर स्तर पर, पुरुष और महिला दोनों छात्र पात्र हैं, बशर्ते कि उन्होंने कम से कम द्वितीय श्रेणी के साथ अपनी स्नातक या स्नातकोत्तर परीक्षा उत्तीर्ण की हो और उर्दू को एक विषय के रूप में चुना हो। इस छात्रवृत्ति के लिए पात्र होने के लिए सभी आवेदकों के लिए एक वैकल्पिक विषय के रूप में उर्दू का अध्ययन करना अनिवार्य है।",
+      "benefits_md": "स्नातक स्तर पर उर्दू का अध्ययन करने वाले छात्रों के लिए ₹100/- की मासिक छात्रवृत्ति। स्नातकोत्तर स्तर पर उर्दू का अध्ययन करने वाले छात्रों के लिए ₹150/- की मासिक छात्रवृत्ति।",
+      "briefDescription": "इस योजना का उद्देश्य स्नातक और स्नातकोत्तर स्तर पर महिला छात्रों के बीच उर्दू भाषा को बढ़ावा देना है। इस योजना के तहत, वैकल्पिक विषय के रूप में उर्दू का अध्ययन करने वाले स्नातक और स्नातकोत्तर छात्रों को मासिक छात्रवृत्ति प्रदान की जाती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"उर्दू छात्रवृत्ति\" योजना राजस्थान सरकार के उच्च शिक्षा विभाग द्वारा शुरू की गई थी, जिसका उद्देश्य वैकल्पिक विषय के रूप में उर्दू का अध्ययन करने वाले छात्रों को वित्तीय सहायता प्रदान करके उर्दू भाषा को बढ़ावा देना है। स्नातक स्तर पर, छात्रवृत्ति विशेष रूप से उन लड़कियों के लिए उपलब्ध है जिन्होंने अपनी योग्यता परीक्षा में कम से कम 50 प्रतिशत अंक प्राप्त किए हैं और एक वैकल्पिक विषय के रूप में उर्दू का अध्ययन कर रही हैं। स्नातकोत्तर स्तर पर, पुरुष और महिला दोनों छात्र पात्र हैं, बशर्ते कि उन्होंने कम से कम द्वितीय श्रेणी के साथ अपनी स्नातक या स्नातकोत्तर परीक्षा उत्तीर्ण की हो और उर्दू को एक विषय के रूप में चुना हो। इस छात्रवृत्ति के लिए पात्र होने के लिए सभी आवेदकों के लिए एक वैकल्पिक विषय के रूप में उर्दू का अध्ययन करना अनिवार्य है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातक स्तर पर उर्दू का अध्ययन करने वाले छात्रों के लिए ₹100/- की मासिक छात्रवृत्ति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातकोत्तर स्तर पर उर्दू का अध्ययन करने वाले छात्रों के लिए ₹150/- की मासिक छात्रवृत्ति।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को डाउनलोड करना चाहिए"
+              },
+              {
+                "type": "link",
+                "link": "https://hte.rajasthan.gov.in/files/uploads/offline-forms.pdf",
+                "children": [
+                  {
+                    "text": "आवेदन पत्र"
+                  }
+                ]
+              },
+              {
+                "text": "से"
+              },
+              {
+                "type": "link",
+                "link": "https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_new.pdf",
+                "children": [
+                  {
+                    "text": "आधिकारिक वेबसाइट"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को संबंधित कॉलेज में जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित कॉलेज से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोटः",
+                "bold": true
+              },
+              {
+                "text": "अधूरे या पुराने आवेदनों को अस्वीकार कर दिया जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "पोस्ट आवेदन प्रक्रियाः",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "कॉलेज आवेदन को उच्च शिक्षा विभाग, राजस्थान को भेजेगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नवीनीकरण प्रक्रियाः",
+                "underline": true,
+                "italic": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "केवल वे छात्र जिन्हें पिछले वर्ष नई छात्रवृत्ति स्वीकृत की गई थी, वे नवीनीकरण के लिए पात्र हैं"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_renew.pdf",
+                    "children": [
+                      {
+                        "text": "नवीनीकरण प्रपत्र"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अर्हता प्राप्त करने के लिए, उन्हें कम से कम 50 प्रतिशत अंक प्राप्त करने चाहिए और अपनी पिछली परीक्षा में द्वितीय श्रेणी में उत्तीर्ण होना चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * * आवेदन प्रक्रियाः * * * * * चरण 1: * * आवेदक को [आधिकारिक वेबसाइट] (https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_new.pdf) से [आवेदन पत्र] (https://hte.rajasthan.gov.in/files/uploads/offline-forms.pdf) डाउनलोड करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को संबंधित कॉलेज में जमा करें। * * चरण 4: * * संबंधित कॉलेज से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। * * नोटः * अधूरे या पुराने आवेदन अस्वीकार कर दिए जाएंगे। पोस्ट आवेदन प्रक्रियाः कॉलेज आवेदन को उच्च शिक्षा विभाग, राजस्थान को भेज देगा। नवीनीकरण प्रक्रियाः केवल वही छात्र जिन्हें पिछले वर्ष नई छात्रवृत्ति स्वीकृत की गई थी, वे नवीनीकरण के लिए पात्र हैं। ([नवीनीकरण प्रपत्र] (https://collegeeducation.rajasthan.gov.in/httpdocs/scholarships/sch_urdu_renew.pdf))-अर्हता प्राप्त करने के लिए, उन्हें कम से कम 50 प्रतिशत अंक प्राप्त करने चाहिए और अपनी पिछली परीक्षा में द्वितीय श्रेणी में उत्तीर्ण होना चाहिए।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 15,
+          "lte": 45
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": 50,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": 50,
+          "score_lte": 100
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. स्नातक स्तर पर, केवल महिला छात्र ही पात्र हैं। 1. स्नातकोत्तर स्तर पर, पुरुष और महिला दोनों छात्र पात्र हैं। 1. आवेदक को स्नातक या स्नातकोत्तर स्तर पर वैकल्पिक विषय के रूप में उर्दू का अध्ययन करना चाहिए। 1. स्नातक स्तर के आवेदकों के लिए, पिछली योग्यता परीक्षा में न्यूनतम 50 प्रतिशत अंक आवश्यक हैं। 1. स्नातकोत्तर स्तर के आवेदकों के लिए, छात्र को कम से कम द्वितीय श्रेणी के साथ स्नातक/स्नातकोत्तर उत्तीर्ण होना चाहिए। 1. छात्रवृत्ति प्राप्त करने के लिए एक विषय के रूप में उर्दू का अध्ययन करना अनिवार्य है। 1. छात्रवृत्ति केवल उन लोगों के लिए लागू होती है जो नियमित रूप से मान्यता प्राप्त कॉलेजों/विश्वविद्यालयों में नामांकित होते हैं।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्नातक स्तर पर, केवल महिला छात्र ही पात्र हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्नातकोत्तर स्तर पर, पुरुष और महिला दोनों छात्र पात्र हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को स्नातक या स्नातकोत्तर स्तर पर वैकल्पिक विषय के रूप में उर्दू का अध्ययन करना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्नातक स्तर के आवेदकों के लिए, पिछली योग्यता परीक्षा में न्यूनतम 50 प्रतिशत अंक आवश्यक हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्नातकोत्तर स्तर के आवेदकों के लिए, छात्र को कम से कम द्वितीय श्रेणी के साथ स्नातक/स्नातकोत्तर उत्तीर्ण होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्रवृत्ति प्राप्त करने के लिए एक विषय के रूप में उर्दू का अध्ययन करना अनिवार्य है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्रवृत्ति केवल उन लोगों के लिए लागू होती है जो नियमित रूप से मान्यता प्राप्त कॉलेजों/विश्वविद्यालयों में नामांकित होते हैं।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        },
+        {
+          "value": "male",
+          "label": "पुरुष"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 15,
+        "lte": 45
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": 50,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": 50,
+        "score_lte": 100
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. स्नातक स्तर पर, केवल महिला छात्र ही पात्र हैं। 1. स्नातकोत्तर स्तर पर, पुरुष और महिला दोनों छात्र पात्र हैं। 1. आवेदक को स्नातक या स्नातकोत्तर स्तर पर वैकल्पिक विषय के रूप में उर्दू का अध्ययन करना चाहिए। 1. स्नातक स्तर के आवेदकों के लिए, पिछली योग्यता परीक्षा में न्यूनतम 50 प्रतिशत अंक आवश्यक हैं। 1. स्नातकोत्तर स्तर के आवेदकों के लिए, छात्र को कम से कम द्वितीय श्रेणी के साथ स्नातक/स्नातकोत्तर उत्तीर्ण होना चाहिए। 1. छात्रवृत्ति प्राप्त करने के लिए एक विषय के रूप में उर्दू का अध्ययन करना अनिवार्य है। 1. छात्रवृत्ति केवल उन लोगों के लिए लागू होती है जो नियमित रूप से मान्यता प्राप्त कॉलेजों/विश्वविद्यालयों में नामांकित होते हैं।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "स्नातक स्तर पर, केवल महिला छात्र ही पात्र हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "स्नातकोत्तर स्तर पर, पुरुष और महिला दोनों छात्र पात्र हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को स्नातक या स्नातकोत्तर स्तर पर वैकल्पिक विषय के रूप में उर्दू का अध्ययन करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "स्नातक स्तर के आवेदकों के लिए, पिछली योग्यता परीक्षा में न्यूनतम 50 प्रतिशत अंक आवश्यक हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "स्नातकोत्तर स्तर के आवेदकों के लिए, छात्र को कम से कम द्वितीय श्रेणी के साथ स्नातक/स्नातकोत्तर उत्तीर्ण होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्रवृत्ति प्राप्त करने के लिए एक विषय के रूप में उर्दू का अध्ययन करना अनिवार्य है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्रवृत्ति केवल उन लोगों के लिए लागू होती है जो नियमित रूप से मान्यता प्राप्त कॉलेजों/विश्वविद्यालयों में नामांकित होते हैं।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      },
+      {
+        "value": "male",
+        "label": "पुरुष"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport-size Photo"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Secondary Examination Marksheet/Birth Certificate (self-attested copy)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate (issued by relevant authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certified Copy of the Mark Sheet of the Previous Examination"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Resident Certificate (issued by relevant authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Admission Form in the Prescribed Format (indicating date of admission)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Hostel Certificate (signed by the warden and attested by the Head of the Institution, (if applicable)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Photocopy of the Bank Passbook (indicating student’s name, account number, IFSC code, and bank details)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Secondary Examination Marksheet/Birth Certificate (self-attested copy)\n1. Caste Certificate (issued by relevant authority)\n1. Aadhaar Card\n1. Jan Aadhaar Card\n1. Income Certificate\n1. Certified Copy of the Mark Sheet of the Previous Examination\n1. Resident Certificate (issued by relevant authority)\n1. Admission Form in the Prescribed Format (indicating date of admission)\n1. Hostel Certificate (signed by the warden and attested by the Head of the Institution, (if applicable)\n1. Photocopy of the Bank Passbook (indicating student’s name, account number, IFSC code, and bank details)\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माध्यमिक परीक्षा मार्कशीट/जन्म प्रमाण पत्र (स्व-सत्यापित प्रति)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र (संबंधित प्राधिकारी द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछली परीक्षा की मार्कशीट की प्रमाणित प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निवासी प्रमाण पत्र (संबंधित प्राधिकारी द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्धारित प्रारूप में प्रवेश प्रपत्र (प्रवेश की तारीख दर्शाता है)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रावास प्रमाणपत्र (वार्डन द्वारा हस्ताक्षरित और संस्थान के प्रमुख द्वारा सत्यापित, (यदि लागू हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की फोटोकॉपी (छात्र का नाम, खाता संख्या, आईएफएससी कोड और बैंक विवरण दर्शाती है)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Secondary Examination Marksheet/Birth Certificate (self-attested copy)\n1. Caste Certificate (issued by relevant authority)\n1. Aadhaar Card\n1. Jan Aadhaar Card\n1. Income Certificate\n1. Certified Copy of the Mark Sheet of the Previous Examination\n1. Resident Certificate (issued by relevant authority)\n1. Admission Form in the Prescribed Format (indicating date of admission)\n1. Hostel Certificate (signed by the warden and attested by the Head of the Institution, (if applicable)\n1. Photocopy of the Bank Passbook (indicating student’s name, account number, IFSC code, and bank details)\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the Urdu Scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scholarship is payable only to girl students at the graduation level and to both male and female students at the post-graduation level, provided they are studying Urdu as an optional subject."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scholarship is payable only to girl students at the graduation level and to both male and female students at the post-graduation level, provided they are studying Urdu as an optional subject.\n"
+        },
+        {
+          "question": "What is the amount of the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scholarship amount is ₹100/- per month for degree-level students and ₹150/- per month for postgraduate students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scholarship amount is ₹100/- per month for degree-level students and ₹150/- per month for postgraduate students.\n"
+        },
+        {
+          "question": "Is it mandatory to study Urdu to receive the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, studying Urdu as an optional subject is mandatory for all applicants at both graduation and post-graduation levels."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, studying Urdu as an optional subject is mandatory for all applicants at both graduation and post-graduation levels.\n"
+        },
+        {
+          "question": "Is there any minimum academic requirement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant must secure at least 50% marks and pass in second division."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must secure at least 50% marks and pass in second division.\n"
+        },
+        {
+          "question": "Can a student receiving another government scholarship apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, students receiving any other government scholarship are not eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students receiving any other government scholarship are not eligible.\n"
+        },
+        {
+          "question": "Is the scholarship renewed automatically every year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, students must apply for renewal and meet academic requirements."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students must apply for renewal and meet academic requirements.\n"
+        },
+        {
+          "question": "Is there any income limit to apply for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, students are required to submit an income affidavit certified by a First Class Magistrate or a Notary Public."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students are required to submit an income affidavit certified by a First Class Magistrate or a Notary Public.\n"
+        },
+        {
+          "question": "Can a student from another state apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only native residents of Rajasthan are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only native residents of Rajasthan are eligible.\n"
+        },
+        {
+          "question": "Can a student apply for the scholarship in the second or third year of study?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if the student was sanctioned the scholarship in the previous year and fulfills the renewal criteria."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if the student was sanctioned the scholarship in the previous year and fulfills the renewal criteria.\n"
+        },
+        {
+          "question": "What happens if I fail to secure 50% marks?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant will not be eligible for renewal."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will not be eligible for renewal.\n"
+        },
+        {
+          "question": "What are the conditions for renewal of the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only those who received the scholarship last year and secured at least 50% marks with a second division pass are eligible for renewal."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only those who received the scholarship last year and secured at least 50% marks with a second division pass are eligible for renewal.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "उर्दू छात्रवृत्ति के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति केवल स्नातक स्तर पर लड़कियों और स्नातकोत्तर स्तर पर पुरुष और महिला दोनों छात्रों को देय है, बशर्ते वे एक वैकल्पिक विषय के रूप में उर्दू का अध्ययन कर रहे हों।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scholarship is payable only to girl students at the graduation level and to both male and female students at the post-graduation level, provided they are studying Urdu as an optional subject.\n"
+        },
+        {
+          "question": "छात्रवृत्ति की राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति राशि डिग्री स्तर के छात्रों के लिए ₹100/- प्रति माह और स्नातकोत्तर छात्रों के लिए ₹150/- प्रति माह है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scholarship amount is ₹100/- per month for degree-level students and ₹150/- per month for postgraduate students.\n"
+        },
+        {
+          "question": "क्या छात्रवृत्ति प्राप्त करने के लिए उर्दू का अध्ययन करना अनिवार्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, स्नातक और स्नातकोत्तर दोनों स्तरों पर सभी आवेदकों के लिए एक वैकल्पिक विषय के रूप में उर्दू का अध्ययन करना अनिवार्य है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, studying Urdu as an optional subject is mandatory for all applicants at both graduation and post-graduation levels.\n"
+        },
+        {
+          "question": "क्या कोई न्यूनतम शैक्षणिक आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक को कम से कम 50 प्रतिशत अंक प्राप्त करने चाहिए और द्वितीय श्रेणी में उत्तीर्ण होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must secure at least 50% marks and pass in second division.\n"
+        },
+        {
+          "question": "क्या कोई अन्य सरकारी छात्रवृत्ति प्राप्त करने वाला छात्र आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, कोई अन्य सरकारी छात्रवृत्ति प्राप्त करने वाले छात्र पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students receiving any other government scholarship are not eligible.\n"
+        },
+        {
+          "question": "क्या छात्रवृत्ति का हर साल स्वतः नवीनीकरण हो जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, छात्रों को नवीनीकरण के लिए आवेदन करना चाहिए और शैक्षणिक आवश्यकताओं को पूरा करना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students must apply for renewal and meet academic requirements.\n"
+        },
+        {
+          "question": "क्या छात्रवृत्ति के लिए आवेदन करने के लिए कोई आय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, छात्रों को प्रथम श्रेणी मजिस्ट्रेट या नोटरी पब्लिक द्वारा प्रमाणित आय शपथ पत्र जमा करने की आवश्यकता होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students are required to submit an income affidavit certified by a First Class Magistrate or a Notary Public.\n"
+        },
+        {
+          "question": "क्या दूसरे राज्य का छात्र आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान के मूल निवासी ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only native residents of Rajasthan are eligible.\n"
+        },
+        {
+          "question": "क्या कोई छात्र अध्ययन के दूसरे या तीसरे वर्ष में छात्रवृत्ति के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यदि छात्र को पिछले वर्ष छात्रवृत्ति स्वीकृत की गई थी और वह नवीनीकरण मानदंडों को पूरा करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if the student was sanctioned the scholarship in the previous year and fulfills the renewal criteria.\n"
+        },
+        {
+          "question": "अगर मैं 50 प्रतिशत अंक प्राप्त करने में विफल रहता हूं तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक नवीनीकरण के लिए पात्र नहीं होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will not be eligible for renewal.\n"
+        },
+        {
+          "question": "छात्रवृत्ति के नवीनीकरण के लिए क्या शर्तें हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल वे लोग जिन्हें पिछले वर्ष छात्रवृत्ति मिली थी और जिन्होंने द्वितीय श्रेणी उत्तीर्ण करके कम से कम 50 प्रतिशत अंक प्राप्त किए हैं, वे नवीनीकरण के लिए पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only those who received the scholarship last year and secured at least 50% marks with a second division pass are eligible for renewal.\n"
+        }
+      ]
+    }
+  }
+}

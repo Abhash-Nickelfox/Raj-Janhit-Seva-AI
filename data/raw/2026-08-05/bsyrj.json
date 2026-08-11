@@ -1,0 +1,920 @@
+{
+  "scheme_id": "649559b7481f59106a6d1651",
+  "slug": "bsyrj",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2018-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Seeds",
+        "Agriculture",
+        "Farmers",
+        "Farming Assistance"
+      ],
+      "schemeName": "Beej Swalamban Yojna",
+      "schemeShortTitle": "BSYRJ",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Details",
+          "url": "https://dipr.rajasthan.gov.in/scheme/detail/319"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The main objective of starting the Mukhyamantri Beej Swavalamban Yojana is to provide up to 50% subsidy by the Agriculture Department for providing seeds to the small and marginal general farmers of the state. Apart from this, free mini kits are to be provided to the farmers living below the poverty line. So that the farmers of the state take steps towards prosperity and self-reliance by producing seeds in their fields. And they can be encouraged to produce seeds for use in their farm. By getting the benefit of this scheme, farmers will be able to produce good crops at low cost. Due to this their economic condition will also increase.\nThis scheme of state funds was started as a pilot project in the Kota, Bhilwara, and Udaipur agriculture blocks of the state. By expanding the scheme from the year 2018-19, the scheme is being implemented in all the blocks of the state.\n<br>\n\nUnder the plan:-\n\n1. **Selection of crop:**- Seed production program of notified varieties of jowar, soyabean, groundnut, moong, moth, and urad in the Kharif season and wheat, barley, and gram crops of less than 10 years duration in the Rabi season.1. **Formation of farmers group**:- Under the scheme, a group is formed by selecting farmers who are progressive and interested in the cultivation of a particular crop. Selection of 30 to 50 farmers in each group, by whom the area sown of that crop would be generally 50 to 100 hectares.1. **Selection of seed producer members in the group:**- As per requirement, 2-4 seed-producing farmers are selected from the farmer group by the group itself. The rest of the group will be those farmers who will use the above-produced seeds for sowing in the coming year.1. **Free seed distribution**:- Provision to make available the desired base/certified seeds (Stage-I) free of cost to the seed-producing farmers of each farmer group.1. **Training and Rogging for seed production:**- There is a provision to spend Rs.30/- per farmer and a maximum of Rs.1500/- per training on one-day training of a group. Three one-day training programs are organized to give complete information about the seed production process to the farmers of the group. Payment to be made to farmers for Rogging (Rs.1000/- /Hect.) DBT/RTGS to the concerned seed producer is done on the account of the farmer.\n",
+      "benefits_md": "\n- The seeds produced by the group of farmers will be used by the rest of the farmers for production in the next year.\n\n",
+      "briefDescription": "Mukhyamantri Beej Swavalamban Yojana was started in the year 2017-18 with the objective of producing quality improved seeds on their farms for their own use by the farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main objective of starting the Mukhyamantri Beej Swavalamban Yojana is to provide up to 50% subsidy by the Agriculture Department for providing seeds to the small and marginal general farmers of the state. Apart from this, free mini kits are to be provided to the farmers living below the poverty line. So that the farmers of the state take steps towards prosperity and self-reliance by producing seeds in their fields. And they can be encouraged to produce seeds for use in their farm. By getting the benefit of this scheme, farmers will be able to produce good crops at low cost. Due to this their economic condition will also increase."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme of state funds was started as a pilot project in the Kota, Bhilwara, and Udaipur agriculture blocks of the state. By expanding the scheme from the year 2018-19, the scheme is being implemented in all the blocks of the state."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the plan:-"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Selection of crop:",
+                  "bold": true
+                },
+                {
+                  "text": "- Seed production program of notified varieties of jowar, soyabean, groundnut, moong, moth, and urad in the Kharif season and wheat, barley, and gram crops of less than 10 years duration in the Rabi season."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Formation of farmers group",
+                  "bold": true
+                },
+                {
+                  "text": ":- Under the scheme, a group is formed by selecting farmers who are progressive and interested in the cultivation of a particular crop. Selection of 30 to 50 farmers in each group, by whom the area sown of that crop would be generally 50 to 100 hectares."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Selection of seed producer members in the group:",
+                  "bold": true
+                },
+                {
+                  "text": "- As per requirement, 2-4 seed-producing farmers are selected from the farmer group by the group itself. The rest of the group will be those farmers who will use the above-produced seeds for sowing in the coming year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free seed distribution",
+                  "bold": true
+                },
+                {
+                  "text": ":- Provision to make available the desired base/certified seeds (Stage-I) free of cost to the seed-producing farmers of each farmer group."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Training and Rogging for seed production:",
+                  "bold": true
+                },
+                {
+                  "text": "- There is a provision to spend Rs.30/- per farmer and a maximum of Rs.1500/- per training on one-day training of a group. Three one-day training programs are organized to give complete information about the seed production process to the farmers of the group. Payment to be made to farmers for Rogging (Rs.1000/- /Hect.) DBT/RTGS to the concerned seed producer is done on the account of the farmer."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The seeds produced by the group of farmers will be used by the rest of the farmers for production in the next year."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Get the application form to apply under this scheme."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter all the necessary information asked in the form carefully."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach the required documents with the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the application form to the same agriculture department."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana.\n1. Get the application form to apply under this scheme.\n1. Enter all the necessary information asked in the form carefully.\n1. Attach the required documents with the application form.\n1. Submit the application form to the same agriculture department.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Farmers, who are interested in progressive and crop-specific farming. \n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers, who are interested in progressive and crop-specific farming. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2018-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "कृषि विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "कृषि निवेश-बीज, उर्वरक आदि।"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "बीज",
+        "कृषि",
+        "किसान",
+        "कृषि सहायता"
+      ],
+      "schemeName": "बीज स्वलंबन योजना",
+      "schemeShortTitle": "BSYRJ",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "विवरण",
+          "url": "https://dipr.rajasthan.gov.in/scheme/detail/319"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री बीज स्वावलंबन योजना शुरू करने का मुख्य उद्देश्य राज्य के छोटे और सीमांत सामान्य किसानों को बीज उपलब्ध कराने के लिए कृषि विभाग द्वारा 50 प्रतिशत तक की सब्सिडी प्रदान करना है। इसके अलावा, गरीबी रेखा से नीचे रहने वाले किसानों को मुफ्त मिनी किट प्रदान किए जाने हैं। ताकि राज्य के किसान अपने खेतों में बीज का उत्पादन करके समृद्धि और आत्मनिर्भरता की दिशा में कदम उठा सकें। और उन्हें अपने खेत में उपयोग के लिए बीज का उत्पादन करने के लिए प्रोत्साहित किया जा सकता है। इस योजना का लाभ मिलने से किसान कम लागत पर अच्छी फसल का उत्पादन कर सकेंगे। इससे उनकी आर्थिक स्थिति भी बढ़ेगी। राज्य निधि की यह योजना राज्य के कोटा, भीलवाड़ा और उदयपुर कृषि प्रखंडों में एक प्रायोगिक परियोजना के रूप में शुरू की गई थी। वर्ष 2018-19 से योजना का विस्तार करके, इस योजना को राज्य के सभी प्रखंडों में लागू किया जा रहा है। - 1. फसल का चयनः *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ - - इस योजना के तहत उन किसानों का चयन करके एक समूह का गठन किया जाता है जो प्रगतिशील हैं और किसी विशेष फसल की खेती में रुचि रखते हैं। प्रत्येक समूह में 30 से 50 किसानों का चयन, जिनके द्वारा उस फसल की बुवाई का क्षेत्र आम तौर पर 50 से 100 हेक्टेयर होगा। आवश्यकता के अनुसार, समूह द्वारा ही किसान समूह से 2 से 4 बीज उत्पादक किसानों का चयन किया जाता है। समूह के बाकी सदस्य वे किसान होंगे जो आने वाले वर्ष में बुवाई के लिए उपरोक्त उत्पादित बीजों का उपयोग करेंगे। - प्रत्येक किसान समूह के बीज उत्पादक किसानों को वांछित आधार/प्रमाणित बीज (चरण-1) मुफ्त में उपलब्ध कराने का प्रावधान। * *-एक समूह के एक दिवसीय प्रशिक्षण पर प्रति किसान 30/- रुपये और प्रति प्रशिक्षण अधिकतम 1500/- रुपये खर्च करने का प्रावधान है। समूह के किसानों को बीज उत्पादन प्रक्रिया के बारे में पूरी जानकारी देने के लिए तीन एक दिवसीय प्रशिक्षण कार्यक्रम आयोजित किए जाते हैं। किसानों को चराई के लिए भुगतान (1000/-/हेक्टेयर)। संबंधित बीज उत्पादक को डी. बी. टी./आर. टी. जी. एस. किसान के खाते में दिया जाता है।",
+      "benefits_md": "- किसानों के समूह द्वारा उत्पादित बीजों का उपयोग अगले वर्ष उत्पादन के लिए बाकी किसानों द्वारा किया जाएगा।",
+      "briefDescription": "मुख्यमंत्री बीज स्वावलंबन योजना वर्ष 2017-18 में किसानों द्वारा अपने स्वयं के उपयोग के लिए अपने खेतों में गुणवत्ता वाले बेहतर बीजों का उत्पादन करने के उद्देश्य से शुरू की गई थी।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "मुख्यमंत्री बीज स्वावलंबन योजना शुरू करने का मुख्य उद्देश्य राज्य के छोटे और सीमांत सामान्य किसानों को बीज उपलब्ध कराने के लिए कृषि विभाग द्वारा 50 प्रतिशत तक की सब्सिडी प्रदान करना है। इसके अलावा, गरीबी रेखा से नीचे रहने वाले किसानों को मुफ्त मिनी किट प्रदान किए जाने हैं। ताकि राज्य के किसान अपने खेतों में बीज का उत्पादन करके समृद्धि और आत्मनिर्भरता की दिशा में कदम उठा सकें। और उन्हें अपने खेत में उपयोग के लिए बीज का उत्पादन करने के लिए प्रोत्साहित किया जा सकता है। इस योजना का लाभ मिलने से किसान कम लागत पर अच्छी फसल का उत्पादन कर सकेंगे। इससे उनकी आर्थिक स्थिति भी बढ़ेगी।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राज्य निधि की यह योजना राज्य के कोटा, भीलवाड़ा और उदयपुर कृषि प्रखंडों में एक प्रायोगिक परियोजना के रूप में शुरू की गई थी। वर्ष 2018-19 से योजना का विस्तार करके, इस योजना को राज्य के सभी प्रखंडों में लागू किया जा रहा है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "योजना के तहतः -"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "फसल का चयनः",
+                  "bold": true
+                },
+                {
+                  "text": "- खरिफ के मौसम में ज्वार, सोयाबीन, मूंगफली, मूंगफली, पतंग और उड़द की अधिसूचित किस्मों का बीज उत्पादन कार्यक्रम और रबी के मौसम में 10 साल से कम अवधि की गेहूं, जौ और चना की फसलें।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसान समूह का गठन",
+                  "bold": true
+                },
+                {
+                  "text": ":-इस योजना के तहत उन किसानों का चयन करके एक समूह का गठन किया जाता है जो प्रगतिशील हैं और किसी विशेष फसल की खेती में रुचि रखते हैं। प्रत्येक समूह में 30 से 50 किसानों का चयन, जिनके द्वारा उस फसल की बुवाई का क्षेत्र आम तौर पर 50 से 100 हेक्टेयर होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "समूह में बीज उत्पादक सदस्यों का चयनः",
+                  "bold": true
+                },
+                {
+                  "text": "आवश्यकता के अनुसार, समूह द्वारा ही किसान समूह से 2 से 4 बीज उत्पादक किसानों का चयन किया जाता है। समूह के बाकी सदस्य वे किसान होंगे जो आने वाले वर्ष में बुवाई के लिए उपरोक्त उत्पादित बीजों का उपयोग करेंगे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मुफ्त में बीज वितरण",
+                  "bold": true
+                },
+                {
+                  "text": ":-प्रत्येक किसान समूह के बीज उत्पादक किसानों को वांछित आधार/प्रमाणित बीज (चरण-1) मुफ्त में उपलब्ध कराने का प्रावधान।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बीज उत्पादन के लिए प्रशिक्षण और रोगिंगः",
+                  "bold": true
+                },
+                {
+                  "text": "- एक समूह के एक दिवसीय प्रशिक्षण पर प्रति किसान 30 रुपये और प्रति प्रशिक्षण अधिकतम 1500 रुपये खर्च करने का प्रावधान है। समूह के किसानों को बीज उत्पादन प्रक्रिया के बारे में पूरी जानकारी देने के लिए तीन एक दिवसीय प्रशिक्षण कार्यक्रम आयोजित किए जाते हैं। किसानों को चराई के लिए भुगतान किया जाएगा (1000/-/हेक्टेयर)। संबंधित बीज उत्पादक को डी. बी. टी./आर. टी. जी. एस. किसान के खाते में दिया जाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसानों के समूह द्वारा उत्पादित बीजों का उपयोग बाकी किसानों द्वारा अगले वर्ष उत्पादन के लिए किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक किसानों को मुख्यमंत्री स्वावलंबन योजना का लाभ प्राप्त करने के लिए आपके जिले के कृषि विभाग कार्यालय या कृषि विज्ञान केंद्र जाना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इस योजना के तहत आवेदन करने के लिए आवेदन पत्र प्राप्त करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रपत्र में गई सभी आवश्यक जानकारी ध्यान से दर्ज करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन पत्र के साथ आवश्यक दस्तावेज संलग्न करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उसी कृषि विभाग में आवेदन पत्र जमा करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदक किसानों को मुख्यमंत्री स्वावलंबन योजना का लाभ प्राप्त करने के लिए आपके जिले के कृषि विभाग कार्यालय या कृषि विज्ञान केंद्र जाना होगा। 1. इस योजना के तहत आवेदन करने के लिए आवेदन पत्र प्राप्त करें। 1. प्रपत्र में गई सभी आवश्यक जानकारी ध्यान से दर्ज करें। 1. आवेदन पत्र के साथ आवश्यक दस्तावेज संलग्न करें। 1. उसी कृषि विभाग में आवेदन पत्र जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "- किसान, जो प्रगतिशील और फसल-विशिष्ट खेती में रुचि रखते हैं।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसान, जो प्रगतिशील और फसल-विशिष्ट खेती में रुचि रखते हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "- किसान, जो प्रगतिशील और फसल-विशिष्ट खेती में रुचि रखते हैं।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "किसान, जो प्रगतिशील और फसल-विशिष्ट खेती में रुचि रखते हैं।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Aadhaar Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Bank Passbook."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of Aadhaar Card.\n1. Copy of Bank Passbook.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of Aadhaar Card.\n1. Copy of Bank Passbook.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What are the benefits under the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The seeds produced by the group of farmers will be used by the rest of the farmers for production in the next year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The seeds produced by the group of farmers will be used by the rest of the farmers for production in the next year.\n"
+        },
+        {
+          "question": "Who can get the benefits of the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Farmers, who are interested in progressive and crop-specific farming. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Farmers, who are interested in progressive and crop-specific farming. \n"
+        },
+        {
+          "question": "May other state farmer apply under this scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only the Rajasthan State farmers can apply for the scheme. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only the Rajasthan State farmers can apply for the scheme. \n"
+        },
+        {
+          "question": "How to apply for the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana.\n2. Get the application form to apply under this scheme.\n3. Enter all the necessary information asked in the form carefully.\n4. Attach the required documents with the application form.\n5. Submit the application form to the same agriculture department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana.\n2. Get the application form to apply under this scheme.\n3. Enter all the necessary information asked in the form carefully.\n4. Attach the required documents with the application form.\n5. Submit the application form to the same agriculture department.\n"
+        },
+        {
+          "question": "Which Mandatory documents are required ",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Copy of Aadhaar Card.  \n2. Copy of Bank Passbook."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Copy of Aadhaar Card.  \n2. Copy of Bank Passbook.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "किसानों के समूह द्वारा उत्पादित बीजों का उपयोग बाकी किसानों द्वारा अगले वर्ष उत्पादन के लिए किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The seeds produced by the group of farmers will be used by the rest of the farmers for production in the next year.\n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "किसान, जो प्रगतिशील और फसल-विशिष्ट खेती में रुचि रखते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Farmers, who are interested in progressive and crop-specific farming. \n"
+        },
+        {
+          "question": "क्या राज्य के अन्य किसान इस योजना के तहत आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान राज्य के किसान ही इस योजना के लिए आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only the Rajasthan State farmers can apply for the scheme. \n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक किसानों को मुख्यमंत्री स्वावलंबन योजना का लाभ प्राप्त करने के लिए आपके जिले के कृषि विभाग कार्यालय या कृषि विज्ञान केंद्र जाना होगा। 2. इस योजना के तहत आवेदन करने के लिए आवेदन पत्र प्राप्त करें। 3. प्रपत्र में गई सभी आवश्यक जानकारी ध्यान से दर्ज करें। 4. आवेदन पत्र के साथ आवश्यक दस्तावेज संलग्न करें। 5. उसी कृषि विभाग में आवेदन पत्र जमा करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana.\n2. Get the application form to apply under this scheme.\n3. Enter all the necessary information asked in the form carefully.\n4. Attach the required documents with the application form.\n5. Submit the application form to the same agriculture department.\n"
+        },
+        {
+          "question": "किन अनिवार्य दस्तावेजों की आवश्यकता है",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आधार कार्ड की प्रति। 2. बैंक पासबुक की प्रति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Copy of Aadhaar Card.  \n2. Copy of Bank Passbook.\n"
+        }
+      ]
+    }
+  }
+}

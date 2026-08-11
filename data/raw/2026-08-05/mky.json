@@ -1,0 +1,2042 @@
+{
+  "scheme_id": "641bf698b1f2fd9fac0f1694",
+  "slug": "mky",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Kanyadaan Yojana",
+        "Girls Scheme Rajasthan",
+        "DBT Scheme",
+        "Female Scheme",
+        "Social Welfare"
+      ],
+      "schemeName": "Mukhyamantri Kanyadaan Yojana",
+      "schemeShortTitle": "MKY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/kanyadan/DOC_128_9153b445-1c0e-45ea-8e46-b1bc5a5a8d06.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/128"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Mukhyamantri Kanyadaan Yojna is a scheme launched by the Rajasthan Government to promote the marriage of girls from economically weaker sections of society. Under this scheme, the government provides financial assistance to eligible families for the marriage of their daughters.\nThe scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden. The scheme provides an assistance amount of ₹40,000 to the eligible families to cover the expenses related to the marriage, including jewelry, clothes, and other related expenses.\nTo be eligible for the scheme, the bride&#39;s family must be a resident of Rajasthan, and the bride should be 18 years of age or older. The family&#39;s annual income should be less than ₹ 2.5 lakh, and they should not have any other source of income. The bride should also have completed her 10th-standard education.\nOverall, Mukhyamantri Kanyadaan Yojna aims to promote the welfare of girls from economically weaker sections of society and ensure that they are not deprived of their right to marry due to financial constraints.\n<br>\n\n",
+      "benefits_md": "\n- The implementation of this scheme will be reviewed at the district level and a committee meeting will be held every 3 months.\n- The state government will provide financial assistance of ₹ 31,000 to ₹ 41,000 to the eligible beneficiaries at the time of the girl&#39;s marriage.\n- Under this scheme, a provision of savings of about ₹24 crore has been approved.\n- If the girls of the state pass 10th then the government will provide an amount of ₹41 thousand at the time of their marriage.\n- If the girls of the state pass 12th then the government will provide an amount of ₹51 thousand at the time of their marriage.\n\n",
+      "briefDescription": "Mukhyamantri Kanyadaan Yojana launched by Social Justice and empowerment in 2015 by Rajasthan for Family provides financial support to eligible families to help them cover the expenses associated with their daughters' weddings. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mukhyamantri Kanyadaan Yojna is a scheme launched by the Rajasthan Government to promote the marriage of girls from economically weaker sections of society. Under this scheme, the government provides financial assistance to eligible families for the marriage of their daughters."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden. The scheme provides an assistance amount of ₹40,000 to the eligible families to cover the expenses related to the marriage, including jewelry, clothes, and other related expenses."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To be eligible for the scheme, the bride's family must be a resident of Rajasthan, and the bride should be 18 years of age or older. The family's annual income should be less than ₹ 2.5 lakh, and they should not have any other source of income. The bride should also have completed her 10th-standard education."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, Mukhyamantri Kanyadaan Yojna aims to promote the welfare of girls from economically weaker sections of society and ensure that they are not deprived of their right to marry due to financial constraints."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The implementation of this scheme will be reviewed at the district level and a committee meeting will be held every 3 months."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The state government will provide financial assistance of ₹ 31,000 to ₹ 41,000 to the eligible beneficiaries at the time of the girl's marriage."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Under this scheme, a provision of savings of about ₹24 crore has been approved."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the girls of the state pass 10th then the government will provide an amount of ₹41 thousand at the time of their marriage."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the girls of the state pass 12th then the government will provide an amount of ₹51 thousand at the time of their marriage."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://wcd.rajasthan.gov.in/home",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “IFMS-RAJSSP” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"IFMS-RAJSSP\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah Family ID\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “IFMS-RAJSSP” option. \n**Step-4:** In &quot;IFMS-RAJSSP&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah Family ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**This scheme is specifically for Divyang and Women that belong to following :**\n\n1. BPL family belonging to the Scheduled Tribe category\n1. Minority category BPL families\n1. Specially Qualified Individuals (Not Income Tax Payers)\n1. A female player (if self-married) who fulfills the prescribed criteria as per the circulars issued by the Personnel Department. Self or parents are not income taxpayers.\n1. Beneficiary in Palanhar Yojana.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme is specifically for Divyang and Women that belong to following :",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "BPL family belonging to the Scheduled Tribe category"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Minority category BPL families"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Specially Qualified Individuals (Not Income Tax Payers)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A female player (if self-married) who fulfills the prescribed criteria as per the circulars issued by the Personnel Department. Self or parents are not income taxpayers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary in Palanhar Yojana."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "कन्यादान योजना",
+        "बालिका योजना राजस्थान",
+        "डीबीटी योजना",
+        "महिला योजना",
+        "समाज कल्याण"
+      ],
+      "schemeName": "मुख्यमंत्री कन्यादान योजना",
+      "schemeShortTitle": "MKY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/kanyadan/DOC_128_9153b445-1c0e-45ea-8e46-b1bc5a5a8d06.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/128"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री कन्यादान योजना राजस्थान सरकार द्वारा समाज के आर्थिक रूप से कमजोर वर्गों की लड़कियों की शादी को बढ़ावा देने के लिए शुरू की गई एक योजना है। इस योजना के तहत सरकार पात्र परिवारों को उनकी बेटियों की शादी के लिए वित्तीय सहायता प्रदान करती है। इस योजना का उद्देश्य लड़कियों और उनके परिवारों को उनकी शादी के लिए वित्तीय सहायता प्रदान करके और यह सुनिश्चित करके सशक्त बनाना है कि उन्हें किसी भी वित्तीय बोझ का सामना न करना पड़े। यह योजना पात्र परिवारों को गहने, कपड़े और अन्य संबंधित खर्चों सहित शादी से संबंधित खर्चों को पूरा करने के लिए 40,000 रुपये की सहायता राशि प्रदान करती है। योजना के लिए पात्र होने के लिए, दुल्हन का परिवार राजस्थान का निवासी होना चाहिए, और दुल्हन की आयु 18 वर्ष या उससे अधिक होनी चाहिए। परिवार की वार्षिक आय ₹2.50 लाख से कम होनी चाहिए और उनके पास आय का कोई अन्य स्रोत नहीं होना चाहिए। दुल्हन को अपनी 10वीं कक्षा की शिक्षा भी पूरी करनी चाहिए थी। कुल मिलाकर, मुख्यमंत्री कन्यादान योजना का उद्देश्य समाज के आर्थिक रूप से कमजोर वर्गों की लड़कियों के कल्याण को बढ़ावा देना और यह सुनिश्चित करना है कि वे वित्तीय बाधाओं के कारण शादी के अपने अधिकार से वंचित न हों। <बीआर>",
+      "benefits_md": "- इस योजना के कार्यान्वयन की जिला स्तर पर समीक्षा की जाएगी और हर 3 महीने में एक समिति की बैठक होगी।-राज्य सरकार लड़की के समय पात्र लाभार्थियों को 31,000 रुपये से 41,000 रुपये की वित्तीय सहायता प्रदान करेगी। शादी।-इस योजना के तहत लगभग 24 करोड़ रुपये की बचत के प्रावधान को मंजूरी दी गई है।-अगर राज्य की लड़कियां 10वीं पास करती हैं तो सरकार उनकी शादी के समय 41 हजार रुपये की राशि प्रदान करेगी।-अगर राज्य की लड़कियां 12वीं पास करती हैं तो सरकार उनकी शादी के समय 51 हजार रुपये की राशि प्रदान करेगी।",
+      "briefDescription": "राजस्थान फॉर फैमिली द्वारा 2015 में सामाजिक न्याय और सशक्तिकरण द्वारा शुरू की गई मुख्यमंत्री कन्यादान योजना पात्र परिवारों को उनकी बेटियों की शादी से जुड़े खर्चों को पूरा करने में मदद करने के लिए वित्तीय सहायता प्रदान करती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "मुख्यमंत्री कन्यादान योजना राजस्थान सरकार द्वारा समाज के आर्थिक रूप से कमजोर वर्गों की लड़कियों की शादी को बढ़ावा देने के लिए शुरू की गई एक योजना है। इस योजना के तहत सरकार पात्र परिवारों को उनकी बेटियों की शादी के लिए वित्तीय सहायता प्रदान करती है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना का उद्देश्य लड़कियों और उनके परिवारों को उनकी शादी के लिए वित्तीय सहायता प्रदान करके और यह सुनिश्चित करके सशक्त बनाना है कि उन्हें किसी भी वित्तीय बोझ का सामना न करना पड़े। यह योजना पात्र परिवारों को गहने, कपड़े और अन्य संबंधित खर्चों सहित शादी से संबंधित खर्चों को पूरा करने के लिए 40,000 रुपये की सहायता राशि प्रदान करती है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "योजना के लिए पात्र होने के लिए, दुल्हन का परिवार राजस्थान का निवासी होना चाहिए, और दुल्हन की आयु 18 वर्ष या उससे अधिक होनी चाहिए। परिवार की वार्षिक आय 2.50 लाख रुपये से कम होनी चाहिए और उनके पास आय का कोई अन्य स्रोत नहीं होना चाहिए। दुल्हन को अपनी 10वीं कक्षा की शिक्षा भी पूरी करनी चाहिए थी।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "कुल मिलाकर, मुख्यमंत्री कन्यादान योजना का उद्देश्य समाज के आर्थिक रूप से कमजोर वर्गों की लड़कियों के कल्याण को बढ़ावा देना और यह सुनिश्चित करना है कि वे वित्तीय बाधाओं के कारण शादी के अपने अधिकार से वंचित न हों।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के कार्यान्वयन की समीक्षा जिला स्तर पर की जाएगी और हर तीन महीने में एक समिति की बैठक होगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राज्य सरकार लड़की की शादी के समय पात्र लाभार्थियों को 31,000 रुपये से 41,000 रुपये की वित्तीय सहायता प्रदान करेगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के तहत लगभग 24 करोड़ रुपये की बचत के प्रावधान को मंजूरी दी गई है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि राज्य की लड़कियां 10वीं पास करती हैं तो सरकार उनकी शादी के समय 41 हजार रुपये की राशि प्रदान करेगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि राज्य की लड़कियां 12वीं पास करती हैं तो सरकार उनकी शादी के समय 51 हजार रुपये की राशि प्रदान करेगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://wcd.rajasthan.gov.in/home",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". में, \"आवेदन प्रविष्टि अनुरोध\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "\"भामाशाह परिवार आईडी\" दर्ज करें और खोजें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "व्यक्ति का नाम और योजना का नाम चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "आवश्यक विवरण प्रदान करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पेंशनभोगी विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बैंक विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- विकलांगता विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- सत्यापन विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण-3: * * \"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें। * * चरण-4: * * आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी. में 'आवेदन प्रविष्टि अनुरोध' पर क्लिक करें। * * चरण-5: * * भामाशाह परिवार आईडी दर्ज करें और खोजें। * * चरण-6: * * व्यक्ति का नाम और योजना का नाम चुनें। * * चरण-7: * * आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें। * * चरण-8: * * आवश्यक विवरण प्रदान करें। - पेंशनभोगी विवरण। - बैंक विवरण। - विकलांगता विवरण। - सत्यापन विवरण। - दस्तावेज़ अपलोड करें। * * चरण-9: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 18,
+          "lte": 100
+        },
+        {
+          "category": "sc",
+          "gte": 18,
+          "lte": 100
+        },
+        {
+          "category": "st",
+          "gte": 18,
+          "lte": 100
+        },
+        {
+          "category": "pwd",
+          "gte": 18,
+          "lte": 100
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "* * यह योजना विशेष रूप से दिव्यांग और महिलाओं के लिए है जो निम्नलिखित से संबंधित हैंः * * 1. अनुसूचित जनजाति श्रेणी 1 से संबंधित बी. पी. एल. परिवार। अल्पसंख्यक श्रेणी बी. पी. एल. परिवार 1. विशेष रूप से योग्य व्यक्ति (आयकर दाता नहीं) 1. एक महिला खिलाड़ी (यदि स्व-विवाहित है) जो कार्मिक विभाग द्वारा जारी परिपत्रों के अनुसार निर्धारित मानदंडों को पूरा करती है। स्वयं या माता-पिता आय करदाता नहीं हैं। 1. पालनहार योजना में लाभार्थी।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "यह योजना विशेष रूप से दिव्यांग और महिलाओं के लिए है जो निम्नलिखित से संबंधित हैंः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुसूचित जनजाति श्रेणी से संबंधित बी. पी. एल. परिवार"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अल्पसंख्यक श्रेणी बी. पी. एल. परिवार"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विशेष रूप से योग्य व्यक्ति (आयकर दाता नहीं)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक महिला खिलाड़ी (यदि स्व-विवाहित है) जो कार्मिक विभाग द्वारा जारी परिपत्रों के अनुसार निर्धारित मानदंडों को पूरा करती है। स्वयं या माता-पिता आय करदाता नहीं हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पालनहार योजना में लाभार्थी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "isBpl": "Yes",
+      "caste": [
+        {
+          "value": "sc",
+          "label": "अनुसूचित जाति (एससी)"
+        },
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "minority": true,
+      "maritalStatus": [
+        {
+          "value": "never-married",
+          "label": "Never Married"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 18,
+        "lte": 100
+      },
+      {
+        "category": "sc",
+        "gte": 18,
+        "lte": 100
+      },
+      {
+        "category": "st",
+        "gte": 18,
+        "lte": 100
+      },
+      {
+        "category": "pwd",
+        "gte": 18,
+        "lte": 100
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "* * यह योजना विशेष रूप से दिव्यांग और महिलाओं के लिए है जो निम्नलिखित से संबंधित हैंः * * 1. अनुसूचित जनजाति श्रेणी 1 से संबंधित बी. पी. एल. परिवार। अल्पसंख्यक श्रेणी बी. पी. एल. परिवार 1. विशेष रूप से योग्य व्यक्ति (आयकर दाता नहीं) 1. एक महिला खिलाड़ी (यदि स्व-विवाहित है) जो कार्मिक विभाग द्वारा जारी परिपत्रों के अनुसार निर्धारित मानदंडों को पूरा करती है। स्वयं या माता-पिता आय करदाता नहीं हैं। 1. पालनहार योजना में लाभार्थी।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "यह योजना विशेष रूप से दिव्यांग और महिलाओं के लिए है जो निम्नलिखित से संबंधित हैंः",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अनुसूचित जनजाति श्रेणी से संबंधित बी. पी. एल. परिवार"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अल्पसंख्यक श्रेणी बी. पी. एल. परिवार"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "विशेष रूप से योग्य व्यक्ति (आयकर दाता नहीं)"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एक महिला खिलाड़ी (यदि स्व-विवाहित है) जो कार्मिक विभाग द्वारा जारी परिपत्रों के अनुसार निर्धारित मानदंडों को पूरा करती है। स्वयं या माता-पिता आय करदाता नहीं हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पालनहार योजना में लाभार्थी।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "isBpl": "Yes",
+    "caste": [
+      {
+        "value": "sc",
+        "label": "अनुसूचित जाति (एससी)"
+      },
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "minority": true,
+    "maritalStatus": [
+      {
+        "value": "never-married",
+        "label": "Never Married"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Address Proof Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth Certificate Copy* : Age proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death Certificate Copy* : In case of widow women"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate Copy* : In case of widow/Palanhar/Divyang"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marriage Certificate Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport Size Photo*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ration Card Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Voter ID Copy*"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पता प्रमाण प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र की प्रतिलिपि *: आयु प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मृत्यु प्रमाणपत्र की प्रतिलिपि *: विधवा महिलाओं के मामले में"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र की प्रतिलिपि *: विधवा/पालनहार/दिव्यांग के मामले में"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विवाह प्रमाणपत्र की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट साइज फोटो *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राशन कार्ड की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मतदाता पहचान पत्र की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": ""
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who Can Apply For This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Divyang and Women belongs to SC, ST, Minority, Women Player from Below Poverty level of the society can apply for this scheme.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Divyang and Women belongs to SC, ST, Minority, Women Player from Below Poverty level of the society can apply for this scheme.\n\n"
+        },
+        {
+          "question": "What Are The Benefits Of This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden. The scheme provides an assistance amount of Rs. 40,000 to the eligible families to cover the expenses related to the marriage, including jewelry, clothes, and other related expenses.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden. The scheme provides an assistance amount of Rs. 40,000 to the eligible families to cover the expenses related to the marriage, including jewelry, clothes, and other related expenses.\n\n\n"
+        },
+        {
+          "question": "What is eligibility criteria ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "•\tScheduled Caste category BPL families\n•\tBPL family belonging to Scheduled Tribe category\n•\tMinority category BPL families\n•\tSpecially Qualified Individuals (Not Income Tax Payers)\n•\tA female player (if self-married) who fulfills the prescribed criteria as per the circulars issued by the Personnel Department. Self or parents are not income tax payers.\n\n•\tBeneficiary in Palanhar Yojana\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "*\tScheduled Caste category BPL families\n*\tBPL family belonging to Scheduled Tribe category\n*\tMinority category BPL families\n*\tSpecially Qualified Individuals (Not Income Tax Payers)\n*\tA female player (if self-married) who fulfills the prescribed criteria as per the circulars issued by the Personnel Department. Self or parents are not income tax payers.\n\n*\tBeneficiary in Palanhar Yojana\n\n\n"
+        },
+        {
+          "question": "What Documents Are Needed To Apply For This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n1. Caste Certificate Copy*\n2. Aadhar Card Copy*\n3. Address Proof Copy*\n4. Bank Passbook Copy*\n5. Birth Certificate Copy* : Age proof\n6.Death Certificate Copy* : In case of widow women\n7. Income Certificate Copy* : In case of widow/Palanhar/Divyang\n8. Education Qualification Marksheet / Certificate Copy*\n9. Marriage Certificate Copy*\n10. Jan Aadhar/Bhamashah Card Copy*\n11. Passport Size Photo*\n12. Ration Card Copy*\n13. Voter ID Copy*\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "\n1. Caste Certificate Copy*\n2. Aadhar Card Copy*\n3. Address Proof Copy*\n4. Bank Passbook Copy*\n5. Birth Certificate Copy* : Age proof\n6.Death Certificate Copy* : In case of widow women\n7. Income Certificate Copy* : In case of widow/Palanhar/Divyang\n8. Education Qualification Marksheet / Certificate Copy*\n9. Marriage Certificate Copy*\n10. Jan Aadhar/Bhamashah Card Copy*\n11. Passport Size Photo*\n12. Ration Card Copy*\n13. Voter ID Copy*\n\n\n"
+        },
+        {
+          "question": "How to apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "•\tVisit the official website of the Rajasthan government's Women Empowerment Department at http://wcd.rajasthan.gov.in/.\n•\tClick on the \"Schemes\" tab on the homepage and select the \"Mukhyamantri Kanyadaan Yojana\" from the list of schemes.\n•\tRead the eligibility criteria and other details of the scheme carefully.\n•\tDownload the application form from the website or collect it from the nearest Common Service Centre (CSC) or e-Mitra kiosk.\n•\tFill in the application form with all the necessary details and attach the required documents such as the applicant's Aadhaar card, bank passbook, marriage invitation card, and income certificate.\n•\tSubmit the application form along with the required documents to the concerned authorities.\n•\tAlternatively, you can also visit the nearest CSC or e-Mitra kiosk to apply for the Mukhyamantri Kanyadaan Yojana. The officials at these centers will assist you in filling out the application form and submitting the required documents.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "*\tVisit the official website of the Rajasthan government's Women Empowerment Department at http://wcd.rajasthan.gov.in/.\n*\tClick on the \"Schemes\" tab on the homepage and select the \"Mukhyamantri Kanyadaan Yojana\" from the list of schemes.\n*\tRead the eligibility criteria and other details of the scheme carefully.\n*\tDownload the application form from the website or collect it from the nearest Common Service Centre (CSC) or e-Mitra kiosk.\n*\tFill in the application form with all the necessary details and attach the required documents such as the applicant's Aadhaar card, bank passbook, marriage invitation card, and income certificate.\n*\tSubmit the application form along with the required documents to the concerned authorities.\n*\tAlternatively, you can also visit the nearest CSC or e-Mitra kiosk to apply for the Mukhyamantri Kanyadaan Yojana. The officials at these centers will assist you in filling out the application form and submitting the required documents.\n\n"
+        },
+        {
+          "question": "What is DBT?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes.\n"
+        },
+        {
+          "question": "Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Application form is free for Mukhyamantri Kanyadaan yojana."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Application form is free for Mukhyamantri Kanyadaan yojana.\n"
+        },
+        {
+          "question": "What documents are required while submitting the application form?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Caste Certificate Copy\nAadhar Card Copy\nAddress Proof Copy\nBank Passbook Copy\nBirth Certificate Copy : Age proof\nDeath Certificate Copy : In case of widow women\nIncome Certificate Copy: In case of widow/Palanhar/Divyang\nEducation Qualification Marksheet / Certificate Copy\nMarriage Certificate Copy\nJan Aadhar/Bhamashah Card Copy\nPassport Size Photo\nRation Card Copy\nVoter ID Copy"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Caste Certificate Copy\nAadhar Card Copy\nAddress Proof Copy\nBank Passbook Copy\nBirth Certificate Copy : Age proof\nDeath Certificate Copy : In case of widow women\nIncome Certificate Copy: In case of widow/Palanhar/Divyang\nEducation Qualification Marksheet / Certificate Copy\nMarriage Certificate Copy\nJan Aadhar/Bhamashah Card Copy\nPassport Size Photo\nRation Card Copy\nVoter ID Copy\n"
+        },
+        {
+          "question": "What is IFSC code?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that deal with online fund transfers "
+                }
+              ]
+            }
+          ],
+          "answer_md": " IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that deal with online fund transfers \n"
+        },
+        {
+          "question": "Is this scheme for Urban area?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, Urban and Rural both can apply for this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Urban and Rural both can apply for this scheme.\n"
+        },
+        {
+          "question": "Can I fill the application form in a language other than English? ",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, you can fill only in English language."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, you can fill only in English language.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अनुसूचित जाति, अनुसूचित जनजाति, अल्पसंख्यक, महिला वर्ग से संबंधित दिव्यांग और महिलाएं इस योजना के लिए आवेदन कर सकती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Divyang and Women belongs to SC, ST, Minority, Women Player from Below Poverty level of the society can apply for this scheme.\n\n"
+        },
+        {
+          "question": "इस योजना के क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य लड़कियों और उनके परिवारों को उनकी शादी के लिए वित्तीय सहायता प्रदान करके और यह सुनिश्चित करके सशक्त बनाना है कि उन्हें किसी भी वित्तीय बोझ का सामना न करना पड़े। यह योजना एक लाख रुपये की सहायता राशि प्रदान करती है। पात्र परिवारों को गहने, कपड़े और अन्य संबंधित खर्चों सहित विवाह से संबंधित खर्चों को पूरा करने के लिए 40,000 रुपये दिए जाएंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden. The scheme provides an assistance amount of Rs. 40,000 to the eligible families to cover the expenses related to the marriage, including jewelry, clothes, and other related expenses.\n\n\n"
+        },
+        {
+          "question": "पात्रता मानदंड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अनुसूचित जाति श्रेणी बी. पी. एल. परिवार अनुसूचित जनजाति श्रेणी से संबंधित बी. पी. एल. परिवार अल्पसंख्यक श्रेणी बी. पी. एल. परिवार विशेष रूप से योग्य व्यक्ति (आयकर दाता नहीं) एक महिला खिलाड़ी (यदि स्व-विवाहित है) जो कार्मिक विभाग द्वारा जारी परिपत्रों के अनुसार निर्धारित मानदंडों को पूरा करती है। स्वयं या माता-पिता आयकर दाता नहीं हैं। • पालनहार योजना में लाभार्थी"
+                }
+              ]
+            }
+          ],
+          "answer_md": "*\tScheduled Caste category BPL families\n*\tBPL family belonging to Scheduled Tribe category\n*\tMinority category BPL families\n*\tSpecially Qualified Individuals (Not Income Tax Payers)\n*\tA female player (if self-married) who fulfills the prescribed criteria as per the circulars issued by the Personnel Department. Self or parents are not income tax payers.\n\n*\tBeneficiary in Palanhar Yojana\n\n\n"
+        },
+        {
+          "question": "इस योजना के लिए आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. जाति प्रमाणपत्र प्रतिलिपि * 2. आधार कार्ड की प्रतिलिपि * 3. पता प्रमाण प्रतिलिपि * 4। बैंक पासबुक की प्रतिलिपि * 5। जन्म प्रमाणपत्र की प्रतिलिपि *: आयु प्रमाण 6. मृत्यु प्रमाण पत्र की प्रतिलिपि *: विधवा महिलाओं के मामले में 7. आय प्रमाणपत्र की प्रतिलिपि *: विधवा/पालनहार/दिव्यांग के मामले में 8. शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि * 9। विवाह प्रमाणपत्र की प्रतिलिपि * 10। जन आधार/भामाशाह कार्ड की प्रति * 11। पासपोर्ट साइज फोटो * 12। राशन कार्ड की प्रतिलिपि * 13। मतदाता पहचान पत्र की प्रतिलिपि *"
+                }
+              ]
+            }
+          ],
+          "answer_md": "\n1. Caste Certificate Copy*\n2. Aadhar Card Copy*\n3. Address Proof Copy*\n4. Bank Passbook Copy*\n5. Birth Certificate Copy* : Age proof\n6.Death Certificate Copy* : In case of widow women\n7. Income Certificate Copy* : In case of widow/Palanhar/Divyang\n8. Education Qualification Marksheet / Certificate Copy*\n9. Marriage Certificate Copy*\n10. Jan Aadhar/Bhamashah Card Copy*\n11. Passport Size Photo*\n12. Ration Card Copy*\n13. Voter ID Copy*\n\n\n"
+        },
+        {
+          "question": "इस योजना के लिए कैसे आवेदन करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के महिला सशक्तिकरण विभाग की आधिकारिक वेबसाइट पर जाएं। //डब्ल्यू. सी. डी. राजस्थान. जी. ओ. वी. इन/. होमपेज पर \"स्कीम\" टैब पर क्लिक करें और योजनाओं की सूची से \"मुख्यमंत्री कन्यादान योजना\" का चयन करें। पात्रता मानदंड और योजना के अन्य विवरणों को ध्यान से पढ़ें। वेबसाइट से आवेदन पत्र डाउनलोड करें या इसे निकटतम सामान्य सेवा केंद्र (सी. एस. सी.) या ई-मित्र कियोस्क से एकत्र करें। सभी आवश्यक विवरणों के साथ आवेदन पत्र भरें और आवेदक का आधार कार्ड, बैंक पासबुक, विवाह निमंत्रण पत्र और आय प्रमाण पत्र जैसे आवश्यक दस्तावेज संलग्न करें। संबंधित अधिकारियों को आवश्यक दस्तावेजों के साथ आवेदन पत्र जमा करें। वैकल्पिक रूप से, आप निकटतम सी. एस. सी. पर भी जा सकते हैं। इन केंद्रों के अधिकारी आवेदन पत्र भरने और आवश्यक दस्तावेज जमा करने में आपकी सहायता करेंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "*\tVisit the official website of the Rajasthan government's Women Empowerment Department at http://wcd.rajasthan.gov.in/.\n*\tClick on the \"Schemes\" tab on the homepage and select the \"Mukhyamantri Kanyadaan Yojana\" from the list of schemes.\n*\tRead the eligibility criteria and other details of the scheme carefully.\n*\tDownload the application form from the website or collect it from the nearest Common Service Centre (CSC) or e-Mitra kiosk.\n*\tFill in the application form with all the necessary details and attach the required documents such as the applicant's Aadhaar card, bank passbook, marriage invitation card, and income certificate.\n*\tSubmit the application form along with the required documents to the concerned authorities.\n*\tAlternatively, you can also visit the nearest CSC or e-Mitra kiosk to apply for the Mukhyamantri Kanyadaan Yojana. The officials at these centers will assist you in filling out the application form and submitting the required documents.\n\n"
+        },
+        {
+          "question": "डी. बी. टी. क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रत्यक्ष लाभ अंतरण (डी. बी. टी.) की शुरुआत भारत सरकार द्वारा जनवरी, 2013 में की गई थी। यहां विभिन्न सरकारी योजनाओं के लाभार्थियों के बैंक खाते में सीधे धन हस्तांतरित किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मुख्यमंत्री कन्यादान योजना के लिए आवेदन पत्र निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Application form is free for Mukhyamantri Kanyadaan yojana.\n"
+        },
+        {
+          "question": "आवेदन पत्र जमा करते समय किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र आधार कार्ड की प्रतिलिपि पते का प्रमाण बैंक पासबुक की प्रतिलिपि जन्म प्रमाण पत्र की प्रतिलिपिः आयु प्रमाण मृत्यु प्रमाण पत्र की प्रतिलिपिः विधवा महिलाओं के मामले में आय प्रमाण पत्र की प्रतिलिपिः विधवा/पालनहार/दिव्यांग शिक्षा योग्यता मार्कशीट/प्रमाण पत्र की प्रतिलिपि विवाह प्रमाण पत्र की प्रतिलिपि जन आधार/भामाशाह कार्ड की प्रतिलिपि पासपोर्ट आकार फोटो राशन कार्ड की प्रतिलिपि मतदाता पहचान पत्र की प्रतिलिपि"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Caste Certificate Copy\nAadhar Card Copy\nAddress Proof Copy\nBank Passbook Copy\nBirth Certificate Copy : Age proof\nDeath Certificate Copy : In case of widow women\nIncome Certificate Copy: In case of widow/Palanhar/Divyang\nEducation Qualification Marksheet / Certificate Copy\nMarriage Certificate Copy\nJan Aadhar/Bhamashah Card Copy\nPassport Size Photo\nRation Card Copy\nVoter ID Copy\n"
+        },
+        {
+          "question": "आईएफएससी कोड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आईएफएससी (भारतीय वित्तीय प्रणाली कोड) एक 11 अंकों का अल्फान्यूमेरिक कोड है जो ऑनलाइन फंड ट्रांसफर से निपटने वाली विभिन्न बैंक शाखाओं की पहचान करने में मदद करता है"
+                }
+              ]
+            }
+          ],
+          "answer_md": " IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that deal with online fund transfers \n"
+        },
+        {
+          "question": "क्या यह योजना शहरी क्षेत्र के लिए है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, शहरी और ग्रामीण दोनों इस योजना के लिए आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Urban and Rural both can apply for this scheme.\n"
+        },
+        {
+          "question": "क्या मैं आवेदन पत्र अंग्रेजी के अलावा किसी अन्य भाषा में भर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आप केवल अंग्रेजी भाषा में भर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, you can fill only in English language.\n"
+        }
+      ]
+    }
+  }
+}

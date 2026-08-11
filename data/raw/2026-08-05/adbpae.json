@@ -1,0 +1,1857 @@
+{
+  "scheme_id": "67faab977dc6b8a0ad166831",
+  "slug": "adbpae",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "MSME",
+        "ECommerce",
+        "Financial Assistance",
+        "Digitization Of Business",
+        "MSME Policy"
+      ],
+      "schemeName": "Assistance for Digitization of Business Processes and Adoption of eCommerce",
+      "schemeShortTitle": "ADBPAE",
+      "implementingAgency": "District Industries And Commerce Centre",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Sales of goods, services & data protection",
+          "label": "Sales of goods, services & data protection"
+        },
+        {
+          "value": "Technology upgradation",
+          "label": "Technology upgradation"
+        },
+        {
+          "value": "Machine & skill up-Gradation",
+          "label": "Machine & skill up-Gradation"
+        }
+      ],
+      "schemeOpenDate": "2024-12-04",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000019,
+        "label": "Industry Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://istart.rajasthan.gov.in/public/Policies/2024/rajasthan-msme-policy-2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Assistance for Digitization of Business Processes and Adoption of eCommerce&amp;quot; was introduced under the Rajasthan MSME Policy 2024 by the Department of Industries and Commerce, Government of Rajasthan, aims to promote digital transformation and enhance the eCommerce capabilities of MSMEs in the state. This scheme will remain in force until 31st March 2029.\n***Objective***\nMSMEs are provided financial assistance for adopting software, equipment for digitization, and for registering on eCommerce platforms. \n***Scheme Implementation***\nThis scheme component will be implemented through the concerned DICC under the aegis of Department of Industries &amp;amp; Commerce. Office of the Commissioner, Industries &amp;amp; Commerce will be the nodal agency for the implementation and supervision of the scheme at the state level.\n",
+      "benefits_md": "**Financial Reimbursement for Digitization Equipment:**\n\n  - MSMEs are eligible for a one-time reimbursement of 75% of the cost incurred for purchasing software or equipment used in digitization of business process (such as POS systems, barcode scanners machine, inventory management software, etc.).\n  - Maximum Limit: ₹50,000/- per MSME.\n\n**Financial Reimbursement for eCommerce Platform Fee:**\n\n- Reimbursement of 75% of the total fee (excluding shipping fees) charged by eCommerce platform.\n- Maximum Limit: ₹50,000/- per MSME.\n\n**Note:** Assistance would only be eligible for one eCommerce platform per MSME.\n",
+      "briefDescription": "The scheme offers MSMEs up to 75% reimbursement (max ₹50,000) for software/equipment costs for digitization, plus 75% of e-commerce platform fees (excl. shipping), also up to ₹50,000. Reimbursement is allowed for one e-commerce platform per MSME only.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Assistance for Digitization of Business Processes and Adoption of eCommerce\" was introduced under the Rajasthan MSME Policy 2024 by the Department of Industries and Commerce, Government of Rajasthan, aims to promote digital transformation and enhance the eCommerce capabilities of MSMEs in the state. This scheme will remain in force until 31st March 2029."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objective",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "MSMEs are provided financial assistance for adopting software, equipment for digitization, and for registering on eCommerce platforms. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scheme Implementation",
+              "underline": true,
+              "italic": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This scheme component will be implemented through the concerned DICC under the aegis of Department of Industries & Commerce. Office of the Commissioner, Industries & Commerce will be the nodal agency for the implementation and supervision of the scheme at the state level."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Reimbursement for Digitization Equipment:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "MSMEs are eligible for a one-time reimbursement of 75% of the cost incurred for purchasing software or equipment used in digitization of business process (such as POS systems, barcode scanners machine, inventory management software, etc.)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Maximum Limit: ₹50,000/- per MSME."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Reimbursement for eCommerce Platform Fee:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reimbursement of 75% of the total fee (excluding shipping fees) charged by eCommerce platform."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum Limit: ₹50,000/- per MSME."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " Assistance would only be eligible for one eCommerce platform per MSME."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Application Process:",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant downloads the application form "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                    "children": [
+                      {
+                        "text": "(Annexure 6.1)"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " from the official website. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the respective General Manager, District Industries & Commerce Centre (DICC)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Post Application Process:",
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Application will be evaluated by the GM, DICC and presented before the District Level Task Force Committee (DLTFC)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Upon approval, an official approval letter will be issued by GM, DICC."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The approved amount will be disbursed to the authorized bank account of the enterprise."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** The interested applicant downloads the application form [(Annexure 6.1)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the respective General Manager, District Industries &amp;amp; Commerce Centre (DICC).\n***Post Application Process:***\n**Step 1:** Application will be evaluated by the GM, DICC and presented before the District Level Task Force Committee (DLTFC).\n**Step 2:** Upon approval, an official approval letter will be issued by GM, DICC.\n**Step 3:** The approved amount will be disbursed to the authorized bank account of the enterprise.\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Mode of Online Application: e-Mitra",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant can submit the online application by visiting the nearest "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "e-Mitra"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " center or by using their own e-Mitra account."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The application is free of cost."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Mode of Online Application: e-Mitra**\n\n\n- The applicant can submit the online application by visiting the nearest [e-Mitra](https://emitra.rajasthan.gov.in/emitra/home) center or by using their own e-Mitra account.\n\n- The application is free of cost.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The enterprise should be a Micro, Small, or Medium Enterprise (MSME) in production.\n   1. The enterprise should be located in Rajasthan.\n   1. The applicant should possess a valid Udyam Registration Certificate at the time of application.\n   1. The applicant should have incurred expenses on digitization (software/equipment) after notification of Rajasthan MSME Policy 2024.\n   1. The applicant should have registered on an eCommerce platform after the notification of Rajasthan MSME Policy 2024.\n   1. MSME enterprise will only be eligible for benefits once for each component.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The enterprise should be a Micro, Small, or Medium Enterprise (MSME) in production."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The enterprise should be located in Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should possess a valid Udyam Registration Certificate at the time of application."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have incurred expenses on digitization (software/equipment) after notification of Rajasthan MSME Policy 2024."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have registered on an eCommerce platform after the notification of Rajasthan MSME Policy 2024."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "MSME enterprise will only be eligible for benefits once for each component."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "एमएसएमई",
+        "इकोमर्स",
+        "वित्तीय सहायता",
+        "व्यवसाय का डिजिटलीकरण",
+        "एमएसएमई नीति"
+      ],
+      "schemeName": "व्यावसायिक प्रक्रियाओं के डिजिटलीकरण और ई-कॉमर्स को अपनाने में सहायता",
+      "schemeShortTitle": "ADBPAE",
+      "implementingAgency": "District Industries And Commerce Centre",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Sales of goods, services & data protection",
+          "label": "वस्तुओं, सेवाओं और डेटा संरक्षण की बिक्री"
+        },
+        {
+          "value": "Technology upgradation",
+          "label": "प्रौद्योगिकी का उन्नयन"
+        },
+        {
+          "value": "Machine & skill up-Gradation",
+          "label": "मशीन और कौशल उन्नयन"
+        }
+      ],
+      "schemeOpenDate": "2024-12-04",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000019,
+        "label": "उद्योग विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://istart.rajasthan.gov.in/public/Policies/2024/rajasthan-msme-policy-2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के उद्योग और वाणिज्य विभाग द्वारा राजस्थान एमएसएमई नीति 2024 के तहत व्यावसायिक प्रक्रियाओं के डिजिटलीकरण और ई-कॉमर्स को अपनाने के लिए सहायता योजना शुरू की गई थी, जिसका उद्देश्य राज्य में एमएसएमई की ई-कॉमर्स क्षमताओं को बढ़ावा देना और डिजिटल परिवर्तन को बढ़ावा देना है। यह योजना 31 मार्च 2029 तक लागू रहेगी। उद्देश्य एमएसएमई को सॉफ्टवेयर, डिजिटलीकरण के लिए उपकरण और ई-कॉमर्स प्लेटफॉर्म पर पंजीकरण के लिए वित्तीय सहायता प्रदान की जाती है। योजना कार्यान्वयन इस योजना घटक को उद्योग और वाणिज्य विभाग के तत्वावधान में संबंधित डी. आई. सी. के माध्यम से लागू किया जाएगा। राज्य स्तर पर योजना के कार्यान्वयन और पर्यवेक्षण के लिए आयुक्त, उद्योग और वाणिज्य का कार्यालय नोडल एजेंसी होगी।",
+      "benefits_md": "डिजिटलीकरण उपकरणों के लिए वित्तीय प्रतिपूर्तिः-एमएसएमई व्यावसायिक प्रक्रिया के डिजिटलीकरण में उपयोग किए जाने वाले सॉफ्टवेयर या उपकरणों (जैसे पी. ओ. एस. सिस्टम, बारकोड स्कैनर मशीन, इन्वेंट्री मैनेजमेंट सॉफ्टवेयर, आदि) की खरीद के लिए खर्च की गई लागत के 75 प्रतिशत की एकमुश्त प्रतिपूर्ति के लिए पात्र हैं। - अधिकतम सीमाः ₹50,000/- प्रति एमएसएमई। ई-कॉमर्स प्लेटफॉर्म शुल्क के लिए वित्तीय प्रतिपूर्तिः ई-कॉमर्स प्लेटफॉर्म द्वारा लिए गए कुल शुल्क (शिपिंग शुल्क को छोड़कर) का 75 प्रतिशत प्रतिपूर्ति। - अधिकतम सीमाः ₹50,000/- प्रति एमएसएमई। * नोटः * सहायता प्रति एमएसएमई केवल एक ई-कॉमर्स प्लेटफॉर्म के लिए पात्र होगी।",
+      "briefDescription": "यह योजना एमएसएमई को डिजिटलीकरण के लिए सॉफ्टवेयर/उपकरण लागत के लिए 75 प्रतिशत तक की प्रतिपूर्ति (अधिकतम 50,000 रुपये) प्रदान करती है, साथ ही ई-कॉमर्स प्लेटफॉर्म शुल्क (शिपिंग को छोड़कर) का 75 प्रतिशत, 50,000 रुपये तक भी प्रदान करती है। प्रति एमएसएमई केवल एक ई-कॉमर्स प्लेटफॉर्म के लिए प्रतिपूर्ति की अनुमति है।",
+      "exclusions_md": "<बी. आर>",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उद्योग और वाणिज्य विभाग, राजस्थान सरकार द्वारा राजस्थान एमएसएमई नीति 2024 के तहत \"व्यावसायिक प्रक्रियाओं के डिजिटलीकरण और ई-कॉमर्स को अपनाने के लिए सहायता\" योजना शुरू की गई थी, जिसका उद्देश्य राज्य में एमएसएमई की ई-कॉमर्स क्षमताओं को बढ़ाना और डिजिटल परिवर्तन को बढ़ावा देना है। यह योजना 31 मार्च 2029 तक लागू रहेगी।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "उद्देश्य",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "एमएसएमई को सॉफ्टवेयर, डिजिटलीकरण के लिए उपकरण और ई-कॉमर्स प्लेटफॉर्म पर पंजीकरण के लिए वित्तीय सहायता प्रदान की जाती है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "योजना का कार्यान्वयन",
+              "underline": true,
+              "italic": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना घटक को उद्योग और वाणिज्य विभाग के तत्वावधान में संबंधित डी. आई. सी. के माध्यम से लागू किया जाएगा। आयुक्त, उद्योग और वाणिज्य का कार्यालय राज्य स्तर पर योजना के कार्यान्वयन और पर्यवेक्षण के लिए नोडल एजेंसी होगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "डिजिटलीकरण उपकरणों के लिए वित्तीय प्रतिपूर्ति:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एम. एस. एम. ई. व्यवसाय प्रक्रिया के डिजिटलीकरण में उपयोग किए जाने वाले सॉफ्टवेयर या उपकरणों (जैसे पी. ओ. एस. सिस्टम, बारकोड स्कैनर मशीन, इन्वेंट्री मैनेजमेंट सॉफ्टवेयर, आदि) की खरीद के लिए खर्च की गई लागत के 75 प्रतिशत की एकमुश्त प्रतिपूर्ति के लिए पात्र हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अधिकतम सीमाः ₹50,000/- प्रति एमएसएमई।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ई-कॉमर्स प्लेटफॉर्म शुल्क के लिए वित्तीय प्रतिपूर्ति:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ई-कॉमर्स प्लेटफॉर्म द्वारा लिए गए कुल शुल्क (शिपिंग शुल्क को छोड़कर) का 75 प्रतिशत प्रतिपूर्ति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकतम सीमाः ₹50,000/- प्रति एमएसएमई।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "सहायता प्रति एमएसएमई केवल एक ई-कॉमर्स प्लेटफॉर्म के लिए पात्र होगी।"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "आवेदन प्रक्रियाः",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 1:"
+                  },
+                  {
+                    "text": "इच्छुक आवेदक आवेदन पत्र डाउनलोड करता है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                    "children": [
+                      {
+                        "text": "(अनुलग्नक 6.1)"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "आधिकारिक वेबसाइट से।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को संबंधित महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "पोस्ट आवेदन प्रक्रियाः",
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन का मूल्यांकन जी. एम., डी. आई. सी. द्वारा किया जाएगा और जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) के समक्ष प्रस्तुत किया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "अनुमोदन के बाद, जी. एम., डी. आई. सी. द्वारा एक आधिकारिक अनुमोदन पत्र जारी किया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "स्वीकृत राशि उद्यम के अधिकृत बैंक खाते में वितरित की जाएगी।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रिया: चरण 1: इच्छुक आवेदक आधिकारिक वेबसाइट से आवेदन पत्र [(अनुलग्नक 6.1)] (https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf) डाउनलोड करता है। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों (यदि आवश्यक हो तो स्व-सत्यापन) की प्रतियां संलग्न करें। चरण 3: दस्तावेजों के साथ विधिवत भरे गए और हस्ताक्षरित आवेदन पत्र को संबंधित महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को जमा करें। पोस्ट आवेदन प्रक्रिया: चरण 1: आवेदन का मूल्यांकन जी. एम., डी. आई. सी. द्वारा किया जाएगा और जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) के समक्ष प्रस्तुत किया जाएगा। चरण 2: अनुमोदन के बाद, जी. एम., डी. आई. सी. द्वारा एक आधिकारिक अनुमोदन पत्र जारी किया जाएगा। चरण 3: * अनुमोदित राशि उद्यम के अधिकृत बैंक खाते में वितरित की जाएगी।"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "ऑनलाइन आवेदन का माध्यमः ई-मित्र",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक निकटतम स्थान पर जाकर ऑनलाइन आवेदन जमा कर सकता है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "ई-मित्रा"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "केंद्र या अपने स्वयं के ई-मित्र खाते का उपयोग करके।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन निःशुल्क है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "ऑनलाइन आवेदन का मोडः ई-मित्र * *-आवेदक निकटतम [ई-मित्र] पर जाकर ऑनलाइन आवेदन जमा कर सकता है। //एमित्र. राजस्थान. जी. ओ. वी. इन/एमित्र/होम) केंद्र या अपने स्वयं के ई-मित्र खाते का उपयोग करके।-आवेदन निःशुल्क है"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. उद्यम उत्पादन में सूक्ष्म, लघु या मध्यम उद्यम (एमएसएमई) होना चाहिए। 1. उद्यम राजस्थान में स्थित होना चाहिए। 1. आवेदन के समय आवेदक के पास एक वैध उद्यम पंजीकरण प्रमाण पत्र होना चाहिए। 1. आवेदक को राजस्थान एमएसएमई नीति 2024 की अधिसूचना के बाद डिजिटलीकरण (सॉफ्टवेयर/उपकरण) पर खर्च करना चाहिए था। 1. राजस्थान एमएसएमई नीति 2024 की अधिसूचना के बाद आवेदक को ई-कॉमर्स प्लेटफॉर्म पर पंजीकृत होना चाहिए। 1. एमएसएमई उद्यम प्रत्येक घटक के लिए केवल एक बार लाभ के लिए पात्र होगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उद्यम उत्पादन में सूक्ष्म, लघु या मध्यम उद्यम (एमएसएमई) होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उद्यम राजस्थान में स्थित होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदन के समय आवेदक के पास एक वैध उद्यम पंजीकरण प्रमाण पत्र होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को राजस्थान एमएसएमई नीति 2024 की अधिसूचना के बाद डिजिटलीकरण (सॉफ्टवेयर/उपकरण) पर खर्च करना चाहिए था।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "राजस्थान एमएसएमई नीति 2024 की अधिसूचना के बाद आवेदक को ई-कॉमर्स प्लेटफॉर्म पर पंजीकृत होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एमएसएमई उद्यम प्रत्येक घटक के लिए केवल एक बार लाभ के लिए पात्र होगा।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सब कुछ",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सब कुछ",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. उद्यम उत्पादन में सूक्ष्म, लघु या मध्यम उद्यम (एमएसएमई) होना चाहिए। 1. उद्यम राजस्थान में स्थित होना चाहिए। 1. आवेदन के समय आवेदक के पास एक वैध उद्यम पंजीकरण प्रमाण पत्र होना चाहिए। 1. आवेदक को राजस्थान एमएसएमई नीति 2024 की अधिसूचना के बाद डिजिटलीकरण (सॉफ्टवेयर/उपकरण) पर खर्च करना चाहिए था। 1. राजस्थान एमएसएमई नीति 2024 की अधिसूचना के बाद आवेदक को ई-कॉमर्स प्लेटफॉर्म पर पंजीकृत होना चाहिए। 1. एमएसएमई उद्यम प्रत्येक घटक के लिए केवल एक बार लाभ के लिए पात्र होगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उद्यम उत्पादन में सूक्ष्म, लघु या मध्यम उद्यम (एमएसएमई) होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उद्यम राजस्थान में स्थित होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन के समय आवेदक के पास एक वैध उद्यम पंजीकरण प्रमाण पत्र होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को राजस्थान एमएसएमई नीति 2024 की अधिसूचना के बाद डिजिटलीकरण (सॉफ्टवेयर/उपकरण) पर खर्च करना चाहिए था।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "राजस्थान एमएसएमई नीति 2024 की अधिसूचना के बाद आवेदक को ई-कॉमर्स प्लेटफॉर्म पर पंजीकृत होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एमएसएमई उद्यम प्रत्येक घटक के लिए केवल एक बार लाभ के लिए पात्र होगा।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सब कुछ",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सब कुछ",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Udyam Registration (UR) Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Invoices for purchased software/Equipment for digitization along with payment proofs"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Documentary proof for registration on eCommerce Platform for reimbursement of eCommerce fee"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Incorporation/Partnership Deed/Firm Registration or equivalent document related to incorporation of the enterprise"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Board Resolution/Power of attorney in the name of Authorized Signatory"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of regular Commercial Production (Recent Sale Bill)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank account details/Copy of cancelled cheque and PAN Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "CA certificate of details of Expenditure incurred (in original) "
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure 6.2"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Undertaking/Declaration on non-judicial stamp paper as per "
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure 6.3"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of Udyam Registration (UR) Certificate\n1. Invoices for purchased software/Equipment for digitization along with payment proofs\n1. Documentary proof for registration on eCommerce Platform for reimbursement of eCommerce fee\n1. Certificate of Incorporation/Partnership Deed/Firm Registration or equivalent document related to incorporation of the enterprise\n1. Board Resolution/Power of attorney in the name of Authorized Signatory\n1. Proof of regular Commercial Production (Recent Sale Bill)\n1. Bank account details/Copy of cancelled cheque and PAN Card\n1. CA certificate of details of Expenditure incurred (in original) [Annexure 6.2](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)1. Undertaking/Declaration on non-judicial stamp paper as per [Annexure 6.3](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उद्यम पंजीकरण (यू. आर.) प्रमाण पत्र की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भुगतान प्रमाणों के साथ डिजिटलीकरण के लिए खरीदे गए सॉफ्टवेयर/उपकरणों के लिए चालान"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ई-कॉमर्स शुल्क की प्रतिपूर्ति के लिए ई-कॉमर्स प्लेटफॉर्म पर पंजीकरण के लिए दस्तावेजी प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निगमन का प्रमाण पत्र/साझेदारी विलेख/फर्म पंजीकरण या उद्यम के निगमन से संबंधित समकक्ष दस्तावेज"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकृत हस्ताक्षरकर्ता के नाम पर बोर्ड रिज़ॉल्यूशन/पावर ऑफ अटॉर्नी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नियमित वाणिज्यिक उत्पादन का प्रमाण (हाल का बिक्री विधेयक)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण/रद्द किए गए चेक और पैन कार्ड की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "व्यय के विवरण का सीए प्रमाण पत्र (मूल में)"
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "उपाबंध 6.2"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गैर-न्यायिक स्टाम्प पेपर पर उपक्रम/घोषणा"
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "उपाबंध 6.3"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of Udyam Registration (UR) Certificate\n1. Invoices for purchased software/Equipment for digitization along with payment proofs\n1. Documentary proof for registration on eCommerce Platform for reimbursement of eCommerce fee\n1. Certificate of Incorporation/Partnership Deed/Firm Registration or equivalent document related to incorporation of the enterprise\n1. Board Resolution/Power of attorney in the name of Authorized Signatory\n1. Proof of regular Commercial Production (Recent Sale Bill)\n1. Bank account details/Copy of cancelled cheque and PAN Card\n1. CA certificate of details of Expenditure incurred (in original) [Annexure 6.2](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)1. Undertaking/Declaration on non-judicial stamp paper as per [Annexure 6.3](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "MSMEs in production with Udyam Registration and who adopt digitization or eCommerce post-policy notification."
+                }
+              ]
+            }
+          ],
+          "answer_md": "MSMEs in production with Udyam Registration and who adopt digitization or eCommerce post-policy notification.\n"
+        },
+        {
+          "question": "What assistance is provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Up to ₹50,000 for digitization equipment and up to ₹50,000 for eCommerce platform fees."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Up to ₹50,000 for digitization equipment and up to ₹50,000 for eCommerce platform fees.\n"
+        },
+        {
+          "question": "Can a unit apply for both digitization and eCommerce reimbursement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, but only once for each component."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only once for each component.\n"
+        },
+        {
+          "question": "What kind of digitization expenses are covered?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Expenses for POS systems, bar code scanners, inventory management software, etc."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Expenses for POS systems, bar code scanners, inventory management software, etc.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "What is excluded from the eCommerce fee reimbursement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Shipping fees are excluded."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Shipping fees are excluded.\n"
+        },
+        {
+          "question": "Where should I submit my application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At the office of the General Manager, District Industries and Commerce Centre (DICC)."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the office of the General Manager, District Industries and Commerce Centre (DICC).\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "Who approves the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The District Level Task Force Committee (DLTFC)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Level Task Force Committee (DLTFC).\n"
+        },
+        {
+          "question": "How will the assistance amount be received?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It will be directly transferred to the applicant's bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It will be directly transferred to the applicant&#39;s bank account.\n"
+        },
+        {
+          "question": "Can an MSME apply if it registered on an eCommerce platform before the policy?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only post-policy registrations are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only post-policy registrations are eligible.\n"
+        },
+        {
+          "question": "Can I get reimbursement from multiple eCommerce platforms?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, assistance is allowed for only one platform per MSME."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, assistance is allowed for only one platform per MSME.\n"
+        },
+        {
+          "question": "What is the role of DICC in this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DICC manages application processing, approvals, and disbursements at the district level."
+                }
+              ]
+            }
+          ],
+          "answer_md": "DICC manages application processing, approvals, and disbursements at the district level.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उद्यम पंजीकरण के साथ उत्पादन में एमएसएमई और जो डिजिटलीकरण या ई-कॉमर्स पोस्ट-पॉलिसी अधिसूचना को अपनाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "MSMEs in production with Udyam Registration and who adopt digitization or eCommerce post-policy notification.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डिजिटलीकरण उपकरण के लिए 50,000 रुपये तक और ई-कॉमर्स प्लेटफॉर्म शुल्क के लिए 50,000 रुपये तक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Up to ₹50,000 for digitization equipment and up to ₹50,000 for eCommerce platform fees.\n"
+        },
+        {
+          "question": "क्या कोई इकाई डिजिटलीकरण और ई-कॉमर्स प्रतिपूर्ति दोनों के लिए आवेदन कर सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, लेकिन प्रत्येक घटक के लिए केवल एक बार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only once for each component.\n"
+        },
+        {
+          "question": "किस तरह के डिजिटलीकरण खर्च शामिल हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पी. ओ. एस. सिस्टम, बार कोड स्कैनर, इन्वेंट्री प्रबंधन सॉफ्टवेयर आदि के लिए खर्च।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Expenses for POS systems, bar code scanners, inventory management software, etc.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "ई-कॉमर्स शुल्क प्रतिपूर्ति से क्या बाहर रखा गया है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "शिपिंग शुल्क को बाहर रखा गया है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Shipping fees are excluded.\n"
+        },
+        {
+          "question": "मुझे अपना आवेदन कहाँ जमा करना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "महाप्रबंधक के कार्यालय में, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.)।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the office of the General Manager, District Industries and Commerce Centre (DICC).\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "आवेदन को कौन मंजूरी देता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.)।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Level Task Force Committee (DLTFC).\n"
+        },
+        {
+          "question": "सहायता राशि कैसे प्राप्त होगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इसे सीधे आवेदक के बैंक खाते में स्थानांतरित किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It will be directly transferred to the applicant&#39;s bank account.\n"
+        },
+        {
+          "question": "क्या कोई एम. एस. एम. ई. आवेदन कर सकता है यदि वह नीति से पहले ई-कॉमर्स प्लेटफॉर्म पर पंजीकृत है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल पोस्ट-पॉलिसी पंजीकरण ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only post-policy registrations are eligible.\n"
+        },
+        {
+          "question": "क्या मुझे कई ई-कॉमर्स प्लेटफार्मों से प्रतिपूर्ति मिल सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, प्रति एमएसएमई केवल एक मंच के लिए सहायता की अनुमति है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, assistance is allowed for only one platform per MSME.\n"
+        },
+        {
+          "question": "इस योजना में डी. आई. सी. की क्या भूमिका है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डी. आई. सी. जिला स्तर पर आवेदन प्रसंस्करण, अनुमोदन और वितरण का प्रबंधन करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "DICC manages application processing, approvals, and disbursements at the district level.\n"
+        }
+      ]
+    }
+  }
+}

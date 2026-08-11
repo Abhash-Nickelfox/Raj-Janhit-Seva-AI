@@ -1,0 +1,1413 @@
+{
+  "scheme_id": "67b1b896d6a94de2eedd6d17",
+  "slug": "dgyr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Student",
+        "Special Backward Classes",
+        "Free Book",
+        "Free Education",
+        "Free Uniform"
+      ],
+      "schemeName": "Devnarayan Gurukul Yojana",
+      "schemeShortTitle": "DGYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=87"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Devnarayan Gurukul Yojana&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide free residential education to students from Special Backward Classes (SBC) i.e. Banjara, Baldia, Labana, Gadia-Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadari, Gayari). Under this scheme, selected students admitted to Class 6 in government-approved schools receive free education, accommodation, meals, uniforms, textbooks, and writing materials.\n",
+      "benefits_md": "Under this scheme, eligible students receive free education, accommodation, meals, uniforms, text books and study materials in government-approved schools.\n",
+      "briefDescription": "The scheme aims to provide free residential education to students from Special Backward Classes. Under this scheme, selected students receive free education, accommodation, meals, uniforms, books, and study materials in government-approved schools.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Devnarayan Gurukul Yojana\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide free residential education to students from Special Backward Classes (SBC) i.e. Banjara, Baldia, Labana, Gadia-Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadari, Gayari). Under this scheme, selected students admitted to Class 6 in government-approved schools receive free education, accommodation, meals, uniforms, textbooks, and writing materials."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, eligible students receive free education, accommodation, meals, uniforms, text books and study materials in government-approved schools."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the District Education Officer (Secondary) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the principal of the District Education Officer (Secondary)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the District Education Officer (Secondary) to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Students will be admitted to class 6"
+                  },
+                  {
+                    "text": "th",
+                    "superscript": true
+                  },
+                  {
+                    "text": " based on their class 5"
+                  },
+                  {
+                    "text": "th ",
+                    "superscript": true
+                  },
+                  {
+                    "text": "merit."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Education Officer (Secondary) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the principal of the District Education Officer (Secondary)\n**Step 4:** Request a receipt or acknowledgment from the District Education Officer (Secondary) to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n**Note:** Students will be admitted to class 6th based on their class 5th merit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native resident of Rajasthan.\n1. The applicant&#39;s family should not be a taxpayer.\n1. The applicant must be a regular student in a government or non-government school. \n1. The applicant must have passed class 5th with a minimum of 50% or above marks.1. The applicant should belong to one of the following Special Backward Class (SBC) communities:\n\n\n- Banjara, Baldia, Labana\n- Gadiya Lohar, Gadolia\n- Gujar, Gurjar\n- Raika, Rebari (Debasi)\n- Gadaria (Gadri, Gyari)\n\n**Note 1:** Only students who qualify on merit after clearing the pre-admission examination will be admitted to the 59 schools selected by the department.\n**Note 2:** Students will be given admission in Class 6 as per their merit based on marks obtained in Class 5.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's family should not be a taxpayer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a regular student in a government or non-government school. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have passed class 5"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " with a minimum of 50% or above marks."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to one of the following Special Backward Class (SBC) communities:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Banjara, Baldia, Labana"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gadiya Lohar, Gadolia"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gujar, Gurjar"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Raika, Rebari (Debasi)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gadaria (Gadri, Gyari)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 1:",
+                  "bold": true
+                },
+                {
+                  "text": " Only students who qualify on merit after clearing the pre-admission examination will be admitted to the 59 schools selected by the department."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 2:",
+                  "bold": true
+                },
+                {
+                  "text": " Students will be given admission in Class 6 as per their merit based on marks obtained in Class 5."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "छात्र",
+        "विशेष पिछड़े वर्ग",
+        "निःशुल्क पुस्तक",
+        "निःशुल्क शिक्षा",
+        "निःशुल्क वर्दी"
+      ],
+      "schemeName": "देवनारायण गुरुकुल योजना",
+      "schemeShortTitle": "DGYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=87"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई इस योजना का उद्देश्य विशेष पिछड़े वर्गों (एस. बी. सी.) के छात्रों को निःशुल्क आवासीय शिक्षा प्रदान करना है। बंजारा, बलदिया, लाबाना, गादिया-लोहार, गडोलिया, गुजर, गुर्जर, राइका, रेबरी (देबसी) और गदरिया (गदारी, गायरी)। इस योजना के तहत, सरकार द्वारा अनुमोदित स्कूलों में कक्षा 6 में प्रवेश लेने वाले चयनित छात्रों को निःशुल्क शिक्षा, आवास, भोजन, वर्दी, पाठ्यपुस्तकें और लेखन सामग्री मिलती है।",
+      "benefits_md": "इस योजना के तहत पात्र छात्रों को सरकार द्वारा अनुमोदित स्कूलों में निःशुल्क शिक्षा, आवास, भोजन, वर्दी, पाठ्य पुस्तकें और अध्ययन सामग्री प्राप्त होती है।",
+      "briefDescription": "इस योजना का उद्देश्य विशेष पिछड़े वर्गों के छात्रों को निःशुल्क आवासीय शिक्षा प्रदान करना है। इस योजना के तहत, चयनित छात्रों को सरकार द्वारा अनुमोदित स्कूलों में निःशुल्क शिक्षा, आवास, भोजन, वर्दी, किताबें और अध्ययन सामग्री प्राप्त होती है।",
+      "exclusions_md": "<बी. आर>",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"देवनारायण गुरुकुल योजना\" योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी, जिसका उद्देश्य विशेष पिछड़े वर्गों (एस. बी. सी.) यानी बंजारा, बलदिया, लाबाना, गादिया-लोहार, गडोलिया, गुजरात, गुर्जर, राइका, रेबाड़ी (देबासी) और गदरिया (गदर, गायरी) के छात्रों को निःशुल्क आवासीय शिक्षा प्रदान करना है। इस योजना के तहत, सरकार द्वारा अनुमोदित स्कूलों में कक्षा 6 में प्रवेश लेने वाले चयनित छात्रों को निःशुल्क शिक्षा, आवास, भोजन, वर्दी, पाठ्यपुस्तकें और लेखन सामग्री मिलती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत पात्र छात्रों को सरकार द्वारा अनुमोदित स्कूलों में निःशुल्क शिक्षा, आवास, भोजन, वर्दी, पाठ्य पुस्तकें और अध्ययन सामग्री प्राप्त होती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को (कार्यालय के घंटों के दौरान) जिला शिक्षा अधिकारी (माध्यमिक) के पास जाना चाहिए और भरे हुए आवेदनों को जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला शिक्षा अधिकारी (माध्यमिक) के प्राचार्य को दस्तावेजों के साथ विधिवत भरा और हस्ताक्षरित आवेदन पत्र जमा करें"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला शिक्षा अधिकारी (माध्यमिक) से रसीद या स्वीकृति का अनुरोध करें, जिसे आवेदन प्रस्तुत किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "ध्यान देंः",
+                    "bold": true
+                  },
+                  {
+                    "text": "छात्रों को कक्षा 6 में प्रवेश दिया जाएगा"
+                  },
+                  {
+                    "text": "टी",
+                    "superscript": true
+                  },
+                  {
+                    "text": "कक्षा 5 के आधार पर"
+                  },
+                  {
+                    "text": "टी",
+                    "superscript": true
+                  },
+                  {
+                    "text": "मैरिट।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को (कार्यालय के घंटों के दौरान) जिला शिक्षा अधिकारी (माध्यमिक) के पास जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों (यदि आवश्यक हो तो स्व-सत्यापन) की प्रतियां संलग्न करें। चरण 3: दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला शिक्षा अधिकारी (माध्यमिक) के प्राचार्य को जमा करें। चरण 4: जिला शिक्षा अधिकारी (माध्यमिक) से रसीद या पावती का अनुरोध करें, जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। * नोट: छात्रों को उनकी कक्षा 5 वीं की मैरिट के आधार पर कक्षा 6 में प्रवेश दिया जाएगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 8,
+          "lte": 10,
+          "category": "General"
+        },
+        {
+          "gte": 8,
+          "lte": 10,
+          "category": "EWS"
+        },
+        {
+          "gte": 8,
+          "lte": 10,
+          "category": "Female"
+        },
+        {
+          "gte": 8,
+          "lte": 10,
+          "category": "OBC"
+        },
+        {
+          "gte": 8,
+          "lte": 10,
+          "category": "SC"
+        },
+        {
+          "gte": 8,
+          "lte": 10,
+          "category": "ST"
+        },
+        {
+          "gte": 8,
+          "lte": 10,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Primary (1-5)",
+          "status": "Completed",
+          "score_gte": 50,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Middle (6-8)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक को राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक का परिवार करदाता नहीं होना चाहिए। 1. आवेदक को सरकारी या गैर-सरकारी स्कूल में नियमित छात्र होना चाहिए। 1. आवेदक को न्यूनतम 50 प्रतिशत या उससे अधिक अंकों के साथ 5वीं कक्षा उत्तीर्ण होना चाहिए। आवेदक को निम्नलिखित विशेष पिछड़ा वर्ग (एस. बी. सी.) समुदायों में से किसी एक से संबंधित होना चाहिए:-बंजारा, बलदिया, लाबाना-गडिया लोहार, गडोलिया-गुजरात, गुर्जर-राइका, रेबारी (देबासी)-गडारिया (गादरी, ग्यारी) * नोट 1: * केवल वे छात्र जो पूर्व-प्रवेश परीक्षा उत्तीर्ण करने के बाद मैरिट पर अर्हता प्राप्त करते हैं, उन्हें विभाग द्वारा चुने गए 59 स्कूलों में प्रवेश दिया जाएगा। नोट 2: छात्रों को कक्षा 5 में प्राप्त अंकों के आधार पर उनकी मैरिट के अनुसार कक्षा 6 में प्रवेश दिया जाएगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक का परिवार करदाता नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को सरकारी या गैर-सरकारी स्कूल में नियमित छात्र होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को कक्षा 5 उत्तीर्ण होना चाहिए"
+                },
+                {
+                  "text": "टी",
+                  "superscript": true
+                },
+                {
+                  "text": "न्यूनतम 50 प्रतिशत या उससे अधिक अंकों के साथ।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को निम्नलिखित विशेष पिछड़े वर्ग (एस. बी. सी.) समुदायों में से किसी एक से संबंधित होना चाहिएः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बंजारा, बलदिया, लाबाना"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गादिया लोहार, गडोलिया"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गुजर, गुर्जर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रायका, रेबरी (देबासी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गदरिया (गदरिया, ग्यारी)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नोट 1:",
+                  "bold": true
+                },
+                {
+                  "text": "विभाग द्वारा चुने गए 59 स्कूलों में केवल पूर्व-प्रवेश परीक्षा उत्तीर्ण करने के बाद मैरिट के आधार पर उत्तीर्ण होने वाले छात्रों को प्रवेश दिया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "टिप्पणी 2:",
+                  "bold": true
+                },
+                {
+                  "text": "छात्रों को कक्षा 5 में प्राप्त अंकों के आधार पर उनकी मैरिट के अनुसार कक्षा 6 में प्रवेश दिया जाएगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सब कुछ",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "value": "rural",
+          "label": "ग्रामीण"
+        }
+      ],
+      "caste": [
+        {
+          "value": "obc",
+          "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 8,
+        "lte": 10,
+        "category": "General"
+      },
+      {
+        "gte": 8,
+        "lte": 10,
+        "category": "EWS"
+      },
+      {
+        "gte": 8,
+        "lte": 10,
+        "category": "Female"
+      },
+      {
+        "gte": 8,
+        "lte": 10,
+        "category": "OBC"
+      },
+      {
+        "gte": 8,
+        "lte": 10,
+        "category": "SC"
+      },
+      {
+        "gte": 8,
+        "lte": 10,
+        "category": "ST"
+      },
+      {
+        "gte": 8,
+        "lte": 10,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Primary (1-5)",
+        "status": "Completed",
+        "score_gte": 50,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Middle (6-8)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक को राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक का परिवार करदाता नहीं होना चाहिए। 1. आवेदक को सरकारी या गैर-सरकारी स्कूल में नियमित छात्र होना चाहिए। 1. आवेदक को न्यूनतम 50 प्रतिशत या उससे अधिक अंकों के साथ 5वीं कक्षा उत्तीर्ण होना चाहिए। आवेदक को निम्नलिखित विशेष पिछड़ा वर्ग (एस. बी. सी.) समुदायों में से किसी एक से संबंधित होना चाहिए:-बंजारा, बलदिया, लाबाना-गडिया लोहार, गडोलिया-गुजरात, गुर्जर-राइका, रेबारी (देबासी)-गडारिया (गादरी, ग्यारी) * नोट 1: * केवल वे छात्र जो पूर्व-प्रवेश परीक्षा उत्तीर्ण करने के बाद मैरिट पर अर्हता प्राप्त करते हैं, उन्हें विभाग द्वारा चुने गए 59 स्कूलों में प्रवेश दिया जाएगा। नोट 2: छात्रों को कक्षा 5 में प्राप्त अंकों के आधार पर उनकी मैरिट के अनुसार कक्षा 6 में प्रवेश दिया जाएगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक का परिवार करदाता नहीं होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को सरकारी या गैर-सरकारी स्कूल में नियमित छात्र होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को कक्षा 5 उत्तीर्ण होना चाहिए"
+              },
+              {
+                "text": "टी",
+                "superscript": true
+              },
+              {
+                "text": "न्यूनतम 50 प्रतिशत या उससे अधिक अंकों के साथ।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को निम्नलिखित विशेष पिछड़े वर्ग (एस. बी. सी.) समुदायों में से किसी एक से संबंधित होना चाहिएः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "बंजारा, बलदिया, लाबाना"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "गादिया लोहार, गडोलिया"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "गुजर, गुर्जर"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "रायका, रेबरी (देबासी)"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "गदरिया (गदरिया, ग्यारी)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोट 1:",
+                "bold": true
+              },
+              {
+                "text": "विभाग द्वारा चुने गए 59 स्कूलों में केवल पूर्व-प्रवेश परीक्षा उत्तीर्ण करने के बाद मैरिट के आधार पर उत्तीर्ण होने वाले छात्रों को प्रवेश दिया जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "टिप्पणी 2:",
+                "bold": true
+              },
+              {
+                "text": "छात्रों को कक्षा 5 में प्राप्त अंकों के आधार पर उनकी मैरिट के अनुसार कक्षा 6 में प्रवेश दिया जाएगा।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सब कुछ",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "value": "rural",
+        "label": "ग्रामीण"
+      }
+    ],
+    "caste": [
+      {
+        "value": "obc",
+        "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Educational certificate (Marks Certificate of Class 5)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Receipt of School Fees"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Domicile Certificate\n1. Educational certificate (Marks Certificate of Class 5)\n1. Income Certificate\n1. Caste Certificate\n1. Jan Aadhaar Card\n1. Receipt of School Fees\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक प्रमाण पत्र (कक्षा 5 का अंक प्रमाण पत्र)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्कूल शुल्क की प्राप्ति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Domicile Certificate\n1. Educational certificate (Marks Certificate of Class 5)\n1. Income Certificate\n1. Caste Certificate\n1. Jan Aadhaar Card\n1. Receipt of School Fees\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students from Special Backward Classes (SBC), who have passed Class 5 with at least 50% marks."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students from Special Backward Classes (SBC), who have passed Class 5 with at least 50% marks.\n"
+        },
+        {
+          "question": "Which communities are eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Banjara, Baldia, Labana, Gadiya Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadri, Gyari)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Banjara, Baldia, Labana, Gadiya Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadri, Gyari).\n"
+        },
+        {
+          "question": "Can students from private schools apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if the school is recognized by the Rajasthan Government."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if the school is recognized by the Rajasthan Government.\n"
+        },
+        {
+          "question": "Where should the application be submitted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications should be submitted to the District Education Officer (Secondary) of the applicant’s district.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications should be submitted to the District Education Officer (Secondary) of the applicant's district.\n\n"
+        },
+        {
+          "question": "Is there any fee for applying to this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no application fee for this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no application fee for this scheme.\n"
+        },
+        {
+          "question": "Can a student reapply if they fail in Class 5th?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, once a student is admitted, they must meet academic performance requirements to continue."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, once a student is admitted, they must meet academic performance requirements to continue.\n"
+        },
+        {
+          "question": "Where can I get more details?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Visit the official website of the Directorate of Secondary Education, Rajasthan: www.rajshiksha.gov.in."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Visit the official website of the Directorate of Secondary Education, Rajasthan: www.rajshiksha.gov.in.\n"
+        },
+        {
+          "question": "What documents are required?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Domicile Certificate, Income Certificate, Caste Certificate, Jan Aadhaar Card, and Class 5 Marksheet."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Domicile Certificate, Income Certificate, Caste Certificate, Jan Aadhaar Card, and Class 5 Marksheet.\n"
+        },
+        {
+          "question": "How many schools are covered under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "59 schools have been selected by the government for this scheme.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "59 schools have been selected by the government for this scheme.\n\n"
+        },
+        {
+          "question": "How are students selected?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Selection is based on merit and performance in the pre-admission examination."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selection is based on merit and performance in the pre-admission examination.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विशेष पिछड़े वर्ग (एस. बी. सी.) के छात्र जिन्होंने कम से कम 50 प्रतिशत अंकों के साथ कक्षा 5 उत्तीर्ण की हो।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students from Special Backward Classes (SBC), who have passed Class 5 with at least 50% marks.\n"
+        },
+        {
+          "question": "कौन से समुदाय पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बंजारा, बलदिया, लाबाना, गादिया लोहार, गडोलिया, गुजर, गुर्जर, राइका, रेबारी (देबासी) और गदरिया (गादरी, ग्यारी)।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Banjara, Baldia, Labana, Gadiya Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadri, Gyari).\n"
+        },
+        {
+          "question": "क्या निजी स्कूलों के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, अगर स्कूल राजस्थान सरकार द्वारा मान्यता प्राप्त है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if the school is recognized by the Rajasthan Government.\n"
+        },
+        {
+          "question": "आवेदन कहाँ जमा किया जाना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन आवेदक के जिले के जिला शिक्षा अधिकारी (माध्यमिक) को जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications should be submitted to the District Education Officer (Secondary) of the applicant's district.\n\n"
+        },
+        {
+          "question": "क्या इस योजना में आवेदन करने के लिए कोई शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना के लिए कोई आवेदन शुल्क नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no application fee for this scheme.\n"
+        },
+        {
+          "question": "क्या कोई छात्र कक्षा 5 में असफल होने पर फिर से आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, एक बार छात्र के प्रवेश लेने के बाद, उन्हें जारी रखने के लिए शैक्षणिक प्रदर्शन आवश्यकताओं को पूरा करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, once a student is admitted, they must meet academic performance requirements to continue.\n"
+        },
+        {
+          "question": "मैं अधिक विवरण कहाँ से प्राप्त कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "माध्यमिक शिक्षा निदेशालय, राजस्थान की आधिकारिक वेबसाइटः www.rajshiksha.gov.in पर जाएँ।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Visit the official website of the Directorate of Secondary Education, Rajasthan: www.rajshiksha.gov.in.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाण पत्र, आय प्रमाण पत्र, जाति प्रमाण पत्र, जन आधार कार्ड और कक्षा 5 की मार्कशीट।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Domicile Certificate, Income Certificate, Caste Certificate, Jan Aadhaar Card, and Class 5 Marksheet.\n"
+        },
+        {
+          "question": "इस योजना के तहत कितने स्कूल शामिल हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सरकार ने इस योजना के लिए 59 स्कूलों का चयन किया है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "59 schools have been selected by the government for this scheme.\n\n"
+        },
+        {
+          "question": "छात्रों का चयन कैसे किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "चयन प्रवेश पूर्व परीक्षा में मैरिट और प्रदर्शन के आधार पर किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selection is based on merit and performance in the pre-admission examination.\n"
+        }
+      ]
+    }
+  }
+}

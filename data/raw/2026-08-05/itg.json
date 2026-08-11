@@ -1,0 +1,1096 @@
+{
+  "scheme_id": "649ab2cd380f8e123543f400",
+  "slug": "itg",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Financial Assistance",
+        "Girl Education",
+        "Empowerment",
+        "Higher Education"
+      ],
+      "schemeName": "Incentive To Girls",
+      "schemeShortTitle": "ITG",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/488"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Rajasthan State government initiated a scheme &quot;Incentive for Girls&quot; to provide financial assistance. Under this scheme, to the all those girls students who are pursuing Senior Secondary, Graduation in Agriculture and Post Graduation in Agriculture, financial support will be provided. \n",
+      "benefits_md": "\n- ₹15,000/- per annum: To the girl students studying in senior secondary by taking agriculture subjects in 11th and 12th classes \n- ₹25,000/- per annum: To girl students studying in Agricultural graduate education like Horticulture, Dairy, Agricultural Engineering, Food Processing and Shri Karan Narendra Business Management College, Jobner in 4/5 years course\n- ₹25,000/- per annum: To the girl students studying in Post Graduate Agriculture (M.Sc. Agriculture) in the 2-year course.\n- ₹40,000/- per annum: To the girl students studying for a maximum of 3 years PhD.\n\n",
+      "briefDescription": "Rajasthan State started a scheme \"Incentive for Girls\" for state students.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Rajasthan State government initiated a scheme \"Incentive for Girls\" to provide financial assistance. Under this scheme, to the all those girls students who are pursuing Senior Secondary, Graduation in Agriculture and Post Graduation in Agriculture, financial support will be provided. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹15,000/- per annum: To the girl students studying in senior secondary by taking agriculture subjects in 11th and 12th classes "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹25,000/- per annum: To girl students studying in Agricultural graduate education like Horticulture, Dairy, Agricultural Engineering, Food Processing and Shri Karan Narendra Business Management College, Jobner in 4/5 years course"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹25,000/- per annum: To the girl students studying in Post Graduate Agriculture (M.Sc. Agriculture) in the 2-year course."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹40,000/- per annum: To the girl students studying for a maximum of 3 years PhD."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://rajkisan.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to visit "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajkisan.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "official portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "On new page applicant can login with their Jan-Aadhaar Number OR"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants can also login with their SSO ID on "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "sso portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Now students can log in with their Jan-Aadhaar ID. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach the required documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicants have to visit [official portal.](https://rajkisan.rajasthan.gov.in/)1. Click on login.\n1. On new page applicant can login with their Jan-Aadhaar Number OR\n1. Applicants can also login with their SSO ID on [sso portal.](https://sso.rajasthan.gov.in/signin)1. Now students can log in with their Jan-Aadhaar ID. 1. Fill out the application form.\n1. Attach the required documents.\n1. Submit.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The student should be a native of Rajasthan.\n1. Schools, Colleges, and Universities are recognized by the state and state government.\n1. Girl Students should not have failed in the last year. \n1. The incentive amount is not payable to the girl students who leave school, college, or university in the middle of the class session.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Schools, Colleges, and Universities are recognized by the state and state government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Girl Students should not have failed in the last year. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The incentive amount is not payable to the girl students who leave school, college, or university in the middle of the class session."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "बालिका शिक्षा",
+        "सशक्तिकरण",
+        "उच्च शिक्षा"
+      ],
+      "schemeName": "लड़कियों को प्रोत्साहन",
+      "schemeShortTitle": "ITG",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "कृषि विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/488"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान राज्य सरकार ने वित्तीय सहायता प्रदान करने के लिए लड़कियों के लिए प्रोत्साहन योजना शुरू की। इस योजना के तहत उन सभी लड़कियों को वित्तीय सहायता प्रदान की जाएगी जो वरिष्ठ माध्यमिक, कृषि में स्नातक और कृषि में स्नातकोत्तर कर रही हैं।",
+      "benefits_md": "- ₹15,000/- प्रति वर्षः 11वीं और 12वीं कक्षाओं में कृषि विषय लेकर वरिष्ठ माध्यमिक में पढ़ने वाली छात्राओं के लिए-₹25,000/- प्रति वर्षः बागवानी, डेयरी, कृषि इंजीनियरिंग, खाद्य प्रसंस्करण और श्री करण नरेंद्र बिजनेस मैनेजमेंट कॉलेज, जॉबनर जैसे कृषि स्नातक शिक्षा में पढ़ने वाली छात्राओं के लिए 4/5 साल के पाठ्यक्रम में-₹25,000/- प्रति वर्षः स्नातकोत्तर कृषि (एम. एस. सी.) में पढ़ने वाली छात्राओं के लिए। कृषि) 2 साल के पाठ्यक्रम में। ₹40,000/- प्रति वर्षः अधिकतम 3 वर्ष की पी. एच. डी. के लिए अध्ययन करने वाली छात्राओं के लिए।",
+      "briefDescription": "राजस्थान राज्य ने राज्य के छात्रों के लिए \"लड़कियों के लिए प्रोत्साहन\" योजना शुरू की।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान राज्य सरकार ने वित्तीय सहायता प्रदान करने के लिए \"लड़कियों के लिए प्रोत्साहन\" योजना शुरू की। इस योजना के तहत उन सभी लड़कियों को वित्तीय सहायता प्रदान की जाएगी जो वरिष्ठ माध्यमिक, कृषि में स्नातक और कृषि में स्नातकोत्तर कर रही हैं।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹15,000/- प्रति वर्षः 11वीं और 12वीं कक्षा में कृषि विषय पढ़कर वरिष्ठ माध्यमिक में पढ़ने वाली छात्राओं के लिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹25,000/- प्रति वर्षः बागवानी, डेयरी, कृषि इंजीनियरिंग, खाद्य प्रसंस्करण और श्री करण नरेंद्र बिजनेस मैनेजमेंट कॉलेज, जॉब्नर जैसे कृषि स्नातक शिक्षा में पढ़ने वाली छात्राओं के लिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹25,000/- प्रति वर्षः स्नातकोत्तर कृषि (एम. एससी.) में पढ़ने वाली छात्राओं के लिए। कृषि) 2 साल के पाठ्यक्रम में।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹40,000/- प्रति वर्षः अधिकतम 3 वर्ष की पीएचडी के लिए अध्ययन करने वाली लड़कियों के लिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://rajkisan.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदकों को आना होगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajkisan.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "आधिकारिक पोर्टल।"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लॉगिन पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "नए पृष्ठ पर आवेदक अपने जन-आधार संख्या से लॉग-इन कर सकते हैं या"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक अपने एस. एस. ओ. आई. डी. से भी लॉग इन कर सकते हैं"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "एस. एस. ओ पोर्टल।"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "अब छात्र अपने जन-आधार आईडी से लॉग इन कर सकते हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन पत्र भरें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक दस्तावेज संलग्न करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रस्तुत करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदकों को [आधिकारिक पोर्टल] (https://rajkisan.rajasthan.gov.in) 1 पर जाना होगा। लॉगिन पर क्लिक करें। 1. नए पृष्ठ पर आवेदक अपने जन-आधार संख्या या 1 से लॉग इन कर सकते हैं। आवेदक अपने एस. एस. ओ. आई. डी. के साथ [एस. एस. ओ. पोर्टल] (https://sso.rajasthan.gov.in/signin) 1 पर भी लॉग इन कर सकते हैं। अब छात्र अपने जन-आधार आईडी से लॉग इन कर सकते हैं। 1. आवेदन पत्र भरें। 1. आवश्यक दस्तावेज संलग्न करें। 1. प्रस्तुत करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 14,
+          "lte": 40,
+          "category": "female"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. छात्र राजस्थान का मूल निवासी होना चाहिए। 1. स्कूल, कॉलेज और विश्वविद्यालय राज्य और राज्य सरकार द्वारा मान्यता प्राप्त हैं। 1. विद्यार्थिनियों को पिछले वर्ष असफल नहीं होना चाहिए था। 1. प्रोत्साहन राशि उन लड़कियों को देय नहीं है जो कक्षा सत्र के बीच में स्कूल, कॉलेज या विश्वविद्यालय छोड़ देती हैं।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्कूल, कॉलेज और विश्वविद्यालय राज्य और राज्य सरकार द्वारा मान्यता प्राप्त हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विद्यार्थिनियों को पिछले वर्ष असफल नहीं होना चाहिए था।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रोत्साहन राशि उन लड़कियों को देय नहीं है जो कक्षा सत्र के बीच में स्कूल, कॉलेज या विश्वविद्यालय छोड़ देती हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 14,
+        "lte": 40,
+        "category": "female"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. छात्र राजस्थान का मूल निवासी होना चाहिए। 1. स्कूल, कॉलेज और विश्वविद्यालय राज्य और राज्य सरकार द्वारा मान्यता प्राप्त हैं। 1. विद्यार्थिनियों को पिछले वर्ष असफल नहीं होना चाहिए था। 1. प्रोत्साहन राशि उन लड़कियों को देय नहीं है जो कक्षा सत्र के बीच में स्कूल, कॉलेज या विश्वविद्यालय छोड़ देती हैं।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "स्कूल, कॉलेज और विश्वविद्यालय राज्य और राज्य सरकार द्वारा मान्यता प्राप्त हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "विद्यार्थिनियों को पिछले वर्ष असफल नहीं होना चाहिए था।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "प्रोत्साहन राशि उन लड़कियों को देय नहीं है जो कक्षा सत्र के बीच में स्कूल, कॉलेज या विश्वविद्यालय छोड़ देती हैं।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan-Aadhaar."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicant Photograph."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Age and Address Proof."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Education Qualification Marksheet/Certificate: Certificate of HOD"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Educational Qualification Marksheet/Certificate: Final Examination. pass mark sheet."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Bank Passbook."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan-Aadhaar.\n1. Applicant Photograph.\n1. Age and Address Proof.\n1. Copy of Education Qualification Marksheet/Certificate: Certificate of HOD\n1. Copy of Educational Qualification Marksheet/Certificate: Final Examination. pass mark sheet.\n1. Copy of Bank Passbook.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन-आधार।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक का फोटो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयु और पते का प्रमाण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाण पत्र की प्रतिलिपिः एचओडी का प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपिः अंतिम परीक्षा. पास मार्कशीट।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan-Aadhaar.\n1. Applicant Photograph.\n1. Age and Address Proof.\n1. Copy of Education Qualification Marksheet/Certificate: Certificate of HOD\n1. Copy of Educational Qualification Marksheet/Certificate: Final Examination. pass mark sheet.\n1. Copy of Bank Passbook.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan State started a scheme \"Incentive for Girls\" for state students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan State started a scheme \"Incentive for Girls\" for state students.\n"
+        },
+        {
+          "question": "What Are The Benefits Under The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial Assistance is provided to the agricultural studying girl student. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance is provided to the agricultural studying girl student. \n"
+        },
+        {
+          "question": "Who Can Get The Benefits Of The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All those Girl students who are natives of Rajasthan and fulfil the eligibility criteria. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "All those Girl students who are natives of Rajasthan and fulfil the eligibility criteria. \n"
+        },
+        {
+          "question": "What is the educational eligibility criteria ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Studying agriculture in Schools, Colleges, and Universities"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Studying agriculture in Schools, Colleges, and Universities\n"
+        },
+        {
+          "question": "What Is The Financial Eligibility Criteria ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, There is not such criteria. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, There is not such criteria. \n"
+        },
+        {
+          "question": "May other state person apply for the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only girl students who are native of Rajasthan"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only girl students who are native of Rajasthan\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicants have to visit official portal.  \n2. Click on login.  \n3. On new page applicant can login with their Jan-Aadhaar Number OR. \n4. Applicants can also login with their SSO ID on sso portal.\n5. Now students can log in with their Jan-Aadhaar ID. \n6. Fill out the application form.\n7. Attach the required documents.\n8. Submit."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants have to visit official portal.  \n2. Click on login.  \n3. On new page applicant can login with their Jan-Aadhaar Number OR. \n4. Applicants can also login with their SSO ID on sso portal.\n5. Now students can log in with their Jan-Aadhaar ID. \n6. Fill out the application form.\n7. Attach the required documents.\n8. Submit.\n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Certificate of HOD : Education Qualification Marksheet.\n2. Last Exam. Pass Mark Sheet .\n3. Bank Passbook Copy.\n4. Bank Passbook Copy"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Certificate of HOD : Education Qualification Marksheet.\n2. Last Exam. Pass Mark Sheet .\n3. Bank Passbook Copy.\n4. Bank Passbook Copy\n"
+        },
+        {
+          "question": "What Is The Official Portal To Apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Https://rajkisan.rajasthan.gov.in/"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Https://rajkisan.rajasthan.gov.in/\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह क्या योजना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान राज्य ने राज्य के छात्रों के लिए \"लड़कियों के लिए प्रोत्साहन\" योजना शुरू की।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan State started a scheme \"Incentive for Girls\" for state students.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कृषि की पढ़ाई करने वाली छात्रा को वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance is provided to the agricultural studying girl student. \n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वे सभी छात्राएँ जो राजस्थान की मूल निवासी हैं और पात्रता मानदंडों को पूरा करती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "All those Girl students who are natives of Rajasthan and fulfil the eligibility criteria. \n"
+        },
+        {
+          "question": "शैक्षिक पात्रता मानदंड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विद्यालयों, महाविद्यालयों और विश्वविद्यालयों में कृषि का अध्ययन करना"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Studying agriculture in Schools, Colleges, and Universities\n"
+        },
+        {
+          "question": "वित्तीय पात्रता मानदंड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, ऐसा कोई मानदंड नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, There is not such criteria. \n"
+        },
+        {
+          "question": "क्या राज्य का कोई अन्य व्यक्ति इस योजना के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल वे छात्राएँ जो राजस्थान की मूल निवासी हैं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only girl students who are native of Rajasthan\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. उम्मीदवारों को आधिकारिक पोर्टल पर जाना होगा। 2. लॉगिन पर क्लिक करें। 3. नए पृष्ठ पर आवेदक अपने जन-आधार संख्या या से लॉग-इन कर सकते हैं। 4. आवेदक एस. एस. ओ. पोर्टल पर अपने एस. एस. ओ. आई. डी. से भी लॉग-इन कर सकते हैं। 5. अब छात्र अपने जन-आधार आईडी से लॉग इन कर सकते हैं। 6. आवेदन पत्र भरें। 7. आवश्यक दस्तावेज संलग्न करें। 8. प्रस्तुत करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants have to visit official portal.  \n2. Click on login.  \n3. On new page applicant can login with their Jan-Aadhaar Number OR. \n4. Applicants can also login with their SSO ID on sso portal.\n5. Now students can log in with their Jan-Aadhaar ID. \n6. Fill out the application form.\n7. Attach the required documents.\n8. Submit.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. एच. ओ. डी. का प्रमाण पत्रः शिक्षा योग्यता मार्कशीट। 2. अंतिम परीक्षा। मार्कशीट पास करें। 3. बैंक पासबुक की प्रतिलिपि। 4. बैंक पासबुक की प्रति"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Certificate of HOD : Education Qualification Marksheet.\n2. Last Exam. Pass Mark Sheet .\n3. Bank Passbook Copy.\n4. Bank Passbook Copy\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एच. टी. टी. पी. एस.:// राजकिशन. राजस्थान. जी. ओ. वी. इन /"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Https://rajkisan.rajasthan.gov.in/\n"
+        }
+      ]
+    }
+  }
+}

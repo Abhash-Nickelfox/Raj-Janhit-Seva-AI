@@ -1,0 +1,1620 @@
+{
+  "scheme_id": "64953573380f8e1235425edb",
+  "slug": "ps",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2004-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Orphan Child",
+        "Protection",
+        "Education"
+      ],
+      "schemeName": "Palanhar Scheme",
+      "schemeShortTitle": "PS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines-1",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/Palanhar/DOC_133_85941004-4f13-46da-b4f0-8c64f9ab5a10.pdf"
+        },
+        {
+          "title": "Guidelines-2",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/Palanhar/DOC_133_c28f7e3f-4c70-4a13-9607-71d3a7541338.pdf"
+        },
+        {
+          "title": "Guidelines-3",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=89"
+        },
+        {
+          "title": "Detail",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/133"
+        },
+        {
+          "title": "Guideline-4",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202207071652526070.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Palanhar Yojana has been started by the state government to benefit the orphan children of the state. Under the Palanhar Yojana, arrangements for the upbringing, education, etc. of orphan children of the state or those whose parents have died will not be institutionalized, but in the family of the closest relative/acquaintance of the boys and girls within the society. Education, food, clothes, and other necessary facilities will be made available by the state in a family environment by making an interested person a foster.\n&lt;br&gt;\n\nThis scheme is for different categories of boys/girls with special care and protection from 0 to 18 years of the state by the Government of Rajasthan. Arrangements for the care and upbringing of the boys/girls coming under this are made by a close relative/acquaintance within the family. The caretaker of the boys/girls has been appointed guardian. The government ensures the economic, social, and educational development of boys / girls and provides Monthly basis financial assistance. \n",
+      "benefits_md": "\n1. Orphan Category :\nFor the age group (0 to 6 years) : Rs. 1500/- per month.\nFor the age group (6 to 18 years) : Rs. 2500/- per month.\n1. Other Category:\nFor the age group (0 to 6 years) : Rs. 500/- per month.\nFor the age group (6 to 18 years) : Rs. 1000/- per month.\n1. For Books/Stationaries/Dress/Sweater/shoes etc: Rs. 2000/- per year. \n\n<br>\n\n<br>\n\n<br>\n\n",
+      "briefDescription": "Palanhar Yojana has been started by the state government of Rajasthan to benefit the orphan and needy children of the state. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Palanhar Yojana has been started by the state government to benefit the orphan children of the state. Under the Palanhar Yojana, arrangements for the upbringing, education, etc. of orphan children of the state or those whose parents have died will not be institutionalized, but in the family of the closest relative/acquaintance of the boys and girls within the society. Education, food, clothes, and other necessary facilities will be made available by the state in a family environment by making an interested person a foster."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This scheme is for different categories of boys/girls with special care and protection from 0 to 18 years of the state by the Government of Rajasthan. Arrangements for the care and upbringing of the boys/girls coming under this are made by a close relative/acquaintance within the family. The caretaker of the boys/girls has been appointed guardian. The government ensures the economic, social, and educational development of boys / girls and provides Monthly basis financial assistance. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Orphan Category :"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For the age group (0 to 6 years) : Rs. 1500/- per month."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For the age group (6 to 18 years) : Rs. 2500/- per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other Category:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For the age group (0 to 6 years) : Rs. 500/- per month."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For the age group (6 to 18 years) : Rs. 1000/- per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Books/Stationaries/Dress/Sweater/shoes etc: Rs. 2000/- per year. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://emitra.rajasthan.gov.in",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants can apply online via "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "e-mitra."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "login button."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "New applicants can "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "children": [
+                      {
+                        "text": "register"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " or existing users can "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "log in"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " here. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Existing users can process further with their SSOID and new users can register with their Jan-Aadhaar ID."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Provide the required details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enclosed required documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicants can apply online via [e-mitra.](https://emitra.rajasthan.gov.in/emitra/home)1. Click on the [login button.](https://sso.rajasthan.gov.in/signin)1. New applicants can [register](https://sso.rajasthan.gov.in/register) or existing users can [log in](https://sso.rajasthan.gov.in/signin) here. 1. Existing users can process further with their SSOID and new users can register with their Jan-Aadhaar ID.\n1. Provide the required details.\n1. Enclosed required documents.\n1. Submit\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Orphan boy/girl.\n1. Children of parents sentenced to death/life imprisonment under judicial orders.\n1. Children of a widowed mother receiving a pension (maximum 3 children at a time).\n1. Children of remarried widowed mothers.\n1. Children of HIV/AIDS affected mother/father.\n1. Children of parents suffering from leprosy.\n1. Children of related mothers (Maximum 3 children at a time).\n1. Children of specially-abled parents.\n1. Children of divorced/abandoned women receiving the pension.\n1. Children of parents suffering from silicosis.\n1. The age of the child should be less than 18 years.\n1. If Child age is 18 and still studying/staying in 12th class or lower class, then in such a situation such children will be given an additional one year ( The benefit can be provided till the age of 19 years). The said benefit will not be payable after the child completes 19 years of age or passes 12th class.\n1. The certificate that the guardian is a native of Rajasthan state or has been residing in the state for more than three years.\n1. Guardian Family income should not be more than Rs. 1.20 Laks per annum. \n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Orphan boy/girl."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of parents sentenced to death/life imprisonment under judicial orders."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of a widowed mother receiving a pension (maximum 3 children at a time)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of remarried widowed mothers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of HIV/AIDS affected mother/father."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of parents suffering from leprosy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of related mothers (Maximum 3 children at a time)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of specially-abled parents."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of divorced/abandoned women receiving the pension."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children of parents suffering from silicosis."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the child should be less than 18 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If Child age is 18 and still studying/staying in 12th class or lower class, then in such a situation such children will be given an additional one year ( The benefit can be provided till the age of 19 years). The said benefit will not be payable after the child completes 19 years of age or passes 12th class."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The certificate that the guardian is a native of Rajasthan state or has been residing in the state for more than three years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Guardian Family income should not be more than Rs. 1.20 Laks per annum. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2004-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "अनाथ बच्चा",
+        "बचाव",
+        "शिक्षा"
+      ],
+      "schemeName": "पालनहार योजना",
+      "schemeShortTitle": "PS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश-1",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/Palanhar/DOC_133_85941004-4f13-46da-b4f0-8c64f9ab5a10.pdf"
+        },
+        {
+          "title": "दिशानिर्देश-2",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/Palanhar/DOC_133_c28f7e3f-4c70-4a13-9607-71d3a7541338.pdf"
+        },
+        {
+          "title": "दिशानिर्देश-3",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=89"
+        },
+        {
+          "title": "विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/133"
+        },
+        {
+          "title": "दिशानिर्देश-4",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202207071652526070.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राज्य सरकार द्वारा राज्य के अनाथ बच्चों को लाभान्वित करने के लिए पालनहार योजना शुरू की गई है। पालनहार योजना के तहत, राज्य के अनाथ बच्चों या जिनके माता-पिता की मृत्यु हो गई है, उनके पालन-पोषण, शिक्षा आदि की व्यवस्था को संस्थागत नहीं किया जाएगा, बल्कि समाज के भीतर लड़कों और लड़कियों के सबसे करीबी रिश्तेदार/परिचित के परिवार में किया जाएगा। राज्य द्वारा किसी इच्छुक व्यक्ति को पालक बनाकर पारिवारिक वातावरण में शिक्षा, भोजन, कपड़े और अन्य आवश्यक सुविधाएं उपलब्ध कराई जाएंगी। बीआर एंड जीटी; यह योजना राजस्थान सरकार द्वारा 0 से 18 वर्ष तक राज्य के विशेष देखभाल और सुरक्षा वाले लड़कों/लड़कियों की विभिन्न श्रेणियों के लिए है। इसके अंतर्गत आने वाले लड़कों/लड़कियों की देखभाल और पालन-पोषण की व्यवस्था परिवार के भीतर एक करीबी रिश्तेदार/परिचित द्वारा की जाती है। लड़कों/लड़कियों की देखभाल करने वाले को अभिभावक नियुक्त किया गया है। सरकार लड़कों/लड़कियों का आर्थिक, सामाजिक और शैक्षिक विकास सुनिश्चित करती है और मासिक आधार पर वित्तीय सहायता प्रदान करती है।",
+      "benefits_md": "1. अनाथ वर्गः आयु वर्ग के लिए (0 से 6 वर्ष): रु। 1500/- प्रति माह। आयु वर्ग के लिए (6 से 18 वर्ष): रु। 2500/- प्रति माह। 1. अन्य श्रेणीः आयु वर्ग के लिए (0 से 6 वर्ष): रु। 500/- प्रति माह। आयु वर्ग के लिए (6 से 18 वर्ष): रु। 1000/- प्रति माह। 1. किताबें/स्टेशनरी/ड्रेस/स्वेटर/जूते आदि के लिएः रु। 2000/- प्रति वर्ष। <ब्र> <ब्र> <ब्र>",
+      "briefDescription": "राजस्थान की राज्य सरकार ने राज्य के अनाथ और जरूरतमंद बच्चों को लाभान्वित करने के लिए पालनहार योजना शुरू की है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य सरकार द्वारा राज्य के अनाथ बच्चों को लाभान्वित करने के लिए पालनहार योजना शुरू की गई है। पालनहार योजना के तहत, राज्य के अनाथ बच्चों या जिनके माता-पिता की मृत्यु हो गई है, उनके पालन-पोषण, शिक्षा आदि की व्यवस्था को संस्थागत नहीं किया जाएगा, बल्कि समाज के भीतर लड़कों और लड़कियों के सबसे करीबी रिश्तेदार/परिचित के परिवार में किया जाएगा। राज्य द्वारा किसी इच्छुक व्यक्ति को पालक बनाकर पारिवारिक वातावरण में शिक्षा, भोजन, कपड़े और अन्य आवश्यक सुविधाएं उपलब्ध कराई जाएंगी।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना राजस्थान सरकार द्वारा 0 से 18 वर्ष तक राज्य के विशेष देखभाल और सुरक्षा वाले लड़कों/लड़कियों की विभिन्न श्रेणियों के लिए है। इसके अंतर्गत आने वाले लड़कों/लड़कियों की देखभाल और पालन-पोषण की व्यवस्था परिवार के भीतर एक करीबी रिश्तेदार/परिचित द्वारा की जाती है। लड़कों/लड़कियों की देखभाल करने वाले को अभिभावक नियुक्त किया गया है। सरकार लड़कों/लड़कियों का आर्थिक, सामाजिक और शैक्षिक विकास सुनिश्चित करती है और मासिक आधार पर वित्तीय सहायता प्रदान करती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनाथ वर्गः"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आयु वर्ग के लिए (0 से 6 वर्ष): रु। 1500/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आयु वर्ग के लिए (6 से 18 वर्ष): रु। 2500/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अन्य श्रेणीः"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आयु वर्ग के लिए (0 से 6 वर्ष): रु। 500/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आयु वर्ग के लिए (6 से 18 वर्ष): रु। 1000/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किताबें/स्टेशनरी/ड्रेस/स्वेटर/जूते आदि के लिएः रु। 2000/- प्रति वर्ष।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://emitra.rajasthan.gov.in",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उम्मीदवार ऑनलाइन आवेदन कर सकते हैं"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "ई-मित्र।"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उस पर क्लिक करें"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "लॉगइन बटन।"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "नए उम्मीदवार कर सकते हैं आवेदन"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "children": [
+                      {
+                        "text": "रजिस्टर करें"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "या मौजूदा उपयोगकर्ता कर सकते हैं"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "लॉग इन करें"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "यहाँ।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मौजूदा उपयोगकर्ता अपने एसएसओआईडी के साथ आगे की प्रक्रिया कर सकते हैं और नए उपयोगकर्ता अपने जन-आधार आईडी के साथ पंजीकरण कर सकते हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक विवरण प्रदान करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक दस्तावेज संलग्न करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जमा करें"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदक [ई-मित्र] (https://emitra.rajasthan.gov.in/emitra/home) 1 के माध्यम से ऑनलाइन आवेदन कर सकते हैं। [लॉगिन बटन.] (https://sso.rajasthan.gov.in/signin) 1 पर क्लिक करें। नए आवेदक यहाँ [पंजीकरण] (https://sso.rajasthan.gov.in/register) या मौजूदा उपयोगकर्ता यहाँ [लॉग इन] (https://sso.rajasthan.gov.in/signin) कर सकते हैं। 1. मौजूदा उपयोगकर्ता अपने एसएसओआईडी के साथ आगे की प्रक्रिया कर सकते हैं और नए उपयोगकर्ता अपने जन-आधार आईडी के साथ पंजीकरण कर सकते हैं। 1. आवश्यक विवरण प्रदान करें। 1. आवश्यक दस्तावेज संलग्न करें। 1. जमा करें"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 0,
+          "lte": 18,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 18,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 18,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 18,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 18,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 18,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 18,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. अनाथ लड़का/लड़की। 1. माता-पिता के बच्चों को न्यायिक आदेशों के तहत मौत/आजीवन कारावास की सजा सुनाई गई है। 1. पेंशन प्राप्त करने वाली विधवा माँ के बच्चे (एक बार में अधिकतम 3 बच्चे)। 1. पुनर्विवाहित विधवा माताओं के बच्चे। 1. एच. आई. वी./एड्स से प्रभावित माता/पिता के बच्चे। 1. कुष्ठ रोग से पीड़ित माता-पिता के बच्चे। 1. संबंधित माताओं के बच्चे (एक बार में अधिकतम 3 बच्चे)। 1. विशेष रूप से सक्षम माता-पिता के बच्चे। 1. पेंशन प्राप्त करने वाली तलाकशुदा/परित्यक्त महिलाओं के बच्चे। 1. माता-पिता के बच्चे सिलिकॉसिस से पीड़ित हैं। 1. बच्चे की आयु 18 वर्ष से कम होनी चाहिए। 1. यदि बच्चा 18 वर्ष का है और अभी भी 12वीं या निचली कक्षा में पढ़ रहा है/रह रहा है, तो ऐसी स्थिति में ऐसे बच्चों को एक वर्ष अतिरिक्त दिया जाएगा (19 वर्ष की आयु तक लाभ प्रदान किया जा सकता है)। उक्त लाभ बच्चे के 19 वर्ष की आयु पूरी करने या 12वीं कक्षा उत्तीर्ण करने के बाद देय नहीं होगा। 1. यह प्रमाण पत्र कि अभिभावक राजस्थान राज्य का मूल निवासी है या तीन साल से अधिक समय से राज्य में रह रहा है। 1. अभिभावक परिवार की आय रुपये से अधिक नहीं होनी चाहिए। 1. 20 लाख प्रतिवर्ष।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": 120000
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनाथ लड़का/लड़की।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता के बच्चों को न्यायिक आदेशों के तहत मौत/आजीवन कारावास की सजा सुनाई गई है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पेंशन प्राप्त करने वाली विधवा माँ के बच्चे (एक बार में अधिकतम 3 बच्चे)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पुनर्विवाहित विधवा माताओं के बच्चे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एच. आई. वी./एड्स से प्रभावित माता/पिता के बच्चे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कुष्ठ रोग से पीड़ित माता-पिता के बच्चे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संबंधित माताओं के बच्चे (एक बार में अधिकतम 3 बच्चे)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विशेष रूप से सक्षम माता-पिता के बच्चे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पेंशन प्राप्त करने वाली तलाकशुदा/परित्यक्त महिलाओं के बच्चे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता के बच्चे सिलिकॉसिस से पीड़ित हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बच्चे की आयु 18 वर्ष से कम होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि बच्चा 18 वर्ष का है और अभी भी 12वीं या निचली कक्षा में पढ़ रहा है/रह रहा है, तो ऐसी स्थिति में ऐसे बच्चों को एक वर्ष अतिरिक्त दिया जाएगा (19 वर्ष की आयु तक लाभ प्रदान किया जा सकता है)। उक्त लाभ बच्चे के 19 वर्ष की आयु पूरी करने या 12वीं कक्षा उत्तीर्ण करने के बाद देय नहीं होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह प्रमाण पत्र कि अभिभावक राजस्थान राज्य का मूल निवासी है या तीन साल से अधिक समय से राज्य में रह रहा है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अभिभावक परिवार की आय रुपये से अधिक नहीं होनी चाहिए। 1. 20 लाख प्रतिवर्ष।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 0,
+        "lte": 18,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 18,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 18,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 18,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 18,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 18,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 18,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. अनाथ लड़का/लड़की। 1. माता-पिता के बच्चों को न्यायिक आदेशों के तहत मौत/आजीवन कारावास की सजा सुनाई गई है। 1. पेंशन प्राप्त करने वाली विधवा माँ के बच्चे (एक बार में अधिकतम 3 बच्चे)। 1. पुनर्विवाहित विधवा माताओं के बच्चे। 1. एच. आई. वी./एड्स से प्रभावित माता/पिता के बच्चे। 1. कुष्ठ रोग से पीड़ित माता-पिता के बच्चे। 1. संबंधित माताओं के बच्चे (एक बार में अधिकतम 3 बच्चे)। 1. विशेष रूप से सक्षम माता-पिता के बच्चे। 1. पेंशन प्राप्त करने वाली तलाकशुदा/परित्यक्त महिलाओं के बच्चे। 1. माता-पिता के बच्चे सिलिकॉसिस से पीड़ित हैं। 1. बच्चे की आयु 18 वर्ष से कम होनी चाहिए। 1. यदि बच्चा 18 वर्ष का है और अभी भी 12वीं या निचली कक्षा में पढ़ रहा है/रह रहा है, तो ऐसी स्थिति में ऐसे बच्चों को एक वर्ष अतिरिक्त दिया जाएगा (19 वर्ष की आयु तक लाभ प्रदान किया जा सकता है)। उक्त लाभ बच्चे के 19 वर्ष की आयु पूरी करने या 12वीं कक्षा उत्तीर्ण करने के बाद देय नहीं होगा। 1. यह प्रमाण पत्र कि अभिभावक राजस्थान राज्य का मूल निवासी है या तीन साल से अधिक समय से राज्य में रह रहा है। 1. अभिभावक परिवार की आय रुपये से अधिक नहीं होनी चाहिए। 1. 20 लाख प्रतिवर्ष।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": 120000
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अनाथ लड़का/लड़की।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "माता-पिता के बच्चों को न्यायिक आदेशों के तहत मौत/आजीवन कारावास की सजा सुनाई गई है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पेंशन प्राप्त करने वाली विधवा माँ के बच्चे (एक बार में अधिकतम 3 बच्चे)।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पुनर्विवाहित विधवा माताओं के बच्चे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एच. आई. वी./एड्स से प्रभावित माता/पिता के बच्चे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "कुष्ठ रोग से पीड़ित माता-पिता के बच्चे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "संबंधित माताओं के बच्चे (एक बार में अधिकतम 3 बच्चे)।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "विशेष रूप से सक्षम माता-पिता के बच्चे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पेंशन प्राप्त करने वाली तलाकशुदा/परित्यक्त महिलाओं के बच्चे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "माता-पिता के बच्चे सिलिकॉसिस से पीड़ित हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "बच्चे की आयु 18 वर्ष से कम होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यदि बच्चा 18 वर्ष का है और अभी भी 12वीं या निचली कक्षा में पढ़ रहा है/रह रहा है, तो ऐसी स्थिति में ऐसे बच्चों को एक वर्ष अतिरिक्त दिया जाएगा (19 वर्ष की आयु तक लाभ प्रदान किया जा सकता है)। उक्त लाभ बच्चे के 19 वर्ष की आयु पूरी करने या 12वीं कक्षा उत्तीर्ण करने के बाद देय नहीं होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यह प्रमाण पत्र कि अभिभावक राजस्थान राज्य का मूल निवासी है या तीन साल से अधिक समय से राज्य में रह रहा है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अभिभावक परिवार की आय रुपये से अधिक नहीं होनी चाहिए। 1. 20 लाख प्रतिवर्ष।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Category certificate. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan Aadhar/Bhamashah Card Copy.\n1. Aadhar Card Copy.\n1. Education Qualification Marksheet / Certificate Copy.\n1. Caste Category certificate. \n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति श्रेणी प्रमाण पत्र।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Jan Aadhar/Bhamashah Card Copy.\n1. Aadhar Card Copy.\n1. Education Qualification Marksheet / Certificate Copy.\n1. Caste Category certificate. \n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the scope of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Palanhar Yojana has been started by the state government of Rajasthan to benefit the orphan children of the state."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Palanhar Yojana has been started by the state government of Rajasthan to benefit the orphan children of the state.\n"
+        },
+        {
+          "question": "What are the benefits under the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial Assistance is provided to eligible boys/girls and foster families.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance is provided to eligible boys/girls and foster families.\n\n"
+        },
+        {
+          "question": "Who can get the benefits of the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Orphan boy/girl. \n2. Children of parents sentenced to death/life imprisonment under judicial orders.\n3. Children of a widowed mother receiving a pension (maximum 3 children at a time).\n4. Children of remarried widowed mothers.\n5. Children of HIV/AIDS affected mother/father.\n6. Children of parents suffering from leprosy.\n7. Children of related mothers (Maximum 3 children at a time).\n8. Children of specially-abled parents.\n9. Children of divorced/abandoned women receiving the pension.\n10. Children of parents suffering from silicosis."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Orphan boy/girl. \n2. Children of parents sentenced to death/life imprisonment under judicial orders.\n3. Children of a widowed mother receiving a pension (maximum 3 children at a time).\n4. Children of remarried widowed mothers.\n5. Children of HIV/AIDS affected mother/father.\n6. Children of parents suffering from leprosy.\n7. Children of related mothers (Maximum 3 children at a time).\n8. Children of specially-abled parents.\n9. Children of divorced/abandoned women receiving the pension.\n10. Children of parents suffering from silicosis.\n"
+        },
+        {
+          "question": "What is the maximum eligible age ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The age of the child should be less than 18 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The age of the child should be less than 18 years.\n"
+        },
+        {
+          "question": "How many children of a mother can get the benefits at a same time ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Maximum 3 children at a time Of Related Mothers. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Maximum 3 children at a time Of Related Mothers. \n"
+        },
+        {
+          "question": "Is there any exceptional condition for age relaxation ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "If the Child's age is 18 and still studying/staying in the 12th class or lower class, then in such a situation such child will be given an additional year ( The benefit can be provided till the age of 19 years). The said benefit will not be payable after the child completes 19 years of age or passes the 12th class."
+                }
+              ]
+            }
+          ],
+          "answer_md": "If the Child's age is 18 and still studying/staying in the 12th class or lower class, then in such a situation such child will be given an additional year ( The benefit can be provided till the age of 19 years). The said benefit will not be payable after the child completes 19 years of age or passes the 12th class.\n"
+        },
+        {
+          "question": "What is the financial eligibility for applicant ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Guardian Family income should not be more than Rs. 1.20 Laks per annum. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Guardian Family income should not be more than Rs. 1.20 Laks per annum. \n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicants can apply online via e-mitra. \n2. Click on the login button.   \n3. New applicants can register or existing users can log in here. \n4. Existing users can process further with their SSOID and new users can register with their Jan-Aadhaar ID.\n5. Provide the required details.\n6. Enclosed required documents.\n7. Submit. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants can apply online via e-mitra. \n2. Click on the login button.   \n3. New applicants can register or existing users can log in here. \n4. Existing users can process further with their SSOID and new users can register with their Jan-Aadhaar ID.\n5. Provide the required details.\n6. Enclosed required documents.\n7. Submit. \n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Jan Aadhar/Bhamashah Card Copy.\n2. Aadhar Card Copy.\n3. Education Qualification Marksheet / Certificate Copy.\n4. Caste Category certificate. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Jan Aadhar/Bhamashah Card Copy.\n2. Aadhar Card Copy.\n3. Education Qualification Marksheet / Certificate Copy.\n4. Caste Category certificate. \n"
+        },
+        {
+          "question": "What is the official web portal to apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Use the following URL.\nLink: https://emitra.rajasthan.gov.in/emitra/home"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following URL.\nLink: https://emitra.rajasthan.gov.in/emitra/home\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का दायरा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान की राज्य सरकार ने राज्य के अनाथ बच्चों को लाभान्वित करने के लिए पालनहार योजना शुरू की है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Palanhar Yojana has been started by the state government of Rajasthan to benefit the orphan children of the state.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पात्र लड़कों/लड़कियों और पालक परिवारों को वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial Assistance is provided to eligible boys/girls and foster families.\n\n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. अनाथ लड़का/लड़की। 2. माता-पिता के बच्चों को न्यायिक आदेशों के तहत मौत/आजीवन कारावास की सजा सुनाई गई है। 3. पेंशन प्राप्त करने वाली विधवा माँ के बच्चे (एक बार में अधिकतम 3 बच्चे)। 4. पुनर्विवाहित विधवा माताओं के बच्चे। 5. एच. आई. वी./एड्स से प्रभावित माता/पिता के बच्चे। 6. कुष्ठ रोग से पीड़ित माता-पिता के बच्चे। 7. संबंधित माताओं के बच्चे (एक बार में अधिकतम 3 बच्चे)। 8. विशेष रूप से सक्षम माता-पिता के बच्चे। 9. पेंशन प्राप्त करने वाली तलाकशुदा/परित्यक्त महिलाओं के बच्चे। 10. माता-पिता के बच्चे सिलिकॉसिस से पीड़ित हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Orphan boy/girl. \n2. Children of parents sentenced to death/life imprisonment under judicial orders.\n3. Children of a widowed mother receiving a pension (maximum 3 children at a time).\n4. Children of remarried widowed mothers.\n5. Children of HIV/AIDS affected mother/father.\n6. Children of parents suffering from leprosy.\n7. Children of related mothers (Maximum 3 children at a time).\n8. Children of specially-abled parents.\n9. Children of divorced/abandoned women receiving the pension.\n10. Children of parents suffering from silicosis.\n"
+        },
+        {
+          "question": "अधिकतम पात्र आयु क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बच्चे की आयु 18 वर्ष से कम होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The age of the child should be less than 18 years.\n"
+        },
+        {
+          "question": "एक माँ के कितने बच्चे एक ही समय में लाभ प्राप्त कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संबंधित माताओं के एक समय में अधिकतम 3 बच्चे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Maximum 3 children at a time Of Related Mothers. \n"
+        },
+        {
+          "question": "क्या आयु में छूट के लिए कोई असाधारण शर्त है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यदि बच्चे की आयु 18 वर्ष है और वह अभी भी 12वीं कक्षा या निचली कक्षा में पढ़ रहा है/रह रहा है, तो ऐसी स्थिति में ऐसे बच्चे को एक अतिरिक्त वर्ष दिया जाएगा (लाभ 19 वर्ष की आयु तक प्रदान किया जा सकता है)। उक्त लाभ बच्चे के 19 वर्ष की आयु पूरी करने या 12वीं कक्षा उत्तीर्ण करने के बाद देय नहीं होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "If the Child's age is 18 and still studying/staying in the 12th class or lower class, then in such a situation such child will be given an additional year ( The benefit can be provided till the age of 19 years). The said benefit will not be payable after the child completes 19 years of age or passes the 12th class.\n"
+        },
+        {
+          "question": "आवेदक के लिए वित्तीय पात्रता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अभिभावक परिवार की आय रुपये से अधिक नहीं होनी चाहिए। 1. 20 लाख प्रतिवर्ष।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Guardian Family income should not be more than Rs. 1.20 Laks per annum. \n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक ई-मित्र के माध्यम से ऑनलाइन आवेदन कर सकते हैं। 2. लॉगिन बटन पर क्लिक करें। 3. नए आवेदक पंजीकरण कर सकते हैं या मौजूदा उपयोगकर्ता यहां लॉग इन कर सकते हैं। 4. मौजूदा उपयोगकर्ता अपने एसएसओआईडी के साथ आगे की प्रक्रिया कर सकते हैं और नए उपयोगकर्ता अपने जन-आधार आईडी के साथ पंजीकरण कर सकते हैं। 5. आवश्यक विवरण प्रदान करें। 6. आवश्यक दस्तावेज संलग्न करें। 7. प्रस्तुत करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicants can apply online via e-mitra. \n2. Click on the login button.   \n3. New applicants can register or existing users can log in here. \n4. Existing users can process further with their SSOID and new users can register with their Jan-Aadhaar ID.\n5. Provide the required details.\n6. Enclosed required documents.\n7. Submit. \n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. जन आधार/भामाशाह कार्ड की प्रतिलिपि। 2. आधार कार्ड की प्रतिलिपि। 3. शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि। 4. जाति श्रेणी प्रमाण पत्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Jan Aadhar/Bhamashah Card Copy.\n2. Aadhar Card Copy.\n3. Education Qualification Marksheet / Certificate Copy.\n4. Caste Category certificate. \n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक वेब पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निम्नलिखित यू. आर. एल. का उपयोग करें। लिंकः https://emitra.rajasthan.gov.in/emitra/home"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following URL.\nLink: https://emitra.rajasthan.gov.in/emitra/home\n"
+        }
+      ]
+    }
+  }
+}

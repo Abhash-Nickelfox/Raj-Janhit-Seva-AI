@@ -1,0 +1,1400 @@
+{
+  "scheme_id": "680f683e197a2fd77e4f5d4b",
+  "slug": "mhvs-ptts",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Professional Training",
+        "Technical Education",
+        "Skill Development",
+        "Vocational Training",
+        "Palanhar"
+      ],
+      "schemeName": "Mukhyamantri Hunar Vikas Yojana- Professional/Technical Training",
+      "schemeShortTitle": "MHVY-PTT",
+      "implementingAgency": "Department Of Social Justice And Empowerment, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "Training and Skill Up-gradation"
+        }
+      ],
+      "schemeOpenDate": "2012-01-19",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231258279383.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Mukhyamantri Hunar Vikas Yojana - Professional/Technical Training&amp;quot; scheme was launched by the Department of Social Justice and Empowerment, Government of Rajasthan, with the objective of providing vocational and technical skill development training to beneficiary boys and girls under the State Government’s Palanhar Scheme, to make them self-reliant. The scheme aims to make every possible effort to provide employment opportunities and a respectable livelihood to these beneficiaries after the completion of their training.\nUnder this scheme, vocational/technical training is provided to Palanhar beneficiary boys and girls through recognized training providers such as the Rajasthan Skill and Livelihood Development Corporation (RSLDC), Rajasthan Knowledge Corporation Limited (RKCL), Jan Shikshan Sansthan, or industrial training institutes recognized by the State or Central Government.\nThe scheme is implemented by the Department of Social Justice and Empowerment, Rajasthan, at the state level and by the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level.\n",
+      "benefits_md": "***Professional/Technical Training Benefits:***\n\n  - Vocational/technical training will be provided to Palanhar beneficiary boys/girls through recognized training providers by the Rajasthan Skill and Livelihood Development Corporation / Rajasthan Knowledge Corporation Limited (RKCL) / Jan Shikshan Sansthan / industrial training institutes recognized by the state government/central government.\n  - The State Government will reimburse the prescribed fees and other expenses to the training provider institute for the related program. \n  - If the boy/girl wants to avail hostel or any other prescribed facility/fee (mess fee, stationery and dress fee) of the concerned institute, then that will also be reimbursed.\n  - A maximum of 2 training programmes can be availed under this scheme, provided the beneficiary is below 21 years of age or till the completion of the respective course.\n  - The boy / girl receiving training under the scheme will be given a training certificate by the concerned institute / training provider.\n\n**Note:** Fees and other expenses will be provided directly to the concerned training institute after admission of the boy / girl in the respective programme.\n",
+      "briefDescription": "Under this scheme, vocational/technical training is provided to Palanhar beneficiary boys & girls through recognized training providers such as the Rajasthan Skill & Livelihood Development Corporation, Rajasthan Knowledge Corporation Ltd., it is etc. recognized by the State or Central Govt.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Mukhyamantri Hunar Vikas Yojana - Professional/Technical Training\" scheme was launched by the Department of Social Justice and Empowerment, Government of Rajasthan, with the objective of providing vocational and technical skill development training to beneficiary boys and girls under the State Government’s Palanhar Scheme, to make them self-reliant. The scheme aims to make every possible effort to provide employment opportunities and a respectable livelihood to these beneficiaries after the completion of their training."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, vocational/technical training is provided to Palanhar beneficiary boys and girls through recognized training providers such as the Rajasthan Skill and Livelihood Development Corporation (RSLDC), Rajasthan Knowledge Corporation Limited (RKCL), Jan Shikshan Sansthan, or industrial training institutes recognized by the State or Central Government."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme is implemented by the Department of Social Justice and Empowerment, Rajasthan, at the state level and by the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Professional/Technical Training Benefits:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Vocational/technical training will be provided to Palanhar beneficiary boys/girls through recognized training providers by the Rajasthan Skill and Livelihood Development Corporation / Rajasthan Knowledge Corporation Limited (RKCL) / Jan Shikshan Sansthan / industrial training institutes recognized by the state government/central government."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The State Government will reimburse the prescribed fees and other expenses to the training provider institute for the related program. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If the boy/girl wants to avail hostel or any other prescribed facility/fee (mess fee, stationery and dress fee) of the concerned institute, then that will also be reimbursed."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A maximum of 2 training programmes can be availed under this scheme, provided the beneficiary is below 21 years of age or till the completion of the respective course."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The boy / girl receiving training under the scheme will be given a training certificate by the concerned institute / training provider."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " Fees and other expenses will be provided directly to the concerned training institute after admission of the boy / girl in the respective programme."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Application Process:",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "To avail of the benefits of the scheme, the applicant needs to contact their recognized training institution.",
+                        "italic": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "The interested applicant downloads the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf",
+                        "children": [
+                          {
+                            "text": "application form"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " from the official website. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Submit the duly filled and signed application form along with the documents to the recognized training institution."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The recognized training institution forwards the student's application to the District Officer, Social Justice and Empowerment Department, with the training program details."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Post-Application Process:",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "align_justify",
+                    "children": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "Step 1:",
+                            "bold": true
+                          },
+                          {
+                            "text": " Verification and approval are to be completed within one month."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "Step 2: ",
+                            "bold": true
+                          },
+                          {
+                            "text": "Fees and additional costs will be reimbursed directly to the institution."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&amp;gt; **Application Process:**\n\n***To avail of the benefits of the scheme, the applicant needs to contact their recognized training institution.***\n**Step 1:** The interested applicant downloads the [application form](https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the recognized training institution.\n**Step 4:** The recognized training institution forwards the student&amp;amp;#39;s application to the District Officer, Social Justice and Empowerment Department, with the training program details.\n&amp;gt; **Post-Application Process:**\n\n**Step 1:** Verification and approval are to be completed within one month.\n**Step 2:** Fees and additional costs will be reimbursed directly to the institution.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a beneficiary under the Palanhar Scheme of Rajasthan.\n1. The applicant should have completed 15 years of age.\n1. The applicant’s maximum age should not exceed 21 years, or till course completion (whichever is earlier).\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a beneficiary under the Palanhar Scheme of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have completed 15 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s maximum age should not exceed 21 years, or till course completion (whichever is earlier)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "व्यावसायिक प्रशिक्षण",
+        "तकनीकी शिक्षा",
+        "कौशल विकास",
+        "व्यावसायिक प्रशिक्षण",
+        "पालनहर"
+      ],
+      "schemeName": "मुख्यमंत्री हुनर विकास योजना-व्यावसायिक/तकनीकी प्रशिक्षण",
+      "schemeShortTitle": "MHVY-PTT",
+      "implementingAgency": "Department Of Social Justice And Empowerment, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "प्रशिक्षण और कौशल उन्नयन"
+        }
+      ],
+      "schemeOpenDate": "2012-01-19",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231258279383.pdf"
+        },
+        {
+          "title": "आवेदन पत्र",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री हुनर विकास योजना-पेशेवर/तकनीकी प्रशिक्षण योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा राज्य सरकार की पालनहार योजना के तहत लाभार्थी लड़कों और लड़कियों को व्यावसायिक और तकनीकी कौशल विकास प्रशिक्षण प्रदान करने के उद्देश्य से शुरू की गई थी, ताकि उन्हें आत्मनिर्भर बनाया जा सके। इस योजना का उद्देश्य इन लाभार्थियों को उनका प्रशिक्षण पूरा होने के बाद रोजगार के अवसर और सम्मानजनक आजीविका प्रदान करने के लिए हर संभव प्रयास करना है। इस योजना के तहत, राजस्थान कौशल और आजीविका विकास निगम (आरएसएलडीसी), राजस्थान ज्ञान निगम लिमिटेड (आरकेसीएल), जन शिक्षण संस्थान, या राज्य या केंद्र सरकार द्वारा मान्यता प्राप्त औद्योगिक प्रशिक्षण संस्थानों जैसे मान्यता प्राप्त प्रशिक्षण प्रदाताओं के माध्यम से पालनहार लाभार्थी लड़कों और लड़कियों को व्यावसायिक/तकनीकी प्रशिक्षण प्रदान किया जाता है। इस योजना को राज्य स्तर पर सामाजिक न्याय और अधिकारिता विभाग, राजस्थान द्वारा और जिला स्तर पर उप निदेशक/सहायक निदेशक, सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया जाता है।",
+      "benefits_md": "व्यावसायिक/तकनीकी प्रशिक्षण के लाभः * * *-राजस्थान कौशल और आजीविका विकास निगम/राजस्थान नॉलेज कॉर्पोरेशन लिमिटेड (आरकेसीएल)/जन शिक्षण संस्थान/राज्य सरकार/केंद्र सरकार द्वारा मान्यता प्राप्त औद्योगिक प्रशिक्षण संस्थानों द्वारा मान्यता प्राप्त प्रशिक्षण प्रदाताओं के माध्यम से पालनहार लाभार्थी लड़कों/लड़कियों को व्यावसायिक/तकनीकी प्रशिक्षण प्रदान किया जाएगा।-राज्य सरकार संबंधित कार्यक्रम के लिए प्रशिक्षण प्रदाता संस्थान को निर्धारित शुल्क और अन्य खर्चों की प्रतिपूर्ति करेगी।-यदि लड़का/लड़की संबंधित संस्थान के छात्रावास या किसी अन्य निर्धारित सुविधा/शुल्क (भोजनालय शुल्क, लेखन सामग्री और पोशाक शुल्क) का लाभ उठाना चाहता है, तो उसकी भी प्रतिपूर्ति की जाएगी।-इस योजना के तहत अधिकतम 2 प्रशिक्षण कार्यक्रमों का लाभ उठाया जा सकता है, बशर्ते लाभार्थी की आयु 21 वर्ष से कम हो या पूरा होने तक हो। संबंधित कार्यक्रम में लड़के/लड़की के प्रवेश के बाद शुल्क और अन्य खर्च सीधे संबंधित प्रशिक्षण संस्थान को प्रदान किए जाएंगे।",
+      "briefDescription": "इस योजना के तहत, राज्य या केंद्र सरकार द्वारा मान्यता प्राप्त राजस्थान कौशल और आजीविका विकास निगम, राजस्थान ज्ञान निगम लिमिटेड आदि जैसे मान्यता प्राप्त प्रशिक्षण प्रदाताओं के माध्यम से पालनहार लाभार्थी लड़कों और लड़कियों को व्यावसायिक/तकनीकी प्रशिक्षण प्रदान किया जाता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मुख्यमंत्री हुनर विकास योजना-पेशेवर/तकनीकी प्रशिक्षण योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा राज्य सरकार की पालनहार योजना के तहत लाभार्थी लड़कों और लड़कियों को व्यावसायिक और तकनीकी कौशल विकास प्रशिक्षण प्रदान करने के उद्देश्य से शुरू की गई थी, ताकि उन्हें आत्मनिर्भर बनाया जा सके। इस योजना का उद्देश्य इन लाभार्थियों को उनका प्रशिक्षण पूरा होने के बाद रोजगार के अवसर और सम्मानजनक आजीविका प्रदान करने के लिए हर संभव प्रयास करना है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, राजस्थान कौशल और आजीविका विकास निगम (आरएसएलडीसी), राजस्थान ज्ञान निगम लिमिटेड (आरकेसीएल), जन शिक्षण संस्थान, या राज्य या केंद्र सरकार द्वारा मान्यता प्राप्त औद्योगिक प्रशिक्षण संस्थानों जैसे मान्यता प्राप्त प्रशिक्षण प्रदाताओं के माध्यम से पालनहार लाभार्थी लड़कों और लड़कियों को व्यावसायिक/तकनीकी प्रशिक्षण प्रदान किया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना को राज्य स्तर पर सामाजिक न्याय और अधिकारिता विभाग, राजस्थान द्वारा और जिला स्तर पर उप निदेशक/सहायक निदेशक, सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया जाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "व्यावसायिक/तकनीकी प्रशिक्षण के लाभः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "राजस्थान कौशल और आजीविका विकास निगम/राजस्थान ज्ञान निगम लिमिटेड (आर. के. सी. एल.)/जन शिक्षण संस्थान/राज्य सरकार/केंद्र सरकार द्वारा मान्यता प्राप्त औद्योगिक प्रशिक्षण संस्थानों द्वारा मान्यता प्राप्त प्रशिक्षण प्रदाताओं के माध्यम से पालनहार लाभार्थी लड़कों/लड़कियों को व्यावसायिक/तकनीकी प्रशिक्षण प्रदान किया जाएगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "राज्य सरकार संबंधित कार्यक्रम के लिए प्रशिक्षण प्रदाता संस्थान को निर्धारित शुल्क और अन्य खर्चों की प्रतिपूर्ति करेगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि लड़का/लड़की संबंधित संस्थान के छात्रावास या किसी अन्य निर्धारित सुविधा/शुल्क (भोजनालय शुल्क, लेखन सामग्री और पोशाक शुल्क) का लाभ उठाना चाहता है, तो उसकी भी प्रतिपूर्ति की जाएगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इस योजना के तहत अधिकतम 2 प्रशिक्षण कार्यक्रमों का लाभ उठाया जा सकता है, बशर्ते कि लाभार्थी की आयु 21 वर्ष से कम हो या संबंधित पाठ्यक्रम पूरा होने तक हो।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "योजना के तहत प्रशिक्षण प्राप्त करने वाले लड़के/लड़की को संबंधित संस्थान/प्रशिक्षण प्रदाता द्वारा प्रशिक्षण प्रमाण पत्र दिया जाएगा।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "संबंधित कार्यक्रम में लड़के/लड़की के प्रवेश के बाद शुल्क और अन्य खर्च सीधे संबंधित प्रशिक्षण संस्थान को प्रदान किए जाएंगे।"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "आवेदन प्रक्रियाः",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "योजना का लाभ उठाने के लिए आवेदक को अपने मान्यता प्राप्त प्रशिक्षण संस्थान से संपर्क करना होगा।",
+                        "italic": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": "इच्छुक आवेदक डाउनलोड करता है"
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf",
+                        "children": [
+                          {
+                            "text": "आवेदन पत्र"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "आधिकारिक वेबसाइट से।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": "मान्यता प्राप्त प्रशिक्षण संस्थान में दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": "मान्यता प्राप्त प्रशिक्षण संस्थान छात्र के आवेदन को प्रशिक्षण कार्यक्रम के विवरण के साथ जिला अधिकारी, सामाजिक न्याय और अधिकारिता विभाग को भेजता है।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "आवेदन के बाद की प्रक्रियाः",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "align_justify",
+                    "children": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "चरण 1:",
+                            "bold": true
+                          },
+                          {
+                            "text": "सत्यापन और अनुमोदन एक महीने के भीतर पूरा किया जाना है।"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "चरण 2:",
+                            "bold": true
+                          },
+                          {
+                            "text": "शुल्क और अतिरिक्त लागतों की प्रतिपूर्ति सीधे संस्थान को की जाएगी।"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रियाः योजना का लाभ उठाने के लिए आवेदक को अपने मान्यता प्राप्त प्रशिक्षण संस्थान से संपर्क करने की आवश्यकता है। * * * * * चरण 1: * * इच्छुक आवेदक आधिकारिक वेबसाइट से [आवेदन पत्र] (https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf) डाउनलोड करता है। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)। चरण 3: मान्यता प्राप्त प्रशिक्षण संस्थान में दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें। चरण 4: मान्यता प्राप्त प्रशिक्षण संस्थान छात्र के आवेदन को प्रशिक्षण कार्यक्रम के विवरण के साथ जिला अधिकारी, सामाजिक न्याय और अधिकारिता विभाग को भेजता है। आवेदन के बाद की प्रक्रियाः * * * * चरण 1: * * सत्यापन और अनुमोदन एक महीने के भीतर पूरा किया जाना है। चरण 2: शुल्क और अतिरिक्त लागतों की प्रतिपूर्ति सीधे संस्थान को की जाएगी।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "General"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "EWS"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Female"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Male"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "OBC"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "SC"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "ST"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Transgender"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Widow"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Vocational Course",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "ITI Course",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Professional Degree",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए। 1. आवेदक की आयु 15 वर्ष पूरी होनी चाहिए। 1. आवेदक की अधिकतम आयु 21 वर्ष से अधिक या पाठ्यक्रम पूरा होने तक (जो भी पहले हो) नहीं होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 15 वर्ष पूरी होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की अधिकतम आयु 21 वर्ष से अधिक या पाठ्यक्रम पूरा होने तक (जो भी पहले हो) नहीं होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "nri": false,
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      }
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "General"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "EWS"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Female"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Male"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "OBC"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "SC"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "ST"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Transgender"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Widow"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Vocational Course",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "ITI Course",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Professional Degree",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए। 1. आवेदक की आयु 15 वर्ष पूरी होनी चाहिए। 1. आवेदक की अधिकतम आयु 21 वर्ष से अधिक या पाठ्यक्रम पूरा होने तक (जो भी पहले हो) नहीं होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की आयु 15 वर्ष पूरी होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की अधिकतम आयु 21 वर्ष से अधिक या पाठ्यक्रम पूरा होने तक (जो भी पहले हो) नहीं होनी चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "nri": false,
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    }
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport-size Photo"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Jan Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant program)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of the Admission Letter (issued by the concerned institution for general/higher education/technical education)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Course Fee Receipt (issued by the concerned institution for general/higher education/technical education)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Copy of Jan Aadhaar Card\n1. Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant program)\n1. Copy of the Admission Letter (issued by the concerned institution for general/higher education/technical education)\n1. Course Fee Receipt (issued by the concerned institution for general/higher education/technical education)\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक योग्यता का प्रमाण पत्र (संबंधित कार्यक्रम के लिए निर्धारित शैक्षणिक योग्यता का प्रमाण)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रवेश पत्र की प्रति (सामान्य/उच्च शिक्षा/तकनीकी शिक्षा के लिए संबंधित संस्थान द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पाठ्यक्रम शुल्क रसीद (सामान्य/उच्च शिक्षा/तकनीकी शिक्षा के लिए संबंधित संस्थान द्वारा जारी)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Copy of Jan Aadhaar Card\n1. Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant program)\n1. Copy of the Admission Letter (issued by the concerned institution for general/higher education/technical education)\n1. Course Fee Receipt (issued by the concerned institution for general/higher education/technical education)\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is Mukhyamantri Hunar Vikas Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is a scheme providing skill training, higher education, and self-employment support to Palanhar beneficiaries."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is a scheme providing skill training, higher education, and self-employment support to Palanhar beneficiaries.\n"
+        },
+        {
+          "question": "Who implements the Mukhyamantri Hunar Vikas Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Department of Social Justice and Empowerment, Government of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Department of Social Justice and Empowerment, Government of Rajasthan.\n"
+        },
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Beneficiaries under the Palanhar Scheme aged between 15 to 21 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Beneficiaries under the Palanhar Scheme aged between 15 to 21 years.\n"
+        },
+        {
+          "question": "Which institutions are eligible for training?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "RSLDC, RKCL, Jan Shikshan Sansthan, ITIs, and other government-recognized training providers."
+                }
+              ]
+            }
+          ],
+          "answer_md": "RSLDC, RKCL, Jan Shikshan Sansthan, ITIs, and other government-recognized training providers.\n"
+        },
+        {
+          "question": "Is there any fee charged to the beneficiary?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scheme reimburses training fees directly to the institution."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme reimburses training fees directly to the institution.\n"
+        },
+        {
+          "question": "Can I take multiple trainings under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, a maximum of two training programs is allowed."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, a maximum of two training programs is allowed.\n"
+        },
+        {
+          "question": "Can I receive hostel and mess fee reimbursement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if availed through the training institution."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if availed through the training institution.\n"
+        },
+        {
+          "question": "How can a beneficiary apply for training support?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The beneficiary must apply for enrollment in the identified vocational/technical training programs through the respective training provider."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary must apply for enrollment in the identified vocational/technical training programs through the respective training provider.\n"
+        },
+        {
+          "question": "How is the payment made to the training institution?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After admission confirmation, the fees and other admissible charges are reimbursed directly to the concerned training institution."
+                }
+              ]
+            }
+          ],
+          "answer_md": "After admission confirmation, the fees and other admissible charges are reimbursed directly to the concerned training institution.\n"
+        },
+        {
+          "question": "Who verifies and approves the applications?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application verification and approval are to be completed within one month by the District Officer, Social Justice and Empowerment Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application verification and approval are to be completed within one month by the District Officer, Social Justice and Empowerment Department.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "क्या है मुख्यमंत्री हुनर विकास योजना?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह एक ऐसी योजना है जो पालनहार लाभार्थियों को कौशल प्रशिक्षण, उच्च शिक्षा और स्व-रोजगार सहायता प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is a scheme providing skill training, higher education, and self-employment support to Palanhar beneficiaries.\n"
+        },
+        {
+          "question": "मुख्यमंत्री हुनर विकास योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Department of Social Justice and Empowerment, Government of Rajasthan.\n"
+        },
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पालनहार योजना के तहत 15 से 21 वर्ष की आयु के लाभार्थी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Beneficiaries under the Palanhar Scheme aged between 15 to 21 years.\n"
+        },
+        {
+          "question": "कौन से संस्थान प्रशिक्षण के लिए पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आर. एस. एल. डी. सी., आर. के. सी. एल., जन शिक्षण संस्थान, आई. टी. आई. और अन्य सरकार द्वारा मान्यता प्राप्त प्रशिक्षण प्रदाता।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "RSLDC, RKCL, Jan Shikshan Sansthan, ITIs, and other government-recognized training providers.\n"
+        },
+        {
+          "question": "क्या लाभार्थी से कोई शुल्क लिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना सीधे संस्थान को प्रशिक्षण शुल्क की प्रतिपूर्ति करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme reimburses training fees directly to the institution.\n"
+        },
+        {
+          "question": "क्या मैं इस योजना के तहत कई प्रशिक्षण ले सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, अधिकतम दो प्रशिक्षण कार्यक्रमों की अनुमति है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, a maximum of two training programs is allowed.\n"
+        },
+        {
+          "question": "क्या मुझे छात्रावास और भोजनालय शुल्क की प्रतिपूर्ति मिल सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यदि प्रशिक्षण संस्थान के माध्यम से लाभ उठाया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if availed through the training institution.\n"
+        },
+        {
+          "question": "एक लाभार्थी प्रशिक्षण सहायता के लिए कैसे आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी को संबंधित प्रशिक्षण प्रदाता के माध्यम से चिन्हित व्यावसायिक/तकनीकी प्रशिक्षण कार्यक्रमों में नामांकन के लिए आवेदन करना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary must apply for enrollment in the identified vocational/technical training programs through the respective training provider.\n"
+        },
+        {
+          "question": "प्रशिक्षण संस्थान को भुगतान कैसे किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रवेश की पुष्टि के बाद, शुल्क और अन्य स्वीकार्य शुल्क सीधे संबंधित प्रशिक्षण संस्थान को प्रतिपूर्ति की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "After admission confirmation, the fees and other admissible charges are reimbursed directly to the concerned training institution.\n"
+        },
+        {
+          "question": "आवेदनों का सत्यापन और अनुमोदन कौन करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला अधिकारी, सामाजिक न्याय और अधिकारिता विभाग द्वारा आवेदन सत्यापन और अनुमोदन एक महीने के भीतर पूरा किया जाना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application verification and approval are to be completed within one month by the District Officer, Social Justice and Empowerment Department.\n"
+        }
+      ]
+    }
+  }
+}

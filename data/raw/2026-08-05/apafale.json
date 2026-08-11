@@ -1,0 +1,1008 @@
+{
+  "scheme_id": "67cdd05c4f0bd5e698d60453",
+  "slug": "apafale",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Person With Disability",
+        "Artificial Limbs",
+        "Equipments",
+        "PwD"
+      ],
+      "schemeName": "Assistance to Persons with Disabilities for Purchase/Fitting of Artificial Limbs/Appliances",
+      "schemeShortTitle": "APWDPFALA",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Aids/Appliances",
+          "label": "Aids/Appliances"
+        },
+        {
+          "value": "Citizen empowerment",
+          "label": "Citizen empowerment"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/sap_welfare_schemes.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Assistance to Persons with Disabilities for Purchase/Fitting of Artificial Limbs/Appliances&amp;quot; is implemented by the Department of Social Justice &amp;amp; Empowerment, Government of Rajasthan. The scheme aims to provide financial assistance to specially-abled individuals for self-employment and the purchase of artificial limbs/equipment to overcome physical disabilities.\nUnder this scheme, the beneficiaries receive financial assistance to procure prosthetic aids and equipment such as tricycles, crutches, wheelchairs, calipers, hearing aids, blind sticks, smartphones, Jaipur Foot/Shoes/Palm pads, etc.\n",
+      "benefits_md": "\n1. Financial assistance of up to ₹10,000/- for purchasing artificial limbs/equipment to overcome physical disabilities.\n1. Covers aids like tricycles, crutches, wheelchairs, calipers, hearing aids, blind sticks, smartphones, Jaipur Foot/Shoes/Palm pads, etc.\n\n",
+      "briefDescription": " The scheme aims to provide financial assistance of ₹10,000/- to specially-abled individuals for self-employment and the purchase of artificial limbs/equipment to overcome physical disabilities.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Assistance to Persons with Disabilities for Purchase/Fitting of Artificial Limbs/Appliances\" is implemented by the Department of Social Justice & Empowerment, Government of Rajasthan. The scheme aims to provide financial assistance to specially-abled individuals for self-employment and the purchase of artificial limbs/equipment to overcome physical disabilities."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, the beneficiaries receive financial assistance to procure prosthetic aids and equipment such as tricycles, crutches, wheelchairs, calipers, hearing aids, blind sticks, smartphones, Jaipur Foot/Shoes/Palm pads, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of up to ₹10,000/- for purchasing artificial limbs/equipment to overcome physical disabilities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Covers aids like tricycles, crutches, wheelchairs, calipers, hearing aids, blind sticks, smartphones, Jaipur Foot/Shoes/Palm pads, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit the office of the District Social Justice & Empowerment Department and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District Social Justice & Empowerment Department."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the District Social Justice & Empowerment Department to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the office of the District Social Justice &amp;amp; Empowerment Department and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Social Justice &amp;amp; Empowerment Department.\n**Step 4:** Request a receipt or acknowledgment from the District Social Justice &amp;amp; Empowerment Department to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be a disabled person.\n1. The applicant should be suffering from 40% disability.\n1. The applicant’s family should not be an income tax payer.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a disabled person."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be suffering from 40% disability."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s family should not be an income tax payer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "विकलांग व्यक्ति",
+        "कृत्रिम अंग",
+        "उपकरण",
+        "पीडब्लूडी"
+      ],
+      "schemeName": "विकलांग व्यक्तियों को कृत्रिम अंगों/उपकरणों की खरीद/फिटिंग के लिए सहायता",
+      "schemeShortTitle": "APWDPFALA",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Aids/Appliances",
+          "label": "सहायक/उपकरण"
+        },
+        {
+          "value": "Citizen empowerment",
+          "label": "नागरिक सशक्तिकरण"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/sap_welfare_schemes.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "इस योजना को राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा विकलांग व्यक्तियों को कृत्रिम अंगों/उपकरणों की खरीद/फिटिंग के लिए सहायता के रूप में लागू किया जाता है। इस योजना का उद्देश्य विशेष रूप से सक्षम व्यक्तियों को स्व-रोजगार और शारीरिक अक्षमताओं को दूर करने के लिए कृत्रिम अंगों/उपकरणों की खरीद के लिए वित्तीय सहायता प्रदान करना है। इस योजना के तहत, लाभार्थियों को कृत्रिम सहायक उपकरण और उपकरण जैसे तिपहिया साइकिल, बैसाखी, व्हीलचेयर, कैलिपर, श्रवण यंत्र, अंधा छड़ी, स्मार्टफोन, जयपुर फुट/जूते/ताड़ के पैड आदि की खरीद के लिए वित्तीय सहायता प्राप्त होती है।",
+      "benefits_md": "1. शारीरिक अक्षमताओं को दूर करने के लिए कृत्रिम अंगों/उपकरणों की खरीद के लिए 10,000 रुपये तक की वित्तीय सहायता। 1. इसमें तिपहिया साइकिल, बैसाखी, व्हीलचेयर, कैलिपर, श्रवण यंत्र, अंधा छड़ी, स्मार्टफोन, जयपुर फुट/जूते/ताड़ के पैड आदि जैसे सहायक उपकरण शामिल हैं।",
+      "briefDescription": "इस योजना का उद्देश्य विशेष रूप से सक्षम व्यक्तियों को स्व-रोजगार और शारीरिक अक्षमताओं को दूर करने के लिए कृत्रिम अंगों/उपकरणों की खरीद के लिए 10,000 रुपये की वित्तीय सहायता प्रदान करना है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"कृत्रिम अंगों/उपकरणों की खरीद/फिटिंग के लिए विकलांग व्यक्तियों को सहायता\" योजना सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार द्वारा लागू की जाती है। इस योजना का उद्देश्य विशेष रूप से सक्षम व्यक्तियों को स्व-रोजगार और शारीरिक अक्षमताओं को दूर करने के लिए कृत्रिम अंगों/उपकरणों की खरीद के लिए वित्तीय सहायता प्रदान करना है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, लाभार्थियों को कृत्रिम सहायक उपकरण और उपकरण जैसे तिपहिया साइकिल, बैसाखी, व्हीलचेयर, कैलिपर, श्रवण यंत्र, अंधा छड़ी, स्मार्टफोन, जयपुर फुट/जूते/ताड़ के पैड आदि की खरीद के लिए वित्तीय सहायता प्राप्त होती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शारीरिक अक्षमताओं को दूर करने के लिए कृत्रिम अंगों/उपकरणों की खरीद के लिए 10,000 रुपये तक की वित्तीय सहायता।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इसमें तिपहिया साइकिल, बैसाखी, व्हीलचेयर, कैलिपर, श्रवण यंत्र, अंधा छड़ी, स्मार्टफोन, जयपुर फुट/जूते/ताड़ के पैड आदि जैसे सहायक उपकरण शामिल हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को जिला सामाजिक न्याय और अधिकारिता विभाग के कार्यालय में जाना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र की एक प्रति का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सामाजिक न्याय और अधिकारिता विभाग में जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला सामाजिक न्याय और अधिकारिता विभाग से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को जिला सामाजिक न्याय और अधिकारिता विभाग के कार्यालय में जाना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र की एक प्रति का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को जिला सामाजिक न्याय और अधिकारिता विभाग में जमा करें। * * चरण 4: * * जिला सामाजिक न्याय और अधिकारिता विभाग से रसीद या पावती का अनुरोध करें, जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "pwd"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक विकलांग व्यक्ति होना चाहिए। 1. आवेदक 40 प्रतिशत अक्षमता से पीड़ित होना चाहिए। 1. आवेदक का परिवार आयकर दाता नहीं होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "disabilityPercentage": {
+        "gte": 40,
+        "lte": 100
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक विकलांग व्यक्ति होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक 40 प्रतिशत अक्षमता से पीड़ित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक का परिवार आयकर दाता नहीं होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "disability": true,
+      "disabilityType": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "pwd"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक विकलांग व्यक्ति होना चाहिए। 1. आवेदक 40 प्रतिशत अक्षमता से पीड़ित होना चाहिए। 1. आवेदक का परिवार आयकर दाता नहीं होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "disabilityPercentage": {
+      "gte": 40,
+      "lte": 100
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक विकलांग व्यक्ति होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक 40 प्रतिशत अक्षमता से पीड़ित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक का परिवार आयकर दाता नहीं होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "disability": true,
+    "disabilityType": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disability Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Family Income Proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity proof\n1. Domicile Certificate\n1. Disability Certificate\n1. Aadhaar Card \n1. Family Income Proof\n1. Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निशक्तता प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पारिवारिक आय का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity proof\n1. Domicile Certificate\n1. Disability Certificate\n1. Aadhaar Card \n1. Family Income Proof\n1. Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme aims to provide financial assistance to specially-abled individuals for self-employment and for purchasing artificial limbs or equipment to overcome physical disabilities.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme aims to provide financial assistance to specially-abled individuals for self-employment and for purchasing artificial limbs or equipment to overcome physical disabilities.\n\n"
+        },
+        {
+          "question": "Who implements this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme is implemented by the Department of Social Justice & Empowerment, Government of Rajasthan.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme is implemented by the Department of Social Justice & Empowerment, Government of Rajasthan.\n\n\n"
+        },
+        {
+          "question": "What type of assistance is provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial assistance of up to ₹10,000/- is provided for purchasing artificial limbs and assistive devices."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial assistance of up to [?]10,000/- is provided for purchasing artificial limbs and assistive devices.\n"
+        },
+        {
+          "question": "What types of assistive devices are covered under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme covers tricycles, crutches, wheelchairs, calipers, hearing aids, blind sticks, smartphones, Jaipur Foot, Jaipur Shoes, and Palm Pads."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme covers tricycles, crutches, wheelchairs, calipers, hearing aids, blind sticks, smartphones, Jaipur Foot, Jaipur Shoes, and Palm Pads.\n"
+        },
+        {
+          "question": "Who is eligible to apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant must be a native of Rajasthan, a person with a disability, have at least 40% disability, and belong to a family that is not an income tax payer.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant must be a native of Rajasthan, a person with a disability, have at least 40% disability, and belong to a family that is not an income tax payer.\n\n"
+        },
+        {
+          "question": "Is there any income limit to apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant’s family should not be an income tax payer to be eligible for the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant's family should not be an income tax payer to be eligible for the scheme.\n"
+        },
+        {
+          "question": "What is the minimum disability percentage required for eligibility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant must have a minimum of 40% disability to be eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant must have a minimum of 40% disability to be eligible.\n"
+        },
+        {
+          "question": "Where can an applicant get the application form?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application form can be obtained from the office of the District Social Justice & Empowerment Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application form can be obtained from the office of the District Social Justice & Empowerment Department.\n"
+        },
+        {
+          "question": "How can an applicant submit the application form?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The duly filled and signed application form, along with necessary documents, should be submitted to the District Social Justice & Empowerment Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The duly filled and signed application form, along with necessary documents, should be submitted to the District Social Justice & Empowerment Department.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य विशेष रूप से सक्षम व्यक्तियों को स्व-रोजगार के लिए और शारीरिक अक्षमताओं को दूर करने के लिए कृत्रिम अंग या उपकरण खरीदने के लिए वित्तीय सहायता प्रदान करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme aims to provide financial assistance to specially-abled individuals for self-employment and for purchasing artificial limbs or equipment to overcome physical disabilities.\n\n"
+        },
+        {
+          "question": "इस योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना को राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme is implemented by the Department of Social Justice & Empowerment, Government of Rajasthan.\n\n\n"
+        },
+        {
+          "question": "इस योजना के तहत किस प्रकार की सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कृत्रिम अंगों और सहायक उपकरणों की खरीद के लिए ₹10,000/- तक की वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Financial assistance of up to [?]10,000/- is provided for purchasing artificial limbs and assistive devices.\n"
+        },
+        {
+          "question": "इस योजना के तहत किस प्रकार के सहायक उपकरण शामिल हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना में तिपहिया साइकिल, बैसाखी, व्हीलचेयर, कैलिपर, श्रवण यंत्र, अंधा छड़ी, स्मार्टफोन, जयपुर फुट, जयपुर जूते और पाम पैड शामिल हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme covers tricycles, crutches, wheelchairs, calipers, hearing aids, blind sticks, smartphones, Jaipur Foot, Jaipur Shoes, and Palm Pads.\n"
+        },
+        {
+          "question": "इस योजना के लिए कौन आवेदन करने के योग्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए, एक विकलांग व्यक्ति होना चाहिए, कम से कम 40 प्रतिशत विकलांग होना चाहिए, और एक ऐसे परिवार से संबंधित होना चाहिए जो आयकर दाता नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant must be a native of Rajasthan, a person with a disability, have at least 40% disability, and belong to a family that is not an income tax payer.\n\n"
+        },
+        {
+          "question": "क्या इस योजना के लिए आवेदन करने की कोई आय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, योजना के लिए पात्र होने के लिए आवेदक का परिवार आयकर दाता नहीं होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant's family should not be an income tax payer to be eligible for the scheme.\n"
+        },
+        {
+          "question": "पात्रता के लिए आवश्यक न्यूनतम अक्षमता प्रतिशत क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पात्र होने के लिए आवेदक के पास न्यूनतम 40 प्रतिशत अक्षमता होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant must have a minimum of 40% disability to be eligible.\n"
+        },
+        {
+          "question": "एक आवेदक आवेदन पत्र कहाँ से प्राप्त कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन पत्र जिला सामाजिक न्याय और अधिकारिता विभाग के कार्यालय से प्राप्त किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application form can be obtained from the office of the District Social Justice & Empowerment Department.\n"
+        },
+        {
+          "question": "एक आवेदक आवेदन पत्र कैसे जमा कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विधिवत भरा हुआ और हस्ताक्षरित आवेदन पत्र, आवश्यक दस्तावेजों के साथ, जिला सामाजिक न्याय और अधिकारिता विभाग को प्रस्तुत किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The duly filled and signed application form, along with necessary documents, should be submitted to the District Social Justice & Empowerment Department.\n"
+        }
+      ]
+    }
+  }
+}

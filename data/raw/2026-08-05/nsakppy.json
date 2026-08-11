@@ -1,0 +1,1205 @@
+{
+  "scheme_id": "64264af255128caeb7320975",
+  "slug": "nsakppy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Sports Scheme",
+        "International Sports",
+        "Construction Worker",
+        "Competition",
+        "Participation"
+      ],
+      "schemeName": "Nirman Shramik Antrashtriya Khel Pratiyogiyo Hetu Protsahan Yojana",
+      "schemeShortTitle": "NSAKPPY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce8aad6d1a3bde4685320",
+          "label": "Sports & Culture"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Sports",
+          "label": "Sports"
+        }
+      ],
+      "schemeOpenDate": "2020-12-28",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "Labour Department"
+      },
+      "schemeCloseDate": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Department Of Labour, Rajasthan Website",
+          "url": "https://labour.rajasthan.gov.in/Schemes.aspx "
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://ldms.rajasthan.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "https://labour.rajasthan.gov.in/Schemes.aspx ",
+      "detailedDescription_md": "The purpose of this scheme is to encourage registered beneficiaries employed in building and other construction works and their children to participate in international sports.  This scheme will be effective on those employed in the Labour Department building and other construction workers who are registered as beneficiaries in the board under Section-12 of the The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996, and are depositing their contributions regularly. This scheme will be effective in the entire state of Rajasthan.\n",
+      "benefits_md": "The incentive amount under this scheme for International level sports competition to the eligible beneficiary or his children will be given as follows: -\n\n- Participating in the competition-  ₹ 2,00,000/-\n- On receiving the Bronze medal-   ₹5,00,000/-\n- On receiving the Silver medal-     ₹8,00,000/-\n- On receiving the Gold medal-       ₹11,00,000/-\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The purpose of the Nirman Shramik Antrashtriya Khel Pratiyogiyo Hetu Protsahan Yojana is to encourage people employed in Labour Department building, other construction works to participate in international sports by providing them incentives for participating and excelling in international sports.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The purpose of this scheme is to encourage registered beneficiaries employed in building and other construction works and their children to participate in international sports.  This scheme will be effective on those employed in the Labour Department building and other construction workers who are registered as beneficiaries in the board under Section-12 of the The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996, and are depositing their contributions regularly. This scheme will be effective in the entire state of Rajasthan."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The incentive amount under this scheme for International level sports competition to the eligible beneficiary or his children will be given as follows: -"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Participating in the competition-  ₹ 2,00,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "On receiving the Bronze medal-   ₹5,00,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "On receiving the Silver medal-     ₹8,00,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "On receiving the Gold medal-       ₹11,00,000/-"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "www.ldms.rajasthan.gov.in ",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The application has to be submitted by the beneficiary on Board's "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ldms.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "Online Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " in the form prescribed. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Approval and selection of the candidate will be done by the senior-most officer of the labour office or the competent authority appointed by the secretary after the application has been examined."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Time period for submission of application - Application can be submitted within a period of 6 months from the date of completion of International Sports Competition/Tournament."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The incentive amount will be transferred through electronic means (RTGS / NEFT) to the candidate's bank account under the central banking system."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The application has to be submitted by the beneficiary on Board&amp;#39;s [Online Portal](https://ldms.rajasthan.gov.in/) in the form prescribed. \n**Step 2:** Approval and selection of the candidate will be done by the senior-most officer of the labour office or the competent authority appointed by the secretary after the application has been examined.\n**Step 3:** Time period for submission of application - Application can be submitted within a period of 6 months from the date of completion of International Sports Competition/Tournament.\n**Step 4:** The incentive amount will be transferred through electronic means (RTGS / NEFT) to the candidate&amp;#39;s bank account under the central banking system.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Applicant should be a resident of Rajasthan State.\n   1. For this scheme, those construction workers will be eligible, who are registered as labour under labour law. \n   1. Those building and other construction workers will be eligible who are registered as beneficiaries in the board under Section-12 of The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996 and are depositing their contribution regularly.\n   1. In addition to the above, unmarried sons and daughters of construction workers will also be eligible for assistance under the scheme.\n\n**Other Terms &amp;amp; Conditions:**\n\n  - The provisions of the scheme will not be applicable to any online gaming / betting-related competition.\n  - Declaration of invalidity of Sportsperson or withdrawal of medals won by the participant due to doping or any valid reason stipulated by the organising committee no incentives will be payable under the scheme.\n  - During scrutiny of the application and documents, if any facts are found to be false resulting in the cancellation of eligibility, it will be the responsibility of the concerned beneficiary to deposit all the assistance amount sanctioned under the scheme along with interest.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Applicant should be a resident of Rajasthan State."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For this scheme, those construction workers will be eligible, who are registered as labour under labour law. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Those building and other construction workers will be eligible who are registered as beneficiaries in the board under Section-12 of The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996 and are depositing their contribution regularly."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In addition to the above, unmarried sons and daughters of construction workers will also be eligible for assistance under the scheme."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Other Terms & Conditions:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The provisions of the scheme will not be applicable to any online gaming / betting-related competition."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Declaration of invalidity of Sportsperson or withdrawal of medals won by the participant due to doping or any valid reason stipulated by the organising committee no incentives will be payable under the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "During scrutiny of the application and documents, if any facts are found to be false resulting in the cancellation of eligibility, it will be the responsibility of the concerned beneficiary to deposit all the assistance amount sanctioned under the scheme along with interest."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "खेल योजना",
+        "अंतर्राष्ट्रीय खेल",
+        "निर्माण कार्यकर्ता",
+        "प्रतियोगिता",
+        "भागीदारी"
+      ],
+      "schemeName": "निर्माण श्रमिक अन्तरराष्ट्रीय खेल प्रतिकृतिओ हेतु प्रोत्साहन योजना",
+      "schemeShortTitle": "NSAKPPY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce8aad6d1a3bde4685320",
+          "label": "Sports & Culture"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Sports",
+          "label": "खेलकूद"
+        }
+      ],
+      "schemeOpenDate": "2020-12-28",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "श्रम विभाग"
+      },
+      "schemeCloseDate": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "श्रम विभाग, राजस्थान की वेबसाइट",
+          "url": "https://labour.rajasthan.gov.in/Schemes.aspx "
+        },
+        {
+          "title": "आवेदन पोर्टल",
+          "url": "https://ldms.rajasthan.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "https://labour.rajasthan.gov.in/Schemes.aspx ",
+      "detailedDescription_md": "इस योजना का उद्देश्य भवन और अन्य निर्माण कार्यों में कार्यरत पंजीकृत लाभार्थियों और उनके बच्चों को अंतर्राष्ट्रीय खेलों में भाग लेने के लिए प्रोत्साहित करना है। यह योजना श्रम विभाग के भवन में कार्यरत उन लोगों और अन्य निर्माण श्रमिकों पर प्रभावी होगी जो भवन और अन्य निर्माण श्रमिक (रोजगार और सेवा की शर्तों का विनियमन) अधिनियम, 1996 की धारा-12 के तहत बोर्ड में लाभार्थी के रूप में पंजीकृत हैं और नियमित रूप से अपना योगदान जमा कर रहे हैं। यह योजना पूरे राजस्थान राज्य में प्रभावी होगी।",
+      "benefits_md": "इस योजना के तहत पात्र लाभार्थी या उसके बच्चों को अंतर्राष्ट्रीय स्तर की खेल प्रतियोगिता के लिए प्रोत्साहन राशि इस प्रकार दी जाएगीः-- प्रतियोगिता में भाग लेने पर-₹ 2,00,000-कांस्य पदक प्राप्त करने पर-₹ 5,00,000-रजत पदक प्राप्त करने पर-₹ 8,00,000-स्वर्ण पदक प्राप्त करने पर-₹ 11,00,000 -",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "निर्माण श्रमिक अंतर्राष्ट्रीय खेल प्रतिसोगियो हेतु प्रोत्साहन योजना का उद्देश्य श्रम विभाग के भवन, अन्य निर्माण कार्यों में कार्यरत लोगों को अंतर्राष्ट्रीय खेलों में भाग लेने और उत्कृष्टता प्राप्त करने के लिए प्रोत्साहन प्रदान करके अंतर्राष्ट्रीय खेलों में भाग लेने के लिए प्रोत्साहित करना है।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य भवन और अन्य निर्माण कार्यों में कार्यरत पंजीकृत लाभार्थियों और उनके बच्चों को अंतर्राष्ट्रीय खेलों में भाग लेने के लिए प्रोत्साहित करना है। यह योजना श्रम विभाग के भवन में कार्यरत उन लोगों और अन्य निर्माण श्रमिकों पर प्रभावी होगी जो भवन और अन्य निर्माण श्रमिक (रोजगार और सेवा की शर्तों का विनियमन) अधिनियम, 1996 की धारा-12 के तहत बोर्ड में लाभार्थी के रूप में पंजीकृत हैं और नियमित रूप से अपना योगदान जमा कर रहे हैं। यह योजना पूरे राजस्थान राज्य में प्रभावी होगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना के तहत पात्र लाभार्थी या उसके बच्चों को अंतर्राष्ट्रीय स्तर की खेल प्रतियोगिता के लिए प्रोत्साहन राशि निम्नानुसार दी जाएगीः -"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रतियोगिता में भाग लेना-₹ 2,00,000 -"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कांस्य पदक प्राप्त करने पर-₹ 5,00,000 -"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रजत पदक प्राप्त करने पर-₹ 8,00,000 -"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्वर्ण पदक प्राप्त करने पर-₹ 11,00,000 -"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "www.ldms.rajasthan.gov.in ",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन लाभार्थी द्वारा बोर्ड के कार्यालय में प्रस्तुत किया जाना है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ldms.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "ऑनलाइन पोर्टल"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "निर्धारित प्रपत्र में।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन की जांच के बाद उम्मीदवार का अनुमोदन और चयन श्रम कार्यालय के सबसे वरिष्ठ अधिकारी या सचिव द्वारा नियुक्त सक्षम प्राधिकारी द्वारा किया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन जमा करने की समय अवधि-अंतर्राष्ट्रीय खेल प्रतियोगिता/टूर्नामेंट के पूरा होने की तारीख से 6 महीने की अवधि के भीतर आवेदन जमा किया जा सकता है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "प्रोत्साहन राशि केंद्रीय बैंकिंग प्रणाली के तहत उम्मीदवार के बैंक खाते में इलेक्ट्रॉनिक माध्यमों (आरटीजीएस/एनईएफटी) के माध्यम से हस्तांतरित की जाएगी।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * * आवेदन को लाभार्थी द्वारा निर्धारित प्रपत्र में बोर्ड के [ऑनलाइन पोर्टल] (https://ldms.rajasthan.gov.in) पर जमा करना होगा। चरण 2: आवेदन की जांच के बाद उम्मीदवार का अनुमोदन और चयन श्रम कार्यालय के सबसे वरिष्ठ अधिकारी या सचिव द्वारा नियुक्त सक्षम प्राधिकारी द्वारा किया जाएगा। चरण 3: आवेदन जमा करने की समय अवधि-अंतर्राष्ट्रीय खेल प्रतियोगिता/टूर्नामेंट के पूरा होने की तारीख से 6 महीने की अवधि के भीतर आवेदन जमा किया जा सकता है। चरण 4: प्रोत्साहन राशि केंद्रीय बैंकिंग प्रणाली के तहत उम्मीदवार के बैंक खाते में इलेक्ट्रॉनिक माध्यमों (आरटीजीएस/एनईएफटी) के माध्यम से हस्तांतरित की जाएगी।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 5,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 5,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 5,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 5,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 5,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 5,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 5,
+          "lte": 60,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक को राजस्थान राज्य का निवासी होना चाहिए। 1. इस योजना के लिए वे निर्माण श्रमिक पात्र होंगे, जो श्रम कानून के तहत श्रम के रूप में पंजीकृत हैं। 1. वे भवन और अन्य निर्माण श्रमिक पात्र होंगे जो भवन और अन्य निर्माण श्रमिक (रोजगार और सेवा शर्तों का विनियमन) अधिनियम, 1996 की धारा-12 के तहत बोर्ड में लाभार्थियों के रूप में पंजीकृत हैं और नियमित रूप से अपना योगदान जमा कर रहे हैं। 1. उपरोक्त के अलावा, निर्माण श्रमिकों के अविवाहित बेटे और बेटियां भी इस योजना के तहत सहायता के लिए पात्र होंगे। एएमपी; शर्तेंः योजना के प्रावधान किसी भी ऑनलाइन खेल/सट्टेबाजी से संबंधित प्रतियोगिता पर लागू नहीं होंगे।-खिलाड़ी की अयोग्यता की घोषणा या डोपिंग के कारण प्रतिभागी द्वारा जीते गए पदक को वापस लेने या आयोजन समिति द्वारा निर्धारित किसी भी वैध कारण से योजना के तहत कोई प्रोत्साहन देय नहीं होगा।-आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई भी तथ्य गलत पाए जाते हैं जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को राजस्थान राज्य का निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इस योजना के लिए वे निर्माण श्रमिक पात्र होंगे, जो श्रम कानून के तहत श्रम के रूप में पंजीकृत हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "वे भवन और अन्य निर्माण श्रमिक पात्र होंगे जो भवन और अन्य निर्माण श्रमिक (रोजगार और सेवा शर्तों का विनियमन) अधिनियम, 1996 की धारा-12 के तहत बोर्ड में लाभार्थियों के रूप में पंजीकृत हैं और नियमित रूप से अपना योगदान जमा कर रहे हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उपरोक्त के अलावा, निर्माण श्रमिकों के अविवाहित बेटे और बेटियां भी इस योजना के तहत सहायता के पात्र होंगे।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अन्य नियम और शर्तेंः",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इस योजना के प्रावधान किसी भी ऑनलाइन खेल/सट्टेबाजी से संबंधित प्रतियोगिता पर लागू नहीं होंगे।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "खिलाड़ी की अयोग्यता की घोषणा या डोपिंग या आयोजन समिति द्वारा निर्धारित किसी भी वैध कारण के कारण प्रतिभागी द्वारा जीते गए पदक को वापस लेने के लिए योजना के तहत कोई प्रोत्साहन देय नहीं होगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई तथ्य गलत पाया जाता है जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "employmentStatus": {
+        "id": 1,
+        "value": "All",
+        "label": "All"
+      },
+      "occupation": [
+        {
+          "value": "unorganized-worker",
+          "label": "Unorganized Worker"
+        },
+        {
+          "value": "construction-worker",
+          "label": "Construction Worker"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 5,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 5,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 5,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 5,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 5,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 5,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 5,
+        "lte": 60,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक को राजस्थान राज्य का निवासी होना चाहिए। 1. इस योजना के लिए वे निर्माण श्रमिक पात्र होंगे, जो श्रम कानून के तहत श्रम के रूप में पंजीकृत हैं। 1. वे भवन और अन्य निर्माण श्रमिक पात्र होंगे जो भवन और अन्य निर्माण श्रमिक (रोजगार और सेवा शर्तों का विनियमन) अधिनियम, 1996 की धारा-12 के तहत बोर्ड में लाभार्थियों के रूप में पंजीकृत हैं और नियमित रूप से अपना योगदान जमा कर रहे हैं। 1. उपरोक्त के अलावा, निर्माण श्रमिकों के अविवाहित बेटे और बेटियां भी इस योजना के तहत सहायता के लिए पात्र होंगे। एएमपी; शर्तेंः योजना के प्रावधान किसी भी ऑनलाइन खेल/सट्टेबाजी से संबंधित प्रतियोगिता पर लागू नहीं होंगे।-खिलाड़ी की अयोग्यता की घोषणा या डोपिंग के कारण प्रतिभागी द्वारा जीते गए पदक को वापस लेने या आयोजन समिति द्वारा निर्धारित किसी भी वैध कारण से योजना के तहत कोई प्रोत्साहन देय नहीं होगा।-आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई भी तथ्य गलत पाए जाते हैं जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को राजस्थान राज्य का निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इस योजना के लिए वे निर्माण श्रमिक पात्र होंगे, जो श्रम कानून के तहत श्रम के रूप में पंजीकृत हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "वे भवन और अन्य निर्माण श्रमिक पात्र होंगे जो भवन और अन्य निर्माण श्रमिक (रोजगार और सेवा शर्तों का विनियमन) अधिनियम, 1996 की धारा-12 के तहत बोर्ड में लाभार्थियों के रूप में पंजीकृत हैं और नियमित रूप से अपना योगदान जमा कर रहे हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उपरोक्त के अलावा, निर्माण श्रमिकों के अविवाहित बेटे और बेटियां भी इस योजना के तहत सहायता के पात्र होंगे।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "अन्य नियम और शर्तेंः",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इस योजना के प्रावधान किसी भी ऑनलाइन खेल/सट्टेबाजी से संबंधित प्रतियोगिता पर लागू नहीं होंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "खिलाड़ी की अयोग्यता की घोषणा या डोपिंग या आयोजन समिति द्वारा निर्धारित किसी भी वैध कारण के कारण प्रतिभागी द्वारा जीते गए पदक को वापस लेने के लिए योजना के तहत कोई प्रोत्साहन देय नहीं होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन और दस्तावेजों की जांच के दौरान, यदि कोई तथ्य गलत पाया जाता है जिसके परिणामस्वरूप पात्रता रद्द हो जाती है, तो यह संबंधित लाभार्थी की जिम्मेदारी होगी कि वह योजना के तहत स्वीकृत सभी सहायता राशि को ब्याज के साथ जमा करे।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "employmentStatus": {
+      "id": 1,
+      "value": "All",
+      "label": "All"
+    },
+    "occupation": [
+      {
+        "value": "unorganized-worker",
+        "label": "Unorganized Worker"
+      },
+      {
+        "value": "construction-worker",
+        "label": "Construction Worker"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. Copy of the beneficiary registration identity card."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. Copy of the beneficiary's Aadhaar and Jan Aadhaar card."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. First page of the beneficiary savings bank account passbook (in which the beneficiary name, bank account number and IFS code are mentioned)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. Copy of the certificate issued by the International Sports Organizing Committee / Federation / Association / Council."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. लाभार्थी पंजीकरण पहचान पत्र की प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. लाभार्थी के आधार और जन आधार कार्ड की प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. लाभार्थी बचत बैंक खाता पासबुक का पहला पृष्ठ (जिसमें लाभार्थी का नाम, बैंक खाता संख्या और आई. एफ. एस. कोड का उल्लेख है)।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. अंतर्राष्ट्रीय खेल आयोजन समिति/महासंघ/संघ/परिषद द्वारा जारी प्रमाण पत्र की प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": ""
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who will get the benefits under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For this scheme, the construction workers of Rajasthan, who are registered as labour under labour law Will Be Eligible.  This scheme will be effective on those building and other construction workers who are registered as beneficiaries in the board under Section-12 of the The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996 and are depositing their contribution regularly.  In addition to the above, unmarried sons and daughters of construction workers will also be eligible for assistance under the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "For this scheme, the construction workers of Rajasthan, who are registered as labour under labour law Will Be Eligible.  This scheme will be effective on those building and other construction workers who are registered as beneficiaries in the board under Section-12 of the The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996 and are depositing their contribution regularly.  In addition to the above, unmarried sons and daughters of construction workers will also be eligible for assistance under the scheme.\n"
+        },
+        {
+          "question": "What is the benefit given to the beneficiaries under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The incentive amount to be given under this scheme is as follows: -\n1. On participating in the competition-   ₹2,00,000/-\n2. On receiving the Bronze medal-   ₹5,00,000/-\n3. On receiving the Silver medal-     ₹8,00,000/-\n4. On receiving the Gold medal-       ₹11,00,000/-"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The incentive amount to be given under this scheme is as follows: -\n1. On participating in the competition-   [?]2,00,000/-\n2. On receiving the Bronze medal-   [?]5,00,000/-\n3. On receiving the Silver medal-     [?]8,00,000/-\n4. On receiving the Gold medal-       [?]11,00,000/-\n"
+        },
+        {
+          "question": "What is the procedure of application for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The beneficiary needs to fill the online form in the prescribed format on www.ldms.rajasthan.gov.in along with the copies of the documents. The selection committee will examine the application and the amount under this scheme will be disbursed directly in the bank account of the beneficiary."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary needs to fill the online form in the prescribed format on www.ldms.rajasthan.gov.in along with the copies of the documents. The selection committee will examine the application and the amount under this scheme will be disbursed directly in the bank account of the beneficiary.\n"
+        },
+        {
+          "question": "Can a person apply for this scheme offline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only the online applications filled on https://ldms.rajasthan.gov.in/ are entertained."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only the online applications filled on https://ldms.rajasthan.gov.in/ are entertained.\n"
+        },
+        {
+          "question": "Who decides and approves the selection of the beneficiary under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Approval and selection of the candidate is done by the senior-most officer of the labour office or the competent authority appointed by the secretary after the application has been examined.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Approval and selection of the candidate is done by the senior-most officer of the labour office or the competent authority appointed by the secretary after the application has been examined.\n\n"
+        },
+        {
+          "question": "Which Documents are required to get benefits under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Copy of the beneficiary registration identity card.\n2. Copy of the beneficiary's Aadhaar and Jan Aadhaar card.\n3. First page of the beneficiary savings bank account passbook (in which the beneficiary name, bank account number and IFS code are mentioned).\n4. Copy of the certificate issued by the International Sports Organizing Committee / Federation / Association / Council."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Copy of the beneficiary registration identity card.\n2. Copy of the beneficiary's Aadhaar and Jan Aadhaar card.\n3. First page of the beneficiary savings bank account passbook (in which the beneficiary name, bank account number and IFS code are mentioned).\n4. Copy of the certificate issued by the International Sports Organizing Committee / Federation / Association / Council.\n"
+        },
+        {
+          "question": "Is there a time limit for applying for benefits under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Application can be submitted within a period of 6 months from the date of completion of the International Sports Competition/Tournament.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Application can be submitted within a period of 6 months from the date of completion of the International Sports Competition/Tournament.\n\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के तहत किसे लाभ मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के लिए राजस्थान के निर्माण श्रमिक, जो श्रम कानून के तहत श्रम के रूप में पंजीकृत हैं, पात्र होंगे। यह योजना उन भवन और अन्य निर्माण श्रमिकों पर प्रभावी होगी जो भवन और अन्य निर्माण श्रमिक (रोजगार और सेवा की शर्तों का विनियमन) अधिनियम, 1996 की धारा-12 के तहत बोर्ड में लाभार्थी के रूप में पंजीकृत हैं और नियमित रूप से अपना योगदान जमा कर रहे हैं। उपरोक्त के अलावा, निर्माण श्रमिकों के अविवाहित बेटे और बेटियां भी इस योजना के तहत सहायता के पात्र होंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "For this scheme, the construction workers of Rajasthan, who are registered as labour under labour law Will Be Eligible.  This scheme will be effective on those building and other construction workers who are registered as beneficiaries in the board under Section-12 of the The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996 and are depositing their contribution regularly.  In addition to the above, unmarried sons and daughters of construction workers will also be eligible for assistance under the scheme.\n"
+        },
+        {
+          "question": "इस योजना के तहत लाभार्थियों को क्या लाभ दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत दी जाने वाली प्रोत्साहन राशि इस प्रकार हैः-1. प्रतियोगिता में भाग लेने पर-₹ 2,00,000-2। कांस्य पदक प्राप्त करने पर-₹ 5,00,000-3। रजत पदक प्राप्त करने पर-₹ 8,00,000-4। स्वर्ण पदक प्राप्त करने पर-₹ 11,00,000 -"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The incentive amount to be given under this scheme is as follows: -\n1. On participating in the competition-   [?]2,00,000/-\n2. On receiving the Bronze medal-   [?]5,00,000/-\n3. On receiving the Silver medal-     [?]8,00,000/-\n4. On receiving the Gold medal-       [?]11,00,000/-\n"
+        },
+        {
+          "question": "इस योजना के लिए आवेदन की प्रक्रिया क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी को दस्तावेजों की प्रतियों के साथ www.ldms.rajasthan.gov.in पर निर्धारित प्रारूप में ऑनलाइन फॉर्म भरना होगा। चयन समिति आवेदन की जांच करेगी और इस योजना के तहत राशि सीधे लाभार्थी के बैंक खाते में वितरित की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The beneficiary needs to fill the online form in the prescribed format on www.ldms.rajasthan.gov.in along with the copies of the documents. The selection committee will examine the application and the amount under this scheme will be disbursed directly in the bank account of the beneficiary.\n"
+        },
+        {
+          "question": "क्या कोई व्यक्ति इस योजना के लिए ऑफ़लाइन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल https://ldms.rajasthan.gov.in पर भरे गए ऑनलाइन आवेदनों पर ही विचार किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only the online applications filled on https://ldms.rajasthan.gov.in/ are entertained.\n"
+        },
+        {
+          "question": "इस योजना के तहत लाभार्थी के चयन का निर्णय और अनुमोदन कौन करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन की जांच के बाद श्रम कार्यालय के सबसे वरिष्ठ अधिकारी या सचिव द्वारा नियुक्त सक्षम प्राधिकारी द्वारा उम्मीदवार का अनुमोदन और चयन किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Approval and selection of the candidate is done by the senior-most officer of the labour office or the competent authority appointed by the secretary after the application has been examined.\n\n"
+        },
+        {
+          "question": "इस योजना के तहत लाभ प्राप्त करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. लाभार्थी पंजीकरण पहचान पत्र की प्रति। 2. लाभार्थी के आधार और जन आधार कार्ड की प्रति। 3. लाभार्थी बचत बैंक खाता पासबुक का पहला पृष्ठ (जिसमें लाभार्थी का नाम, बैंक खाता संख्या और आई. एफ. एस. कोड का उल्लेख है)। 4. अंतर्राष्ट्रीय खेल आयोजन समिति/महासंघ/संघ/परिषद द्वारा जारी प्रमाण पत्र की प्रति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Copy of the beneficiary registration identity card.\n2. Copy of the beneficiary's Aadhaar and Jan Aadhaar card.\n3. First page of the beneficiary savings bank account passbook (in which the beneficiary name, bank account number and IFS code are mentioned).\n4. Copy of the certificate issued by the International Sports Organizing Committee / Federation / Association / Council.\n"
+        },
+        {
+          "question": "क्या इस योजना के तहत लाभ के लिए आवेदन करने की कोई समय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अंतर्राष्ट्रीय खेल प्रतियोगिता/टूर्नामेंट के पूरा होने की तारीख से 6 महीने की अवधि के भीतर आवेदन जमा किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Application can be submitted within a period of 6 months from the date of completion of the International Sports Competition/Tournament.\n\n"
+        }
+      ]
+    }
+  }
+}

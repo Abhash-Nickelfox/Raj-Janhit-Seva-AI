@@ -1,0 +1,3179 @@
+{
+  "scheme_id": "645be3be3b5b7730866a5979",
+  "slug": "cmacs",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Anuprati",
+        "Coaching",
+        "Competitive Examination",
+        "UPSC",
+        "RPSC"
+      ],
+      "schemeName": "CM Anuprati Coaching Scheme",
+      "schemeShortTitle": "CMACS",
+      "implementingAgency": "Social Justice And Empowerment Department, Government Of Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Universities and higher education",
+          "label": "Universities and higher education"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202206141157335834.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=284"
+        },
+        {
+          "title": "SSO Portal",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "User Manual",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191520050796.pdf"
+        },
+        {
+          "title": "Required Documents",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191514560241.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;CM Anuprati Coaching Scheme&amp;quot; was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. The objective of the scheme is to encourage talented candidates from Scheduled Caste, Scheduled Tribe, Other Backward Class, Extremely Backward Class, Economically Weaker Section or Minority categories of Rajasthan by providing financial assistance after their selection in various competitive examinations, such as IAS, RAS, IIT, IIM, CPMT, NIT, and other government engineering and medical entrance exams.\n",
+      "benefits_md": "Under the scheme, the following are the details of the amounts provided for the preparation of various exams:\nSl. No.ExaminationAmountDurationMinimum Qualification1Civil Services Examination conducted by UPSCThrough reputed institutes- ₹75,000/-1 Year1. Studying in final two years of graduation/undergraduate                     2. 70% marks in class 12Civil Services Examination conducted by UPSCThrough other institutions- ₹50,000/-1 Year1.\tStudying in final two years of graduation/undergraduate                     2. 60% marks in class 122RAS or Subordinate Services Combined Competitive Examination conducted by RPSCThrough reputed institutions – ₹50,000/-1 Year1.\tStudying in final two years of graduation/undergraduate                     2. 65% marks in class 12RAS or Subordinate Services Combined Competitive Examination conducted by RPSCThrough other institutions – ₹40,000/-1 Year1.\tStudying in final two years of graduation/undergraduate                     2. 55% marks in class 123Sub Inspector examination conducted By RPSC, earlier on Grade Pay of ₹3,600/- and currently on Pay Matrix Level-10 and above other examinations₹20,000/-6 Months1.\tStudying in final two years of graduation/undergraduate                     2. 50% marks in class 124REET Examination₹15,000/-4 Months1.\tB.Ed/STC             2. 50% marks in class 125Examinations conducted by RSSB such as Patwari, Junior Assistant for previous grade pay ₹2400 and the current above pay level 5 and for previous grade pay ₹3600 and other examinations below pay level 10₹10,000/-4 Months1.\tStudying in Graduation/12th and RSCIT or Computer Course or O Level/Higher Computer Level Certificate/Diploma 2. 50% marks in class 126Constable Examination₹10,000/-4 Months50% marks in Class 107Entrance Examination of Engineering/MedicalThrough reputed institutes- ₹70,000/- per year2 years (Studying in Class 11th &amp;amp;amp;amp; 12th and for a period of two years after passing Class 12th)70% marks in Class 10Entrance Examination of Engineering/MedicalThrough other institutions – ₹55,000/- per year2 years (Studying in Class 11th &amp;amp;amp;amp; 12th and for a period of two years after passing Class 12th)60% marks in Class 108CLAT ExaminationThrough reputed institutes- ₹40,000/- per year1 Year60% marks in Class 10CLAT ExaminationThrough reputed institutes- ₹25,000/- per year1 Year50% marks in Class 109CAFCThrough reputed institutes- ₹40,000/- per year1 year (Studying in Class 11th &amp;amp;amp;amp; 12th and for a period of two years after passing Class 12th for students of the Commerce subject)60% marks in Class 1010CSEETThrough reputed institutes- ₹25,000/- per year1 year (Studying in Class 11th &amp;amp;amp;amp; 12th and for a period of two years after passing Class 12th for students of the Commerce subject)60% marks in Class 1011CMFACThrough reputed institutes- ₹25,000/- per year1 year (Studying in Class 11th &amp;amp;amp;amp; 12th and for a period of two years after passing Class 12th for students of the Commerce subject)60% marks in Class 10<br>\n\n",
+      "briefDescription": "The scheme is an initiative launched by the Government of Rajasthan to provide free coaching to students from economically weaker sections (EWS) and socially backward communities for various competitive exams such as IAS, RAS, and other government job recruitment exams.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"CM Anuprati Coaching Scheme\" was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. The objective of the scheme is to encourage talented candidates from Scheduled Caste, Scheduled Tribe, Other Backward Class, Extremely Backward Class, Economically Weaker Section or Minority categories of Rajasthan by providing financial assistance after their selection in various competitive examinations, such as IAS, RAS, IIT, IIM, CPMT, NIT, and other government engineering and medical entrance exams."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme, the following are the details of the amounts provided for the preparation of various exams:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sl. No."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Examination"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Amount"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Duration"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Minimum Qualification"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Civil Services Examination conducted by UPSC"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through reputed institutes- ₹75,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 Year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. Studying in final two years of graduation/undergraduate                     2. 70% marks in class 12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Civil Services Examination conducted by UPSC"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through other institutions- ₹50,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 Year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1.\tStudying in final two years of graduation/undergraduate                     2. 60% marks in class 12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "RAS or Subordinate Services Combined Competitive Examination conducted by RPSC"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through reputed institutions – ₹50,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 Year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1.\tStudying in final two years of graduation/undergraduate                     2. 65% marks in class 12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "RAS or Subordinate Services Combined Competitive Examination conducted by RPSC"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through other institutions – ₹40,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 Year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1.\tStudying in final two years of graduation/undergraduate                     2. 55% marks in class 12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sub Inspector examination conducted By RPSC, earlier on Grade Pay of ₹3,600/- and currently on Pay Matrix Level-10 and above other examinations"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹20,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "6 Months"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1.\tStudying in final two years of graduation/undergraduate                     2. 50% marks in class 12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "REET Examination"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹15,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4 Months"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1.\tB.Ed/STC             2. 50% marks in class 12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "5"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Examinations conducted by RSSB such as Patwari, Junior Assistant for previous grade pay ₹2400 and the current above pay level 5 and for previous grade pay ₹3600 and other examinations below pay level 10"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹10,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4 Months"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1.\tStudying in Graduation/12th and RSCIT or Computer Course or O Level/Higher Computer Level Certificate/Diploma 2. 50% marks in class 12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "6"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Constable Examination"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹10,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4 Months"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% marks in Class 10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "7"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Entrance Examination of Engineering/Medical"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through reputed institutes- ₹70,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 years (Studying in Class 11th & 12th and for a period of two years after passing Class 12th)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "70% marks in Class 10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Entrance Examination of Engineering/Medical"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through other institutions – ₹55,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 years (Studying in Class 11th & 12th and for a period of two years after passing Class 12th)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "60% marks in Class 10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "8"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "CLAT Examination"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through reputed institutes- ₹40,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 Year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "60% marks in Class 10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "CLAT Examination"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through reputed institutes- ₹25,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 Year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% marks in Class 10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "9"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "CAFC"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through reputed institutes- ₹40,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 year (Studying in Class 11th & 12th and for a period of two years after passing Class 12th for students of the Commerce subject)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "60% marks in Class 10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "CSEET"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through reputed institutes- ₹25,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 year (Studying in Class 11th & 12th and for a period of two years after passing Class 12th for students of the Commerce subject)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "60% marks in Class 10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "11"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "CMFAC"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Through reputed institutes- ₹25,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 year (Studying in Class 11th & 12th and for a period of two years after passing Class 12th for students of the Commerce subject)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "60% marks in Class 10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sjmsnew.rajasthan.gov.in/CMAnupratiCoaching",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Registration Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the official portal of Rajasthan Single Sign On: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://sso.rajasthan.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "On the homepage, click on the \""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "children": [
+                      {
+                        "text": "Register here"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\" tab."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Select ‘Jan Aadhaar’ option for registration under the ‘Citizen’ tab."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Complete the registration process by entering your Jan Aadhaar Number."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " After successful registration, you will receive a User ID (SSO ID) and Password. These credentials will allow you to check your application status and apply for scheme in the future."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " To apply under the scheme, revisit the official portal of Rajasthan Single Sign On: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://sso.rajasthan.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the homepage, click on the \""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "Login to RajSSO"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\" tab."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Enter your username (SSO ID), password, and Captcha, then click ‘Login’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once logged in, update your profile."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on SJMS SMS icon, click on CM Anuprati Coaching icon on SJMS SMS icon dashboard."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in the required information, and upload all necessary documents on the online portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " After entering the information and uploading the documents, make sure to submit/save your application form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " When the notification is issued by the State Government, the interested candidate must apply through the official portal via e-Mitra/SSOID using their Jan Aadhaar Card."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " After receiving the online application forms from candidates as per the prescribed eligibility, the required documents (such as caste certificate, domicile certificate, 10th and 12th mark sheets, income certificate, etc.) will be automatically verified from the database of the web portal/Jan Aadhaar/Raj e-bolt/DigiLocker of the issuing agency through web service, without the need to upload the documents wherever possible. These application forms will be verified automatically, eliminating the need for manual verification."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The candidate must select the exam they propose to take coaching for, along with one of the listed coaching institutes. Online application will be allowed if there is an available target for the relevant category in the district for exam selection."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The option to change the name of the coaching institute and exam will remain available until the last date prescribed for the online application by the candidate."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The candidate must join in the same academic session as per the merit list issued for that year. If they do not, they will not be able to avail the benefit in the following academic session."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191520050796.pdf",
+                    "children": [
+                      {
+                        "text": "User Manual"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Registration Process:**\n\n**Step 1:** Visit the official portal of Rajasthan Single Sign On: [https://sso.rajasthan.gov.in/](https://sso.rajasthan.gov.in/)\n**Step 2:** On the homepage, click on the &amp;quot;[Register here](https://sso.rajasthan.gov.in/register)&amp;quot; tab.\n**Step 3:** Select ‘Jan Aadhaar’ option for registration under the ‘Citizen’ tab.\n**Step 4:** Complete the registration process by entering your Jan Aadhaar Number.\n**Step 5:** After successful registration, you will receive a User ID (SSO ID) and Password. These credentials will allow you to check your application status and apply for scheme in the future.\n&gt; **Application Process:**\n\n**Step 1:** To apply under the scheme, revisit the official portal of Rajasthan Single Sign On: [https://sso.rajasthan.gov.in/](https://sso.rajasthan.gov.in/)\n**Step 2:** On the homepage, click on the &amp;quot;[Login to RajSSO](https://sso.rajasthan.gov.in/signin)&amp;quot; tab.\n**Step 3:** Enter your username (SSO ID), password, and Captcha, then click ‘Login’.\n**Step 4:** Once logged in, update your profile.\n**Step 5:** Click on SJMS SMS icon, click on CM Anuprati Coaching icon on SJMS SMS icon dashboard.\n**Step 6:** Fill in the required information, and upload all necessary documents on the online portal.\n**Step 7:** After entering the information and uploading the documents, make sure to submit/save your application form.\n**Note 1:** When the notification is issued by the State Government, the interested candidate must apply through the official portal via e-Mitra/SSOID using their Jan Aadhaar Card.\n**Note 2:** After receiving the online application forms from candidates as per the prescribed eligibility, the required documents (such as caste certificate, domicile certificate, 10th and 12th mark sheets, income certificate, etc.) will be automatically verified from the database of the web portal/Jan Aadhaar/Raj e-bolt/DigiLocker of the issuing agency through web service, without the need to upload the documents wherever possible. These application forms will be verified automatically, eliminating the need for manual verification.\n**Note 3:** The candidate must select the exam they propose to take coaching for, along with one of the listed coaching institutes. Online application will be allowed if there is an available target for the relevant category in the district for exam selection.\n**Note 4:** The option to change the name of the coaching institute and exam will remain available until the last date prescribed for the online application by the candidate.\n**Note 5:** The candidate must join in the same academic session as per the merit list issued for that year. If they do not, they will not be able to avail the benefit in the following academic session.\n[User Manual](https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191520050796.pdf)\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The candidate must be a native of Rajasthan.\n   1. The candidate should belong to one of the following categories: Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), Extremely Backward Class (EBC), Economically Weaker Section (EWS), or Minority category.\n   1. The annual income of the candidate’s parents/guardians (including the candidate’s income, if applicable) must be less than ₹8.00 lakh, or the candidate&amp;#39;s parents must be State Government employees receiving a salary up to Level-11 of the Pay Matrix.\n   1. The candidate should not have previously availed the benefits of this scheme.\n   1. The candidate must possess the minimum qualifications required for the competitive examination.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The candidate must be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The candidate should belong to one of the following categories: Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), Extremely Backward Class (EBC), Economically Weaker Section (EWS), or Minority category."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The annual income of the candidate’s parents/guardians (including the candidate’s income, if applicable) must be less than ₹8.00 lakh, or the candidate's parents must be State Government employees receiving a salary up to Level-11 of the Pay Matrix."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The candidate should not have previously availed the benefits of this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The candidate must possess the minimum qualifications required for the competitive examination."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "अनुप्रति",
+        "कोचिंग",
+        "प्रतिस्पर्धात्मक परीक्षा",
+        "यूपीएससी",
+        "आरपीएससी"
+      ],
+      "schemeName": "सीएम अनुप्रति कोचिंग योजना",
+      "schemeShortTitle": "CMACS",
+      "implementingAgency": "Social Justice And Empowerment Department, Government Of Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Universities and higher education",
+          "label": "विश्वविद्यालय और उच्च शिक्षा"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202206141157335834.pdf"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=284"
+        },
+        {
+          "title": "एसएसओ पोर्टल",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        },
+        {
+          "title": "उपयोगकर्ता नियमावली",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191520050796.pdf"
+        },
+        {
+          "title": "आवश्यक दस्तावेज",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191514560241.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "सीएम अनुप्रति कोचिंग योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इस योजना का उद्देश्य अनुसूचित जाति, अनुसूचित जनजाति, अन्य पिछड़ा वर्ग, अत्यंत पिछड़े वर्ग, आर्थिक रूप से कमजोर वर्ग या राजस्थान की अल्पसंख्यक श्रेणियों के प्रतिभाशाली उम्मीदवारों को विभिन्न प्रतियोगी परीक्षाओं जैसे कि आई. ए. एस., आर. ए. एस., आई. आई. टी., आई. आई. एम., सी. पी. एम. टी., एन. आई. टी. और अन्य सरकारी इंजीनियरिंग और चिकित्सा प्रवेश परीक्षाओं में उनके चयन के बाद वित्तीय सहायता प्रदान करके प्रोत्साहित करना है।",
+      "benefits_md": "योजना के तहत, विभिन्न परीक्षाओं की तैयारी के लिए प्रदान की गई राशि का विवरण निम्नलिखित हैः क्र. सं. संख्या. परीक्षा राशि अवधि न्यूनतम योग्यता 1 प्रतिष्ठित संस्थानों के माध्यम से यूपीएससी द्वारा आयोजित सिविल सेवा परीक्षा-₹75,000/- 1 वर्ष 1। स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। संघ लोक सेवा आयोग द्वारा अन्य संस्थानों के माध्यम से आयोजित 12वीं कक्षा की सिविल सेवा परीक्षा में 70 प्रतिशत अंक-₹50,000/- 1 वर्ष। स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। प्रतिष्ठित संस्थानों के माध्यम से आर. पी. एस. सी. द्वारा आयोजित कक्षा 122 आर. ए. एस. या अधीनस्थ सेवा संयुक्त प्रतियोगी परीक्षा में 60 प्रतिशत अंक-₹50,000/- 1 वर्ष 1। स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। आर. पी. एस. सी. द्वारा अन्य संस्थानों के माध्यम से आयोजित कक्षा 12 आर. ए. एस. या अधीनस्थ सेवाओं की संयुक्त प्रतियोगी परीक्षा में 65 प्रतिशत अंक-₹40,000/- 1 वर्ष 1। स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। आर. पी. एस. सी. द्वारा आयोजित कक्षा 123 सब इंस्पेक्टर परीक्षा में 55 प्रतिशत अंक, पहले 3,600/- के ग्रेड वेतन पर और वर्तमान में वेतन मैट्रिक्स स्तर-10 पर और अन्य परीक्षाओं से ऊपर 20,000/- 6 महीने 1। स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। कक्षा 124 आर. ई. ई. टी. परीक्षा में 50 प्रतिशत अंक ₹15,000/- 4 महीने। बी. एड/एस. टी. सी 2. आर. एस. एस. बी. द्वारा आयोजित 125वीं कक्षा की परीक्षाओं में 50 प्रतिशत अंक जैसे कि पिछले ग्रेड के लिए पटवारियों, कनिष्ठ सहायकों को 2400 रुपये और वर्तमान में उपरोक्त वेतन स्तर 5 और पिछले ग्रेड के लिए 3600 रुपये और वेतन स्तर 10 से नीचे की अन्य परीक्षाओं के लिए 10,000 रुपये/- 4 महीने का वेतन मिलता है। स्नातक/12वीं और आर. एस. सी. आई. टी. या कंप्यूटर पाठ्यक्रम या ओ स्तर/उच्च कंप्यूटर स्तर प्रमाण पत्र/डिप्लोमा में अध्ययन करना। 126वीं कक्षा में 50 प्रतिशत अंक स्थिर परीक्षा 107वीं कक्षा में 50 प्रतिशत अंक प्रतिष्ठित संस्थानों के माध्यम से इंजीनियरिंग/चिकित्सा की प्रवेश परीक्षा-70,000 रुपये प्रति वर्ष 2 वर्ष (11वीं और 12वीं कक्षा में अध्ययन करना और 12वीं उत्तीर्ण करने के बाद दो वर्ष की अवधि के लिए) 10वीं कक्षा में 70 प्रतिशत अंक अन्य संस्थानों के माध्यम से इंजीनियरिंग/चिकित्सा की प्रवेश परीक्षा-55,000 रुपये प्रति वर्ष 2 वर्ष (11वीं और 12वीं कक्षा में अध्ययन करना और 12वीं कक्षा उत्तीर्ण करने के बाद दो वर्ष की अवधि के लिए) प्रतिष्ठित संस्थानों के माध्यम से 108वीं कक्षा की क्लैट परीक्षा में 60 प्रतिशत अंक प्रति वर्ष-40,000 रुपये प्रति वर्ष - प्रति वर्ष 1 वर्ष (वाणिज्य विषय के छात्रों के लिए कक्षा 11वीं और 12वीं में अध्ययन करना और 12वीं उत्तीर्ण करने के बाद दो साल की अवधि के लिए) प्रतिष्ठित संस्थानों के माध्यम से कक्षा 1011सी. एम. एफ. ए. सी. में 60 प्रतिशत अंक-₹25,000/- प्रति वर्ष 1 वर्ष (वाणिज्य विषय के छात्रों के लिए कक्षा 11वीं और 12वीं उत्तीर्ण करने के बाद दो साल की अवधि के लिए) कक्षा 10 में 60 प्रतिशत अंक",
+      "briefDescription": "यह योजना राजस्थान सरकार द्वारा आर्थिक रूप से कमजोर वर्गों (ईडब्ल्यूएस) और सामाजिक रूप से पिछड़े समुदायों के छात्रों को विभिन्न प्रतियोगी परीक्षाओं जैसे आई. ए. एस., आर. ए. एस. और अन्य सरकारी नौकरी भर्ती परीक्षाओं के लिए मुफ्त कोचिंग प्रदान करने के लिए शुरू की गई एक पहल है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"सीएम अनुप्रति कोचिंग योजना\" राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इस योजना का उद्देश्य अनुसूचित जाति, अनुसूचित जनजाति, अन्य पिछड़ा वर्ग, अत्यंत पिछड़े वर्ग, आर्थिक रूप से कमजोर वर्ग या राजस्थान की अल्पसंख्यक श्रेणियों के प्रतिभाशाली उम्मीदवारों को विभिन्न प्रतियोगी परीक्षाओं जैसे कि आई. ए. एस., आर. ए. एस., आई. आई. टी., आई. आई. एम., सी. पी. एम. टी., एन. आई. टी. और अन्य सरकारी इंजीनियरिंग और चिकित्सा प्रवेश परीक्षाओं में उनके चयन के बाद वित्तीय सहायता प्रदान करके प्रोत्साहित करना है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना के तहत, विभिन्न परीक्षाओं की तैयारी के लिए प्रदान की गई राशि का विवरण निम्नलिखित हैः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "एस. एल. नहीं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "जाँच"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "राशि"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "अवधि"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "न्यूनतम योग्यता"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "यूपीएससी द्वारा आयोजित सिविल सेवा परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रतिष्ठित संस्थानों के माध्यम से-₹75,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। 12वीं में 70 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "यूपीएससी द्वारा आयोजित सिविल सेवा परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "अन्य संस्थानों के माध्यम से-₹50,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। 12वीं में 60 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आर. पी. एस. सी. द्वारा आयोजित आर. ए. एस. या अधीनस्थ सेवा संयुक्त प्रतियोगी परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रतिष्ठित संस्थानों के माध्यम से-₹50,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। 12वीं में 65 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आर. पी. एस. सी. द्वारा आयोजित आर. ए. एस. या अधीनस्थ सेवा संयुक्त प्रतियोगी परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "अन्य संस्थानों के माध्यम से-₹40,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। 12वीं में 55 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आर. पी. एस. सी. द्वारा आयोजित उप निरीक्षक परीक्षा, पहले 3,600/- के ग्रेड वेतन पर और वर्तमान में वेतन मैट्रिक्स स्तर-10 और अन्य परीक्षाओं से ऊपर"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹20,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "6 महीने"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. स्नातक/स्नातक के अंतिम दो वर्षों में अध्ययन करना। 12वीं में 50 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आर. ई. टी. परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹15,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4 महीने"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. बी. एड/एस. टी. सी 2. 12वीं में 50 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "5"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आर. एस. एस. बी. द्वारा आयोजित परीक्षाएँ जैसे कि पिछली श्रेणी के लिए पटवारियों, कनिष्ठ सहायकों को 2400 रुपये और वर्तमान में उपरोक्त वेतन स्तर 5 और पिछली श्रेणी के लिए 3600 रुपये और वेतन स्तर 10 से नीचे की अन्य परीक्षाओं के लिए भुगतान करना होता है"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4 महीने"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. स्नातक/12वीं और आर. एस. सी. आई. टी. या कंप्यूटर पाठ्यक्रम या ओ स्तर/उच्च कंप्यूटर स्तर प्रमाण पत्र/डिप्लोमा में अध्ययन करना। 12वीं में 50 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "6"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "सिपाही परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4 महीने"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में 50 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "7"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "इंजीनियरिंग/मेडिकल की प्रवेश परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रतिष्ठित संस्थानों के माध्यम से-70,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 वर्ष (कक्षा 11वीं और 12वीं में अध्ययन करना और कक्षा 12वीं उत्तीर्ण करने के बाद दो वर्ष की अवधि के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में 70 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "इंजीनियरिंग/मेडिकल की प्रवेश परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "अन्य संस्थानों के माध्यम से-₹55,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 वर्ष (कक्षा 11वीं और 12वीं में अध्ययन करना और कक्षा 12वीं उत्तीर्ण करने के बाद दो वर्ष की अवधि के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में 60 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "8"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "सीएलएटी परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रतिष्ठित संस्थानों के माध्यम से-40,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में 60 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "सीएलएटी परीक्षा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रतिष्ठित संस्थानों के माध्यम से-25,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में 50 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "9"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "सी. एफ़. सी"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रतिष्ठित संस्थानों के माध्यम से-40,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष (वाणिज्य विषय के छात्रों के लिए कक्षा 11वीं और 12वीं में अध्ययन करना और कक्षा 12वीं उत्तीर्ण करने के बाद दो साल की अवधि के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में 60 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "सी. एस. ई. टी"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रतिष्ठित संस्थानों के माध्यम से-25,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष (वाणिज्य विषय के छात्रों के लिए कक्षा 11वीं और 12वीं में अध्ययन करना और कक्षा 12वीं उत्तीर्ण करने के बाद दो साल की अवधि के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में 60 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "11"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "सीएमएफएसी"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "प्रतिष्ठित संस्थानों के माध्यम से-25,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 वर्ष (वाणिज्य विषय के छात्रों के लिए कक्षा 11वीं और 12वीं में अध्ययन करना और कक्षा 12वीं उत्तीर्ण करने के बाद दो साल की अवधि के लिए)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10वीं में 60 प्रतिशत अंक"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sjmsnew.rajasthan.gov.in/CMAnupratiCoaching",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "पंजीकरण प्रक्रियाः",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "राजस्थान सिंगल साइन ऑन के आधिकारिक पोर्टल पर जाएँः"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://sso.rajasthan.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "होमपेज पर, \"पर क्लिक करें"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "children": [
+                      {
+                        "text": "यहां करें रजिस्ट्रेशन"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\"टैब।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "'नागरिक' टैब के तहत पंजीकरण के लिए 'जन आधार' विकल्प का चयन करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "अपनी जन आधार संख्या दर्ज करके पंजीकरण प्रक्रिया को पूरा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "सफल पंजीकरण के बाद, आपको एक उपयोगकर्ता आईडी (एसएसओ आईडी) और पासवर्ड प्राप्त होगा। ये प्रमाण-पत्र आपको अपने आवेदन की स्थिति की जांच करने और भविष्य में योजना के लिए आवेदन करने की अनुमति देंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "आवेदन प्रक्रियाः",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "योजना के तहत आवेदन करने के लिए, राजस्थान सिंगल साइन ऑन के आधिकारिक पोर्टल पर फिर से जाएँः"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://sso.rajasthan.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "होमपेज पर, \"पर क्लिक करें"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "राजएसएसओ में लॉगइन करें"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\"टैब।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "अपना उपयोगकर्ता नाम (एसएसओ आईडी), पासवर्ड और कैप्चा दर्ज करें, फिर 'लॉगिन' पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "लॉग इन करने के बाद, अपनी प्रोफ़ाइल को अपडेट करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "एस. जे. एम. एस. एस. आइकन पर क्लिक करें, एस. जे. एम. एस. एस. एस. आइकन डैशबोर्ड पर सी. एम. अनुप्रति कोचिंग आइकन पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 6:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवश्यक जानकारी भरें और ऑनलाइन पोर्टल पर सभी आवश्यक दस्तावेज अपलोड करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जानकारी दर्ज करने और दस्तावेज़ अपलोड करने के बाद, अपना आवेदन पत्र जमा/सहेजना सुनिश्चित करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जब राज्य सरकार द्वारा अधिसूचना जारी की जाती है, तो इच्छुक उम्मीदवार को अपने जन आधार कार्ड का उपयोग करके ई-मित्रा/एसएसओआईडी के माध्यम से आधिकारिक पोर्टल के माध्यम से आवेदन करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "निर्धारित पात्रता के अनुसार उम्मीदवारों से ऑनलाइन आवेदन पत्र प्राप्त करने के बाद, आवश्यक दस्तावेज (जैसे जाति प्रमाण पत्र, अधिवास प्रमाण पत्र, 10वीं और 12वीं की मार्कशीट, आय प्रमाण पत्र, आदि) वेब सेवा के माध्यम से जारी करने वाली एजेंसी के वेब पोर्टल/जन आधार/राज ई-बोल्ट/डिजिलॉकर के डेटाबेस से स्वचालित रूप से सत्यापित हो जाएंगे, जहां भी संभव हो दस्तावेजों को अपलोड करने की आवश्यकता नहीं होगी। इन आवेदन पत्रों को स्वचालित रूप से सत्यापित किया जाएगा, जिससे हस्तचालित सत्यापन की आवश्यकता समाप्त हो जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "उम्मीदवार को सूचीबद्ध कोचिंग संस्थानों में से किसी एक के साथ उस परीक्षा का चयन करना होगा जिसके लिए वे कोचिंग लेने का प्रस्ताव रखते हैं। यदि जिले में परीक्षा चयन के लिए संबंधित श्रेणी के लिए कोई लक्ष्य उपलब्ध है तो ऑनलाइन आवेदन की अनुमति दी जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "कोचिंग संस्थान और परीक्षा का नाम बदलने का विकल्प उम्मीदवार द्वारा ऑनलाइन आवेदन के लिए निर्धारित अंतिम तिथि तक उपलब्ध रहेगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "उम्मीदवार को उस वर्ष के लिए जारी योग्यता सूची के अनुसार उसी शैक्षणिक सत्र में शामिल होना चाहिए। यदि वे ऐसा नहीं करते हैं, तो वे अगले शैक्षणिक सत्र में लाभ नहीं उठा पाएंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191520050796.pdf",
+                    "children": [
+                      {
+                        "text": "उपयोगकर्ता नियमावली"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "पंजीकरण प्रक्रियाः * * * * चरण 1: * * राजस्थान एकल साइन ऑन के आधिकारिक पोर्टल पर जाएँः [https://sso.rajasthan.gov.in] (https://sso.rajasthan.gov.in) * * चरण 2: * * होमपेज पर, '[यहाँ पंजीकरण करें]' (https://sso.rajasthan.gov.in पंजीकरण करें) और '* *' टैब पर क्लिक करें। चरण 3: 'नागरिक' टैब के तहत पंजीकरण के लिए 'जन आधार' विकल्प का चयन करें। * * चरण 4: * * अपनी जन आधार संख्या दर्ज करके पंजीकरण प्रक्रिया को पूरा करें। चरण 5: सफल पंजीकरण के बाद, आपको एक उपयोगकर्ता आईडी (एसएसओ आईडी) और पासवर्ड प्राप्त होगा। ये प्रमाण-पत्र आपको अपने आवेदन की स्थिति की जांच करने और भविष्य में योजना के लिए आवेदन करने की अनुमति देंगे। आवेदन प्रक्रियाः * * * * इस योजना के तहत आवेदन करने के लिए, राजस्थान एकल साइन ऑन के आधिकारिक पोर्टल पर फिर से जाएँः [https://sso.rajasthan.gov.in] (https://sso.rajasthan.gov.in) * * चरण 2: * * होमपेज पर, '[राजएसएसओ में लॉग इन करें]' (https://sso.rajasthan.gov.in/signin) और 'कोट' टैब पर क्लिक करें। * * चरण 3: * * अपना उपयोगकर्ता नाम (एसएसओ आईडी), पासवर्ड और कैप्चा दर्ज करें, फिर 'लॉगिन' पर क्लिक करें। चरण 4: एक बार लॉग इन करने के बाद, अपनी प्रोफ़ाइल को अपडेट करें। चरण 5: एस. जे. एम. एस. एस. आइकन पर क्लिक करें, एस. जे. एम. एस. एस. एस. आइकन डैशबोर्ड पर सी. एम. अनुप्रति कोचिंग आइकन पर क्लिक करें। चरण 6: आवश्यक जानकारी भरें और ऑनलाइन पोर्टल पर सभी आवश्यक दस्तावेज अपलोड करें। चरण 7: जानकारी दर्ज करने और दस्तावेज़ अपलोड करने के बाद, अपने आवेदन पत्र को जमा/सहेजना सुनिश्चित करें। नोट 1: जब राज्य सरकार द्वारा अधिसूचना जारी की जाती है, तो इच्छुक उम्मीदवार को अपने जन आधार कार्ड का उपयोग करके ई-मित्रा/एसएसओआईडी के माध्यम से आधिकारिक पोर्टल के माध्यम से आवेदन करना चाहिए। * * नोट 2: निर्धारित पात्रता के अनुसार उम्मीदवारों से ऑनलाइन आवेदन पत्र प्राप्त करने के बाद, आवश्यक दस्तावेज (जैसे जाति प्रमाण पत्र, अधिवास प्रमाण पत्र, 10वीं और 12वीं की मार्कशीट, आय प्रमाण पत्र, आदि)। जहां भी संभव हो दस्तावेजों को अपलोड करने की आवश्यकता के बिना, वेब सेवा के माध्यम से जारी करने वाली एजेंसी के वेब पोर्टल/जन आधार/राज ई-बोल्ट/डिजिलॉकर के डेटाबेस से स्वचालित रूप से सत्यापित किया जाएगा। इन आवेदन पत्रों को स्वचालित रूप से सत्यापित किया जाएगा, जिससे हस्तचालित सत्यापन की आवश्यकता समाप्त हो जाएगी। * * टिप्पणी 3: * उम्मीदवार को सूचीबद्ध कोचिंग संस्थानों में से किसी एक के साथ उस परीक्षा का चयन करना चाहिए जिसके लिए वे कोचिंग लेने का प्रस्ताव करते हैं। यदि परीक्षा चयन के लिए जिले में संबंधित श्रेणी के लिए कोई लक्ष्य उपलब्ध है तो ऑनलाइन आवेदन की अनुमति दी जाएगी। * * नोट 4: * * कोचिंग संस्थान और परीक्षा का नाम बदलने का विकल्प उम्मीदवार द्वारा ऑनलाइन आवेदन के लिए निर्धारित अंतिम तिथि तक उपलब्ध रहेगा। * * टिप्पणी 5: * उम्मीदवार को उस वर्ष के लिए जारी योग्यता सूची के अनुसार उसी शैक्षणिक सत्र में शामिल होना चाहिए। यदि वे ऐसा नहीं करते हैं, तो वे अगले शैक्षणिक सत्र में लाभ नहीं उठा पाएंगे। [उपयोगकर्ता नियमावली] (https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191520050796.pdf)"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 16,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 16,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 16,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 16,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 16,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 16,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 16,
+          "lte": 60,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Completed",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Completed",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": 800000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. उम्मीदवार को राजस्थान का मूल निवासी होना चाहिए। 1. उम्मीदवार को निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओ. बी. सी.), अत्यंत पिछड़ा वर्ग (ई. बी. सी.), आर्थिक रूप से कमजोर वर्ग (ई. डब्ल्यू. एस.), या अल्पसंख्यक श्रेणी। 1. उम्मीदवार के माता-पिता/अभिभावकों की वार्षिक आय (यदि लागू हो तो उम्मीदवार की आय सहित) 8 लाख रुपये से कम होनी चाहिए, या उम्मीदवार के माता-पिता को वेतन मैट्रिक्स के स्तर-11 तक वेतन प्राप्त करने वाले राज्य सरकार के कर्मचारी होने चाहिए। 1. उम्मीदवार को पहले इस योजना का लाभ नहीं उठाना चाहिए था। 1. उम्मीदवार के पास प्रतियोगी परीक्षा के लिए आवश्यक न्यूनतम योग्यता होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उम्मीदवार को राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उम्मीदवार को निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओ. बी. सी.), अत्यंत पिछड़ा वर्ग (ई. बी. सी.), आर्थिक रूप से कमजोर वर्ग (ई. डब्ल्यू. एस.), या अल्पसंख्यक श्रेणी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उम्मीदवार के माता-पिता/अभिभावकों की वार्षिक आय (यदि लागू हो तो उम्मीदवार की आय सहित) 8 लाख रुपये से कम होनी चाहिए, या उम्मीदवार के माता-पिता राज्य सरकार के कर्मचारी होने चाहिए जो वेतन मैट्रिक्स के स्तर-11 तक वेतन प्राप्त कर रहे हों।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उम्मीदवार को पहले इस योजना का लाभ नहीं उठाना चाहिए था।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उम्मीदवार के पास प्रतियोगी परीक्षा के लिए आवश्यक न्यूनतम योग्यता होनी चाहिए।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "obc",
+          "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+        },
+        {
+          "value": "sc",
+          "label": "अनुसूचित जाति (एससी)"
+        },
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        },
+        {
+          "value": "pvtg",
+          "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+        },
+        {
+          "value": "general",
+          "label": "जनरल"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 16,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 16,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 16,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 16,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 16,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 16,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 16,
+        "lte": 60,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Completed",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Completed",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": 800000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. उम्मीदवार को राजस्थान का मूल निवासी होना चाहिए। 1. उम्मीदवार को निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओ. बी. सी.), अत्यंत पिछड़ा वर्ग (ई. बी. सी.), आर्थिक रूप से कमजोर वर्ग (ई. डब्ल्यू. एस.), या अल्पसंख्यक श्रेणी। 1. उम्मीदवार के माता-पिता/अभिभावकों की वार्षिक आय (यदि लागू हो तो उम्मीदवार की आय सहित) 8 लाख रुपये से कम होनी चाहिए, या उम्मीदवार के माता-पिता को वेतन मैट्रिक्स के स्तर-11 तक वेतन प्राप्त करने वाले राज्य सरकार के कर्मचारी होने चाहिए। 1. उम्मीदवार को पहले इस योजना का लाभ नहीं उठाना चाहिए था। 1. उम्मीदवार के पास प्रतियोगी परीक्षा के लिए आवश्यक न्यूनतम योग्यता होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उम्मीदवार को राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उम्मीदवार को निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओ. बी. सी.), अत्यंत पिछड़ा वर्ग (ई. बी. सी.), आर्थिक रूप से कमजोर वर्ग (ई. डब्ल्यू. एस.), या अल्पसंख्यक श्रेणी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उम्मीदवार के माता-पिता/अभिभावकों की वार्षिक आय (यदि लागू हो तो उम्मीदवार की आय सहित) 8 लाख रुपये से कम होनी चाहिए, या उम्मीदवार के माता-पिता राज्य सरकार के कर्मचारी होने चाहिए जो वेतन मैट्रिक्स के स्तर-11 तक वेतन प्राप्त कर रहे हों।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उम्मीदवार को पहले इस योजना का लाभ नहीं उठाना चाहिए था।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उम्मीदवार के पास प्रतियोगी परीक्षा के लिए आवश्यक न्यूनतम योग्यता होनी चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "obc",
+        "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+      },
+      {
+        "value": "sc",
+        "label": "अनुसूचित जाति (एससी)"
+      },
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      },
+      {
+        "value": "pvtg",
+        "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+      },
+      {
+        "value": "general",
+        "label": "जनरल"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Identity proof i.e. Aadhaar Card"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Passport-size photograph"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Janadhaar Number"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "SSO ID"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Caste/Community certificate"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Domicile certificate"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "10th and 12th class marksheets"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Graduation degree certificate"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "RSCIT Certification Computer Certificate, Diploma Certificate depends on the courses selected"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Income certificate"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If the candidate's parents/guardians are salaried employees in a government department/board or are employed in corporate/private service, an income certificate issued by the Head of Office/Employer is required."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any other documents as specified"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Identity proof i.e. Aadhaar Card\n   1. Passport-size photograph\n   1. Janadhaar Number\n   1. SSO ID\n   1. Caste/Community certificate\n   1. Domicile certificate\n   1. 10th and 12th class marksheets\n   1. Graduation degree certificate\n   1. RSCIT Certification Computer Certificate, Diploma Certificate depends on the courses selected\n   1. Income certificate\n   1. If the candidate&amp;#39;s parents/guardians are salaried employees in a government department/board or are employed in corporate/private service, an income certificate issued by the Head of Office/Employer is required.\n   1. Any other documents as specified\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पहचान प्रमाण अर्थात आधार कार्ड"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पासपोर्ट आकार की तस्वीर"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जनाधार संख्या"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एसएसओ आईडी"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जाति/समुदाय प्रमाण पत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अधिवास प्रमाणपत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "10वीं और 12वीं कक्षा की मार्कशीट"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्नातक डिग्री प्रमाण पत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आर. एस. सी. आई. टी. प्रमाणन कंप्यूटर प्रमाणपत्र, डिप्लोमा प्रमाणपत्र चयनित पाठ्यक्रमों पर निर्भर करता है"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आय प्रमाण पत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि उम्मीदवार के माता-पिता/अभिभावक सरकारी विभाग/बोर्ड में वेतनभोगी कर्मचारी हैं या कॉर्पोरेट/निजी सेवा में कार्यरत हैं, तो कार्यालय प्रमुख/नियोक्ता द्वारा जारी आय प्रमाण पत्र की आवश्यकता होती है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जैसा निर्दिष्ट किया गया है कोई अन्य दस्तावेज"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Identity proof i.e. Aadhaar Card\n   1. Passport-size photograph\n   1. Janadhaar Number\n   1. SSO ID\n   1. Caste/Community certificate\n   1. Domicile certificate\n   1. 10th and 12th class marksheets\n   1. Graduation degree certificate\n   1. RSCIT Certification Computer Certificate, Diploma Certificate depends on the courses selected\n   1. Income certificate\n   1. If the candidate&amp;#39;s parents/guardians are salaried employees in a government department/board or are employed in corporate/private service, an income certificate issued by the Head of Office/Employer is required.\n   1. Any other documents as specified\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the CM Anuprati Coaching Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The objective of the scheme is to provide free coaching to students from economically weaker sections and socially backward communities for various competitive exams and help them secure government jobs."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the scheme is to provide free coaching to students from economically weaker sections and socially backward communities for various competitive exams and help them secure government jobs.\n"
+        },
+        {
+          "question": "Who is eligible for the CM Anuprati Coaching Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students who are residents of Rajasthan and belong to SC, ST, OBC, MBC, and EWS categories are eligible for the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students who are residents of Rajasthan and belong to SC, ST, OBC, MBC, and EWS categories are eligible for the scheme.\n"
+        },
+        {
+          "question": "What exams are covered under the CM Anuprati Coaching Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme covers various competitive exams such as IAS, RAS, and other government job recruitment exams."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme covers various competitive exams such as IAS, RAS, and other government job recruitment exams.\n"
+        },
+        {
+          "question": "Is there any fee for the coaching provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the coaching is provided free of cost to eligible students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the coaching is provided free of cost to eligible students.\n"
+        },
+        {
+          "question": "What is the selection process for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The selection process may vary based on the exam for which coaching is sought. Generally, students are selected based on their academic performance and economic status."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The selection process may vary based on the exam for which coaching is sought. Generally, students are selected based on their academic performance and economic status.\n"
+        },
+        {
+          "question": "How can I apply for the CM Anuprati Coaching Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To apply under the scheme, visit the official portal of Rajasthan Single Sign On: https://sso.rajasthan.gov.in/"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To apply under the scheme, visit the official portal of Rajasthan Single Sign On: https://sso.rajasthan.gov.in/\n"
+        },
+        {
+          "question": "What is the duration of the coaching provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The duration of the coaching may vary based on the exam for which coaching is sought. Generally, the coaching is provided for a period of up to 2 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The duration of the coaching may vary based on the exam for which coaching is sought. Generally, the coaching is provided for a period of up to 2 years.\n"
+        },
+        {
+          "question": "Is the coaching available in both English and Hindi medium?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the coaching is available for both English and Hindi medium students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the coaching is available for both English and Hindi medium students.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "सीएम अनुप्रति कोचिंग योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य आर्थिक रूप से कमजोर वर्गों और सामाजिक रूप से पिछड़े समुदायों के छात्रों को विभिन्न प्रतियोगी परीक्षाओं के लिए मुफ्त कोचिंग प्रदान करना और उन्हें सरकारी नौकरी हासिल करने में मदद करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the scheme is to provide free coaching to students from economically weaker sections and socially backward communities for various competitive exams and help them secure government jobs.\n"
+        },
+        {
+          "question": "सीएम अनुप्रति कोचिंग योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जो छात्र राजस्थान के निवासी हैं और एससी, एसटी, ओ. बी. सी., एम. बी. सी. और ई. डब्ल्यू. एस. श्रेणियों से संबंधित हैं, वे इस योजना के लिए पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students who are residents of Rajasthan and belong to SC, ST, OBC, MBC, and EWS categories are eligible for the scheme.\n"
+        },
+        {
+          "question": "सीएम अनुप्रति कोचिंग योजना के तहत कौन सी परीक्षाएँ शामिल की जाती हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना में विभिन्न प्रतियोगी परीक्षाएँ जैसे कि आई. ए. एस., आर. ए. एस. और अन्य सरकारी नौकरी भर्ती परीक्षाएँ शामिल हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme covers various competitive exams such as IAS, RAS, and other government job recruitment exams.\n"
+        },
+        {
+          "question": "क्या इस योजना के तहत प्रदान की जाने वाली कोचिंग के लिए कोई शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, योग्य छात्रों को कोचिंग निःशुल्क प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the coaching is provided free of cost to eligible students.\n"
+        },
+        {
+          "question": "योजना के लिए चयन प्रक्रिया क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "चयन प्रक्रिया उस परीक्षा के आधार पर भिन्न हो सकती है जिसके लिए कोचिंग मांगी जाती है। आम तौर पर छात्रों का चयन उनके शैक्षणिक प्रदर्शन और आर्थिक स्थिति के आधार पर किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The selection process may vary based on the exam for which coaching is sought. Generally, students are selected based on their academic performance and economic status.\n"
+        },
+        {
+          "question": "मैं सीएम अनुप्रति कोचिंग योजना के लिए कैसे आवेदन कर सकता हूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना के तहत आवेदन करने के लिए, राजस्थान सिंगल साइन ऑन के आधिकारिक पोर्टल पर जाएँः https://sso.rajasthan.gov.in"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To apply under the scheme, visit the official portal of Rajasthan Single Sign On: https://sso.rajasthan.gov.in/\n"
+        },
+        {
+          "question": "इस योजना के तहत प्रदान की जाने वाली कोचिंग की अवधि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कोचिंग की अवधि उस परीक्षा के आधार पर भिन्न हो सकती है जिसके लिए कोचिंग मांगी जाती है। आम तौर पर, कोचिंग 2 साल तक की अवधि के लिए प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The duration of the coaching may vary based on the exam for which coaching is sought. Generally, the coaching is provided for a period of up to 2 years.\n"
+        },
+        {
+          "question": "क्या कोचिंग अंग्रेजी और हिंदी दोनों माध्यमों में उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, कोचिंग अंग्रेजी और हिंदी माध्यम दोनों के छात्रों के लिए उपलब्ध है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the coaching is available for both English and Hindi medium students.\n"
+        }
+      ]
+    }
+  }
+}

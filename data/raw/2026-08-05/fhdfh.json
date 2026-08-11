@@ -1,0 +1,910 @@
+{
+  "scheme_id": "64224f36af25fd4fcf837ddd",
+  "slug": "fhdfh",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2008-08-20",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": "Tribal Area Development Department",
+      "tags": [
+        "Sahariya Tribe",
+        "Financial Assistance",
+        "DBT",
+        "Rajasthan",
+        "Death Of Family Head"
+      ],
+      "schemeName": "Financial Help On Death Of Family Head",
+      "schemeShortTitle": "FHDFH",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://jaipur.rajasthan.gov.in/scheme/detail/484"
+        }
+      ],
+      "schemeImageUrl": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/484",
+      "briefDescription": "Financial help on death of family head scheme was launched by Rajasthan state government under tribal area development on 20/08/2008. Under this scheme, ₹10,000/- to the wife of the deceased on the premature death of the head of the family of Saharia primitive tribe.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial help on death of family head scheme was launched by Rajasthan state government under tribal area development on 20/08/2008. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "₹10,000/- to the wife of the deceased on the premature death of the head of the family of Saharia primitive tribe. Financial assistance is provided so that the family does not face financial burden immediately after the death of the head of the family and his family can be helped."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scheme Delivery Time :180 Days"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Designated Officer of Scheme :ADDITIONAL DISTRICT MAGISTRATE"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "FINANCIAL HELP ON DEATH OF FAMILY HEAD is implemented in the following District :Baran"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance of ₹10,000 to the wife of the deceased head of the family is provided."
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "Financial help on death of family head scheme was launched by Rajasthan state government under tribal area development on 20/08/2008. \n₹10,000/- to the wife of the deceased on the premature death of the head of the family of Saharia primitive tribe. Financial assistance is provided so that the family does not face financial burden immediately after the death of the head of the family and his family can be helped.\n<br>\n\nScheme Delivery Time :180 Days\nDesignated Officer of Scheme :ADDITIONAL DISTRICT MAGISTRATE\nFINANCIAL HELP ON DEATH OF FAMILY HEAD is implemented in the following District :Baran\n<br>\n\n<br>\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The application form of the scheme can be obtained from and submitted to the Additional Collector and Project Officer, Shahbad."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1. The person must be from Sahariya Tribe (ST)\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. The person must be from Sahariya Tribe (ST)"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2008-08-20",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": "Tribal Area Development Department",
+      "tags": [
+        "सहरिया जनजाति",
+        "वित्तीय सहायता",
+        "डीबीटी",
+        "राजस्थान",
+        "परिवार के मुखिया की मौत"
+      ],
+      "schemeName": "परिवार के मुखिया की मृत्यु पर आर्थिक सहायता",
+      "schemeShortTitle": "FHDFH",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "योजना का विवरण",
+          "url": "https://jaipur.rajasthan.gov.in/scheme/detail/484"
+        }
+      ],
+      "schemeImageUrl": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/484",
+      "briefDescription": "राजस्थान राज्य सरकार द्वारा 20/08/2008 पर आदिवासी क्षेत्र विकास के तहत परिवार प्रमुख योजना की मृत्यु पर वित्तीय सहायता शुरू की गई थी। इस योजना के तहत, सहारिया आदिम जनजाति के परिवार के मुखिया की समय से पहले मृत्यु होने पर मृतक की पत्नी को ₹10,000/- दिए जाते हैं।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान राज्य सरकार द्वारा 20/08/2008 पर आदिवासी क्षेत्र विकास के तहत परिवार प्रमुख योजना की मृत्यु पर वित्तीय सहायता शुरू की गई थी।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "₹10,000/- सहारिया आदिम जनजाति के परिवार के मुखिया की समय से पहले मृत्यु पर मृतक की पत्नी को। वित्तीय सहायता प्रदान की जाती है ताकि परिवार के मुखिया की मृत्यु के तुरंत बाद परिवार को वित्तीय बोझ का सामना न करना पड़े और उसके परिवार की मदद की जा सके।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "योजना वितरण समयः 180 दिन"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "योजना के नामित अधिकारीः अतिरिक्त जिला पंजीयक"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "परिवार के मुखिया की मृत्यु पर वित्तीय सहायता निम्नलिखित जिले में लागू की गई हैः बरान"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "परिवार के मृतक मुखिया की पत्नी को 10,000 रुपये की वित्तीय सहायता प्रदान की जाती है।"
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "राजस्थान राज्य सरकार द्वारा 20/08/2008 पर आदिवासी क्षेत्र विकास के तहत परिवार प्रमुख योजना की मृत्यु पर वित्तीय सहायता शुरू की गई थी। ₹10,000/- सहारिया आदिम जनजाति के परिवार के मुखिया की समय से पहले मृत्यु पर मृतक की पत्नी को। वित्तीय सहायता प्रदान की जाती है ताकि परिवार के मुखिया की मृत्यु के तुरंत बाद परिवार को वित्तीय बोझ का सामना न करना पड़े और उसके परिवार की मदद की जा सके। योजना वितरण समयः 180 दिनों के लिए योजना का नामित अधिकारीः परिवार के मुखिया की मृत्यु पर अतिरिक्त जिला वित्तीय सहायता निम्नलिखित जिले में लागू की गई हैः बरान"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "योजना का आवेदन पत्र अतिरिक्त कलेक्टर और परियोजना अधिकारी, शाहबाद से प्राप्त किया जा सकता है और जमा किया जा सकता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. व्यक्ति सहरिया जनजाति (एसटी) से होना चाहिए"
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "eligibilityDescription_md": "1. व्यक्ति सहरिया जनजाति (एसटी) से होना चाहिए"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "1. व्यक्ति सहरिया जनजाति (एसटी) से होना चाहिए"
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "eligibilityDescription_md": "1. व्यक्ति सहरिया जनजाति (एसटी) से होना चाहिए"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity Proof : Aadhaar"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook : Bank Passbook Photocopy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Address Proof : Ration card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मृत्यु प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाणः आधार"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुकः बैंक पासबुक की फोटोकॉपी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पते का प्रमाणः राशन कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": ""
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is this scheme for?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This scheme is for the Sahariya Tribe people of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "This scheme is for the Sahariya Tribe people of Rajasthan.\n"
+        },
+        {
+          "question": "Is this an individual or a family scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This is a family scheme where the wife of the deceased head of the family gets benefit for taking care of the immediate needs of the family."
+                }
+              ]
+            }
+          ],
+          "answer_md": "This is a family scheme where the wife of the deceased head of the family gets benefit for taking care of the immediate needs of the family.\n"
+        },
+        {
+          "question": "How can a wife apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application form of the scheme can be obtained from and submitted to the Additional Collector and Project Officer, Shahbad."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application form of the scheme can be obtained from and submitted to the Additional Collector and Project Officer, Shahbad.\n"
+        },
+        {
+          "question": "Is this scheme available only for the residents of Shahbad?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Not just Shahbad, this scheme is available for the residents of whole Baran District."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Not just Shahbad, this scheme is available for the residents of whole Baran District.\n"
+        },
+        {
+          "question": "Which documents are required to get the benefits under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The following documents are required for availing the Benefits under this scheme\nDeath Certificate\nAadhaar\nBank Passbook Copy\nRation Card\nCaste Certificate"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The following documents are required for availing the Benefits under this scheme\nDeath Certificate\nAadhaar\nBank Passbook Copy\nRation Card\nCaste Certificate\n"
+        },
+        {
+          "question": "What is the amount of money that the wife of deceased head of the family receives under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, the wife of the deceased receives a sum of ₹10,000."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under this scheme, the wife of the deceased receives a sum of [?]10,000.\n"
+        },
+        {
+          "question": "How does the beneficiary receive the money under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Since it is a direct benefit transfer scheme, the beneficiary receives the amount in their bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Since it is a direct benefit transfer scheme, the beneficiary receives the amount in their bank account.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह योजना किसके लिए है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना राजस्थान के सहरिया जनजाति के लोगों के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "This scheme is for the Sahariya Tribe people of Rajasthan.\n"
+        },
+        {
+          "question": "यह व्यक्तिगत योजना है या पारिवारिक योजना?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह एक पारिवारिक योजना है जिसमें परिवार के मृतक मुखिया की पत्नी को परिवार की तत्काल जरूरतों का ध्यान रखने के लिए लाभ मिलता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "This is a family scheme where the wife of the deceased head of the family gets benefit for taking care of the immediate needs of the family.\n"
+        },
+        {
+          "question": "एक पत्नी इस योजना के लिए कैसे आवेदन कर सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना का आवेदन पत्र अतिरिक्त कलेक्टर और परियोजना अधिकारी, शाहबाद से प्राप्त किया जा सकता है और जमा किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application form of the scheme can be obtained from and submitted to the Additional Collector and Project Officer, Shahbad.\n"
+        },
+        {
+          "question": "क्या यह योजना केवल शाहबाद के निवासियों के लिए उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल शाहबाद ही नहीं, यह योजना पूरे बारां जिले के निवासियों के लिए उपलब्ध है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Not just Shahbad, this scheme is available for the residents of whole Baran District.\n"
+        },
+        {
+          "question": "इस योजना के तहत लाभ प्राप्त करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित दस्तावेजों की आवश्यकता होती है मृत्यु प्रमाण पत्र आधार बैंक पासबुक राशन कार्ड जाति प्रमाण पत्र की प्रतिलिपि"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The following documents are required for availing the Benefits under this scheme\nDeath Certificate\nAadhaar\nBank Passbook Copy\nRation Card\nCaste Certificate\n"
+        },
+        {
+          "question": "इस योजना के तहत परिवार के मृतक मुखिया की पत्नी को कितनी राशि मिलती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत मृतक की पत्नी को 10,000 रुपये की राशि मिलती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under this scheme, the wife of the deceased receives a sum of [?]10,000.\n"
+        },
+        {
+          "question": "इस योजना के तहत लाभार्थी को पैसा कैसे मिलता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "चूंकि यह एक प्रत्यक्ष लाभ हस्तांतरण योजना है, इसलिए लाभार्थी को अपने बैंक खाते में राशि प्राप्त होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Since it is a direct benefit transfer scheme, the beneficiary receives the amount in their bank account.\n"
+        }
+      ]
+    }
+  }
+}

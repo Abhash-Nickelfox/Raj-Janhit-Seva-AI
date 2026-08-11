@@ -1,0 +1,2446 @@
+{
+  "scheme_id": "67c07bc70589a41767653e89",
+  "slug": "mmsuscy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Scholarship",
+        "Higher Education",
+        "IIT",
+        "IIM",
+        "Student"
+      ],
+      "schemeName": "Mukhya Mantri Sarvajan Uchcha Shiksha Chhatravriti Yojana",
+      "schemeShortTitle": "MMSUSCY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        }
+      ],
+      "schemeOpenDate": "2015-03-02",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Mukhyamantri Sarvajan Uchcha Shiksha Chhatravriti Yojana&amp;quot; was launched by the Department of Social Justice &amp;amp; Empowerment, Government of Rajasthan. The main objective of this scheme is to provide financial assistance to students of all sections &amp;amp; castes of Rajasthan who are pursuing higher education in nationally recognized institutions. Under this scheme, 50% of the non-refundable institutional fees are reimbursed to eligible students studying in IITs, IIMs, and other premier institutions.\n",
+      "benefits_md": "**Financial Assistance:**\n\n- Students receive 50% reimbursement of their non-refundable institutional fees (such as tuition, library, medical, and examination fees).\n\n**Direct Benefit Transfer (DBT):****** \n\n- The scholarship amount is transferred directly to the student&#39;s bank account.\n\n**Annual Disbursement:**\n\n- The scholarship is disbursed annually throughout the duration of the course.\n\n**Covers Multiple Institutions:** \n\n- Includes IITs, IIMs, NITs, AIIMS, and other national institutions listed in the [scheme guidelines](https://sje.rajasthan.gov.in/Default.aspx?PageID=198).\n",
+      "briefDescription": "This scheme aims to provide financial assistance to students from all sections of Rajasthan who are pursuing higher education at IITs, IIMs, and other national-level institutions. Under this scheme, 50% of the non-refundable fees are reimbursed to eligible students.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Mukhyamantri Sarvajan Uchcha Shiksha Chhatravriti Yojana\" was launched by the Department of Social Justice & Empowerment, Government of Rajasthan. The main objective of this scheme is to provide financial assistance to students of all sections & castes of Rajasthan who are pursuing higher education in nationally recognized institutions. Under this scheme, 50% of the non-refundable institutional fees are reimbursed to eligible students studying in IITs, IIMs, and other premier institutions."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Students receive 50% reimbursement of their non-refundable institutional fees (such as tuition, library, medical, and examination fees)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Direct Benefit Transfer (DBT):",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scholarship amount is transferred directly to the student's bank account."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Annual Disbursement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scholarship is disbursed annually throughout the duration of the course."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Covers Multiple Institutions:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Includes IITs, IIMs, NITs, AIIMS, and other national institutions listed in the "
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198",
+                  "children": [
+                    {
+                      "text": "scheme guidelines"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “IFMS-RAJSSP\" option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Select \"Continue to RajSSP\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes, and click on the name of \"SCHOLARSHIP (SJE)\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out all relevant details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “IFMS-RAJSSP&quot; option.\n**Step-4:** Select &quot;Continue to RajSSP&quot;. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes, and click on the name of &quot;SCHOLARSHIP (SJE)&quot;\n**Step-7:** Fill out all relevant details. \n**Step-8:** Submit.\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The annual income of the parent/guardian of the student/applicant from all sources (including the applicant’s own income, if any) should be less than ₹5,00,000/-.\n1. The applicant should be enrolled in IITs, IIMs, NITs, AIIMS, or other [national institutions listed](https://sje.rajasthan.gov.in/Default.aspx?PageID=198) under the scheme.1. The applicant should not be availing of any other government scholarship for the same course.\n1. The applicant should maintain academic performance as required for renewal of the scholarship.\n1. An employee pursuing full-time studies while on leave without pay for the entire duration of the course will also be eligible for the scholarship.\n1. The student studying outside Rajasthan in the [listed national institutions](https://sje.rajasthan.gov.in/Default.aspx?PageID=198) are eligible. \n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The annual income of the parent/guardian of the student/applicant from all sources (including the applicant’s own income, if any) should be less than ₹5,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in IITs, IIMs, NITs, AIIMS, or other "
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198",
+                  "children": [
+                    {
+                      "text": "national institutions listed"
+                    }
+                  ]
+                },
+                {
+                  "text": " under the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be availing of any other government scholarship for the same course."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should maintain academic performance as required for renewal of the scholarship."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An employee pursuing full-time studies while on leave without pay for the entire duration of the course will also be eligible for the scholarship."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student studying outside Rajasthan in the "
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198",
+                  "children": [
+                    {
+                      "text": "listed national institutions"
+                    }
+                  ]
+                },
+                {
+                  "text": " are eligible. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "छात्रवृत्ति",
+        "उच्च शिक्षा",
+        "आई. आई. टी",
+        "आईआईएम",
+        "विद्यार्थी"
+      ],
+      "schemeName": "मुख्यमंत्री सर्वजन उच्च शिक्षा छत्रवती योजना",
+      "schemeShortTitle": "MMSUSCY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        },
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        }
+      ],
+      "schemeOpenDate": "2015-03-02",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198"
+        },
+        {
+          "title": "आवेदन पोर्टल",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री सर्वजन उच्च शिक्षा छत्रपति योजना की शुरुआत राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा की गई थी। इस योजना का मुख्य उद्देश्य राजस्थान के सभी वर्गों और जातियों के छात्रों को वित्तीय सहायता प्रदान करना है जो राष्ट्रीय स्तर पर मान्यता प्राप्त संस्थानों में उच्च शिक्षा प्राप्त कर रहे हैं। इस योजना के तहत, गैर-वापसी योग्य संस्थागत शुल्क का 50 प्रतिशत आई. आई. टी., आई. आई. एम. और अन्य प्रमुख संस्थानों में पढ़ने वाले योग्य छात्रों को प्रतिपूर्ति की जाती है।",
+      "benefits_md": "वित्तीय सहायता-छात्रों को उनके गैर-वापसी योग्य संस्थागत शुल्क (जैसे शिक्षण, पुस्तकालय, चिकित्सा और परीक्षा शुल्क) की 50 प्रतिशत प्रतिपूर्ति प्राप्त होती है। डायरेक्ट बेनिफिट ट्रांसफर (डी. बी. टी.): छात्रवृत्ति राशि सीधे छात्र के बैंक खाते में हस्तांतरित की जाती है। वार्षिक संवितरणः छात्रवृत्ति पाठ्यक्रम की अवधि के दौरान वार्षिक रूप से वितरित की जाती है। * * कई संस्थानों को शामिल करता हैः * *-इसमें आई. आई. टी., आई. आई. एम., एन. आई. टी., ए. आई. आई. एम. एस. और [योजना दिशानिर्देशों] (https://sje.rajasthan.gov.in/Default.aspx?PageID=198) में सूचीबद्ध अन्य राष्ट्रीय संस्थान शामिल हैं।",
+      "briefDescription": "इस योजना का उद्देश्य राजस्थान के सभी वर्गों के छात्रों को वित्तीय सहायता प्रदान करना है जो आई. आई. टी., आई. आई. एम. और अन्य राष्ट्रीय स्तर के संस्थानों में उच्च शिक्षा प्राप्त कर रहे हैं। इस योजना के तहत, पात्र छात्रों को गैर-वापसी योग्य शुल्क का 50 प्रतिशत प्रतिपूर्ति की जाती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"मुख्यमंत्री सर्वजन उच्च शिक्षा छत्रपति योजना\" योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इस योजना का मुख्य उद्देश्य राजस्थान के सभी वर्गों और जातियों के छात्रों को वित्तीय सहायता प्रदान करना है जो राष्ट्रीय स्तर पर मान्यता प्राप्त संस्थानों में उच्च शिक्षा प्राप्त कर रहे हैं। इस योजना के तहत, गैर-वापसी योग्य संस्थागत शुल्क का 50 प्रतिशत आई. आई. टी., आई. आई. एम. और अन्य प्रमुख संस्थानों में पढ़ने वाले योग्य छात्रों को प्रतिपूर्ति की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "वित्तीय मददः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्रों को उनके गैर-वापसी योग्य संस्थागत शुल्क (जैसे शिक्षण, पुस्तकालय, चिकित्सा और परीक्षा शुल्क) की 50 प्रतिशत प्रतिपूर्ति प्राप्त होती है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "प्रत्यक्ष लाभ हस्तांतरण (डी. बी. टी.):",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति की राशि सीधे छात्र के बैंक खाते में हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "वार्षिक वितरणः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति पाठ्यक्रम की पूरी अवधि के दौरान प्रतिवर्ष वितरित की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इसमें कई संस्थान शामिल हैंः",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इसमें आई. आई. टी., आई. आई. एम., एन. आई. टी., ए. आई. आई. एम. एस. और अन्य राष्ट्रीय संस्थान शामिल हैं"
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198",
+                  "children": [
+                    {
+                      "text": "योजना दिशा-निर्देश"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"राजएसएसपी को जारी रखें\" चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पृष्ठ में, सभी योजनाओं के नामों की सूची मिलेगी, और \"स्कॉलरशिप (एसजेई)\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण-3: * * 'आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी.' विकल्प पर क्लिक करें। * * चरण-4: * * 'राजएसएसपी' को जारी रखें 'का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, सभी योजनाओं के नामों की एक सूची मिलेगी, और 'स्कॉलरशिप (एसजेई)' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें।"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित प्राधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन प्रस्तुत किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए। चरण 2: आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए। चरण 3: आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है। * * चरण 4: * * संबंधित प्राधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 16,
+          "lte": 45,
+          "category": "General"
+        },
+        {
+          "gte": 16,
+          "lte": 45,
+          "category": "EWS"
+        },
+        {
+          "gte": 16,
+          "lte": 45,
+          "category": "Female"
+        },
+        {
+          "gte": 16,
+          "lte": 45,
+          "category": "OBC"
+        },
+        {
+          "gte": 16,
+          "lte": 45,
+          "category": "SC"
+        },
+        {
+          "gte": 16,
+          "lte": 45,
+          "category": "ST"
+        },
+        {
+          "gte": 16,
+          "lte": 45,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Professional Degree",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": 500000
+      },
+      "individualIncomeAnnual": {
+        "gte": 0,
+        "lte": 500000
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. छात्र/आवेदक के माता-पिता/अभिभावक की सभी स्रोतों से वार्षिक आय (आवेदक की अपनी आय, यदि कोई हो) ₹ 5,00,000-से कम होनी चाहिए। 1. आवेदक को योजना 1 के तहत आई. आई. टी., आई. आई. एम., एन. आई. टी., एम्स, या अन्य [सूचीबद्ध राष्ट्रीय संस्थानों] (https://sje.rajasthan.gov.in/Default.aspx?PageID=198) में नामांकित होना चाहिए। आवेदक को उसी पाठ्यक्रम के लिए किसी अन्य सरकारी छात्रवृत्ति का लाभ नहीं उठाना चाहिए। 1. आवेदक को छात्रवृत्ति के नवीनीकरण के लिए आवश्यकतानुसार शैक्षणिक प्रदर्शन बनाए रखना चाहिए। 1. पाठ्यक्रम की पूरी अवधि के लिए बिना वेतन के छुट्टी पर रहते हुए पूर्णकालिक अध्ययन करने वाला कर्मचारी भी छात्रवृत्ति के लिए पात्र होगा। 1. [सूचीबद्ध राष्ट्रीय संस्थानों] (https://sje.rajasthan.gov.in/Default.aspx?PageID=198) में राजस्थान के बाहर पढ़ने वाले छात्र पात्र हैं।",
+      "parentIncomeAnnual": {
+        "gte": 0,
+        "lte": 500000
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र/आवेदक के माता-पिता/अभिभावक की सभी स्रोतों से वार्षिक आय (आवेदक की अपनी आय, यदि कोई हो) ₹ 5,00,000-से कम होनी चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को आई. आई. टी., आई. आई. एम., एन. आई. टी., एम्स या अन्य संस्थानों में नामांकित होना चाहिए"
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198",
+                  "children": [
+                    {
+                      "text": "सूचीबद्ध राष्ट्रीय संस्थान"
+                    }
+                  ]
+                },
+                {
+                  "text": "योजना के तहत।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को उसी पाठ्यक्रम के लिए किसी अन्य सरकारी छात्रवृत्ति का लाभ नहीं उठाना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को छात्रवृत्ति के नवीनीकरण के लिए आवश्यकतानुसार शैक्षणिक प्रदर्शन बनाए रखना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पाठ्यक्रम की पूरी अवधि के लिए बिना वेतन के छुट्टी पर रहते हुए पूर्णकालिक अध्ययन करने वाला कर्मचारी भी छात्रवृत्ति के लिए पात्र होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान के बाहर पढ़ने वाला छात्र"
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198",
+                  "children": [
+                    {
+                      "text": "सूचीबद्ध राष्ट्रीय संस्थान"
+                    }
+                  ]
+                },
+                {
+                  "text": "पात्र हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "obc",
+          "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+        },
+        {
+          "value": "pvtg",
+          "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+        },
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        },
+        {
+          "value": "sc",
+          "label": "अनुसूचित जाति (एससी)"
+        },
+        {
+          "value": "general",
+          "label": "जनरल"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 1,
+        "value": "All",
+        "label": "All"
+      },
+      "isStudent": "Yes",
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 16,
+        "lte": 45,
+        "category": "General"
+      },
+      {
+        "gte": 16,
+        "lte": 45,
+        "category": "EWS"
+      },
+      {
+        "gte": 16,
+        "lte": 45,
+        "category": "Female"
+      },
+      {
+        "gte": 16,
+        "lte": 45,
+        "category": "OBC"
+      },
+      {
+        "gte": 16,
+        "lte": 45,
+        "category": "SC"
+      },
+      {
+        "gte": 16,
+        "lte": 45,
+        "category": "ST"
+      },
+      {
+        "gte": 16,
+        "lte": 45,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Professional Degree",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": 500000
+    },
+    "individualIncomeAnnual": {
+      "gte": 0,
+      "lte": 500000
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. छात्र/आवेदक के माता-पिता/अभिभावक की सभी स्रोतों से वार्षिक आय (आवेदक की अपनी आय, यदि कोई हो) ₹ 5,00,000-से कम होनी चाहिए। 1. आवेदक को योजना 1 के तहत आई. आई. टी., आई. आई. एम., एन. आई. टी., एम्स, या अन्य [सूचीबद्ध राष्ट्रीय संस्थानों] (https://sje.rajasthan.gov.in/Default.aspx?PageID=198) में नामांकित होना चाहिए। आवेदक को उसी पाठ्यक्रम के लिए किसी अन्य सरकारी छात्रवृत्ति का लाभ नहीं उठाना चाहिए। 1. आवेदक को छात्रवृत्ति के नवीनीकरण के लिए आवश्यकतानुसार शैक्षणिक प्रदर्शन बनाए रखना चाहिए। 1. पाठ्यक्रम की पूरी अवधि के लिए बिना वेतन के छुट्टी पर रहते हुए पूर्णकालिक अध्ययन करने वाला कर्मचारी भी छात्रवृत्ति के लिए पात्र होगा। 1. [सूचीबद्ध राष्ट्रीय संस्थानों] (https://sje.rajasthan.gov.in/Default.aspx?PageID=198) में राजस्थान के बाहर पढ़ने वाले छात्र पात्र हैं।",
+    "parentIncomeAnnual": {
+      "gte": 0,
+      "lte": 500000
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र/आवेदक के माता-पिता/अभिभावक की सभी स्रोतों से वार्षिक आय (आवेदक की अपनी आय, यदि कोई हो) ₹ 5,00,000-से कम होनी चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को आई. आई. टी., आई. आई. एम., एन. आई. टी., एम्स या अन्य संस्थानों में नामांकित होना चाहिए"
+              },
+              {
+                "type": "link",
+                "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198",
+                "children": [
+                  {
+                    "text": "सूचीबद्ध राष्ट्रीय संस्थान"
+                  }
+                ]
+              },
+              {
+                "text": "योजना के तहत।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को उसी पाठ्यक्रम के लिए किसी अन्य सरकारी छात्रवृत्ति का लाभ नहीं उठाना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को छात्रवृत्ति के नवीनीकरण के लिए आवश्यकतानुसार शैक्षणिक प्रदर्शन बनाए रखना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पाठ्यक्रम की पूरी अवधि के लिए बिना वेतन के छुट्टी पर रहते हुए पूर्णकालिक अध्ययन करने वाला कर्मचारी भी छात्रवृत्ति के लिए पात्र होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "राजस्थान के बाहर पढ़ने वाला छात्र"
+              },
+              {
+                "type": "link",
+                "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198",
+                "children": [
+                  {
+                    "text": "सूचीबद्ध राष्ट्रीय संस्थान"
+                  }
+                ]
+              },
+              {
+                "text": "पात्र हैं।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "obc",
+        "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+      },
+      {
+        "value": "pvtg",
+        "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+      },
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      },
+      {
+        "value": "sc",
+        "label": "अनुसूचित जाति (एससी)"
+      },
+      {
+        "value": "general",
+        "label": "जनरल"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 1,
+      "value": "All",
+      "label": "All"
+    },
+    "isStudent": "Yes",
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For New Application:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self-attested Passport-size Photo"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10th-grade Mark Sheet"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Admission Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death Certificate of parent/spouse, if applicable"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marriage certificate, If applicable"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank account details"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents if required"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Application Renewal:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate (Issued by Competent Authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Admission Letter from the Recognized Institution"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fee Receipt from the Institution (showing non-refundable components)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Diploma/Degree Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Previous Academic Marksheet (for renewal applications)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self-Declaration Form for Scholarship Application"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details (Aadhaar-linked, if applicable)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card/Pan Card/Passport "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate (if applicable for reservation benefits)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Employer Certificate (for government employees on study leave)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "***For New Application:***\n\n1. Self-attested Passport-size Photo\n1. Domicile Certificate\n1. 10th-grade Mark Sheet\n1. Admission Certificate\n1. Income Certificate\n1. Death Certificate of parent/spouse, if applicable\n1. Marriage certificate, If applicable\n1. Bank account details\n1. Any other documents if required\n\n***For Application Renewal:***\n\n1. Income Certificate (Issued by Competent Authority)\n1. Admission Letter from the Recognized Institution\n1. Fee Receipt from the Institution (showing non-refundable components)\n1. Diploma/Degree Certificate\n1. Previous Academic Marksheet (for renewal applications)\n1. Self-Declaration Form for Scholarship Application\n1. Bank Account Details (Aadhaar-linked, if applicable)\n1. Aadhaar Card/Pan Card/Passport \n1. Caste Certificate (if applicable for reservation benefits)\n1. Employer Certificate (for government employees on study leave)\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "नए आवेदन के लिएः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्व-सत्यापित पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10वीं कक्षा की मार्कशीट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रवेश प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता/जीवनसाथी का मृत्यु प्रमाण पत्र, यदि लागू हो"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विवाह प्रमाण पत्र, यदि लागू हो"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आवेदन नवीकरण के लिएः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाण पत्र (सक्षम प्राधिकारी द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मान्यता प्राप्त संस्थान से प्रवेश पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संस्थान से शुल्क रसीद (गैर-वापसी योग्य घटकों को दर्शाते हुए)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "डिप्लोमा/डिग्री प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछला अकादमिक मार्कशीट (नवीनीकरण आवेदनों के लिए)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति आवेदन के लिए स्व-घोषणा प्रपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण (आधार से जुड़ा हुआ, यदि लागू हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड/पैन कार्ड/पासपोर्ट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र (यदि आरक्षण लाभों के लिए लागू हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नियोक्ता प्रमाण पत्र (अध्ययन अवकाश पर गए सरकारी कर्मचारियों के लिए)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "***For New Application:***\n\n1. Self-attested Passport-size Photo\n1. Domicile Certificate\n1. 10th-grade Mark Sheet\n1. Admission Certificate\n1. Income Certificate\n1. Death Certificate of parent/spouse, if applicable\n1. Marriage certificate, If applicable\n1. Bank account details\n1. Any other documents if required\n\n***For Application Renewal:***\n\n1. Income Certificate (Issued by Competent Authority)\n1. Admission Letter from the Recognized Institution\n1. Fee Receipt from the Institution (showing non-refundable components)\n1. Diploma/Degree Certificate\n1. Previous Academic Marksheet (for renewal applications)\n1. Self-Declaration Form for Scholarship Application\n1. Bank Account Details (Aadhaar-linked, if applicable)\n1. Aadhaar Card/Pan Card/Passport \n1. Caste Certificate (if applicable for reservation benefits)\n1. Employer Certificate (for government employees on study leave)\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students who are domiciles of Rajasthan, studying in nationally recognized institutions, and have an annual family income of ₹5,00,000 or less are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students who are domiciles of Rajasthan, studying in nationally recognized institutions, and have an annual family income of [?]5,00,000 or less are eligible.\n"
+        },
+        {
+          "question": "Can students studying outside Rajasthan apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if they are domiciles of Rajasthan and studying in an institution listed under the scheme guidelines."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if they are domiciles of Rajasthan and studying in an institution listed under the scheme guidelines.\n"
+        },
+        {
+          "question": "What expenses are covered under non-refundable fees?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Non-refundable fees include admission, tuition, registration, medical, library, and examination fees."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Non-refundable fees include admission, tuition, registration, medical, library, and examination fees.\n"
+        },
+        {
+          "question": "How can I apply for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students must apply online through the official Rajasthan government scholarship portal."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students must apply online through the official Rajasthan government scholarship portal.\n"
+        },
+        {
+          "question": "Is the scholarship renewed every year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, students must submit a renewal application every year with their academic performance details."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students must submit a renewal application every year with their academic performance details.\n"
+        },
+        {
+          "question": "What happens if I fail an exam?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "If the student is promoted despite failing, they remain eligible for the scholarship."
+                }
+              ]
+            }
+          ],
+          "answer_md": "If the student is promoted despite failing, they remain eligible for the scholarship.\n"
+        },
+        {
+          "question": "What is the last date to apply for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The last date varies each year and is announced on the official website."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The last date varies each year and is announced on the official website.\n"
+        },
+        {
+          "question": "Can married female students apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, but only the husband’s income is considered for eligibility."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only the husband's income is considered for eligibility.\n"
+        },
+        {
+          "question": "What if my parents are retired or deceased?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A pension statement or guardian’s income proof must be submitted."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A pension statement or guardian's income proof must be submitted.\n"
+        },
+        {
+          "question": "Is there an age limit to apply for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No specific age limit is mentioned in the scheme. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No specific age limit is mentioned in the scheme. \n"
+        },
+        {
+          "question": "Can students from private universities apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only students studying in government-recognized premier institutions like IITs, IIMs, NITs, AIIMS, etc. are eligible under this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students studying in government-recognized premier institutions like IITs, IIMs, NITs, AIIMS, etc. are eligible under this scheme.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ऐसे छात्र जो राजस्थान के निवासी हैं, राष्ट्रीय स्तर पर मान्यता प्राप्त संस्थानों में पढ़ रहे हैं, और जिनकी वार्षिक पारिवारिक आय ₹ 5,00,000 या उससे कम है, वे पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students who are domiciles of Rajasthan, studying in nationally recognized institutions, and have an annual family income of [?]5,00,000 or less are eligible.\n"
+        },
+        {
+          "question": "क्या राजस्थान के बाहर पढ़ने वाले छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यदि वे राजस्थान के निवासी हैं और योजना दिशानिर्देशों के तहत सूचीबद्ध संस्थान में पढ़ रहे हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if they are domiciles of Rajasthan and studying in an institution listed under the scheme guidelines.\n"
+        },
+        {
+          "question": "गैर-वापसी योग्य शुल्क के तहत कौन से खर्च शामिल हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "गैर-वापसी योग्य शुल्क में प्रवेश, शिक्षण, पंजीकरण, चिकित्सा, पुस्तकालय और परीक्षा शुल्क शामिल हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Non-refundable fees include admission, tuition, registration, medical, library, and examination fees.\n"
+        },
+        {
+          "question": "मैं छात्रवृत्ति के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रों को राजस्थान सरकार के आधिकारिक छात्रवृत्ति पोर्टल के माध्यम से ऑनलाइन आवेदन करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students must apply online through the official Rajasthan government scholarship portal.\n"
+        },
+        {
+          "question": "क्या छात्रवृत्ति का हर साल नवीनीकरण किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, छात्रों को अपने शैक्षणिक प्रदर्शन विवरण के साथ हर साल नवीनीकरण आवेदन जमा करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students must submit a renewal application every year with their academic performance details.\n"
+        },
+        {
+          "question": "अगर मैं परीक्षा में फेल हो जाता हूं तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यदि असफल होने के बावजूद छात्र को पदोन्नत किया जाता है, तो वे छात्रवृत्ति के लिए पात्र रहते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "If the student is promoted despite failing, they remain eligible for the scholarship.\n"
+        },
+        {
+          "question": "छात्रवृत्ति के लिए आवेदन करने की अंतिम तिथि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अंतिम तिथि प्रत्येक वर्ष बदलती रहती है और इसकी घोषणा आधिकारिक वेबसाइट पर की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The last date varies each year and is announced on the official website.\n"
+        },
+        {
+          "question": "क्या विवाहित छात्राएँ आवेदन कर सकती हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, लेकिन पात्रता के लिए केवल पति की आय पर विचार किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, but only the husband's income is considered for eligibility.\n"
+        },
+        {
+          "question": "अगर मेरे माता-पिता सेवानिवृत्त हो गए हैं या मर गए हैं तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पेंशन विवरण या अभिभावक का आय प्रमाण प्रस्तुत किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A pension statement or guardian's income proof must be submitted.\n"
+        },
+        {
+          "question": "क्या छात्रवृत्ति के लिए आवेदन करने की कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना में कोई विशिष्ट आयु सीमा का उल्लेख नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No specific age limit is mentioned in the scheme. \n"
+        },
+        {
+          "question": "क्या निजी विश्वविद्यालयों के छात्र इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल सरकार द्वारा मान्यता प्राप्त प्रमुख संस्थानों जैसे आई. आई. टी., आई. आई. एम., एन. आई. टी., एम्स आदि में पढ़ने वाले छात्र ही इस योजना के तहत पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students studying in government-recognized premier institutions like IITs, IIMs, NITs, AIIMS, etc. are eligible under this scheme.\n"
+        }
+      ]
+    }
+  }
+}

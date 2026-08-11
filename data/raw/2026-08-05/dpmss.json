@@ -1,0 +1,1375 @@
+{
+  "scheme_id": "649a8d82380f8e123543e9a2",
+  "slug": "dpmss",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2011-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Student",
+        "Scholarship",
+        "Financial Assistance",
+        "Education"
+      ],
+      "schemeName": "Devnarayan Post Matric Scholarship Scheme",
+      "schemeShortTitle": "DPMSS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/323"
+        },
+        {
+          "title": "Details",
+          "url": "https://www.sje.rajasthan.gov.in/Default.aspx?PageID=87"
+        },
+        {
+          "title": "Scholarship Portal",
+          "url": "https://sjmsnew.rajasthan.gov.in/scholarship/"
+        },
+        {
+          "title": "Registation",
+          "url": "https://sso.rajasthan.gov.in/register?encq=dGQ0I/FDr2k00owwOaXQLi063xfzQeNP6f1L6NhniFIuhMKM+bpgvZwCXGZs7pETdxJjt1bkA5lABoFAnFl63Q=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The post-matriculation scholarship scheme is for the educational upgradation of students belonging to the very backward classes from class 11 to PhD level education in the state. \n",
+      "benefits_md": "\n- Reimbursement of maintenance allowance and fee according to the time of course.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "In Rajasthan, the Post-matriculation scholarship scheme is run by the Department of Social Justice and Empowerment for the educational upliftment of students.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The post-matriculation scholarship scheme is for the educational upgradation of students belonging to the very backward classes from class 11 to PhD level education in the state. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reimbursement of maintenance allowance and fee according to the time of course."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sso.rajasthan.gov.in/signin",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant students have to visit the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sjmsnew.rajasthan.gov.in/scholarship/",
+                    "children": [
+                      {
+                        "text": "official website."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now Select the Login option or Register Option. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants will be redirected to the  Rajasthan "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "SSO portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ". "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now students can log in with their Jan-Aadhaar ID. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach the required documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicant students have to visit the [official website.](https://sjmsnew.rajasthan.gov.in/scholarship/)1. Now Select the Login option or Register Option. \n1. Applicants will be redirected to the  Rajasthan [SSO portal](https://sso.rajasthan.gov.in/signin). 1. Now students can log in with their Jan-Aadhaar ID. \n1. Fill out the application form.\n1. Attach the required documents.\n1. Submit.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The students should be a native of Rajasthan state.\n1. Applicant students should belong to the following Other Backward Classes, that must have been issued by Tehsildar or a higher-level revenue officer.\n\n   1. Banjara, Baladiya, Labana. \n   1. Gadia-Lohar, Gadolia.\n   1. Gujar, Gurjar. \n   1. Raika, Raibari (Debasi).\n   1. Gadariya (Gadri), Gayari.\n\n1.  The annual income of the parents/guardian of the applicant from all sources (including the candidate&#39;s own income, if any) should be up to Rs.2,50,000 (Rupees two lakh fifty thousand in words). \n1. An employed student who studies as a full-time student by taking leave without pay during the entire course will be eligible for the scholarship.\n1. All the children of the same parent/guardian will be eligible to benefit from this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The students should be a native of Rajasthan state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicant students should belong to the following Other Backward Classes, that must have been issued by Tehsildar or a higher-level revenue officer."
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Banjara, Baladiya, Labana. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gadia-Lohar, Gadolia."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gujar, Gurjar. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Raika, Raibari (Debasi)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gadariya (Gadri), Gayari."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": " The annual income of the parents/guardian of the applicant from all sources (including the candidate's own income, if any) should be up to Rs.2,50,000 (Rupees two lakh fifty thousand in words). "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An employed student who studies as a full-time student by taking leave without pay during the entire course will be eligible for the scholarship."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All the children of the same parent/guardian will be eligible to benefit from this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2011-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "विद्यार्थी",
+        "छात्रवृत्ति",
+        "वित्तीय सहायता",
+        "शिक्षा"
+      ],
+      "schemeName": "देवनारायण पोस्ट मैट्रिक छात्रवृत्ति योजना",
+      "schemeShortTitle": "DPMSS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/323"
+        },
+        {
+          "title": "विवरण",
+          "url": "https://www.sje.rajasthan.gov.in/Default.aspx?PageID=87"
+        },
+        {
+          "title": "छात्रवृत्ति पोर्टल",
+          "url": "https://sjmsnew.rajasthan.gov.in/scholarship/"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register?encq=dGQ0I/FDr2k00owwOaXQLi063xfzQeNP6f1L6NhniFIuhMKM+bpgvZwCXGZs7pETdxJjt1bkA5lABoFAnFl63Q=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मैट्रिक के बाद छात्रवृत्ति योजना राज्य में कक्षा 11 से पीएचडी स्तर की शिक्षा के लिए बहुत पिछड़े वर्गों के छात्रों के शैक्षिक उन्नयन के लिए है।",
+      "benefits_md": "- पाठ्यक्रम के समय के अनुसार रखरखाव भत्ता और शुल्क की प्रतिपूर्ति।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "राजस्थान में, छात्रों के शैक्षिक उत्थान के लिए सामाजिक न्याय और अधिकारिता विभाग द्वारा मैट्रिक के बाद छात्रवृत्ति योजना चलाई जाती है।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मैट्रिक के बाद छात्रवृत्ति योजना राज्य में कक्षा 11 से पीएचडी स्तर की शिक्षा के लिए बहुत पिछड़े वर्गों के छात्रों के शैक्षिक उन्नयन के लिए है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पाठ्यक्रम के समय के अनुसार रखरखाव भत्ता और शुल्क की प्रतिपूर्ति।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sso.rajasthan.gov.in/signin",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक छात्रों को जाना होगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sjmsnew.rajasthan.gov.in/scholarship/",
+                    "children": [
+                      {
+                        "text": "आधिकारिक वेबसाइट।"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अब लॉगिन विकल्प या रजिस्टर विकल्प चुनें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदकों को राजस्थान भेजा जाएगा"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "एस. एस. ओ. पोर्टल"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अब छात्र अपने जन-आधार आईडी से लॉग इन कर सकते हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन पत्र भरें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक दस्तावेज संलग्न करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रस्तुत करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदक छात्रों को [आधिकारिक वेबसाइट] (https://sjmsnew.rajasthan.gov.in/scholarship) 1 पर जाना होगा। अब लॉगिन विकल्प या रजिस्टर विकल्प चुनें। 1. आवेदकों को राजस्थान [एसएसओ पोर्टल] (https://sso.rajasthan.gov.in/signin) पर पुनर्निर्देशित किया जाएगा। 1. अब छात्र अपने जन-आधार आईडी से लॉग इन कर सकते हैं। 1. आवेदन पत्र भरें। 1. आवश्यक दस्तावेज संलग्न करें। 1. प्रस्तुत करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": 250000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. छात्रों को राजस्थान राज्य का मूल निवासी होना चाहिए। 1. आवेदक छात्रों को निम्नलिखित अन्य पिछड़े वर्गों से संबंधित होना चाहिए, जो तहसीलदार या उच्च स्तर के राजस्व अधिकारी द्वारा जारी किए गए होने चाहिए। 1. बंजारा, बलादिया, लाबाना। 1. गडिया-लोहार, गडोलिया। 1. गुर्जर, गुर्जर। 1. रायका, रायबारी (देबासी)। 1. गदरिया (गदरी), गायरी। 1. सभी स्रोतों से आवेदक के माता-पिता/अभिभावक की वार्षिक आय (उम्मीदवार की अपनी आय, यदि कोई हो) रु. 2,50,000 (शब्दों में दो लाख पचास हजार रुपये) तक होनी चाहिए। 1. एक नियोजित छात्र जो पूरे पाठ्यक्रम के दौरान बिना वेतन के छुट्टी लेकर पूर्णकालिक छात्र के रूप में अध्ययन करता है, वह छात्रवृत्ति के लिए पात्र होगा। 1. एक ही माता-पिता/अभिभावक के सभी बच्चे इस योजना का लाभ उठाने के पात्र होंगे।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": 250000
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रों को राजस्थान राज्य का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक छात्रों को निम्नलिखित अन्य पिछड़े वर्गों से संबंधित होना चाहिए, जो तहसीलदार या उच्च स्तर के राजस्व अधिकारी द्वारा जारी किए गए होने चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बंजारा, बलादिया, लाबाना।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "गडिया-लोहार, गडोलिया।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "गुर्जर, गुर्जर।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "रायका, रायबारी (देबासी)।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "गदरिया (गदरी), गायरी।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के माता-पिता/अभिभावक की सभी स्रोतों से वार्षिक आय (उम्मीदवार की अपनी आय, यदि कोई हो) रु. 2,50,000 (शब्दों में दो लाख पचास हजार रुपये) तक होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक नियोजित छात्र जो पूरे पाठ्यक्रम के दौरान बिना वेतन के छुट्टी लेकर पूर्णकालिक छात्र के रूप में अध्ययन करता है, वह छात्रवृत्ति के लिए पात्र होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक ही माता-पिता/अभिभावक के सभी बच्चे इस योजना का लाभ उठाने के पात्र होंगे।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "sc",
+          "label": "अनुसूचित जाति (एससी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": 250000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. छात्रों को राजस्थान राज्य का मूल निवासी होना चाहिए। 1. आवेदक छात्रों को निम्नलिखित अन्य पिछड़े वर्गों से संबंधित होना चाहिए, जो तहसीलदार या उच्च स्तर के राजस्व अधिकारी द्वारा जारी किए गए होने चाहिए। 1. बंजारा, बलादिया, लाबाना। 1. गडिया-लोहार, गडोलिया। 1. गुर्जर, गुर्जर। 1. रायका, रायबारी (देबासी)। 1. गदरिया (गदरी), गायरी। 1. सभी स्रोतों से आवेदक के माता-पिता/अभिभावक की वार्षिक आय (उम्मीदवार की अपनी आय, यदि कोई हो) रु. 2,50,000 (शब्दों में दो लाख पचास हजार रुपये) तक होनी चाहिए। 1. एक नियोजित छात्र जो पूरे पाठ्यक्रम के दौरान बिना वेतन के छुट्टी लेकर पूर्णकालिक छात्र के रूप में अध्ययन करता है, वह छात्रवृत्ति के लिए पात्र होगा। 1. एक ही माता-पिता/अभिभावक के सभी बच्चे इस योजना का लाभ उठाने के पात्र होंगे।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": 250000
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्रों को राजस्थान राज्य का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक छात्रों को निम्नलिखित अन्य पिछड़े वर्गों से संबंधित होना चाहिए, जो तहसीलदार या उच्च स्तर के राजस्व अधिकारी द्वारा जारी किए गए होने चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "बंजारा, बलादिया, लाबाना।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "गडिया-लोहार, गडोलिया।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "गुर्जर, गुर्जर।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "रायका, रायबारी (देबासी)।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "गदरिया (गदरी), गायरी।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के माता-पिता/अभिभावक की सभी स्रोतों से वार्षिक आय (उम्मीदवार की अपनी आय, यदि कोई हो) रु. 2,50,000 (शब्दों में दो लाख पचास हजार रुपये) तक होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एक नियोजित छात्र जो पूरे पाठ्यक्रम के दौरान बिना वेतन के छुट्टी लेकर पूर्णकालिक छात्र के रूप में अध्ययन करता है, वह छात्रवृत्ति के लिए पात्र होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एक ही माता-पिता/अभिभावक के सभी बच्चे इस योजना का लाभ उठाने के पात्र होंगे।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "sc",
+        "label": "अनुसूचित जाति (एससी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fee Receipt."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Gap Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marriage Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Domicile Certificate Copy.\n1. Fee Receipt.\n1. Caste Certificate Copy.\n1. Income Certificate Copy.\n1. Education Qualification Marksheet / Certificate Copy.\n1. Jan Aadhar/Bhamashah Card Copy.\n1. Bank Passbook Copy.\n1. Gap Certificate.\n1. Marriage Certificate Copy.\n1. Aadhar Card Copy.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शुल्क रसीद।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अंतराल प्रमाणपत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विवाह प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Domicile Certificate Copy.\n1. Fee Receipt.\n1. Caste Certificate Copy.\n1. Income Certificate Copy.\n1. Education Qualification Marksheet / Certificate Copy.\n1. Jan Aadhar/Bhamashah Card Copy.\n1. Bank Passbook Copy.\n1. Gap Certificate.\n1. Marriage Certificate Copy.\n1. Aadhar Card Copy.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In Rajasthan, the Post-matriculation scholarship scheme is run by the Department of Social Justice and Empowerment for the educational upliftment of SC and ST students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "In Rajasthan, the Post-matriculation scholarship scheme is run by the Department of Social Justice and Empowerment for the educational upliftment of SC and ST students.\n"
+        },
+        {
+          "question": "What Are The Benefits Under The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Reimbursement of maintenance allowance and fee according to the time of course."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Reimbursement of maintenance allowance and fee according to the time of course.\n"
+        },
+        {
+          "question": "Who Can Get The Benefits Of The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All students who belong to the very backward class should be a native of the Rajasthan state and full fill the eligibility criteria."
+                }
+              ]
+            }
+          ],
+          "answer_md": "All students who belong to the very backward class should be a native of the Rajasthan state and full fill the eligibility criteria.\n"
+        },
+        {
+          "question": "What is the educational eligibility criteria ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students should study between class 11th to PhD. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students should study between class 11th to PhD. \n"
+        },
+        {
+          "question": "Who Comes Under The Very Backward Class Category ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "There Are Five Subcategories Under Very Backward Class Categories :\n1. Banjara, Baladiya, Labana. \n2. Gadia-Lohar, Gadolia.\n3. Gujar, Gurjar. \n4. Raika, Raibari (Debasi).\n5. Gadariya (Gadri), Gayari.\n "
+                }
+              ]
+            }
+          ],
+          "answer_md": "There Are Five Subcategories Under Very Backward Class Categories :\n1. Banjara, Baladiya, Labana. \n2. Gadia-Lohar, Gadolia.\n3. Gujar, Gurjar. \n4. Raika, Raibari (Debasi).\n5. Gadariya (Gadri), Gayari.\n \n"
+        },
+        {
+          "question": "What Is The Financial Eligibility Criteria ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Annual Income Of The Parents/Guardian Of The Applicant From All Sources (Including The Candidate's Own Income, If Any) Should Be Up To Rs.2,50,000 (Rupees Two Lakh Fifty Thousand In Words). "
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Annual Income Of The Parents/Guardian Of The Applicant From All Sources (Including The Candidate's Own Income, If Any) Should Be Up To Rs.2,50,000 (Rupees Two Lakh Fifty Thousand In Words). \n"
+        },
+        {
+          "question": "How Many Children From A Same Parent/Guardian Will Be Eligible To Benefit From This Scheme",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All The Children Of The Same Parent/Guardian Will Be Eligible To Benefit From This Scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "All The Children Of The Same Parent/Guardian Will Be Eligible To Benefit From This Scheme.\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicant students have to visit the official website.\n2. Now Select the Login option or Register Option. \n3. Applicants will be redirected to the  Rajasthan SSO portal. \n4. Now students can log in with their Jan-Aadhaar ID. \n5. Fill out the application form.\n6. Attach the required documents.\n7. Submit."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant students have to visit the official website.\n2. Now Select the Login option or Register Option. \n3. Applicants will be redirected to the  Rajasthan SSO portal. \n4. Now students can log in with their Jan-Aadhaar ID. \n5. Fill out the application form.\n6. Attach the required documents.\n7. Submit.\n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Domicile Certificate Copy.  \n2. Fee Receipt.\n3. Caste Certificate Copy.  \n4. Income Certificate Copy.  \n5. Education Qualification Marksheet / Certificate Copy.  \n6. Jan Aadhar/Bhamashah Card Copy.  \n7. Bank Passbook Copy.  \n8. Gap Certificate.  \n9. Marriage Certificate Copy. \n10. Aadhar Card Copy."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Domicile Certificate Copy.  \n2. Fee Receipt.\n3. Caste Certificate Copy.  \n4. Income Certificate Copy.  \n5. Education Qualification Marksheet / Certificate Copy.  \n6. Jan Aadhar/Bhamashah Card Copy.  \n7. Bank Passbook Copy.  \n8. Gap Certificate.  \n9. Marriage Certificate Copy. \n10. Aadhar Card Copy.\n"
+        },
+        {
+          "question": "What is the official portal to apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Use the following URL.\nLink : Https://Sso.Rajasthan.Gov.In/Signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following URL.\nLink : Https://Sso.Rajasthan.Gov.In/Signin\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह क्या योजना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में, अनुसूचित जाति और अनुसूचित जनजाति के छात्रों के शैक्षिक उत्थान के लिए सामाजिक न्याय और अधिकारिता विभाग द्वारा मैट्रिक के बाद छात्रवृत्ति योजना चलाई जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In Rajasthan, the Post-matriculation scholarship scheme is run by the Department of Social Justice and Empowerment for the educational upliftment of SC and ST students.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पाठ्यक्रम के समय के अनुसार रखरखाव भत्ता और शुल्क की प्रतिपूर्ति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Reimbursement of maintenance allowance and fee according to the time of course.\n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बहुत पिछड़े वर्ग के सभी छात्रों को राजस्थान राज्य का मूल निवासी होना चाहिए और पात्रता मानदंड को पूरा करना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "All students who belong to the very backward class should be a native of the Rajasthan state and full fill the eligibility criteria.\n"
+        },
+        {
+          "question": "शैक्षिक पात्रता मानदंड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रों को 11वीं से पीएचडी के बीच पढ़ना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students should study between class 11th to PhD. \n"
+        },
+        {
+          "question": "बहुत पिछड़े वर्ग की श्रेणी में कौन आता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बहुत पिछड़े वर्ग श्रेणियों के तहत पाँच उपश्रेणियाँ हैंः 1. बंजारा, बलादिया, लाबाना। 2. गडिया-लोहार, गडोलिया। 3. गुर्जर, गुर्जर। 4. रायका, रायबारी (देबासी)। 5. गदरिया (गदरी), गायरी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "There Are Five Subcategories Under Very Backward Class Categories :\n1. Banjara, Baladiya, Labana. \n2. Gadia-Lohar, Gadolia.\n3. Gujar, Gurjar. \n4. Raika, Raibari (Debasi).\n5. Gadariya (Gadri), Gayari.\n \n"
+        },
+        {
+          "question": "वित्तीय पात्रता मानदंड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सभी स्रोतों से आवेदक के माता-पिता/अभिभावक की वार्षिक आय (उम्मीदवार की अपनी आय, यदि कोई हो) रु. 2,50,000 (शब्दों में दो लाख पचास हजार रुपये) तक होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Annual Income Of The Parents/Guardian Of The Applicant From All Sources (Including The Candidate's Own Income, If Any) Should Be Up To Rs.2,50,000 (Rupees Two Lakh Fifty Thousand In Words). \n"
+        },
+        {
+          "question": "एक ही माता-पिता/अभिभावक के कितने बच्चे इस योजना से लाभान्वित होने के पात्र होंगे",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक ही माता-पिता/अभिभावक के सभी बच्चे इस योजना से लाभान्वित होने के पात्र होंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "All The Children Of The Same Parent/Guardian Will Be Eligible To Benefit From This Scheme.\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. उम्मीदवारों को आधिकारिक वेबसाइट पर जाना होगा। 2. अब लॉगिन विकल्प या रजिस्टर विकल्प चुनें। 3. आवेदकों को राजस्थान एसएसओ पोर्टल पर पुनर्निर्देशित किया जाएगा। 4. अब छात्र अपने जन-आधार आईडी से लॉग इन कर सकते हैं। 5. आवेदन पत्र भरें। 6. आवश्यक दस्तावेज संलग्न करें। 7. प्रस्तुत करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant students have to visit the official website.\n2. Now Select the Login option or Register Option. \n3. Applicants will be redirected to the  Rajasthan SSO portal. \n4. Now students can log in with their Jan-Aadhaar ID. \n5. Fill out the application form.\n6. Attach the required documents.\n7. Submit.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. अधिवास प्रमाणपत्र प्रतिलिपि। 2. शुल्क रसीद। 3. जाति प्रमाणपत्र की प्रतिलिपि। 4. आय प्रमाणपत्र की प्रतिलिपि। 5. शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि। 6. जन आधार/भामाशाह कार्ड की प्रतिलिपि। 7. बैंक पासबुक की प्रतिलिपि। 8. अंतराल प्रमाणपत्र। 9. विवाह प्रमाणपत्र की प्रतिलिपि। 10. आधार कार्ड की प्रतिलिपि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Domicile Certificate Copy.  \n2. Fee Receipt.\n3. Caste Certificate Copy.  \n4. Income Certificate Copy.  \n5. Education Qualification Marksheet / Certificate Copy.  \n6. Jan Aadhar/Bhamashah Card Copy.  \n7. Bank Passbook Copy.  \n8. Gap Certificate.  \n9. Marriage Certificate Copy. \n10. Aadhar Card Copy.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निम्नलिखित यू. आर. एल. का उपयोग करें। लिंकः एच. टी. टी. पी. एस.:// एस. ओ. राजस्थान. गवर्नमेंट. इन/साइन इन"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following URL.\nLink : Https://Sso.Rajasthan.Gov.In/Signin\n"
+        }
+      ]
+    }
+  }
+}

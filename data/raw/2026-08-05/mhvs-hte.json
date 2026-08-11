@@ -1,0 +1,1399 @@
+{
+  "scheme_id": "680f9d6d096abd5b8bc432f7",
+  "slug": "mhvs-hte",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Higher Education",
+        "Technical Education",
+        "Career Opportunity",
+        "Student",
+        "Palanhar"
+      ],
+      "schemeName": "Mukhyamantri Hunar Vikas Yojana- Higher Education/Technical Education",
+      "schemeShortTitle": "MHVY-HETE",
+      "implementingAgency": "Department Of Social Justice And Empowerment, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "Training and Skill Up-gradation"
+        },
+        {
+          "value": "Career information",
+          "label": "Career information"
+        },
+        {
+          "value": "Universities and higher education",
+          "label": "Universities and higher education"
+        }
+      ],
+      "schemeOpenDate": "2012-01-19",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231258279383.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Mukhyamantri Hunar Vikas Yojana – Higher Education/Technical Education&amp;quot; was launched by the Department of Social Justice and Empowerment, Government of Rajasthan, with the objective of providing technical or higher education to beneficiary boys and girls under the State Government’s Palanhar Scheme, to help them become self-reliant. The scheme aims to make every possible effort to ensure employment opportunities and a dignified livelihood for these beneficiaries upon completion of their higher or technical education.\nUnder this scheme, the State Government provides financial assistance to eligible boys and girls enrolled under the Palanhar Scheme to pursue higher or technical education, based on their qualifications and interest in employment-oriented courses.\nThe scheme is implemented by the Department of Social Justice and Empowerment, Rajasthan, at the state level and by the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level.\n",
+      "benefits_md": "> **Higher Education /Technical Education Benefits:**\n\n\n- Financial assistance for career-oriented higher or technical education (graduation/post-graduation courses). \n\n> **Mode of Disbursement:**\n\n\n- Reimbursement of the actual course fee through bank account transfer.\n\n",
+      "briefDescription": "Under this scheme, the State Government provides financial assistance to eligible boys and girls enrolled under the Palanhar Scheme to pursue higher or technical education, based on their qualifications and interest in employment-oriented courses.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Mukhyamantri Hunar Vikas Yojana – Higher Education/Technical Education\" was launched by the Department of Social Justice and Empowerment, Government of Rajasthan, with the objective of providing technical or higher education to beneficiary boys and girls under the State Government’s Palanhar Scheme, to help them become self-reliant. The scheme aims to make every possible effort to ensure employment opportunities and a dignified livelihood for these beneficiaries upon completion of their higher or technical education."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, the State Government provides financial assistance to eligible boys and girls enrolled under the Palanhar Scheme to pursue higher or technical education, based on their qualifications and interest in employment-oriented courses."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme is implemented by the Department of Social Justice and Empowerment, Rajasthan, at the state level and by the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Higher Education /Technical Education Benefits:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance for career-oriented higher or technical education (graduation/post-graduation courses). "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reimbursement of the actual course fee through bank account transfer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Application Process:",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "The interested applicant downloads the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf",
+                        "children": [
+                          {
+                            "text": "application form"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " from the official website. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Submit the duly filled and signed application form along with the documents to the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "After verification, course fees will be reimbursed to the student’s bank account."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Note: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Apply for fee reimbursement within 3 months of admission. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&amp;gt; **Application Process:**\n\n**Step 1:** The interested applicant downloads the [application form](https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level.\n**Step 4:** After verification, course fees will be reimbursed to the student’s bank account.\n**Note:** Apply for fee reimbursement within 3 months of admission. \n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a beneficiary under the Palanhar Scheme of Rajasthan.\n   1. The applicant should have completed 15 years of age.\n   1. The applicant’s maximum age should not exceed 21 years or till course completion (whichever is earlier).\n   1. The applicant should be pursuing education from a university/college/technical educational institution recognized by the Government of India/State Government.\n   1. Financial assistance is applicable for regular higher or technical education at the graduate or postgraduate level.\n   1. The applicant should not be receiving any scholarships or grants for higher/technical education from the Central or State Government.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a beneficiary under the Palanhar Scheme of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have completed 15 years of age."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant’s maximum age should not exceed 21 years or till course completion (whichever is earlier)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be pursuing education from a university/college/technical educational institution recognized by the Government of India/State Government."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Financial assistance is applicable for regular higher or technical education at the graduate or postgraduate level."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not be receiving any scholarships or grants for higher/technical education from the Central or State Government."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "उच्च शिक्षा",
+        "तकनीकी शिक्षा",
+        "करियर के अवसर",
+        "विद्यार्थी",
+        "पालनहर"
+      ],
+      "schemeName": "मुख्यमंत्री हुनर विकास योजना-उच्च शिक्षा/तकनीकी शिक्षा",
+      "schemeShortTitle": "MHVY-HETE",
+      "implementingAgency": "Department Of Social Justice And Empowerment, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "प्रशिक्षण और कौशल उन्नयन"
+        },
+        {
+          "value": "Career information",
+          "label": "कैरियर की जानकारी"
+        },
+        {
+          "value": "Universities and higher education",
+          "label": "विश्वविद्यालय और उच्च शिक्षा"
+        }
+      ],
+      "schemeOpenDate": "2012-01-19",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231258279383.pdf"
+        },
+        {
+          "title": "आवेदन पत्र",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री हुनर विकास योजना-उच्च शिक्षा/तकनीकी शिक्षा विभाग, राजस्थान सरकार द्वारा राज्य सरकार की पालनहार योजना के तहत लाभार्थी लड़कों और लड़कियों को तकनीकी या उच्च शिक्षा प्रदान करने के उद्देश्य से शुरू की गई थी, ताकि उन्हें आत्मनिर्भर बनने में मदद मिल सके। इस योजना का उद्देश्य उच्च या तकनीकी शिक्षा पूरी करने के बाद इन लाभार्थियों के लिए रोजगार के अवसर और सम्मानजनक आजीविका सुनिश्चित करने के लिए हर संभव प्रयास करना है। इस योजना के तहत राज्य सरकार पालनहार योजना के तहत नामांकित पात्र लड़कों और लड़कियों को उनकी योग्यता और रोजगार उन्मुख पाठ्यक्रमों में रुचि के आधार पर उच्च या तकनीकी शिक्षा प्राप्त करने के लिए वित्तीय सहायता प्रदान करती है। इस योजना को राज्य स्तर पर सामाजिक न्याय और अधिकारिता विभाग, राजस्थान द्वारा और जिला स्तर पर उप निदेशक/सहायक निदेशक, सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया जाता है।",
+      "benefits_md": "उच्च शिक्षा/तकनीकी शिक्षा लाभ-कैरियर उन्मुख उच्च या तकनीकी शिक्षा (स्नातक/स्नातकोत्तर पाठ्यक्रम) के लिए वित्तीय सहायता। > * * संवितरण का ढंगः * *-बैंक खाते के हस्तांतरण के माध्यम से वास्तविक पाठ्यक्रम शुल्क की प्रतिपूर्ति।",
+      "briefDescription": "इस योजना के तहत राज्य सरकार पालनहार योजना के तहत नामांकित पात्र लड़कों और लड़कियों को उनकी योग्यता और रोजगार-उन्मुख पाठ्यक्रमों में रुचि के आधार पर उच्च या तकनीकी शिक्षा प्राप्त करने के लिए वित्तीय सहायता प्रदान करती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मुख्यमंत्री हुनर विकास योजना-उच्च शिक्षा/तकनीकी शिक्षा, राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा राज्य सरकार की पालनहार योजना के तहत लाभार्थी लड़कों और लड़कियों को तकनीकी या उच्च शिक्षा प्रदान करने के उद्देश्य से शुरू की गई थी, ताकि उन्हें आत्मनिर्भर बनने में मदद मिल सके। इस योजना का उद्देश्य उच्च या तकनीकी शिक्षा पूरी करने के बाद इन लाभार्थियों के लिए रोजगार के अवसर और सम्मानजनक आजीविका सुनिश्चित करने के लिए हर संभव प्रयास करना है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत राज्य सरकार पालनहार योजना के तहत नामांकित पात्र लड़कों और लड़कियों को उनकी योग्यता और रोजगार-उन्मुख पाठ्यक्रमों में रुचि के आधार पर उच्च या तकनीकी शिक्षा प्राप्त करने के लिए वित्तीय सहायता प्रदान करती है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना को राज्य स्तर पर सामाजिक न्याय और अधिकारिता विभाग, राजस्थान द्वारा और जिला स्तर पर उप निदेशक/सहायक निदेशक, सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया जाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "उच्च शिक्षा/तकनीकी शिक्षा के लाभः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कैरियर उन्मुख उच्च या तकनीकी शिक्षा (स्नातक/स्नातकोत्तर पाठ्यक्रम) के लिए वित्तीय सहायता।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाता हस्तांतरण के माध्यम से वास्तविक पाठ्यक्रम शुल्क की प्रतिपूर्ति।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "आवेदन प्रक्रियाः",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": "इच्छुक आवेदक डाउनलोड करता है"
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf",
+                        "children": [
+                          {
+                            "text": "आवेदन पत्र"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "आधिकारिक वेबसाइट से।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": "जिला स्तर पर सामाजिक न्याय और अधिकारिता विभाग के उप निदेशक/सहायक निदेशक को दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": "सत्यापन के बाद, पाठ्यक्रम शुल्क की प्रतिपूर्ति छात्र के बैंक खाते में की जाएगी।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "ध्यान देंः",
+                        "bold": true
+                      },
+                      {
+                        "text": "प्रवेश के 3 महीने के भीतर शुल्क प्रतिपूर्ति के लिए आवेदन करें।"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रियाः * * * * चरण 1: * * इच्छुक आवेदक आधिकारिक वेबसाइट से [आवेदन पत्र] (https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf) डाउनलोड करता है। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को जिला स्तर पर उप निदेशक/सहायक निदेशक, सामाजिक न्याय और अधिकारिता विभाग को जमा करें। चरण 4: सत्यापन के बाद, पाठ्यक्रम शुल्क की प्रतिपूर्ति छात्र के बैंक खाते में की जाएगी। * * नोटः * * प्रवेश के 3 महीने के भीतर शुल्क प्रतिपूर्ति के लिए आवेदन करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "General"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "EWS"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Female"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Male"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "OBC"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "SC"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "ST"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Transgender"
+        },
+        {
+          "gte": 15,
+          "lte": 21,
+          "category": "Widow"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Professional Degree",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए। 1. आवेदक की आयु 15 वर्ष पूरी होनी चाहिए। 1. आवेदक की अधिकतम आयु 21 वर्ष से अधिक या पाठ्यक्रम पूरा होने तक (जो भी पहले हो) नहीं होनी चाहिए। 1. आवेदक को भारत सरकार/राज्य सरकार द्वारा मान्यता प्राप्त विश्वविद्यालय/कॉलेज/तकनीकी शैक्षणिक संस्थान से शिक्षा प्राप्त करनी चाहिए। 1. स्नातक या स्नातकोत्तर स्तर पर नियमित उच्च या तकनीकी शिक्षा के लिए वित्तीय सहायता लागू होती है। 1. आवेदक को केंद्र या राज्य सरकार से उच्च/तकनीकी शिक्षा के लिए कोई छात्रवृत्ति या अनुदान प्राप्त नहीं होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक की आयु 15 वर्ष पूरी होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक की अधिकतम आयु 21 वर्ष से अधिक या पाठ्यक्रम पूरा होने तक (जो भी पहले हो) नहीं होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को भारत सरकार/राज्य सरकार द्वारा मान्यता प्राप्त विश्वविद्यालय/कॉलेज/तकनीकी शैक्षणिक संस्थान से शिक्षा प्राप्त करनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "स्नातक या स्नातकोत्तर स्तर पर नियमित उच्च या तकनीकी शिक्षा के लिए वित्तीय सहायता लागू होती है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को केंद्र या राज्य सरकार से उच्च/तकनीकी शिक्षा के लिए कोई छात्रवृत्ति या अनुदान प्राप्त नहीं होना चाहिए।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "General"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "EWS"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Female"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Male"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "OBC"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "SC"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "ST"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Transgender"
+      },
+      {
+        "gte": 15,
+        "lte": 21,
+        "category": "Widow"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Professional Degree",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए। 1. आवेदक की आयु 15 वर्ष पूरी होनी चाहिए। 1. आवेदक की अधिकतम आयु 21 वर्ष से अधिक या पाठ्यक्रम पूरा होने तक (जो भी पहले हो) नहीं होनी चाहिए। 1. आवेदक को भारत सरकार/राज्य सरकार द्वारा मान्यता प्राप्त विश्वविद्यालय/कॉलेज/तकनीकी शैक्षणिक संस्थान से शिक्षा प्राप्त करनी चाहिए। 1. स्नातक या स्नातकोत्तर स्तर पर नियमित उच्च या तकनीकी शिक्षा के लिए वित्तीय सहायता लागू होती है। 1. आवेदक को केंद्र या राज्य सरकार से उच्च/तकनीकी शिक्षा के लिए कोई छात्रवृत्ति या अनुदान प्राप्त नहीं होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक की आयु 15 वर्ष पूरी होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक की अधिकतम आयु 21 वर्ष से अधिक या पाठ्यक्रम पूरा होने तक (जो भी पहले हो) नहीं होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को भारत सरकार/राज्य सरकार द्वारा मान्यता प्राप्त विश्वविद्यालय/कॉलेज/तकनीकी शैक्षणिक संस्थान से शिक्षा प्राप्त करनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "स्नातक या स्नातकोत्तर स्तर पर नियमित उच्च या तकनीकी शिक्षा के लिए वित्तीय सहायता लागू होती है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को केंद्र या राज्य सरकार से उच्च/तकनीकी शिक्षा के लिए कोई छात्रवृत्ति या अनुदान प्राप्त नहीं होना चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport-size Photo"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Jan Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant course)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of the Admission Letter (issued by the concerned institution for regular/higher education/technical education)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Course Fee Receipt (issued by the concerned institution for regular/higher education/technical education)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of the Bank Account Passbook"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Copy of Jan Aadhaar Card\n1. Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant course)\n1. Copy of the Admission Letter (issued by the concerned institution for regular/higher education/technical education)\n1. Course Fee Receipt (issued by the concerned institution for regular/higher education/technical education)\n1. Copy of the Bank Account Passbook\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक योग्यता का प्रमाण पत्र (संबंधित पाठ्यक्रम के लिए निर्धारित शैक्षणिक योग्यता का प्रमाण)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रवेश पत्र की प्रति (नियमित/उच्च शिक्षा/तकनीकी शिक्षा के लिए संबंधित संस्थान द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पाठ्यक्रम शुल्क रसीद (नियमित/उच्च शिक्षा/तकनीकी शिक्षा के लिए संबंधित संस्थान द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाता पासबुक की प्रति"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Copy of Jan Aadhaar Card\n1. Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant course)\n1. Copy of the Admission Letter (issued by the concerned institution for regular/higher education/technical education)\n1. Course Fee Receipt (issued by the concerned institution for regular/higher education/technical education)\n1. Copy of the Bank Account Passbook\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Beneficiaries under the Palanhar Scheme aged between 15 to 21 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Beneficiaries under the Palanhar Scheme aged between 15 to 21 years.\n"
+        },
+        {
+          "question": "Who implements the Mukhyamantri Hunar Vikas Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Department of Social Justice and Empowerment, Government of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Department of Social Justice and Empowerment, Government of Rajasthan.\n"
+        },
+        {
+          "question": "What support is available for higher education?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Full course fee reimbursement for recognized higher/technical education courses."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Full course fee reimbursement for recognized higher/technical education courses.\n"
+        },
+        {
+          "question": "What if I am already getting a scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Not eligible for higher education fee reimbursement if receiving any other scholarship."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Not eligible for higher education fee reimbursement if receiving any other scholarship.\n"
+        },
+        {
+          "question": "Till what age can I avail scheme benefits?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Until 21 years of age or completion of the enrolled course."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Until 21 years of age or completion of the enrolled course.\n"
+        },
+        {
+          "question": "How soon to apply for fee reimbursement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Within a maximum of 3 months from the date of admission in the concerned educational institution"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Within a maximum of 3 months from the date of admission in the concerned educational institution\n"
+        },
+        {
+          "question": "What is the objective of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To make Palanhar Scheme beneficiaries self-reliant by supporting their higher or technical education and facilitating employment opportunities and dignified livelihoods."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To make Palanhar Scheme beneficiaries self-reliant by supporting their higher or technical education and facilitating employment opportunities and dignified livelihoods.\n"
+        },
+        {
+          "question": "What kind of education is covered under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Regular higher education (graduate/postgraduate) and technical education through recognized institutions."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Regular higher education (graduate/postgraduate) and technical education through recognized institutions.\n"
+        },
+        {
+          "question": "Can a student receiving another government scholarship apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, students already receiving any scholarship or grant for higher/technical education from the Government of India or State Government are not eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students already receiving any scholarship or grant for higher/technical education from the Government of India or State Government are not eligible.\n"
+        },
+        {
+          "question": "Is part-time or distance education covered under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only regular higher or technical education is eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only regular higher or technical education is eligible.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पालनहार योजना के तहत 15 से 21 वर्ष की आयु के लाभार्थी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Beneficiaries under the Palanhar Scheme aged between 15 to 21 years.\n"
+        },
+        {
+          "question": "मुख्यमंत्री हुनर विकास योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Department of Social Justice and Empowerment, Government of Rajasthan.\n"
+        },
+        {
+          "question": "उच्च शिक्षा के लिए क्या सहायता उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मान्यता प्राप्त उच्च/तकनीकी शिक्षा पाठ्यक्रमों के लिए पूर्ण पाठ्यक्रम शुल्क प्रतिपूर्ति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Full course fee reimbursement for recognized higher/technical education courses.\n"
+        },
+        {
+          "question": "अगर मुझे पहले से ही छात्रवृत्ति मिल रही है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यदि कोई अन्य छात्रवृत्ति प्राप्त कर रहे हैं तो उच्च शिक्षा शुल्क प्रतिपूर्ति के लिए पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Not eligible for higher education fee reimbursement if receiving any other scholarship.\n"
+        },
+        {
+          "question": "मैं किस उम्र तक योजना का लाभ उठा सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "21 वर्ष की आयु तक या नामांकित पाठ्यक्रम पूरा होने तक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Until 21 years of age or completion of the enrolled course.\n"
+        },
+        {
+          "question": "शुल्क प्रतिपूर्ति के लिए कितनी जल्दी आवेदन करना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संबंधित शैक्षणिक संस्थान में प्रवेश की तारीख से अधिकतम 3 महीने के भीतर"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Within a maximum of 3 months from the date of admission in the concerned educational institution\n"
+        },
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पालनहार योजना के लाभार्थियों को उनकी उच्च या तकनीकी शिक्षा का समर्थन करके और रोजगार के अवसरों और सम्मानजनक आजीविका की सुविधा प्रदान करके आत्मनिर्भर बनाना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To make Palanhar Scheme beneficiaries self-reliant by supporting their higher or technical education and facilitating employment opportunities and dignified livelihoods.\n"
+        },
+        {
+          "question": "इस योजना के तहत किस तरह की शिक्षा शामिल है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मान्यता प्राप्त संस्थानों के माध्यम से नियमित उच्च शिक्षा (स्नातक/स्नातकोत्तर) और तकनीकी शिक्षा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Regular higher education (graduate/postgraduate) and technical education through recognized institutions.\n"
+        },
+        {
+          "question": "क्या कोई अन्य सरकारी छात्रवृत्ति प्राप्त करने वाला छात्र आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, भारत सरकार या राज्य सरकार से उच्च/तकनीकी शिक्षा के लिए पहले से ही कोई छात्रवृत्ति या अनुदान प्राप्त करने वाले छात्र पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students already receiving any scholarship or grant for higher/technical education from the Government of India or State Government are not eligible.\n"
+        },
+        {
+          "question": "क्या इस योजना के तहत अंशकालिक या दूरस्थ शिक्षा शामिल है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल नियमित उच्च या तकनीकी शिक्षा ही पात्र है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only regular higher or technical education is eligible.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1288 @@
+{
+  "scheme_id": "67bd76346247a62366d2007b",
+  "slug": "tukpmsfst",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Scholarship",
+        "Transgender",
+        "Post-matric",
+        "Student"
+      ],
+      "schemeName": "Transgender Utthan Kosh - Post Matric Scholarship for Studying Transgender",
+      "schemeShortTitle": "TUKPMSFST",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110051259226370.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Transgender Utthan Kosh - Post Matric Scholarship for Studying Transgender&amp;quot; scheme was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. It aims to support transgender students pursuing post-matric education. Under this scheme, transgender students receive a monthly scholarship of ₹1,000/- to cover educational expenses for their post-matric studies.\n",
+      "benefits_md": "***Post-Matric Scholarship:***\n\n- Scholarship @ ₹1,000/- per month per student for 10 months.\n\n**NOTE:** The scholarship amount is directly transferred to the beneficiary&#39;s bank account.\n",
+      "briefDescription": "The scheme aims to support transgender students pursuing post-matric education. Under this scheme, transgender students receive a monthly scholarship of ₹1,000/- to cover educational expenses for their post-matric studies.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Transgender Utthan Kosh - Post Matric Scholarship for Studying Transgender\" scheme was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. It aims to support transgender students pursuing post-matric education. Under this scheme, transgender students receive a monthly scholarship of ₹1,000/- to cover educational expenses for their post-matric studies."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Post-Matric Scholarship:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scholarship @ ₹1,000/- per month per student for 10 months."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "The scholarship amount is directly transferred to the beneficiary's bank account."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Submission:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant/parents/guardians must fill out the scholarship application form and attach the required documents. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the complete application form to their school principal/institution."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Institutional Verification:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The school principal/institution verifies the application and forwards it to the Social Justice and Empowerment Department's district office."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Approval Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The district office verifies the documents and approves/rejects the application within one month."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Disbursement:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upon approval, the scholarship amount is transferred to the applicant's bank account."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Submission:***\n\n- The applicant/parents/guardians must fill out the scholarship application form and attach the required documents. \n- Submit the complete application form to their school principal/institution.\n\n***Institutional Verification:***\n\n- The school principal/institution verifies the application and forwards it to the Social Justice and Empowerment Department&#39;s district office.\n\n***Approval Process:***\n\n- The district office verifies the documents and approves/rejects the application within one month.\n\n***Disbursement:***\n\n- Upon approval, the scholarship amount is transferred to the applicant&#39;s bank account.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Rajasthan.\n1. The applicant should belong to the transgender community.\n1. The applicant should be studying at the post-matric level.\n1. The applicant should be enrolled in a recognized school/college in Rajasthan.\n1. The applicant’s family annual income should not exceed ₹8,00,000/-.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to the transgender community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying at the post-matric level."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in a recognized school/college in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s family annual income should not exceed ₹8,00,000/-."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "छात्रवृत्ति",
+        "ट्रांसजेंडर",
+        "मैट्रिक के बाद",
+        "विद्यार्थी"
+      ],
+      "schemeName": "ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर का अध्ययन करने के लिए पोस्ट मैट्रिक छात्रवृत्ति",
+      "schemeShortTitle": "TUKPMSFST",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202110051259226370.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर अध्ययन के लिए पोस्ट मैट्रिक छात्रवृत्ति योजना सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार द्वारा शुरू की गई थी। इसका उद्देश्य मैट्रिक के बाद की शिक्षा प्राप्त करने वाले ट्रांसजेंडर छात्रों का समर्थन करना है। इस योजना के तहत, ट्रांसजेंडर छात्रों को उनकी मैट्रिक के बाद की पढ़ाई के लिए शैक्षिक खर्च को पूरा करने के लिए ₹1,000/- की मासिक छात्रवृत्ति मिलती है।",
+      "benefits_md": "* * * पोस्ट-मैट्रिक छात्रवृत्तिः * * *-10 महीने के लिए प्रति छात्र 1,₹000/- प्रति माह की दर से छात्रवृत्ति। * * नोटः * * छात्रवृत्ति राशि सीधे लाभार्थी के बैंक खाते में हस्तांतरित की जाती है।",
+      "briefDescription": "इस योजना का उद्देश्य मैट्रिक के बाद की शिक्षा प्राप्त करने वाले ट्रांसजेंडर छात्रों का समर्थन करना है। इस योजना के तहत, ट्रांसजेंडर छात्रों को उनकी मैट्रिक के बाद की पढ़ाई के लिए शैक्षिक खर्च को पूरा करने के लिए ₹1,000/- की मासिक छात्रवृत्ति मिलती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"ट्रांसजेंडर उत्थान कोष-ट्रांसजेंडर अध्ययन के लिए पोस्ट मैट्रिक छात्रवृत्ति\" योजना सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार द्वारा शुरू की गई थी। इसका उद्देश्य मैट्रिक के बाद की शिक्षा प्राप्त करने वाले ट्रांसजेंडर छात्रों का समर्थन करना है। इस योजना के तहत, ट्रांसजेंडर छात्रों को उनकी मैट्रिक के बाद की पढ़ाई के लिए शैक्षिक खर्च को पूरा करने के लिए ₹1,000/- की मासिक छात्रवृत्ति मिलती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "पोस्ट-मैट्रिक छात्रवृत्तिः",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10 महीने के लिए प्रति छात्र ₹1,000/- प्रति माह छात्रवृत्ति।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "नोटः",
+              "bold": true
+            },
+            {
+              "text": "छात्रवृत्ति की राशि सीधे लाभार्थी के बैंक खाते में हस्तांतरित की जाती है।"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन जमा करनाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक/माता-पिता/अभिभावकों को छात्रवृत्ति आवेदन पत्र भरना होगा और आवश्यक दस्तावेज संलग्न करने होंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उनके स्कूल के प्रिंसिपल/संस्थान को पूरा आवेदन पत्र जमा करें।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "संस्थागत सत्यापनः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "विद्यालय के प्राचार्य/संस्थान आवेदन का सत्यापन करते हैं और इसे सामाजिक न्याय और अधिकारिता विभाग के जिला कार्यालय को भेजते हैं।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "स्वीकृति प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जिला कार्यालय दस्तावेजों का सत्यापन करता है और एक महीने के भीतर आवेदन को मंजूरी/अस्वीकार कर देता है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "संवितरणः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मंजूरी मिलने पर, छात्रवृत्ति राशि आवेदक के बैंक खाते में स्थानांतरित कर दी जाती है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * * आवेदन जमा करनाः * * *-आवेदक/माता-पिता/अभिभावकों को छात्रवृत्ति आवेदन पत्र भरना होगा और आवश्यक दस्तावेज संलग्न करने होंगे। - उनके स्कूल के प्रिंसिपल/संस्थान को पूरा आवेदन पत्र जमा करें। * * * संस्थागत सत्यापनः * * *-विद्यालय के प्राचार्य/संस्थान आवेदन का सत्यापन करते हैं और इसे सामाजिक न्याय और अधिकारिता विभाग के जिला कार्यालय को भेजते हैं। अनुमोदन प्रक्रियाः जिला कार्यालय दस्तावेजों का सत्यापन करता है और एक महीने के भीतर आवेदन को मंजूरी/अस्वीकार कर देता है। संवितरणः मंजूरी मिलने पर छात्रवृत्ति राशि आवेदक के बैंक खाते में हस्तांतरित कर दी जाती है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 14,
+          "lte": 45,
+          "category": "General"
+        },
+        {
+          "gte": 14,
+          "lte": 45,
+          "category": "EWS"
+        },
+        {
+          "gte": 14,
+          "lte": 45,
+          "category": "Female"
+        },
+        {
+          "gte": 14,
+          "lte": 45,
+          "category": "OBC"
+        },
+        {
+          "gte": 14,
+          "lte": 45,
+          "category": "SC"
+        },
+        {
+          "gte": 14,
+          "lte": 45,
+          "category": "ST"
+        },
+        {
+          "gte": 14,
+          "lte": 45,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": 800000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए। 1. आवेदक को मैट्रिक के बाद के स्तर पर अध्ययन करना चाहिए। 1. आवेदक को राजस्थान के किसी मान्यता प्राप्त स्कूल/कॉलेज में नामांकित होना चाहिए। 1. आवेदक के परिवार की वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को मैट्रिक के बाद के स्तर पर अध्ययन करना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान के किसी मान्यता प्राप्त स्कूल/कॉलेज में नामांकित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के परिवार की वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "transgender",
+          "label": "ट्रांसजेंडर"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 14,
+        "lte": 45,
+        "category": "General"
+      },
+      {
+        "gte": 14,
+        "lte": 45,
+        "category": "EWS"
+      },
+      {
+        "gte": 14,
+        "lte": 45,
+        "category": "Female"
+      },
+      {
+        "gte": 14,
+        "lte": 45,
+        "category": "OBC"
+      },
+      {
+        "gte": 14,
+        "lte": 45,
+        "category": "SC"
+      },
+      {
+        "gte": 14,
+        "lte": 45,
+        "category": "ST"
+      },
+      {
+        "gte": 14,
+        "lte": 45,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": 800000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए। 1. आवेदक को मैट्रिक के बाद के स्तर पर अध्ययन करना चाहिए। 1. आवेदक को राजस्थान के किसी मान्यता प्राप्त स्कूल/कॉलेज में नामांकित होना चाहिए। 1. आवेदक के परिवार की वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को ट्रांसजेंडर समुदाय से होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को मैट्रिक के बाद के स्तर पर अध्ययन करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान के किसी मान्यता प्राप्त स्कूल/कॉलेज में नामांकित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के परिवार की वार्षिक आय ₹ 8,00,000-से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "transgender",
+        "label": "ट्रांसजेंडर"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Transgender Identity Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Enrollment in a Recognized Institution/School"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Previous Year’s Mark Sheet "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Parents/Guardians Income Certificate "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate/Ration Card/Voter ID"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Transgender Identity Certificate\n1. Certificate of Enrollment in a Recognized Institution/School\n1. Previous Year’s Mark Sheet \n1. Aadhaar Card \n1. Parents/Guardians Income Certificate \n1. Domicile Certificate/Ration Card/Voter ID\n1. Bank Passbook Copy\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर पहचान प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मान्यता प्राप्त संस्थान/विद्यालय में नामांकन का प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछले वर्ष की मार्कशीट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता/अभिभावक आय प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाण पत्र/राशन कार्ड/मतदाता पहचान पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Transgender Identity Certificate\n1. Certificate of Enrollment in a Recognized Institution/School\n1. Previous Year’s Mark Sheet \n1. Aadhaar Card \n1. Parents/Guardians Income Certificate \n1. Domicile Certificate/Ration Card/Voter ID\n1. Bank Passbook Copy\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Transgender students who are residents of Rajasthan and enrolled in post-matric education."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender students who are residents of Rajasthan and enrolled in post-matric education.\n"
+        },
+        {
+          "question": "What is the financial assistance provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A monthly scholarship of ₹1,000/- for 10 months."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A monthly scholarship of [?]1,000/- for 10 months.\n"
+        },
+        {
+          "question": "Can students from other states apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only residents of Rajasthan are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only residents of Rajasthan are eligible.\n"
+        },
+        {
+          "question": "How is the scholarship amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Through Direct Bank Transfer (DBT) to the applicant's account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through Direct Bank Transfer (DBT) to the applicant's account.\n"
+        },
+        {
+          "question": "Is this scholarship available for all courses?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, as long as the course is post-matric and recognized."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, as long as the course is post-matric and recognized.\n"
+        },
+        {
+          "question": "Can students apply online?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Currently, the application process is offline through the school/institution."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Currently, the application process is offline through the school/institution.\n"
+        },
+        {
+          "question": "When will I receive the scholarship amount?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Within one month of application approval."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Within one month of application approval.\n"
+        },
+        {
+          "question": "Is there any reservation or preference?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No specific reservations, but all eligible transgender students are encouraged to apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No specific reservations, but all eligible transgender students are encouraged to apply.\n"
+        },
+        {
+          "question": "How can I apply for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Submit the application to your institution, which will forward it to the district office."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit the application to your institution, which will forward it to the district office.\n"
+        },
+        {
+          "question": "What documents are required for the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Transgender Identity Card, enrollment certificate, previous year marksheet, Aadhaar card, income certificate, domicile proof, and bank details."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender Identity Card, enrollment certificate, previous year marksheet, Aadhaar card, income certificate, domicile proof, and bank details.\n"
+        },
+        {
+          "question": "Can the scholarship be renewed annually?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, subject to continued eligibility and academic progress."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, subject to continued eligibility and academic progress.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस छात्रवृत्ति के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर छात्र जो राजस्थान के निवासी हैं और मैट्रिक के बाद की शिक्षा में नामांकित हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender students who are residents of Rajasthan and enrolled in post-matric education.\n"
+        },
+        {
+          "question": "वित्तीय सहायता क्या प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "10 महीने के लिए ₹1,000/- की मासिक छात्रवृत्ति।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A monthly scholarship of [?]1,000/- for 10 months.\n"
+        },
+        {
+          "question": "क्या अन्य राज्यों के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान के निवासी ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only residents of Rajasthan are eligible.\n"
+        },
+        {
+          "question": "छात्रवृत्ति राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक के खाते में डायरेक्ट बैंक ट्रांसफर (डी. बी. टी.) के माध्यम से।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through Direct Bank Transfer (DBT) to the applicant's account.\n"
+        },
+        {
+          "question": "क्या यह छात्रवृत्ति सभी पाठ्यक्रमों के लिए उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, जब तक पाठ्यक्रम मैट्रिक के बाद का है और मान्यता प्राप्त है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, as long as the course is post-matric and recognized.\n"
+        },
+        {
+          "question": "क्या छात्र ऑनलाइन आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वर्तमान में, आवेदन प्रक्रिया स्कूल/संस्थान के माध्यम से ऑफ़लाइन है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Currently, the application process is offline through the school/institution.\n"
+        },
+        {
+          "question": "मुझे छात्रवृत्ति राशि कब मिलेगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन स्वीकृत होने के एक महीने के भीतर।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Within one month of application approval.\n"
+        },
+        {
+          "question": "क्या कोई आरक्षण या वरीयता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कोई विशिष्ट आरक्षण नहीं है, लेकिन सभी पात्र ट्रांसजेंडर छात्रों को आवेदन करने के लिए प्रोत्साहित किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No specific reservations, but all eligible transgender students are encouraged to apply.\n"
+        },
+        {
+          "question": "मैं छात्रवृत्ति के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अपने संस्थान को आवेदन जमा करें, जो इसे जिला कार्यालय को भेज देगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit the application to your institution, which will forward it to the district office.\n"
+        },
+        {
+          "question": "आवेदन के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ट्रांसजेंडर पहचान पत्र, नामांकन प्रमाण पत्र, पिछले वर्ष की मार्कशीट, आधार कार्ड, आय प्रमाण पत्र, अधिवास प्रमाण और बैंक विवरण।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Transgender Identity Card, enrollment certificate, previous year marksheet, Aadhaar card, income certificate, domicile proof, and bank details.\n"
+        },
+        {
+          "question": "क्या छात्रवृत्ति का सालाना नवीनीकरण किया जा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, निरंतर पात्रता और शैक्षणिक प्रगति के अधीन।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, subject to continued eligibility and academic progress.\n"
+        }
+      ]
+    }
+  }
+}

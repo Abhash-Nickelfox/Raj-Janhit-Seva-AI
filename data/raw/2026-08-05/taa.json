@@ -1,0 +1,2135 @@
+{
+  "scheme_id": "67fe0191e2f1560de65eb966",
+  "slug": "taa",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Reimbursement",
+        "Technology Acquisition",
+        "MSME",
+        "Micro Enterprise",
+        "Small Enterprise",
+        "Software"
+      ],
+      "schemeName": "Technology Acquisition Assistance",
+      "schemeShortTitle": "TAA",
+      "implementingAgency": "District Industries & Commerce Centre",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Sales of goods, services & data protection",
+          "label": "Sales of goods, services & data protection"
+        },
+        {
+          "value": "Machine & skill up-Gradation",
+          "label": "Machine & skill up-Gradation"
+        },
+        {
+          "value": "Micro finance",
+          "label": "Micro finance"
+        }
+      ],
+      "schemeOpenDate": "2024-04-12",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000019,
+        "label": "Industry Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://istart.rajasthan.gov.in/public/Policies/2024/rajasthan-msme-policy-2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Technology Acquisition Assistance&amp;quot; scheme has been introduced under the Rajasthan MSME Policy 2024 by the Department of Industries and Commerce, Government of Rajasthan. The scheme aims to support micro and small enterprises (MSEs) in the state in acquiring advanced technology or software related to their production/manufacturing processes. This assistance encourages efficiency, modernization, and competitiveness through measurable performance improvements. The scheme will remain in force until 31st March 2029.\n***Scheme Implementation***\nThis scheme component will be implemented through the concerned District Industries &amp; Commerce Centre (DICC) under the aegis of the Department of Industries &amp; Commerce.\nThe Office of the Commissioner, Industries &amp; Commerce will be the nodal agency for implementation and supervision at the state level.\n",
+      "benefits_md": "**One-time Reimbursement Assistance:**\n\n- Up to 50% of the cost incurred for technology/software acquisition.\n- Maximum assistance limit: ₹5,00,000/- per unit.\n\n**MSEs may acquire technology/software from premier national institutes like:**\n\n- Indian Institute of Science (IISc)\n- Indian Institutes of Technology (IITs)\n- National Institutes of Technology (NITs)\n- National Institutes of Design (NIDs)\n- Council of Scientific and Industrial Research (CSIR), OR\n- Other institutions set up by Government of India/Government of Rajasthan.\n\n",
+      "briefDescription": "The scheme aims to support Micro and Small enterprises in state to acquire advanced technology/ software related to their production/ manufacturing processes through assistance towards cost incurred for technology/ software acquisition.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Technology Acquisition Assistance\" scheme has been introduced under the Rajasthan MSME Policy 2024 by the Department of Industries and Commerce, Government of Rajasthan. The scheme aims to support micro and small enterprises (MSEs) in the state in acquiring advanced technology or software related to their production/manufacturing processes. This assistance encourages efficiency, modernization, and competitiveness through measurable performance improvements. The scheme will remain in force until 31st March 2029."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scheme Implementation",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme component will be implemented through the concerned District Industries & Commerce Centre (DICC) under the aegis of the Department of Industries & Commerce."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Office of the Commissioner, Industries & Commerce will be the nodal agency for implementation and supervision at the state level."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One-time Reimbursement Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Up to 50% of the cost incurred for technology/software acquisition."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum assistance limit: ₹5,00,000/- per unit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "MSEs may acquire technology/software from premier national institutes like:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Indian Institute of Science (IISc)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Indian Institutes of Technology (IITs)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "National Institutes of Technology (NITs)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "National Institutes of Design (NIDs)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Council of Scientific and Industrial Research (CSIR), OR"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other institutions set up by Government of India/Government of Rajasthan."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Application process for the reimbursement of the cost of acquisition of technology/software",
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant downloads the application form (Annexure 3.1) from the official website. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the respective General Manager, District Industries & Commerce Centre (DICC)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Resubmit the Application:",
+                "italic": true,
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The applicant enterprise would be required to submit the application after the acquisition and deployment of the technology from the Technology Institution."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 2: "
+              },
+              {
+                "text": "The State Government would reserve the right to approve/partially approve or reject any of the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Post Application Process",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "Evaluation of the application by GM, DICC, including the Chartered Engineer's certificate."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 2: "
+              },
+              {
+                "text": "Approval & sanction by the District Level Task Force Committee (DLTFC)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 3: "
+              },
+              {
+                "text": "Upon approval, an approval letter will be issued."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 4: "
+              },
+              {
+                "text": "Disbursement of funds to the applicant’s registered bank account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application process for the reimbursement of the cost of acquisition of technology/software***\n**Step 1:** The interested applicant downloads the application form (Annexure 3.1) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the respective General Manager, District Industries &amp; Commerce Centre (DICC).\n***Resubmit the Application:***\n**Step 1:** The applicant enterprise would be required to submit the application after the acquisition and deployment of the technology from the Technology Institution.\n**Step 2:** The State Government would reserve the right to approve/partially approve or reject any of the application.\n***Post Application Process***\n**Step 1:** Evaluation of the application by GM, DICC, including the Chartered Engineer&#39;s certificate.\n**Step 2:** Approval &amp; sanction by the District Level Task Force Committee (DLTFC).\n**Step 3:** Upon approval, an approval letter will be issued.\n**Step 4:** Disbursement of funds to the applicant’s registered bank account.\n<br>\n\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Mode of Online Application: e-Mitra",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant can submit the online application by visiting the nearest "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "e-Mitra"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " center or by using their own e-Mitra account."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The application is free of cost."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Mode of Online Application: e-Mitra**\n\n\n- The applicant can submit the online application by visiting the nearest [e-Mitra](https://emitra.rajasthan.gov.in/emitra/home) center or by using their own e-Mitra account.\n\n- The application is free of cost.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**All Micro and Small Enterprises existing anywhere in Rajasthan will be required to comply with the following conditions to avail benefits under the scheme:**\n\n   1. The enterprise will be required to have Udyam Registration Certificate (URC) as per MSME Development Act 2006.\n   1. The acquisition of technology can be in any form, including purchase of drawing and design/ plant/ machinery/ software etc.\n   1. Acquired technology should be related to the production/ manufacturing process of the enterprise.\n   1. The applicant should clearly demonstrate improvement in performance due to technology acquisition. Mere purchase of machinery and technology will not be considered as technology acquisition.\n   1. The enterprise should be in commercial production at the time of disbursement and the assistance shall not be released to the closed unit.\n   1. Acquisition of multiple machines of similar nature will not be entertained under the scheme. Only one machine will be eligible for the assistance under the scheme in such cases.\n   1. The improvement in performance due to technology acquisition can be demonstrated as follows:\n\n\n  - An increase of at least 10% in Production Rate (Number of units produced/Total time taken); or\n  - A decrease of at least 5% in Cycle Time (Net Production Time/ Number of Units Produced); or\n  - A decrease of at least 2.5% in Rejection Rate (Number of units rejected/ Total number of units produced); or\n  - A decrease of at least 10% in waste generation (Quantity of waste generated/ Quantity of relevant raw material used)\n\n**Note 1:** Improvement in performance to be certified by Chartered Engineer.\n**Note 2:** The average values of the above-mentioned indicators calculated three (3) months prior to technology acquisition will be compared with the average values calculated three (3) months post the deployment &amp;amp; commissioning of technology to demonstrate the performance improvement.\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All Micro and Small Enterprises existing anywhere in Rajasthan will be required to comply with the following conditions to avail benefits under the scheme:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The enterprise will be required to have Udyam Registration Certificate (URC) as per MSME Development Act 2006."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The acquisition of technology can be in any form, including purchase of drawing and design/ plant/ machinery/ software etc."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Acquired technology should be related to the production/ manufacturing process of the enterprise."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should clearly demonstrate improvement in performance due to technology acquisition. Mere purchase of machinery and technology will not be considered as technology acquisition."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The enterprise should be in commercial production at the time of disbursement and the assistance shall not be released to the closed unit."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Acquisition of multiple machines of similar nature will not be entertained under the scheme. Only one machine will be eligible for the assistance under the scheme in such cases."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The improvement in performance due to technology acquisition can be demonstrated as follows:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "An increase of at least 10% in Production Rate (Number of units produced/Total time taken); or"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A decrease of at least 5% in Cycle Time (Net Production Time/ Number of Units Produced); or"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A decrease of at least 2.5% in Rejection Rate (Number of units rejected/ Total number of units produced); or"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A decrease of at least 10% in waste generation (Quantity of waste generated/ Quantity of relevant raw material used)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 1:",
+                  "bold": true
+                },
+                {
+                  "text": " Improvement in performance to be certified by Chartered Engineer."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 2: ",
+                  "bold": true
+                },
+                {
+                  "text": "The average values of the above-mentioned indicators calculated three (3) months prior to technology acquisition will be compared with the average values calculated three (3) months post the deployment & commissioning of technology to demonstrate the performance improvement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "प्रतिपूर्ति",
+        "प्रौद्योगिकी अधिग्रहण",
+        "एमएसएमई",
+        "सूक्ष्म उद्यम",
+        "लघु उद्यम",
+        "सॉफ्टवेयर"
+      ],
+      "schemeName": "प्रौद्योगिकी अधिग्रहण सहायता",
+      "schemeShortTitle": "TAA",
+      "implementingAgency": "District Industries & Commerce Centre",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Sales of goods, services & data protection",
+          "label": "वस्तुओं, सेवाओं और डेटा संरक्षण की बिक्री"
+        },
+        {
+          "value": "Machine & skill up-Gradation",
+          "label": "मशीन और कौशल उन्नयन"
+        },
+        {
+          "value": "Micro finance",
+          "label": "सूक्ष्म वित्त"
+        }
+      ],
+      "schemeOpenDate": "2024-04-12",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000019,
+        "label": "उद्योग विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://istart.rajasthan.gov.in/public/Policies/2024/rajasthan-msme-policy-2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के उद्योग और वाणिज्य विभाग द्वारा राजस्थान एमएसएमई नीति 2024 के तहत प्रौद्योगिकी अधिग्रहण सहायता योजना शुरू की गई है। इस योजना का उद्देश्य राज्य में सूक्ष्म और लघु उद्यमों (एमएसई) को उनकी उत्पादन/विनिर्माण प्रक्रियाओं से संबंधित उन्नत प्रौद्योगिकी या सॉफ्टवेयर प्राप्त करने में सहायता करना है। यह सहायता मापने योग्य प्रदर्शन सुधारों के माध्यम से दक्षता, आधुनिकीकरण और प्रतिस्पर्धा को प्रोत्साहित करती है। यह योजना 31 मार्च 2029 तक लागू रहेगी। इस योजना घटक को उद्योग और वाणिज्य विभाग के तत्वावधान में संबंधित जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) के माध्यम से लागू किया जाएगा। आयुक्त, उद्योग और वाणिज्य का कार्यालय राज्य स्तर पर कार्यान्वयन और पर्यवेक्षण के लिए नोडल एजेंसी होगी।",
+      "benefits_md": "एकमुश्त प्रतिपूर्ति सहायता-प्रौद्योगिकी/सॉफ्टवेयर अधिग्रहण के लिए खर्च की गई लागत का 50 प्रतिशत तक। - अधिकतम सहायता सीमाः ₹ 5,00,000-प्रति इकाई। एम. एस. ई. प्रमुख राष्ट्रीय संस्थानों जैसे भारतीय विज्ञान संस्थान (आई. आई. एस. सी.)-भारतीय प्रौद्योगिकी संस्थान (आई. आई. टी.)-राष्ट्रीय प्रौद्योगिकी संस्थान (एन. आई. टी.)-राष्ट्रीय डिजाइन संस्थान (एन. आई. डी.)-वैज्ञानिक और औद्योगिक अनुसंधान परिषद (सी. एस. आई. आर.) या भारत सरकार/राजस्थान सरकार द्वारा स्थापित अन्य संस्थानों से प्रौद्योगिकी/सॉफ्टवेयर प्राप्त कर सकते हैं।",
+      "briefDescription": "इस योजना का उद्देश्य प्रौद्योगिकी/सॉफ्टवेयर अधिग्रहण के लिए खर्च की गई लागत की दिशा में सहायता के माध्यम से राज्य में सूक्ष्म और लघु उद्यमों को उनकी उत्पादन/विनिर्माण प्रक्रियाओं से संबंधित उन्नत प्रौद्योगिकी/सॉफ्टवेयर प्राप्त करने में सहायता करना है।",
+      "exclusions_md": "<बी. आर>",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के उद्योग और वाणिज्य विभाग द्वारा राजस्थान एमएसएमई नीति 2024 के तहत \"प्रौद्योगिकी अधिग्रहण सहायता\" योजना शुरू की गई है। इस योजना का उद्देश्य राज्य में सूक्ष्म और लघु उद्यमों (एमएसई) को उनकी उत्पादन/विनिर्माण प्रक्रियाओं से संबंधित उन्नत प्रौद्योगिकी या सॉफ्टवेयर प्राप्त करने में सहायता करना है। यह सहायता मापने योग्य प्रदर्शन सुधारों के माध्यम से दक्षता, आधुनिकीकरण और प्रतिस्पर्धा को प्रोत्साहित करती है। यह योजना 31 मार्च 2029 तक लागू रहेगी।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "योजना का कार्यान्वयन",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना घटक को उद्योग और वाणिज्य विभाग के तत्वावधान में संबंधित जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) के माध्यम से लागू किया जाएगा।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आयुक्त, उद्योग और वाणिज्य का कार्यालय राज्य स्तर पर कार्यान्वयन और पर्यवेक्षण के लिए नोडल एजेंसी होगी।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "एक बार की प्रतिपूर्ति सहायताः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रौद्योगिकी/सॉफ्टवेयर अधिग्रहण पर होने वाली लागत का 50 प्रतिशत तक।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकतम सहायता सीमाः ₹ 5,00,000-प्रति इकाई।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "एम. एस. ई. प्रमुख राष्ट्रीय संस्थानों से प्रौद्योगिकी/सॉफ्टवेयर प्राप्त कर सकते हैं जैसे किः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भारतीय विज्ञान संस्थान (आईआईएससी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भारतीय प्रौद्योगिकी संस्थान (आईआईटी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राष्ट्रीय प्रौद्योगिकी संस्थान (एन. आई. टी.)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राष्ट्रीय डिजाइन संस्थान (एन. आई. डी.)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वैज्ञानिक और औद्योगिक अनुसंधान परिषद (सी. एस. आई. आर.) या"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भारत सरकार/राजस्थान सरकार द्वारा स्थापित अन्य संस्थान।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "प्रौद्योगिकी/सॉफ्टवेयर के अधिग्रहण की लागत की प्रतिपूर्ति के लिए आवेदन प्रक्रिया",
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 1:"
+              },
+              {
+                "text": "इच्छुक आवेदक आधिकारिक वेबसाइट से आवेदन पत्र (अनुलग्नक 3.1) डाउनलोड करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन फिर से जमा करें",
+                "italic": true,
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 1:"
+              },
+              {
+                "text": "प्रौद्योगिकी संस्थान से प्रौद्योगिकी के अधिग्रहण और तैनाती के बाद आवेदक उद्यम को आवेदन जमा करना होगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 2:"
+              },
+              {
+                "text": "राजकीय किसी भी आवेदन को मंजूरी/आंशिक रूप से मंजूरी या अस्वीकार करने का अधिकार सुरक्षित रखेगी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन के बाद की प्रक्रिया",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 1:"
+              },
+              {
+                "text": "चार्टर्ड इंजीनियर के प्रमाण पत्र सहित जी. एम., डी. आई. सी. द्वारा आवेदन का मूल्यांकन।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 2:"
+              },
+              {
+                "text": "जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) द्वारा अनुमोदन और मंजूरी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 3:"
+              },
+              {
+                "text": "मंजूरी मिलने पर मंजूरी पत्र जारी किया जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 4:"
+              },
+              {
+                "text": "आवेदक के पंजीकृत बैंक खाते में धन का संवितरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "प्रौद्योगिकी/सॉफ्टवेयर के अधिग्रहण की लागत की प्रतिपूर्ति के लिए आवेदन प्रक्रिया चरण 1: इच्छुक आवेदक आधिकारिक वेबसाइट से आवेदन पत्र (अनुलग्नक 3.1) डाउनलोड करता है। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों (यदि आवश्यक हो तो स्व-सत्यापन) की प्रतियां संलग्न करें। चरण 3: दस्तावेजों के साथ विधिवत भरे गए और हस्ताक्षरित आवेदन पत्र को संबंधित महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को जमा करें। आवेदन फिर से जमा करें: चरण 1: आवेदक उद्यम को प्रौद्योगिकी संस्थान से प्रौद्योगिकी के अधिग्रहण और तैनाती के बाद आवेदन जमा करना होगा। चरण 2: राजकीय किसी भी आवेदन को मंजूरी/आंशिक रूप से मंजूरी या अस्वीकार करने का अधिकार सुरक्षित रखेगी। * पोस्ट आवेदन प्रक्रिया चरण 1: * चार्टर्ड इंजीनियर के प्रमाण पत्र सहित जी. एम., डी. आई. सी. द्वारा आवेदन का मूल्यांकन। चरण 2: जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) द्वारा अनुमोदन और मंजूरी। चरण 3: अनुमोदन के बाद, एक अनुमोदन पत्र जारी किया जाएगा। चरण 4: आवेदक के पंजीकृत बैंक खाते में धन का संवितरण। <बी. आर>"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "ऑनलाइन आवेदन का माध्यमः ई-मित्र",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक निकटतम स्थान पर जाकर ऑनलाइन आवेदन जमा कर सकता है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "ई-मित्रा"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "केंद्र या अपने स्वयं के ई-मित्र खाते का उपयोग करके।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन निःशुल्क है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "ऑनलाइन आवेदन का मोडः ई-मित्र * *-आवेदक निकटतम [ई-मित्र] पर जाकर ऑनलाइन आवेदन जमा कर सकता है। //एमित्र. राजस्थान. जी. ओ. वी. इन/एमित्र/होम) केंद्र या अपने स्वयं के ई-मित्र खाते का उपयोग करके।-आवेदन निःशुल्क है"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "राजस्थान में कहीं भी मौजूद सभी सूक्ष्म और लघु उद्यमों को योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित शर्तों का पालन करना होगा: उद्यम के पास एमएसएमई विकास अधिनियम 2006 के अनुसार उद्यम पंजीकरण प्रमाण पत्र (यूआरसी) होना आवश्यक होगा। 1. प्रौद्योगिकी का अधिग्रहण किसी भी रूप में हो सकता है, जिसमें ड्राइंग और डिजाइन/संयंत्र/मशीनरी/सॉफ्टवेयर आदि की खरीद शामिल है। 1. अर्जित प्रौद्योगिकी उद्यम की उत्पादन/विनिर्माण प्रक्रिया से संबंधित होनी चाहिए। 1. आवेदक को प्रौद्योगिकी अधिग्रहण के कारण प्रदर्शन में सुधार स्पष्ट रूप से प्रदर्शित करना चाहिए। केवल मशीनरी और प्रौद्योगिकी की खरीद प्रौद्योगिकी अधिग्रहण नहीं माना जाएगा। 1. संवितरण के समय उद्यम वाणिज्यिक उत्पादन में होना चाहिए और सहायता बंद इकाई को जारी नहीं की जाएगी। 1. इस योजना के तहत समान प्रकृति की कई मशीनों के अधिग्रहण पर विचार नहीं किया जाएगा। ऐसे मामलों में योजना के तहत सहायता के लिए केवल एक मशीन पात्र होगी। 1. प्रौद्योगिकी अधिग्रहण के कारण प्रदर्शन में सुधार को निम्नानुसार दर्शाया जा सकता है:-उत्पादन दर में कम से कम 10 प्रतिशत की वृद्धि (उत्पादित इकाइयों की संख्या/कुल समय लिया गया); या-चक्र समय में कम से कम 5 प्रतिशत की कमी (शुद्ध उत्पादन समय/उत्पादित इकाइयों की संख्या); या-अस्वीकृति दर में कम से कम 2.5 प्रतिशत की कमी (अस्वीकृत इकाइयों की संख्या/उत्पादित इकाइयों की कुल संख्या); या-अपशिष्ट उत्पादन में कम से कम 10 प्रतिशत की कमी (उत्पन्न अपशिष्ट की मात्रा/उपयोग किए गए प्रासंगिक कच्चे की मात्रा)। टिप्पणी 2: प्रौद्योगिकी अधिग्रहण से तीन (3) महीने पहले गणना किए गए उपरोक्त संकेतकों के औसत मूल्यों की तुलना प्रदर्शन में सुधार को प्रदर्शित करने के लिए प्रौद्योगिकी की तैनाती और चालू होने के तीन (3) महीनों के बाद गणना किए गए औसत मूल्यों से की जाएगी।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में कहीं भी मौजूद सभी सूक्ष्म और लघु उद्यमों को योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित शर्तों का पालन करना होगा:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उद्यम के पास एमएसएमई विकास अधिनियम 2006 के अनुसार उद्यम पंजीकरण प्रमाण पत्र (यूआरसी) होना आवश्यक होगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रौद्योगिकी का अधिग्रहण किसी भी रूप में हो सकता है, जिसमें ड्राइंग और डिजाइन/संयंत्र/मशीनरी/सॉफ्टवेयर आदि की खरीद शामिल है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अर्जित प्रौद्योगिकी उद्यम की उत्पादन/विनिर्माण प्रक्रिया से संबंधित होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को प्रौद्योगिकी अधिग्रहण के कारण प्रदर्शन में सुधार स्पष्ट रूप से प्रदर्शित करना चाहिए। केवल मशीनरी और प्रौद्योगिकी की खरीद प्रौद्योगिकी अधिग्रहण नहीं माना जाएगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "संवितरण के समय उद्यम वाणिज्यिक उत्पादन में होना चाहिए और सहायता बंद इकाई को जारी नहीं की जाएगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इस योजना के तहत समान प्रकृति की कई मशीनों के अधिग्रहण पर विचार नहीं किया जाएगा। ऐसे मामलों में योजना के तहत सहायता के लिए केवल एक मशीन पात्र होगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रौद्योगिकी अधिग्रहण के कारण प्रदर्शन में सुधार को निम्नानुसार प्रदर्शित किया जा सकता हैः"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उत्पादन दर में कम से कम 10 प्रतिशत की वृद्धि (उत्पादित इकाइयों की संख्या/कुल समय); या"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "चक्र समय में कम से कम 5 प्रतिशत की कमी (शुद्ध उत्पादन समय/उत्पादित इकाइयों की संख्या); या"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अस्वीकृति दर में कम से कम 2.5% की कमी (अस्वीकृत इकाइयों की संख्या/उत्पादित इकाइयों की कुल संख्या); या"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "अपशिष्ट उत्पादन में कम से कम 10 प्रतिशत की कमी (उत्पन्न अपशिष्ट की मात्रा/उपयोग किए गए प्रासंगिक कच्चे की मात्रा)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नोट 1:",
+                  "bold": true
+                },
+                {
+                  "text": "चार्टड इंजीनियर द्वारा प्रमाणित किए जाने वाले प्रदर्शन में सुधार।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "टिप्पणी 2:",
+                  "bold": true
+                },
+                {
+                  "text": "प्रौद्योगिकी अधिग्रहण से तीन (3) महीने पहले गणना किए गए उपरोक्त संकेतकों के औसत मूल्यों की तुलना प्रदर्शन सुधार को प्रदर्शित करने के लिए प्रौद्योगिकी की तैनाती और चालू होने के तीन (3) महीनों के बाद गणना किए गए औसत मूल्यों से की जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सब कुछ",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सब कुछ",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "राजस्थान में कहीं भी मौजूद सभी सूक्ष्म और लघु उद्यमों को योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित शर्तों का पालन करना होगा: उद्यम के पास एमएसएमई विकास अधिनियम 2006 के अनुसार उद्यम पंजीकरण प्रमाण पत्र (यूआरसी) होना आवश्यक होगा। 1. प्रौद्योगिकी का अधिग्रहण किसी भी रूप में हो सकता है, जिसमें ड्राइंग और डिजाइन/संयंत्र/मशीनरी/सॉफ्टवेयर आदि की खरीद शामिल है। 1. अर्जित प्रौद्योगिकी उद्यम की उत्पादन/विनिर्माण प्रक्रिया से संबंधित होनी चाहिए। 1. आवेदक को प्रौद्योगिकी अधिग्रहण के कारण प्रदर्शन में सुधार स्पष्ट रूप से प्रदर्शित करना चाहिए। केवल मशीनरी और प्रौद्योगिकी की खरीद प्रौद्योगिकी अधिग्रहण नहीं माना जाएगा। 1. संवितरण के समय उद्यम वाणिज्यिक उत्पादन में होना चाहिए और सहायता बंद इकाई को जारी नहीं की जाएगी। 1. इस योजना के तहत समान प्रकृति की कई मशीनों के अधिग्रहण पर विचार नहीं किया जाएगा। ऐसे मामलों में योजना के तहत सहायता के लिए केवल एक मशीन पात्र होगी। 1. प्रौद्योगिकी अधिग्रहण के कारण प्रदर्शन में सुधार को निम्नानुसार दर्शाया जा सकता है:-उत्पादन दर में कम से कम 10 प्रतिशत की वृद्धि (उत्पादित इकाइयों की संख्या/कुल समय लिया गया); या-चक्र समय में कम से कम 5 प्रतिशत की कमी (शुद्ध उत्पादन समय/उत्पादित इकाइयों की संख्या); या-अस्वीकृति दर में कम से कम 2.5 प्रतिशत की कमी (अस्वीकृत इकाइयों की संख्या/उत्पादित इकाइयों की कुल संख्या); या-अपशिष्ट उत्पादन में कम से कम 10 प्रतिशत की कमी (उत्पन्न अपशिष्ट की मात्रा/उपयोग किए गए प्रासंगिक कच्चे की मात्रा)। टिप्पणी 2: प्रौद्योगिकी अधिग्रहण से तीन (3) महीने पहले गणना किए गए उपरोक्त संकेतकों के औसत मूल्यों की तुलना प्रदर्शन में सुधार को प्रदर्शित करने के लिए प्रौद्योगिकी की तैनाती और चालू होने के तीन (3) महीनों के बाद गणना किए गए औसत मूल्यों से की जाएगी।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "राजस्थान में कहीं भी मौजूद सभी सूक्ष्म और लघु उद्यमों को योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित शर्तों का पालन करना होगा:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उद्यम के पास एमएसएमई विकास अधिनियम 2006 के अनुसार उद्यम पंजीकरण प्रमाण पत्र (यूआरसी) होना आवश्यक होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रौद्योगिकी का अधिग्रहण किसी भी रूप में हो सकता है, जिसमें ड्राइंग और डिजाइन/संयंत्र/मशीनरी/सॉफ्टवेयर आदि की खरीद शामिल है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अर्जित प्रौद्योगिकी उद्यम की उत्पादन/विनिर्माण प्रक्रिया से संबंधित होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को प्रौद्योगिकी अधिग्रहण के कारण प्रदर्शन में सुधार स्पष्ट रूप से प्रदर्शित करना चाहिए। केवल मशीनरी और प्रौद्योगिकी की खरीद प्रौद्योगिकी अधिग्रहण नहीं माना जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "संवितरण के समय उद्यम वाणिज्यिक उत्पादन में होना चाहिए और सहायता बंद इकाई को जारी नहीं की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इस योजना के तहत समान प्रकृति की कई मशीनों के अधिग्रहण पर विचार नहीं किया जाएगा। ऐसे मामलों में योजना के तहत सहायता के लिए केवल एक मशीन पात्र होगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रौद्योगिकी अधिग्रहण के कारण प्रदर्शन में सुधार को निम्नानुसार प्रदर्शित किया जा सकता हैः"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उत्पादन दर में कम से कम 10 प्रतिशत की वृद्धि (उत्पादित इकाइयों की संख्या/कुल समय); या"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "चक्र समय में कम से कम 5 प्रतिशत की कमी (शुद्ध उत्पादन समय/उत्पादित इकाइयों की संख्या); या"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अस्वीकृति दर में कम से कम 2.5% की कमी (अस्वीकृत इकाइयों की संख्या/उत्पादित इकाइयों की कुल संख्या); या"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अपशिष्ट उत्पादन में कम से कम 10 प्रतिशत की कमी (उत्पन्न अपशिष्ट की मात्रा/उपयोग किए गए प्रासंगिक कच्चे की मात्रा)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोट 1:",
+                "bold": true
+              },
+              {
+                "text": "चार्टड इंजीनियर द्वारा प्रमाणित किए जाने वाले प्रदर्शन में सुधार।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "टिप्पणी 2:",
+                "bold": true
+              },
+              {
+                "text": "प्रौद्योगिकी अधिग्रहण से तीन (3) महीने पहले गणना किए गए उपरोक्त संकेतकों के औसत मूल्यों की तुलना प्रदर्शन सुधार को प्रदर्शित करने के लिए प्रौद्योगिकी की तैनाती और चालू होने के तीन (3) महीनों के बाद गणना किए गए औसत मूल्यों से की जाएगी।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सब कुछ",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सब कुछ",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Udyam Registration (UR) Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Incorporation/Partnership Deed/Firm Registration or equivalent document related to incorporation of the enterprise"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Board Resolution/Power of attorney in the name of Authorized Signatory"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of MoU/other relevant document with the Institution for acquisition of technology"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Justification for technology acquisition/upgradation"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Undertaking/Declaration on non-judicial stamp paper as per ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure 3.2)"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bill/Invoice of the acquired technology"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Payment"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "CA certificate for details of expenditure incurred on acquisition of technology ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure 3.3)"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of regular Commercial Production (Recent Sale Bill)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank account details/Copy of cancelled cheque and PAN Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self-certified list of Existing Plant & Machinery with its original purchase value and depreciated value"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Chartered Engineer certifying performance improvement as per ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure 3.4)"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of Udyam Registration (UR) Certificate\n1. Certificate of Incorporation/Partnership Deed/Firm Registration or equivalent document related to incorporation of the enterprise\n1. Board Resolution/Power of attorney in the name of Authorized Signatory\n1. Copy of MoU/other relevant document with the Institution for acquisition of technology\n1. Justification for technology acquisition/upgradation\n1. Undertaking/Declaration on non-judicial stamp paper as per ([Annexure 3.2)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)1. Bill/Invoice of the acquired technology\n1. Proof of Payment\n1. CA certificate for details of expenditure incurred on acquisition of technology ([Annexure 3.3)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)1. Proof of regular Commercial Production (Recent Sale Bill)\n1. Bank account details/Copy of cancelled cheque and PAN Card\n1. Self-certified list of Existing Plant &amp; Machinery with its original purchase value and depreciated value\n1. Certificate of Chartered Engineer certifying performance improvement as per ([Annexure 3.4)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उद्यम पंजीकरण (यू. आर.) प्रमाण पत्र की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निगमन का प्रमाण पत्र/साझेदारी विलेख/फर्म पंजीकरण या उद्यम के निगमन से संबंधित समकक्ष दस्तावेज"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकृत हस्ताक्षरकर्ता के नाम पर बोर्ड रिज़ॉल्यूशन/पावर ऑफ अटॉर्नी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रौद्योगिकी के अधिग्रहण के लिए संस्थान के साथ समझौता ज्ञापन/अन्य प्रासंगिक दस्तावेज़ की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रौद्योगिकी अधिग्रहण/उन्नयन के लिए औचित्य"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गैर-न्यायिक स्टाम्प पेपर पर अंडरटेकिंग/घोषणा ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "अनुलग्नक 3.2)"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अर्जित प्रौद्योगिकी का बिल/चालान"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भुगतान का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रौद्योगिकी के अधिग्रहण पर किए गए व्यय के विवरण के लिए सीए प्रमाण पत्र ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "अनुलग्नक 3.3)"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नियमित वाणिज्यिक उत्पादन का प्रमाण (हाल का बिक्री विधेयक)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण/रद्द किए गए चेक और पैन कार्ड की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अपने मूल खरीद मूल्य और मूल्यह्रास मूल्य के साथ मौजूदा संयंत्र और मशीनरी की स्व-प्रमाणित सूची"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "(क) के अनुसार प्रदर्शन सुधार को प्रमाणित करने वाले चार्टर्ड इंजीनियर का प्रमाण पत्र"
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "अनुलग्नक 3.4)"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of Udyam Registration (UR) Certificate\n1. Certificate of Incorporation/Partnership Deed/Firm Registration or equivalent document related to incorporation of the enterprise\n1. Board Resolution/Power of attorney in the name of Authorized Signatory\n1. Copy of MoU/other relevant document with the Institution for acquisition of technology\n1. Justification for technology acquisition/upgradation\n1. Undertaking/Declaration on non-judicial stamp paper as per ([Annexure 3.2)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)1. Bill/Invoice of the acquired technology\n1. Proof of Payment\n1. CA certificate for details of expenditure incurred on acquisition of technology ([Annexure 3.3)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)1. Proof of regular Commercial Production (Recent Sale Bill)\n1. Bank account details/Copy of cancelled cheque and PAN Card\n1. Self-certified list of Existing Plant &amp; Machinery with its original purchase value and depreciated value\n1. Certificate of Chartered Engineer certifying performance improvement as per ([Annexure 3.4)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf)\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Micro or Small Enterprise in Rajasthan with a valid Udyam Registration Certificate."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Micro or Small Enterprise in Rajasthan with a valid Udyam Registration Certificate.\n"
+        },
+        {
+          "question": "What type of technology/software is eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Technology/software directly related to production or manufacturing processes that lead to performance improvement."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Technology/software directly related to production or manufacturing processes that lead to performance improvement.\n"
+        },
+        {
+          "question": "Is performance improvement mandatory?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes. Improvement in production rate, cycle time, rejection rate, or waste generation must be demonstrated and certified."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes. Improvement in production rate, cycle time, rejection rate, or waste generation must be demonstrated and certified.\n"
+        },
+        {
+          "question": "Can I apply before acquiring the technology?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No. Application is submitted after acquisition and deployment of the technology/software."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No. Application is submitted after acquisition and deployment of the technology/software.\n"
+        },
+        {
+          "question": "How many machines/software can I claim assistance for?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only one machine/software of a similar nature is allowed for assistance."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only one machine/software of a similar nature is allowed for assistance.\n"
+        },
+        {
+          "question": "What’s the maximum financial assistance?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Up to ₹5,00,000, subject to 50% of the technology/software acquisition cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Up to ₹5,00,000, subject to 50% of the technology/software acquisition cost.\n"
+        },
+        {
+          "question": "Who certifies the performance improvement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A Chartered Engineer, using data from 3 months before and after deployment."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A Chartered Engineer, using data from 3 months before and after deployment.\n"
+        },
+        {
+          "question": "Who approves the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The District Level Task Force Committee (DLTFC) is the approving authority."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Level Task Force Committee (DLTFC) is the approving authority.\n"
+        },
+        {
+          "question": "Where do I submit my application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Submit to the General Manager, DICC of your district with all required documents."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit to the General Manager, DICC of your district with all required documents.\n"
+        },
+        {
+          "question": "How is the assistance disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After approval, the amount is directly transferred to the enterprise’s registered bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "After approval, the amount is directly transferred to the enterprise’s registered bank account.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के तहत कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में एक वैध उद्यम पंजीकरण प्रमाण पत्र के साथ सूक्ष्म या लघु उद्यम।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Micro or Small Enterprise in Rajasthan with a valid Udyam Registration Certificate.\n"
+        },
+        {
+          "question": "किस प्रकार की तकनीक/सॉफ्टवेयर योग्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उत्पादन या विनिर्माण प्रक्रियाओं से सीधे संबंधित प्रौद्योगिकी/सॉफ्टवेयर जो प्रदर्शन में सुधार की ओर ले जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Technology/software directly related to production or manufacturing processes that lead to performance improvement.\n"
+        },
+        {
+          "question": "क्या प्रदर्शन में सुधार अनिवार्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां। उत्पादन दर, चक्र समय, अस्वीकृति दर या अपशिष्ट उत्पादन में सुधार को प्रदर्शित और प्रमाणित किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes. Improvement in production rate, cycle time, rejection rate, or waste generation must be demonstrated and certified.\n"
+        },
+        {
+          "question": "क्या मैं प्रौद्योगिकी प्राप्त करने से पहले आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं। प्रौद्योगिकी/सॉफ्टवेयर के अधिग्रहण और तैनाती के बाद आवेदन प्रस्तुत किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No. Application is submitted after acquisition and deployment of the technology/software.\n"
+        },
+        {
+          "question": "मैं कितनी मशीनों/सॉफ्टवेयर के लिए सहायता का दावा कर सकता हूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सहायता के लिए समान प्रकृति की केवल एक मशीन/सॉफ्टवेयर की अनुमति है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only one machine/software of a similar nature is allowed for assistance.\n"
+        },
+        {
+          "question": "अधिकतम वित्तीय सहायता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹ 5,00,000 तक, प्रौद्योगिकी/सॉफ्टवेयर अधिग्रहण लागत के 50 प्रतिशत के अधीन।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Up to ₹5,00,000, subject to 50% of the technology/software acquisition cost.\n"
+        },
+        {
+          "question": "प्रदर्शन सुधार को कौन प्रमाणित करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक चार्टर्ड इंजीनियर, जो तैनाती से पहले और बाद में 3 महीने के डेटा का उपयोग करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A Chartered Engineer, using data from 3 months before and after deployment.\n"
+        },
+        {
+          "question": "आवेदन को कौन मंजूरी देता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) अनुमोदन प्राधिकरण है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Level Task Force Committee (DLTFC) is the approving authority.\n"
+        },
+        {
+          "question": "मैं अपना आवेदन कहाँ जमा करूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सभी आवश्यक दस्तावेजों के साथ अपने जिले के महाप्रबंधक, डी. आई. सी. को प्रस्तुत करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit to the General Manager, DICC of your district with all required documents.\n"
+        },
+        {
+          "question": "सहायता कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अनुमोदन के बाद, राशि सीधे उद्यम के पंजीकृत बैंक खाते में हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "After approval, the amount is directly transferred to the enterprise’s registered bank account.\n"
+        }
+      ]
+    }
+  }
+}

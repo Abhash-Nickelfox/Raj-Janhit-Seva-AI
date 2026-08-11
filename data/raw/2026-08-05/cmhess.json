@@ -1,0 +1,2159 @@
+{
+  "scheme_id": "66bc9a88c5af5de226834d4c",
+  "slug": "cmhess",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Higher Education",
+        "Scholarship",
+        "Student",
+        "PwD"
+      ],
+      "schemeName": "Chief Minister Higher Education Scholarship Scheme",
+      "schemeShortTitle": "CMHESS",
+      "implementingAgency": "Higher Education Department, Government Of Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Universities and higher education",
+          "label": "Universities and higher education"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000045,
+        "label": "Higher Education Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://hte.rajasthan.gov.in/scholarship/217092019.pdf"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://sso.rajasthan.gov.in/"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://hte.rajasthan.gov.in/online-scholarship"
+        },
+        {
+          "title": "User Manual",
+          "url": "https://hte.rajasthan.gov.in/scholarship/Steps28102020.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Chief Minister Higher Education Scholarship Scheme&amp;quot; was launched by the Higher Education Department, Government of Rajasthan. This scheme aims to enhance educational levels and provide assistance to children from low-income families. The scholarship is provided to the first one lakh students whose annual family income is up to ₹2,50,000/- and who are not receiving any other scholarship or financial assistance.\n**This scheme aims to provide scholarships to the following:-**\n\n  - New one lakh students who fulfill the eligibility.\n  - All such students who have approved scholarships under this scheme last year and who are continuously studying in institutions of higher education.\n\n**Objective:**\nThe objective of this scheme is to provide financial assistance to talented students of low-income groups for pursuing higher education.\n",
+      "benefits_md": "Under this scheme, eligible students will receive the following financial assistance::\n\n  - The students will receive ₹500/- per month for a maximum of 10 months, totaling up to ₹5,000/- annually.\n  - The students with a disability of 40% or more will receive ₹1,000/- per month for up to 10 months, totaling a maximum of ₹10,000/- annually.\n\n**Note:** The benefits under this scheme are available for a maximum of 5 years for regular students studying in higher educational institutions. If students discontinue their studies before completing 5 years, the benefits will be valid only for the previous year.\n",
+      "briefDescription": "The scheme was launched by the Higher Education Department, Government of Rajasthan. This scheme aims to enhance educational levels and provide scholarship to children from low-income families.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Chief Minister Higher Education Scholarship Scheme\" was launched by the Higher Education Department, Government of Rajasthan. This scheme aims to enhance educational levels and provide assistance to children from low-income families. The scholarship is provided to the first one lakh students whose annual family income is up to ₹2,50,000/- and who are not receiving any other scholarship or financial assistance."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This scheme aims to provide scholarships to the following:-",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "New one lakh students who fulfill the eligibility."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All such students who have approved scholarships under this scheme last year and who are continuously studying in institutions of higher education."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Objective:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The objective of this scheme is to provide financial assistance to talented students of low-income groups for pursuing higher education."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, eligible students will receive the following financial assistance::"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The students will receive ₹500/- per month for a maximum of 10 months, totaling up to ₹5,000/- annually."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The students with a disability of 40% or more will receive ₹1,000/- per month for up to 10 months, totaling a maximum of ₹10,000/- annually."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                },
+                {
+                  "text": " The benefits under this scheme are available for a maximum of 5 years for regular students studying in higher educational institutions. If students discontinue their studies before completing 5 years, the benefits will be valid only for the previous year."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Registration Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Visit the official website of Higher Technical Medical Education:"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://hte.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": " https://hte.rajasthan.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the homepage, click on the \"Register/Login\" tab at the top of the screen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " If you are a new user, select \""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "children": [
+                      {
+                        "text": "Registration"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\", then select an option for registration under the ‘Citizen’ tab."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Complete the registration process by entering your Jan Aadhaar Number."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After successful registration, you will receive a User ID (SSO ID) and Password. These credentials will allow you to check your application status and apply for scholarships in the future."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " To apply for the scholarship, revisit the official website of Higher Technical Medical Education: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://hte.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://hte.rajasthan.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the homepage, click on the \"Register/Login\" tab at the top of the screen. Select ‘"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "Login"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ",’ enter your username (SSO ID), password, and Captcha, then click ‘Login.’"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3",
+                    "bold": true
+                  },
+                  {
+                    "text": ": Once logged in, update your profile."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Select the scholarship scheme, fill in the required information, and upload all necessary documents on the online scholarship portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " After entering the information and uploading the documents, make sure to submit/save your application form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " A Jan Aadhaar Card (Bhamashah Card) is required to complete the online application process."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " There is no fee to apply for this scholarship."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The head of the institution will verify the information by matching the documents attached in the online application with the originals and will forward the application online to the district nodal officer by the specified deadline."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "If the application is rejected due to deficiencies, the student will be responsible."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Ensure that your SSO ID profile is updated before registering for the scholarship."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 6:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Students will have to prepare the SSO ID profile and scholarship profile only once, on the basis of this, students will be able to apply for scholarships or other schemes of the state government run through the SSO Portal in the coming years."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " If your educational institution is not listed on the portal, contact your institution to request its registration on the portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://hte.rajasthan.gov.in/scholarship/Steps28102020.pdf",
+                    "children": [
+                      {
+                        "text": "User Manual"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Registration Process:**\n\n**Step 1:** Visit the official website of Higher Technical Medical Education:[ https://hte.rajasthan.gov.in/](https://hte.rajasthan.gov.in/)\n**Step 2:** On the homepage, click on the &amp;quot;Register/Login&amp;quot; tab at the top of the screen.\n**Step 3:** If you are a new user, select &amp;quot;[Registration](https://sso.rajasthan.gov.in/register)&amp;quot;, then select an option for registration under the ‘Citizen’ tab.\n**Step 4:** Complete the registration process by entering your Jan Aadhaar Number.\n**Step 5:** After successful registration, you will receive a User ID (SSO ID) and Password. These credentials will allow you to check your application status and apply for scholarships in the future.\n&gt; **Application Process:**\n\n**Step 1:** To apply for the scholarship, revisit the official website of Higher Technical Medical Education: [https://hte.rajasthan.gov.in/](https://hte.rajasthan.gov.in/)\n**Step 2:** On the homepage, click on the &amp;quot;Register/Login&amp;quot; tab at the top of the screen. Select ‘[Login](https://sso.rajasthan.gov.in/signin),’ enter your username (SSO ID), password, and Captcha, then click ‘Login.’\n**Step 3**: Once logged in, update your profile.\n**Step 4:** Select the scholarship scheme, fill in the required information, and upload all necessary documents on the online scholarship portal.\n**Step 5:** After entering the information and uploading the documents, make sure to submit/save your application form.\n**Note 1:** A Jan Aadhaar Card (Bhamashah Card) is required to complete the online application process.\n**Note 2:** There is no fee to apply for this scholarship.\n**Note 3:** The head of the institution will verify the information by matching the documents attached in the online application with the originals and will forward the application online to the district nodal officer by the specified deadline.\n**Note 4:** If the application is rejected due to deficiencies, the student will be responsible.\n**Note 5:** Ensure that your SSO ID profile is updated before registering for the scholarship.\n**Note 6:** Students will have to prepare the SSO ID profile and scholarship profile only once, on the basis of this, students will be able to apply for scholarships or other schemes of the state government run through the SSO Portal in the coming years.\n**Note 7:** If your educational institution is not listed on the portal, contact your institution to request its registration on the portal.\n[User Manual](https://hte.rajasthan.gov.in/scholarship/Steps28102020.pdf)\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Rajasthan.\n   1. The applicant should be a regular student.\n   1. The student should be studying at a government or recognized non-government higher or technical institute in Rajasthan.\n   1. Students should have passed the 12th examination from the Rajasthan Board of Secondary Education, Ajmer, in the current year with a minimum of 60% marks and secured a position within the top one lakh of the board&amp;#39;s merit list.\n   1. Disabled students should have a disability of 40% or more.\n   1. The total annual income of the applicant&amp;#39;s parents or guardians should not exceed ₹2,50,000/-.\n   1. The student should not be receiving benefits from any other scholarship or equivalent scheme provided by the Government of India or the State Government.\n   1. The student should have a savings account in a nationalized bank.\n   1. The applicant should possess a valid Aadhaar card.\n   1. The student should have a Jan Aadhaar Card (Bhamashah Card).\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a regular student."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The student should be studying at a government or recognized non-government higher or technical institute in Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Students should have passed the 12th examination from the Rajasthan Board of Secondary Education, Ajmer, in the current year with a minimum of 60% marks and secured a position within the top one lakh of the board's merit list."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Disabled students should have a disability of 40% or more."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The total annual income of the applicant's parents or guardians should not exceed ₹2,50,000/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The student should not be receiving benefits from any other scholarship or equivalent scheme provided by the Government of India or the State Government."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The student should have a savings account in a nationalized bank."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should possess a valid Aadhaar card."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The student should have a Jan Aadhaar Card (Bhamashah Card)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "उच्च शिक्षा",
+        "छात्रवृत्ति",
+        "विद्यार्थी",
+        "पीडब्लूडी"
+      ],
+      "schemeName": "मुख्यमंत्री उच्च शिक्षा छात्रवृत्ति योजना",
+      "schemeShortTitle": "CMHESS",
+      "implementingAgency": "Higher Education Department, Government Of Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Universities and higher education",
+          "label": "विश्वविद्यालय और उच्च शिक्षा"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000045,
+        "label": "उच्च शिक्षा विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://hte.rajasthan.gov.in/scholarship/217092019.pdf"
+        },
+        {
+          "title": "आवेदन पोर्टल",
+          "url": "https://sso.rajasthan.gov.in/"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://hte.rajasthan.gov.in/online-scholarship"
+        },
+        {
+          "title": "उपयोगकर्ता नियमावली",
+          "url": "https://hte.rajasthan.gov.in/scholarship/Steps28102020.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री उच्च शिक्षा छात्रवृत्ति योजना राजस्थान सरकार के उच्च शिक्षा विभाग द्वारा शुरू की गई थी। इस योजना का उद्देश्य शैक्षिक स्तर को बढ़ाना और कम आय वाले परिवारों के बच्चों को सहायता प्रदान करना है। छात्रवृत्ति उन पहले एक लाख छात्रों को प्रदान की जाती है जिनकी वार्षिक पारिवारिक आय ₹ 2,50,000 तक है-और जिन्हें कोई अन्य छात्रवृत्ति या वित्तीय सहायता प्राप्त नहीं हो रही है। इस योजना का उद्देश्य निम्नलिखित को छात्रवृत्ति प्रदान करना हैः-एक लाख नए छात्र जो पात्रता को पूरा करते हैं। ऐसे सभी छात्र जिन्होंने पिछले साल इस योजना के तहत छात्रवृत्ति को मंजूरी दी है और जो लगातार उच्च शिक्षा संस्थानों में अध्ययन कर रहे हैं। * * उद्देश्यः इस योजना का उद्देश्य निम्न आय वर्ग के प्रतिभाशाली छात्रों को उच्च शिक्षा प्राप्त करने के लिए वित्तीय सहायता प्रदान करना है।",
+      "benefits_md": "इस योजना के तहत, योग्य छात्रों को निम्नलिखित वित्तीय सहायता प्राप्त होगीः-छात्रों को अधिकतम 10 महीनों के लिए प्रति माह ₹500/- प्राप्त होंगे, जो सालाना कुल ₹5,000/- तक होंगे। 40 प्रतिशत या उससे अधिक की अक्षमता वाले छात्रों को 10 महीने तक प्रति माह 1,₹000/- मिलेंगे, जो सालाना अधिकतम 10,₹000/- होगा। * * नोटः इस योजना के तहत लाभ उच्च शैक्षणिक संस्थानों में पढ़ने वाले नियमित छात्रों के लिए अधिकतम 5 साल के लिए उपलब्ध हैं। यदि छात्र 5 वर्ष पूरे करने से पहले अपनी पढ़ाई बंद कर देते हैं, तो लाभ केवल पिछले वर्ष के लिए मान्य होंगे।",
+      "briefDescription": "यह योजना राजस्थान सरकार के उच्च शिक्षा विभाग द्वारा शुरू की गई थी। इस योजना का उद्देश्य शैक्षिक स्तर को बढ़ाना और कम आय वाले परिवारों के बच्चों को छात्रवृत्ति प्रदान करना है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"मुख्यमंत्री उच्च शिक्षा छात्रवृत्ति योजना\" राजस्थान सरकार के उच्च शिक्षा विभाग द्वारा शुरू की गई थी। इस योजना का उद्देश्य शैक्षिक स्तर को बढ़ाना और कम आय वाले परिवारों के बच्चों को सहायता प्रदान करना है। छात्रवृत्ति उन पहले एक लाख छात्रों को प्रदान की जाती है जिनकी वार्षिक पारिवारिक आय ₹ 2,50,000 तक है-और जिन्हें कोई अन्य छात्रवृत्ति या वित्तीय सहायता प्राप्त नहीं हो रही है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य निम्नलिखित लोगों को छात्रवृत्ति प्रदान करना हैः -",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एक लाख नए छात्र जो पात्रता को पूरा करते हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "ऐसे सभी छात्र जिन्होंने पिछले साल इस योजना के तहत छात्रवृत्ति को मंजूरी दी है और जो लगातार उच्च शिक्षा संस्थानों में अध्ययन कर रहे हैं।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उद्देश्यः",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य निम्न आय वर्ग के प्रतिभाशाली छात्रों को उच्च शिक्षा प्राप्त करने के लिए वित्तीय सहायता प्रदान करना है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, पात्र छात्रों को निम्नलिखित वित्तीय सहायता प्राप्त होगीः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्रों को अधिकतम 10 महीनों के लिए प्रति माह ₹500/- प्राप्त होंगे, जो कुल वार्षिक ₹5,000/- तक होंगे।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "40 प्रतिशत या उससे अधिक की अक्षमता वाले छात्रों को 10 महीने तक प्रति माह 1,₹000/- मिलेंगे, जो सालाना अधिकतम 10,₹000/- होगा।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ध्यान देंः",
+                  "bold": true
+                },
+                {
+                  "text": "इस योजना के तहत लाभ उच्च शैक्षणिक संस्थानों में पढ़ने वाले नियमित छात्रों के लिए अधिकतम 5 वर्षों के लिए उपलब्ध हैं। यदि छात्र 5 वर्ष पूरे करने से पहले अपनी पढ़ाई बंद कर देते हैं, तो लाभ केवल पिछले वर्ष के लिए मान्य होंगे।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "पंजीकरण प्रक्रियाः",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "उच्च तकनीकी चिकित्सा शिक्षा की आधिकारिक वेबसाइट पर जाएँः"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://hte.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": " https://hte.rajasthan.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "होमपेज पर, स्क्रीन के शीर्ष पर \"रजिस्टर/लॉगिन\" टैब पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "यदि आप एक नए उपयोगकर्ता हैं, तो चुनें \""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "children": [
+                      {
+                        "text": "पंजीकरण"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\", फिर 'नागरिक' टैब के तहत पंजीकरण के लिए एक विकल्प चुनें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "अपनी जन आधार संख्या दर्ज करके पंजीकरण प्रक्रिया को पूरा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "सफल पंजीकरण के बाद, आपको एक उपयोगकर्ता आईडी (एसएसओ आईडी) और पासवर्ड प्राप्त होगा। ये प्रमाण-पत्र आपको अपने आवेदन की स्थिति की जांच करने और भविष्य में छात्रवृत्ति के लिए आवेदन करने की अनुमति देंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "आवेदन प्रक्रियाः",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "छात्रवृत्ति के लिए आवेदन करने के लिए, उच्च तकनीकी चिकित्सा शिक्षा की आधिकारिक वेबसाइट पर फिर से जाएँः"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://hte.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://hte.rajasthan.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "होमपेज पर, स्क्रीन के शीर्ष पर \"रजिस्टर/लॉगिन\" टैब पर क्लिक करें। 'चुनें'"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "लॉगइन करें"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "', अपना उपयोगकर्ता नाम (एसएसओ आईडी), पासवर्ड और कैप्चा दर्ज करें, फिर' लॉगिन 'पर क्लिक करें"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3",
+                    "bold": true
+                  },
+                  {
+                    "text": ": एक बार लॉग इन करने के बाद, अपनी प्रोफ़ाइल को अपडेट करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "छात्रवृत्ति योजना का चयन करें, आवश्यक जानकारी भरें और ऑनलाइन छात्रवृत्ति पोर्टल पर सभी आवश्यक दस्तावेज अपलोड करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जानकारी दर्ज करने और दस्तावेज़ अपलोड करने के बाद, अपना आवेदन पत्र जमा/सहेजना सुनिश्चित करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "ऑनलाइन आवेदन प्रक्रिया को पूरा करने के लिए जन आधार कार्ड (भामाशाह कार्ड) की आवश्यकता होती है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इस छात्रवृत्ति के लिए आवेदन करने के लिए कोई शुल्क नहीं है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "संस्थान का प्रमुख ऑनलाइन आवेदन में संलग्न दस्तावेजों का मूल दस्तावेजों के साथ मिलान करके जानकारी का सत्यापन करेगा और निर्दिष्ट समय सीमा तक आवेदन को ऑनलाइन जिला नोडल अधिकारी को भेज देगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "यदि कमियों के कारण आवेदन अस्वीकार कर दिया जाता है, तो छात्र जिम्मेदार होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "सुनिश्चित करें कि छात्रवृत्ति के लिए पंजीकरण करने से पहले आपकी एसएसओ आईडी प्रोफ़ाइल को अद्यतन किया गया है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 6:",
+                    "bold": true
+                  },
+                  {
+                    "text": "छात्रों को केवल एक बार एस. एस. ओ. आई. डी. प्रोफ़ाइल और छात्रवृत्ति प्रोफ़ाइल तैयार करनी होगी, इसके आधार पर छात्र आने वाले वर्षों में एस. एस. ओ. पोर्टल के माध्यम से संचालित राज्य सरकार की छात्रवृत्ति या अन्य योजनाओं के लिए आवेदन कर सकेंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोट 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": "यदि आपका शैक्षणिक संस्थान पोर्टल पर सूचीबद्ध नहीं है, तो पोर्टल पर इसके पंजीकरण का अनुरोध करने के लिए अपने संस्थान से संपर्क करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://hte.rajasthan.gov.in/scholarship/Steps28102020.pdf",
+                    "children": [
+                      {
+                        "text": "उपयोगकर्ता नियमावली"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "पंजीकरण प्रक्रियाः * * * * चरण 1: * * उच्च तकनीकी चिकित्सा शिक्षा की आधिकारिक वेबसाइट पर जाएँः [https://hte.rajasthan.gov.in] (https://hte.rajasthan.gov.in) * * चरण 2: * * होमपेज पर, स्क्रीन के शीर्ष पर 'रजिस्टर/लॉगिन' टैब पर क्लिक करें। * * चरण 3: * * यदि आप एक नए उपयोगकर्ता हैं, तो 'नागरिक' टैब के तहत पंजीकरण के लिए एक विकल्प चुनें। * * चरण 4: * * अपनी जन आधार संख्या दर्ज करके पंजीकरण प्रक्रिया को पूरा करें। चरण 5: सफल पंजीकरण के बाद, आपको एक उपयोगकर्ता आईडी (एसएसओ आईडी) और पासवर्ड प्राप्त होगा। ये प्रमाण-पत्र आपको अपने आवेदन की स्थिति की जांच करने और भविष्य में छात्रवृत्ति के लिए आवेदन करने की अनुमति देंगे। आवेदन प्रक्रियाः * * * * चरण 1: * * छात्रवृत्ति के लिए आवेदन करने के लिए, उच्च तकनीकी चिकित्सा शिक्षा की आधिकारिक वेबसाइट पर फिर से जाएँः [https://hte.rajasthan.gov.in] (https://hte.rajasthan.gov.in) * * चरण 2: * * होमपेज पर, स्क्रीन के शीर्ष पर 'रजिस्टर/लॉगिन' टैब पर क्लिक करें। '[लॉगिन] (https://sso.rajasthan.gov.in/signin)' चुनें, अपना उपयोगकर्ता नाम (एसएसओ आईडी), पासवर्ड और कैप्चा दर्ज करें, फिर 'लॉगिन' पर क्लिक करें। * * चरण 3 * *: एक बार लॉग इन करने के बाद, अपनी प्रोफ़ाइल को अपडेट करें। चरण 4: छात्रवृत्ति योजना का चयन करें, आवश्यक जानकारी भरें और ऑनलाइन छात्रवृत्ति पोर्टल पर सभी आवश्यक दस्तावेज अपलोड करें। चरण 5: जानकारी दर्ज करने और दस्तावेज़ अपलोड करने के बाद, अपने आवेदन पत्र को जमा/सहेजना सुनिश्चित करें। नोट 1: ऑनलाइन आवेदन प्रक्रिया को पूरा करने के लिए जन आधार कार्ड (भामाशाह कार्ड) की आवश्यकता होती है। * * नोट 2: * * इस छात्रवृत्ति के लिए आवेदन करने के लिए कोई शुल्क नहीं है। नोट 3: संस्थान का प्रमुख ऑनलाइन आवेदन में संलग्न दस्तावेजों का मूल दस्तावेजों के साथ मिलान करके जानकारी का सत्यापन करेगा और निर्दिष्ट समय सीमा तक आवेदन को ऑनलाइन जिला नोडल अधिकारी को भेज देगा। * * नोट 4: * * यदि कमियों के कारण आवेदन अस्वीकार कर दिया जाता है, तो छात्र जिम्मेदार होगा। * * नोट 5: * * सुनिश्चित करें कि छात्रवृत्ति के लिए पंजीकरण करने से पहले आपकी एसएसओ आईडी प्रोफ़ाइल को अद्यतन किया गया है। * * नोट 6: * * छात्रों को केवल एक बार एस. एस. ओ. आई. डी. प्रोफ़ाइल और छात्रवृत्ति प्रोफ़ाइल तैयार करनी होगी, इसके आधार पर छात्र आने वाले वर्षों में एस. एस. ओ. पोर्टल के माध्यम से संचालित राज्य सरकार की छात्रवृत्ति या अन्य योजनाओं के लिए आवेदन कर सकेंगे। * * नोट 7: * * यदि आपका शैक्षणिक संस्थान पोर्टल पर सूचीबद्ध नहीं है, तो पोर्टल पर इसके पंजीकरण का अनुरोध करने के लिए अपने संस्थान से संपर्क करें। [उपयोगकर्ता नियमावली] (https://hte.rajasthan.gov.in/scholarship/Steps28102020.pdf)"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 15,
+          "lte": 60,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Completed",
+          "score_gte": 60,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Professional Degree",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": 250000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक एक नियमित छात्र होना चाहिए। 1. छात्र को राजस्थान में किसी सरकारी या मान्यता प्राप्त गैर-सरकारी उच्च या तकनीकी संस्थान में पढ़ रहा होना चाहिए। 1. छात्रों को वर्तमान वर्ष में राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से न्यूनतम 60 प्रतिशत अंकों के साथ 12वीं की परीक्षा उत्तीर्ण करनी चाहिए और बोर्ड की योग्यता सूची में शीर्ष एक लाख के भीतर एक स्थान हासिल करना चाहिए। 1. विकलांग छात्रों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए। 1. आवेदक के माता-पिता या अभिभावकों की कुल वार्षिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए। 1. छात्र को भारत सरकार या राज्य सरकार द्वारा प्रदान की गई किसी अन्य छात्रवृत्ति या समकक्ष योजना से लाभ प्राप्त नहीं होना चाहिए। 1. छात्र का राष्ट्रीयकृत बैंक में बचत खाता होना चाहिए। 1. आवेदक के पास वैध आधार कार्ड होना चाहिए। 1. छात्र के पास जन आधार कार्ड (भामाशाह कार्ड) होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": 0,
+        "lte": 250000
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक एक नियमित छात्र होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्र को राजस्थान में किसी सरकारी या मान्यता प्राप्त गैर-सरकारी उच्च या तकनीकी संस्थान में पढ़ रहा होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्रों को चालू वर्ष में राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से न्यूनतम 60 प्रतिशत अंकों के साथ 12वीं की परीक्षा उत्तीर्ण करनी चाहिए और बोर्ड की योग्यता सूची में शीर्ष एक लाख के भीतर स्थान प्राप्त करना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "विकलांग छात्रों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक के माता-पिता या अभिभावकों की कुल वार्षिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्र को भारत सरकार या राज्य सरकार द्वारा प्रदान की गई किसी अन्य छात्रवृत्ति या समकक्ष योजना से लाभ प्राप्त नहीं होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्र का राष्ट्रीयकृत बैंक में बचत खाता होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक के पास वैध आधार कार्ड होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "छात्र के पास जन आधार कार्ड (भामाशाह कार्ड) होना चाहिए।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 15,
+        "lte": 60,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Completed",
+        "score_gte": 60,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Professional Degree",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": 250000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक एक नियमित छात्र होना चाहिए। 1. छात्र को राजस्थान में किसी सरकारी या मान्यता प्राप्त गैर-सरकारी उच्च या तकनीकी संस्थान में पढ़ रहा होना चाहिए। 1. छात्रों को वर्तमान वर्ष में राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से न्यूनतम 60 प्रतिशत अंकों के साथ 12वीं की परीक्षा उत्तीर्ण करनी चाहिए और बोर्ड की योग्यता सूची में शीर्ष एक लाख के भीतर एक स्थान हासिल करना चाहिए। 1. विकलांग छात्रों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए। 1. आवेदक के माता-पिता या अभिभावकों की कुल वार्षिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए। 1. छात्र को भारत सरकार या राज्य सरकार द्वारा प्रदान की गई किसी अन्य छात्रवृत्ति या समकक्ष योजना से लाभ प्राप्त नहीं होना चाहिए। 1. छात्र का राष्ट्रीयकृत बैंक में बचत खाता होना चाहिए। 1. आवेदक के पास वैध आधार कार्ड होना चाहिए। 1. छात्र के पास जन आधार कार्ड (भामाशाह कार्ड) होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": 0,
+      "lte": 250000
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक एक नियमित छात्र होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र को राजस्थान में किसी सरकारी या मान्यता प्राप्त गैर-सरकारी उच्च या तकनीकी संस्थान में पढ़ रहा होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्रों को चालू वर्ष में राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से न्यूनतम 60 प्रतिशत अंकों के साथ 12वीं की परीक्षा उत्तीर्ण करनी चाहिए और बोर्ड की योग्यता सूची में शीर्ष एक लाख के भीतर स्थान प्राप्त करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "विकलांग छात्रों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक के माता-पिता या अभिभावकों की कुल वार्षिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र को भारत सरकार या राज्य सरकार द्वारा प्रदान की गई किसी अन्य छात्रवृत्ति या समकक्ष योजना से लाभ प्राप्त नहीं होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र का राष्ट्रीयकृत बैंक में बचत खाता होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक के पास वैध आधार कार्ड होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "छात्र के पास जन आधार कार्ड (भामाशाह कार्ड) होना चाहिए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Aadhaar number or Aadhaar registration number"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Passport-size photograph"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Receipt with Jan Aadhaar ID or Jan Aadhaar registration number"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Domicile certificate of Rajasthan"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Proof of age"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Education qualification certificates"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Residence Proof"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Income Certificate"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Disability certificate (In case of disabled student) issued by the Medical Board constituted by the Medical Department."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Bank passbook/Bank account details"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any other documents as required"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Aadhaar number or Aadhaar registration number\n   1. Passport-size photograph\n   1. Receipt with Jan Aadhaar ID or Jan Aadhaar registration number\n   1. Domicile certificate of Rajasthan\n   1. Proof of age\n   1. Education qualification certificates\n   1. Residence Proof\n   1. Income Certificate\n   1. Disability certificate (In case of disabled student) issued by the Medical Board constituted by the Medical Department.\n   1. Bank passbook/Bank account details\n   1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आधार संख्या या आधार पंजीकरण संख्या"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पासपोर्ट आकार की तस्वीर"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "जन आधार आईडी या जन आधार पंजीकरण संख्या के साथ रसीद"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "राजस्थान का अधिवास प्रमाण पत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उम्र का प्रमाण"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "शिक्षा योग्यता प्रमाण पत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "निवास प्रमाण"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आय प्रमाणपत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "चिकित्सा विभाग द्वारा गठित चिकित्सा बोर्ड द्वारा जारी विकलांग प्रमाण पत्र (विकलांग छात्र के मामले में)।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बैंक पासबुक/बैंक खाते का विवरण"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Aadhaar number or Aadhaar registration number\n   1. Passport-size photograph\n   1. Receipt with Jan Aadhaar ID or Jan Aadhaar registration number\n   1. Domicile certificate of Rajasthan\n   1. Proof of age\n   1. Education qualification certificates\n   1. Residence Proof\n   1. Income Certificate\n   1. Disability certificate (In case of disabled student) issued by the Medical Board constituted by the Medical Department.\n   1. Bank passbook/Bank account details\n   1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students who are natives of Rajasthan, passed their 12th examination with at least 60% marks, are within the top one lakh of the merit list, have an annual family income of up to ₹2,50,000/-, and are not receiving any other scholarship."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students who are natives of Rajasthan, passed their 12th examination with at least 60% marks, are within the top one lakh of the merit list, have an annual family income of up to [?]2,50,000/-, and are not receiving any other scholarship.\n"
+        },
+        {
+          "question": "How much financial assistance is provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eligible students receive ₹500 per month for up to 10 months, totaling ₹5,000 annually. Students with disabilities receive ₹1,000 per month for up to 10 months, totaling ₹10,000 annually."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible students receive [?]500 per month for up to 10 months, totaling [?]5,000 annually. Students with disabilities receive [?]1,000 per month for up to 10 months, totaling [?]10,000 annually.\n"
+        },
+        {
+          "question": "Is there a maximum duration for receiving the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the scholarship is available for a maximum of 5 years for regular students in higher educational institutions. If a student discontinues their studies before 5 years, benefits will be valid only for the previous year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the scholarship is available for a maximum of 5 years for regular students in higher educational institutions. If a student discontinues their studies before 5 years, benefits will be valid only for the previous year.\n"
+        },
+        {
+          "question": "What are the eligibility criteria for disabled students?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Disabled students must have a disability of 40% or more."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Disabled students must have a disability of 40% or more.\n"
+        },
+        {
+          "question": "Can students who are already receiving other scholarships apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, students who are receiving benefits from other scholarships or financial assistance schemes are not eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students who are receiving benefits from other scholarships or financial assistance schemes are not eligible.\n"
+        },
+        {
+          "question": "How can students apply for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students need to visit the Rajasthan Single Sign On Portal: https://sso.rajasthan.gov.in/."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students need to visit the Rajasthan Single Sign On Portal: https://sso.rajasthan.gov.in/.\n"
+        },
+        {
+          "question": "Is there any fee for applying for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no fee to apply for the scholarship."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no fee to apply for the scholarship.\n"
+        },
+        {
+          "question": "Do students need to have a Jan Aadhaar Card (Bhamashah Card) to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, a Jan Aadhaar Card (Bhamashah Card) is required to complete the online application process."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, a Jan Aadhaar Card (Bhamashah Card) is required to complete the online application process.\n"
+        },
+        {
+          "question": "What should students do if their educational institution is not listed on the SSO Portal?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students should contact their institution to request its registration on the portal."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students should contact their institution to request its registration on the portal.\n"
+        },
+        {
+          "question": "How will the application be verified?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The head of the institution will verify the information by matching the documents attached in the online application with the originals and forward the application to the district nodal officer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The head of the institution will verify the information by matching the documents attached in the online application with the originals and forward the application to the district nodal officer.\n"
+        },
+        {
+          "question": "What happens if there are deficiencies in the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "If the application is rejected due to deficiencies, the student will be responsible for addressing the issues."
+                }
+              ]
+            }
+          ],
+          "answer_md": "If the application is rejected due to deficiencies, the student will be responsible for addressing the issues.\n"
+        },
+        {
+          "question": "Can students apply for the scholarship if they are studying outside Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scholarship is only available for students studying in government or recognized non-government higher or technical institutions within Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scholarship is only available for students studying in government or recognized non-government higher or technical institutions within Rajasthan.\n"
+        },
+        {
+          "question": "Are there any restrictions on the type of higher education institutions?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, students must be enrolled in government or recognized non-government higher or technical institutions in Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students must be enrolled in government or recognized non-government higher or technical institutions in Rajasthan.\n"
+        },
+        {
+          "question": "Can students from other states apply for this scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only students who are natives of Rajasthan are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students who are natives of Rajasthan are eligible.\n"
+        },
+        {
+          "question": "How can students check the status of their application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students can check the status of their application on the Rajasthan Single Sign On Portal. https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students can check the status of their application on the Rajasthan Single Sign On Portal. https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ऐसे छात्र जो राजस्थान के मूल निवासी हैं, कम से कम 60 प्रतिशत अंकों के साथ अपनी 12वीं की परीक्षा उत्तीर्ण कर चुके हैं, योग्यता सूची के शीर्ष एक लाख के भीतर हैं, जिनकी वार्षिक पारिवारिक आय ₹ 2,50,000 तक है, और उन्हें कोई अन्य छात्रवृत्ति नहीं मिल रही है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students who are natives of Rajasthan, passed their 12th examination with at least 60% marks, are within the top one lakh of the merit list, have an annual family income of up to [?]2,50,000/-, and are not receiving any other scholarship.\n"
+        },
+        {
+          "question": "इस योजना के तहत कितनी वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्य छात्रों को 10 महीने तक प्रति माह 500 रुपये मिलते हैं, जो सालाना कुल 5,000 रुपये होते हैं। विकलांग छात्रों को 10 महीने तक प्रति माह 1,000 रुपये मिलते हैं, जो सालाना कुल 10,000 रुपये होते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible students receive [?]500 per month for up to 10 months, totaling [?]5,000 annually. Students with disabilities receive [?]1,000 per month for up to 10 months, totaling [?]10,000 annually.\n"
+        },
+        {
+          "question": "क्या छात्रवृत्ति प्राप्त करने के लिए अधिकतम अवधि है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, छात्रवृत्ति उच्च शैक्षणिक संस्थानों में नियमित छात्रों के लिए अधिकतम 5 वर्षों के लिए उपलब्ध है। यदि कोई छात्र 5 साल से पहले अपनी पढ़ाई बंद कर देता है, तो लाभ केवल पिछले वर्ष के लिए मान्य होंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the scholarship is available for a maximum of 5 years for regular students in higher educational institutions. If a student discontinues their studies before 5 years, benefits will be valid only for the previous year.\n"
+        },
+        {
+          "question": "विकलांग छात्रों के लिए पात्रता मानदंड क्या हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विकलांग छात्रों की अक्षमता 40 प्रतिशत या उससे अधिक होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Disabled students must have a disability of 40% or more.\n"
+        },
+        {
+          "question": "जो छात्र पहले से ही अन्य छात्रवृत्ति प्राप्त कर रहे हैं, क्या वे इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, जो छात्र अन्य छात्रवृत्ति या वित्तीय सहायता योजनाओं से लाभ प्राप्त कर रहे हैं, वे पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students who are receiving benefits from other scholarships or financial assistance schemes are not eligible.\n"
+        },
+        {
+          "question": "छात्र छात्रवृत्ति के लिए कैसे आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रों को पोर्टल पर राजस्थान सिंगल साइनः https://sso.rajasthan.gov.in पर जाना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students need to visit the Rajasthan Single Sign On Portal: https://sso.rajasthan.gov.in/.\n"
+        },
+        {
+          "question": "क्या छात्रवृत्ति के लिए आवेदन करने के लिए कोई शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, छात्रवृत्ति के लिए आवेदन करने के लिए कोई शुल्क नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no fee to apply for the scholarship.\n"
+        },
+        {
+          "question": "क्या छात्रों को आवेदन करने के लिए जन आधार कार्ड (भामाशाह कार्ड) की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, ऑनलाइन आवेदन प्रक्रिया को पूरा करने के लिए जन आधार कार्ड (भामाशाह कार्ड) की आवश्यकता होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, a Jan Aadhaar Card (Bhamashah Card) is required to complete the online application process.\n"
+        },
+        {
+          "question": "यदि उनका शैक्षणिक संस्थान एसएसओ पोर्टल पर सूचीबद्ध नहीं है तो छात्रों को क्या करना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पोर्टल पर पंजीकरण का अनुरोध करने के लिए छात्रों को अपने संस्थान से संपर्क करना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students should contact their institution to request its registration on the portal.\n"
+        },
+        {
+          "question": "आवेदन का सत्यापन कैसे किया जाएगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संस्थान का प्रमुख ऑनलाइन आवेदन में संलग्न दस्तावेजों का मूल दस्तावेजों के साथ मिलान करके जानकारी का सत्यापन करेगा और आवेदन को जिला नोडल अधिकारी को भेजेगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The head of the institution will verify the information by matching the documents attached in the online application with the originals and forward the application to the district nodal officer.\n"
+        },
+        {
+          "question": "आवेदन में कमियां होने पर क्या होता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यदि कमियों के कारण आवेदन अस्वीकार कर दिया जाता है, तो छात्र मुद्दों को संबोधित करने के लिए जिम्मेदार होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "If the application is rejected due to deficiencies, the student will be responsible for addressing the issues.\n"
+        },
+        {
+          "question": "यदि छात्र राजस्थान से बाहर पढ़ रहे हैं तो क्या छात्र छात्रवृत्ति के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, छात्रवृत्ति केवल राजस्थान के भीतर सरकारी या मान्यता प्राप्त गैर-सरकारी उच्च या तकनीकी संस्थानों में पढ़ने वाले छात्रों के लिए उपलब्ध है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scholarship is only available for students studying in government or recognized non-government higher or technical institutions within Rajasthan.\n"
+        },
+        {
+          "question": "क्या उच्च शिक्षा संस्थानों के प्रकार पर कोई प्रतिबंध हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, छात्रों को राजस्थान में सरकारी या मान्यता प्राप्त गैर-सरकारी उच्च या तकनीकी संस्थानों में नामांकित होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students must be enrolled in government or recognized non-government higher or technical institutions in Rajasthan.\n"
+        },
+        {
+          "question": "क्या अन्य राज्यों के छात्र इस छात्रवृत्ति के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल वे छात्र पात्र हैं जो राजस्थान के मूल निवासी हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students who are natives of Rajasthan are eligible.\n"
+        },
+        {
+          "question": "छात्र अपने आवेदन की स्थिति की जांच कैसे कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्र राजस्थान सिंगल साइन ऑन पोर्टल पर अपने आवेदन की स्थिति देख सकते हैं। //एस. एस. ओ. राजस्थान. जी. वी. इन/साइन इन"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students can check the status of their application on the Rajasthan Single Sign On Portal. https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    }
+  }
+}

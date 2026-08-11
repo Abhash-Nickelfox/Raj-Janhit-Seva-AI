@@ -1,0 +1,1280 @@
+{
+  "scheme_id": "682a2a9d6e3fd3b163f1f865",
+  "slug": "osh",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Hostel",
+        "Scheduled Tribe",
+        "Sports Training",
+        "Sports",
+        "Tribal Students"
+      ],
+      "schemeName": "Operation of Sports Hostels",
+      "schemeShortTitle": "OSH",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce8aad6d1a3bde4685320",
+          "label": "Sports & Culture"
+        },
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Sports",
+          "label": "Sports"
+        },
+        {
+          "value": "Hostel service",
+          "label": "Hostel service"
+        },
+        {
+          "value": "Housing",
+          "label": "Housing"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://tad.rajasthan.gov.in/scheme/detail/535"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Operation of Sports Hostels&amp;quot; was introduced by the Tribal Area Development Department, Government of Rajasthan. It aims to encourage tribal students in Scheduled Areas to participate in sports and prepare them for national and international competitions. Under this scheme, tribal students from Class 6 to 12 are provided with free residential facilities, training in archery and athletics by skilled coaches, nutritious meals, uniforms, and modern sports equipment. The scheme is implemented in the following District:\tBanswara, Dungarpur, Sirohi, Udaipur &amp;amp; Pratapgarh.\n",
+      "benefits_md": "The following facilities are provided in the sports hostel:\n\n- Free residential accommodation in sports hostels.\n- Nutritious meals, snacks, and special dietary arrangements as per approved pattern.\n- Sports training with modern equipment by expert coaches (especially in archery and athletics).\n- Free school uniforms and educational materials.\n\n",
+      "briefDescription": "The scheme aims to encourage tribal students to participate in sports and prepare them for national & international competitions. Tribal students from Classes 6 to 12 are provided with free accommodation, specialized training, nutritious meals & other necessary facilities in the sports hostels.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Operation of Sports Hostels\" was introduced by the Tribal Area Development Department, Government of Rajasthan. It aims to encourage tribal students in Scheduled Areas to participate in sports and prepare them for national and international competitions. Under this scheme, tribal students from Class 6 to 12 are provided with free residential facilities, training in archery and athletics by skilled coaches, nutritious meals, uniforms, and modern sports equipment. The scheme is implemented in the following District:\tBanswara, Dungarpur, Sirohi, Udaipur & Pratapgarh."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following facilities are provided in the sports hostel:"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free residential accommodation in sports hostels."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Nutritious meals, snacks, and special dietary arrangements as per approved pattern."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sports training with modern equipment by expert coaches (especially in archery and athletics)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free school uniforms and educational materials."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Keep the acknowledgment receipt for future reference."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Keep the acknowledgment receipt for future reference.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Rajasthan.\n1. The applicant should belong to the Scheduled Tribe community.\n1. The applicant should be studying in class 6th to 12th.1. The applicant should not have any disability or suffering from any serious illness.\n1. The applicant’s parents/guardians should not be income tax payers.\n1. The applicant should not be a failed student in the last examination.\n\n**Note:** Only those students who pass the selection test will be admitted to the sports hostel.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to the Scheduled Tribe community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying in class 6"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " to 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not have any disability or suffering from any serious illness."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s parents/guardians should not be income tax payers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be a failed student in the last examination."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note: ",
+              "bold": true
+            },
+            {
+              "text": "Only those students who pass the selection test will be admitted to the sports hostel."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "छात्रावास",
+        "अनुसूचित जनजाति",
+        "खेल प्रशिक्षण",
+        "खेलकूद",
+        "जनजातीय छात्र"
+      ],
+      "schemeName": "खेल छात्रावासों का संचालन",
+      "schemeShortTitle": "OSH",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce8aad6d1a3bde4685320",
+          "label": "Sports & Culture"
+        },
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Sports",
+          "label": "खेलकूद"
+        },
+        {
+          "value": "Hostel service",
+          "label": "छात्रावास सेवा"
+        },
+        {
+          "value": "Housing",
+          "label": "आवास"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://tad.rajasthan.gov.in/scheme/detail/535"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "खेल छात्रावासों के संचालन की योजना राजस्थान सरकार के जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई थी। इसका उद्देश्य अनुसूचित क्षेत्रों में जनजातीय छात्रों को खेलों में भाग लेने और उन्हें राष्ट्रीय और अंतर्राष्ट्रीय प्रतियोगिताओं के लिए तैयार करने के लिए प्रोत्साहित करना है। इस योजना के तहत, कक्षा 6 से 12 तक के आदिवासी छात्रों को मुफ्त आवासीय सुविधाएं, कुशल प्रशिक्षकों द्वारा तीरंदाजी और एथलेटिक्स में प्रशिक्षण, पौष्टिक भोजन, वर्दी और आधुनिक खेल उपकरण प्रदान किए जाते हैं। यह योजना निम्नलिखित जिलों में लागू की गई हैः बांसवाड़ा, डूंगरपुर, सिरोही, उदयपुर और प्रतापगढ़।",
+      "benefits_md": "खेल छात्रावास में निम्नलिखित सुविधाएं प्रदान की जाती हैंः - खेल छात्रावासों में मुफ्त आवासीय आवास.-अनुमोदित पैटर्न के अनुसार पौष्टिक भोजन, नाश्ते और विशेष आहार की व्यवस्था.-विशेषज्ञ प्रशिक्षकों द्वारा आधुनिक उपकरणों के साथ खेल प्रशिक्षण (विशेष रूप से तीरंदाजी और एथलेटिक्स में).-मुफ्त स्कूल की वर्दी और शैक्षिक सामग्री।",
+      "briefDescription": "इस योजना का उद्देश्य जनजातीय छात्रों को खेलों में भाग लेने के लिए प्रोत्साहित करना और उन्हें राष्ट्रीय और अंतर्राष्ट्रीय प्रतियोगिताओं के लिए तैयार करना है। कक्षा 6 से 12 तक के जनजातीय छात्रों को खेल छात्रावासों में मुफ्त आवास, विशेष प्रशिक्षण, पौष्टिक भोजन और अन्य आवश्यक सुविधाएं प्रदान की जाती हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"खेल छात्रावासों का संचालन\" योजना राजस्थान सरकार के जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई थी। इसका उद्देश्य अनुसूचित क्षेत्रों में जनजातीय छात्रों को खेलों में भाग लेने और उन्हें राष्ट्रीय और अंतर्राष्ट्रीय प्रतियोगिताओं के लिए तैयार करने के लिए प्रोत्साहित करना है। इस योजना के तहत, कक्षा 6 से 12 तक के आदिवासी छात्रों को मुफ्त आवासीय सुविधाएं, कुशल प्रशिक्षकों द्वारा तीरंदाजी और एथलेटिक्स में प्रशिक्षण, पौष्टिक भोजन, वर्दी और आधुनिक खेल उपकरण प्रदान किए जाते हैं। यह योजना निम्नलिखित जिलों में लागू की गई हैः बांसवाड़ा, डूंगरपुर, सिरोही, उदयपुर और प्रतापगढ़।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "खेल छात्रावास में निम्नलिखित सुविधाएं प्रदान की जाती हैंः"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "खेल छात्रावासों में निःशुल्क आवासीय आवास।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुमोदित पद्धति के अनुसार पौष्टिक भोजन, अल्पाहार और विशेष आहार व्यवस्था।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विशेषज्ञ प्रशिक्षकों द्वारा आधुनिक उपकरणों के साथ खेल प्रशिक्षण (विशेष रूप से तीरंदाजी और एथलेटिक्स में)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मुफ्त स्कूल की वर्दी और शैक्षिक सामग्री।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "भविष्य के संदर्भ के लिए पावती रसीद अपने पास रखें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए। चरण 2: आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए। चरण 3: आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है। * * चरण 4: * * भविष्य के संदर्भ के लिए पावती रसीद अपने पास रखें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "st",
+          "gte": 9,
+          "lte": 21
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Middle (6-8)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक अनुसूचित जनजाति समुदाय से होना चाहिए। 1. आवेदक को कक्षा 6वीं से 12वीं में पढ़ रहा होना चाहिए। आवेदक को कोई विकलांगता या किसी गंभीर बीमारी से पीड़ित नहीं होना चाहिए। 1. आवेदक के माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए। 1. आवेदक पिछली परीक्षा में असफल छात्र नहीं होना चाहिए। * * नोटः चयन परीक्षा उत्तीर्ण करने वाले छात्रों को ही खेल छात्रावास में प्रवेश दिया जाएगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक अनुसूचित जनजाति समुदाय से होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक कक्षा 6 में पढ़ रहा होना चाहिए"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "12 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को कोई विकलांगता या किसी गंभीर बीमारी से पीड़ित नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक पिछली परीक्षा में असफल छात्र नहीं होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "चयन परीक्षा उत्तीर्ण करने वाले छात्रों को ही खेल छात्रावास में प्रवेश दिया जाएगा।"
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "value": "never-married",
+          "label": "Never Married"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "st",
+        "gte": 9,
+        "lte": 21
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Middle (6-8)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक अनुसूचित जनजाति समुदाय से होना चाहिए। 1. आवेदक को कक्षा 6वीं से 12वीं में पढ़ रहा होना चाहिए। आवेदक को कोई विकलांगता या किसी गंभीर बीमारी से पीड़ित नहीं होना चाहिए। 1. आवेदक के माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए। 1. आवेदक पिछली परीक्षा में असफल छात्र नहीं होना चाहिए। * * नोटः चयन परीक्षा उत्तीर्ण करने वाले छात्रों को ही खेल छात्रावास में प्रवेश दिया जाएगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक अनुसूचित जनजाति समुदाय से होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक कक्षा 6 में पढ़ रहा होना चाहिए"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "12 तक"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को कोई विकलांगता या किसी गंभीर बीमारी से पीड़ित नहीं होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के माता-पिता/अभिभावक आयकर दाता नहीं होने चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक पिछली परीक्षा में असफल छात्र नहीं होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "ध्यान देंः",
+            "bold": true
+          },
+          {
+            "text": "चयन परीक्षा उत्तीर्ण करने वाले छात्रों को ही खेल छात्रावास में प्रवेश दिया जाएगा।"
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "value": "never-married",
+        "label": "Never Married"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet/Certificate Copy (Last Class Marksheet)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste/Tribe Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card Copy\n1. Jan Aadhar/Bhamashah Card Copy\n1. Education Qualification Marksheet/Certificate Copy (Last Class Marksheet)\n1. Caste/Tribe Certificate\n1. Income Certificate\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रति (अंतिम श्रेणी मार्कशीट)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति/जनजाति प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card Copy\n1. Jan Aadhar/Bhamashah Card Copy\n1. Education Qualification Marksheet/Certificate Copy (Last Class Marksheet)\n1. Caste/Tribe Certificate\n1. Income Certificate\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ST students from Rajasthan studying in classes 6"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " to 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ],
+          "answer_md": "ST students from Rajasthan studying in classes 6th to 12th.\n"
+        },
+        {
+          "question": "Is there a selection test?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, selection is based on battery tests and skill evaluations."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, selection is based on battery tests and skill evaluations.\n"
+        },
+        {
+          "question": "What benefits are provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Free stay, food, uniforms, education materials, and expert sports training."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Free stay, food, uniforms, education materials, and expert sports training.\n"
+        },
+        {
+          "question": "Where are the hostels located?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In Banswara, Dungarpur, Sirohi, Udaipur, and Pratapgarh."
+                }
+              ]
+            }
+          ],
+          "answer_md": "In Banswara, Dungarpur, Sirohi, Udaipur, and Pratapgarh.\n"
+        },
+        {
+          "question": "What sports are trained?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Archery and athletics."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Archery and athletics.\n"
+        },
+        {
+          "question": "What if a student fails a class?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Failed students are not eligible for admission."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Failed students are not eligible for admission.\n"
+        },
+        {
+          "question": "Are students with disabilities eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, students must be physically fit and not suffering from any disease."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students must be physically fit and not suffering from any disease.\n"
+        },
+        {
+          "question": "How is the application submitted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Online via e-Mitra or the official website."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Online via e-Mitra or the official website.\n"
+        },
+        {
+          "question": "Is there any application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, applying is free of cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applying is free of cost.\n"
+        },
+        {
+          "question": "What documents are needed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Aadhar, Jan Aadhar/Bhamashah, marksheet, and income certificate."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Aadhar, Jan Aadhar/Bhamashah, marksheet, and income certificate.\n"
+        },
+        {
+          "question": "Who implements the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Tribal Area Development Department of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Tribal Area Development Department of Rajasthan.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के अनुसूचित जनजाति के छात्र जो कक्षा 6 में पढ़ रहे हैं"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "12 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ],
+          "answer_md": "ST students from Rajasthan studying in classes 6th to 12th.\n"
+        },
+        {
+          "question": "क्या कोई चयन परीक्षा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, चयन बैटरी परीक्षण और कौशल मूल्यांकन पर आधारित है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, selection is based on battery tests and skill evaluations.\n"
+        },
+        {
+          "question": "कौन से लाभ प्रदान किए जाते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निःशुल्क ठहराव, भोजन, वर्दी, शिक्षा सामग्री और विशेषज्ञ खेल प्रशिक्षण।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Free stay, food, uniforms, education materials, and expert sports training.\n"
+        },
+        {
+          "question": "छात्रावास कहाँ स्थित हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बांसवाड़ा, डूंगरपुर, सिरोही, उदयपुर और प्रतापगढ़ में।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In Banswara, Dungarpur, Sirohi, Udaipur, and Pratapgarh.\n"
+        },
+        {
+          "question": "किन खेलों को प्रशिक्षित किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "तीरंदाजी और एथलेटिक्स।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Archery and athletics.\n"
+        },
+        {
+          "question": "अगर कोई छात्र कक्षा में फेल हो जाता है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "असफल छात्र प्रवेश के लिए पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Failed students are not eligible for admission.\n"
+        },
+        {
+          "question": "क्या विकलांग छात्र पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, छात्रों को शारीरिक रूप से स्वस्थ होना चाहिए और किसी भी बीमारी से पीड़ित नहीं होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students must be physically fit and not suffering from any disease.\n"
+        },
+        {
+          "question": "आवेदन कैसे जमा किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ई-मित्रा या आधिकारिक वेबसाइट के माध्यम से ऑनलाइन।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Online via e-Mitra or the official website.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applying is free of cost.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आधार, जन आधार/भामाशाह, अंकपत्र और आय प्रमाण पत्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Aadhar, Jan Aadhar/Bhamashah, marksheet, and income certificate.\n"
+        },
+        {
+          "question": "इस योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान का जनजातीय क्षेत्र विकास विभाग।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Tribal Area Development Department of Rajasthan.\n"
+        }
+      ]
+    }
+  }
+}

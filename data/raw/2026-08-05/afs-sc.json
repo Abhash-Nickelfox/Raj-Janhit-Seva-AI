@@ -1,0 +1,1936 @@
+{
+  "scheme_id": "67b0544d0cc99d069d336c01",
+  "slug": "afs-sc",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Student",
+        "Fellowship",
+        "PhD",
+        "Scheduled Caste",
+        "SC"
+      ],
+      "schemeName": "Ambedkar Fellowship Scheme",
+      "schemeShortTitle": "AFS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": "2017-03-28",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=1165"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Ambedkar Fellowship Scheme&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, with the objective of providing financial assistance to meritorious students from the Scheduled Caste category for research at the Ph.D. level. In the first phase, six students will benefit annually from the scheme. Under this scheme, selected students will receive a monthly fellowship grant to support their research in specific subjects, including Sociology, Public Administration, Law, Economics, Political Science, and Anthropology.\n<br>\n\n",
+      "benefits_md": "***Financial Assistance:***\n\n- Selected Ph.D. candidates receive a monthly fellowship of ₹15,000 for up to three years.\n\n***Mode of Disbursement:***\n\n- The fellowship amount is directly transferred to the student&#39;s bank account by cheque or DD.\n\n**Duration*****:***\n\n- The fellowship continues for a maximum duration of 3 years, subject to satisfactory academic progress.\n\n",
+      "exclusions_md": "\n1. The applicant should not be receiving any other fellowship or financial assistance from another department or institution.\n1. Part-time Ph.D. students are not eligible for this fellowship.\n\n",
+      "briefDescription": "The objective of this scheme is to provide financial assistance to meritorious students from the Scheduled Caste category for research at the Ph.D. level. The selected students receive a monthly fellowship grant to support their research in specific subjects.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Ambedkar Fellowship Scheme\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, with the objective of providing financial assistance to meritorious students from the Scheduled Caste category for research at the Ph.D. level. In the first phase, six students will benefit annually from the scheme. Under this scheme, selected students will receive a monthly fellowship grant to support their research in specific subjects, including Sociology, Public Administration, Law, Economics, Political Science, and Anthropology."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Selected Ph.D. candidates receive a monthly fellowship of ₹15,000 for up to three years."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fellowship amount is directly transferred to the student's bank account by cheque or DD."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Duration",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "bold": true,
+              "underline": true,
+              "italic": true,
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fellowship continues for a maximum duration of 3 years, subject to satisfactory academic progress."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be receiving any other fellowship or financial assistance from another department or institution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Part-time Ph.D. students are not eligible for this fellowship."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Fill Out the Application Form",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must fill out the prescribed application form released by the Rajasthan Government."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Ensure that all personal, educational, and bank details are correctly entered."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Submit the Application",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The completed application form along with the required documents must be sent to: Secretary, Ambedkar Peeth, Moondla, Jamwaramgarh, Jaipur (Email ID: secretaryapj@gmail.com)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Scrutiny of Applications",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "A Scrutiny Committee will review the received applications to verify eligibility and completeness."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The committee includes officials from the Social Justice and Empowerment Department."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Selection by State-Level Approval Committee",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The State-Level Approval Committee will select up to 6 students per year based on merit and eligibility."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Annual Review and Renewal",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The student must submit an annual progress report to continue receiving the fellowship."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If a student discontinues or misuses the fellowship, they may have to repay the amount with 10% interest."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE: ",
+                "bold": true
+              },
+              {
+                "text": "The application must be submitted within one month from the date of advertisement."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1: Fill Out the Application Form**\n\n- The applicant must fill out the prescribed application form released by the Rajasthan Government.\n- Ensure that all personal, educational, and bank details are correctly entered.\n\n**Step 2: Submit the Application**\n\n- The completed application form along with the required documents must be sent to: Secretary, Ambedkar Peeth, Moondla, Jamwaramgarh, Jaipur (Email ID: secretaryapj@gmail.com)\n\n**Step 3: Scrutiny of Applications**\n\n- A Scrutiny Committee will review the received applications to verify eligibility and completeness.\n- The committee includes officials from the Social Justice and Empowerment Department.\n\n**Step 4: Selection by State-Level Approval Committee**\n\n- The State-Level Approval Committee will select up to 6 students per year based on merit and eligibility.\n\n**Step 5: Annual Review and Renewal**\n\n- The student must submit an annual progress report to continue receiving the fellowship.\n- If a student discontinues or misuses the fellowship, they may have to repay the amount with 10% interest.\n\n**NOTE:** The application must be submitted within one month from the date of advertisement.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should belong to the Scheduled Caste (SC) category.\n1. The applicant should have completed a postgraduate degree with at least 55% marks.\n1. The applicant should be below 35 years of age at the time of application.\n1. The applicant&#39;s annual family income should not exceed ₹2,50,000/- from all sources.\n1. Priority is given to candidates enrolled in central or state government universities in Rajasthan.\n1. A maximum of two children from a single family (parents/guardians) can apply under the scheme.\n1. The applicant should have secured admission in a Ph.D. program in a recognized university in Rajasthan in one of the following subjects:\n\n\n- Sociology\n- Public Administration\n- Law\n- Economics\n- Political Science\n- Anthropology\n\n***Other terms &amp; conditions:***\n\n   1. The selected candidate will have to submit a certificate regarding admission from the Head of the concerned University or Institute in which he/she is pursuing Ph.D.\n   1. Candidates selected for Ph.D. will have to submit certificate regarding attendance as prescribed by University Grants Commission (UGC).\n   1. Every year a progress report of the research work done by the student will be submitted to the department and after completion of the research work a copy will be made available to the department also.\n   1. In case the amount received as fellowship is misused by the student, the amount paid along with 10% interest will be recovered from the concerned student. The student will have to submit an undertaking to this effect on a non-judicial stamp of ₹100/-.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to the Scheduled Caste (SC) category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have completed a postgraduate degree with at least 55% marks."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be below 35 years of age at the time of application."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's annual family income should not exceed ₹2,50,000/- from all sources."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Priority is given to candidates enrolled in central or state government universities in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A maximum of two children from a single family (parents/guardians) can apply under the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have secured admission in a Ph.D. program in a recognized university in Rajasthan in one of the following subjects:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sociology"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Public Administration"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Law"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Economics"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Political Science"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Anthropology"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Other terms & conditions:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The selected candidate will have to submit a certificate regarding admission from the Head of the concerned University or Institute in which he/she is pursuing Ph.D."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Candidates selected for Ph.D. will have to submit certificate regarding attendance as prescribed by University Grants Commission (UGC)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Every year a progress report of the research work done by the student will be submitted to the department and after completion of the research work a copy will be made available to the department also."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In case the amount received as fellowship is misused by the student, the amount paid along with 10% interest will be recovered from the concerned student. The student will have to submit an undertaking to this effect on a non-judicial stamp of ₹100/-."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "विद्यार्थी",
+        "फेलोशिप",
+        "पीएचडी",
+        "अनुसूचित जाति",
+        "एससी"
+      ],
+      "schemeName": "अम्बेडकर अध्येतावृत्ति योजना",
+      "schemeShortTitle": "AFS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": "2017-03-28",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=1165"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "अम्बेडकर अध्येतावृत्ति योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा अनुसूचित जाति श्रेणी के मेधावी छात्रों को पीएचडी स्तर पर अनुसंधान के लिए वित्तीय सहायता प्रदान करने के उद्देश्य से शुरू की गई थी। पहले चरण में छह छात्र सालाना इस योजना से लाभान्वित होंगे। इस योजना के तहत, चयनित छात्रों को समाजशास्त्र, लोक प्रशासन, कानून, अर्थशास्त्र, राजनीति विज्ञान और मानव विज्ञान सहित विशिष्ट विषयों में अपने शोध का समर्थन करने के लिए मासिक फेलोशिप अनुदान प्राप्त होगा। <बीआर>",
+      "benefits_md": "* * * वित्तीय सहायताः * * *-चयनित पी. एच. डी. उम्मीदवारों को तीन साल तक के लिए 15,000 रुपये की मासिक फेलोशिप मिलती है। संवितरण का विधिः फेलोशिप राशि सीधे छात्र के बैंक खाते में चेक या डीडी द्वारा हस्तांतरित की जाती है। * * अवधि * * * *: * * *-संतोषजनक शैक्षणिक प्रगति के अधीन, फेलोशिप अधिकतम 3 वर्षों की अवधि के लिए जारी रहती है।",
+      "exclusions_md": "1. आवेदक को किसी अन्य विभाग या संस्थान से कोई अन्य फेलोशिप या वित्तीय सहायता प्राप्त नहीं होनी चाहिए। 1. अंशकालिक पी. एच. डी. छात्र इस फेलोशिप के लिए पात्र नहीं हैं।",
+      "briefDescription": "इस योजना का उद्देश्य अनुसूचित जाति श्रेणी के मेधावी छात्रों को पीएचडी स्तर पर अनुसंधान के लिए वित्तीय सहायता प्रदान करना है। चयनित छात्रों को विशिष्ट विषयों में उनके शोध का समर्थन करने के लिए मासिक अध्येतावृत्ति अनुदान प्राप्त होता है।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"अम्बेडकर अध्येतावृत्ति योजना\" राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी, जिसका उद्देश्य अनुसूचित जाति श्रेणी के मेधावी छात्रों को पी. एच. डी. स्तर पर अनुसंधान के लिए वित्तीय सहायता प्रदान करना था। पहले चरण में इस योजना से सालाना छह छात्रों को लाभ होगा। इस योजना के तहत, चयनित छात्रों को समाजशास्त्र, लोक प्रशासन, कानून, अर्थशास्त्र, राजनीति विज्ञान और मानव विज्ञान सहित विशिष्ट विषयों में अपने शोध का समर्थन करने के लिए मासिक फेलोशिप अनुदान प्राप्त होगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "चयनित पी. एच. डी. उम्मीदवारों को तीन साल तक के लिए 15,000 रुपये की मासिक फेलोशिप मिलती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "फेलोशिप राशि सीधे छात्र के बैंक खाते में चेक या डी. डी. द्वारा हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "अवधि",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "bold": true,
+              "underline": true,
+              "italic": true,
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "फेलोशिप संतोषजनक शैक्षणिक प्रगति के अधीन अधिकतम 3 वर्ष की अवधि के लिए जारी रहती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को किसी अन्य विभाग या संस्थान से कोई अन्य फेलोशिप या वित्तीय सहायता प्राप्त नहीं होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अंशकालिक पी. एच. डी. छात्र इस फेलोशिप के लिए पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1: आवेदन पत्र भरें",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को राजस्थान सरकार द्वारा जारी निर्धारित आवेदन पत्र भरना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सुनिश्चित करें कि सभी व्यक्तिगत, शैक्षिक और बैंक विवरण सही ढंग से दर्ज किए गए हैं।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2: आवेदन जमा करें",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक दस्तावेजों के साथ पूरा किया गया आवेदन पत्र सचिव, अंबेडकर पीठ, मूंडला, जामवरमगढ़, जयपुर (ईमेल आईडीः secretaryapj@gmail.com) पर भेजा जाना चाहिए"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3: आवेदनों की जांच",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एक जांच समिति पात्रता और पूर्णता को सत्यापित करने के लिए प्राप्त आवेदनों की समीक्षा करेगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "समिति में सामाजिक न्याय और अधिकारिता विभाग के अधिकारी शामिल हैं।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4: राज्य स्तरीय अनुमोदन समिति द्वारा चयन",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "राज्य स्तरीय अनुमोदन समिति योग्यता और पात्रता के आधार पर प्रति वर्ष 6 छात्रों का चयन करेगी।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 5: वार्षिक समीक्षा और नवीनीकरण",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "फेलोशिप प्राप्त करना जारी रखने के लिए छात्र को एक वार्षिक प्रगति रिपोर्ट प्रस्तुत करनी होगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि कोई छात्र फेलोशिप को बंद कर देता है या उसका दुरुपयोग करता है, तो उसे 10 प्रतिशत ब्याज के साथ राशि चुकानी पड़ सकती है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोटः",
+                "bold": true
+              },
+              {
+                "text": "विज्ञापन की तारीख से एक महीने के भीतर आवेदन जमा किया जाना चाहिए।"
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: आवेदन पत्र भरें * *-आवेदक को राजस्थान सरकार द्वारा जारी निर्धारित आवेदन पत्र भरना होगा। - सुनिश्चित करें कि सभी व्यक्तिगत, शैक्षिक और बैंक विवरण सही ढंग से दर्ज किए गए हैं। * * चरण 2: आवेदन जमा करें * *-आवश्यक दस्तावेजों के साथ पूरा किया गया आवेदन पत्र इस पते पर भेजा जाना चाहिएः सचिव, अंबेडकर पीठ, मूंडला, जामवरमगढ़, जयपुर (ईमेल आईडीः secretaryapj@gmail.com) * * चरण 3: आवेदनों की जांच * *-एक जांच समिति पात्रता और पूर्णता को सत्यापित करने के लिए प्राप्त आवेदनों की समीक्षा करेगी। - समिति में सामाजिक न्याय और अधिकारिता विभाग के अधिकारी शामिल हैं। चरण 4: राज्य स्तरीय अनुमोदन समिति द्वारा चयन * *-राज्य स्तरीय अनुमोदन समिति योग्यता और पात्रता के आधार पर प्रति वर्ष 6 छात्रों का चयन करेगी। चरण 5: वार्षिक समीक्षा और नवीनीकरण-फेलोशिप प्राप्त करना जारी रखने के लिए छात्र को एक वार्षिक प्रगति रिपोर्ट प्रस्तुत करनी होगी। यदि कोई छात्र फेलोशिप को बंद कर देता है या उसका दुरुपयोग करता है, तो उसे 10 प्रतिशत ब्याज के साथ राशि चुकानी पड़ सकती है। * * नोटः * आवेदन विज्ञापन की तारीख से एक महीने के भीतर जमा किया जाना चाहिए।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Post Graduation",
+          "status": "Completed",
+          "score_gte": 55,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Ph.D. or equivalent",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक अनुसूचित जाति (एससी) श्रेणी से संबंधित होना चाहिए। 1. आवेदक को कम से कम 55 प्रतिशत अंकों के साथ स्नातकोत्तर डिग्री पूरी करनी चाहिए। 1. आवेदन के समय आवेदक की आयु 35 वर्ष से कम होनी चाहिए। 1. आवेदक की वार्षिक पारिवारिक आय सभी स्रोतों से ₹ 2,50,000 से अधिक नहीं होनी चाहिए। 1. राजस्थान में केंद्र या राज्य सरकार के विश्वविद्यालयों में नामांकित उम्मीदवारों को प्राथमिकता दी जाती है। 1. इस योजना के तहत एक ही परिवार के अधिकतम दो बच्चे (माता-पिता/अभिभावक) आवेदन कर सकते हैं। 1. आवेदक को निम्नलिखित विषयों में से किसी एक में राजस्थान के किसी मान्यता प्राप्त विश्वविद्यालय में पीएचडी कार्यक्रम में प्रवेश प्राप्त होना चाहिएः-समाजशास्त्र-लोक प्रशासन-कानून-अर्थशास्त्र-राजनीति विज्ञान-मानव विज्ञान * * * अन्य नियम और शर्तें। चयनित उम्मीदवार को संबंधित विश्वविद्यालय या संस्थान के प्रमुख से प्रवेश के संबंध में एक प्रमाण पत्र जमा करना होगा जिसमें वह पीएचडी कर रहा है। पीएचडी के लिए चयनित उम्मीदवारों को विश्वविद्यालय अनुदान आयोग (यू. जी. सी.) द्वारा निर्धारित उपस्थिति के संबंध में प्रमाण पत्र जमा करना होगा। 1. प्रत्येक वर्ष छात्र द्वारा किए गए शोध कार्य की प्रगति रिपोर्ट विभाग को प्रस्तुत की जाएगी और शोध कार्य पूरा होने के बाद एक प्रति विभाग को भी उपलब्ध कराई जाएगी। 1. यदि फेलोशिप के रूप में प्राप्त राशि का छात्र द्वारा दुरुपयोग किया जाता है, तो 10 प्रतिशत ब्याज के साथ भुगतान की गई राशि संबंधित छात्र से वसूल की जाएगी। छात्र को ₹100/- के गैर-न्यायिक डाक टिकट पर इस आशय का एक वचन पत्र जमा करना होगा",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक अनुसूचित जाति (एससी) श्रेणी से संबंधित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को कम से कम 55 प्रतिशत अंकों के साथ स्नातकोत्तर डिग्री पूरी करनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदन के समय आवेदक की आयु 35 वर्ष से कम होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की वार्षिक पारिवारिक आय सभी स्रोतों से ₹ 2,50,000 से अधिक नहीं होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान में केंद्र या राज्य सरकार के विश्वविद्यालयों में नामांकित उम्मीदवारों को प्राथमिकता दी जाती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के तहत एक ही परिवार के अधिकतम दो बच्चे (माता-पिता/अभिभावक) आवेदन कर सकते हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को निम्नलिखित विषयों में से किसी एक में राजस्थान के किसी मान्यता प्राप्त विश्वविद्यालय में पीएचडी कार्यक्रम में प्रवेश प्राप्त होना चाहिएः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "समाजशास्त्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लोक प्रशासन"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कानून"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अर्थशास्त्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजनीति विज्ञान"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नृविज्ञान"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "अन्य नियम और शर्तेंः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "चयनित उम्मीदवार को संबंधित विश्वविद्यालय या संस्थान के प्रमुख से प्रवेश के संबंध में एक प्रमाण पत्र जमा करना होगा जिसमें वह पीएचडी कर रहा है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पीएचडी के लिए चयनित उम्मीदवारों को विश्वविद्यालय अनुदान आयोग (यू. जी. सी.) द्वारा निर्धारित उपस्थिति के संबंध में प्रमाण पत्र जमा करना होगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "हर साल छात्र द्वारा किए गए शोध कार्य की प्रगति रिपोर्ट विभाग को प्रस्तुत की जाएगी और शोध कार्य पूरा होने के बाद एक प्रति विभाग को भी उपलब्ध कराई जाएगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि फेलोशिप के रूप में प्राप्त राशि का छात्र द्वारा दुरुपयोग किया जाता है, तो 10 प्रतिशत ब्याज के साथ भुगतान की गई राशि संबंधित छात्र से वसूल की जाएगी। छात्र को ₹100/- के गैर-न्यायिक डाक टिकट पर इस आशय का एक वचन पत्र जमा करना होगा"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "sc",
+          "label": "अनुसूचित जाति (एससी)"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Post Graduation",
+        "status": "Completed",
+        "score_gte": 55,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Ph.D. or equivalent",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक अनुसूचित जाति (एससी) श्रेणी से संबंधित होना चाहिए। 1. आवेदक को कम से कम 55 प्रतिशत अंकों के साथ स्नातकोत्तर डिग्री पूरी करनी चाहिए। 1. आवेदन के समय आवेदक की आयु 35 वर्ष से कम होनी चाहिए। 1. आवेदक की वार्षिक पारिवारिक आय सभी स्रोतों से ₹ 2,50,000 से अधिक नहीं होनी चाहिए। 1. राजस्थान में केंद्र या राज्य सरकार के विश्वविद्यालयों में नामांकित उम्मीदवारों को प्राथमिकता दी जाती है। 1. इस योजना के तहत एक ही परिवार के अधिकतम दो बच्चे (माता-पिता/अभिभावक) आवेदन कर सकते हैं। 1. आवेदक को निम्नलिखित विषयों में से किसी एक में राजस्थान के किसी मान्यता प्राप्त विश्वविद्यालय में पीएचडी कार्यक्रम में प्रवेश प्राप्त होना चाहिएः-समाजशास्त्र-लोक प्रशासन-कानून-अर्थशास्त्र-राजनीति विज्ञान-मानव विज्ञान * * * अन्य नियम और शर्तें। चयनित उम्मीदवार को संबंधित विश्वविद्यालय या संस्थान के प्रमुख से प्रवेश के संबंध में एक प्रमाण पत्र जमा करना होगा जिसमें वह पीएचडी कर रहा है। पीएचडी के लिए चयनित उम्मीदवारों को विश्वविद्यालय अनुदान आयोग (यू. जी. सी.) द्वारा निर्धारित उपस्थिति के संबंध में प्रमाण पत्र जमा करना होगा। 1. प्रत्येक वर्ष छात्र द्वारा किए गए शोध कार्य की प्रगति रिपोर्ट विभाग को प्रस्तुत की जाएगी और शोध कार्य पूरा होने के बाद एक प्रति विभाग को भी उपलब्ध कराई जाएगी। 1. यदि फेलोशिप के रूप में प्राप्त राशि का छात्र द्वारा दुरुपयोग किया जाता है, तो 10 प्रतिशत ब्याज के साथ भुगतान की गई राशि संबंधित छात्र से वसूल की जाएगी। छात्र को ₹100/- के गैर-न्यायिक डाक टिकट पर इस आशय का एक वचन पत्र जमा करना होगा",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक अनुसूचित जाति (एससी) श्रेणी से संबंधित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को कम से कम 55 प्रतिशत अंकों के साथ स्नातकोत्तर डिग्री पूरी करनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदन के समय आवेदक की आयु 35 वर्ष से कम होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की वार्षिक पारिवारिक आय सभी स्रोतों से ₹ 2,50,000 से अधिक नहीं होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "राजस्थान में केंद्र या राज्य सरकार के विश्वविद्यालयों में नामांकित उम्मीदवारों को प्राथमिकता दी जाती है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "इस योजना के तहत एक ही परिवार के अधिकतम दो बच्चे (माता-पिता/अभिभावक) आवेदन कर सकते हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को निम्नलिखित विषयों में से किसी एक में राजस्थान के किसी मान्यता प्राप्त विश्वविद्यालय में पीएचडी कार्यक्रम में प्रवेश प्राप्त होना चाहिएः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "समाजशास्त्र"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लोक प्रशासन"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "कानून"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अर्थशास्त्र"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "राजनीति विज्ञान"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "नृविज्ञान"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "अन्य नियम और शर्तेंः",
+            "bold": true,
+            "underline": true,
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "चयनित उम्मीदवार को संबंधित विश्वविद्यालय या संस्थान के प्रमुख से प्रवेश के संबंध में एक प्रमाण पत्र जमा करना होगा जिसमें वह पीएचडी कर रहा है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पीएचडी के लिए चयनित उम्मीदवारों को विश्वविद्यालय अनुदान आयोग (यू. जी. सी.) द्वारा निर्धारित उपस्थिति के संबंध में प्रमाण पत्र जमा करना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "हर साल छात्र द्वारा किए गए शोध कार्य की प्रगति रिपोर्ट विभाग को प्रस्तुत की जाएगी और शोध कार्य पूरा होने के बाद एक प्रति विभाग को भी उपलब्ध कराई जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि फेलोशिप के रूप में प्राप्त राशि का छात्र द्वारा दुरुपयोग किया जाता है, तो 10 प्रतिशत ब्याज के साथ भुगतान की गई राशि संबंधित छात्र से वसूल की जाएगी। छात्र को ₹100/- के गैर-न्यायिक डाक टिकट पर इस आशय का एक वचन पत्र जमा करना होगा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "sc",
+        "label": "अनुसूचित जाति (एससी)"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate (Issued by a competent authority in Rajasthan)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residence Certificate (Proof of being a permanent resident of Rajasthan)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate (Issued as per the Rajasthan government format)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Postgraduate Degree Certificate "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ph.D. Admission Proof (Admission letter from a recognized university in Rajasthan)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Research Proposal "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Affidavit on ₹100 Non-Judicial Stamp Paper (Declaring that the applicant is not receiving any other fellowship)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Caste Certificate (Issued by a competent authority in Rajasthan)\n1. Residence Certificate (Proof of being a permanent resident of Rajasthan)\n1. Income Certificate (Issued as per the Rajasthan government format)\n1. Aadhaar Card \n1. Bank Account Details \n1. Postgraduate Degree Certificate \n1. Ph.D. Admission Proof (Admission letter from a recognized university in Rajasthan)\n1. Research Proposal \n1. Affidavit on ₹100 Non-Judicial Stamp Paper (Declaring that the applicant is not receiving any other fellowship)\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र (राजस्थान में एक सक्षम प्राधिकारी द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निवास प्रमाण पत्र (राजस्थान के स्थायी निवासी होने का प्रमाण)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाण पत्र (राजस्थान सरकार के प्रारूप के अनुसार जारी किया गया)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातकोत्तर डिग्री प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पीएच. डी. प्रवेश प्रमाण (राजस्थान में किसी मान्यता प्राप्त विश्वविद्यालय से प्रवेश पत्र)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शोध प्रस्ताव"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "100 रुपये के गैर-न्यायिक स्टाम्प पेपर पर शपथ पत्र (यह घोषणा करते हुए कि आवेदक को कोई अन्य फेलोशिप नहीं मिल रही है)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Caste Certificate (Issued by a competent authority in Rajasthan)\n1. Residence Certificate (Proof of being a permanent resident of Rajasthan)\n1. Income Certificate (Issued as per the Rajasthan government format)\n1. Aadhaar Card \n1. Bank Account Details \n1. Postgraduate Degree Certificate \n1. Ph.D. Admission Proof (Admission letter from a recognized university in Rajasthan)\n1. Research Proposal \n1. Affidavit on ₹100 Non-Judicial Stamp Paper (Declaring that the applicant is not receiving any other fellowship)\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "SC students from Rajasthan who are pursuing full-time Ph.D. studies in selected subjects"
+                }
+              ]
+            }
+          ],
+          "answer_md": "SC students from Rajasthan who are pursuing full-time Ph.D. studies in selected subjects\n"
+        },
+        {
+          "question": "What is the age limit to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant should be below 35 years of age at the time of application.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant should be below 35 years of age at the time of application.\n\n"
+        },
+        {
+          "question": "How is the fellowship amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The amount is transferred to the student's bank account via Cheque or Demand Draft (DD)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred to the student's bank account via Cheque or Demand Draft (DD).\n"
+        },
+        {
+          "question": "Can a student apply if they are already receiving another scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, students availing of any other fellowship are not eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students availing of any other fellowship are not eligible.\n"
+        },
+        {
+          "question": "Is this scheme available for part-time Ph.D. students?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only full-time Ph.D. students are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only full-time Ph.D. students are eligible.\n"
+        },
+        {
+          "question": "Can students from private universities apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only students from government-recognized universities in Rajasthan can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students from government-recognized universities in Rajasthan can apply.\n"
+        },
+        {
+          "question": "What happens if a student discontinues their research?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The fellowship will be discontinued, and the student may have to return any excess funds received."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The fellowship will be discontinued, and the student may have to return any excess funds received.\n"
+        },
+        {
+          "question": "What is the application deadline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students must apply within one month from the date of advertisement."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students must apply within one month from the date of advertisement.\n"
+        },
+        {
+          "question": "What happens if a student misuses the fellowship funds?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The student will have to repay the amount with 10% interest, along with legal action if necessary."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The student will have to repay the amount with 10% interest, along with legal action if necessary.\n"
+        },
+        {
+          "question": "How is the selection process conducted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications are reviewed by a Scrutiny Committee, and final selection is made by a State-Level Approval Committee."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications are reviewed by a Scrutiny Committee, and final selection is made by a State-Level Approval Committee.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के अनुसूचित जाति के छात्र जो चयनित विषयों में पूर्णकालिक पीएचडी कर रहे हैं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "SC students from Rajasthan who are pursuing full-time Ph.D. studies in selected subjects\n"
+        },
+        {
+          "question": "आवेदन करने की आयु सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन के समय आवेदक की आयु 35 वर्ष से कम होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant should be below 35 years of age at the time of application.\n\n"
+        },
+        {
+          "question": "फेलोशिप राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह राशि चेक या डिमांड ड्राफ्ट (डीडी) के माध्यम से छात्र के बैंक खाते में स्थानांतरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred to the student's bank account via Cheque or Demand Draft (DD).\n"
+        },
+        {
+          "question": "क्या कोई छात्र आवेदन कर सकता है यदि वह पहले से ही दूसरी छात्रवृत्ति प्राप्त कर रहा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, किसी अन्य फेलोशिप का लाभ उठाने वाले छात्र पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students availing of any other fellowship are not eligible.\n"
+        },
+        {
+          "question": "क्या यह योजना अंशकालिक पीएचडी छात्रों के लिए उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल पूर्णकालिक पीएचडी छात्र ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only full-time Ph.D. students are eligible.\n"
+        },
+        {
+          "question": "क्या निजी विश्वविद्यालयों के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान में सरकार द्वारा मान्यता प्राप्त विश्वविद्यालयों के छात्र ही आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students from government-recognized universities in Rajasthan can apply.\n"
+        },
+        {
+          "question": "यदि कोई छात्र अपना शोध बंद कर देता है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "फेलोशिप बंद कर दी जाएगी और छात्र को प्राप्त किसी भी अतिरिक्त धन को वापस करना पड़ सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The fellowship will be discontinued, and the student may have to return any excess funds received.\n"
+        },
+        {
+          "question": "आवेदन की समय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रों को विज्ञापन की तारीख से एक महीने के भीतर आवेदन करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students must apply within one month from the date of advertisement.\n"
+        },
+        {
+          "question": "यदि कोई छात्र अध्येतावृत्ति निधि का दुरुपयोग करता है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्र को 10 प्रतिशत ब्याज के साथ राशि का भुगतान करना होगा, साथ ही यदि आवश्यक हो तो कानूनी कार्रवाई करनी होगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The student will have to repay the amount with 10% interest, along with legal action if necessary.\n"
+        },
+        {
+          "question": "चयन प्रक्रिया कैसे आयोजित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदनों की समीक्षा एक जांच समिति द्वारा की जाती है और अंतिम चयन एक राज्य स्तरीय अनुमोदन समिति द्वारा किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications are reviewed by a Scrutiny Committee, and final selection is made by a State-Level Approval Committee.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1666 @@
+{
+  "scheme_id": "680cfa92197a2fd77e4d349d",
+  "slug": "fbdsvgac",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Bicycle",
+        "Student",
+        "Denotified Tribes",
+        "Nomadic Tribes",
+        "Semi Nomadic Tribes"
+      ],
+      "schemeName": "Free Bicycle Distribution to Students of Vimukt, Ghumantu and Ardhghumantu Communities",
+      "schemeShortTitle": "FBDSVGAC",
+      "implementingAgency": "Directorate Of Secondary Education, Bikaner, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=63d105de12a7f949a0e67697"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Free Bicycle Distribution Scheme&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, for students belonging to the Denotified Tribes, Nomadic and Semi-Nomadic Tribes communities of Rajasthan. Under this scheme, free bicycles will be distributed to students from these communities who are studying in government and recognized private educational institutions/schools from Class 6 to Class 11, to facilitate their commute between home and school.\n",
+      "benefits_md": "\n- Free bicycle distribution to students studying in classes 6th to 11th in government and recognized private educational institutions. - Equal distribution of benefits among boys and girls (50% boys and 50% girls).\n\n",
+      "briefDescription": "The scheme aims to provide free cycles to students studying in classes 6th to 11th in government and recognized private educational institutions and belonging to Denotified Tribes, Nomadic and Semi-Nomadic Tribes communities of Rajasthan.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Free Bicycle Distribution Scheme\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, for students belonging to the Denotified Tribes, Nomadic and Semi-Nomadic Tribes communities of Rajasthan. Under this scheme, free bicycles will be distributed to students from these communities who are studying in government and recognized private educational institutions/schools from Class 6 to Class 11, to facilitate their commute between home and school."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free bicycle distribution to students studying in classes 6"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " to 11"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " in government and recognized private educational institutions. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Equal distribution of benefits among boys and girls (50% boys and 50% girls)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " To avail of the benefits of the scheme, the applicant needs to contact their respective school."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Submit copies of all the mandatory documents (self-attested, if required) to the respective school."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "The complete application process is managed by the school principal through the Shaladarpan Beneficiary module."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "align_justify",
+                    "children": [
+                      {
+                        "type": "align_justify",
+                        "children": [
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "Step 4:",
+                                "bold": true
+                              },
+                              {
+                                "text": " The school will visit the "
+                              },
+                              {
+                                "type": "link",
+                                "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx",
+                                "children": [
+                                  {
+                                    "text": "Shala Darpan"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ", Rajasthan Portal."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "Step 5:",
+                                "bold": true
+                              },
+                              {
+                                "text": " Using the school's login credentials (Login ID and Password), the school will help the student to fill out and submit the application form. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "Step 6: ",
+                                "bold": true
+                              },
+                              {
+                                "text": "The institution will forward the application to the concerned District Education Officer (Headquarters), Elementary or Secondary Education."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "Post-Application Process:",
+                                "bold": true,
+                                "italic": true,
+                                "underline": true
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "Step 1: ",
+                                "bold": true
+                              },
+                              {
+                                "text": "The District Education Officer will compile and forward all verified applications of the district to the Directorate of Secondary Education, Rajasthan, Bikaner."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "Step 2: ",
+                                "bold": true
+                              },
+                              {
+                                "text": "Upon approval, bicycles will be distributed to the eligible students."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** To avail of the benefits of the scheme, the applicant needs to contact their respective school.\n**Step 2:** Submit copies of all the mandatory documents (self-attested, if required) to the respective school.\n**Step 3:** The complete application process is managed by the school principal through the Shaladarpan Beneficiary module.\n**Step 4:** The school will visit the [Shala Darpan](https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx), Rajasthan Portal.\n**Step 5:** Using the school&amp;amp;amp;amp;#39;s login credentials (Login ID and Password), the school will help the student to fill out and submit the application form. \n**Step 6:** The institution will forward the application to the concerned District Education Officer (Headquarters), Elementary or Secondary Education.\n***Post-Application Process:***\n**Step 1:** The District Education Officer will compile and forward all verified applications of the district to the Directorate of Secondary Education, Rajasthan, Bikaner.\n**Step 2:** Upon approval, bicycles will be distributed to the eligible students.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be a student.\n1. The applicant should belong to one of the Denotified Tribes, Nomadic Tribes, or Semi-Nomadic Tribes as notified by the Government of Rajasthan.\n1. The applicant should be studying in the 6th, 7th, 8th, 9th, 10th, or 11th class.1. The applicant should be enrolled in a government or a private educational institution/school affiliated with the Rajasthan Board of Secondary Education, Ajmer .\n1. The applicant should have secured 60% or more marks in the previous academic year.\n1. The students who has already availed the benefit of this scheme once will not be eligible.\n\n> **NOTE:**\n\n&gt; Students belonging to a total of 32 communities (including 9 Denotified Tribes, 10 Nomadic Tribes, and 13 Semi-Nomadic Tribes) will be eligible as per Government [Order No. F-1(1)(2)S.W/63 dated 24.02.1964](https://sje.rajasthan.gov.in/Default.aspx?PageID=68), Annexure &amp;#39;A&amp;#39;.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to one of the Denotified Tribes, Nomadic Tribes, or Semi-Nomadic Tribes as notified by the Government of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying in the 6"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": ", 7"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": ", 8"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": ", 9"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": ", 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": ", or 11"
+                },
+                {
+                  "text": "th ",
+                  "superscript": true
+                },
+                {
+                  "text": "class."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in a government or a private educational institution/school affiliated with the Rajasthan Board of Secondary Education, Ajmer ."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have secured 60% or more marks in the previous academic year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The students who has already availed the benefit of this scheme once will not be eligible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "NOTE:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Students belonging to a total of 32 communities (including 9 Denotified Tribes, 10 Nomadic Tribes, and 13 Semi-Nomadic Tribes) will be eligible as per Government "
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=68",
+                  "children": [
+                    {
+                      "text": "Order No. F-1(1)(2)S.W/63 dated 24.02.1964"
+                    }
+                  ]
+                },
+                {
+                  "text": ", Annexure 'A'."
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=68",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "साइकिल",
+        "विद्यार्थी",
+        "विमुक्त जनजातियाँ",
+        "खानाबदोश जनजातियाँ",
+        "अर्ध खानाबदोश जनजातियाँ"
+      ],
+      "schemeName": "विमुक्त, घुमंतु और अर्धघुमन्तु समुदायों के छात्रों को मुफ्त साइकिल वितरण",
+      "schemeShortTitle": "FBDSVGAC",
+      "implementingAgency": "Directorate Of Secondary Education, Bikaner, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=63d105de12a7f949a0e67697"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा राजस्थान के विमुक्त जनजातियों, खानाबदोश और अर्ध-खानाबदोश जनजाति समुदायों के छात्रों के लिए मुफ्त साइकिल वितरण योजना शुरू की गई थी। इस योजना के तहत इन समुदायों के उन छात्रों को मुफ्त साइकिलें वितरित की जाएंगी जो सरकारी और मान्यता प्राप्त निजी शैक्षणिक संस्थानों/स्कूलों में कक्षा 6 से कक्षा 11 तक पढ़ रहे हैं, ताकि घर और स्कूल के बीच उनके आवागमन की सुविधा हो सके।",
+      "benefits_md": "सरकारी और मान्यता प्राप्त निजी शिक्षण संस्थानों में छठी से 11वीं कक्षा में पढ़ने वाले छात्रों को मुफ्त साइकिल वितरण-लड़कों और लड़कियों (50 प्रतिशत लड़के और 50 प्रतिशत लड़कियां) के बीच लाभों का समान वितरण।",
+      "briefDescription": "इस योजना का उद्देश्य सरकारी और मान्यता प्राप्त निजी शैक्षणिक संस्थानों में कक्षा 6 से 11 तक पढ़ने वाले छात्रों और राजस्थान के विमुक्त जनजाति, खानाबदोश और अर्ध-खानाबदोश जनजाति समुदायों से संबंधित छात्रों को मुफ्त साइकिल प्रदान करना है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा राजस्थान के विमुक्त जनजातियों, खानाबदोश और अर्ध-खानाबदोश जनजाति समुदायों के छात्रों के लिए \"मुफ्त साइकिल वितरण योजना\" शुरू की गई थी। इस योजना के तहत इन समुदायों के उन छात्रों को मुफ्त साइकिलें वितरित की जाएंगी जो सरकारी और मान्यता प्राप्त निजी शैक्षणिक संस्थानों/स्कूलों में कक्षा 6 से कक्षा 11 तक पढ़ रहे हैं, ताकि घर और स्कूल के बीच उनके आवागमन की सुविधा हो सके।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कक्षा 6 में पढ़ने वाले छात्रों को मुफ्त साइकिल वितरण"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "11 तक"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "सरकारी और मान्यता प्राप्त निजी शैक्षणिक संस्थानों में।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लड़कों और लड़कियों के बीच लाभों का समान वितरण (50 प्रतिशत लड़के और 50 प्रतिशत लड़कियां)।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन प्रक्रियाः",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": "योजना का लाभ उठाने के लिए आवेदक को अपने संबंधित स्कूल से संपर्क करना होगा।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": "सभी अनिवार्य दस्तावेजों की प्रतियां (यदि आवश्यक हो तो स्व-सत्यापित) संबंधित स्कूल को जमा करें।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": "पूर्ण आवेदन प्रक्रिया का प्रबंधन विद्यालय के प्राचार्य द्वारा शालदर्पण लाभार्थी मॉड्यूल के माध्यम से किया जाता है।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "align_justify",
+                    "children": [
+                      {
+                        "type": "align_justify",
+                        "children": [
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "चरण 4:",
+                                "bold": true
+                              },
+                              {
+                                "text": "विद्यालय का दौरा करेंगे"
+                              },
+                              {
+                                "type": "link",
+                                "link": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx",
+                                "children": [
+                                  {
+                                    "text": "शाला दर्पण"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ", राजस्थान पोर्टल।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "चरण 5:",
+                                "bold": true
+                              },
+                              {
+                                "text": "स्कूल के लॉगिन क्रेडेंशियल्स (लॉगिन आईडी और पासवर्ड) का उपयोग करके, स्कूल छात्र को आवेदन पत्र भरने और जमा करने में मदद करेगा।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "चरण 6:",
+                                "bold": true
+                              },
+                              {
+                                "text": "संस्थान आवेदन को संबंधित जिला शिक्षा अधिकारी (मुख्यालय), प्राथमिक या माध्यमिक शिक्षा को भेजेगा।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "आवेदन के बाद की प्रक्रियाः",
+                                "bold": true,
+                                "italic": true,
+                                "underline": true
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "चरण 1:",
+                                "bold": true
+                              },
+                              {
+                                "text": "जिला शिक्षा अधिकारी जिले के सभी सत्यापित आवेदनों को संकलित करेंगे और माध्यमिक शिक्षा निदेशालय, राजस्थान, बीकानेर को भेजेंगे।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "paragraph",
+                            "children": [
+                              {
+                                "text": "चरण 2:",
+                                "bold": true
+                              },
+                              {
+                                "text": "मंजूरी मिलने पर योग्य छात्रों को साइकिलें वितरित की जाएंगी।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रियाः चरण 1: योजना का लाभ उठाने के लिए आवेदक को अपने संबंधित स्कूल से संपर्क करने की आवश्यकता है। चरण 2: सभी अनिवार्य दस्तावेजों की प्रतियां (यदि आवश्यक हो तो स्व-सत्यापित) संबंधित स्कूल में जमा करें। * * चरण 3: * * पूर्ण आवेदन प्रक्रिया का प्रबंधन स्कूल के प्राचार्य द्वारा शालदर्पण लाभार्थी मॉड्यूल के माध्यम से किया जाता है। * * चरण 4: * * स्कूल [शाला दर्पण] (https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/HomePage.aspx), राजस्थान पोर्टल पर जाएगा। चरण 5: स्कूल के लॉगिन क्रेडेंशियल्स (लॉगिन आईडी और पासवर्ड) का उपयोग करके, स्कूल छात्र को आवेदन पत्र भरने और जमा करने में मदद करेगा। चरण 6: संस्थान आवेदन को संबंधित जिला शिक्षा अधिकारी (मुख्यालय), प्राथमिक या माध्यमिक शिक्षा को भेजेगा। * * * आवेदन के बाद की प्रक्रियाः * * * * * चरण 1: * * जिला शिक्षा अधिकारी जिले के सभी सत्यापित आवेदनों को संकलित करके माध्यमिक शिक्षा निदेशालय, राजस्थान, बीकानेर को भेज देगा। चरण 2: मंजूरी मिलने पर योग्य छात्रों को साइकिलें वितरित की जाएंगी।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "pvtg",
+          "gte": 9,
+          "lte": 21
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Middle (6-8)",
+          "status": "Pursuing",
+          "score_gte": 60,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Matric (9-10)",
+          "status": "Pursuing",
+          "score_gte": 60,
+          "score_lte": 100
+        },
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": 60,
+          "score_lte": 100
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्र होना चाहिए। 1. आवेदक राजस्थान सरकार द्वारा अधिसूचित विमुक्त जनजातियों, खानाबदोश जनजातियों या अर्ध-खानाबदोश जनजातियों में से किसी एक से संबंधित होना चाहिए। 1. आवेदक को 6वीं, 7वीं, 8वीं, 9वीं, 10वीं या 11वीं कक्षा में पढ़ रहा होना चाहिए। आवेदक को राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से संबद्ध किसी सरकारी या निजी शैक्षणिक संस्थान/स्कूल में नामांकित होना चाहिए। 1. आवेदक को पिछले शैक्षणिक वर्ष में 60 प्रतिशत या उससे अधिक अंक प्राप्त करने चाहिए थे। 1. जिन छात्रों ने पहले ही एक बार इस योजना का लाभ उठाया है, वे पात्र नहीं होंगे। > * * नोटः कुल 32 समुदायों (9 विमुक्त जनजातियों, 10 खानाबदोश जनजातियों और 13 अर्ध-खानाबदोश जनजातियों सहित) के छात्र सरकार के अनुसार पात्र होंगे। एफ-1 (1) (2) एस. डब्ल्यू./63 दिनांकित 24.02.1964] (https://sje.rajasthan.gov.in/Default.aspx?PageID=68), अनुलग्नक & एम्प; #39; ए & एम्प; #39;।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक छात्र होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान सरकार द्वारा अधिसूचित विमुक्त जनजातियों, खानाबदोश जनजातियों या अर्ध-खानाबदोश जनजातियों में से किसी एक से संबंधित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 6 में अध्ययन करना चाहिए"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": ", 7"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": ", 8"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": ", 9"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": ", 10"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": ", या 11"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "वर्ग।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से संबद्ध किसी सरकारी या निजी शैक्षणिक संस्थान/स्कूल में नामांकित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को पिछले शैक्षणिक वर्ष में 60 प्रतिशत या उससे अधिक अंक प्राप्त करने चाहिए थे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जिन छात्रों ने पहले ही एक बार इस योजना का लाभ उठाया है, वे पात्र नहीं होंगे।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "नोटः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "कुल 32 समुदायों (9 विमुक्त जनजातियों, 10 खानाबदोश जनजातियों और 13 अर्ध-खानाबदोश जनजातियों सहित) के छात्र सरकार के अनुसार पात्र होंगे"
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=68",
+                  "children": [
+                    {
+                      "text": "आदेश सं। एफ-1 (1) (2) एस. डब्ल्यू./63 दिनांक 24.02.1964"
+                    }
+                  ]
+                },
+                {
+                  "text": ", अनुलग्नक 'ए'।"
+                },
+                {
+                  "type": "link",
+                  "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=68",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "pvtg",
+          "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "value": "never-married",
+          "label": "Never Married"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "pvtg",
+        "gte": 9,
+        "lte": 21
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Middle (6-8)",
+        "status": "Pursuing",
+        "score_gte": 60,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Matric (9-10)",
+        "status": "Pursuing",
+        "score_gte": 60,
+        "score_lte": 100
+      },
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": 60,
+        "score_lte": 100
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक छात्र होना चाहिए। 1. आवेदक राजस्थान सरकार द्वारा अधिसूचित विमुक्त जनजातियों, खानाबदोश जनजातियों या अर्ध-खानाबदोश जनजातियों में से किसी एक से संबंधित होना चाहिए। 1. आवेदक को 6वीं, 7वीं, 8वीं, 9वीं, 10वीं या 11वीं कक्षा में पढ़ रहा होना चाहिए। आवेदक को राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से संबद्ध किसी सरकारी या निजी शैक्षणिक संस्थान/स्कूल में नामांकित होना चाहिए। 1. आवेदक को पिछले शैक्षणिक वर्ष में 60 प्रतिशत या उससे अधिक अंक प्राप्त करने चाहिए थे। 1. जिन छात्रों ने पहले ही एक बार इस योजना का लाभ उठाया है, वे पात्र नहीं होंगे। > * * नोटः कुल 32 समुदायों (9 विमुक्त जनजातियों, 10 खानाबदोश जनजातियों और 13 अर्ध-खानाबदोश जनजातियों सहित) के छात्र सरकार के अनुसार पात्र होंगे। एफ-1 (1) (2) एस. डब्ल्यू./63 दिनांकित 24.02.1964] (https://sje.rajasthan.gov.in/Default.aspx?PageID=68), अनुलग्नक & एम्प; #39; ए & एम्प; #39;।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक छात्र होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान सरकार द्वारा अधिसूचित विमुक्त जनजातियों, खानाबदोश जनजातियों या अर्ध-खानाबदोश जनजातियों में से किसी एक से संबंधित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को 6 में अध्ययन करना चाहिए"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": ", 7"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": ", 8"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": ", 9"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": ", 10"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": ", या 11"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "वर्ग।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से संबद्ध किसी सरकारी या निजी शैक्षणिक संस्थान/स्कूल में नामांकित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को पिछले शैक्षणिक वर्ष में 60 प्रतिशत या उससे अधिक अंक प्राप्त करने चाहिए थे।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "जिन छात्रों ने पहले ही एक बार इस योजना का लाभ उठाया है, वे पात्र नहीं होंगे।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "block_quote",
+        "children": [
+          {
+            "text": "नोटः",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "कुल 32 समुदायों (9 विमुक्त जनजातियों, 10 खानाबदोश जनजातियों और 13 अर्ध-खानाबदोश जनजातियों सहित) के छात्र सरकार के अनुसार पात्र होंगे"
+              },
+              {
+                "type": "link",
+                "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=68",
+                "children": [
+                  {
+                    "text": "आदेश सं। एफ-1 (1) (2) एस. डब्ल्यू./63 दिनांक 24.02.1964"
+                  }
+                ]
+              },
+              {
+                "text": ", अनुलग्नक 'ए'।"
+              },
+              {
+                "type": "link",
+                "link": "https://sje.rajasthan.gov.in/Default.aspx?PageID=68",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "pvtg",
+        "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "value": "never-married",
+        "label": "Never Married"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Student’s Aadhaar Card or Jan Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marksheet"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Non-Judicial Affidavit"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Student’s Aadhaar Card or Jan Aadhaar Card\n1. Caste Certificate\n1. Marksheet\n1. Non-Judicial Affidavit\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र का आधार कार्ड या जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मार्कशीट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गैर-न्यायिक शपथ पत्र"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Student’s Aadhaar Card or Jan Aadhaar Card\n1. Caste Certificate\n1. Marksheet\n1. Non-Judicial Affidavit\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply under the Free Bicycle Distribution Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students belonging to a total of 32 communities (Denotified Tribes, Nomadic Tribes or Semi-Nomadic Tribes communities) will be eligible as per the Government Order No. F-1(1)(2)S.W/63 dated 24.02.1964, Annexure 'A'."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students belonging to a total of 32 communities (Denotified Tribes, Nomadic Tribes or Semi-Nomadic Tribes communities) will be eligible as per the Government Order No. F-1(1)(2)S.W/63 dated 24.02.1964, Annexure &#39;A&#39;.\n"
+        },
+        {
+          "question": "What is the benefit provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The eligible students receive a free bicycle."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The eligible students receive a free bicycle.\n<br>\n\n"
+        },
+        {
+          "question": "Is there any specific mark requirement to avail the benefit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the student must have secured 60% or more marks."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the student must have secured 60% or more marks.\n"
+        },
+        {
+          "question": "Can students studying in private schools apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if the private school is a recognized school by the Government of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if the private school is a recognized school by the Government of Rajasthan.\n"
+        },
+        {
+          "question": "Can a student avail the benefit more than once?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the benefit is provided only once."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit is provided only once.\n"
+        },
+        {
+          "question": "Is there any fee to be paid for the bicycle?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, bicycles are distributed free of cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, bicycles are distributed free of cost.\n"
+        },
+        {
+          "question": "Are students from outside Rajasthan eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only students from Rajasthan are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students from Rajasthan are eligible.\n"
+        },
+        {
+          "question": "Is there any gender reservation under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, 50% of the beneficiaries are reserved for boys and 50% for girls."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, 50% of the beneficiaries are reserved for boys and 50% for girls.\n"
+        },
+        {
+          "question": "What documents are required for application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Aadhaar/Jan Aadhaar Card, Caste Certificate, Marksheet, and a Non-Judicial Affidavit."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Aadhaar/Jan Aadhaar Card, Caste Certificate, Marksheet, and a Non-Judicial Affidavit.\n<br>\n\n"
+        },
+        {
+          "question": "What is the application mode?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications are submitted online by the head of the institution."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications are submitted online by the head of the institution.\n"
+        },
+        {
+          "question": "Who verifies and forwards the applications?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The District Education Officer (Headquarters), Elementary or Secondary Education."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Education Officer (Headquarters), Elementary or Secondary Education.\n"
+        },
+        {
+          "question": "Where are the district applications finally sent?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To the Directorate of Secondary Education, Rajasthan, Bikaner."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To the Directorate of Secondary Education, Rajasthan, Bikaner.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "मुफ्त साइकिल वितरण योजना के तहत कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कुल 32 समुदायों (विमुक्त जनजाति, खानाबदोश जनजाति या अर्ध-खानाबदोश जनजाति समुदाय) से संबंधित छात्र सरकारी आदेश सं. एफ-1 (1) (2) एस. डब्ल्यू./63 दिनांक 24.02.1964, अनुलग्नक 'ए'।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students belonging to a total of 32 communities (Denotified Tribes, Nomadic Tribes or Semi-Nomadic Tribes communities) will be eligible as per the Government Order No. F-1(1)(2)S.W/63 dated 24.02.1964, Annexure &#39;A&#39;.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्य छात्रों को मुफ्त साइकिल मिलती है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The eligible students receive a free bicycle.\n<br>\n\n"
+        },
+        {
+          "question": "क्या लाभ प्राप्त करने के लिए किसी विशिष्ट अंक की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, छात्र ने 60 प्रतिशत या उससे अधिक अंक प्राप्त किए होने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the student must have secured 60% or more marks.\n"
+        },
+        {
+          "question": "क्या निजी स्कूलों में पढ़ने वाले छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, अगर निजी स्कूल राजस्थान सरकार द्वारा मान्यता प्राप्त स्कूल है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if the private school is a recognized school by the Government of Rajasthan.\n"
+        },
+        {
+          "question": "क्या एक छात्र एक से अधिक बार लाभ उठा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, लाभ केवल एक बार दिया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit is provided only once.\n"
+        },
+        {
+          "question": "क्या साइकिल के लिए कोई शुल्क देना पड़ता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, साइकिलें मुफ्त में वितरित की जाती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, bicycles are distributed free of cost.\n"
+        },
+        {
+          "question": "क्या राजस्थान के बाहर के छात्र पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान के छात्र ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students from Rajasthan are eligible.\n"
+        },
+        {
+          "question": "क्या इस योजना के तहत कोई लैंगिक आरक्षण है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, 50 प्रतिशत लाभार्थी लड़कों के लिए और 50 प्रतिशत लड़कियों के लिए आरक्षित हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, 50% of the beneficiaries are reserved for boys and 50% for girls.\n"
+        },
+        {
+          "question": "आवेदन के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आधार/जन आधार कार्ड, जाति प्रमाण पत्र, मार्कशीट और एक गैर-न्यायिक शपथ पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Aadhaar/Jan Aadhaar Card, Caste Certificate, Marksheet, and a Non-Judicial Affidavit.\n<br>\n\n"
+        },
+        {
+          "question": "आवेदन विधि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संस्थान के प्रमुख द्वारा आवेदन ऑनलाइन जमा किए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications are submitted online by the head of the institution.\n"
+        },
+        {
+          "question": "आवेदनों को कौन सत्यापित करता है और आगे बढ़ाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला शिक्षा अधिकारी (मुख्यालय), प्राथमिक या माध्यमिक शिक्षा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Education Officer (Headquarters), Elementary or Secondary Education.\n"
+        },
+        {
+          "question": "जिला आवेदन अंततः कहाँ भेजे जाते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "माध्यमिक शिक्षा निदेशालय, राजस्थान, बीकानेर।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To the Directorate of Secondary Education, Rajasthan, Bikaner.\n"
+        }
+      ]
+    }
+  }
+}

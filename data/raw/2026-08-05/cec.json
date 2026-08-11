@@ -1,0 +1,998 @@
+{
+  "scheme_id": "642257f515612c1db763d0f7",
+  "slug": "cec",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2016-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Coaching",
+          "label": "Coaching"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Tribal Area Development Department",
+      "tags": [
+        "Students",
+        "Scheduled Tribe",
+        "Rajasthan",
+        "Free Coaching"
+      ],
+      "schemeName": "Competitive Exam Coaching",
+      "schemeShortTitle": "Cec",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/589"
+        }
+      ],
+      "schemeImageUrl": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/589",
+      "briefDescription": "Competitive exam Coaching for tribal students scheme was launched in Rajasthan by Tribal Area Development Department in the year 2016-17, under which free coaching to tribal students for competitive examinations through Mankyi Lal Verma Tribal Research and Training Institute, Udaipur is provided.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Competitive exam Coaching for tribal students scheme was launched in Rajasthan by Tribal Area Development Department in the year 2016-17. Free coaching to tribal candidates for various competitive examinations through Mankyi Lal Verma Tribal Research and Training Institute, Udaipur and Scheduled Area Project Officer's Office."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applicants can obtain their application form free of cost from the Director, M.L.Verma Tribal Research and Training Institute, Udaipur or through the Office of the Project Officer of the Scheduled Area, fill the forms, attach the documents and submit it in the same office. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme is applicable to these districts: Banswara, Chittorgarh, Dungarpur, Pali, Sirohi, Udaipur, Rajsamand, and Pratapgarh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must have the following documents to apply for Competitive Exam Coaching :-"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sowing Certificate Copy"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme can be availed only once by a student."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Free coaching to tribal (ST) students."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If a student has availed of the benefit once, they can't get it again."
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "Competitive exam Coaching for tribal students scheme was launched in Rajasthan by Tribal Area Development Department in the year 2016-17. Free coaching to tribal candidates for various competitive examinations through Mankyi Lal Verma Tribal Research and Training Institute, Udaipur and Scheduled Area Project Officer&#39;s Office.\n<br>\n\n<br>\n\nApplicants can obtain their application form free of cost from the Director, M.L.Verma Tribal Research and Training Institute, Udaipur or through the Office of the Project Officer of the Scheduled Area, fill the forms, attach the documents and submit it in the same office. \n<br>\n\nThis scheme is applicable to these districts: Banswara, Chittorgarh, Dungarpur, Pali, Sirohi, Udaipur, Rajsamand, and Pratapgarh.\n<br>\n\nThe applicant must have the following documents to apply for Competitive Exam Coaching :-\n\n- Education Qualification Marksheet / Certificate Copy\n- Domicile Certificate Copy\n- Caste Certificate Copy\n- Sowing Certificate Copy\n\nThis scheme can be availed only once by a student.\n<br>\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "1. Applicants can obtain their application form free of cost from the Director, M.L.Verma Tribal Research and Training Institute, Udaipur or through the Office of the Project Officer of the Scheduled Area."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "2. After filling the form, it needs to be submitted to the same office along with the photocopies of the required documents."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "Should be a student of ST category. Both Male and Female students are eligible for taking benefit of this scheme.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Should be a student of ST category. Both Male and Female students are eligible for taking benefit of this scheme."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "2016-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Coaching",
+          "label": "कोचिंग"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Tribal Area Development Department",
+      "tags": [
+        "विद्यार्थीगण",
+        "अनुसूचित जनजाति",
+        "राजस्थान",
+        "मुफ्त कोचिंग"
+      ],
+      "schemeName": "प्रतियोगी परीक्षा कोचिंग",
+      "schemeShortTitle": "Cec",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "योजना का विवरण",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/589"
+        }
+      ],
+      "schemeImageUrl": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/589",
+      "briefDescription": "जनजातीय क्षेत्र विकास विभाग द्वारा वर्ष 2016-17 में राजस्थान में जनजातीय छात्रों के लिए प्रतिस्पर्धी परीक्षा कोचिंग योजना शुरू की गई थी, जिसके तहत आदिवासी छात्रों को मंकी लाल वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर के माध्यम से प्रतिस्पर्धी परीक्षाओं के लिए मुफ्त कोचिंग प्रदान की जाती है।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "जनजातीय क्षेत्र विकास विभाग द्वारा वर्ष 2016-17 में राजस्थान में जनजातीय छात्रों के लिए प्रतिस्पर्धी परीक्षा कोचिंग योजना शुरू की गई थी। आदिवासी उम्मीदवारों को विभिन्न प्रतियोगी परीक्षाओं के लिए मंकी लाल वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर और अनुसूचित क्षेत्र परियोजना अधिकारी कार्यालय के माध्यम से निःशुल्क प्रशिक्षण।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आवेदक अपना आवेदन पत्र निदेशक, एम. एल. वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर से या अनुसूचित क्षेत्र के परियोजना अधिकारी के कार्यालय के माध्यम से निःशुल्क प्राप्त कर सकते हैं, प्रपत्र भर सकते हैं, दस्तावेज संलग्न कर सकते हैं और उसी कार्यालय में जमा कर सकते हैं।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "यह योजना इन जिलों पर लागू होती हैः बांसवाड़ा, चित्तौड़गढ़, डूंगरपुर, पाली, सिरोही, उदयपुर, राजसमंद और प्रतापगढ़।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "प्रतियोगी परीक्षा कोचिंग के लिए आवेदन करने के लिए आवेदक के पास निम्नलिखित दस्तावेज होने चाहिएः -"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बुवाई प्रमाणपत्र की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना का लाभ एक छात्र केवल एक बार ले सकता है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आदिवासी (एसटी) छात्रों को मुफ्त कोचिंग।"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "यदि किसी छात्र ने एक बार लाभ उठाया है, तो वह इसे फिर से प्राप्त नहीं कर सकता है।"
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "जनजातीय क्षेत्र विकास विभाग द्वारा वर्ष 2016-17 में राजस्थान में जनजातीय छात्रों के लिए प्रतिस्पर्धी परीक्षा कोचिंग योजना शुरू की गई थी। आदिवासी उम्मीदवारों को विभिन्न प्रतियोगी परीक्षाओं के लिए मंकी लाल वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर और अनुसूचित क्षेत्र परियोजना अधिकारी के माध्यम से मुफ्त कोचिंग। कार्यालय. आवेदक अपना आवेदन पत्र निदेशक, एम. एल. वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर से या अनुसूचित क्षेत्र के परियोजना अधिकारी के कार्यालय के माध्यम से निःशुल्क प्राप्त कर सकते हैं, प्रपत्र भर सकते हैं, दस्तावेज संलग्न कर सकते हैं और उसी कार्यालय में जमा कर सकते हैं। बांसवाड़ा, चित्तौड़गढ़, डूंगरपुर, पाली, सिरोही, उदयपुर, राजसमंद और प्रतापगढ़। प्रतियोगी परीक्षा कोचिंग के लिए आवेदन करने के लिए आवेदक के पास निम्नलिखित दस्तावेज होने चाहिएः --शिक्षा योग्यता मार्कशीट/प्रमाणपत्र प्रतिलिपि-अधिवास प्रमाणपत्र प्रतिलिपि-जाति प्रमाणपत्र प्रतिलिपि-बुवाई प्रमाणपत्र प्रतिलिपि इस योजना का लाभ एक छात्र द्वारा केवल एक बार उठाया जा सकता है"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "1. आवेदक अपना आवेदन पत्र निदेशक, एम. एल. वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर से या अनुसूचित क्षेत्र के परियोजना अधिकारी के कार्यालय के माध्यम से निःशुल्क प्राप्त कर सकते हैं।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "2. प्रपत्र भरने के बाद, इसे आवश्यक दस्तावेजों की फोटोकॉपी के साथ उसी कार्यालय में जमा करना होगा।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "एसटी श्रेणी का छात्र होना चाहिए। पुरुष और महिला दोनों छात्र इस योजना का लाभ उठाने के पात्र हैं।"
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "isStudent": "Yes",
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "eligibilityDescription_md": "एसटी श्रेणी का छात्र होना चाहिए। पुरुष और महिला दोनों छात्र इस योजना का लाभ उठाने के पात्र हैं।"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "एसटी श्रेणी का छात्र होना चाहिए। पुरुष और महिला दोनों छात्र इस योजना का लाभ उठाने के पात्र हैं।"
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "isStudent": "Yes",
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "eligibilityDescription_md": "एसटी श्रेणी का छात्र होना चाहिए। पुरुष और महिला दोनों छात्र इस योजना का लाभ उठाने के पात्र हैं।"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sowing Certificate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बुवाई प्रमाणपत्र"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": ""
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The girls and boys students of Rajasthan, belonging to Scheduled Tribes Communities are Eligible to take the benefits from this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The girls and boys students of Rajasthan, belonging to Scheduled Tribes Communities are Eligible to take the benefits from this scheme.\n"
+        },
+        {
+          "question": "What is the benefit given under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The benefit To The Students under this scheme includes free coaching for various competitive exams."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The benefit To The Students under this scheme includes free coaching for various competitive exams.\n"
+        },
+        {
+          "question": "In which districts of Rajasthan is this scheme applicable?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Competitive Exam Coaching is implemented in the following Districts: Banswara, Chittorgarh, Dungarpur, Pali, Sirohi, Udaipur, Rajsamand, and Pratapgarh"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Competitive Exam Coaching is implemented in the following Districts: Banswara, Chittorgarh, Dungarpur, Pali, Sirohi, Udaipur, Rajsamand, and Pratapgarh\n"
+        },
+        {
+          "question": "What is the application process to avail benefits of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants can obtain their application form free of cost from the Director, M.L.Verma Tribal Research and Training Institute, Udaipur or through the Office of the Project Officer of the Scheduled Area and submit the filled form along with the documents required."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can obtain their application form free of cost from the Director, M.L.Verma Tribal Research and Training Institute, Udaipur or through the Office of the Project Officer of the Scheduled Area and submit the filled form along with the documents required.\n"
+        },
+        {
+          "question": "Which Documents are required for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The photocopy of the following documents is to be submitted:\nEducation Qualification Marksheet / Certificate\n•  Domicile Certificate\n•  Caste Certificate\n•  Sowing Certificate"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The photocopy of the following documents is to be submitted:\nEducation Qualification Marksheet / Certificate\n*  Domicile Certificate\n*  Caste Certificate\n*  Sowing Certificate\n"
+        },
+        {
+          "question": "Can a person avail of the benefits of this scheme twice?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, one student can get the benefit of free coaching under this scheme only once. A Sowing certificate needs to be submitted declaring that the student hasn't taken the benefit of this scheme before."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, one student can get the benefit of free coaching under this scheme only once. A Sowing certificate needs to be submitted declaring that the student hasn't taken the benefit of this scheme before.\n"
+        },
+        {
+          "question": "Does this scheme provide coaching for school?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scheme provides free coaching for various competitive exams."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme provides free coaching for various competitive exams.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान की अनुसूचित जनजाति समुदायों से संबंधित लड़कियाँ और लड़के इस योजना का लाभ लेने के पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The girls and boys students of Rajasthan, belonging to Scheduled Tribes Communities are Eligible to take the benefits from this scheme.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत छात्रों को मिलने वाले लाभ में विभिन्न प्रतियोगी परीक्षाओं के लिए मुफ्त कोचिंग शामिल है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The benefit To The Students under this scheme includes free coaching for various competitive exams.\n"
+        },
+        {
+          "question": "राजस्थान के किन जिलों में यह योजना लागू है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रतियोगी परीक्षा कोचिंग निम्नलिखित जिलों में लागू की गई हैः बांसवाड़ा, चित्तौड़गढ़, डूंगरपुर, पाली, सिरोही, उदयपुर, राजसमंद और प्रतापगढ़"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Competitive Exam Coaching is implemented in the following Districts: Banswara, Chittorgarh, Dungarpur, Pali, Sirohi, Udaipur, Rajsamand, and Pratapgarh\n"
+        },
+        {
+          "question": "इस योजना का लाभ उठाने के लिए आवेदन प्रक्रिया क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक अपना आवेदन पत्र निदेशक, एम. एल. वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर से या अनुसूचित क्षेत्र के परियोजना अधिकारी के कार्यालय के माध्यम से निःशुल्क प्राप्त कर सकते हैं और आवश्यक दस्तावेजों के साथ भरा हुआ फॉर्म जमा कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can obtain their application form free of cost from the Director, M.L.Verma Tribal Research and Training Institute, Udaipur or through the Office of the Project Officer of the Scheduled Area and submit the filled form along with the documents required.\n"
+        },
+        {
+          "question": "इस योजना के लिए किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निम्नलिखित दस्तावेजों की फोटोकॉपी जमा की जानी हैः शिक्षा योग्यता मार्कशीट/प्रमाण पत्र; अधिवास प्रमाण पत्र; जाति प्रमाण पत्र; बुवाई प्रमाण पत्र"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The photocopy of the following documents is to be submitted:\nEducation Qualification Marksheet / Certificate\n*  Domicile Certificate\n*  Caste Certificate\n*  Sowing Certificate\n"
+        },
+        {
+          "question": "क्या कोई व्यक्ति इस योजना का दो बार लाभ उठा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, एक छात्र को इस योजना के तहत केवल एक बार मुफ्त कोचिंग का लाभ मिल सकता है। यह घोषणा करते हुए एक बुवाई प्रमाण पत्र प्रस्तुत करने की आवश्यकता है कि छात्र ने पहले इस योजना का लाभ नहीं लिया है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, one student can get the benefit of free coaching under this scheme only once. A Sowing certificate needs to be submitted declaring that the student hasn't taken the benefit of this scheme before.\n"
+        },
+        {
+          "question": "क्या यह योजना विद्यालय के लिए प्रशिक्षण प्रदान करती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना विभिन्न प्रतियोगी परीक्षाओं के लिए मुफ्त कोचिंग प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme provides free coaching for various competitive exams.\n"
+        }
+      ]
+    }
+  }
+}

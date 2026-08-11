@@ -1,0 +1,2091 @@
+{
+  "scheme_id": "65e00658da55878ebe088540",
+  "slug": "mvyspy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Pension",
+        "Financial",
+        "Old Age",
+        "Disability"
+      ],
+      "schemeName": "Mukhyamantri Vishesh Yogyajan Sammaan Pension Yojana",
+      "schemeShortTitle": "MVYSPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "Pension"
+        }
+      ],
+      "schemeOpenDate": "2013-04-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/113"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Mukhyamantri Vishesh Yogyajan Samman Pension Yojana (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities. Launched in 2013 under the auspices of the Department of Social Justice and Empowerment, this visionary scheme aims to extend crucial financial assistance to persons with disabilities (PwDs) across the state. It operates as a lifeline for individuals grappling with various disabilities, ensuring their financial security and enabling them to lead dignified lives. By providing a pension to eligible beneficiaries, MVSYS not only addresses the economic challenges faced by PwDs but also emphasizes inclusivity and equal opportunities. Through its implementation, the scheme not just disperses funds but fosters a culture of empathy and support, reaffirming the government&amp;#39;s commitment to uplifting marginalized communities. In essence, MVSYS embodies the principles of social justice and empowerment, serving as a beacon of hope and resilience for individuals with disabilities in Rajasthan.\n",
+      "benefits_md": "**The following monthly pension will be provided:**\nAge CriteriaAmount75 Years or Less₹1,000/- per Month.75 Years or More₹1,250/- per Month.Leprosy Free Patient₹2,500/- per Month.Silicosis Disease Patient₹1,500/- per Month.<br>\n\n",
+      "briefDescription": "The \"Mukhyamantri Vishesh Yogyajan Samman Pension Yojana\" (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Mukhyamantri Vishesh Yogyajan Samman Pension Yojana (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities. Launched in 2013 under the auspices of the Department of Social Justice and Empowerment, this visionary scheme aims to extend crucial financial assistance to persons with disabilities (PwDs) across the state. It operates as a lifeline for individuals grappling with various disabilities, ensuring their financial security and enabling them to lead dignified lives. By providing a pension to eligible beneficiaries, MVSYS not only addresses the economic challenges faced by PwDs but also emphasizes inclusivity and equal opportunities. Through its implementation, the scheme not just disperses funds but fosters a culture of empathy and support, reaffirming the government's commitment to uplifting marginalized communities. In essence, MVSYS embodies the principles of social justice and empowerment, serving as a beacon of hope and resilience for individuals with disabilities in Rajasthan."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following monthly pension will be provided:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Age Criteria"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Amount"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75 Years or Less"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,000/- per Month."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75 Years or More"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,250/- per Month."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Leprosy Free Patient"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,500/- per Month."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Silicosis Disease Patient"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,500/- per Month."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “IFMS-RAJSSP” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"IFMS-RAJSSP\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah Family ID\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “IFMS-RAJSSP” option. \n**Step-4:** In &quot;IFMS-RAJSSP&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah Family ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Beneficiary must be permanent resident of Rajasthan State.\n1. The beneficiary must have any one of the following disabilities:\n\n  - 40% or more disability (blindness, shortsightedness, locomotor disability, leprosy free, hearing loss, mental retardation, mental illness, dwarfism, eunuch)\n  - Dwarfism with height less than 3 feet 6 inches.\n  - Suffering from Eunuchism.\n  - Cured leprosy or Silicosis disease.\n\n1. Annual family income must not exceed ₹60,000/-\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary must be permanent resident of Rajasthan State."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary must have any one of the following disabilities:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "40% or more disability (blindness, shortsightedness, locomotor disability, leprosy free, hearing loss, mental retardation, mental illness, dwarfism, eunuch)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Dwarfism with height less than 3 feet 6 inches."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Suffering from Eunuchism."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Cured leprosy or Silicosis disease."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Annual family income must not exceed ₹60,000/-"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "पेंशन",
+        "वित्तीय",
+        "वृद्धावस्था",
+        "अक्षमता"
+      ],
+      "schemeName": "मुख्यमंत्री विशेष योग्यजन सम्मान पेंशन योजना",
+      "schemeShortTitle": "MVYSPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "पेंशन"
+        }
+      ],
+      "schemeOpenDate": "2013-04-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/113"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री विशेष योग्यजन सम्मान पेंशन योजना (एम. वी. एस. वाई. एस.) अपने नागरिकों, विशेष रूप से विकलांग लोगों के कल्याण के प्रति राजस्थान सरकार की प्रतिबद्धता का प्रमाण है। सामाजिक न्याय और अधिकारिता विभाग के तत्वावधान में 2013 में शुरू की गई इस दूरदर्शी योजना का उद्देश्य राज्य भर में विकलांग व्यक्तियों (पीडब्ल्यूडी) को महत्वपूर्ण वित्तीय सहायता प्रदान करना है। यह विभिन्न अक्षमताओं से जूझ रहे व्यक्तियों के लिए एक जीवन रेखा के रूप में काम करता है, उनकी वित्तीय सुरक्षा सुनिश्चित करता है और उन्हें सम्मानजनक जीवन जीने में सक्षम बनाता है। पात्र लाभार्थियों को पेंशन प्रदान करके, एम. वी. एस. वाई. एस. न केवल दिव्यांगजनों के सामने आने वाली आर्थिक चुनौतियों का समाधान करता है, बल्कि समावेशिता और समान अवसरों पर भी जोर देता है। अपने कार्यान्वयन के माध्यम से, यह योजना न केवल धन का वितरण करती है, बल्कि सहानुभूति और समर्थन की संस्कृति को बढ़ावा देती है, जो हाशिए पर पड़े समुदायों के उत्थान के लिए सरकार की प्रतिबद्धता की पुष्टि करती है। संक्षेप में, एम. वी. एस. वाई. एस. सामाजिक न्याय और सशक्तिकरण के सिद्धांतों का प्रतीक है, जो राजस्थान में विकलांग व्यक्तियों के लिए आशा और लचीलेपन के प्रकाश स्तंभ के रूप में कार्य करता है।",
+      "benefits_md": "* * निम्नलिखित मासिक पेंशन प्रदान की जाएगीः * * आयु मानदंड राशि 75 वर्ष या उससे कम ₹1,000/- प्रति माह 75 वर्ष या उससे अधिक ₹1,250/- प्रति माह. कुष्ठ रोग मुक्त रोगी ₹2,500/- प्रति माह. सिलिकोसिस रोग रोगी ₹1,500/- प्रति माह",
+      "briefDescription": "\"मुख्यमंत्री विशेष योग्यजन सम्मान पेंशन योजना\" (एम. वी. एस. वाई. एस.) अपने नागरिकों, विशेष रूप से विकलांग लोगों के कल्याण के प्रति राजस्थान सरकार की प्रतिबद्धता का प्रमाण है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मुख्यमंत्री विशेष योग्यजन सम्मान पेंशन योजना (एम. वी. एस. वाई. एस.) अपने नागरिकों, विशेष रूप से विकलांग लोगों के कल्याण के प्रति राजस्थान सरकार की प्रतिबद्धता का प्रमाण है। सामाजिक न्याय और अधिकारिता विभाग के तत्वावधान में 2013 में शुरू की गई इस दूरदर्शी योजना का उद्देश्य राज्य भर में विकलांग व्यक्तियों (पीडब्ल्यूडी) को महत्वपूर्ण वित्तीय सहायता प्रदान करना है। यह विभिन्न अक्षमताओं से जूझ रहे व्यक्तियों के लिए एक जीवन रेखा के रूप में काम करता है, उनकी वित्तीय सुरक्षा सुनिश्चित करता है और उन्हें सम्मानजनक जीवन जीने में सक्षम बनाता है। पात्र लाभार्थियों को पेंशन प्रदान करके, एम. वी. एस. वाई. एस. न केवल दिव्यांगजनों के सामने आने वाली आर्थिक चुनौतियों का समाधान करता है, बल्कि समावेशिता और समान अवसरों पर भी जोर देता है। अपने कार्यान्वयन के माध्यम से, यह योजना न केवल धन का वितरण करती है, बल्कि सहानुभूति और समर्थन की संस्कृति को बढ़ावा देती है, जो हाशिए पर पड़े समुदायों के उत्थान के लिए सरकार की प्रतिबद्धता की पुष्टि करती है। संक्षेप में, एम. वी. एस. वाई. एस. सामाजिक न्याय और सशक्तिकरण के सिद्धांतों का प्रतीक है, जो राजस्थान में विकलांग व्यक्तियों के लिए आशा और लचीलेपन के प्रकाश स्तंभ के रूप में कार्य करता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "निम्नलिखित मासिक पेंशन प्रदान की जाएगीः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आयु मानदंड"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "राशि"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75 वर्ष या उससे कम"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,000/- प्रति माह।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75 वर्ष या उससे अधिक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,250/- प्रति माह।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कुष्ठ रोग मुक्त रोगी"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,500/- प्रति माह।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "सिलिकोसिस रोग रोगी"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1500/- प्रति माह।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". में, \"आवेदन प्रविष्टि अनुरोध\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "\"भामाशाह परिवार आईडी\" दर्ज करें और खोजें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "व्यक्ति का नाम और योजना का नाम चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "आवश्यक विवरण प्रदान करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पेंशनभोगी विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बैंक विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- विकलांगता विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- सत्यापन विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण-3: * * \"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें। * * चरण-4: * * आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी. में 'आवेदन प्रविष्टि अनुरोध' पर क्लिक करें। * * चरण-5: * * भामाशाह परिवार आईडी दर्ज करें और खोजें। * * चरण-6: * * व्यक्ति का नाम और योजना का नाम चुनें। * * चरण-7: * * आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें। * * चरण-8: * * आवश्यक विवरण प्रदान करें। - पेंशनभोगी विवरण। - बैंक विवरण। - विकलांगता विवरण। - सत्यापन विवरण। - दस्तावेज़ अपलोड करें। * * चरण-9: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": 60000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. लाभार्थी को राजस्थान राज्य का स्थायी निवासी होना चाहिए। 1. लाभार्थी को निम्नलिखित में से कोई एक अक्षमता होनी चाहिएः 40 प्रतिशत या उससे अधिक अक्षमता (अंधापन, अल्पदृष्टि, चलने-फिरने में अक्षमता, कुष्ठ रोग मुक्त, श्रवण हानि, मानसिक मंदता, मानसिक बीमारी, बौनापन, 3 फीट 6 इंच से कम ऊंचाई वाले बौनेपन)। 1. वार्षिक पारिवारिक आय ₹60,000/- से अधिक नहीं होनी चाहिए",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "disabilityPercentage": {
+        "gte": 40,
+        "lte": 100
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी को राजस्थान राज्य का स्थायी निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी के पास निम्नलिखित में से कोई एक अक्षमता होनी चाहिएः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "40 प्रतिशत या उससे अधिक अक्षमता (अंधापन, अल्पदृष्टि, चलने-फिरने में अक्षमता, कुष्ठ रोग मुक्त, श्रवण हानि, मानसिक मंदता, मानसिक बीमारी, बौनापन,"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "3 फीट 6 इंच से कम ऊंचाई के साथ बौनापन।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "नपुंसकता से पीड़ित।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कुष्ठ रोग या सिलिकोसिस रोग का इलाज।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वार्षिक पारिवारिक आय ₹60,000/- से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "disability": true,
+      "disabilityType": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": 60000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. लाभार्थी को राजस्थान राज्य का स्थायी निवासी होना चाहिए। 1. लाभार्थी को निम्नलिखित में से कोई एक अक्षमता होनी चाहिएः 40 प्रतिशत या उससे अधिक अक्षमता (अंधापन, अल्पदृष्टि, चलने-फिरने में अक्षमता, कुष्ठ रोग मुक्त, श्रवण हानि, मानसिक मंदता, मानसिक बीमारी, बौनापन, 3 फीट 6 इंच से कम ऊंचाई वाले बौनेपन)। 1. वार्षिक पारिवारिक आय ₹60,000/- से अधिक नहीं होनी चाहिए",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "disabilityPercentage": {
+      "gte": 40,
+      "lte": 100
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी को राजस्थान राज्य का स्थायी निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी के पास निम्नलिखित में से कोई एक अक्षमता होनी चाहिएः"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "40 प्रतिशत या उससे अधिक अक्षमता (अंधापन, अल्पदृष्टि, चलने-फिरने में अक्षमता, कुष्ठ रोग मुक्त, श्रवण हानि, मानसिक मंदता, मानसिक बीमारी, बौनापन,"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "3 फीट 6 इंच से कम ऊंचाई के साथ बौनापन।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "नपुंसकता से पीड़ित।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "कुष्ठ रोग या सिलिकोसिस रोग का इलाज।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वार्षिक पारिवारिक आय ₹60,000/- से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "disability": true,
+    "disabilityType": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disability Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Medical Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card Copy\n1. Jan Aadhar/Bhamashah Card Copy\n1. Birth Certificate.\n1. Income Certificate.\n1. Disability Certificate.\n1. Medical Certificate.\n1. Bank Account Details.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विकलांगता प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "चिकित्सा प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhar Card Copy\n1. Jan Aadhar/Bhamashah Card Copy\n1. Birth Certificate.\n1. Income Certificate.\n1. Disability Certificate.\n1. Medical Certificate.\n1. Bank Account Details.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme about?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Mukhyamantri Vishesh Yogyajan Samman Pension Yojana\" (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The \"Mukhyamantri Vishesh Yogyajan Samman Pension Yojana\" (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities\n"
+        },
+        {
+          "question": "Is there any Disability Percentage ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicant should be Disabled and Disability Percentage should be more than 40%."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant should be Disabled and Disability Percentage should be more than 40%.\n"
+        },
+        {
+          "question": "Will the benefit of this scheme be provided to all the citizens of the state?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state.\n"
+        },
+        {
+          "question": "Is there a income Criteria in this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Annual Income of Beneficiary Family should not be more than ₹60,000/-."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Annual Income of Beneficiary Family should not be more than [?]60,000/-.\n"
+        },
+        {
+          "question": "Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Fees for Chief Minister Specially Abled Samman Pension Scheme is ₹33/- . Payment of fees can be done through E-Mitra."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Fees for Chief Minister Specially Abled Samman Pension Scheme is [?]33/- . Payment of fees can be done through E-Mitra.\n"
+        },
+        {
+          "question": "What is DBT?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries. \n"
+        },
+        {
+          "question": "What is Bhamashah Card ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account.\n"
+        },
+        {
+          "question": "Can applicants from outside Rajasthan apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "What is IFSC code?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India.\n"
+        },
+        {
+          "question": "Is there a Payment Frequency?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Pension will be provided on monthly basis."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Pension will be provided on monthly basis.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह योजना किस बारे में है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"मुख्यमंत्री विशेष योग्यजन सम्मान पेंशन योजना\" (एम. वी. एस. वाई. एस.) अपने नागरिकों, विशेष रूप से विकलांग लोगों के कल्याण के प्रति राजस्थान सरकार की प्रतिबद्धता का प्रमाण है"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The \"Mukhyamantri Vishesh Yogyajan Samman Pension Yojana\" (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities\n"
+        },
+        {
+          "question": "क्या कोई विकलांगता प्रतिशत है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक विकलांग होना चाहिए और विकलांग प्रतिशत 40 प्रतिशत से अधिक होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant should be Disabled and Disability Percentage should be more than 40%.\n"
+        },
+        {
+          "question": "क्या इस योजना का लाभ राज्य के सभी नागरिकों को मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना का लाभ केवल राजस्थान राज्य के श्रमिक परिवार की अविवाहित बेटियों को ही दिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state.\n"
+        },
+        {
+          "question": "क्या इस योजना में आय मानदंड है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी परिवार की वार्षिक आय ₹60,000/- से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Annual Income of Beneficiary Family should not be more than [?]60,000/-.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मुख्यमंत्री विशेष रूप से सक्षम सम्मान पेंशन योजना के लिए शुल्क ₹33/- है। शुल्क का भुगतान ई-मित्र के माध्यम से किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Fees for Chief Minister Specially Abled Samman Pension Scheme is [?]33/- . Payment of fees can be done through E-Mitra.\n"
+        },
+        {
+          "question": "डी. बी. टी. क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डी. बी. टी. का अर्थ है प्रत्यक्ष लाभ हस्तांतरण। यह सरकारों द्वारा वित्तीय सहायता या सब्सिडी को सीधे लाभार्थियों के बैंक खातों में हस्तांतरित करने के लिए उपयोग की जाने वाली एक प्रणाली है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries. \n"
+        },
+        {
+          "question": "भामाशाह कार्ड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना द्वारा प्रदान किया गया भामाशाह कार्ड गृहिणी के नाम के बैंक खाते से जुड़ा होता है। कार्ड महिलाओं को बायोमेट्रिक पहचान और मुख्य बैंकिंग कार्यों के साथ-साथ विभिन्न प्रकार के नकद लाभ भी प्रदान करता है जो सीधे उनके बैंक खाते में स्थानांतरित किए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account.\n"
+        },
+        {
+          "question": "क्या राजस्थान के बाहर के आवेदक इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "आईएफएससी कोड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आईएफएससी कोड विशिष्ट रूप से भारत में इलेक्ट्रॉनिक निधि हस्तांतरण प्रणालियों में भाग लेने वाली एक विशिष्ट बैंक शाखा की पहचान करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India.\n"
+        },
+        {
+          "question": "क्या कोई भुगतान आवृत्ति है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पेंशन मासिक आधार पर प्रदान की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Pension will be provided on monthly basis.\n"
+        }
+      ]
+    }
+  }
+}

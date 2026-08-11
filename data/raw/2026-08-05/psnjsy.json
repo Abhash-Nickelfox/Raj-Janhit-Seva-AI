@@ -1,0 +1,1181 @@
+{
+  "scheme_id": "6763c134f41779c1f974a5ea",
+  "slug": "psnjsy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal Shelter",
+        "Animal Husbandry"
+      ],
+      "schemeName": "Panchayat Samiti Nandishala Jan Sahbhagita Yojana",
+      "schemeShortTitle": "PSNJSY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "Shelter, integrated support and assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "joint-liability-groups",
+          "label": "Joint Liability Groups (JLGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000002,
+        "label": "Animal Husbandry Department"
+      },
+      "schemeFor": "Infra"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://gopalan.rajasthan.gov.in/scheme/detail/973"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Panchayat Samiti Nandishala Jan Sahbhagita Yojana&amp;quot;, launched in 2021-22, by the Animal Husbandry Department, Rajasthan, aims to support the construction of permanent infrastructure for the shelter of stray male cattle in each Panchayat Samiti. The scheme provides financial assistance for Nandishala.\n",
+      "benefits_md": "\n  - One-time assistance of 90% of the total construction cost.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The \"Panchayat Samiti Nandishala Jan Sahbhagita Yojana\" was initiated to provide shelter for stray male cattle by constructing infrastructure in Panchayat Samitis.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Panchayat Samiti Nandishala Jan Sahbhagita Yojana\", launched in 2021-22, by the Animal Husbandry Department, Rajasthan, aims to support the construction of permanent infrastructure for the shelter of stray male cattle in each Panchayat Samiti. The scheme provides financial assistance for Nandishala."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "One-time assistance of 90% of the total construction cost."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Obtain the application form from the Office of the District Joint Director, Animal Husbandry Department."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Review the tender notices and apply online as per the guidelines."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the application form along with the required documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Await verification and approval from the concerned authority."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Scheme Contact Details:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Nodal Officer Name & Designation: Dr. Anil Kaushik, Joint Director\t"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Phone Number: 9829332050"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Email: dir.dgs@rajasthan.gov.in"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Obtain the application form from the Office of the District Joint Director, Animal Husbandry Department.\n**Step 2:** Review the tender notices and apply online as per the guidelines.\n**Step 3:** Submit the application form along with the required documents.\n**Step 4:** Await verification and approval from the concerned authority.\n&lt;br&gt;\n\n&gt; **Scheme Contact Details:**\n\n&gt; Nodal Officer Name &amp;amp; Designation: Dr. Anil Kaushik, Joint Director\t\n\n&gt; Phone Number: 9829332050\n\n&gt; Email: dir.dgs@rajasthan.gov.in\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Eligible entities include local bodies, Panchayati Raj institutions, registered trusts, NGOs, and government-recognized institutions.\n   1. The organization must have been operational for at least 3 years.\n   1. Ownership of 20 bighas of private land to sustain 250 male cattle.\n   1. Minimum of 3 years of experience in operating a cattle shelter or similar activities.\n   1. Availability of 10% contribution towards the project cost.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Eligible entities include local bodies, Panchayati Raj institutions, registered trusts, NGOs, and government-recognized institutions."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The organization must have been operational for at least 3 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Ownership of 20 bighas of private land to sustain 250 male cattle."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Minimum of 3 years of experience in operating a cattle shelter or similar activities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Availability of 10% contribution towards the project cost."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "पशु आश्रय",
+        "पशुपालन"
+      ],
+      "schemeName": "पंचायत समिति नंदीशाला जनभागीता योजना",
+      "schemeShortTitle": "PSNJSY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "आश्रय, एकीकृत सहायता और सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "joint-liability-groups",
+          "label": "Joint Liability Groups (JLGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000002,
+        "label": "पशुपालन विभाग"
+      },
+      "schemeFor": "Infra"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://gopalan.rajasthan.gov.in/scheme/detail/973"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "पशुपालन विभाग, राजस्थान द्वारा आईडी1 में शुरू की गई पंचायत समिति नंदीशाला जन सहभागीता योजना का उद्देश्य प्रत्येक पंचायत समिति में आवारा नर मवेशियों के आश्रय के लिए स्थायी बुनियादी ढांचे के निर्माण में सहायता करना है। यह योजना नंदीशाला को वित्तीय सहायता प्रदान करती है।",
+      "benefits_md": "- कुल निर्माण लागत का 90 प्रतिशत एकमुश्त सहायता।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "पंचायत समितियों में बुनियादी ढांचे का निर्माण करके आवारा नर मवेशियों को आश्रय प्रदान करने के लिए \"पंचायत समिति नंदीशाला जन सहभागीता योजना\" शुरू की गई थी।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पशुपालन विभाग, राजस्थान द्वारा 2021-22 में शुरू की गई \"पंचायत समिति नंदीशाला जन सहभागीता योजना\" का उद्देश्य प्रत्येक पंचायत समिति में आवारा नर मवेशियों के आश्रय के लिए स्थायी बुनियादी ढांचे के निर्माण में सहायता करना है। यह योजना नंदीशाला को वित्तीय सहायता प्रदान करती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कुल निर्माण लागत का 90 प्रतिशत एकमुश्त सहायता।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय से आवेदन पत्र प्राप्त करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "निविदा सूचनाओं की समीक्षा करें और दिशानिर्देशों के अनुसार ऑनलाइन आवेदन करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवश्यक दस्तावेजों के साथ आवेदन पत्र जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "संबंधित प्राधिकारी से सत्यापन और अनुमोदन की प्रतीक्षा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "योजना संपर्क विवरणः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "नोडल अधिकारी का नाम और पदनामः डॉ. अनिल कौशिक, संयुक्त निदेशक"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "फोन नंबरः 9829332050"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "ईमेलः dir.dgs@rajasthan.gov.in"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * * जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय से आवेदन पत्र प्राप्त करें। चरण 2: निविदा सूचनाओं की समीक्षा करें और दिशानिर्देशों के अनुसार ऑनलाइन आवेदन करें। चरण 3: आवश्यक दस्तावेजों के साथ आवेदन पत्र जमा करें। चरण 4: संबंधित प्राधिकारी से सत्यापन और अनुमोदन की प्रतीक्षा करें। योजना संपर्क विवरणः नोडल अधिकारी का नाम और पदनामः डॉ. अनिल कौशिक, संयुक्त निदेशक और जीटी; फोन नंबरः 9829332050 & जीटी; ईमेलः dir.dgs@rajasthan.gov.in"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 65,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. योग्य संस्थाओं में स्थानीय निकाय, पंचायती राज संस्थान, पंजीकृत न्यास, गैर सरकारी संगठन और सरकार द्वारा मान्यता प्राप्त संस्थान शामिल हैं। 1. संगठन कम से कम 3 साल से कार्यरत होना चाहिए। 1. 250 नर मवेशियों को पालने के लिए 20 बीघा निजी भूमि का स्वामित्व। 1. पशु आश्रय या इसी तरह की गतिविधियों के संचालन में न्यूनतम 3 वर्ष का अनुभव। 1. परियोजना लागत में 10 प्रतिशत योगदान की उपलब्धता।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "योग्य संस्थाओं में स्थानीय निकाय, पंचायती राज संस्थान, पंजीकृत न्यास, गैर सरकारी संगठन और सरकार द्वारा मान्यता प्राप्त संस्थान शामिल हैं।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "संगठन कम से कम 3 साल से कार्यरत होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "250 नर मवेशियों को पालने के लिए 20 बीघा निजी भूमि का स्वामित्व।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पशु आश्रय या इसी तरह की गतिविधियों के संचालन में न्यूनतम 3 वर्ष का अनुभव।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "परियोजना लागत में 10 प्रतिशत योगदान की उपलब्धता।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 65,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. योग्य संस्थाओं में स्थानीय निकाय, पंचायती राज संस्थान, पंजीकृत न्यास, गैर सरकारी संगठन और सरकार द्वारा मान्यता प्राप्त संस्थान शामिल हैं। 1. संगठन कम से कम 3 साल से कार्यरत होना चाहिए। 1. 250 नर मवेशियों को पालने के लिए 20 बीघा निजी भूमि का स्वामित्व। 1. पशु आश्रय या इसी तरह की गतिविधियों के संचालन में न्यूनतम 3 वर्ष का अनुभव। 1. परियोजना लागत में 10 प्रतिशत योगदान की उपलब्धता।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "योग्य संस्थाओं में स्थानीय निकाय, पंचायती राज संस्थान, पंजीकृत न्यास, गैर सरकारी संगठन और सरकार द्वारा मान्यता प्राप्त संस्थान शामिल हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "संगठन कम से कम 3 साल से कार्यरत होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "250 नर मवेशियों को पालने के लिए 20 बीघा निजी भूमि का स्वामित्व।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पशु आश्रय या इसी तरह की गतिविधियों के संचालन में न्यूनतम 3 वर्ष का अनुभव।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "परियोजना लागत में 10 प्रतिशत योगदान की उपलब्धता।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Proof of organization's registration and existence for at least 3 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Land ownership documents for 20 bighas of private land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Experience certificate for operating a cattle shelter for at least 3 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any additional documents as per scheme guidelines."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Proof of organization&amp;#39;s registration and existence for at least 3 years.\n   1. Land ownership documents for 20 bighas of private land.\n   1. Experience certificate for operating a cattle shelter for at least 3 years.\n   1. Any additional documents as per scheme guidelines.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कम से कम 3 वर्षों के लिए संगठन के पंजीकरण और अस्तित्व का प्रमाण।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "20 बीघा निजी भूमि के लिए भूमि स्वामित्व दस्तावेज।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "कम से कम 3 वर्षों के लिए पशु आश्रय के संचालन के लिए अनुभव प्रमाण पत्र।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "योजना दिशानिर्देशों के अनुसार कोई भी अतिरिक्त दस्तावेज।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Proof of organization&amp;#39;s registration and existence for at least 3 years.\n   1. Land ownership documents for 20 bighas of private land.\n   1. Experience certificate for operating a cattle shelter for at least 3 years.\n   1. Any additional documents as per scheme guidelines.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the \"Panchayat Samiti Nandishala Jan Sahbhagita Yojana\"?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The objective of the scheme is to provide shelter for stray male cattle by supporting the construction of permanent infrastructure in Panchayat Samitis.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the scheme is to provide shelter for stray male cattle by supporting the construction of permanent infrastructure in Panchayat Samitis.\n\n\n"
+        },
+        {
+          "question": "Who is eligible to apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eligible applicants include local bodies, Panchayati Raj institutions, registered NGOs, trusts, and government-recognized institutions.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible applicants include local bodies, Panchayati Raj institutions, registered NGOs, trusts, and government-recognized institutions.\n\n\n"
+        },
+        {
+          "question": "What is the financial assistance provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme provides financial assistance for 90% of the total project cost for each Nandishala.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides financial assistance for 90% of the total project cost for each Nandishala.\n\n\n"
+        },
+        {
+          "question": "How much land is required to be eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To be eligible, the organization/institution must own 20 bighas of private land to sustain 250 male cattle.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To be eligible, the organization/institution must own 20 bighas of private land to sustain 250 male cattle.\n\n\n"
+        },
+        {
+          "question": "What kind of experience is required to apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The organization/institution must have at least 3 years of experience in managing cattle shelters or conducting similar activities.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The organization/institution must have at least 3 years of experience in managing cattle shelters or conducting similar activities.\n\n\n"
+        },
+        {
+          "question": "Where can an applicant obtain the application form for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application form can be obtained from the Office of the District Joint Director, Animal Husbandry Department.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application form can be obtained from the Office of the District Joint Director, Animal Husbandry Department.\n\n\n"
+        },
+        {
+          "question": "Is the scheme applicable in urban areas?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme primarily targets Panchayat Samitis and rural institutions, but registered entities from urban areas may apply if they meet the eligibility criteria.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme primarily targets Panchayat Samitis and rural institutions, but registered entities from urban areas may apply if they meet the eligibility criteria.\n\n\n"
+        },
+        {
+          "question": "Are private organizations allowed to apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, private organizations, including NGOs, trusts, and registered institutions, can apply if they meet the eligibility requirements.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, private organizations, including NGOs, trusts, and registered institutions, can apply if they meet the eligibility requirements.\n\n\n"
+        },
+        {
+          "question": "How is the funding distributed under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The state government provides 90% of the total project cost, while the applicant must contribute the remaining 10%.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The state government provides 90% of the total project cost, while the applicant must contribute the remaining 10%.\n\n\n"
+        },
+        {
+          "question": "Where can applicants seek assistance regarding their applications?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicants can seek assistance from the Office of the District Joint Director, Animal Husbandry Department for any queries or clarifications regarding the application process."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can seek assistance from the Office of the District Joint Director, Animal Husbandry Department for any queries or clarifications regarding the application process.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "पंचायत समिति नंदीशाला जनभागीता योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य पंचायत समितियों में स्थायी बुनियादी ढांचे के निर्माण में सहायता करके आवारा नर मवेशियों को आश्रय प्रदान करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the scheme is to provide shelter for stray male cattle by supporting the construction of permanent infrastructure in Panchayat Samitis.\n\n\n"
+        },
+        {
+          "question": "इस योजना के लिए आवेदन करने के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्य आवेदकों में स्थानीय निकाय, पंचायती राज संस्थान, पंजीकृत गैर सरकारी संगठन, न्यास और सरकार द्वारा मान्यता प्राप्त संस्थान शामिल हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible applicants include local bodies, Panchayati Raj institutions, registered NGOs, trusts, and government-recognized institutions.\n\n\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना प्रत्येक नंदीशाला के लिए कुल परियोजना लागत के 90 प्रतिशत के लिए वित्तीय सहायता प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides financial assistance for 90% of the total project cost for each Nandishala.\n\n\n"
+        },
+        {
+          "question": "इस योजना के लिए पात्र होने के लिए कितनी भूमि की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पात्र होने के लिए, संगठन/संस्थान के पास 250 नर मवेशियों को बनाए रखने के लिए 20 बीघा निजी भूमि होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To be eligible, the organization/institution must own 20 bighas of private land to sustain 250 male cattle.\n\n\n"
+        },
+        {
+          "question": "इस योजना के लिए आवेदन करने के लिए किस तरह के अनुभव की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संगठन/संस्थान को पशु आश्रय के प्रबंधन या इसी तरह की गतिविधियों के संचालन में कम से कम 3 साल का अनुभव होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The organization/institution must have at least 3 years of experience in managing cattle shelters or conducting similar activities.\n\n\n"
+        },
+        {
+          "question": "एक आवेदक योजना के लिए आवेदन पत्र कहाँ से प्राप्त कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन पत्र जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय से प्राप्त किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application form can be obtained from the Office of the District Joint Director, Animal Husbandry Department.\n\n\n"
+        },
+        {
+          "question": "क्या यह योजना शहरी क्षेत्रों में लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना मुख्य रूप से पंचायत समितियों और ग्रामीण संस्थानों को लक्षित करती है, लेकिन शहरी क्षेत्रों से पंजीकृत संस्थाएं आवेदन कर सकती हैं यदि वे पात्रता मानदंडों को पूरा करती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme primarily targets Panchayat Samitis and rural institutions, but registered entities from urban areas may apply if they meet the eligibility criteria.\n\n\n"
+        },
+        {
+          "question": "क्या निजी संगठनों को इस योजना के लिए आवेदन करने की अनुमति है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, गैर सरकारी संगठनों, न्यासों और पंजीकृत संस्थानों सहित निजी संगठन आवेदन कर सकते हैं यदि वे पात्रता आवश्यकताओं को पूरा करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, private organizations, including NGOs, trusts, and registered institutions, can apply if they meet the eligibility requirements.\n\n\n"
+        },
+        {
+          "question": "योजना के तहत धन कैसे वितरित किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य सरकार कुल परियोजना लागत का 90 प्रतिशत प्रदान करती है, जबकि आवेदक को शेष 10 प्रतिशत का योगदान करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The state government provides 90% of the total project cost, while the applicant must contribute the remaining 10%.\n\n\n"
+        },
+        {
+          "question": "आवेदक अपने आवेदनों के संबंध में सहायता कहाँ ले सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक आवेदन प्रक्रिया के संबंध में किसी भी प्रश्न या स्पष्टीकरण के लिए जिला संयुक्त निदेशक, पशुपालन विभाग के कार्यालय से सहायता ले सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicants can seek assistance from the Office of the District Joint Director, Animal Husbandry Department for any queries or clarifications regarding the application process.\n"
+        }
+      ]
+    }
+  }
+}

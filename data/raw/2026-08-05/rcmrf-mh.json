@@ -1,0 +1,1133 @@
+{
+  "scheme_id": "641d9453ed6317c1931b1134",
+  "slug": "rcmrf-mh",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000025,
+        "label": "Medical, Health and Family Welfare Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Medical Help",
+        "Non BPL",
+        "Relief Fund",
+        "Rajasthan Scheme",
+        "Hospital"
+      ],
+      "schemeName": "Rajasthan Chief Minister's Relief Fund - Medical Help",
+      "schemeShortTitle": "RCMRF-MH",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Rajasthan Government Portal",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/434"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Rajasthan Chief Minister’s Relief Fund – medical help scheme launched on April 1999 under Chief Minister’s Relief Fund in Rajasthan for Individual for Non BPL whose family income should be at least 2lakhs per annum.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rajasthan Chief Minister’s Relief Fund – medical help scheme launched on April 1999 under Chief Minister’s Relief Fund in Rajasthan. Dependents of untimely dead due to famine, floods, excessive rains, fires and accidental accidents help."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For treatment information - Assistance is accepted in recognized private hospitals from the major Government/ Chief Minister’s Relief Fund of the state. 40% maximum amount of rs1.50 lakh in government hospitals and 30% maximum amount of Rs 90,000 in recognized private hospitals, whichever is less, is accepted and sent to the concerned hospital. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Demand draft or Direct Bank Transfer to the beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cochlear Implant Surgery of Deaf and Dumb Children - In the state of Rajasthan, deaf and dumb children up to the age of 6 years, whose family income is up to Rs. 2.00 lakh annually,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for Thalassemia Major Disease Treatment - 2 percent assistance is given from the Chief Minister's Assistance Fund up to Rs. 50.7 lakh"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance to a person suffering from serious diseases (cancer, kidney and urine, heart disease) do it."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "Rajasthan Chief Minister’s Relief Fund – medical help scheme launched on April 1999 under Chief Minister’s Relief Fund in Rajasthan. Dependents of untimely dead due to famine, floods, excessive rains, fires and accidental accidents help.\n<br>\n\nFor treatment information - Assistance is accepted in recognized private hospitals from the major Government/ Chief Minister’s Relief Fund of the state. 40% maximum amount of rs1.50 lakh in government hospitals and 30% maximum amount of Rs 90,000 in recognized private hospitals, whichever is less, is accepted and sent to the concerned hospital. \n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "http://www.cmrelief.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Visit the official website of the Chief Minister Relief Fund Rajasthan at "
+                  },
+                  {
+                    "type": "link",
+                    "link": "http://www.cmrelief.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://cmrf.rajasthan.gov.in/."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on the \"Apply for Medical Help\" option on the homepage."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "You will be directed to a new page where you need to select the \"Apply Online\" option."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill in the required details such as your name, address, contact details, medical condition, and required treatment."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upload the necessary documents such as medical certificates, doctor's reports, and bills."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Once you have filled in all the details, click on the \"Submit\" button."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After submitting the application, you will receive an acknowledgment number that you can use to track the status of your application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Alternatively, you can also apply offline by downloading the application form from the website and submitting it along with the necessary documents to the Chief Minister Relief Fund office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be Non BPL\n- The Annal Income of the Family should be greater than 2 LPA\n- Not be listed in ABMGRSBY (Ayushman Bharat Mahatma Gandhi Rajasthan Swasthya Bima Yojana)\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be Non BPL"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Annal Income of the Family should be greater than 2 LPA"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Not be listed in ABMGRSBY (Ayushman Bharat Mahatma Gandhi Rajasthan Swasthya Bima Yojana)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000025,
+        "label": "चिकित्सा, स्वास्थ्य और परिवार कल्याण विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "चिकित्सकीय सहायता",
+        "गैर बी. पी. एल",
+        "राहत कोष",
+        "राजस्थान योजना",
+        "अस्पताल"
+      ],
+      "schemeName": "राजस्थान मुख्यमंत्री राहत कोष-चिकित्सा सहायता",
+      "schemeShortTitle": "RCMRF-MH",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "राजस्थान सरकार पोर्टल",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/434"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "राजस्थान मुख्यमंत्री राहत कोष-चिकित्सा सहायता योजना अप्रैल 1999 में राजस्थान में मुख्यमंत्री राहत कोष के तहत गैर-बी. पी. एल. व्यक्तियों के लिए शुरू की गई थी, जिनकी पारिवारिक आय प्रति वर्ष कम से कम 2 लाख होनी चाहिए।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान मुख्यमंत्री राहत कोष-चिकित्सा सहायता योजना अप्रैल 1999 में राजस्थान में मुख्यमंत्री राहत कोष के तहत शुरू की गई थी। अकाल, बाढ़, अत्यधिक बारिश, आग और आकस्मिक दुर्घटनाओं के कारण असामयिक मृत्यु के आश्रित मदद करते हैं।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "उपचार की जानकारी के लिए-राज्य के प्रमुख सरकारी/मुख्यमंत्री राहत कोष से मान्यता प्राप्त निजी अस्पतालों में सहायता स्वीकार की जाती है। सरकारी अस्पतालों में 50 लाख रुपये की अधिकतम 40 प्रतिशत राशि और मान्यता प्राप्त निजी अस्पतालों में 90,000 रुपये की अधिकतम 30 प्रतिशत राशि, जो भी कम हो, स्वीकार की जाती है और संबंधित अस्पताल को भेजी जाती है।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी को डिमांड ड्राफ्ट या डायरेक्ट बैंक ट्रांसफर।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "और मूक बच्चों की कोक्लियर प्रत्यारोपण सर्जरी-राजस्थान राज्य में, 6 साल की उम्र तक के मूक-बधिर बच्चे, जिनके परिवार की आय रु। 2 लाख सालाना,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "थैलेसीमिया प्रमुख रोग उपचार के लिए सहायता-मुख्यमंत्री सहायता कोष से 2 प्रतिशत सहायता दी जाती है। 50. 7 लाख"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गंभीर बीमारियों (कैंसर, गुर्दा और मूत्र, हृदय रोग) से पीड़ित व्यक्ति को वित्तीय सहायता दी जाती है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "राजस्थान मुख्यमंत्री राहत कोष-चिकित्सा सहायता योजना अप्रैल 1999 में राजस्थान में मुख्यमंत्री राहत कोष के तहत शुरू की गई थी। अकाल, बाढ़, अत्यधिक बारिश, आग और आकस्मिक दुर्घटनाओं के कारण असमय मरने वालों के आश्रित मदद करते हैं। उपचार की जानकारी के लिए-राज्य के प्रमुख सरकारी/मुख्यमंत्री राहत कोष से मान्यता प्राप्त निजी अस्पतालों में सहायता स्वीकार की जाती है। सरकारी अस्पतालों में 50 लाख रुपये की अधिकतम 40 प्रतिशत राशि और मान्यता प्राप्त निजी अस्पतालों में 90,000 रुपये की अधिकतम 30 प्रतिशत राशि, जो भी कम हो, स्वीकार की जाती है और संबंधित अस्पताल को भेजी जाती है।"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "http://www.cmrelief.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मुख्यमंत्री राहत कोष राजस्थान की आधिकारिक वेबसाइट पर जाएँ"
+                  },
+                  {
+                    "type": "link",
+                    "link": "http://www.cmrelief.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://cmrf.rajasthan.gov.in/."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "होमपेज पर \"चिकित्सा सहायता के लिए आवेदन करें\" विकल्प पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आपको एक नए पृष्ठ पर भेजा जाएगा जहाँ आपको \"ऑनलाइन आवेदन करें\" विकल्प का चयन करना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अपना नाम, पता, संपर्क विवरण, चिकित्सा स्थिति और आवश्यक उपचार जैसे आवश्यक विवरण भरें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक दस्तावेज जैसे चिकित्सा प्रमाण पत्र, डॉक्टर की रिपोर्ट और बिल अपलोड करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एक बार जब आप सभी विवरण भर लेते हैं, तो \"जमा करें\" बटन पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन जमा करने के बाद, आपको एक पावती संख्या प्राप्त होगी जिसका उपयोग आप अपने आवेदन की स्थिति को ट्रैक करने के लिए कर सकते हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "वैकल्पिक रूप से, आप वेबसाइट से आवेदन पत्र डाउनलोड करके और इसे आवश्यक दस्तावेजों के साथ मुख्यमंत्री राहत कोष कार्यालय में जमा करके ऑफ़लाइन भी आवेदन कर सकते हैं।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": 250000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": 250000
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": 250000
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक गैर बी. पी. एल. होना चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "परिवार की वार्षिक आय 2 एलपीए से अधिक होनी चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एबीएमजीआरएसबीवाई (आयुष्मान भारत महात्मा गांधी राजस्थान स्वास्थ्य बीमा योजना) में सूचीबद्ध नहीं होना चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "eligibilityDescription_md": "- आवेदक गैर-बी. पी. एल. होना चाहिए-परिवार की वार्षिक आय 2 एल. पी. ए. से अधिक होनी चाहिए-ए. बी. एम. जी. आर. एस. बी. वाई. (आयुष्मान भारत महात्मा गांधी राजस्थान स्वास्थ्य बीमा योजना) में सूचीबद्ध नहीं होनी चाहिए"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": 250000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": 250000
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": 250000
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक गैर बी. पी. एल. होना चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "परिवार की वार्षिक आय 2 एलपीए से अधिक होनी चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एबीएमजीआरएसबीवाई (आयुष्मान भारत महात्मा गांधी राजस्थान स्वास्थ्य बीमा योजना) में सूचीबद्ध नहीं होना चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "eligibilityDescription_md": "- आवेदक गैर-बी. पी. एल. होना चाहिए-परिवार की वार्षिक आय 2 एल. पी. ए. से अधिक होनी चाहिए-ए. बी. एम. जी. आर. एस. बी. वाई. (आयुष्मान भारत महात्मा गांधी राजस्थान स्वास्थ्य बीमा योजना) में सूचीबद्ध नहीं होनी चाहिए"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate Copy* "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Address Proof Copy*"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Rashan Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Treatment Estimate by Doctor"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Medical Certificate"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र की प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पता प्रमाण प्रतिलिपि *"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रशन कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "चिकित्सक द्वारा उपचार का अनुमान"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मेडिकल सर्टिफिकेट"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": ""
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who Can Apply For This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " Individual from Non BPL whose family income should be atleast 2lakhs per annum"
+                }
+              ]
+            }
+          ],
+          "answer_md": " Individual from Non BPL whose family income should be atleast 2lakhs per annum\n"
+        },
+        {
+          "question": "What is the objective of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rajasthan Chief Minister’s Relief Fund – medical help scheme launched on April 1999 under Chief Minister’s Relief Fund in Rajasthan for the Dependents of untimely dead due to famine, floods, excessive rains, fires and accidental accidents help.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Chief Minister's Relief Fund - medical help scheme launched on April 1999 under Chief Minister's Relief Fund in Rajasthan for the Dependents of untimely dead due to famine, floods, excessive rains, fires and accidental accidents help.\n\n"
+        },
+        {
+          "question": "How it will help for treatment at hospital?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Assistance is accepted in recognized private hospitals from the major Government/ Chief Minister’s Relief Fund of the state. 40% maximum amount of rs1.50 lakh in government hospitals and 30% maximum amount of Rs 90,000 in recognized private hospitals, whichever is less, is accepted and sent to the concerned hospital."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Assistance is accepted in recognized private hospitals from the major Government/ Chief Minister's Relief Fund of the state. 40% maximum amount of rs1.50 lakh in government hospitals and 30% maximum amount of Rs 90,000 in recognized private hospitals, whichever is less, is accepted and sent to the concerned hospital.\n"
+        },
+        {
+          "question": "How this scheme help to get medical help?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. One time full payment by Demand draft or Direct bank transfer\n2. Cochlear Implant Surgery of Deaf and Dumb Children - In the state of Rajasthan, deaf and dumb children up to the age of 6 years, whose family income is up to Rs. 2.00 lakh annually,\n3. Assistance for Thalassemia Major Disease Treatment - 2 percent assistance is given from the Chief Minister's Assistance Fund up to Rs. 50.7 lakh\n4. Financial assistance to a person suffering from serious diseases (cancer, kidney and urine, heart disease) do it.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. One time full payment by Demand draft or Direct bank transfer\n2. Cochlear Implant Surgery of Deaf and Dumb Children - In the state of Rajasthan, deaf and dumb children up to the age of 6 years, whose family income is up to Rs. 2.00 lakh annually,\n3. Assistance for Thalassemia Major Disease Treatment - 2 percent assistance is given from the Chief Minister's Assistance Fund up to Rs. 50.7 lakh\n4. Financial assistance to a person suffering from serious diseases (cancer, kidney and urine, heart disease) do it.\n\n"
+        },
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. The applicant should be Non BPL\n2. The Annal Income of the Family should be greater than 2 LPA\n3. Not be listed in ABMGRSBY\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. The applicant should be Non BPL\n2. The Annal Income of the Family should be greater than 2 LPA\n3. Not be listed in ABMGRSBY\n\n"
+        },
+        {
+          "question": "Which documents are required to apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Income Certificate Copy* \n2. Address Proof Copy*\n3. Rashan Card\n4. Treatment Estimate by Doctor\n5. Medical Certificate\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Income Certificate Copy* \n2. Address Proof Copy*\n3. Rashan Card\n4. Treatment Estimate by Doctor\n5. Medical Certificate\n\n"
+        },
+        {
+          "question": "How to apply for this scheme",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Visit the official website of the Chief Minister Relief Fund Rajasthan at https://cmrf.rajasthan.gov.in/.\n2. Click on the \"Apply for Medical Help\" option on the homepage.\n3. You will be directed to a new page where you need to select the \"Apply Online\" option.\n4. Fill in the required details such as your name, address, contact details, medical condition, and required treatment.\n5. Upload the necessary documents such as medical certificates, doctor's reports, and bills.\n6. Once you have filled in all the details, click on the \"Submit\" button.\n7. After submitting the application, you will receive an acknowledgment number that you can use to track the status of your application.\nAlternatively, you can also apply offline by downloading the application form from the website and submitting it along with the necessary documents to the Chief Minister Relief Fund office.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Visit the official website of the Chief Minister Relief Fund Rajasthan at https://cmrf.rajasthan.gov.in/.\n2. Click on the \"Apply for Medical Help\" option on the homepage.\n3. You will be directed to a new page where you need to select the \"Apply Online\" option.\n4. Fill in the required details such as your name, address, contact details, medical condition, and required treatment.\n5. Upload the necessary documents such as medical certificates, doctor's reports, and bills.\n6. Once you have filled in all the details, click on the \"Submit\" button.\n7. After submitting the application, you will receive an acknowledgment number that you can use to track the status of your application.\nAlternatively, you can also apply offline by downloading the application form from the website and submitting it along with the necessary documents to the Chief Minister Relief Fund office.\n\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "गैर-बी. पी. एल. व्यक्ति जिनकी पारिवारिक आय कम से कम 2 लाख प्रति वर्ष होनी चाहिए"
+                }
+              ]
+            }
+          ],
+          "answer_md": " Individual from Non BPL whose family income should be atleast 2lakhs per annum\n"
+        },
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान मुख्यमंत्री राहत कोष-अकाल, बाढ़, अत्यधिक बारिश, आग और आकस्मिक दुर्घटनाओं के कारण असमय मरने वालों के आश्रितों के लिए राजस्थान में मुख्यमंत्री राहत कोष के तहत अप्रैल 1999 में शुरू की गई चिकित्सा सहायता योजना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Rajasthan Chief Minister's Relief Fund - medical help scheme launched on April 1999 under Chief Minister's Relief Fund in Rajasthan for the Dependents of untimely dead due to famine, floods, excessive rains, fires and accidental accidents help.\n\n"
+        },
+        {
+          "question": "अस्पताल में इलाज के लिए यह कैसे मदद करेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य के प्रमुख सरकारी/मुख्यमंत्री राहत कोष से मान्यता प्राप्त निजी अस्पतालों में सहायता स्वीकार की जाती है। सरकारी अस्पतालों में 50 लाख रुपये की अधिकतम 40 प्रतिशत राशि और मान्यता प्राप्त निजी अस्पतालों में 90,000 रुपये की अधिकतम 30 प्रतिशत राशि, जो भी कम हो, स्वीकार की जाती है और संबंधित अस्पताल को भेजी जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Assistance is accepted in recognized private hospitals from the major Government/ Chief Minister's Relief Fund of the state. 40% maximum amount of rs1.50 lakh in government hospitals and 30% maximum amount of Rs 90,000 in recognized private hospitals, whichever is less, is accepted and sent to the concerned hospital.\n"
+        },
+        {
+          "question": "यह योजना चिकित्सा सहायता प्राप्त करने में कैसे मदद करती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. डिमांड ड्राफ्ट या डायरेक्ट बैंक ट्रांसफर द्वारा एक बार का पूरा भुगतान। और मूक बच्चों की कोक्लियर प्रत्यारोपण सर्जरी-राजस्थान राज्य में, 6 साल की उम्र तक के मूक-बधिर बच्चे, जिनके परिवार की आय रु। 2 लाख सालाना, 3. थैलेसीमिया प्रमुख रोग उपचार के लिए सहायता-मुख्यमंत्री सहायता कोष से 2 प्रतिशत सहायता दी जाती है। 50. 7 लाख 4. गंभीर बीमारियों (कैंसर, गुर्दा और मूत्र, हृदय रोग) से पीड़ित व्यक्ति को वित्तीय सहायता दी जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. One time full payment by Demand draft or Direct bank transfer\n2. Cochlear Implant Surgery of Deaf and Dumb Children - In the state of Rajasthan, deaf and dumb children up to the age of 6 years, whose family income is up to Rs. 2.00 lakh annually,\n3. Assistance for Thalassemia Major Disease Treatment - 2 percent assistance is given from the Chief Minister's Assistance Fund up to Rs. 50.7 lakh\n4. Financial assistance to a person suffering from serious diseases (cancer, kidney and urine, heart disease) do it.\n\n"
+        },
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक गैर बी. पी. एल. 2 होना चाहिए। परिवार की वार्षिक आय 2 एल. पी. ए. 3 से अधिक होनी चाहिए। एबीएमजीआरएसबीवाई में सूचीबद्ध नहीं होना चाहिए"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. The applicant should be Non BPL\n2. The Annal Income of the Family should be greater than 2 LPA\n3. Not be listed in ABMGRSBY\n\n"
+        },
+        {
+          "question": "इस योजना के लिए आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आय प्रमाणपत्र प्रतिलिपि * 2। पता प्रमाण प्रतिलिपि * 3। रशन कार्ड 4. चिकित्सक द्वारा उपचार का अनुमान 5. मेडिकल सर्टिफिकेट"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Income Certificate Copy* \n2. Address Proof Copy*\n3. Rashan Card\n4. Treatment Estimate by Doctor\n5. Medical Certificate\n\n"
+        },
+        {
+          "question": "इस योजना के लिए कैसे करें आवेदन",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. मुख्यमंत्री राहत कोष राजस्थान की आधिकारिक वेबसाइट https://cmrf.rajasthan.gov.in पर जाएँ। 2. होमपेज पर \"चिकित्सा सहायता के लिए आवेदन करें\" विकल्प पर क्लिक करें। 3. आपको एक नए पृष्ठ पर भेजा जाएगा जहाँ आपको \"ऑनलाइन आवेदन करें\" विकल्प का चयन करना होगा। 4. अपना नाम, पता, संपर्क विवरण, चिकित्सा स्थिति और आवश्यक उपचार जैसे आवश्यक विवरण भरें। 5. आवश्यक दस्तावेज जैसे चिकित्सा प्रमाण पत्र, डॉक्टर की रिपोर्ट और बिल अपलोड करें। 6. एक बार जब आप सभी विवरण भर लेते हैं, तो \"जमा करें\" बटन पर क्लिक करें। 7. आवेदन जमा करने के बाद, आपको एक पावती संख्या प्राप्त होगी जिसका उपयोग आप अपने आवेदन की स्थिति को ट्रैक करने के लिए कर सकते हैं। वैकल्पिक रूप से, आप वेबसाइट से आवेदन पत्र डाउनलोड करके और इसे आवश्यक दस्तावेजों के साथ मुख्यमंत्री राहत कोष कार्यालय में जमा करके ऑफ़लाइन भी आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Visit the official website of the Chief Minister Relief Fund Rajasthan at https://cmrf.rajasthan.gov.in/.\n2. Click on the \"Apply for Medical Help\" option on the homepage.\n3. You will be directed to a new page where you need to select the \"Apply Online\" option.\n4. Fill in the required details such as your name, address, contact details, medical condition, and required treatment.\n5. Upload the necessary documents such as medical certificates, doctor's reports, and bills.\n6. Once you have filled in all the details, click on the \"Submit\" button.\n7. After submitting the application, you will receive an acknowledgment number that you can use to track the status of your application.\nAlternatively, you can also apply offline by downloading the application form from the website and submitting it along with the necessary documents to the Chief Minister Relief Fund office.\n\n"
+        }
+      ]
+    }
+  }
+}

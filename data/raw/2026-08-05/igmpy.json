@@ -1,0 +1,2645 @@
+{
+  "scheme_id": "681f5136ba3ec28b04f660e0",
+  "slug": "igmpy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Child Care",
+        "Maternity",
+        "Pregnancy",
+        "Lactating Mother",
+        "Pregnant Woman"
+      ],
+      "schemeName": "Indira Gandhi Matritva Poshan Yojana",
+      "schemeShortTitle": "IGMPY",
+      "implementingAgency": "Integrated Child Development Services (ICDS)",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000037,
+        "label": "Women and Child Development Department"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICDS/2023/Guidelines/O_080523_fc05cbde-7230-44ca-9586-d869ed11e277.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Indira Gandhi Matritva Poshan Yojana (IGMPY)&amp;quot; was implemented on 1st November 2020 by the Department of Women and Child Development, Government of Rajasthan, in five tribal districts of the state. The scheme aims to improve maternal and child nutrition, encourage institutional deliveries, and reduce maternal and infant mortality in tribal regions of the state. Under this scheme, a conditional cash benefit is provided to pregnant and lactating women for their second child, ensuring proper nutrition and healthcare.\n> **Scheme Implementation**\n\nThe scheme is implemented by the Integrated Child Development Services (ICDS) under the Department of Women and Child Development. \n> **Area&#39;s Cover**\n\nIt primarily covers women in Banswara, Dungarpur, Pratapgarh, Udaipur, and Baran districts.\n",
+      "benefits_md": "> **Financial Assistance:**\n\n\n- A financial assistance of ₹6,000/- is provided in five conditional installments to the beneficiary.\n\n**Installment****Conditions**AmountFirst InstallmentOn pregnancy registration at Anganwadi Centre and health check-up within 120 days (4 months) of pregnancy.₹1000Second InstallmentAfter completion of second antenatal check-up during the 6th month of pregnancy.₹1000Second InstallmentUpon delivery at a government or empanelled private hospital and registration of child’s birth.₹1000Second InstallmentOn successful administration of 3 key immunizations (BCG, OPV, DPT, Hepatitis B) within 105 days of birth.₹2000Second InstallmentAfter administration of measles vaccinations and child weight measurement at 9th months₹1000> **Validity:**\n\n\n- Valid only for the birth of second child.\n\n> **Mode of Disbursement:**\n\n\n- Direct Benefit Transfer (DBT) to the beneficiary’s bank account.\n\n> **NOTE:**\n\nBeneficiaries who miss a stage&#39;s requirements won&#39;t receive payment for it. However, fulfilling later stage conditions will make them eligible for subsequent payments.\n",
+      "exclusions_md": "\n1. The applicant should not be a regular employee of the Central Government, State Government, or a Public Sector Undertaking.\n1. The applicant should not be receiving a similar benefit under any other prevailing scheme.\n1. A woman who is in her second pregnancy and had twins in her first pregnancy.\n1. In case of remarriage, a newly married couple (either of them) having one or more children from a previous marriage.\n1. Any woman who is simultaneously eligible to receive installments from both the IGMPY and the Pradhan Mantri Matru Vandana Yojana (PMMVY) under the same conditions.\n\n",
+      "briefDescription": "Under the scheme, women who conceive their second child and fulfill the prescribed conditions will receive cash assistance of ₹6,000/-, paid in five installments.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Indira Gandhi Matritva Poshan Yojana (IGMPY)\" was implemented on 1st November 2020 by the Department of Women and Child Development, Government of Rajasthan, in five tribal districts of the state. The scheme aims to improve maternal and child nutrition, encourage institutional deliveries, and reduce maternal and infant mortality in tribal regions of the state. Under this scheme, a conditional cash benefit is provided to pregnant and lactating women for their second child, ensuring proper nutrition and healthcare."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Scheme Implementation",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme is implemented by the Integrated Child Development Services (ICDS) under the Department of Women and Child Development. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Area's Cover",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It primarily covers women in Banswara, Dungarpur, Pratapgarh, Udaipur, and Baran districts."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A financial assistance of ₹6,000/- is provided in five conditional installments to the beneficiary."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Installment",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Conditions",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Amount"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "First Installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "On pregnancy registration at Anganwadi Centre and health check-up within 120 days (4 months) of pregnancy."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Second Installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "After completion of second antenatal check-up during the 6th month of pregnancy."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Second Installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Upon delivery at a government or empanelled private hospital and registration of child’s birth."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Second Installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "On successful administration of 3 key immunizations (BCG, OPV, DPT, Hepatitis B) within 105 days of birth."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Second Installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "After administration of measles vaccinations and child weight measurement at 9th months"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Validity:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Valid only for the birth of second child."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Direct Benefit Transfer (DBT) to the beneficiary’s bank account."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "NOTE:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beneficiaries who miss a stage's requirements won't receive payment for it. However, fulfilling later stage conditions will make them eligible for subsequent payments."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be a regular employee of the Central Government, State Government, or a Public Sector Undertaking."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be receiving a similar benefit under any other prevailing scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A woman who is in her second pregnancy and had twins in her first pregnancy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of remarriage, a newly married couple (either of them) having one or more children from a previous marriage."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any woman who is simultaneously eligible to receive installments from both the IGMPY and the Pradhan Mantri Matru Vandana Yojana (PMMVY) under the same conditions."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This primarily applies to women pregnant with their second child on or after November 1st, 2020."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits your local Anganwadi center and registers their second pregnancy (This should ideally be done within 120 days of your Last Menstrual Period (LMP) to be eligible for the first installment)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "During registration at the Anganwadi center, you must provide your Jan-Aadhaar/Bhamashah ID and your mobile phone number. This is crucial for your details to be recorded in the PCTS (Pregnancy and Child Tracking System)."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "NOTE:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If you do not have a Jan-Aadhaar ID, you will need to obtain one. The Anganwadi worker will inform and guide you on how to do this, potentially directing you to e-Mitra centers or the online portal."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Cooperate with the Anganwadi worker and ASHA Sahyogini/ANM for the recording of your pregnancy details, check-ups, delivery information, and child's immunization details in the PCTS."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Anganwadi Worker Role:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Identify and ensure eligible beneficiaries fulfill the scheme's conditions (as per points 2 & 3 of the guidelines)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Ensure pregnant women get their first ANC registered in PCTS within 120 days of their last menstrual period."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Ensure services are fully recorded in the RCH register and the JSY case closure form is submitted on PCTS by the 15th of each month."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "For private facility check-ups, ensure the ANM records it in the Mamta card for PCTS visibility."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "For institutional deliveries outside listed centers, collect the self-declaration form and provide one copy to the ASHA/ANM for PCTS entry."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Assist the Woman Supervisor in verifying beneficiary eligibility."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Inform and encourage beneficiaries without Jan-Aadhaar to obtain one."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit amendment forms for any discrepancies found in PCTS data."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "ASHA Sahyogini/ANM Role:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Ensure services are fully recorded in the RCH register."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the JSY case closure form on PCTS by the 15th of each month for eligible IGMPY beneficiaries."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Record private facility check-ups in the Mamta card for PCTS visibility."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter details from the self-declaration form into PCTS for deliveries in non-listed private facilities."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Ensure family planning details are entered into PCTS by the 15th of each month."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Woman Supervisor (LS) Role:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Verify eligible women based on PCTS data against scheme rules in their Rajposhan web login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Initially, manually verify using printouts and Anganwadi worker assistance."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Approve or reject beneficiary eligibility with reasons in Rajposhan."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Ensure the beneficiary is registered at the correct Anganwadi center, is eligible, and has complete data in PCTS."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Report reasons for ineligibility in Rajposhan."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit amendment forms for data discrepancies in Rajposhan."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Update beneficiary Jan-Aadhaar, bank details, IFSC code, and mobile number in Rajposhan based on amendment forms."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Continuously monitor if new beneficiary registration forms are entered into PCTS."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter data for new beneficiaries in Rajposhan (for lifting purposes initially)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Verify the linking of the beneficiary's bank account to their Jan-Aadhaar via the Rajposhan portal."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Amend beneficiary names in Rajposhan to match Jan-Aadhaar."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Child Development Project Officer (CDPO) Role:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Review and approve/reject beneficiary data for installment payments based on the Woman Supervisor's verification report."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process**\n\nThis primarily applies to women pregnant with their second child on or after November 1st, 2020.\n**Step 1:** The applicant visits your local Anganwadi center and registers their second pregnancy (This should ideally be done within 120 days of your Last Menstrual Period (LMP) to be eligible for the first installment).\n**Step 2:** During registration at the Anganwadi center, you must provide your Jan-Aadhaar/Bhamashah ID and your mobile phone number. This is crucial for your details to be recorded in the PCTS (Pregnancy and Child Tracking System).\n> **NOTE:**\n\n\n- If you do not have a Jan-Aadhaar ID, you will need to obtain one. The Anganwadi worker will inform and guide you on how to do this, potentially directing you to e-Mitra centers or the online portal.\n- Cooperate with the Anganwadi worker and ASHA Sahyogini/ANM for the recording of your pregnancy details, check-ups, delivery information, and child&#39;s immunization details in the PCTS.\n\n> **Anganwadi Worker Role:**\n\n\n- Identify and ensure eligible beneficiaries fulfill the scheme&#39;s conditions (as per points 2 &amp; 3 of the guidelines).\n- Ensure pregnant women get their first ANC registered in PCTS within 120 days of their last menstrual period.\n- Ensure services are fully recorded in the RCH register and the JSY case closure form is submitted on PCTS by the 15th of each month.\n- For private facility check-ups, ensure the ANM records it in the Mamta card for PCTS visibility.\n- For institutional deliveries outside listed centers, collect the self-declaration form and provide one copy to the ASHA/ANM for PCTS entry.\n- Assist the Woman Supervisor in verifying beneficiary eligibility.\n- Inform and encourage beneficiaries without Jan-Aadhaar to obtain one.\n- Submit amendment forms for any discrepancies found in PCTS data.\n\n> **ASHA Sahyogini/ANM Role:**\n\n\n- Ensure services are fully recorded in the RCH register.\n- Submit the JSY case closure form on PCTS by the 15th of each month for eligible IGMPY beneficiaries.\n- Record private facility check-ups in the Mamta card for PCTS visibility.\n- Enter details from the self-declaration form into PCTS for deliveries in non-listed private facilities.\n- Ensure family planning details are entered into PCTS by the 15th of each month.\n\n> **Woman Supervisor (LS) Role:**\n\n\n- Verify eligible women based on PCTS data against scheme rules in their Rajposhan web login.\n- Initially, manually verify using printouts and Anganwadi worker assistance.\n- Approve or reject beneficiary eligibility with reasons in Rajposhan.\n- Ensure the beneficiary is registered at the correct Anganwadi center, is eligible, and has complete data in PCTS.\n- Report reasons for ineligibility in Rajposhan.\n- Submit amendment forms for data discrepancies in Rajposhan.\n- Update beneficiary Jan-Aadhaar, bank details, IFSC code, and mobile number in Rajposhan based on amendment forms.\n- Continuously monitor if new beneficiary registration forms are entered into PCTS.\n- Enter data for new beneficiaries in Rajposhan (for lifting purposes initially).\n- Verify the linking of the beneficiary&#39;s bank account to their Jan-Aadhaar via the Rajposhan portal.\n- Amend beneficiary names in Rajposhan to match Jan-Aadhaar.\n\n> **Child Development Project Officer (CDPO) Role:**\n\n\n- Review and approve/reject beneficiary data for installment payments based on the Woman Supervisor&#39;s verification report.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1.\tThe applicant should be a married woman.\n2.\tThe applicant should be a permanent resident of one of the five tribal districts of Rajasthan: Pratapgarh, Dungarpur, Banswara, Udaipur, or Baran.\n3.\tWoman will be eligible if they meet either of the following conditions:\n\n  - She become pregnant with her second child on or after 1st November 2020.\n  - She has registered her first antenatal check-up (ANC) for the second child after 1st November 2020.\n\n4.\tPregnant or lactating woman working as Anganwadi worker, Anganwadi helper, Asha Sahayogi, or Saathin will also be eligible under the scheme, subject to fulfillment of the scheme’s conditions.\n5.\tIn the event of abortion or stillbirth, the beneficiary woman will remain eligible for the scheme if she conceives again in the future.\n6. The applicant should deliver her child at a government health facility or an empanelled private health institution.\n7. The applicant should not have more than two living children.\n&gt; **Notes:**\n\n\n  - Eligible beneficiaries will receive cash assistance in addition to benefits from other central and state government schemes such as Janani Suraksha Yojana (JSY) and Rajshree Yojana.\n  - The date of pregnancy will be calculated based on the last menstrual period (LMP) recorded in the Pregnancy and Child Tracking System (PCTS) online portal maintained by the Medical and Health Department.\n  - If a beneficiary does not comply with any phase of the scheme, the payment for that phase will be withheld. However, if the beneficiary meets the conditions of subsequent phases, the payment for those phases will be disbursed accordingly.\n  - The applicant must complete all health milestones and ensure the child&amp;#39;s immunizations are done as per the schedule.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1.\tThe applicant should be a married woman."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2.\tThe applicant should be a permanent resident of one of the five tribal districts of Rajasthan: Pratapgarh, Dungarpur, Banswara, Udaipur, or Baran."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "3.\tWoman will be eligible if they meet either of the following conditions:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "She become pregnant with her second child on or after 1st November 2020."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "She has registered her first antenatal check-up (ANC) for the second child after 1st November 2020."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "4.\tPregnant or lactating woman working as Anganwadi worker, Anganwadi helper, Asha Sahayogi, or Saathin will also be eligible under the scheme, subject to fulfillment of the scheme’s conditions."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "5.\tIn the event of abortion or stillbirth, the beneficiary woman will remain eligible for the scheme if she conceives again in the future."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "6. The applicant should deliver her child at a government health facility or an empanelled private health institution."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "7. The applicant should not have more than two living children."
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Notes:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Eligible beneficiaries will receive cash assistance in addition to benefits from other central and state government schemes such as Janani Suraksha Yojana (JSY) and Rajshree Yojana."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The date of pregnancy will be calculated based on the last menstrual period (LMP) recorded in the Pregnancy and Child Tracking System (PCTS) online portal maintained by the Medical and Health Department."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If a beneficiary does not comply with any phase of the scheme, the payment for that phase will be withheld. However, if the beneficiary meets the conditions of subsequent phases, the payment for those phases will be disbursed accordingly."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must complete all health milestones and ensure the child's immunizations are done as per the schedule."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "बच्चों की देखभाल",
+        "मातृत्व",
+        "गर्भावस्था",
+        "स्तनपान कराने वाली माँ",
+        "गर्भवती महिला"
+      ],
+      "schemeName": "इंदिरा गांधी मातृत्व पोषण योजना",
+      "schemeShortTitle": "IGMPY",
+      "implementingAgency": "Integrated Child Development Services (ICDS)",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000037,
+        "label": "महिला एवं बाल विकास विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICDS/2023/Guidelines/O_080523_fc05cbde-7230-44ca-9586-d869ed11e277.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "इंदिरा गांधी मातृत्व पोषण योजना (आई. जी. एम. पी. वाई.) योजना राजस्थान सरकार के महिला और बाल विकास विभाग द्वारा 1 नवंबर 2020 को राज्य के पांच आदिवासी जिलों में लागू की गई थी। इस योजना का उद्देश्य राज्य के जनजातीय क्षेत्रों में मातृ और शिशु पोषण में सुधार करना, संस्थागत प्रसव को प्रोत्साहित करना और मातृ और शिशु मृत्यु दर को कम करना है। इस योजना के तहत गर्भवती और स्तनपान कराने वाली महिलाओं को उनके दूसरे बच्चे के लिए एक सशर्त नकद लाभ प्रदान किया जाता है, जिससे उचित पोषण और स्वास्थ्य सेवा सुनिश्चित होती है। यह योजना महिला और बाल विकास विभाग के तहत एकीकृत बाल विकास सेवा (आई. सी. डी. एस.) द्वारा लागू की जाती है। यह मुख्य रूप से बांसवाड़ा, डूंगरपुर, प्रतापगढ़, उदयपुर और बारां जिलों की महिलाओं को कवर करता है।",
+      "benefits_md": "वित्तीय सहायताः ₹6,000/- की वित्तीय सहायता लाभार्थी को पाँच सशर्त किश्तों में प्रदान की जाती है। * * किश्त * * * शर्तें * * पहली किश्त गर्भावस्था के 120 दिनों (4 महीने) के भीतर आंगनवाड़ी केंद्र में गर्भावस्था पंजीकरण और स्वास्थ्य जांच पर राशि। गर्भावस्था के 6 वें महीने के दौरान दूसरी प्रसव पूर्व जांच पूरी होने के बाद 1000 रुपये दूसरी किश्त। 1000 रुपये दूसरी किश्त सरकारी या सूचीबद्ध निजी अस्पताल में प्रसव और बच्चे के जन्म का पंजीकरण। 1000 रुपये दूसरी किश्त जन्म के 105 दिनों के भीतर 3 प्रमुख टीकाकरण (बीसीजी, ओपीवी, डी. पी. टी., हेपेटाइटिस बी) के सफल प्रशासन पर। 2000 रुपये दूसरी किश्त 9 तारीख को खसरा टीकाकरण और बच्चे के वजन माप के प्रशासन के बाद। > * * संवितरण का तरीका-लाभार्थी के बैंक खाते में प्रत्यक्ष लाभ अंतरण (डी. बी. टी.)। > * * नोटः * * जो लाभार्थी किसी चरण की आवश्यकताओं से चूक जाते हैं, उन्हें इसके लिए भुगतान प्राप्त नहीं होगा। हालांकि, बाद के चरण की शर्तों को पूरा करने से वे बाद के भुगतान के लिए पात्र बन जाएंगे।",
+      "exclusions_md": "1. आवेदक केंद्र सरकार, राज्य सरकार या सार्वजनिक क्षेत्र के उपक्रम का नियमित कर्मचारी नहीं होना चाहिए। 1. आवेदक को किसी अन्य प्रचलित योजना के तहत समान लाभ प्राप्त नहीं होना चाहिए। 1. एक महिला जो अपनी दूसरी गर्भावस्था में है और उसकी पहली गर्भावस्था में जुड़वा बच्चे थे। 1. पुनर्विवाह के मामले में, एक नवविवाहित जोड़े (उनमें से कोई भी) के पिछले विवाह से एक या अधिक बच्चे हैं। 1. कोई भी महिला जो एक साथ आई. जी. एम. पी. वाई. और प्रधानमंत्री मातृ वंदना योजना (पी. एम. एम. वी. वाई.) दोनों से समान शर्तों के तहत किश्त प्राप्त करने की पात्र है।",
+      "briefDescription": "इस योजना के तहत, जो महिलाएं अपने दूसरे बच्चे को जन्म देती हैं और निर्धारित शर्तों को पूरा करती हैं, उन्हें 6,000 रुपये की नकद सहायता मिलेगी, जिसका भुगतान पांच किश्तों में किया जाएगा।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"इंदिरा गांधी मातृत्व पोषण योजना (आई. जी. एम. पी. वाई.)\" योजना राजस्थान सरकार के महिला और बाल विकास विभाग द्वारा 1 नवंबर 2020 को राज्य के पांच आदिवासी जिलों में लागू की गई थी। इस योजना का उद्देश्य राज्य के जनजातीय क्षेत्रों में मातृ और शिशु पोषण में सुधार करना, संस्थागत प्रसव को प्रोत्साहित करना और मातृ और शिशु मृत्यु दर को कम करना है। इस योजना के तहत गर्भवती और स्तनपान कराने वाली महिलाओं को उनके दूसरे बच्चे के लिए एक सशर्त नकद लाभ प्रदान किया जाता है, जिससे उचित पोषण और स्वास्थ्य सेवा सुनिश्चित होती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "योजना कार्यान्वयन",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना को महिला और बाल विकास विभाग के तहत एकीकृत बाल विकास सेवा (आईसीडीएस) द्वारा लागू किया जाता है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "क्षेत्र का आवरण",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इसमें मुख्य रूप से बांसवाड़ा, डूंगरपुर, प्रतापगढ़, उदयपुर और बारां जिलों की महिलाएं शामिल हैं।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी को पांच सशर्त किश्तों में 6,000 रुपये की वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "किश्त",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "शर्तें",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "राशि"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पहली किश्त"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आंगनवाड़ी केंद्र में गर्भावस्था पंजीकरण और गर्भावस्था के 120 दिनों (4 महीने) के भीतर स्वास्थ्य जांच पर।"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "दूसरी किश्त"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "गर्भावस्था के छठे महीने के दौरान दूसरी प्रसवपूर्व जांच पूरी होने के बाद।"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "दूसरी किश्त"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "सरकारी या सूचीबद्ध निजी अस्पताल में प्रसव और बच्चे के जन्म का पंजीकरण।"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "दूसरी किश्त"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "जन्म के 105 दिनों के भीतर 3 प्रमुख टीकाकरण (बी. सी. जी., ओ. पी. वी., डी. पी. टी., हेपेटाइटिस बी) के सफल प्रशासन पर।"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "दूसरी किश्त"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "9वें महीने में खसरे के टीकाकरण और बच्चे के वजन की माप के बाद"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "वैधताः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "केवल दूसरे बच्चे के जन्म के लिए मान्य है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी के बैंक खाते में प्रत्यक्ष लाभ अंतरण (डी. बी. टी.)।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "नोटः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "जो लाभार्थी किसी चरण की आवश्यकताओं से चूक जाते हैं, उन्हें इसके लिए भुगतान नहीं मिलेगा। हालांकि, बाद के चरण की शर्तों को पूरा करने से वे बाद के भुगतान के लिए पात्र बन जाएंगे।"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक केंद्र सरकार, राज्य सरकार या सार्वजनिक क्षेत्र के उपक्रम का नियमित कर्मचारी नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को किसी अन्य प्रचलित योजना के तहत समान लाभ प्राप्त नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक महिला जो अपनी दूसरी गर्भावस्था में है और उसकी पहली गर्भावस्था में जुड़वा बच्चे थे।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पुनर्विवाह के मामले में, एक नवविवाहित जोड़े (उनमें से कोई भी) के पिछले विवाह से एक या अधिक बच्चे हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कोई भी महिला जो एक साथ आई. जी. एम. पी. वाई. और प्रधानमंत्री मातृ वंदना योजना (पी. एम. एम. वी. वाई.) दोनों से समान शर्तों के तहत किश्त प्राप्त करने की पात्र है।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन की प्रक्रिया",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "यह मुख्य रूप से 1 नवंबर, 2020 को या उसके बाद अपने दूसरे बच्चे के साथ गर्भवती महिलाओं पर लागू होता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक आपके स्थानीय आंगनवाड़ी केंद्र में जाता है और अपनी दूसरी गर्भावस्था का पंजीकरण करता है (यह आदर्श रूप से पहली किस्त के लिए पात्र होने के लिए आपकी अंतिम मासिक धर्म अवधि (एल. एम. पी.) के 120 दिनों के भीतर किया जाना चाहिए)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आंगनवाड़ी केंद्र में पंजीकरण के दौरान आपको अपना जन-आधार/भामाशाह आईडी और अपना मोबाइल फोन नंबर देना होगा। पी. सी. टी. एस. (प्रेग्नेंसी एंड चाइल्ड ट्रैकिंग सिस्टम) में आपके विवरण को दर्ज करने के लिए यह महत्वपूर्ण है।"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "नोटः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि आपके पास जन-आधार आईडी नहीं है, तो आपको इसे प्राप्त करने की आवश्यकता होगी। आंगनवाड़ी कार्यकर्ता आपको सूचित करेगी और मार्गदर्शन करेगी कि यह कैसे किया जाए, संभावित रूप से आपको ई-मित्र केंद्रों या ऑनलाइन पोर्टल पर निर्देशित करेगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पी. सी. टी. एस. में अपनी गर्भावस्था के विवरण, जांच, प्रसव की जानकारी और बच्चे के टीकाकरण के विवरण की रिकॉर्डिंग के लिए आंगनवाड़ी कार्यकर्ता और आशा सहयोगिनी/ए. एन. एम. के साथ सहयोग करें।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आंगनवाड़ी कार्यकर्ता की भूमिकाः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पात्र लाभार्थियों की पहचान करें और सुनिश्चित करें कि वे योजना की शर्तों (दिशानिर्देशों के बिंदु 2 और 3 के अनुसार) को पूरा करते हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सुनिश्चित करें कि गर्भवती महिलाएं अपने अंतिम मासिक धर्म के 120 दिनों के भीतर पी. सी. टी. एस. में अपना पहला ए. एन. सी. पंजीकृत करवा लें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सुनिश्चित करें कि सेवाएं पूरी तरह से आर. सी. एच. रजिस्टर में दर्ज हैं और जे. एस. वाई. केस क्लोजर फॉर्म प्रत्येक महीने की 15 तारीख तक पी. सी. टी. एस. पर जमा किया जाता है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "निजी सुविधा जांच के लिए, सुनिश्चित करें कि ए. एन. एम. इसे पी. सी. टी. एस. दृश्यता के लिए ममता कार्ड में दर्ज करता है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सूचीबद्ध केंद्रों के बाहर संस्थागत प्रसव के लिए, स्व-घोषणा पत्र एकत्र करें और पी. सी. टी. एस. प्रविष्टि के लिए आशा/ए. एन. एम. को एक प्रति प्रदान करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लाभार्थी की पात्रता को सत्यापित करने में महिला पर्यवेक्षक की सहायता करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जन-आधार प्राप्त करने के लिए बिना जन-आधार के लाभार्थियों को सूचित करें और प्रोत्साहित करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पी. सी. टी. एस. डेटा में पाई जाने वाली किसी भी विसंगतियों के लिए संशोधन प्रपत्र जमा करें।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आशा सहयोगिनी/ए. एन. एम. भूमिकाः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सुनिश्चित करें कि सेवाएं पूरी तरह से आर. सी. एच. रजिस्टर में दर्ज हैं।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पात्र आई. जी. एम. पी. वाई. लाभार्थियों के लिए प्रत्येक महीने की 15 तारीख तक पी. सी. टी. एस. पर जे. एस. वाई. केस क्लोजर फॉर्म जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पी. सी. टी. एस. की दृश्यता के लिए ममता कार्ड में निजी सुविधा जांच दर्ज करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "गैर-सूचीबद्ध निजी सुविधाओं में डिलीवरी के लिए पी. सी. टी. एस. में स्व-घोषणा प्रपत्र से विवरण दर्ज करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सुनिश्चित करें कि परिवार नियोजन का विवरण प्रत्येक महीने की 15 तारीख तक पी. सी. टी. एस. में दर्ज किया जाए।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "महिला पर्यवेक्षक (एल. एस.) भूमिकाः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पात्र महिलाओं को उनके राजपोशन वेब लॉगिन में योजना नियमों के खिलाफ पी. सी. टी. एस. डेटा के आधार पर सत्यापित करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "शुरू में, प्रिंटआउट और आंगनवाड़ी कार्यकर्ता सहायता का उपयोग करके मैन्युअल रूप से सत्यापित करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "राजपोशन में कारणों के साथ लाभार्थी की पात्रता को स्वीकार या अस्वीकार करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सुनिश्चित करें कि लाभार्थी सही आंगनवाड़ी केंद्र में पंजीकृत है, पात्र है, और उसके पास पी. सी. टी. एस. में पूरा डेटा है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "राजपोशन में अयोग्यता के कारणों की रिपोर्ट करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "राजपोशन में डेटा विसंगतियों के लिए संशोधन प्रपत्र जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "संशोधन प्रपत्रों के आधार पर राजपोशन में लाभार्थी जन-आधार, बैंक विवरण, आईएफएससी कोड और मोबाइल नंबर को अपडेट करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पी. सी. टी. एस. में नए लाभार्थी पंजीकरण प्रपत्र दर्ज किए गए हैं या नहीं, इसकी लगातार निगरानी करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "राजपोशन में नए लाभार्थियों के लिए डेटा दर्ज करें (शुरू में उठाने के उद्देश्यों के लिए)।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "राजपोशन पोर्टल के माध्यम से लाभार्थी के बैंक खाते को उनके जन-आधार से जोड़ने की पुष्टि करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जन-आधार से मेल खाने के लिए राजपोशन में लाभार्थी के नामों में संशोधन करें।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "बाल विकास परियोजना अधिकारी (सीडीपीओ) की भूमिकाः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "महिला पर्यवेक्षक की सत्यापन रिपोर्ट के आधार पर किस्त भुगतान के लिए लाभार्थी डेटा की समीक्षा करें और उसे मंजूरी दें/अस्वीकार करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * आवेदन प्रक्रिया * * यह मुख्य रूप से 1 नवंबर, 2020 को या उसके बाद अपने दूसरे बच्चे के साथ गर्भवती महिलाओं पर लागू होती है। आवेदक आपके स्थानीय आंगनवाड़ी केंद्र में जाता है और अपनी दूसरी गर्भावस्था का पंजीकरण करता है (यह आदर्श रूप से पहली किस्त के लिए पात्र होने के लिए आपकी अंतिम मासिक धर्म अवधि (एल. एम. पी.) के 120 दिनों के भीतर किया जाना चाहिए)। आंगनवाड़ी केंद्र में पंजीकरण के दौरान आपको अपना जन-आधार/भामाशाह आईडी और अपना मोबाइल फोन नंबर देना होगा। पी. सी. टी. एस. (प्रेग्नेंसी एंड चाइल्ड ट्रैकिंग सिस्टम) में आपके विवरण को दर्ज करने के लिए यह महत्वपूर्ण है। * *-यदि आपके पास जन-आधार आईडी नहीं है, तो आपको इसे प्राप्त करने की आवश्यकता होगी। आंगनवाड़ी कार्यकर्ता आपको सूचित करेगी और मार्गदर्शन करेगी कि यह कैसे किया जाए, संभावित रूप से आपको ई-मित्र केंद्रों या ऑनलाइन पोर्टल पर निर्देशित करेगी।-अपनी गर्भावस्था के विवरण, जांच, प्रसव की जानकारी और बच्चे की रिकॉर्डिंग के लिए आंगनवाड़ी कार्यकर्ता और आशा सहयोगिनी/ए. एन. एम. के साथ सहयोग करें। पी. सी. टी. एस. में टीकाकरण का विवरण। आंगनवाड़ी कार्यकर्ता की भूमिकाः * *-पात्र लाभार्थियों की पहचान करें और सुनिश्चित करें कि वे योजना को पूरा करें & #39; एस की शर्तें (अंक 2 के अनुसार) दिशानिर्देशों में से 3)-सुनिश्चित करें कि गर्भवती महिलाएं अपनी अंतिम मासिक धर्म अवधि के 120 दिनों के भीतर पी. सी. टी. एस. में अपनी पहली ए. एन. सी. पंजीकृत करवा लें।-सुनिश्चित करें कि सेवाएं पूरी तरह से आर. सी. एच. रजिस्टर में दर्ज हैं और जे. एस. वाई. केस क्लोजर फॉर्म प्रत्येक महीने की 15 तारीख तक पी. सी. टी. एस. पर जमा किया जाता है।-निजी सुविधा जांच के लिए, पी. सी. टी. एस. की दृश्यता के लिए ए. एन. एम. इसे ममता कार्ड में दर्ज करता है।-सूचीबद्ध केंद्रों के बाहर संस्थागत प्रसव के लिए, स्व-घोषणा पत्र एकत्र करें और पी. सी. टी. एस. प्रविष्टि के लिए आशा/ए. एन. एम. को एक प्रति प्रदान करें।-लाभार्थी की पात्रता को सत्यापित करने में महिला पर्यवेक्षक की सहायता करें।-जन-आधार के बिना लाभार्थियों को सूचित करें और उन्हें एक प्राप्त करने के लिए प्रोत्साहित करें।-किसी भी विसंगतियों के लिए संशोधन फॉर्म जमा करें। * *-सुनिश्चित करें कि सेवाएं पूरी तरह से आर. सी. एच. रजिस्टर में दर्ज हैं।-पात्र आई. जी. एम. पी. वाई. लाभार्थियों के लिए प्रत्येक महीने की 15 तारीख तक पी. सी. टी. एस. पर जे. एस. वाई. केस क्लोजर फॉर्म जमा करें।-पी. सी. टी. एस. की दृश्यता के लिए ममता कार्ड में निजी सुविधा जांच दर्ज करें।-गैर-सूचीबद्ध निजी सुविधाओं में डिलीवरी के लिए पी. सी. टी. एस. में स्व-घोषणा फॉर्म से विवरण दर्ज करें।-सुनिश्चित करें कि परिवार नियोजन विवरण प्रत्येक महीने की 15 तारीख तक पी. सी. टी. एस. में दर्ज किए जाएं। * * महिला पर्यवेक्षक (एल. एस.) भूमिकाः * *-पात्र महिलाओं को उनके राजपोशन वेब लॉगिन में योजना नियमों के खिलाफ पी. सी. टी. एस. डेटा के आधार पर सत्यापित करें।-शुरू में, प्रिंटआउट और आंगनवाड़ी कार्यकर्ता सहायता का उपयोग करके हाथ से सत्यापित करें।-राजपोशन में कारणों के साथ लाभार्थी की पात्रता को स्वीकार या अस्वीकार करें।-सुनिश्चित करें कि लाभार्थी सही आंगनवाड़ी केंद्र में पंजीकृत है, पात्र है, और पी. सी. टी. एस. में पूरा डेटा है।-राजपोशन में अयोग्यता के कारणों की रिपोर्ट करें।-राजपोशन में डेटा विसंगतियों के लिए संशोधन फॉर्म जमा करें।-लाभार्थी जन-आधार, बैंक विवरण, आई. एफ. एस. सी. कोड और मोबाइल नंबर को संशोधन फॉर्म के आधार पर राजपोशन में अपडेट करें।-पी. सी. टी. एस. में नए लाभार्थी पंजीकरण फॉर्म दर्ज किए जाने पर लगातार निगरानी करें।-नए लाभार्थियों के लिए डेटा दर्ज करें। उनके जन-आधार खाते में राजपोशन पोर्टल के माध्यम से।-जन-आधार से मेल खाने के लिए राजपोशन में लाभार्थियों के नामों में संशोधन करें।> * * बाल विकास परियोजना अधिकारी (सी. डी. पी. ओ.) की भूमिकाः * *-महिला पर्यवेक्षक & #39 के आधार पर किस्त भुगतान के लिए लाभार्थी डेटा की समीक्षा करें और उसे मंजूरी/अस्वीकार करें; एस सत्यापन रिपोर्ट।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "Male"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "Transgender"
+        },
+        {
+          "gte": 18,
+          "lte": 45,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक विवाहित महिला होनी चाहिए। 2. आवेदक को राजस्थान के पांच आदिवासी जिलों में से किसी एक का स्थायी निवासी होना चाहिएः प्रतापगढ़, डूंगरपुर, बांसवाड़ा, उदयपुर या बारां। 3. महिला पात्र होगी यदि वे निम्नलिखित शर्तों में से किसी एक को पूरा करती हैंः-वह 1 नवंबर 2020 को या उसके बाद अपने दूसरे बच्चे के साथ गर्भवती हो जाती है। उन्होंने 1 नवंबर 2020 के बाद दूसरे बच्चे के लिए अपनी पहली प्रसवपूर्व जांच (ए. एन. सी.) पंजीकृत की है। 4. आंगनवाड़ी कार्यकर्ता, आंगनवाड़ी सहायक, आशा सहायोगी या साथिन के रूप में काम करने वाली गर्भवती या स्तनपान कराने वाली महिला भी योजना की शर्तों को पूरा करने के अधीन इस योजना के तहत पात्र होंगी। 5. गर्भपात या मृत जन्म की स्थिति में, लाभार्थी महिला योजना के लिए पात्र रहेगी यदि वह भविष्य में फिर से गर्भ धारण करती है। 6. आवेदक को अपने बच्चे को सरकारी स्वास्थ्य सुविधा या किसी सूचीबद्ध निजी स्वास्थ्य संस्थान में जन्म देना चाहिए। 7. आवेदक के दो से अधिक जीवित बच्चे नहीं होने चाहिए। नोटः-पात्र लाभार्थियों को केंद्र और राज्य सरकार की अन्य योजनाओं जैसे कि जननी सुरक्षा योजना (जे. एस. वाई.) और राजश्री योजना से लाभ के अलावा नकद सहायता प्राप्त होगी। - गर्भावस्था की तारीख की गणना चिकित्सा और स्वास्थ्य विभाग द्वारा बनाए गए प्रेग्नेंसी एंड चाइल्ड ट्रैकिंग सिस्टम (पीसीटीएस) ऑनलाइन पोर्टल में दर्ज अंतिम मासिक धर्म (एलएमपी) के आधार पर की जाएगी। - यदि कोई लाभार्थी योजना के किसी भी चरण का पालन नहीं करता है, तो उस चरण के लिए भुगतान रोक दिया जाएगा। हालाँकि, यदि लाभार्थी बाद के चरणों की शर्तों को पूरा करता है, तो उन चरणों के लिए भुगतान तदनुसार वितरित किया जाएगा। - आवेदक को सभी स्वास्थ्य मील के पत्थर को पूरा करना चाहिए और यह सुनिश्चित करना चाहिए कि बच्चे का टीकाकरण अनुसूची के अनुसार किया जाए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक विवाहित महिला होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2. आवेदक को राजस्थान के पांच आदिवासी जिलों में से किसी एक का स्थायी निवासी होना चाहिएः प्रतापगढ़, डूंगरपुर, बांसवाड़ा, उदयपुर या बारां।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "3. महिलाएँ पात्र होंगी यदि वे निम्नलिखित में से किसी भी शर्त को पूरा करती हैंः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "वह 1 नवंबर 2020 को या उसके बाद अपने दूसरे बच्चे के साथ गर्भवती हो जाती है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उन्होंने 1 नवंबर 2020 के बाद दूसरे बच्चे के लिए अपनी पहली प्रसवपूर्व जांच (ए. एन. सी.) पंजीकृत की है।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "4. आंगनवाड़ी कार्यकर्ता, आंगनवाड़ी सहायक, आशा सहायोगी या साथिन के रूप में काम करने वाली गर्भवती या स्तनपान कराने वाली महिला भी योजना की शर्तों को पूरा करने के अधीन इस योजना के तहत पात्र होंगी।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "5. गर्भपात या मृत जन्म की स्थिति में, लाभार्थी महिला योजना के लिए पात्र रहेगी यदि वह भविष्य में फिर से गर्भ धारण करती है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "6. आवेदक को अपने बच्चे को सरकारी स्वास्थ्य सुविधा या किसी सूचीबद्ध निजी स्वास्थ्य संस्थान में जन्म देना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "7. आवेदक के दो से अधिक जीवित बच्चे नहीं होने चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "टिप्पणियाँः",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पात्र लाभार्थियों को केंद्र और राज्य सरकार की अन्य योजनाओं जैसे कि जननी सुरक्षा योजना (जे. एस. वाई.) और राजश्री योजना से लाभ के अलावा नकद सहायता प्राप्त होगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "गर्भावस्था की तारीख की गणना चिकित्सा और स्वास्थ्य विभाग द्वारा बनाए गए प्रेग्नेंसी एंड चाइल्ड ट्रैकिंग सिस्टम (पीसीटीएस) ऑनलाइन पोर्टल में दर्ज अंतिम मासिक धर्म (एलएमपी) के आधार पर की जाएगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि कोई लाभार्थी योजना के किसी भी चरण का पालन नहीं करता है, तो उस चरण के लिए भुगतान रोक दिया जाएगा। हालाँकि, यदि लाभार्थी बाद के चरणों की शर्तों को पूरा करता है, तो उन चरणों के लिए भुगतान तदनुसार वितरित किया जाएगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को सभी स्वास्थ्य मील के पत्थर को पूरा करना चाहिए और यह सुनिश्चित करना चाहिए कि बच्चे का टीकाकरण अनुसूची के अनुसार किया जाए।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "pregnant": true,
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "value": "married",
+          "label": "Married"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "Male"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "Transgender"
+      },
+      {
+        "gte": 18,
+        "lte": 45,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक विवाहित महिला होनी चाहिए। 2. आवेदक को राजस्थान के पांच आदिवासी जिलों में से किसी एक का स्थायी निवासी होना चाहिएः प्रतापगढ़, डूंगरपुर, बांसवाड़ा, उदयपुर या बारां। 3. महिला पात्र होगी यदि वे निम्नलिखित शर्तों में से किसी एक को पूरा करती हैंः-वह 1 नवंबर 2020 को या उसके बाद अपने दूसरे बच्चे के साथ गर्भवती हो जाती है। उन्होंने 1 नवंबर 2020 के बाद दूसरे बच्चे के लिए अपनी पहली प्रसवपूर्व जांच (ए. एन. सी.) पंजीकृत की है। 4. आंगनवाड़ी कार्यकर्ता, आंगनवाड़ी सहायक, आशा सहायोगी या साथिन के रूप में काम करने वाली गर्भवती या स्तनपान कराने वाली महिला भी योजना की शर्तों को पूरा करने के अधीन इस योजना के तहत पात्र होंगी। 5. गर्भपात या मृत जन्म की स्थिति में, लाभार्थी महिला योजना के लिए पात्र रहेगी यदि वह भविष्य में फिर से गर्भ धारण करती है। 6. आवेदक को अपने बच्चे को सरकारी स्वास्थ्य सुविधा या किसी सूचीबद्ध निजी स्वास्थ्य संस्थान में जन्म देना चाहिए। 7. आवेदक के दो से अधिक जीवित बच्चे नहीं होने चाहिए। नोटः-पात्र लाभार्थियों को केंद्र और राज्य सरकार की अन्य योजनाओं जैसे कि जननी सुरक्षा योजना (जे. एस. वाई.) और राजश्री योजना से लाभ के अलावा नकद सहायता प्राप्त होगी। - गर्भावस्था की तारीख की गणना चिकित्सा और स्वास्थ्य विभाग द्वारा बनाए गए प्रेग्नेंसी एंड चाइल्ड ट्रैकिंग सिस्टम (पीसीटीएस) ऑनलाइन पोर्टल में दर्ज अंतिम मासिक धर्म (एलएमपी) के आधार पर की जाएगी। - यदि कोई लाभार्थी योजना के किसी भी चरण का पालन नहीं करता है, तो उस चरण के लिए भुगतान रोक दिया जाएगा। हालाँकि, यदि लाभार्थी बाद के चरणों की शर्तों को पूरा करता है, तो उन चरणों के लिए भुगतान तदनुसार वितरित किया जाएगा। - आवेदक को सभी स्वास्थ्य मील के पत्थर को पूरा करना चाहिए और यह सुनिश्चित करना चाहिए कि बच्चे का टीकाकरण अनुसूची के अनुसार किया जाए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "1. आवेदक विवाहित महिला होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "2. आवेदक को राजस्थान के पांच आदिवासी जिलों में से किसी एक का स्थायी निवासी होना चाहिएः प्रतापगढ़, डूंगरपुर, बांसवाड़ा, उदयपुर या बारां।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "3. महिलाएँ पात्र होंगी यदि वे निम्नलिखित में से किसी भी शर्त को पूरा करती हैंः"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "वह 1 नवंबर 2020 को या उसके बाद अपने दूसरे बच्चे के साथ गर्भवती हो जाती है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उन्होंने 1 नवंबर 2020 के बाद दूसरे बच्चे के लिए अपनी पहली प्रसवपूर्व जांच (ए. एन. सी.) पंजीकृत की है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "4. आंगनवाड़ी कार्यकर्ता, आंगनवाड़ी सहायक, आशा सहायोगी या साथिन के रूप में काम करने वाली गर्भवती या स्तनपान कराने वाली महिला भी योजना की शर्तों को पूरा करने के अधीन इस योजना के तहत पात्र होंगी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "5. गर्भपात या मृत जन्म की स्थिति में, लाभार्थी महिला योजना के लिए पात्र रहेगी यदि वह भविष्य में फिर से गर्भ धारण करती है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "6. आवेदक को अपने बच्चे को सरकारी स्वास्थ्य सुविधा या किसी सूचीबद्ध निजी स्वास्थ्य संस्थान में जन्म देना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "7. आवेदक के दो से अधिक जीवित बच्चे नहीं होने चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "टिप्पणियाँः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पात्र लाभार्थियों को केंद्र और राज्य सरकार की अन्य योजनाओं जैसे कि जननी सुरक्षा योजना (जे. एस. वाई.) और राजश्री योजना से लाभ के अलावा नकद सहायता प्राप्त होगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "गर्भावस्था की तारीख की गणना चिकित्सा और स्वास्थ्य विभाग द्वारा बनाए गए प्रेग्नेंसी एंड चाइल्ड ट्रैकिंग सिस्टम (पीसीटीएस) ऑनलाइन पोर्टल में दर्ज अंतिम मासिक धर्म (एलएमपी) के आधार पर की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि कोई लाभार्थी योजना के किसी भी चरण का पालन नहीं करता है, तो उस चरण के लिए भुगतान रोक दिया जाएगा। हालाँकि, यदि लाभार्थी बाद के चरणों की शर्तों को पूरा करता है, तो उन चरणों के लिए भुगतान तदनुसार वितरित किया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को सभी स्वास्थ्य मील के पत्थर को पूरा करना चाहिए और यह सुनिश्चित करना चाहिए कि बच्चे का टीकाकरण अनुसूची के अनुसार किया जाए।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "pregnant": true,
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "value": "married",
+        "label": "Married"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pregnancy Registration Slip (issued by Anganwadi Centre)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook Copy (linked with Aadhaar for DBT)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residential Proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maternity Health Check-Up Cards (to track antenatal milestones)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Delivery Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Child's Birth Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Child Immunization Record/Health Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bhamashah Card or Jan Aadhaar Card"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Pregnancy Registration Slip (issued by Anganwadi Centre)\n1. Bank Passbook Copy (linked with Aadhaar for DBT)\n1. Residential Proof\n1. Maternity Health Check-Up Cards (to track antenatal milestones)\n1. Delivery Certificate\n1. Child&#39;s Birth Certificate\n1. Child Immunization Record/Health Card\n1. Bhamashah Card or Jan Aadhaar Card\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गर्भावस्था पंजीकरण पर्ची (आंगनवाड़ी केंद्र द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति (डी. बी. टी. के लिए आधार से जुड़ी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवासीय प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मातृत्व स्वास्थ्य जांच कार्ड (प्रसवपूर्व मील के पत्थर को ट्रैक करने के लिए)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वितरण प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बच्चे का जन्म प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बाल टीकाकरण अभिलेख/स्वास्थ्य कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भामाशाह कार्ड या जन आधार कार्ड"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Pregnancy Registration Slip (issued by Anganwadi Centre)\n1. Bank Passbook Copy (linked with Aadhaar for DBT)\n1. Residential Proof\n1. Maternity Health Check-Up Cards (to track antenatal milestones)\n1. Delivery Certificate\n1. Child&#39;s Birth Certificate\n1. Child Immunization Record/Health Card\n1. Bhamashah Card or Jan Aadhaar Card\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the IGMPY scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Pregnant or lactating women undergoing their second pregnancy in 5 tribal districts of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Pregnant or lactating women undergoing their second pregnancy in 5 tribal districts of Rajasthan.\n"
+        },
+        {
+          "question": "How much financial assistance is provided under IGMPY?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹6,000 is provided in five conditional installments."
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹6,000 is provided in five conditional installments.\n"
+        },
+        {
+          "question": "Is the scheme applicable for the first child?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scheme is applicable only for the second live birth."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme is applicable only for the second live birth.\n"
+        },
+        {
+          "question": "What is the purpose of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To improve maternal and child nutrition, promote institutional deliveries, and ensure vaccinations."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To improve maternal and child nutrition, promote institutional deliveries, and ensure vaccinations.\n"
+        },
+        {
+          "question": "Where can I apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At the nearest Anganwadi Centre in the eligible districts."
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the nearest Anganwadi Centre in the eligible districts.\n"
+        },
+        {
+          "question": "Can I receive the benefit without institutional delivery?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, institutional delivery in a government or empanelled private hospital is mandatory."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, institutional delivery in a government or empanelled private hospital is mandatory.\n"
+        },
+        {
+          "question": "Is the scheme applicable across Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, currently it's limited to 5 tribal districts only."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, currently it&#39;s limited to 5 tribal districts only.\n"
+        },
+        {
+          "question": "Can I apply for the scheme in my third pregnancy?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the scheme is not valid beyond the second pregnancy."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme is not valid beyond the second pregnancy.\n"
+        },
+        {
+          "question": "Is the benefit amount taxable?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the benefit is a welfare measure and is not taxable."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit is a welfare measure and is not taxable.\n"
+        },
+        {
+          "question": "Is there any fee for registration under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, registration under IGMPY is free of cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, registration under IGMPY is free of cost.\n"
+        },
+        {
+          "question": "Whom should I contact in case of delay or grievance?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant may contact your local Anganwadi Centre or the ICDS Supervisor for assistance."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant may contact your local Anganwadi Centre or the ICDS Supervisor for assistance.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "आई. जी. एम. पी. वाई. योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के 5 आदिवासी जिलों में गर्भवती या स्तनपान कराने वाली महिलाएं अपनी दूसरी गर्भावस्था से गुजर रही हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Pregnant or lactating women undergoing their second pregnancy in 5 tribal districts of Rajasthan.\n"
+        },
+        {
+          "question": "आई. जी. एम. पी. वाई. के तहत कितनी वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹6,000 पाँच सशर्त किश्तों में प्रदान किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹6,000 is provided in five conditional installments.\n"
+        },
+        {
+          "question": "क्या यह योजना पहले बच्चे के लिए लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना केवल दूसरे जीवित जन्म के लिए लागू होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme is applicable only for the second live birth.\n"
+        },
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मातृ और शिशु पोषण में सुधार करना, संस्थागत प्रसव को बढ़ावा देना और टीकाकरण सुनिश्चित करना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To improve maternal and child nutrition, promote institutional deliveries, and ensure vaccinations.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कहाँ आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पात्र जिलों में निकटतम आंगनवाड़ी केंद्र में।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the nearest Anganwadi Centre in the eligible districts.\n"
+        },
+        {
+          "question": "क्या मैं संस्थागत प्रसव के बिना लाभ प्राप्त कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, सरकारी या सूचीबद्ध निजी अस्पताल में संस्थागत प्रसव अनिवार्य है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, institutional delivery in a government or empanelled private hospital is mandatory.\n"
+        },
+        {
+          "question": "क्या यह योजना पूरे राजस्थान में लागू है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, वर्तमान में यह केवल 5 आदिवासी जिलों तक सीमित है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, currently it&#39;s limited to 5 tribal districts only.\n"
+        },
+        {
+          "question": "क्या मैं अपनी तीसरी गर्भावस्था में इस योजना के लिए आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना दूसरी गर्भावस्था के बाद वैध नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the scheme is not valid beyond the second pregnancy.\n"
+        },
+        {
+          "question": "क्या लाभ राशि कर योग्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, लाभ एक कल्याणकारी उपाय है और कर योग्य नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the benefit is a welfare measure and is not taxable.\n"
+        },
+        {
+          "question": "क्या इस योजना के तहत पंजीकरण के लिए कोई शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आई. जी. एम. पी. वाई. के तहत पंजीकरण निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, registration under IGMPY is free of cost.\n"
+        },
+        {
+          "question": "विलम्ब या शिकायत के मामले में मुझे किससे संपर्क करना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक सहायता के लिए आपके स्थानीय आंगनवाड़ी केंद्र या आई. सी. डी. एस. पर्यवेक्षक से संपर्क कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant may contact your local Anganwadi Centre or the ICDS Supervisor for assistance.\n"
+        }
+      ]
+    }
+  }
+}

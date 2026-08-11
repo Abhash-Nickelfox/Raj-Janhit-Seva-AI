@@ -1,0 +1,1824 @@
+{
+  "scheme_id": "67efa4ff4f405f25875ec44c",
+  "slug": "sseces",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Scholarship",
+        "Student",
+        "Vocational Education",
+        "Ex-servicemen",
+        "Technical Education"
+      ],
+      "schemeName": "Scholarship for Children of Ex-Servicemen for Vocational and Technical Education",
+      "schemeShortTitle": "SCESVTE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "Education and training grants, fellowship, stipend"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000047,
+        "label": "Department of Sainik Welfare"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Technical%20Education.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/welfare-schemes/welfare-schemes-from-amalgamated-fund.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Scholarship for Children of Ex-Servicemen for Vocational and Technical Education&amp;quot; was introduced by the Department of Sainik Welfare, Government of Rajasthan. Under this scheme, a scholarship of ₹15,000/- per year is provided to the children of ex-servicemen, from the rank of Sepoy to Havildar, who are pursuing vocational and technical education and have not received scholarship assistance under the Prime Minister&amp;#39;s Scholarship Scheme or from any other source. A maximum of 50 children can be granted this scholarship each year, based on merit, from the Amalgamated Fund. The scheme came into effect from 1st July 2020.\n",
+      "benefits_md": "**Financial Assistance:**\n\n- An scholarship of ₹15,000/- per year per student.\n\n**Mode of Disbursement:**\n\n- Scholarship is disbursed through online payment to the beneficiary’s bank account.\n\n**Note 1:** Only 50 students are selected each year based on merit.\n**Note 2:** Scholarship will be payable in the passing year i.e. scholarship of first year will be payable in the second year. Similarly, scholarship of second year will be payable in the third year.\n",
+      "briefDescription": "Under this scheme, a scholarship of ₹15,000 per year is provided to the children of ex-servicemen, from the rank of Sepoy to Havildar, who are pursuing vocational & technical education & have not received scholarship assistance under the Prime Minister's Scholarship Scheme or from any other source.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Scholarship for Children of Ex-Servicemen for Vocational and Technical Education\" was introduced by the Department of Sainik Welfare, Government of Rajasthan. Under this scheme, a scholarship of ₹15,000/- per year is provided to the children of ex-servicemen, from the rank of Sepoy to Havildar, who are pursuing vocational and technical education and have not received scholarship assistance under the Prime Minister's Scholarship Scheme or from any other source. A maximum of 50 children can be granted this scholarship each year, based on merit, from the Amalgamated Fund. The scheme came into effect from 1st July 2020."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An scholarship of ₹15,000/- per year per student."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scholarship is disbursed through online payment to the beneficiary’s bank account."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note 1:",
+              "bold": true
+            },
+            {
+              "text": " Only 50 students are selected each year based on merit."
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 2:",
+                  "bold": true
+                },
+                {
+                  "text": " Scholarship will be payable in the passing year i.e. scholarship of first year will be payable in the second year. Similarly, scholarship of second year will be payable in the third year."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The interested applicant should visit the office of the District Sainik Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "OR",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The applicant should download the application form from the official website (Link Page No.4)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the District Sainik Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note: ",
+                "bold": true
+              },
+              {
+                "text": "Applicants must submit their applications to the District Soldiers Welfare Officer by November 30."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Post Application Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The District Soldiers Welfare Officer verifies applications and forwards them to the Director, Soldiers Welfare Department, Jaipur by December 31."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " A committee reviews and approves the applications by March 31."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The approved scholarship amount is sent to the District Soldiers Welfare Officer for disbursement."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " The scholarship amount is transferred online to the beneficiary’s bank account within one month."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Yearly Renewal Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The scholarship, after initial approval, must be renewed every year of the course."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "The renewal application needs to be provided with a copy of the original marks sheet."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "The application must be done within 1 year from the date of the published result. If a university does not give the final marks sheet on the end of the course, a passing certificate is needed."
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** The interested applicant should visit the office of the District Sainik Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**OR**\nThe applicant should download the application form from the official website (Link Page No.4).\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Office.\n**Step 4:** Request a receipt or acknowledgment from the District Sainik Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n**Note:** Applicants must submit their applications to the District Soldiers Welfare Officer by November 30.\n***Post Application Process:***\n**Step 1:** The District Soldiers Welfare Officer verifies applications and forwards them to the Director, Soldiers Welfare Department, Jaipur by December 31.\n**Step 2:** A committee reviews and approves the applications by March 31.\n**Step 3:** The approved scholarship amount is sent to the District Soldiers Welfare Officer for disbursement.\n**Step 4:** The scholarship amount is transferred online to the beneficiary’s bank account within one month.\n***Yearly Renewal Process:***\n**Step 1:** The scholarship, after initial approval, must be renewed every year of the course.\n**Step 2:** The renewal application needs to be provided with a copy of the original marks sheet.\n**Step 3:** The application must be done within 1 year from the date of the published result. If a university does not give the final marks sheet on the end of the course, a passing certificate is needed.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should be an ex-serviceman of the rank of Havildar or below, or his widow/dependent.\n1. The applicant should be pursuing a vocational or technical education course included in the [Prime Minister Scholarship Scheme](https://www.ksb.gov.in/writereaddata/DownLoad/List_of_Authorised_professional_degree_courses_under_PMSS.pdf) (PMSS). 1. The applicant should not be receiving benefits under the Prime Minister’s Scholarship Scheme or any other scholarship scheme.\n1. This scholarship is not admissible in cases of Battle Casualty/Disability and Physical Casualty (attributable cases), as in such cases, scholarships are already provided by the Army Headquarters.\n1. The applicant must have passed the previous academic year successfully; failure to pass results in the discontinuation of the scholarship.\n1. The scholarship will not be payable to more than two children of an ex-serviceman.\n\n**Notes:**\n\n- Once selected, the scholarship will continue for the remaining duration of the course, subject to annual renewal.\n- In case of failure in any year, the scholarship will be cancelled for the entire course.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be an ex-serviceman of the rank of Havildar or below, or his widow/dependent."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be pursuing a vocational or technical education course included in the "
+                },
+                {
+                  "type": "link",
+                  "link": "https://www.ksb.gov.in/writereaddata/DownLoad/List_of_Authorised_professional_degree_courses_under_PMSS.pdf",
+                  "children": [
+                    {
+                      "text": "Prime Minister Scholarship Scheme"
+                    }
+                  ]
+                },
+                {
+                  "text": " (PMSS). "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be receiving benefits under the Prime Minister’s Scholarship Scheme or any other scholarship scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This scholarship is not admissible in cases of Battle Casualty/Disability and Physical Casualty (attributable cases), as in such cases, scholarships are already provided by the Army Headquarters."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have passed the previous academic year successfully; failure to pass results in the discontinuation of the scholarship."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scholarship will not be payable to more than two children of an ex-serviceman."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Notes:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Once selected, the scholarship will continue for the remaining duration of the course, subject to annual renewal."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In case of failure in any year, the scholarship will be cancelled for the entire course."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "छात्रवृत्ति",
+        "विद्यार्थी",
+        "व्यावसायिक शिक्षा",
+        "पूर्व सैनिक",
+        "तकनीकी शिक्षा"
+      ],
+      "schemeName": "पूर्व सैनिकों के बच्चों के लिए व्यावसायिक और तकनीकी शिक्षा के लिए छात्रवृत्ति",
+      "schemeShortTitle": "SCESVTE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Education and training grants, fellowship, stipend",
+          "label": "शिक्षा और प्रशिक्षण अनुदान, अध्येतावृत्ति, वजीफा"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000047,
+        "label": "सैनिक कल्याण विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Technical%20Education.pdf"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/welfare-schemes/welfare-schemes-from-amalgamated-fund.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "व्यावसायिक और तकनीकी शिक्षा के लिए पूर्व सैनिकों के बच्चों के लिए छात्रवृत्ति योजना सैनिक कल्याण विभाग, राजस्थान सरकार द्वारा शुरू की गई थी। इस योजना के तहत सिपाही से लेकर हवलदार तक के पूर्व सैनिकों के बच्चों को 15,000 रुपये प्रति वर्ष की छात्रवृत्ति प्रदान की जाती है, जो व्यावसायिक और तकनीकी शिक्षा प्राप्त कर रहे हैं और जिन्हें प्रधानमंत्री छात्रवृत्ति योजना के तहत या किसी अन्य स्रोत से छात्रवृत्ति सहायता प्राप्त नहीं हुई है। प्रत्येक वर्ष अधिकतम 50 बच्चों को योग्यता के आधार पर समामेलित निधि से यह छात्रवृत्ति प्रदान की जा सकती है। यह योजना 1 जुलाई 2020 से लागू हुई।",
+      "benefits_md": "वित्तीय मददः * *-प्रति छात्र ₹15,000/- प्रति वर्ष की छात्रवृत्ति। * *-छात्रवृत्ति ऑनलाइन भुगतान के माध्यम से लाभार्थी के बैंक खाते में वितरित की जाती है। * * नोट 1: * * प्रत्येक वर्ष केवल 50 छात्रों का चयन योग्यता के आधार पर किया जाता है। * छात्रवृत्ति उत्तीर्ण वर्ष में देय होगी अर्थात प्रथम वर्ष की छात्रवृत्ति द्वितीय वर्ष में देय होगी। इसी तरह, दूसरे वर्ष की छात्रवृत्ति तीसरे वर्ष में देय होगी।",
+      "briefDescription": "इस योजना के तहत सिपाही से लेकर हवलदार तक के पूर्व सैनिकों के बच्चों को 15,000 रुपये प्रति वर्ष की छात्रवृत्ति प्रदान की जाती है, जो व्यावसायिक और तकनीकी शिक्षा प्राप्त कर रहे हैं और जिन्हें प्रधानमंत्री छात्रवृत्ति योजना के तहत या किसी अन्य स्रोत से छात्रवृत्ति सहायता प्राप्त नहीं हुई है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सैनिक कल्याण विभाग द्वारा \"व्यावसायिक और तकनीकी शिक्षा के लिए पूर्व सैनिकों के बच्चों के लिए छात्रवृत्ति\" योजना शुरू की गई थी। इस योजना के तहत सिपाही से लेकर हवलदार तक के पूर्व सैनिकों के बच्चों को 15,000 रुपये प्रति वर्ष की छात्रवृत्ति प्रदान की जाती है, जो व्यावसायिक और तकनीकी शिक्षा प्राप्त कर रहे हैं और जिन्हें प्रधानमंत्री छात्रवृत्ति योजना के तहत या किसी अन्य स्रोत से छात्रवृत्ति सहायता प्राप्त नहीं हुई है। प्रत्येक वर्ष अधिकतम 50 बच्चों को योग्यता के आधार पर समामेलित निधि से यह छात्रवृत्ति प्रदान की जा सकती है। यह योजना 1 जुलाई 2020 से लागू हुई।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रति छात्र ₹15,000/- प्रति वर्ष की छात्रवृत्ति।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति ऑनलाइन भुगतान के माध्यम से लाभार्थी के बैंक खाते में वितरित की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "नोट 1:",
+              "bold": true
+            },
+            {
+              "text": "प्रत्येक वर्ष केवल 50 छात्रों का चयन योग्यता के आधार पर किया जाता है।"
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नोट 2:",
+                  "bold": true
+                },
+                {
+                  "text": "छात्रवृत्ति उत्तीर्ण वर्ष में देय होगी अर्थात प्रथम वर्ष की छात्रवृत्ति द्वितीय वर्ष में देय होगी। इसी तरह, दूसरे वर्ष की छात्रवृत्ति तीसरे वर्ष में देय होगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "इच्छुक आवेदक को जिला सैनिक कल्याण कार्यालय के कार्यालय में जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "या",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदक को आधिकारिक वेबसाइट (लिंक पृष्ठ संख्या 4) से आवेदन पत्र डाउनलोड करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सैनिक कल्याण कार्यालय में जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "जिला सैनिक कल्याण कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "ध्यान देंः",
+                "bold": true
+              },
+              {
+                "text": "आवेदकों को 30 नवंबर तक जिला सैनिक कल्याण अधिकारी को अपने आवेदन जमा करने होंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "पोस्ट आवेदन प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "जिला सैनिक कल्याण अधिकारी आवेदनों का सत्यापन करता है और उन्हें 31 दिसंबर तक निदेशक, सैनिक कल्याण विभाग, जयपुर को भेज देता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "एक समिति 31 मार्च तक आवेदनों की समीक्षा करती है और उन्हें मंजूरी देती है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "स्वीकृत छात्रवृत्ति राशि वितरण के लिए जिला सैनिक कल्याण अधिकारी को भेजी जाती है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "छात्रवृत्ति राशि एक महीने के भीतर लाभार्थी के बैंक खाते में ऑनलाइन स्थानांतरित कर दी जाती है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "वार्षिक नवीकरण प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "छात्रवृत्ति, प्रारंभिक अनुमोदन के बाद, पाठ्यक्रम के हर साल नवीनीकृत की जानी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "नवीनीकरण आवेदन को मूल अंक पत्र की एक प्रति प्रदान करने की आवश्यकता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन प्रकाशित परिणाम की तारीख से 1 वर्ष के भीतर किया जाना चाहिए। यदि कोई विश्वविद्यालय पाठ्यक्रम के अंत में अंतिम अंक पत्र नहीं देता है, तो एक उत्तीर्ण प्रमाण पत्र की आवश्यकता होती है।"
+              }
+            ]
+          }
+        ],
+        "process_md": "* * * आवेदन प्रक्रियाः * * * * * चरण 1: * * इच्छुक आवेदक को जिला सैनिक कल्याण कार्यालय के कार्यालय में जाना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * या * * आवेदक को आधिकारिक वेबसाइट (लिंक पृष्ठ संख्या 4) से आवेदन पत्र डाउनलोड करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सैनिक कल्याण कार्यालय में जमा करें। * * चरण 4: * * जिला सैनिक कल्याण कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। * * नोटः * * आवेदकों को 30 नवंबर तक जिला सैनिक कल्याण अधिकारी को अपने आवेदन जमा करने होंगे। * * * आवेदन के बाद की प्रक्रियाः * * * * * चरण 1: * * जिला सैनिक कल्याण अधिकारी आवेदनों का सत्यापन करता है और उन्हें 31 दिसंबर तक निदेशक, सैनिक कल्याण विभाग, जयपुर को भेज देता है। चरण 2: एक समिति 31 मार्च तक आवेदनों की समीक्षा करती है और उन्हें मंजूरी देती है। चरण 3: स्वीकृत छात्रवृत्ति राशि जिला सैनिक कल्याण अधिकारी को वितरण के लिए भेजी जाती है। चरण 4: छात्रवृत्ति राशि एक महीने के भीतर लाभार्थी के बैंक खाते में ऑनलाइन स्थानांतरित कर दी जाती है। वार्षिक नवीकरण प्रक्रियाः चरण 1: प्रारंभिक अनुमोदन के बाद छात्रवृत्ति को पाठ्यक्रम के हर वर्ष नवीनीकृत किया जाना चाहिए। * * चरण 2: * * नवीनीकरण आवेदन को मूल अंक पत्र की एक प्रति प्रदान करने की आवश्यकता है। चरण 3: आवेदन प्रकाशित परिणाम की तारीख से 1 वर्ष के भीतर किया जाना चाहिए। यदि कोई विश्वविद्यालय पाठ्यक्रम के अंत में अंतिम अंक पत्र नहीं देता है, तो एक उत्तीर्ण प्रमाण पत्र की आवश्यकता होती है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Male"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Transgender"
+        },
+        {
+          "gte": 18,
+          "lte": 60,
+          "category": "Widow"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Professional Degree",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Vocational Course",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को हवलदार या उससे नीचे के पद का पूर्व सैनिक या उसकी विधवा/आश्रित होना चाहिए। 1. आवेदक को [प्रधानमंत्री छात्रवृत्ति योजना] (https://www.ksb.gov.in/writereaddata/DownLoad/List_of_Authorised_professional_degree_courses_under_PMSS.pdf) (पीएमएसएस) में शामिल व्यावसायिक या तकनीकी शिक्षा पाठ्यक्रम का अनुसरण करना चाहिए। 1. आवेदक को प्रधानमंत्री छात्रवृत्ति योजना या किसी अन्य छात्रवृत्ति योजना के तहत लाभ प्राप्त नहीं होना चाहिए। 1. यह छात्रवृत्ति युद्ध हताहतों/विकलांगों और शारीरिक हताहतों (जिम्मेदार मामलों) के मामलों में स्वीकार्य नहीं है, क्योंकि ऐसे मामलों में, छात्रवृत्ति पहले से ही सेना मुख्यालय द्वारा प्रदान की जाती है। 1. आवेदक को पिछले शैक्षणिक वर्ष में सफलतापूर्वक उत्तीर्ण होना चाहिए; उत्तीर्ण होने में विफलता के परिणामस्वरूप छात्रवृत्ति बंद हो जाती है। 1. एक पूर्व सैनिक के दो से अधिक बच्चों को छात्रवृत्ति का भुगतान नहीं किया जाएगा। * * नोटः-एक बार चयनित होने के बाद, छात्रवृत्ति पाठ्यक्रम की शेष अवधि के लिए जारी रहेगी, जो वार्षिक नवीनीकरण के अधीन होगी। - किसी भी वर्ष में असफल होने की स्थिति में, पूरे पाठ्यक्रम के लिए छात्रवृत्ति रद्द कर दी जाएगी।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को हवलदार या उससे नीचे के पद का पूर्व सैनिक या उसकी विधवा/आश्रित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को इसमें शामिल व्यावसायिक या तकनीकी शिक्षा पाठ्यक्रम का अनुसरण करना चाहिए"
+                },
+                {
+                  "type": "link",
+                  "link": "https://www.ksb.gov.in/writereaddata/DownLoad/List_of_Authorised_professional_degree_courses_under_PMSS.pdf",
+                  "children": [
+                    {
+                      "text": "प्रधानमंत्री छात्रवृत्ति योजना"
+                    }
+                  ]
+                },
+                {
+                  "text": "(पीएमएसएस)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को प्रधानमंत्री छात्रवृत्ति योजना या किसी अन्य छात्रवृत्ति योजना के तहत लाभ प्राप्त नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह छात्रवृत्ति युद्ध हताहतों/विकलांगों और शारीरिक हताहतों (जिम्मेदार मामलों) के मामलों में स्वीकार्य नहीं है, क्योंकि ऐसे मामलों में, छात्रवृत्ति पहले से ही सेना मुख्यालय द्वारा प्रदान की जाती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को पिछले शैक्षणिक वर्ष में सफलतापूर्वक उत्तीर्ण होना चाहिए; उत्तीर्ण होने में विफलता के परिणामस्वरूप छात्रवृत्ति बंद हो जाती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक पूर्व सैनिक के दो से अधिक बच्चों को छात्रवृत्ति का भुगतान नहीं किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "टिप्पणियाँः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एक बार चयनित होने के बाद, छात्रवृत्ति पाठ्यक्रम की शेष अवधि के लिए जारी रहेगी, जो वार्षिक नवीनीकरण के अधीन होगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "किसी भी वर्ष में असफल होने की स्थिति में, पूरे पाठ्यक्रम के लिए छात्रवृत्ति रद्द कर दी जाएगी।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Male"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Transgender"
+      },
+      {
+        "gte": 18,
+        "lte": 60,
+        "category": "Widow"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Professional Degree",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Vocational Course",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को हवलदार या उससे नीचे के पद का पूर्व सैनिक या उसकी विधवा/आश्रित होना चाहिए। 1. आवेदक को [प्रधानमंत्री छात्रवृत्ति योजना] (https://www.ksb.gov.in/writereaddata/DownLoad/List_of_Authorised_professional_degree_courses_under_PMSS.pdf) (पीएमएसएस) में शामिल व्यावसायिक या तकनीकी शिक्षा पाठ्यक्रम का अनुसरण करना चाहिए। 1. आवेदक को प्रधानमंत्री छात्रवृत्ति योजना या किसी अन्य छात्रवृत्ति योजना के तहत लाभ प्राप्त नहीं होना चाहिए। 1. यह छात्रवृत्ति युद्ध हताहतों/विकलांगों और शारीरिक हताहतों (जिम्मेदार मामलों) के मामलों में स्वीकार्य नहीं है, क्योंकि ऐसे मामलों में, छात्रवृत्ति पहले से ही सेना मुख्यालय द्वारा प्रदान की जाती है। 1. आवेदक को पिछले शैक्षणिक वर्ष में सफलतापूर्वक उत्तीर्ण होना चाहिए; उत्तीर्ण होने में विफलता के परिणामस्वरूप छात्रवृत्ति बंद हो जाती है। 1. एक पूर्व सैनिक के दो से अधिक बच्चों को छात्रवृत्ति का भुगतान नहीं किया जाएगा। * * नोटः-एक बार चयनित होने के बाद, छात्रवृत्ति पाठ्यक्रम की शेष अवधि के लिए जारी रहेगी, जो वार्षिक नवीनीकरण के अधीन होगी। - किसी भी वर्ष में असफल होने की स्थिति में, पूरे पाठ्यक्रम के लिए छात्रवृत्ति रद्द कर दी जाएगी।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को हवलदार या उससे नीचे के पद का पूर्व सैनिक या उसकी विधवा/आश्रित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को इसमें शामिल व्यावसायिक या तकनीकी शिक्षा पाठ्यक्रम का अनुसरण करना चाहिए"
+              },
+              {
+                "type": "link",
+                "link": "https://www.ksb.gov.in/writereaddata/DownLoad/List_of_Authorised_professional_degree_courses_under_PMSS.pdf",
+                "children": [
+                  {
+                    "text": "प्रधानमंत्री छात्रवृत्ति योजना"
+                  }
+                ]
+              },
+              {
+                "text": "(पीएमएसएस)।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को प्रधानमंत्री छात्रवृत्ति योजना या किसी अन्य छात्रवृत्ति योजना के तहत लाभ प्राप्त नहीं होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यह छात्रवृत्ति युद्ध हताहतों/विकलांगों और शारीरिक हताहतों (जिम्मेदार मामलों) के मामलों में स्वीकार्य नहीं है, क्योंकि ऐसे मामलों में, छात्रवृत्ति पहले से ही सेना मुख्यालय द्वारा प्रदान की जाती है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को पिछले शैक्षणिक वर्ष में सफलतापूर्वक उत्तीर्ण होना चाहिए; उत्तीर्ण होने में विफलता के परिणामस्वरूप छात्रवृत्ति बंद हो जाती है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एक पूर्व सैनिक के दो से अधिक बच्चों को छात्रवृत्ति का भुगतान नहीं किया जाएगा।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "टिप्पणियाँः",
+            "bold": true,
+            "underline": true
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एक बार चयनित होने के बाद, छात्रवृत्ति पाठ्यक्रम की शेष अवधि के लिए जारी रहेगी, जो वार्षिक नवीनीकरण के अधीन होगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "किसी भी वर्ष में असफल होने की स्थिति में, पूरे पाठ्यक्रम के लिए छात्रवृत्ति रद्द कर दी जाएगी।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Discharge book or service certificate of the ex-serviceman parent"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ex-Serviceman/Widow Identity Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Previous Year’s Marksheet/Educational qualification certificates"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self-declaration (not receiving any other scholarship)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pension Payment Order (PPO)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Admission"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residence Proof (Domicile certificate or any valid document confirming residency in Rajasthan.)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents if required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Discharge book or service certificate of the ex-serviceman parent\n1. Ex-Serviceman/Widow Identity Card\n1. Previous Year’s Marksheet/Educational qualification certificates\n1. Self-declaration (not receiving any other scholarship)\n1. Pension Payment Order (PPO)\n1. Bank Account Details\n1. Proof of Admission\n1. Residence Proof (Domicile certificate or any valid document confirming residency in Rajasthan.)\n1. Any other documents if required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पूर्व सैनिक माता-पिता की छुट्टी पुस्तिका या सेवा प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भूतपूर्व सैनिक/विधवा पहचान पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछले वर्ष की मार्कशीट/शैक्षिक योग्यता प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्व-घोषणा (कोई अन्य छात्रवृत्ति प्राप्त नहीं करना)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पेंशन भुगतान आदेश (पी. पी. ओ)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रवेश का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निवास प्रमाण (अधिवास प्रमाण पत्र या राजस्थान में निवास की पुष्टि करने वाला कोई भी वैध दस्तावेज।)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Discharge book or service certificate of the ex-serviceman parent\n1. Ex-Serviceman/Widow Identity Card\n1. Previous Year’s Marksheet/Educational qualification certificates\n1. Self-declaration (not receiving any other scholarship)\n1. Pension Payment Order (PPO)\n1. Bank Account Details\n1. Proof of Admission\n1. Residence Proof (Domicile certificate or any valid document confirming residency in Rajasthan.)\n1. Any other documents if required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Children of ex-servicemen with a rank of Havildar or below pursuing vocational or technical education."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Children of ex-servicemen with a rank of Havildar or below pursuing vocational or technical education.\n"
+        },
+        {
+          "question": "What is the scholarship amount?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scholarship provides ₹15,000 per student per year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scholarship provides ₹15,000 per student per year.\n"
+        },
+        {
+          "question": "How many students receive the scholarship each year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A maximum of 50 students are selected based on merit annually."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A maximum of 50 students are selected based on merit annually.\n"
+        },
+        {
+          "question": "Can I apply if I am already receiving another scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scholarship is only for students who are not receiving any other scholarship."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scholarship is only for students who are not receiving any other scholarship.\n"
+        },
+        {
+          "question": "What is the application deadline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications must be submitted by November 30 each year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted by November 30 each year.\n"
+        },
+        {
+          "question": "Where should I submit my application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications must be submitted to the District Sainik Welfare Officer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted to the District Sainik Welfare Officer.\n"
+        },
+        {
+          "question": "Is this scholarship applicable for all courses?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, The scholarship is applicable only for professional and technical courses that are included under the Prime Minister’s Scholarship Scheme of the Kendriya Sainik Board, Ministry of Defence, New Delhi."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, The scholarship is applicable only for professional and technical courses that are included under the Prime Minister’s Scholarship Scheme of the Kendriya Sainik Board, Ministry of Defence, New Delhi.\n"
+        },
+        {
+          "question": "What happens if I fail an academic year?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scholarship will be discontinued for the entire course duration."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scholarship will be discontinued for the entire course duration.\n"
+        },
+        {
+          "question": "Is there any reservation or preference given?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Selection is purely on a merit basis."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selection is purely on a merit basis.\n"
+        },
+        {
+          "question": "How long does it take for the scholarship to be approved?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The approval process is completed by March 31 each year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The approval process is completed by March 31 each year.\n"
+        },
+        {
+          "question": "When will I receive the scholarship amount?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The amount is transferred to the student’s account within one month of approval."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred to the student’s account within one month of approval.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "छात्रवृत्ति के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हवलदार या उससे नीचे के पद वाले पूर्व सैनिकों के बच्चे जो व्यावसायिक या तकनीकी शिक्षा प्राप्त कर रहे हों।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Children of ex-servicemen with a rank of Havildar or below pursuing vocational or technical education.\n"
+        },
+        {
+          "question": "छात्रवृत्ति की राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति प्रति छात्र प्रति वर्ष 15,000 रुपये प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scholarship provides ₹15,000 per student per year.\n"
+        },
+        {
+          "question": "प्रत्येक वर्ष कितने छात्रों को छात्रवृत्ति मिलती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सालाना अधिकतम 50 छात्रों का चयन योग्यता के आधार पर किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A maximum of 50 students are selected based on merit annually.\n"
+        },
+        {
+          "question": "अगर मुझे पहले से ही दूसरी छात्रवृत्ति मिल रही है तो क्या मैं आवेदन कर सकता हूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह छात्रवृत्ति केवल उन छात्रों के लिए है जिन्हें कोई अन्य छात्रवृत्ति नहीं मिल रही है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scholarship is only for students who are not receiving any other scholarship.\n"
+        },
+        {
+          "question": "आवेदन की समय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन प्रत्येक वर्ष 30 नवंबर तक जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted by November 30 each year.\n"
+        },
+        {
+          "question": "मुझे अपना आवेदन कहाँ जमा करना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन जिला सैनिक कल्याण अधिकारी को जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted to the District Sainik Welfare Officer.\n"
+        },
+        {
+          "question": "क्या यह छात्रवृत्ति सभी पाठ्यक्रमों के लिए लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, छात्रवृत्ति केवल पेशेवर और तकनीकी पाठ्यक्रमों के लिए लागू होती है जो केंद्रीय सैनिक बोर्ड, रक्षा मंत्रालय, नई दिल्ली की प्रधानमंत्री छात्रवृत्ति योजना के तहत शामिल हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, The scholarship is applicable only for professional and technical courses that are included under the Prime Minister’s Scholarship Scheme of the Kendriya Sainik Board, Ministry of Defence, New Delhi.\n"
+        },
+        {
+          "question": "अगर मैं एक शैक्षणिक वर्ष में असफल हो जाता हूं तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति पूरे पाठ्यक्रम अवधि के लिए बंद कर दी जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scholarship will be discontinued for the entire course duration.\n"
+        },
+        {
+          "question": "क्या कोई आरक्षण या वरीयता दी गई है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "चयन विशुद्ध रूप से योग्यता के आधार पर होता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Selection is purely on a merit basis.\n"
+        },
+        {
+          "question": "छात्रवृत्ति स्वीकृत होने में कितना समय लगता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अनुमोदन प्रक्रिया प्रत्येक वर्ष 31 मार्च तक पूरी हो जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The approval process is completed by March 31 each year.\n"
+        },
+        {
+          "question": "मुझे छात्रवृत्ति राशि कब मिलेगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मंजूरी के एक महीने के भीतर राशि छात्र के खाते में स्थानांतरित कर दी जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount is transferred to the student’s account within one month of approval.\n"
+        }
+      ]
+    }
+  }
+}

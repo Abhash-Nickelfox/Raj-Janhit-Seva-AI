@@ -1,0 +1,1467 @@
+{
+  "scheme_id": "6822f25b21aa532bf67799d1",
+  "slug": "fasfj",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Financial Assistance",
+        "Journalist",
+        "Litterateur",
+        "Medical",
+        "Treatment",
+        "Old Age"
+      ],
+      "schemeName": "Financial Assistance Scheme for Journalists and Litterateurs - Rajasthan",
+      "schemeShortTitle": "FASJLR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Disease and conditions",
+          "label": "Disease and conditions"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000021,
+        "label": "Information and Public Relations Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://dipr.rajasthan.gov.in/scheme/detail/189"
+        },
+        {
+          "title": "Guidelines - 1",
+          "url": "https://www.tourism.rajasthan.gov.in/content/dam/dipr/Downloads/Schemes/DIPR-Scheme1.pdf"
+        },
+        {
+          "title": "Guidelines -2",
+          "url": "https://www.tourism.rajasthan.gov.in/content/dam/dipr/acts%20rules/patrakar_kalyan_rules.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://www.tourism.rajasthan.gov.in/content/dam/dipr/Downloads/forms/Arthik%20Shitiya%20Format%20Sansodhan.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Financial Assistance Scheme for Journalists and Litterateurs&amp;quot; scheme was launched by the Department of Information &amp;amp; Public Relations (DIPR), Government of Rajasthan. The scheme aims to provide financial support to journalists and litterateurs for the treatment of critical illnesses, medical emergencies and no source of income. The scheme is implemented by a committee constituted by the state government and managed under the Rajasthan Journalist and Litterateur Welfare Fund.\n&gt; **Under the scheme, illness covers:**\n\nCancer, leprosy, valve replacement, angioplasty, bypass surgery, kidney transplant, brain stroke (brain and neurological diseases), epileptic seizures, severe injury in an accident, severe infectious diseases - brain infection, lung infection/pneumonia, severe infection in other organs of the body, general surgery - (hernia, appendix, stones in kidney and gall bladder), pregnancy (cesarean) and serious gynecological diseases, diseases related to excessive bleeding, paralysis/palsy, asthma, Alzheimer&amp;#39;s, COVID-19, thyroid, etc.\n",
+      "benefits_md": "> **Monetary Assistance for Medical Treatment:**\n\n\n- Up to ₹1,00,000/- for treatment of critical diseases (e.g., cancer, bypass surgery, kidney transplant, brain stroke, etc.).\n- In special cases, the committee may approve up to ₹2,00,000/-.\n\n> **Monthly Financial Assistance:**\n\n\n- ₹1,000 to ₹2,500 per month for a maximum of one year to unemployed journalists or those without income due to illness or old age.\n\n",
+      "briefDescription": "The scheme aims to provide financial support to journalists and litterateurs for the treatment of critical illnesses, medical emergencies and no source of income, unemployment, or advanced age.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Financial Assistance Scheme for Journalists and Litterateurs\" scheme was launched by the Department of Information & Public Relations (DIPR), Government of Rajasthan. The scheme aims to provide financial support to journalists and litterateurs for the treatment of critical illnesses, medical emergencies and no source of income. The scheme is implemented by a committee constituted by the state government and managed under the Rajasthan Journalist and Litterateur Welfare Fund."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Under the scheme, illness covers:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Cancer, leprosy, valve replacement, angioplasty, bypass surgery, kidney transplant, brain stroke (brain and neurological diseases), epileptic seizures, severe injury in an accident, severe infectious diseases - brain infection, lung infection/pneumonia, severe infection in other organs of the body, general surgery - (hernia, appendix, stones in kidney and gall bladder), pregnancy (cesarean) and serious gynecological diseases, diseases related to excessive bleeding, paralysis/palsy, asthma, Alzheimer's, COVID-19, thyroid, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Monetary Assistance for Medical Treatment:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Up to ₹1,00,000/- for treatment of critical diseases (e.g., cancer, bypass surgery, kidney transplant, brain stroke, etc.)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In special cases, the committee may approve up to ₹2,00,000/-."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Monthly Financial Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹1,000 to ₹2,500 per month for a maximum of one year to unemployed journalists or those without income due to illness or old age."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the Director, Directorate of Information & Public Relation, Rajasthan Government, Jaipur and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attestted, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the Director, Directorate of Information & Public Relation, Rajasthan Government, Jaipur."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Notes:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Applications from journalists must be recommended by the Rajasthan Shramjeevi Patrakar Sangh, JAR, Newspaper Editors Conference, or the All India Small and Medium Newspaper Association Press Club."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Applications from litterateurs, poets, and authors must be recommended by the relevant literary academy."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "All applications will be reviewed by the Rajasthan Journalist Welfare Fund Committee. Upon verifying eligibility and other necessary details, the Committee will issue appropriate orders, which will be implemented by the Member Secretary."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process**\n\n**Step 1:** The interested applicant should visit (during office hours) the Director, Directorate of Information &amp;amp; Public Relation, Rajasthan Government, Jaipur and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attestted, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Director, Directorate of Information &amp;amp; Public Relation, Rajasthan Government, Jaipur.\n&gt; **Notes:**\n\n\n  - Applications from journalists must be recommended by the Rajasthan Shramjeevi Patrakar Sangh, JAR, Newspaper Editors Conference, or the All India Small and Medium Newspaper Association Press Club.\n  - Applications from litterateurs, poets, and authors must be recommended by the relevant literary academy.\n  - All applications will be reviewed by the Rajasthan Journalist Welfare Fund Committee. Upon verifying eligibility and other necessary details, the Committee will issue appropriate orders, which will be implemented by the Member Secretary.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Rajasthan.\n1. The applicant should be a journalist or litterateur.\n1. The journalist or litterateur should meet one or more of the following criteria:\n\n\n- Suffering from incurable diseases such as tuberculosis, cancer, leprosy, or requiring treatment for serious conditions like valve replacement, transplantation, angioplasty, bypass surgery, or kidney-related ailments.\n- Unemployed due to ill health and without any other source of income.\n- Aged 60 years or above and having no other source of income.\n- Eligible on any other humanitarian grounds as recommended by the designated Committee.\n\n**Note:** Financial assistance will be given to only one person at a time.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a journalist or litterateur."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The journalist or litterateur should meet one or more of the following criteria:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Suffering from incurable diseases such as tuberculosis, cancer, leprosy, or requiring treatment for serious conditions like valve replacement, transplantation, angioplasty, bypass surgery, or kidney-related ailments."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Unemployed due to ill health and without any other source of income."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aged 60 years or above and having no other source of income."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Eligible on any other humanitarian grounds as recommended by the designated Committee."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " Financial assistance will be given to only one person at a time."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "पत्रकार",
+        "साहित्यकार",
+        "चिकित्सकीय",
+        "इलाज",
+        "वृद्धावस्था"
+      ],
+      "schemeName": "पत्रकारों और साहित्यकारों के लिए वित्तीय सहायता योजना-राजस्थान",
+      "schemeShortTitle": "FASJLR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        },
+        {
+          "value": "Disease and conditions",
+          "label": "रोग और स्थितियाँ"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000021,
+        "label": "सूचना और जनसंपर्क विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "योजना का विवरण",
+          "url": "https://dipr.rajasthan.gov.in/scheme/detail/189"
+        },
+        {
+          "title": "दिशानिर्देश-1",
+          "url": "https://www.tourism.rajasthan.gov.in/content/dam/dipr/Downloads/Schemes/DIPR-Scheme1.pdf"
+        },
+        {
+          "title": "दिशानिर्देश-2",
+          "url": "https://www.tourism.rajasthan.gov.in/content/dam/dipr/acts%20rules/patrakar_kalyan_rules.pdf"
+        },
+        {
+          "title": "आवेदन पत्र",
+          "url": "https://www.tourism.rajasthan.gov.in/content/dam/dipr/Downloads/forms/Arthik%20Shitiya%20Format%20Sansodhan.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के सूचना और जनसंपर्क विभाग (डी. आई. पी. आर.) द्वारा पत्रकारों और साक्षरों के लिए वित्तीय सहायता योजना शुरू की गई थी। इस योजना का उद्देश्य पत्रकारों और साहित्यकारों को गंभीर बीमारियों, चिकित्सा आपात स्थितियों और आय का कोई स्रोत नहीं होने के इलाज के लिए वित्तीय सहायता प्रदान करना है। इस योजना को राज्य सरकार द्वारा गठित एक समिति द्वारा लागू किया जाता है और इसका प्रबंधन राजस्थान पत्रकार और साहित्यकार कल्याण कोष के तहत किया जाता है। इस योजना के तहत कैंसर, कुष्ठ रोग, वाल्व प्रतिस्थापन, एंजियोप्लास्टी, बाईपास सर्जरी, गुर्दा प्रत्यारोपण, ब्रेन स्ट्रोक (मस्तिष्क और तंत्रिका संबंधी बीमारियां), मिर्गी के दौरे, दुर्घटना में गंभीर चोट, गंभीर संक्रामक बीमारियां-मस्तिष्क संक्रमण, फेफड़ों का संक्रमण/निमोनिया, शरीर के अन्य अंगों में गंभीर संक्रमण, सामान्य सर्जरी-(हर्निया, अपेंडिक्स, गुर्दे और पित्ताशय में पथरी), गर्भावस्था (सिजेरियन) और गंभीर स्त्री रोग संबंधी बीमारियां, अत्यधिक रक्तस्राव से संबंधित बीमारियां, पक्षाघात/पक्षाघात, अस्थमा, अल्जाइमर और अल्जाइमर, कोविड-19, थायराइड आदि शामिल हैं।",
+      "benefits_md": "> * * चिकित्सा उपचार के लिए आर्थिक सहायता * *-गंभीर बीमारियों (जैसे, कैंसर, बाईपास सर्जरी, किडनी प्रत्यारोपण, ब्रेन स्ट्रोक, आदि) के इलाज के लिए ₹ 1,00,000 तक।-विशेष मामलों में, समिति ₹ 2,00,000-> मासिक वित्तीय सहायता को मंजूरी दे सकती है। * *-बेरोजगार पत्रकारों या बीमारी या बुढ़ापे के कारण आय के बिना लोगों के लिए अधिकतम एक वर्ष के लिए 1,000 रुपये से 2,500 रुपये प्रति माह।",
+      "briefDescription": "इस योजना का उद्देश्य पत्रकारों और साहित्यकारों को गंभीर बीमारियों, चिकित्सा आपात स्थितियों और आय का कोई स्रोत, बेरोजगारी या अधिक उम्र के इलाज के लिए वित्तीय सहायता प्रदान करना है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"पत्रकारों और साक्षरों के लिए वित्तीय सहायता योजना\" योजना राजस्थान सरकार के सूचना और जनसंपर्क विभाग (डी. आई. पी. आर.) द्वारा शुरू की गई थी। इस योजना का उद्देश्य पत्रकारों और साहित्यकारों को गंभीर बीमारियों, चिकित्सा आपात स्थितियों और आय का कोई स्रोत नहीं होने के इलाज के लिए वित्तीय सहायता प्रदान करना है। इस योजना को राज्य सरकार द्वारा गठित एक समिति द्वारा लागू किया जाता है और इसका प्रबंधन राजस्थान पत्रकार और साहित्यकार कल्याण कोष के तहत किया जाता है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, बीमारी कवर करती हैः",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कैंसर, कुष्ठ रोग, वाल्व प्रतिस्थापन, एंजियोप्लास्टी, बाईपास सर्जरी, किडनी प्रत्यारोपण, ब्रेन स्ट्रोक (मस्तिष्क और तंत्रिका संबंधी बीमारियां), मिर्गी के दौरे, दुर्घटना में गंभीर चोट, गंभीर संक्रामक बीमारियां-मस्तिष्क संक्रमण, फेफड़ों का संक्रमण/निमोनिया, शरीर के अन्य अंगों में गंभीर संक्रमण, सामान्य सर्जरी-(हर्निया, अपेंडिक्स, गुर्दे और पित्ताशय में पथरी), गर्भावस्था (सिजेरियन) और गंभीर स्त्री रोग संबंधी बीमारियां, अत्यधिक रक्तस्राव, पक्षाघात/पक्षाघात, अस्थमा, अल्जाइमर, कोविड-19, थायराइड आदि से संबंधित बीमारियां।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "चिकित्सा उपचार के लिए आर्थिक सहायता -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹ 1,00,000 तक-गंभीर बीमारियों (जैसे, कैंसर, बाईपास सर्जरी, किडनी प्रत्यारोपण, ब्रेन स्ट्रोक, आदि) के इलाज के लिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विशेष मामलों में, समिति ₹ 2,00,000-तक की मंजूरी दे सकती है"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "मासिक वित्तीय सहायताः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बेरोजगार पत्रकारों या बीमारी या वृद्धावस्था के कारण आय के बिना लोगों के लिए अधिकतम एक वर्ष के लिए 1,000 रुपये से 2,500 रुपये प्रति माह।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन की प्रक्रिया",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 1:"
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को (कार्यालय समय के दौरान) निदेशक, सूचना और जनसंपर्क निदेशालय, राजस्थान सरकार, जयपुर जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को निदेशक, सूचना और जनसंपर्क निदेशालय, राजस्थान सरकार, जयपुर को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "टिप्पणियाँः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "पत्रकारों के आवेदनों की सिफारिश राजस्थान श्रमजीवी पत्रकार संघ, जे. ए. आर., समाचार पत्र संपादक सम्मेलन या अखिल भारतीय लघु और मध्यम समाचार पत्र संघ प्रेस क्लब द्वारा की जानी चाहिए।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "साहित्यकार, कवियों और लेखकों के आवेदनों की सिफारिश संबंधित साहित्यिक अकादमी द्वारा की जानी चाहिए।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "राजस्थान पत्रकार कल्याण कोष समिति द्वारा सभी आवेदनों की समीक्षा की जाएगी। पात्रता और अन्य आवश्यक विवरणों को सत्यापित करने के बाद, समिति उचित आदेश जारी करेगी, जिसे सदस्य सचिव द्वारा लागू किया जाएगा।"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * आवेदन प्रक्रिया * * * * चरण 1: * * इच्छुक आवेदक को निदेशक, सूचना और जनसंपर्क निदेशालय, राजस्थान सरकार, जयपुर जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापित)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरा हुआ और हस्ताक्षरित आवेदन पत्र निदेशक, सूचना और जनसंपर्क निदेशालय, राजस्थान सरकार, जयपुर को जमा करें। नोटः-पत्रकारों के आवेदनों की सिफारिश राजस्थान श्रमजीवी पत्रकार संघ, जे. ए. आर., समाचार पत्र संपादक सम्मेलन, या अखिल भारतीय लघु और मध्यम समाचार पत्र संघ प्रेस क्लब द्वारा की जानी चाहिए। - संबंधित साहित्यिक अकादमी द्वारा साहित्यकारों, कवियों और लेखकों के आवेदनों की सिफारिश की जानी चाहिए। - राजस्थान पत्रकार कल्याण कोष समिति द्वारा सभी आवेदनों की समीक्षा की जाएगी। पात्रता और अन्य आवश्यक विवरणों को सत्यापित करने के बाद, समिति उचित आदेश जारी करेगी, जिसे सदस्य सचिव द्वारा लागू किया जाएगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक को पत्रकार या साहित्यकार होना चाहिए। 1. पत्रकार या साहित्यकार को निम्नलिखित में से एक या अधिक मानदंडों को पूरा करना चाहिएः - तपेदिक, कैंसर, कुष्ठ रोग जैसी लाइलाज बीमारियों से पीड़ित या गंभीर स्थितियों जैसे वाल्व प्रतिस्थापन, प्रत्यारोपण, एंजियोप्लास्टी, बाईपास सर्जरी या गुर्दे से संबंधित बीमारियों के लिए उपचार की आवश्यकता।-खराब स्वास्थ्य के कारण और आय के किसी अन्य स्रोत के बिना बेरोजगार।-60 वर्ष या उससे अधिक आयु और आय का कोई अन्य स्रोत नहीं होना।-नामित समिति द्वारा अनुशंसित किसी भी अन्य मानवीय आधार पर पात्र। * * नोटः * एक बार में केवल एक व्यक्ति को वित्तीय सहायता दी जाएगी।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को पत्रकार या साहित्यकार होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पत्रकार या साहित्यकार को निम्नलिखित में से एक या अधिक मानदंडों को पूरा करना चाहिएः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "तपेदिक, कैंसर, कुष्ठ रोग जैसी लाइलाज बीमारियों से पीड़ित या गंभीर स्थितियों जैसे वाल्व प्रतिस्थापन, प्रत्यारोपण, एंजियोप्लास्टी, बाईपास सर्जरी, या गुर्दे से संबंधित बीमारियों के लिए उपचार की आवश्यकता होती है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "खराब स्वास्थ्य के कारण और आय के किसी अन्य स्रोत के बिना बेरोजगार।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "60 वर्ष या उससे अधिक आयु का हो और आय का कोई अन्य स्रोत न हो।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नामित समिति द्वारा अनुशंसित किसी भी अन्य मानवीय आधार पर पात्र।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "एक बार में केवल एक व्यक्ति को वित्तीय सहायता दी जाएगी।"
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "occupation": [
+        {
+          "value": "journalist",
+          "label": "Journalist"
+        }
+      ],
+      "isGovEmployee": "No",
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक को पत्रकार या साहित्यकार होना चाहिए। 1. पत्रकार या साहित्यकार को निम्नलिखित में से एक या अधिक मानदंडों को पूरा करना चाहिएः - तपेदिक, कैंसर, कुष्ठ रोग जैसी लाइलाज बीमारियों से पीड़ित या गंभीर स्थितियों जैसे वाल्व प्रतिस्थापन, प्रत्यारोपण, एंजियोप्लास्टी, बाईपास सर्जरी या गुर्दे से संबंधित बीमारियों के लिए उपचार की आवश्यकता।-खराब स्वास्थ्य के कारण और आय के किसी अन्य स्रोत के बिना बेरोजगार।-60 वर्ष या उससे अधिक आयु और आय का कोई अन्य स्रोत नहीं होना।-नामित समिति द्वारा अनुशंसित किसी भी अन्य मानवीय आधार पर पात्र। * * नोटः * एक बार में केवल एक व्यक्ति को वित्तीय सहायता दी जाएगी।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को पत्रकार या साहित्यकार होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पत्रकार या साहित्यकार को निम्नलिखित में से एक या अधिक मानदंडों को पूरा करना चाहिएः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "तपेदिक, कैंसर, कुष्ठ रोग जैसी लाइलाज बीमारियों से पीड़ित या गंभीर स्थितियों जैसे वाल्व प्रतिस्थापन, प्रत्यारोपण, एंजियोप्लास्टी, बाईपास सर्जरी, या गुर्दे से संबंधित बीमारियों के लिए उपचार की आवश्यकता होती है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "खराब स्वास्थ्य के कारण और आय के किसी अन्य स्रोत के बिना बेरोजगार।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "60 वर्ष या उससे अधिक आयु का हो और आय का कोई अन्य स्रोत न हो।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "नामित समिति द्वारा अनुशंसित किसी भी अन्य मानवीय आधार पर पात्र।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "ध्यान देंः",
+            "bold": true
+          },
+          {
+            "text": "एक बार में केवल एक व्यक्ति को वित्तीय सहायता दी जाएगी।"
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "occupation": [
+      {
+        "value": "journalist",
+        "label": "Journalist"
+      }
+    ],
+    "isGovEmployee": "No",
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity Proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Medical Reports and Prescription (If applicable)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of age "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity Proof\n1. Medical Reports and Prescription (If applicable)\n1. Proof of age \n1. Income Certificate\n1. Bank Passbook Copy\n1. Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "चिकित्सा रिपोर्ट और प्रिस्क्रिप्शन (यदि लागू हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उम्र का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity Proof\n1. Medical Reports and Prescription (If applicable)\n1. Proof of age \n1. Income Certificate\n1. Bank Passbook Copy\n1. Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the Journalist Financial Assistance Facility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A financial aid scheme for journalists/litterateurs in Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A financial aid scheme for journalists/litterateurs in Rajasthan.\n"
+        },
+        {
+          "question": "Who manages the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Managed by DIPR under a committee formed by the state government."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Managed by DIPR under a committee formed by the state government.\n"
+        },
+        {
+          "question": "Who is eligible?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Accredited/non-accredited journalists, litterateurs. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Accredited/non-accredited journalists, litterateurs. \n"
+        },
+        {
+          "question": "Is financial help available for health treatment?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, for serious diseases like cancer, stroke, kidney failure, etc."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, for serious diseases like cancer, stroke, kidney failure, etc.\n"
+        },
+        {
+          "question": "What is the maximum one-time financial aid?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹1,00,000; ₹2,00,000 in special cases."
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹1,00,000; ₹2,00,000 in special cases.\n"
+        },
+        {
+          "question": "Can the committee deny aid?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, if the applicant eligibility is not met."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if the applicant eligibility is not met.\n"
+        },
+        {
+          "question": "How do I apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Submit an offline application to DIPR, Jaipur."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit an offline application to DIPR, Jaipur.\n"
+        },
+        {
+          "question": "Can the amount be increased?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, in special cases up to ₹2,00,000."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, in special cases up to ₹2,00,000.\n"
+        },
+        {
+          "question": "What is the contact office for queries?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Directorate, Department of Information & Public Relations, Rajasthan, Jaipur."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Directorate, Department of Information &amp; Public Relations, Rajasthan, Jaipur.\n"
+        },
+        {
+          "question": "Who reviews the application? ",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All applications will be reviewed by the Rajasthan Journalist Welfare Fund Committee. Upon verifying eligibility and other necessary details, the Committee will issue appropriate orders, which will be implemented by the Member Secretary."
+                }
+              ]
+            }
+          ],
+          "answer_md": "All applications will be reviewed by the Rajasthan Journalist Welfare Fund Committee. Upon verifying eligibility and other necessary details, the Committee will issue appropriate orders, which will be implemented by the Member Secretary.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "पत्रकार वित्तीय सहायता सुविधा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में पत्रकारों/साहित्यकारों के लिए एक वित्तीय सहायता योजना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A financial aid scheme for journalists/litterateurs in Rajasthan.\n"
+        },
+        {
+          "question": "योजना का प्रबंधन कौन करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य सरकार द्वारा गठित एक समिति के तहत डी. आई. पी. आर. द्वारा प्रबंधित।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Managed by DIPR under a committee formed by the state government.\n"
+        },
+        {
+          "question": "कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मान्यता प्राप्त/गैर-मान्यता प्राप्त पत्रकार, साहित्यकार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Accredited/non-accredited journalists, litterateurs. \n"
+        },
+        {
+          "question": "क्या स्वास्थ्य उपचार के लिए वित्तीय सहायता उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, कैंसर, आघात, गुर्दे की विफलता आदि जैसी गंभीर बीमारियों के लिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, for serious diseases like cancer, stroke, kidney failure, etc.\n"
+        },
+        {
+          "question": "अधिकतम एकमुश्त वित्तीय सहायता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹ 1,00,000; ₹ 2,00,000 विशेष मामलों में।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹1,00,000; ₹2,00,000 in special cases.\n"
+        },
+        {
+          "question": "क्या समिति सहायता से इनकार कर सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यदि आवेदक की पात्रता पूरी नहीं होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, if the applicant eligibility is not met.\n"
+        },
+        {
+          "question": "मैं कैसे आवेदन करूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डी. आई. पी. आर., जयपुर में ऑफ़लाइन आवेदन जमा करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit an offline application to DIPR, Jaipur.\n"
+        },
+        {
+          "question": "क्या राशि बढ़ाई जा सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, विशेष मामलों में ₹ 2,00,000 तक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, in special cases up to ₹2,00,000.\n"
+        },
+        {
+          "question": "पूछताछ के लिए संपर्क कार्यालय क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निदेशालय, सूचना और जनसंपर्क विभाग, राजस्थान, जयपुर।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Directorate, Department of Information &amp; Public Relations, Rajasthan, Jaipur.\n"
+        },
+        {
+          "question": "आवेदन की समीक्षा कौन करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान पत्रकार कल्याण कोष समिति द्वारा सभी आवेदनों की समीक्षा की जाएगी। पात्रता और अन्य आवश्यक विवरणों को सत्यापित करने के बाद, समिति उचित आदेश जारी करेगी, जिसे सदस्य सचिव द्वारा लागू किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "All applications will be reviewed by the Rajasthan Journalist Welfare Fund Committee. Upon verifying eligibility and other necessary details, the Committee will issue appropriate orders, which will be implemented by the Member Secretary.\n"
+        }
+      ]
+    }
+  }
+}

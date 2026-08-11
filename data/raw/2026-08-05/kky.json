@@ -1,0 +1,1798 @@
+{
+  "scheme_id": "6603f5c2a8333243438951a5",
+  "slug": "kky",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Food",
+        "Farmer",
+        "Agriculture"
+      ],
+      "schemeName": "Kisan Kaleva Yojana",
+      "schemeShortTitle": "KKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2009-12-21",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rlsa.gov.in/povertyScheme/21.PDF"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Kisan Kaleva Scheme, initiated by the Rajasthan Government&#39;s Agriculture Department, provides food at concessional rates through coupons to farmers and their assistants selling crops in vegetable market premises. Registered farmers and their assistants can avail a plate of food for ₹5/- under this provision. This initiative aims to alleviate the financial burden on farmers and their helpers while ensuring they have access to affordable and nutritious meals during their visits to the market. Through the Kisan Kaleva Scheme, the government demonstrates its commitment to supporting agricultural communities and promoting their well-being by offering practical assistance.\n",
+      "benefits_md": "\n1. The scheme aims to provide affordable and nutritious meals to farmers and their helpers at a subsidized rate of ₹5/- per plate.\n1. The meals will be provided in the mandi premises itself.\n1. The menu for the meal includes:\n\n  - 8 chapatis (made from 250 grams of flour).\n  - 1 bowl of dal (125 grams).\n  - 1 bowl of vegetables (125 grams).\n  - 50 grams of jaggery (in winter, from October to March).\n  - 200 ml of buttermilk (in summer, from April to September).\n\n\n",
+      "briefDescription": "Under the Kisan Kaleva Scheme run by the Rajasthan Government, food is provided at concessional rates through coupons to the farmers and their assistants who come to sell crops in the vegetable market premises.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Kisan Kaleva Scheme, initiated by the Rajasthan Government's Agriculture Department, provides food at concessional rates through coupons to farmers and their assistants selling crops in vegetable market premises. Registered farmers and their assistants can avail a plate of food for ₹5/- under this provision. This initiative aims to alleviate the financial burden on farmers and their helpers while ensuring they have access to affordable and nutritious meals during their visits to the market. Through the Kisan Kaleva Scheme, the government demonstrates its commitment to supporting agricultural communities and promoting their well-being by offering practical assistance."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme aims to provide affordable and nutritious meals to farmers and their helpers at a subsidized rate of ₹5/- per plate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The meals will be provided in the mandi premises itself."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The menu for the meal includes:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "8 chapatis (made from 250 grams of flour)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "1 bowl of dal (125 grams)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "1 bowl of vegetables (125 grams)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "50 grams of jaggery (in winter, from October to March)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "200 ml of buttermilk (in summer, from April to September)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on the new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on the screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5",
+                "bold": true
+              },
+              {
+                "text": ": Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "dashboard "
+                  }
+                ]
+              },
+              {
+                "text": "will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “ RAJ-KISAN ” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"Farmer\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on Get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "When the coupon code is issued to the farmer, license holder Hamal/Palledar/Tulara is provided by the concerned farmer to the Kaleva operator, after the coupon code is verified on the operator's system, the concerned person is provided food at a concessional rate of ₹ 5/-.",
+                "bold": true
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n<br>\n\n> **When the coupon code is issued to the farmer, license holder Hamal/Palledar/Tulara is provided by the concerned farmer to the Kaleva operator, after the coupon code is verified on the operator&#39;s system, the concerned person is provided food at a concessional rate of ₹ 5/-.**\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be Hamal/Palledar/Tulara of the farmers coming to sell agricultural commodities.\n- The applicant should be a member of the market premises.\n- The applicant should be a license holder of the market.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be Hamal/Palledar/Tulara of the farmers coming to sell agricultural commodities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a member of the market premises."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a license holder of the market."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "भोजन",
+        "किसान",
+        "कृषि"
+      ],
+      "schemeName": "किसान कलेव योजना",
+      "schemeShortTitle": "KKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2009-12-21",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "कृषि विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rlsa.gov.in/povertyScheme/21.PDF"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के कृषि विभाग द्वारा शुरू की गई किसान कलेव योजना, किसानों और सब्जी बाजार परिसरों में फसलें बेचने वाले उनके सहायकों को कूपन के माध्यम से रियायती दरों पर भोजन प्रदान करती है। पंजीकृत किसान और उनके सहायक इस प्रावधान के तहत ₹5/- में भोजन की एक थाली का लाभ उठा सकते हैं। इस पहल का उद्देश्य किसानों और उनके सहायकों पर वित्तीय बोझ को कम करना है, साथ ही यह सुनिश्चित करना है कि बाजार में उनकी यात्रा के दौरान उन्हें किफायती और पौष्टिक भोजन मिले। किसान कलेव योजना के माध्यम से, सरकार व्यावहारिक सहायता प्रदान करके कृषि समुदायों का समर्थन करने और उनके कल्याण को बढ़ावा देने के लिए अपनी प्रतिबद्धता प्रदर्शित करती है।",
+      "benefits_md": "1. इस योजना का उद्देश्य किसानों और उनके सहायकों को 5 रुपये प्रति थाली की रियायती दर पर किफायती और पौष्टिक भोजन प्रदान करना है। 1. भोजन मंडी परिसर में ही उपलब्ध कराया जाएगा। 1. भोजन के लिए मेनू में शामिल हैंः - 8 रोटी (250 ग्राम आटे से बनी).-1 कटोरी दाल (125 ग्राम).-1 कटोरी सब्जियाँ (125 ग्राम).-50 ग्राम गुड़ (सर्दियों में, अक्टूबर से मार्च तक).-200 मिलीलीटर छाछ (गर्मियों में, अप्रैल से सितंबर तक)।",
+      "briefDescription": "राजस्थान सरकार द्वारा संचालित किसान कलेव योजना के तहत, सब्जी बाजार परिसर में फसल बेचने आने वाले किसानों और उनके सहायकों को कूपन के माध्यम से रियायती दरों पर भोजन प्रदान किया जाता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के कृषि विभाग द्वारा शुरू की गई किसान कलेव योजना, सब्जी बाजार परिसरों में फसलें बेचने वाले किसानों और उनके सहायकों को कूपन के माध्यम से रियायती दरों पर भोजन प्रदान करती है। पंजीकृत किसान और उनके सहायक इस प्रावधान के तहत ₹5/- में भोजन की एक थाली का लाभ उठा सकते हैं। इस पहल का उद्देश्य किसानों और उनके सहायकों पर वित्तीय बोझ को कम करना है, साथ ही यह सुनिश्चित करना है कि बाजार में उनकी यात्रा के दौरान उन्हें किफायती और पौष्टिक भोजन मिले। किसान कलेव योजना के माध्यम से, सरकार व्यावहारिक सहायता प्रदान करके कृषि समुदायों का समर्थन करने और उनके कल्याण को बढ़ावा देने के लिए अपनी प्रतिबद्धता प्रदर्शित करती है।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य किसानों और उनके सहायकों को ₹5/- प्रति थाली की रियायती दर पर किफायती और पौष्टिक भोजन प्रदान करना है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भोजन मंडी परिसर में ही उपलब्ध कराया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भोजन के लिए मेनू में शामिल हैंः"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "8 चपाती (250 ग्राम आटे से बनी)।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "1 कटोरी दाल (125 ग्राम)।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "1 कटोरी सब्जियाँ (125 ग्राम)।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "50 ग्राम गुड़ (सर्दियों में, अक्टूबर से मार्च तक)।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "200 मिलीलीटर छाछ (गर्मियों में, अप्रैल से सितंबर तक)।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5",
+                "bold": true
+              },
+              {
+                "text": ": जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉगइन करने के बाद,"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "डैशबोर्ड"
+                  }
+                ]
+              },
+              {
+                "text": "खुलेंगे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"राज-किसान\" विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"किसान\" में, \"आवेदन प्रविष्टि अनुरोध\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "\"भामाशाह आईडी\" या \"जनाधार आईडी\" दर्ज करें और खोजें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "व्यक्ति का नाम और योजना का नाम चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "आवश्यक विवरण प्रदान करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- पेंशनभोगी विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- बैंक विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- विकलांगता विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- सत्यापन विवरण।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- दस्तावेज़ अपलोड करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "जब किसान को कूपन कोड जारी किया जाता है, तो लाइसेंस धारक हमाल/पलदार/तुलारा संबंधित किसान द्वारा कलेवा ऑपरेटर को प्रदान किया जाता है, ऑपरेटर के सिस्टम पर कूपन कोड सत्यापित होने के बाद, संबंधित व्यक्ति को ₹5/- की रियायती दर पर भोजन प्रदान किया जाता है",
+                "bold": true
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। * * चरण-5 * *: जमा करें। आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * लॉग इन करने के बाद, [डैशबोर्ड] (https://sso.rajasthan.gov.in/dashboard) खुल जाएगा। * * चरण-3: * * \"राज-किसान\" विकल्प पर क्लिक करें। * * चरण-4: 'किसान' में 'आवेदन प्रविष्टि अनुरोध' पर क्लिक करें। * * चरण-5: 'भामाशाह आईडी' या 'जनाधार आईडी' दर्ज करें और खोजें। * * चरण-6: * * व्यक्ति का नाम और योजना का नाम चुनें। * * चरण-7: * * आधार प्रमाणीकरण पूरा करें और विवरण प्राप्त करें पर क्लिक करें। * * चरण-8: * * आवश्यक विवरण प्रदान करें। - पेंशनभोगी विवरण। - बैंक विवरण। - विकलांगता विवरण। - सत्यापन विवरण। - दस्तावेज़ अपलोड करें। * * चरण-9: * * जमा करें। जब किसान को कूपन कोड जारी किया जाता है, तो लाइसेंस धारक हमाल/पलदार/तुलारा संबंधित किसान द्वारा कलेवा ऑपरेटर को प्रदान किया जाता है, ऑपरेटर के सिस्टम पर कूपन कोड सत्यापित होने के बाद, संबंधित व्यक्ति को ₹5/- की रियायती दर पर भोजन प्रदान किया जाता है। * *"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "- आवेदक कृषि जिंसों को बेचने आने वाले किसानों का हमाल/पलदार/तुलारा होना चाहिए।-आवेदक को बाजार परिसर का सदस्य होना चाहिए।-आवेदक को बाजार का लाइसेंस धारक होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक कृषि वस्तुओं को बेचने आने वाले किसानों का हमाल/पलदार/तुलारा होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को बाजार परिसर का सदस्य होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को बाजार का लाइसेंस धारक होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "- आवेदक कृषि जिंसों को बेचने आने वाले किसानों का हमाल/पलदार/तुलारा होना चाहिए।-आवेदक को बाजार परिसर का सदस्य होना चाहिए।-आवेदक को बाजार का लाइसेंस धारक होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक कृषि वस्तुओं को बेचने आने वाले किसानों का हमाल/पलदार/तुलारा होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को बाजार परिसर का सदस्य होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को बाजार का लाइसेंस धारक होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identification Proof"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Farmers coming to the market premises to sell agricultural commodities are issued a maximum of 02 food coupons on each incoming entry card issued at the market gate and 01 food coupon at a concessional rate is issued to license holder Hamal/Palledar/Tulara on the license number. The validity of the coupon issued to the concerned is till 24 hours.",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Identification Proof\n\n> **Farmers coming to the market premises to sell agricultural commodities are issued a maximum of 02 food coupons on each incoming entry card issued at the market gate and 01 food coupon at a concessional rate is issued to license holder Hamal/Palledar/Tulara on the license number. The validity of the coupon issued to the concerned is till 24 hours.**\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "कृषि जिंसों को बेचने के लिए बाजार परिसर में आने वाले किसानों को बाजार द्वार पर जारी प्रत्येक आने वाले प्रवेश पत्र पर अधिकतम 02 खाद्य कूपन जारी किए जाते हैं और लाइसेंस संख्या पर लाइसेंस धारक हमाल/पलदार/तुलारा को रियायती दर पर 1 खाद्य कूपन जारी किया जाता है। संबंधित को जारी किए गए कूपन की वैधता 24 घंटे तक है।",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Identification Proof\n\n> **Farmers coming to the market premises to sell agricultural commodities are issued a maximum of 02 food coupons on each incoming entry card issued at the market gate and 01 food coupon at a concessional rate is issued to license holder Hamal/Palledar/Tulara on the license number. The validity of the coupon issued to the concerned is till 24 hours.**\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Kisan Kaleva Yojana is a scheme introduced by the Rajasthan Government to provide subsidized meals to farmers and their assistants at vegetable market premises."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Kisan Kaleva Yojana is a scheme introduced by the Rajasthan Government to provide subsidized meals to farmers and their assistants at vegetable market premises.\n"
+        },
+        {
+          "question": "Who is eligible to benefit from the Kisan Kaleva Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Farmers and their assistants who come to sell crops at vegetable market premises are eligible to benefit from this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Farmers and their assistants who come to sell crops at vegetable market premises are eligible to benefit from this scheme.\n"
+        },
+        {
+          "question": "How does the scheme work?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme offers food at concessional rates through coupons, allowing registered farmers and their assistants to avail a plate of food for a nominal price."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme offers food at concessional rates through coupons, allowing registered farmers and their assistants to avail a plate of food for a nominal price.\n"
+        },
+        {
+          "question": "What is the maximum price for food under the Kisan Kaleva Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The maximum price for food is fixed at ₹ 40, with ₹35 subsidized by the market committee and ₹ 5 contributed by the farmer and laborer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The maximum price for food is fixed at [?] 40, with [?]35 subsidized by the market committee and [?] 5 contributed by the farmer and laborer.\n"
+        },
+        {
+          "question": "Will farmers get different types of food in winter and summer?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, vegetables and jaggery will be available as per season."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, vegetables and jaggery will be available as per season.\n"
+        },
+        {
+          "question": "How long will the food coupon be valid?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The food coupon will be valid for 24 hours."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The food coupon will be valid for 24 hours.\n"
+        },
+        {
+          "question": "How has the Kisan Kaleva Yojana benefited agricultural communities in Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme has provided significant relief to farmers and their assistants by reducing their expenses on meals and ensuring they have access to essential food items during their work hours."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme has provided significant relief to farmers and their assistants by reducing their expenses on meals and ensuring they have access to essential food items during their work hours.\n"
+        },
+        {
+          "question": "Any education qualification required for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "There is no qualification requirement for this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "There is no qualification requirement for this scheme.\n"
+        },
+        {
+          "question": "Is there any criteria related to caste in this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there are no cast criteria in this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there are no cast criteria in this scheme.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "किसान कलेव योजना राजस्थान सरकार द्वारा सब्जी बाजार परिसर में किसानों और उनके सहायकों को रियायती दर पर भोजन प्रदान करने के लिए शुरू की गई एक योजना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Kisan Kaleva Yojana is a scheme introduced by the Rajasthan Government to provide subsidized meals to farmers and their assistants at vegetable market premises.\n"
+        },
+        {
+          "question": "किसान कलेव योजना का लाभ उठाने के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सब्जी बाजार परिसर में फसल बेचने आने वाले किसान और उनके सहायक इस योजना का लाभ उठाने के पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Farmers and their assistants who come to sell crops at vegetable market premises are eligible to benefit from this scheme.\n"
+        },
+        {
+          "question": "यह योजना कैसे काम करती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना कूपनों के माध्यम से रियायती दरों पर भोजन प्रदान करती है, जिससे पंजीकृत किसानों और उनके सहायकों को मामूली कीमत पर भोजन की एक थाली प्राप्त करने की अनुमति मिलती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme offers food at concessional rates through coupons, allowing registered farmers and their assistants to avail a plate of food for a nominal price.\n"
+        },
+        {
+          "question": "किसान कलेव योजना के तहत भोजन की अधिकतम कीमत क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "भोजन के लिए अधिकतम मूल्य ₹40 निर्धारित किया गया है, जिसमें ₹35 बाजार समिति द्वारा सब्सिडी दी जाती है और ₹5 किसान और मजदूर द्वारा योगदान किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The maximum price for food is fixed at [?] 40, with [?]35 subsidized by the market committee and [?] 5 contributed by the farmer and laborer.\n"
+        },
+        {
+          "question": "क्या किसानों को सर्दियों और गर्मियों में अलग-अलग प्रकार का भोजन मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, सब्जियां और गुड़ मौसम के अनुसार उपलब्ध होंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, vegetables and jaggery will be available as per season.\n"
+        },
+        {
+          "question": "खाद्य कूपन कब तक वैध रहेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "खाद्य कूपन 24 घंटे के लिए वैध होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The food coupon will be valid for 24 hours.\n"
+        },
+        {
+          "question": "किसान कलेव योजना से राजस्थान में कृषि समुदायों को कैसे लाभ हुआ है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना ने किसानों और उनके सहायकों को भोजन पर उनके खर्च को कम करके और उनके काम के घंटों के दौरान आवश्यक खाद्य पदार्थों तक उनकी पहुंच सुनिश्चित करके महत्वपूर्ण राहत प्रदान की है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme has provided significant relief to farmers and their assistants by reducing their expenses on meals and ensuring they have access to essential food items during their work hours.\n"
+        },
+        {
+          "question": "इस योजना के लिए कोई शैक्षणिक योग्यता आवश्यक है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के लिए कोई योग्यता की आवश्यकता नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "There is no qualification requirement for this scheme.\n"
+        },
+        {
+          "question": "क्या इस योजना में जाति से संबंधित कोई मानदंड है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, इस योजना में कोई जाति मानदंड नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there are no cast criteria in this scheme.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1725 @@
+{
+  "scheme_id": "67ef73ab4f405f25875e6554",
+  "slug": "afdm",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Marriage",
+        "Widow",
+        "Daughter",
+        "Ex-servicemen",
+        "Sainik"
+      ],
+      "schemeName": "Assistance for Daughter's Marriage",
+      "schemeShortTitle": "AFDM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Marriage",
+          "label": "Marriage"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2020-07-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000047,
+        "label": "Department of Sainik Welfare"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Daughter%27s%20Marraige.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/home.html"
+        },
+        {
+          "title": "Application Form (Page No. 4)",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Daughter%27s%20Marraige.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/welfare-schemes/welfare-schemes-from-amalgamated-fund.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Assistance for Daughter&amp;#39;s Marriage&amp;quot; scheme, introduced by the Department of Sainik Welfare, Government of Rajasthan, aims to provide financial support to widows of ex-servicemen for their daughters&amp;#39; marriages. Under this scheme, financial assistance of ₹25,000/- per daughter is provided for a maximum of two marriageable daughters of widows of ex-servicemen up to the rank of Havaldar, who are not receiving the Marriage Grant from the Kendriya Sainik Board (KSB). The financial assistance, drawn from the Amalgamated Fund, is payable to the beneficiary upon applying within one year from the date of marriage.\n",
+      "benefits_md": "\n- Financial assistance of ₹25,000/- per daughter (up to two daughters) is provided.\n\n",
+      "briefDescription": "Under this scheme, financial assistance of ₹25,000/- per girl is provided for a maximum of two marriageable daughters of widows of ex-servicemen up to the rank of Havaldar, who are not receiving a Marriage Grant from the Kendriya Sainik Board.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Assistance for Daughter's Marriage\" scheme, introduced by the Department of Sainik Welfare, Government of Rajasthan, aims to provide financial support to widows of ex-servicemen for their daughters' marriages. Under this scheme, financial assistance of ₹25,000/- per daughter is provided for a maximum of two marriageable daughters of widows of ex-servicemen up to the rank of Havaldar, who are not receiving the Marriage Grant from the Kendriya Sainik Board (KSB). The financial assistance, drawn from the Amalgamated Fund, is payable to the beneficiary upon applying within one year from the date of marriage."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹25,000/- per daughter (up to two daughters) is provided."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:",
+                "underline": true,
+                "italic": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The interested applicant should visit the office of the District Sainik Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "OR",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The applicant should download the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Daughter%27s%20Marraige.pdf",
+                    "children": [
+                      {
+                        "text": "application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " (Page No. 4) from the official website. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Officer. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the District Sainik Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "NOTE:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The application must be submitted within one year of the marriage date."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The application should be made through the same District Sainik Welfare Officer from whom the ex-serviceman/widow's identity card was issued."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Post-Application Process:",
+                    "bold": true,
+                    "underline": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The District Sainik Welfare Officer will verify the application and documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Verified applications will be forwarded to the Director, Sainik Kalyan Vibhag, Rajasthan. A committee will review applications every six months."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " If approved, the financial assistance will be transferred online to the applicant’s bank account."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The District Sainik Welfare Officer will inform the applicant about the payment status."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** The interested applicant should visit the office of the District Sainik Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**OR**\nThe applicant should download the [application form](https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Daughter%27s%20Marraige.pdf) (Page No. 4) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Officer. \n**Step 4:** Request a receipt or acknowledgment from the District Sainik Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n**NOTE:**\n\n  - The application must be submitted within one year of the marriage date.\n  - The application should be made through the same District Sainik Welfare Officer from whom the ex-serviceman/widow&amp;#39;s identity card was issued.\n\n***Post-Application Process:***\n**Step 1:** The District Sainik Welfare Officer will verify the application and documents.\n**Step 2:** Verified applications will be forwarded to the Director, Sainik Kalyan Vibhag, Rajasthan. A committee will review applications every six months.\n**Step 3:** If approved, the financial assistance will be transferred online to the applicant’s bank account.\n**Step 4:** The District Sainik Welfare Officer will inform the applicant about the payment status.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Rajasthan.\n   1. The applicant should be the widow of an ex-serviceman of the rank of Havildar or below.\n   1. The assistance is available for a maximum of two daughters of the widow of an ex-serviceman.\n   1. The daughter should be at least 18 years of age at the time of marriage.\n   1. The daughter’s name should be duly recorded in the ex-serviceman’s discharge book or Part-2 order.\n   1. The applicant should possess a valid Ex-Serviceman/Widow Identity Card issued by the respective District Sainik Welfare Office.\n   1. The applicant should not have received marriage assistance for the same purpose from the Kendriya Sainik Board.\n   1. The application should be submitted within one year from the date of marriage to be eligible for assistance under this scheme.\n   1. Widows of ex-servicemen who are classified as Battle Casualties or Physical Casualties (attributable cases) are not eligible under this scheme, as marriage assistance in such cases is provided by the Army Headquarters.\n   1. If the applicant is eligible for the Daughter Marriage Assistance Scheme run by the Kendriya Sainik Board for ex-servicemen, then financial aid from the Amalgamated Fund shall not be granted.\n   1. The benefit shall be extended only to the widow of an ex-serviceman who meets the definition of an ex-serviceman as prescribed by the Government of India.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Rajasthan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be the widow of an ex-serviceman of the rank of Havildar or below."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The assistance is available for a maximum of two daughters of the widow of an ex-serviceman."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The daughter should be at least 18 years of age at the time of marriage."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The daughter’s name should be duly recorded in the ex-serviceman’s discharge book or Part-2 order."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should possess a valid Ex-Serviceman/Widow Identity Card issued by the respective District Sainik Welfare Office."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not have received marriage assistance for the same purpose from the Kendriya Sainik Board."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The application should be submitted within one year from the date of marriage to be eligible for assistance under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Widows of ex-servicemen who are classified as Battle Casualties or Physical Casualties (attributable cases) are not eligible under this scheme, as marriage assistance in such cases is provided by the Army Headquarters."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If the applicant is eligible for the Daughter Marriage Assistance Scheme run by the Kendriya Sainik Board for ex-servicemen, then financial aid from the Amalgamated Fund shall not be granted."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The benefit shall be extended only to the widow of an ex-serviceman who meets the definition of an ex-serviceman as prescribed by the Government of India."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "शादी",
+        "विधवा",
+        "बेटी",
+        "पूर्व सैनिक",
+        "सैनिक"
+      ],
+      "schemeName": "बेटी की शादी के लिए सहायता",
+      "schemeShortTitle": "AFDM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Marriage",
+          "label": "शादी"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "schemeOpenDate": "2020-07-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000047,
+        "label": "सैनिक कल्याण विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Daughter%27s%20Marraige.pdf"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/home.html"
+        },
+        {
+          "title": "आवेदन पत्र (पृष्ठ संख्या 4)",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Daughter%27s%20Marraige.pdf"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/welfare-schemes/welfare-schemes-from-amalgamated-fund.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के सैनिक कल्याण विभाग द्वारा शुरू की गई बेटी के विवाह के लिए सहायता योजना का उद्देश्य पूर्व सैनिकों की विधवाओं को उनकी बेटियों और विवाह के लिए वित्तीय सहायता प्रदान करना है। इस योजना के तहत, केंद्रीय सैनिक बोर्ड (के. एस. बी.) से विवाह अनुदान प्राप्त नहीं करने वाले हवलदार के पद तक के पूर्व सैनिकों की विधवाओं की अधिकतम दो विवाह योग्य बेटियों के लिए प्रति बेटी ₹25,000/- की वित्तीय सहायता प्रदान की जाती है। विवाह की तारीख से एक वर्ष के भीतर आवेदन करने पर लाभार्थी को समामेलित निधि से प्राप्त वित्तीय सहायता का भुगतान किया जाता है।",
+      "benefits_md": "- ₹25,000/- प्रति बेटी (दो बेटियों तक) की वित्तीय सहायता प्रदान की जाती है।",
+      "briefDescription": "इस योजना के तहत, केंद्रीय सैनिक बोर्ड से विवाह अनुदान प्राप्त नहीं करने वाले हवलदार के पद तक के पूर्व सैनिकों की विधवाओं की अधिकतम दो विवाह योग्य बेटियों के लिए प्रति लड़की ₹25,000/- की वित्तीय सहायता प्रदान की जाती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के सैनिक कल्याण विभाग द्वारा शुरू की गई \"बेटी की शादी के लिए सहायता\" योजना का उद्देश्य पूर्व सैनिकों की विधवाओं को उनकी बेटियों की शादी के लिए वित्तीय सहायता प्रदान करना है। इस योजना के तहत, केंद्रीय सैनिक बोर्ड (के. एस. बी.) से विवाह अनुदान प्राप्त नहीं करने वाले हवलदार के पद तक के पूर्व सैनिकों की विधवाओं की अधिकतम दो विवाह योग्य बेटियों के लिए प्रति बेटी ₹25,000/- की वित्तीय सहायता प्रदान की जाती है। विवाह की तारीख से एक वर्ष के भीतर आवेदन करने पर लाभार्थी को समामेलित निधि से प्राप्त वित्तीय सहायता का भुगतान किया जाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹25,000/- प्रति बेटी (दो बेटियों तक) की वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन प्रक्रियाः",
+                "underline": true,
+                "italic": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को जिला सैनिक कल्याण अधिकारी के कार्यालय जाना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "या",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "आवेदक को डाउनलोड करना चाहिए"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Daughter%27s%20Marraige.pdf",
+                    "children": [
+                      {
+                        "text": "आवेदन पत्र"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "(पृष्ठ संख्या 4) आधिकारिक वेबसाइट से।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सैनिक कल्याण अधिकारी को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला सैनिक कल्याण अधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "नोटः",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "आवेदन विवाह तिथि के एक वर्ष के भीतर प्रस्तुत किया जाना चाहिए।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "आवेदन उसी जिला सैनिक कल्याण अधिकारी के माध्यम से किया जाना चाहिए जिससे पूर्व सैनिक/विधवा का पहचान पत्र जारी किया गया था।"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "आवेदन के बाद की प्रक्रियाः",
+                    "bold": true,
+                    "underline": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला सैनिक कल्याण अधिकारी आवेदन और दस्तावेजों का सत्यापन करेंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "सत्यापित आवेदन निदेशक, सैनिक कल्याण विभाग, राजस्थान को भेजे जाएंगे। एक समिति हर छह महीने में आवेदनों की समीक्षा करेगी।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "यदि मंजूरी मिल जाती है, तो वित्तीय सहायता आवेदक के बैंक खाते में ऑनलाइन स्थानांतरित कर दी जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला सैनिक कल्याण अधिकारी आवेदक को भुगतान की स्थिति के बारे में सूचित करेगा।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * * आवेदन प्रक्रियाः * * * * * चरण 1: * * इच्छुक आवेदक को जिला सैनिक कल्याण अधिकारी के कार्यालय जाना चाहिए और विशेष रूप से भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * या * * आवेदक को [आवेदन पत्र] (https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Daughter%27s%20Marraige.pdf) (पृष्ठ संख्या। 4) आधिकारिक वेबसाइट से। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को जिला सैनिक कल्याण अधिकारी को जमा करें। * * चरण 4: * * जिला सैनिक कल्याण अधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। * * नोटः-आवेदन शादी की तारीख के एक साल के भीतर जमा किया जाना चाहिए। आवेदन उसी जिला सैनिक कल्याण अधिकारी के माध्यम से किया जाना चाहिए जिससे पूर्व सैनिक/विधवा का पहचान पत्र जारी किया गया था। * * * आवेदन के बाद की प्रक्रियाः * * * * * चरण 1: * * जिला सैनिक कल्याण अधिकारी आवेदन और दस्तावेजों का सत्यापन करेगा। * * चरण 2: * * सत्यापित आवेदन निदेशक, सैनिक कल्याण विभाग, राजस्थान को भेजे जाएंगे। एक समिति हर छह महीने में आवेदनों की समीक्षा करेगी। चरण 3: यदि स्वीकृत हो जाता है, तो वित्तीय सहायता आवेदक के बैंक खाते में ऑनलाइन स्थानांतरित कर दी जाएगी। चरण 4: जिला सैनिक कल्याण अधिकारी आवेदक को भुगतान की स्थिति के बारे में सूचित करेगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "widow",
+          "gte": 18,
+          "lte": 60
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक हवलदार या उससे नीचे के पद के पूर्व सैनिक की विधवा होनी चाहिए। 1. सहायता एक पूर्व सैनिक की विधवा की अधिकतम दो बेटियों के लिए उपलब्ध है। 1. विवाह के समय बेटी की आयु कम से कम 18 वर्ष होनी चाहिए। 1. बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग-2 आदेश में विधिवत दर्ज किया जाना चाहिए। 1. आवेदक के पास संबंधित जिला सैनिक कल्याण कार्यालय द्वारा जारी एक वैध पूर्व-सैनिक/विधवा पहचान पत्र होना चाहिए। 1. आवेदक को केंद्रीय सैनिक बोर्ड से इसी उद्देश्य के लिए विवाह सहायता प्राप्त नहीं होनी चाहिए। 1. इस योजना के तहत सहायता के लिए पात्र होने के लिए विवाह की तारीख से एक साल के भीतर आवेदन जमा किया जाना चाहिए। 1. युद्ध हताहतों या शारीरिक हताहतों (जिम्मेदार मामले) के रूप में वर्गीकृत पूर्व सैनिकों की विधवाएं इस योजना के तहत पात्र नहीं हैं, क्योंकि ऐसे मामलों में विवाह सहायता सेना मुख्यालय द्वारा प्रदान की जाती है। 1. यदि आवेदक पूर्व सैनिकों के लिए केंद्रीय सैनिक बोर्ड द्वारा संचालित बेटी विवाह सहायता योजना के लिए पात्र है, तो समामेलित निधि से वित्तीय सहायता प्रदान नहीं की जाएगी। 1. यह लाभ केवल उस पूर्व सैनिक की विधवा को दिया जाएगा जो भारत सरकार द्वारा निर्धारित पूर्व सैनिक की परिभाषा को पूरा करती है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक हवलदार या उससे नीचे के पद के पूर्व सैनिक की विधवा होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सहायता एक पूर्व सैनिक की विधवा की अधिकतम दो बेटियों के लिए उपलब्ध है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "विवाह के समय बेटी की आयु कम से कम 18 वर्ष होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग-2 आदेश में विधिवत दर्ज किया जाना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक के पास संबंधित जिला सैनिक कल्याण कार्यालय द्वारा जारी एक वैध पूर्व-सैनिक/विधवा पहचान पत्र होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक को केंद्रीय सैनिक बोर्ड से इसी उद्देश्य के लिए विवाह सहायता प्राप्त नहीं होनी चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इस योजना के तहत सहायता के लिए पात्र होने के लिए विवाह की तारीख से एक साल के भीतर आवेदन जमा किया जाना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "युद्ध हताहतों या शारीरिक हताहतों (जिम्मेदार मामले) के रूप में वर्गीकृत पूर्व सैनिकों की विधवाएं इस योजना के तहत पात्र नहीं हैं, क्योंकि ऐसे मामलों में विवाह सहायता सेना मुख्यालय द्वारा प्रदान की जाती है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि आवेदक पूर्व सैनिकों के लिए केंद्रीय सैनिक बोर्ड द्वारा संचालित बेटी विवाह सहायता योजना के लिए पात्र है, तो समामेलित निधि से वित्तीय सहायता प्रदान नहीं की जाएगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यह लाभ केवल उस पूर्व सैनिक की विधवा को दिया जाएगा जो भारत सरकार द्वारा निर्धारित पूर्व सैनिक की परिभाषा को पूरा करती है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "value": "widowed",
+          "label": "Widowed"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "widow",
+        "gte": 18,
+        "lte": 60
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक हवलदार या उससे नीचे के पद के पूर्व सैनिक की विधवा होनी चाहिए। 1. सहायता एक पूर्व सैनिक की विधवा की अधिकतम दो बेटियों के लिए उपलब्ध है। 1. विवाह के समय बेटी की आयु कम से कम 18 वर्ष होनी चाहिए। 1. बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग-2 आदेश में विधिवत दर्ज किया जाना चाहिए। 1. आवेदक के पास संबंधित जिला सैनिक कल्याण कार्यालय द्वारा जारी एक वैध पूर्व-सैनिक/विधवा पहचान पत्र होना चाहिए। 1. आवेदक को केंद्रीय सैनिक बोर्ड से इसी उद्देश्य के लिए विवाह सहायता प्राप्त नहीं होनी चाहिए। 1. इस योजना के तहत सहायता के लिए पात्र होने के लिए विवाह की तारीख से एक साल के भीतर आवेदन जमा किया जाना चाहिए। 1. युद्ध हताहतों या शारीरिक हताहतों (जिम्मेदार मामले) के रूप में वर्गीकृत पूर्व सैनिकों की विधवाएं इस योजना के तहत पात्र नहीं हैं, क्योंकि ऐसे मामलों में विवाह सहायता सेना मुख्यालय द्वारा प्रदान की जाती है। 1. यदि आवेदक पूर्व सैनिकों के लिए केंद्रीय सैनिक बोर्ड द्वारा संचालित बेटी विवाह सहायता योजना के लिए पात्र है, तो समामेलित निधि से वित्तीय सहायता प्रदान नहीं की जाएगी। 1. यह लाभ केवल उस पूर्व सैनिक की विधवा को दिया जाएगा जो भारत सरकार द्वारा निर्धारित पूर्व सैनिक की परिभाषा को पूरा करती है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक हवलदार या उससे नीचे के पद के पूर्व सैनिक की विधवा होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सहायता एक पूर्व सैनिक की विधवा की अधिकतम दो बेटियों के लिए उपलब्ध है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "विवाह के समय बेटी की आयु कम से कम 18 वर्ष होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग-2 आदेश में विधिवत दर्ज किया जाना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक के पास संबंधित जिला सैनिक कल्याण कार्यालय द्वारा जारी एक वैध पूर्व-सैनिक/विधवा पहचान पत्र होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक को केंद्रीय सैनिक बोर्ड से इसी उद्देश्य के लिए विवाह सहायता प्राप्त नहीं होनी चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "इस योजना के तहत सहायता के लिए पात्र होने के लिए विवाह की तारीख से एक साल के भीतर आवेदन जमा किया जाना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "युद्ध हताहतों या शारीरिक हताहतों (जिम्मेदार मामले) के रूप में वर्गीकृत पूर्व सैनिकों की विधवाएं इस योजना के तहत पात्र नहीं हैं, क्योंकि ऐसे मामलों में विवाह सहायता सेना मुख्यालय द्वारा प्रदान की जाती है।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि आवेदक पूर्व सैनिकों के लिए केंद्रीय सैनिक बोर्ड द्वारा संचालित बेटी विवाह सहायता योजना के लिए पात्र है, तो समामेलित निधि से वित्तीय सहायता प्रदान नहीं की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यह लाभ केवल उस पूर्व सैनिक की विधवा को दिया जाएगा जो भारत सरकार द्वारा निर्धारित पूर्व सैनिक की परिभाषा को पूरा करती है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "value": "widowed",
+        "label": "Widowed"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Attested copy of the ex-serviceman's discharge book/Service Particulars"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Ex-Serviceman Widow Identity Card (Valid Ex-Serviceman/Widow Identity Card issued by the District Sainik Welfare Office)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Aadhaar Card of the Widow"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Proof of Residence"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Marriage Certificate"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Pension Payment Order (PPO)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Age Proof of Daughter"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Proof of Daughter's Name in Official Records- Document showing the daughter's name recorded in the ex-serviceman’s Discharge Book or Part-II Order."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Undertaking for Non-Receipt of Similar Assistance"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Death Certificate of the ex-serviceman"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Marriage Invitation Card"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Bank account details"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Recent passport-sized photographs of the applicant and the daughter"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any other documents as required"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Attested copy of the ex-serviceman&amp;#39;s discharge book/Service Particulars\n   1. Ex-Serviceman Widow Identity Card (Valid Ex-Serviceman/Widow Identity Card issued by the District Sainik Welfare Office)\n   1. Aadhaar Card of the Widow\n   1. Proof of Residence\n   1. Marriage Certificate\n   1. Pension Payment Order (PPO)\n   1. Age Proof of Daughter\n   1. Proof of Daughter&amp;#39;s Name in Official Records- Document showing the daughter&amp;#39;s name recorded in the ex-serviceman’s Discharge Book or Part-II Order.\n   1. Undertaking for Non-Receipt of Similar Assistance\n   1. Death Certificate of the ex-serviceman\n   1. Marriage Invitation Card\n   1. Bank account details\n   1. Recent passport-sized photographs of the applicant and the daughter\n   1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पूर्व सैनिक की छुट्टी पुस्तिका/सेवा विवरण की सत्यापित प्रति"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "भूतपूर्व सैनिक विधवा पहचान पत्र (जिला सैनिक कल्याण कार्यालय द्वारा जारी वैध भूतपूर्व सैनिक/विधवा पहचान पत्र)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "विधवा का आधार कार्ड"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "निवास का प्रमाण"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "विवाह प्रमाणपत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पेंशन भुगतान आदेश (पी. पी. ओ)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बेटी की उम्र का प्रमाण"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आधिकारिक अभिलेखों में बेटी के नाम का प्रमाण-पूर्व सैनिक की छुट्टी पुस्तिका या भाग-2 आदेश में दर्ज बेटी का नाम दिखाने वाला दस्तावेज।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "समान सहायता की प्राप्ति न होने के लिए उपक्रम"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पूर्व सैनिक का मृत्यु प्रमाण पत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "विवाह आमंत्रण पत्र"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "बैंक खाते का विवरण"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवेदक और बेटी की हाल की पासपोर्ट आकार की तस्वीरें"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n   1. Attested copy of the ex-serviceman&amp;#39;s discharge book/Service Particulars\n   1. Ex-Serviceman Widow Identity Card (Valid Ex-Serviceman/Widow Identity Card issued by the District Sainik Welfare Office)\n   1. Aadhaar Card of the Widow\n   1. Proof of Residence\n   1. Marriage Certificate\n   1. Pension Payment Order (PPO)\n   1. Age Proof of Daughter\n   1. Proof of Daughter&amp;#39;s Name in Official Records- Document showing the daughter&amp;#39;s name recorded in the ex-serviceman’s Discharge Book or Part-II Order.\n   1. Undertaking for Non-Receipt of Similar Assistance\n   1. Death Certificate of the ex-serviceman\n   1. Marriage Invitation Card\n   1. Bank account details\n   1. Recent passport-sized photographs of the applicant and the daughter\n   1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Widows of ex-servicemen (Havildar or below rank) who have not availed marriage assistance from the Central Sainik Board."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Widows of ex-servicemen (Havildar or below rank) who have not availed marriage assistance from the Central Sainik Board.\n"
+        },
+        {
+          "question": "What is the amount provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹25,000/- per daughter, up to two daughters."
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹25,000/- per daughter, up to two daughters.\n"
+        },
+        {
+          "question": "Can I apply if my husband was a battle casualty?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, as separate financial assistance is provided by the Army Headquarters."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, as separate financial assistance is provided by the Army Headquarters.\n"
+        },
+        {
+          "question": "Can I apply for more than two daughters?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, assistance is provided for a maximum of two daughters."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, assistance is provided for a maximum of two daughters.\n"
+        },
+        {
+          "question": "Is there any income limit for eligibility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no income limit."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no income limit.\n"
+        },
+        {
+          "question": "What is the application deadline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Within one year from the date of marriage."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Within one year from the date of marriage.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "How is the assistance amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Through an online transfer to the applicant’s bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through an online transfer to the applicant’s bank account.\n"
+        },
+        {
+          "question": "How can I apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Submit the prescribed application form with required documents to the District Sainik Welfare Officer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit the prescribed application form with required documents to the District Sainik Welfare Officer.\n"
+        },
+        {
+          "question": "What if I have already received assistance from the Central Sainik Board?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant will not be eligible for this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will not be eligible for this scheme.\n"
+        },
+        {
+          "question": "Can an applicant from another state apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only permanent residents of Rajasthan are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only permanent residents of Rajasthan are eligible.\n"
+        },
+        {
+          "question": "Should the daughter's name be mentioned in any official documents?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the daughter’s name must be recorded in the Discharge Book or Part-II Order of the ex-serviceman."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the daughter’s name must be recorded in the Discharge Book or Part-II Order of the ex-serviceman.\n"
+        },
+        {
+          "question": "Can the widow apply if she has already received marriage assistance from the Kendriya Sainik Board?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, applicants who have already received similar assistance from the Kendriya Sainik Board are not eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applicants who have already received similar assistance from the Kendriya Sainik Board are not eligible.\n"
+        },
+        {
+          "question": "Is the scheme applicable to all ranks of ex-servicemen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, it is applicable only to ex-servicemen of Havildar rank or below."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is applicable only to ex-servicemen of Havildar rank or below.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पूर्व सैनिकों (हवलदार या रैंक से नीचे) की विधवाएँ जिन्होंने केंद्रीय सैनिक बोर्ड से विवाह सहायता का लाभ नहीं उठाया है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Widows of ex-servicemen (Havildar or below rank) who have not availed marriage assistance from the Central Sainik Board.\n"
+        },
+        {
+          "question": "इस योजना के तहत कितनी राशि प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹25,000/- प्रति बेटी, दो बेटियों तक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹25,000/- per daughter, up to two daughters.\n"
+        },
+        {
+          "question": "अगर मेरे पति युद्ध में हताहत हुए हैं तो क्या मैं आवेदन कर सकता हूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, क्योंकि सेना मुख्यालय द्वारा अलग से वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, as separate financial assistance is provided by the Army Headquarters.\n"
+        },
+        {
+          "question": "क्या मैं दो से अधिक बेटियों के लिए आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, अधिकतम दो बेटियों के लिए सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, assistance is provided for a maximum of two daughters.\n"
+        },
+        {
+          "question": "क्या पात्रता के लिए कोई आय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आय की कोई सीमा नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no income limit.\n"
+        },
+        {
+          "question": "आवेदन की समय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विवाह की तारीख से एक वर्ष के भीतर।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Within one year from the date of marriage.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "सहायता राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक के बैंक खाते में ऑनलाइन हस्तांतरण के माध्यम से।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Through an online transfer to the applicant’s bank account.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला सैनिक कल्याण अधिकारी को आवश्यक दस्तावेजों के साथ निर्धारित आवेदन पत्र जमा करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Submit the prescribed application form with required documents to the District Sainik Welfare Officer.\n"
+        },
+        {
+          "question": "अगर मुझे केंद्रीय सैनिक बोर्ड से पहले ही सहायता मिल चुकी है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक इस योजना के लिए पात्र नहीं होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will not be eligible for this scheme.\n"
+        },
+        {
+          "question": "क्या दूसरे राज्य से कोई आवेदक आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान के स्थायी निवासी ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only permanent residents of Rajasthan are eligible.\n"
+        },
+        {
+          "question": "क्या किसी आधिकारिक दस्तावेज में बेटी का नाम उल्लेख किया जाना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, बेटी का नाम पूर्व सैनिक की छुट्टी पुस्तिका या भाग-2 आदेश में दर्ज किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the daughter’s name must be recorded in the Discharge Book or Part-II Order of the ex-serviceman.\n"
+        },
+        {
+          "question": "क्या विधवा आवेदन कर सकती है यदि उसे पहले ही केंद्रीय सैनिक बोर्ड से विवाह सहायता मिल चुकी है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, जिन आवेदकों को पहले ही केंद्रीय सैनिक बोर्ड से इसी तरह की सहायता मिल चुकी है, वे पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applicants who have already received similar assistance from the Kendriya Sainik Board are not eligible.\n"
+        },
+        {
+          "question": "क्या यह योजना पूर्व सैनिकों के सभी रैंकों पर लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह केवल हवलदार रैंक या उससे नीचे के पूर्व सैनिकों पर लागू होता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is applicable only to ex-servicemen of Havildar rank or below.\n"
+        }
+      ]
+    }
+  }
+}

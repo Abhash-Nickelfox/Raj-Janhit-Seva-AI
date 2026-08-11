@@ -1,0 +1,1715 @@
+{
+  "scheme_id": "680cbaa50812f1f15d3fe7b2",
+  "slug": "kgsfdrs",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Term Deposit",
+        "Girl Student",
+        "Residential School",
+        "Kasturba Gandhi"
+      ],
+      "schemeName": "Kasturba Gandhi Special Term Deposit Receipt Scheme",
+      "schemeShortTitle": "KGSTDRS",
+      "implementingAgency": "Directorate Of Secondary Education, Bikaner, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "Education (Elementary and Secondary) Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=63d105de12a7f949a0e67697"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ViewDocument.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Kasturba Gandhi Special Term Deposit Receipt Scheme&amp;quot; was launched by the Department of Education, Government of Rajasthan. Under this scheme, girls who complete Class 8 from Kasturba Gandhi Residential Girls&amp;#39; Schools and continue their regular studies in government schools are eligible for financial support. Those who secure at least 50% marks in Class 10 and enroll in Class 11 will be awarded a Special Term Deposit Receipt (STDR) of ₹2,000/- with a maturity period of five years.\nSimilarly, girls who achieve a minimum of 50% marks in Class 12 and enroll in the first year of a graduation course will receive an STDR of ₹4,000/- with a maturity period of three years.\n",
+      "benefits_md": "> **Monetary Benefits:**\n\n\n- A Special Term Deposit Receipt (STDR) of ₹2,000/- for girl students enrolled in Class 11.\n- A Special Term Deposit Receipt (STDR) of ₹4,000/- for girl students pursuing a graduation course.\n\n> **Mode of Disbursement:**\n\n\n- STDRs (Special Term Deposit Receipts) in the name of the student.\n\n> **Validity:**\n\n\n- An STDR of ₹2,000/- is valid for 5 years.\n- An STDR of ₹4,000/- is valid for 3 years.\n\n",
+      "briefDescription": "Under this scheme, girls who pass Class 8 from Kasturba Gandhi Schools, secure at least 50% marks in Class 10, & enroll in Class 11 receive an STDR of ₹2,000/- (5-year term). Those who score 50% in Class 12 and enroll in graduation receive an STDR of ₹4,000/- (3-year term).",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Kasturba Gandhi Special Term Deposit Receipt Scheme\" was launched by the Department of Education, Government of Rajasthan. Under this scheme, girls who complete Class 8 from Kasturba Gandhi Residential Girls' Schools and continue their regular studies in government schools are eligible for financial support. Those who secure at least 50% marks in Class 10 and enroll in Class 11 will be awarded a Special Term Deposit Receipt (STDR) of ₹2,000/- with a maturity period of five years."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Similarly, girls who achieve a minimum of 50% marks in Class 12 and enroll in the first year of a graduation course will receive an STDR of ₹4,000/- with a maturity period of three years."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Monetary Benefits:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A Special Term Deposit Receipt (STDR) of ₹2,000/- for girl students enrolled in Class 11."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A Special Term Deposit Receipt (STDR) of ₹4,000/- for girl students pursuing a graduation course."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "STDRs (Special Term Deposit Receipts) in the name of the student."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Validity:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An STDR of ₹2,000/- is valid for 5 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An STDR of ₹4,000/- is valid for 3 years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "To avail of the benefits of the scheme, the applicant needs to contact their respective school."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Eligible students are identified by the head of their institution."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit copies of all the mandatory documents (self-attested, if required) to the respective school."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The school will visit the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx",
+                    "children": [
+                      {
+                        "text": "Shala Darpan, Rajasthan"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " Portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Using the school's login credentials (Login ID and Password), the school will fill and submit the application form. "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Post-Application Process:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The filled applications are forwarded to the District Education Officer (DEO), Primary/Secondary Education."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "The DEO compiles and forwards all verified applications to the Directorate of Secondary Education, Bikaner, Rajasthan."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\n**Step 1:** To avail of the benefits of the scheme, the applicant needs to contact their respective school.\n**Step 2:** Eligible students are identified by the head of their institution.\n**Step 3:** Submit copies of all the mandatory documents (self-attested, if required) to the respective school.\n**Step 4:** The school will visit the [Shala Darpan, Rajasthan](https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx) Portal.\n**Step 5:** Using the school&amp;#39;s login credentials (Login ID and Password), the school will fill and submit the application form. \n&gt; **Post-Application Process:**\n\n**Step 1:** The filled applications are forwarded to the District Education Officer (DEO), Primary/Secondary Education.\n**Step 2:** The DEO compiles and forwards all verified applications to the Directorate of Secondary Education, Bikaner, Rajasthan.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "> **General Eligibility**\n\n\n1. The applicant should be a native of Rajasthan state.\n1. The applicant should be a girl student.\n1. The applicant should have passed the 8th class from a Kasturba Gandhi Residential Girls School in Rajasthan.\n> **Eligibility Criteria for Class 10****th** **Students**\n\n\n1. The applicant should have passed the 10th class with a minimum of 50% marks while studying in a government school. 1. The applicant should be enrolled in the 11th class in a government school. \n> **Eligibility Criteria for Class 12****th** **Students**\n\n\n1. The applicant should have passed class 12th with at least 50% marks from a government school 1. The applicant should be enrolled in the first year of a recognized undergraduate course.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "General Eligibility",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a girl student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have passed the 8"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " class from a Kasturba Gandhi Residential Girls School in Rajasthan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Eligibility Criteria for Class 10",
+              "bold": true
+            },
+            {
+              "text": "th",
+              "superscript": true,
+              "bold": true
+            },
+            {
+              "bold": true,
+              "text": " Students"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have passed the 10"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " class with a minimum of 50% marks while studying in a government school. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in the 11"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " class in a government school. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Eligibility Criteria for Class 12",
+              "bold": true
+            },
+            {
+              "text": "th",
+              "superscript": true,
+              "bold": true
+            },
+            {
+              "bold": true,
+              "text": " Students"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have passed class 12"
+                },
+                {
+                  "text": "th",
+                  "superscript": true
+                },
+                {
+                  "text": " with at least 50% marks from a government school "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in the first year of a recognized undergraduate course."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "सावधि जमा",
+        "छात्रा",
+        "आवासीय विद्यालय",
+        "कस्तूरबा गांधी"
+      ],
+      "schemeName": "कस्तूरबा गांधी विशेष अवधि जमा रसीद योजना",
+      "schemeShortTitle": "KGSTDRS",
+      "implementingAgency": "Directorate Of Secondary Education, Bikaner, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "शिक्षा (प्राथमिक और माध्यमिक) विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ShowFile.aspx?oid=63d105de12a7f949a0e67697"
+        },
+        {
+          "title": "योजना का विवरण",
+          "url": "https://rajshaladarpan.rajasthan.gov.in/SD2/BSP/Home/ViewDocument.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "कस्तूरबा गांधी विशेष अवधि जमा रसीद योजना राजस्थान सरकार के शिक्षा विभाग द्वारा शुरू की गई थी। इस योजना के तहत, कस्तूरबा गांधी आवासीय बालिका विद्यालय से 8वीं कक्षा पूरी करने वाली और सरकारी विद्यालयों में अपनी नियमित पढ़ाई जारी रखने वाली लड़कियां वित्तीय सहायता के लिए पात्र हैं। जो कक्षा 10 में कम से कम 50 प्रतिशत अंक प्राप्त करते हैं और कक्षा 11 में नामांकन करते हैं, उन्हें पांच साल की परिपक्वता अवधि के साथ ₹2,000/- की विशेष अवधि जमा रसीद (एसटीडीआर) प्रदान की जाएगी। इसी तरह, जो लड़कियां कक्षा 12 में न्यूनतम 50 प्रतिशत अंक प्राप्त करती हैं और स्नातक पाठ्यक्रम के पहले वर्ष में दाखिला लेती हैं, उन्हें तीन साल की परिपक्वता अवधि के साथ ₹4,000/- का एसटीडीआर मिलेगा।",
+      "benefits_md": "> * * आर्थिक लाभः * *-कक्षा 11 में नामांकित छात्राओं के लिए ₹2,000 की विशेष सावधि जमा रसीद (एसटीडीआर)।-स्नातक पाठ्यक्रम की पढ़ाई करने वाली छात्राओं के लिए ₹4,000 की विशेष सावधि जमा रसीद (एसटीडीआर)। * *-छात्र के नाम पर एसटीडीआर (विशेष अवधि जमा रसीदें)। ₹2,000/- का एसटीडीआर 5 साल के लिए वैध है। ₹4,000/- का एसटीडीआर 3 साल के लिए वैध है।",
+      "briefDescription": "इस योजना के तहत, कस्तूरबा गांधी स्कूलों से कक्षा 8 उत्तीर्ण करने वाली, कक्षा 10 में कम से कम 50 प्रतिशत अंक प्राप्त करने वाली और कक्षा 11 में नामांकन करने वाली लड़कियों को ₹2,000/- (5 साल की अवधि) का एसटीडीआर प्राप्त होता है। जो लोग कक्षा 12 में 50 प्रतिशत अंक प्राप्त करते हैं और स्नातक में नामांकन करते हैं, उन्हें ₹4,000/- (3 साल की अवधि) का एसटीडीआर प्राप्त होता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"कस्तूरबा गांधी विशेष अवधि जमा रसीद योजना\" राजस्थान सरकार के शिक्षा विभाग द्वारा शुरू की गई थी। इस योजना के तहत, कस्तूरबा गांधी आवासीय बालिका विद्यालयों से 8वीं कक्षा पूरी करने वाली और सरकारी स्कूलों में अपनी नियमित पढ़ाई जारी रखने वाली लड़कियां वित्तीय सहायता के लिए पात्र हैं। जो कक्षा 10 में कम से कम 50 प्रतिशत अंक प्राप्त करते हैं और कक्षा 11 में नामांकन करते हैं, उन्हें पांच साल की परिपक्वता अवधि के साथ ₹2,000/- की विशेष अवधि जमा रसीद (एसटीडीआर) प्रदान की जाएगी।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इसी तरह, जो लड़कियां कक्षा 12 में न्यूनतम 50 प्रतिशत अंक प्राप्त करती हैं और स्नातक पाठ्यक्रम के पहले वर्ष में दाखिला लेती हैं, उन्हें तीन साल की परिपक्वता अवधि के साथ ₹4,000/- का एसटीडीआर मिलेगा।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "आर्थिक लाभः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कक्षा 11 में नामांकित लड़कियों के लिए ₹2,000/- की विशेष अवधि जमा रसीद (एसटीडीआर)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्नातक पाठ्यक्रम की पढ़ाई करने वाली लड़कियों के लिए ₹4,000/- की विशेष अवधि जमा रसीद (एसटीडीआर)।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र के नाम पर एसटीडीआर (विशेष अवधि जमा रसीदें)।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "वैधताः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹2,000/- का एसटीडीआर 5 साल के लिए वैध है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹4,000/- का एसटीडीआर 3 साल के लिए वैध है।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "आवेदन प्रक्रियाः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "योजना का लाभ उठाने के लिए आवेदक को अपने संबंधित स्कूल से संपर्क करना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "योग्य छात्रों की पहचान उनके संस्थान के प्रमुख द्वारा की जाती है।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "सभी अनिवार्य दस्तावेजों की प्रतियां (यदि आवश्यक हो तो स्व-सत्यापित) संबंधित स्कूल को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "विद्यालय का दौरा करेंगे"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx",
+                    "children": [
+                      {
+                        "text": "शाला दर्पण, राजस्थान"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": "स्कूल के लॉगिन क्रेडेंशियल्स (लॉगिन आईडी और पासवर्ड) का उपयोग करके, स्कूल आवेदन पत्र भरेगा और जमा करेगा।"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "आवेदन के बाद की प्रक्रियाः",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": "भरे हुए आवेदन जिला शिक्षा अधिकारी (डी. ई. ओ.), प्राथमिक/माध्यमिक शिक्षा को भेजे जाते हैं।"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "चरण 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": "डी. ई. ओ. सभी सत्यापित आवेदनों को संकलित करता है और माध्यमिक शिक्षा निदेशालय, बीकानेर, राजस्थान को भेजता है।"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रियाः * * * * चरण 1: योजना का लाभ उठाने के लिए आवेदक को अपने संबंधित स्कूल से संपर्क करने की आवश्यकता है। चरण 2: पात्र छात्रों की पहचान उनके संस्थान के प्रमुख द्वारा की जाती है। चरण 3: सभी अनिवार्य दस्तावेजों की प्रतियां (यदि आवश्यक हो तो स्व-सत्यापित) संबंधित स्कूल में जमा करें। चरण 4: स्कूल [शाला दर्पण, राजस्थान] (https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/Default.aspx) पोर्टल पर जाएगा। * * चरण 5: * * स्कूल के लॉगिन क्रेडेंशियल्स (लॉगिन आईडी और पासवर्ड) का उपयोग करके, स्कूल आवेदन पत्र भरेगा और जमा करेगा। आवेदन के बाद की प्रक्रियाः * * * * * चरण 1: * * भरे हुए आवेदन जिला शिक्षा अधिकारी (डी. ई. ओ.), प्राथमिक/माध्यमिक शिक्षा को भेजे जाते हैं। * * चरण 2: * * डी. ई. ओ. सभी सत्यापित आवेदनों को संकलित करता है और माध्यमिक शिक्षा निदेशालय, बीकानेर, राजस्थान को भेजता है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "General"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "EWS"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "Female"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "Male"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "OBC"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "SC"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "ST"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "Transgender"
+        },
+        {
+          "gte": 13,
+          "lte": 20,
+          "category": "Widow"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "> * * सामान्य पात्रता * * 1. आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए। 1. आवेदक छात्रा होनी चाहिए। 1. आवेदक को राजस्थान के कस्तूरबा गांधी आवासीय बालिका विद्यालय से 8वीं कक्षा उत्तीर्ण होना चाहिए। आवेदक को सरकारी स्कूल में पढ़ते समय न्यूनतम 50 प्रतिशत अंकों के साथ 10वीं कक्षा उत्तीर्ण होना चाहिए। 1. आवेदक को सरकारी स्कूल में 11वीं कक्षा में नामांकित होना चाहिए। आवेदक को सरकारी स्कूल से कम से कम 50 प्रतिशत अंकों के साथ 12वीं कक्षा उत्तीर्ण होना चाहिए। आवेदक को किसी मान्यता प्राप्त स्नातक पाठ्यक्रम के पहले वर्ष में नामांकित होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "सामान्य योग्यता",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक छात्रा होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 8 उत्तीर्ण होना चाहिए था"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "राजस्थान के कस्तूरबा गांधी आवासीय बालिका विद्यालय की कक्षा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "कक्षा 10 के लिए पात्रता मानदंड",
+              "bold": true
+            },
+            {
+              "text": "थ",
+              "superscript": true,
+              "bold": true
+            },
+            {
+              "bold": true,
+              "text": "विद्यार्थीगण"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 10 उत्तीर्ण होना चाहिए था"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "सरकारी स्कूल में पढ़ते समय न्यूनतम 50 प्रतिशत अंकों के साथ कक्षा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 11 में नामांकित होना चाहिए"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "एक सरकारी स्कूल में कक्षा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "कक्षा 12 के लिए पात्रता मानदंड",
+              "bold": true
+            },
+            {
+              "text": "थ",
+              "superscript": true,
+              "bold": true
+            },
+            {
+              "bold": true,
+              "text": "विद्यार्थीगण"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 12वीं कक्षा उत्तीर्ण होना चाहिए"
+                },
+                {
+                  "text": "थ",
+                  "superscript": true
+                },
+                {
+                  "text": "सरकारी स्कूल से कम से कम 50 प्रतिशत अंकों के साथ"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को किसी मान्यता प्राप्त स्नातक पाठ्यक्रम के पहले वर्ष में नामांकित होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "nri": false,
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "General"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "EWS"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "Female"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "Male"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "OBC"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "SC"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "ST"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "Transgender"
+      },
+      {
+        "gte": 13,
+        "lte": 20,
+        "category": "Widow"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "> * * सामान्य पात्रता * * 1. आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए। 1. आवेदक छात्रा होनी चाहिए। 1. आवेदक को राजस्थान के कस्तूरबा गांधी आवासीय बालिका विद्यालय से 8वीं कक्षा उत्तीर्ण होना चाहिए। आवेदक को सरकारी स्कूल में पढ़ते समय न्यूनतम 50 प्रतिशत अंकों के साथ 10वीं कक्षा उत्तीर्ण होना चाहिए। 1. आवेदक को सरकारी स्कूल में 11वीं कक्षा में नामांकित होना चाहिए। आवेदक को सरकारी स्कूल से कम से कम 50 प्रतिशत अंकों के साथ 12वीं कक्षा उत्तीर्ण होना चाहिए। आवेदक को किसी मान्यता प्राप्त स्नातक पाठ्यक्रम के पहले वर्ष में नामांकित होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "block_quote",
+        "children": [
+          {
+            "text": "सामान्य योग्यता",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान राज्य का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक छात्रा होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को 8 उत्तीर्ण होना चाहिए था"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "राजस्थान के कस्तूरबा गांधी आवासीय बालिका विद्यालय की कक्षा।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "block_quote",
+        "children": [
+          {
+            "text": "कक्षा 10 के लिए पात्रता मानदंड",
+            "bold": true
+          },
+          {
+            "text": "थ",
+            "superscript": true,
+            "bold": true
+          },
+          {
+            "bold": true,
+            "text": "विद्यार्थीगण"
+          }
+        ]
+      },
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को 10 उत्तीर्ण होना चाहिए था"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "सरकारी स्कूल में पढ़ते समय न्यूनतम 50 प्रतिशत अंकों के साथ कक्षा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को 11 में नामांकित होना चाहिए"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "एक सरकारी स्कूल में कक्षा।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "block_quote",
+        "children": [
+          {
+            "text": "कक्षा 12 के लिए पात्रता मानदंड",
+            "bold": true
+          },
+          {
+            "text": "थ",
+            "superscript": true,
+            "bold": true
+          },
+          {
+            "bold": true,
+            "text": "विद्यार्थीगण"
+          }
+        ]
+      },
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को 12वीं कक्षा उत्तीर्ण होना चाहिए"
+              },
+              {
+                "text": "थ",
+                "superscript": true
+              },
+              {
+                "text": "सरकारी स्कूल से कम से कम 50 प्रतिशत अंकों के साथ"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को किसी मान्यता प्राप्त स्नातक पाठ्यक्रम के पहले वर्ष में नामांकित होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "nri": false,
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card or Jan Aadhaar Card of the student"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marksheet Copy"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Regular Study"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Aadhaar Card or Jan Aadhaar Card of the student\n- Marksheet Copy\n- Certificate of Regular Study\n- Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र का आधार कार्ड या जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मार्कशीट प्रतिलिपि"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नियमित अध्ययन का प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Aadhaar Card or Jan Aadhaar Card of the student\n- Marksheet Copy\n- Certificate of Regular Study\n- Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only girl students who studied in Kasturba Gandhi schools and later enrolled in government schools."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only girl students who studied in Kasturba Gandhi schools and later enrolled in government schools.\n"
+        },
+        {
+          "question": "What is the benefit under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A ₹2,000 STDR after Class 10 and ₹4,000 STDR after Class 12 for eligible students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A ₹2,000 STDR after Class 10 and ₹4,000 STDR after Class 12 for eligible students.\n"
+        },
+        {
+          "question": "What is an STDR?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "STDR stands for Special Term Deposit Receipt, a fixed deposit given in the student’s name."
+                }
+              ]
+            }
+          ],
+          "answer_md": "STDR stands for Special Term Deposit Receipt, a fixed deposit given in the student’s name.\n"
+        },
+        {
+          "question": "Can students from private schools apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only students from government schools are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students from government schools are eligible.\n"
+        },
+        {
+          "question": "Is there any income limit for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "Do I need to apply online myself?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the institution head will apply online on your behalf."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the institution head will apply online on your behalf.\n"
+        },
+        {
+          "question": "Where is the application submitted finally?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At the Directorate of Secondary Education, Bikaner via District Education Officer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the Directorate of Secondary Education, Bikaner via District Education Officer.\n"
+        },
+        {
+          "question": "When will I receive the STDR?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After application verification and approval by the authorities."
+                }
+              ]
+            }
+          ],
+          "answer_md": "After application verification and approval by the authorities.\n"
+        },
+        {
+          "question": "Is there any relaxation in marks for SC/ST students?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "Can I use the STDR amount for college fees?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The STDR matures after 3 or 5 years and can be used as needed then."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The STDR matures after 3 or 5 years and can be used as needed then.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल वे लड़कियाँ जो कस्तूरबा गांधी स्कूलों में पढ़ती थीं और बाद में सरकारी स्कूलों में दाखिला लेती थीं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only girl students who studied in Kasturba Gandhi schools and later enrolled in government schools.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पात्र छात्रों के लिए कक्षा 10 के बाद ₹2,000 और कक्षा 12 के बाद ₹4,000 एसटीडीआर।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A ₹2,000 STDR after Class 10 and ₹4,000 STDR after Class 12 for eligible students.\n"
+        },
+        {
+          "question": "एसटीडीआर क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एस. टी. डी. आर. का अर्थ है विशेष अवधि जमा रसीद, जो छात्र के नाम पर दी जाने वाली एक सावधि जमा है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "STDR stands for Special Term Deposit Receipt, a fixed deposit given in the student’s name.\n"
+        },
+        {
+          "question": "क्या निजी स्कूलों के छात्र आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल सरकारी स्कूलों के छात्र ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only students from government schools are eligible.\n"
+        },
+        {
+          "question": "क्या इस योजना के लिए कोई आय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "क्या मुझे स्वयं ऑनलाइन आवेदन करने की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, संस्थान प्रमुख आपकी ओर से ऑनलाइन आवेदन करेगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the institution head will apply online on your behalf.\n"
+        },
+        {
+          "question": "अंत में आवेदन कहाँ जमा किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला शिक्षा अधिकारी के माध्यम से माध्यमिक शिक्षा निदेशालय, बीकानेर में।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the Directorate of Secondary Education, Bikaner via District Education Officer.\n"
+        },
+        {
+          "question": "मुझे एसटीडीआर कब मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन सत्यापन और अधिकारियों द्वारा अनुमोदन के बाद।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "After application verification and approval by the authorities.\n"
+        },
+        {
+          "question": "क्या एससी/एसटी छात्रों के लिए अंकों में कोई छूट है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "क्या मैं एसटीडीआर राशि का उपयोग कॉलेज शुल्क के लिए कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एस. टी. डी. आर. 3 या 5 साल के बाद परिपक्व हो जाता है और फिर आवश्यकता के अनुसार इसका उपयोग किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The STDR matures after 3 or 5 years and can be used as needed then.\n"
+        }
+      ]
+    }
+  }
+}

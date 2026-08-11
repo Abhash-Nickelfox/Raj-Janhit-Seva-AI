@@ -1,0 +1,2504 @@
+{
+  "scheme_id": "6480348a380f8e12353d3419",
+  "slug": "yip",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000007,
+        "label": "Economics and Statistics Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Internship",
+          "label": "Internship"
+        },
+        {
+          "value": "Apprenticeships and training",
+          "label": "Apprenticeships and training"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "District Headquarters Of The Respective Departments",
+      "tags": [
+        "Internship",
+        "Education",
+        "Student",
+        "Government"
+      ],
+      "schemeName": "Young Interns Program",
+      "schemeShortTitle": "YIP",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/May/30409/166f00fc0bd-7b0c-432e-94be-8e32e529ca94.pdf"
+        },
+        {
+          "title": "General Instructions (English) For Application",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/May/30409/1662691f57b-6277-4c04-83f2-e5233a4904b5.pdf"
+        },
+        {
+          "title": "General Instructions (Hindi) For Application",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/May/30409/166d732c7ef-28a1-451b-9365-4011cc071042.pdf"
+        },
+        {
+          "title": "Advertisements By Districts",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/DepartmentMaster/166/2023/May/30409/166920497ac-f7b8-4b74-b97e-cc4a4d36a3db.pdf"
+        },
+        {
+          "title": "Helpline",
+          "url": "https://statistics.rajasthan.gov.in/jankalyan-category-and-entry-type/166/3/14"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Young Interns Program (YIP) is an internship program, envisaged by the Government of Rajasthan, for providing opportunities for talented and progressive youth to upgrade their skills by gaining practical experience working in programs, schemes and projects of the government departments. The program is mutually beneficial to the government as well as the interns:\n\n   1. **The Government** is benefitted by infusing novelty and innovation in the project implementation and service delivery system through the youthful and courageous ideas &amp;amp; techniques of the young interns.   1. **The Interns** are benefitted by attaining knowledge of project implementation and the ecosystem of the government functionalities. \n&lt;br&gt;\n\n&amp;gt; **Objectives**\n\n\n   1. To empower the young brains to attain awareness and knowledge about various government programs and services and about various interventions between government, service providers, recipients and peripheral agencies such as media, civil society etc. \n   1. To strengthen their research and evaluation skills in the field of public administration and development services.\n   1. To generate interest amongst the youth towards the entire service delivery ecosystem of the public services.\n   1. To get independent critical analysis of government programs and for seeking suggestions for corrective measures. \n   1. To augment innovations from the young minds to enhance the outreach and impact of government schemes &amp;amp;amp; programs.\n\n&lt;br&gt;\n\n&gt; **Deployment**\n\nFor FY 2023-24, the following arrangements for the deployment of 300 young interns may be executed:\n\n   1. Interns to be deployed at each Divisional HQ: 3 each (7x3=21)\n   1. Interns to be deployed at each District HQ: 2 each (26x2=52)\n   1. Interns to be deployed at the Department level for specific to the schemes/projects/programs: 227 (300-21-52=227)\n\n&lt;br&gt;\n\n&gt; **Duration**\n\n\n   1. The internship is of **one-year duration.**\n**NOTE 1:** After the end of the first year, if the mentor/nodal officer feels and recommends the extension in the internship duration on the basis of the performance of the intern, the duration of the internship may be increased by one more year with six months at a time. \n**NOTE 2:** In no circumstances, the duration of the internship shall be more than two years.\n",
+      "benefits_md": "> **Stipend**\n\n₹ 30,000/- per month.\n<br>\n\n> **Laptop Connectivity and Mobility Support**\n\n₹ 2500/- shall be paid to each intern per month.\n<br>\n\n> **Leaves**\n\nEvery intern will be eligible for one casual leave every month on an accrual basis. Such leaves shall be provided in a cumulative manner i.e. 12 leaves for the entire year (from January to December). \n",
+      "exclusions_md": "> **Termination of Internship**\n\n\n   1. The YIP has been envisaged as an internship program only and does not provide any assurance or guarantee for a permanent job. \n   1. The government may terminate the internship at any point in time without any obligation to cite any reason for termination.\n   1. If an intern is found guilty of any misconduct or misbehaviour or his/her performance is found unsatisfactory, his/her internship can be terminated at any point in time without extending any explanation or without any obligation of serving an advance notice.\n   1. In case, an intern leaves the internship in the middle of the internship, on account of any reason such as getting any kind of employment etc., he/she has to submit his/her resignation along with a detailed report of work done by him/her (till the resignation date) within one month of his/her resignation letter to the concerned mentor/nodal officer.\n   1. In case of abandonment of the internship by the intern, the stipend shall be immediately stopped and the payment of the last month&amp;#39;s stipend shall be released only after his/her submission of the internship report. \n   1. After the expiry of the given month for the submission of the report, if the intern still fails to submit the internship report, the process of recovery of the last quarter shall be initiated. \n   1. This is a full-time internship program therefore during the internship; interns will not be allowed to opt for any additional job/work that will entail getting a regular remuneration.\n   1. If at a later stage, it is found that a particular intern was earning some kind of remuneration then his/her internship will be terminated with immediate effect.\n\n",
+      "briefDescription": "The Young Interns Program (YIP) is an internship program, envisaged by the Government of Rajasthan, for providing opportunities for talented and progressive youth to upgrade their skills by gaining practical experience working in programs, schemes and projects of the government departments.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Young Interns Program (YIP) is an internship program, envisaged by the Government of Rajasthan, for providing opportunities for talented and progressive youth to upgrade their skills by gaining practical experience working in programs, schemes and projects of the government departments. The program is mutually beneficial to the government as well as the interns:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Government",
+                      "bold": true
+                    },
+                    {
+                      "text": " is benefitted by infusing novelty and innovation in the project implementation and service delivery system through the youthful and courageous ideas & techniques of the young interns."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Interns",
+                      "bold": true
+                    },
+                    {
+                      "text": " are benefitted by attaining knowledge of project implementation and the ecosystem of the government functionalities. "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "block_quote",
+                  "children": [
+                    {
+                      "text": "Objectives",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "To empower the young brains to attain awareness and knowledge about various government programs and services and about various interventions between government, service providers, recipients and peripheral agencies such as media, civil society etc. "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "To strengthen their research and evaluation skills in the field of public administration and development services."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "To generate interest amongst the youth towards the entire service delivery ecosystem of the public services."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "To get independent critical analysis of government programs and for seeking suggestions for corrective measures. "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "To augment innovations from the young minds to enhance the outreach and impact of government schemes & programs."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Deployment",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For FY 2023-24, the following arrangements for the deployment of 300 young interns may be executed:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Interns to be deployed at each Divisional HQ: 3 each (7x3=21)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Interns to be deployed at each District HQ: 2 each (26x2=52)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Interns to be deployed at the Department level for specific to the schemes/projects/programs: 227 (300-21-52=227)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Duration",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The internship is of "
+                    },
+                    {
+                      "text": "one-year duration.",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "NOTE 1: ",
+                  "bold": true
+                },
+                {
+                  "text": "After the end of the first year, if the mentor/nodal officer feels and recommends the extension in the internship duration on the basis of the performance of the intern, the duration of the internship may be increased by one more year with six months at a time. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "NOTE 2: ",
+                  "bold": true
+                },
+                {
+                  "text": "In no circumstances, the duration of the internship shall be more than two years."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Stipend",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "₹ 30,000/- per month."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Laptop Connectivity and Mobility Support",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "₹ 2500/- shall be paid to each intern per month."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Leaves",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Every intern will be eligible for one casual leave every month on an accrual basis. Such leaves shall be provided in a cumulative manner i.e. 12 leaves for the entire year (from January to December). "
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Termination of Internship",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The YIP has been envisaged as an internship program only and does not provide any assurance or guarantee for a permanent job. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The government may terminate the internship at any point in time without any obligation to cite any reason for termination."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If an intern is found guilty of any misconduct or misbehaviour or his/her performance is found unsatisfactory, his/her internship can be terminated at any point in time without extending any explanation or without any obligation of serving an advance notice."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In case, an intern leaves the internship in the middle of the internship, on account of any reason such as getting any kind of employment etc., he/she has to submit his/her resignation along with a detailed report of work done by him/her (till the resignation date) within one month of his/her resignation letter to the concerned mentor/nodal officer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In case of abandonment of the internship by the intern, the stipend shall be immediately stopped and the payment of the last month's stipend shall be released only after his/her submission of the internship report. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "After the expiry of the given month for the submission of the report, if the intern still fails to submit the internship report, the process of recovery of the last quarter shall be initiated. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "This is a full-time internship program therefore during the internship; interns will not be allowed to opt for any additional job/work that will entail getting a regular remuneration."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If at a later stage, it is found that a particular intern was earning some kind of remuneration then his/her internship will be terminated with immediate effect."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sso.rajasthan.gov.in/signin",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applications will be invited from eligible candidates through the online application platform in the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "Rajasthan Single Sign-On (SSO) Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ". [SSO Portal > SSO Login > Citizen Apps (G2C) > Young Interns Program]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Scrutiny and Interview",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The departments shall constitute a selection committee of not less than three members including the chairperson."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The mentor shall be the chairperson of the committee."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "All the applications shall be downloaded and scrutinized by the respective departments. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicants found eligible shall be invited for Group Discussion and Personal Interviews (G.D. & P.I.) by the selection committee of the department."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The interviews will be conducted by a board of three members not below the rank of Joint Secretary/Joint Director."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Selection and Allotment",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The selection process for 227 young interns (on the basis of Intent Write-Up, G.D. & P.I.) shall be completed at the level of respective departments."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The selection of the interns shall be on the basis of the following criteria"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "      a)  Intent Write-Up: 50 marks"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "      b)  Group Discussion (G.D.): 50 marks"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "      c)  Personal Interview (P.I.): 100 marks"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "  3. A composite merit list of 1.25 times the actual requirement shall be declared."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE:",
+                "bold": true
+              },
+              {
+                "text": " 25% of the actual requirement shall be kept as a waiting list that can be activated if an intern leaves the internship within two months of the commencement of the internship."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application**\n\n\n1. Applications will be invited from eligible candidates through the online application platform in the [Rajasthan Single Sign-On (SSO) Portal](https://sso.rajasthan.gov.in/signin). [SSO Portal &gt; SSO Login &gt; Citizen Apps (G2C) &gt; Young Interns Program]\n<br>\n\n> **Scrutiny and Interview**\n\n\n1. The departments shall constitute a selection committee of not less than three members including the chairperson.\n1. The mentor shall be the chairperson of the committee.\n1. All the applications shall be downloaded and scrutinized by the respective departments. \n1. The applicants found eligible shall be invited for Group Discussion and Personal Interviews (G.D. &amp; P.I.) by the selection committee of the department.\n1. The interviews will be conducted by a board of three members not below the rank of Joint Secretary/Joint Director.\n\n<br>\n\n> **Selection and Allotment**\n\n\n1. The selection process for 227 young interns (on the basis of Intent Write-Up, G.D. &amp; P.I.) shall be completed at the level of respective departments.\n1. The selection of the interns shall be on the basis of the following criteria\n\n      a)  Intent Write-Up: 50 marks\n      b)  Group Discussion (G.D.): 50 marks\n      c)  Personal Interview (P.I.): 100 marks\n  3. A composite merit list of 1.25 times the actual requirement shall be declared.\n<br>\n\n**NOTE:** 25% of the actual requirement shall be kept as a waiting list that can be activated if an intern leaves the internship within two months of the commencement of the internship.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "> **General**\n\n\n1. The age of the applicant should be between 21 years and 30 years.\n1. The applicant should have excellent communication/presentation/intra–personal skills/soft skills.\n1. The applicant should have good Knowledge of English as well as Hindi language (Reading, Speaking, Writing and Understanding)\n1. The applicant should have well-versed ICT skills and knowledge of MS Office and other similar programs on alternative platforms.\n1. It is mandatory for all the interns to have their own Laptop and data card/internet facility.\n\n<br>\n\n> **Education Specific**\n\n\n1. The applicant should have a post-graduate qualification with a minimum of 60% marks or a CGPA of 6 on a scale of 10 in any stream from a recognized university.\n1. The graduate applicant of Engineering/Medical/Law/CA/CS Streams from a recognized University with a minimum 60% mark or a CGPA of 6 on a scale of 10 shall also be eligible for this internship. \n\n<br>\n\n> **Reservation / Preference / Priority**\n\n\n1. The applicant with working experience in the field of his/her choice of department shall be given priority.\n\n<br>\n\n**NOTE 1:** Any other additional educational and/or technical qualifications and experience shall be as per the special requirements submitted by the concerned department/district collector/divisional HQ, if any.\n**NOTE 2:** In case of any dispute, the decision of the Secretary-in-charge of, Statistics Department will be binding and final.\n",
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "General",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the applicant should be between 21 years and 30 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have excellent communication/presentation/intra–personal skills/soft skills."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have good Knowledge of English as well as Hindi language (Reading, Speaking, Writing and Understanding)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have well-versed ICT skills and knowledge of MS Office and other similar programs on alternative platforms."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "It is mandatory for all the interns to have their own Laptop and data card/internet facility."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Education Specific",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have a post-graduate qualification with a minimum of 60% marks or a CGPA of 6 on a scale of 10 in any stream from a recognized university."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The graduate applicant of Engineering/Medical/Law/CA/CS Streams from a recognized University with a minimum 60% mark or a CGPA of 6 on a scale of 10 shall also be eligible for this internship. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Reservation / Preference / Priority",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant with working experience in the field of his/her choice of department shall be given priority."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "NOTE 1: "
+            },
+            {
+              "text": "Any other additional educational and/or technical qualifications and experience shall be as per the special requirements submitted by the concerned department/district collector/divisional HQ, if any."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE 2: ",
+              "bold": true
+            },
+            {
+              "text": "In case of any dispute, the decision of the Secretary-in-charge of, Statistics Department will be binding and final."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000007,
+        "label": "अर्थशास्त्र और सांख्यिकी विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Internship",
+          "label": "इंटर्नशिप"
+        },
+        {
+          "value": "Apprenticeships and training",
+          "label": "प्रशिक्षुता और प्रशिक्षण"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "District Headquarters Of The Respective Departments",
+      "tags": [
+        "इंटर्नशिप",
+        "शिक्षा",
+        "विद्यार्थी",
+        "सरकार"
+      ],
+      "schemeName": "युवा प्रशिक्षु कार्यक्रम",
+      "schemeShortTitle": "YIP",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/May/30409/166f00fc0bd-7b0c-432e-94be-8e32e529ca94.pdf"
+        },
+        {
+          "title": "आवेदन के लिए सामान्य निर्देश (अंग्रेजी)",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/May/30409/1662691f57b-6277-4c04-83f2-e5233a4904b5.pdf"
+        },
+        {
+          "title": "आवेदन के लिए सामान्य निर्देश (हिंदी)",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/May/30409/166d732c7ef-28a1-451b-9365-4011cc071042.pdf"
+        },
+        {
+          "title": "जिलों द्वारा विज्ञापन",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/DepartmentMaster/166/2023/May/30409/166920497ac-f7b8-4b74-b97e-cc4a4d36a3db.pdf"
+        },
+        {
+          "title": "हेल्प लाइन",
+          "url": "https://statistics.rajasthan.gov.in/jankalyan-category-and-entry-type/166/3/14"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "यंग इंटर्न प्रोग्राम (वाई. आई. पी.) राजस्थान सरकार द्वारा परिकल्पित एक इंटर्नशिप कार्यक्रम है, जो प्रतिभाशाली और प्रगतिशील युवाओं को सरकारी विभागों के कार्यक्रमों, योजनाओं और परियोजनाओं में काम करने का व्यावहारिक अनुभव प्राप्त करके अपने कौशल को उन्नत करने के अवसर प्रदान करता है। यह कार्यक्रम सरकार के साथ-साथ प्रशिक्षुओं के लिए भी पारस्परिक रूप से फायदेमंद हैः 1. युवा प्रशिक्षुओं के युवा और साहसी विचारों और तकनीकों के माध्यम से परियोजना कार्यान्वयन और सेवा वितरण प्रणाली में नवीनता और नवाचार को शामिल करने से सरकार लाभान्वित होती है। 1. इंटर्नों को परियोजना कार्यान्वयन और सरकारी कार्यों के पारिस्थितिकी तंत्र के बारे में जानकारी प्राप्त करने से लाभ होता है। * * उद्देश्य * * 1। विभिन्न सरकारी कार्यक्रमों और सेवाओं के बारे में और सरकार, सेवा प्रदाताओं, प्राप्तकर्ताओं और परिधीय एजेंसियों जैसे मीडिया, नागरिक समाज आदि के बीच विभिन्न हस्तक्षेपों के बारे में जागरूकता और ज्ञान प्राप्त करने के लिए युवा मस्तिष्कों को सशक्त बनाना। 1. लोक प्रशासन और विकास सेवाओं के क्षेत्र में उनके अनुसंधान और मूल्यांकन कौशल को मजबूत करना। 1. सार्वजनिक सेवाओं के संपूर्ण सेवा वितरण पारिस्थितिकी तंत्र के प्रति युवाओं में रुचि पैदा करना। 1. सरकारी कार्यक्रमों का स्वतंत्र आलोचनात्मक विश्लेषण प्राप्त करना और सुधारात्मक उपायों के लिए सुझाव प्राप्त करना। 1. सरकारी योजनाओं और कार्यक्रमों की पहुंच और प्रभाव को बढ़ाने के लिए युवा मस्तिष्कों से नवाचारों को बढ़ाना। वित्त वर्ष के लिए 300 युवा प्रशिक्षुओं की तैनाती के लिए निम्नलिखित व्यवस्थाएं की जा सकती हैंः प्रत्येक संभागीय मुख्यालय में प्रशिक्षु तैनात किए जाएंगेः प्रत्येक में 3 (7x3 = 21) 1. प्रत्येक जिला मुख्यालय में प्रशिक्षु तैनात किए जाएंगेः प्रत्येक में 2 (26x2 = 52) 1. योजनाओं/परियोजनाओं/कार्यक्रमों के लिए विशिष्ट रूप से विभाग स्तर पर तैनात किए जाने वाले प्रशिक्षुः 227 (300-21-52 = 227) & lt. इंटर्नशिप एक साल की अवधि की है। * * * * नोट 1: * * पहले वर्ष की समाप्ति के बाद, यदि संरक्षक/नोडल अधिकारी अनुभव करता है और प्रशिक्षु के प्रदर्शन के आधार पर इंटर्नशिप अवधि में विस्तार की सिफारिश करता है, तो इंटर्नशिप की अवधि एक बार में छह महीने के साथ एक और वर्ष बढ़ाई जा सकती है। * * नोट 2: * * किसी भी परिस्थिति में इंटर्नशिप की अवधि दो साल से अधिक नहीं होगी।",
+      "benefits_md": "वेतन ₹30,000/- प्रति माह। लैपटॉप कनेक्टिविटी और मोबिलिटी सपोर्ट ₹2500/- प्रत्येक प्रशिक्षु को प्रति माह दिया जाएगा। प्रत्येक प्रशिक्षु प्रत्येक महीने एक आकस्मिक अवकाश के लिए पात्र होगा। इस तरह की पत्तियां संचयी तरीके से प्रदान की जाएंगी यानी पूरे वर्ष (जनवरी से दिसंबर तक) के लिए 12 पत्तियां।",
+      "exclusions_md": "इंटर्नशिप की समाप्ति * * 1। वाई. आई. पी. की परिकल्पना केवल एक इंटर्नशिप कार्यक्रम के रूप में की गई है और यह स्थायी नौकरी के लिए कोई आश्वासन या गारंटी प्रदान नहीं करता है। 1. सरकार बर्खास्तगी के लिए कोई भी कारण बताए बिना किसी भी समय इंटर्नशिप को समाप्त कर सकती है। 1. यदि कोई प्रशिक्षु किसी भी दुराचार या दुर्व्यवहार का दोषी पाया जाता है या उसका प्रदर्शन असंतोषजनक पाया जाता है, तो उसकी इंटर्नशिप को किसी भी समय बिना किसी स्पष्टीकरण के या अग्रिम सूचना देने के किसी भी दायित्व के बिना समाप्त किया जा सकता है। 1. यदि कोई प्रशिक्षु इंटर्नशिप के बीच में ही किसी भी कारण से इंटर्नशिप छोड़ देता है, जैसे कि किसी भी प्रकार का रोजगार प्राप्त करना आदि, तो उसे संबंधित सलाहकार/नोडल अधिकारी को अपने इस्तीफे के पत्र के एक महीने के भीतर अपने द्वारा किए गए काम की विस्तृत रिपोर्ट (इस्तीफे की तारीख तक) के साथ अपना इस्तीफा प्रस्तुत करना होगा। 1. इंटर्न द्वारा इंटर्नशिप को छोड़ने के मामले में, वजीफा तुरंत बंद कर दिया जाएगा और पिछले महीने के वजीफे का भुगतान उसकी इंटर्नशिप रिपोर्ट जमा करने के बाद ही जारी किया जाएगा। 1. रिपोर्ट जमा करने के लिए दिए गए महीने की समाप्ति के बाद, यदि इंटर्न अभी भी इंटर्नशिप रिपोर्ट जमा करने में विफल रहता है, तो अंतिम तिमाही की वसूली की प्रक्रिया शुरू की जाएगी। 1. यह एक पूर्णकालिक इंटर्नशिप कार्यक्रम है इसलिए इंटर्नशिप के दौरान इंटर्न को किसी भी अतिरिक्त नौकरी/काम का विकल्प चुनने की अनुमति नहीं होगी जिसमें नियमित पारिश्रमिक प्राप्त करना शामिल हो। 1. यदि बाद के चरण में, यह पाया जाता है कि कोई विशेष प्रशिक्षु किसी प्रकार का पारिश्रमिक अर्जित कर रहा था, तो उसकी इंटर्नशिप को तत्काल प्रभाव से समाप्त कर दिया जाएगा।",
+      "briefDescription": "यंग इंटर्न प्रोग्राम (वाई. आई. पी.) राजस्थान सरकार द्वारा परिकल्पित एक इंटर्नशिप कार्यक्रम है, जो प्रतिभाशाली और प्रगतिशील युवाओं को सरकारी विभागों के कार्यक्रमों, योजनाओं और परियोजनाओं में काम करने का व्यावहारिक अनुभव प्राप्त करके अपने कौशल को उन्नत करने के अवसर प्रदान करता है।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यंग इंटर्न प्रोग्राम (वाई. आई. पी.) राजस्थान सरकार द्वारा परिकल्पित एक इंटर्नशिप कार्यक्रम है, जो प्रतिभाशाली और प्रगतिशील युवाओं को सरकारी विभागों के कार्यक्रमों, योजनाओं और परियोजनाओं में काम करने का व्यावहारिक अनुभव प्राप्त करके अपने कौशल को उन्नत करने के अवसर प्रदान करता है। यह कार्यक्रम सरकार के साथ-साथ प्रशिक्षुओं के लिए भी पारस्परिक रूप से फायदेमंद हैः"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सरकार ने",
+                      "bold": true
+                    },
+                    {
+                      "text": "युवा प्रशिक्षुओं के युवा और साहसी विचारों और तकनीकों के माध्यम से परियोजना कार्यान्वयन और सेवा वितरण प्रणाली में नवीनता और नवाचार को शामिल करके लाभान्वित किया जाता है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "द इंटर्नस",
+                      "bold": true
+                    },
+                    {
+                      "text": "परियोजना कार्यान्वयन और सरकारी कार्यों के पारिस्थितिकी तंत्र का ज्ञान प्राप्त करने से लाभान्वित होते हैं।"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "block_quote",
+                  "children": [
+                    {
+                      "text": "उद्देश्य",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "विभिन्न सरकारी कार्यक्रमों और सेवाओं के बारे में और सरकार, सेवा प्रदाताओं, प्राप्तकर्ताओं और परिधीय एजेंसियों जैसे मीडिया, नागरिक समाज आदि के बीच विभिन्न हस्तक्षेपों के बारे में जागरूकता और ज्ञान प्राप्त करने के लिए युवा मस्तिष्कों को सशक्त बनाना।"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "लोक प्रशासन और विकास सेवाओं के क्षेत्र में उनके अनुसंधान और मूल्यांकन कौशल को मजबूत करना।"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "सार्वजनिक सेवाओं के संपूर्ण सेवा वितरण पारिस्थितिकी तंत्र के प्रति युवाओं में रुचि पैदा करना।"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "सरकारी कार्यक्रमों का स्वतंत्र आलोचनात्मक विश्लेषण प्राप्त करना और सुधारात्मक उपायों के लिए सुझाव प्राप्त करना।"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "सरकारी योजनाओं और कार्यक्रमों की पहुंच और प्रभाव को बढ़ाने के लिए युवा मस्तिष्कों से नवाचारों को बढ़ाना।"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "तैनाती",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वित्त वर्ष 2023-24 के लिए, 300 युवा प्रशिक्षुओं की तैनाती के लिए निम्नलिखित व्यवस्थाएं की जा सकती हैंः"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रत्येक संभागीय मुख्यालय में प्रशिक्षु तैनात किए जाएंगेः प्रत्येक में 3 (7x3 = 21)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रत्येक जिला मुख्यालय में प्रशिक्षु तैनात किए जाएंगेः प्रत्येक में 2 (26x2 = 52)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "विशिष्ट योजनाओं/परियोजनाओं/कार्यक्रमों के लिए विभाग स्तर पर तैनात किए जाने वाले प्रशिक्षुः 227 (300-21-52 = 227)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "अवधि",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इंटर्नशिप की है"
+                    },
+                    {
+                      "text": "एक वर्ष की अवधि।",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नोट 1:",
+                  "bold": true
+                },
+                {
+                  "text": "पहले वर्ष की समाप्ति के बाद, यदि संरक्षक/नोडल अधिकारी अनुभव करता है और प्रशिक्षु के प्रदर्शन के आधार पर इंटर्नशिप अवधि में विस्तार की सिफारिश करता है, तो इंटर्नशिप की अवधि एक बार में छह महीने के साथ एक और वर्ष बढ़ाई जा सकती है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नोट 2:",
+                  "bold": true
+                },
+                {
+                  "text": "किसी भी परिस्थिति में इंटर्नशिप की अवधि दो वर्ष से अधिक नहीं होगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "वजीफा",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "₹30,000/- प्रति माह।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "लैपटॉप कनेक्टिविटी और गतिशीलता समर्थन",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "प्रत्येक प्रशिक्षु को प्रति माह ₹2500/- का भुगतान किया जाएगा।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "पत्तियाँ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "प्रत्येक प्रशिक्षु उपार्जित आधार पर हर महीने एक आकस्मिक अवकाश के लिए पात्र होगा। इस तरह की पत्तियां संचयी तरीके से प्रदान की जाएंगी यानी पूरे वर्ष (जनवरी से दिसंबर तक) के लिए 12 पत्तियां।"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "इंटर्नशिप की समाप्ति",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "वाई. आई. पी. की परिकल्पना केवल एक इंटर्नशिप कार्यक्रम के रूप में की गई है और यह स्थायी नौकरी के लिए कोई आश्वासन या गारंटी प्रदान नहीं करता है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "सरकार बर्खास्तगी के लिए कोई भी कारण बताए बिना किसी भी समय इंटर्नशिप को समाप्त कर सकती है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि कोई प्रशिक्षु किसी भी दुराचार या दुर्व्यवहार का दोषी पाया जाता है या उसका प्रदर्शन असंतोषजनक पाया जाता है, तो उसकी इंटर्नशिप को किसी भी समय बिना किसी स्पष्टीकरण के या अग्रिम सूचना देने के किसी भी दायित्व के बिना समाप्त किया जा सकता है।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि कोई प्रशिक्षु इंटर्नशिप के बीच में ही किसी भी कारण से इंटर्नशिप छोड़ देता है, जैसे कि किसी भी प्रकार का रोजगार प्राप्त करना आदि, तो उसे संबंधित सलाहकार/नोडल अधिकारी को अपने इस्तीफे के पत्र के एक महीने के भीतर अपने द्वारा किए गए काम की विस्तृत रिपोर्ट (इस्तीफे की तारीख तक) के साथ अपना इस्तीफा प्रस्तुत करना होगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "इंटर्न द्वारा इंटर्नशिप को छोड़ने के मामले में, वजीफा तुरंत बंद कर दिया जाएगा और पिछले महीने के वजीफे का भुगतान उसकी इंटर्नशिप रिपोर्ट जमा करने के बाद ही जारी किया जाएगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "रिपोर्ट जमा करने के लिए दिए गए महीने की समाप्ति के बाद, यदि इंटर्न अभी भी इंटर्नशिप रिपोर्ट जमा करने में विफल रहता है, तो अंतिम तिमाही की वसूली की प्रक्रिया शुरू की जाएगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यह एक पूर्णकालिक इंटर्नशिप कार्यक्रम है इसलिए इंटर्नशिप के दौरान इंटर्न को किसी भी अतिरिक्त नौकरी/काम का विकल्प चुनने की अनुमति नहीं होगी जिसमें नियमित पारिश्रमिक प्राप्त करना शामिल हो।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "यदि बाद के चरण में, यह पाया जाता है कि कोई विशेष इंटर्न किसी प्रकार का पारिश्रमिक अर्जित कर रहा था, तो उसकी इंटर्नशिप को तत्काल प्रभाव से समाप्त कर दिया जाएगा।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sso.rajasthan.gov.in/signin",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "ऑनलाइन आवेदन मंच के माध्यम से योग्य उम्मीदवारों से आवेदन आमंत्रित किए जाएंगे"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "राजस्थान सिंगल साइन-ऑन (एसएसओ) पोर्टल"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ".. [एसएसओ पोर्टल> एसएसओ लॉगिन> सिटीजन एप्स (जी2सी)> यंग इंटर्न प्रोग्राम]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "जांच और साक्षात्कार",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "विभाग अध्यक्ष सहित कम से कम तीन सदस्यों की एक चयन समिति का गठन करेंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सलाहकार समिति का अध्यक्ष होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सभी आवेदनों को डाउनलोड किया जाएगा और संबंधित विभागों द्वारा उनकी जांच की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पात्र पाए जाने वाले आवेदकों को विभाग की चयन समिति द्वारा समूह चर्चा और व्यक्तिगत साक्षात्कार (जी. डी. और पी. आई.) के लिए आमंत्रित किया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "साक्षात्कार तीन सदस्यों के एक बोर्ड द्वारा आयोजित किया जाएगा जो संयुक्त सचिव/संयुक्त निदेशक के पद से कम नहीं होगा।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "चयन और आवंटन",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "227 युवा प्रशिक्षुओं के लिए चयन प्रक्रिया (इंटेंट राइट-अप, जी. डी. और पी. आई. के आधार पर) संबंधित विभागों के स्तर पर पूरी की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रशिक्षुओं का चयन निम्नलिखित मानदंडों के आधार पर किया जाएगा"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "क) आशय लेखनः 50 अंक"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "ख) समूह चर्चा (जी. डी.): 50 अंक"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "ग) व्यक्तिगत साक्षात्कार (पी. आई.): 100 अंक"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "3. वास्तविक आवश्यकता के 125 गुना की समग्र योग्यता सूची घोषित की जाएगी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोटः",
+                "bold": true
+              },
+              {
+                "text": "वास्तविक आवश्यकता का 25 प्रतिशत प्रतीक्षा सूची के रूप में रखा जाएगा जिसे सक्रिय किया जा सकता है यदि कोई प्रशिक्षु इंटर्नशिप शुरू होने के दो महीने के भीतर इंटर्नशिप छोड़ देता है।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * आवेदन * * 1. योग्य उम्मीदवारों से [राजस्थान सिंगल साइन-ऑन (एसएसओ) पोर्टल] (https://sso.rajasthan.gov.in/signin) में ऑनलाइन आवेदन मंच के माध्यम से आवेदन आमंत्रित किए जाएंगे। [एस. एस. ओ. पोर्टल & जी. टी.; एस. एस. ओ. लॉगिन & जी. टी.; सिटीजन ऐप्स (जी. 2. सी.) & जी. टी.; यंग इंटर्न प्रोग्राम] <बी. आर.>> * * जांच और साक्षात्कार * * 1. विभाग अध्यक्ष सहित कम से कम तीन सदस्यों की एक चयन समिति का गठन करेंगे। 1. सलाहकार समिति का अध्यक्ष होगा। 1. सभी आवेदनों को डाउनलोड किया जाएगा और संबंधित विभागों द्वारा उनकी जांच की जाएगी। 1. योग्य पाए जाने वाले आवेदकों को समूह चर्चा और व्यक्तिगत साक्षात्कार (जी. डी. और पी. आई.) के लिए आमंत्रित किया जाएगा। विभाग की चयन समिति द्वारा। 1. साक्षात्कार तीन सदस्यों के एक बोर्ड द्वारा आयोजित किया जाएगा जो संयुक्त सचिव/संयुक्त निदेशक के पद से कम नहीं होगा। <बीआर>> * * चयन और आवंटन * * 1। 227 युवा प्रशिक्षुओं के लिए चयन प्रक्रिया (आशय लेखन, जी. डी. और पी. आई. के आधार पर) संबंधित विभागों के स्तर पर पूरा किया जाएगा। 1. प्रशिक्षुओं का चयन निम्नलिखित मानदंडों के आधार पर होगा क) आशय लेखनः 50 अंक ख) समूह चर्चा (जी. डी.): 50 अंक ग) व्यक्तिगत साक्षात्कार (पी. आई.)। ): 100 अंक 3। वास्तविक आवश्यकता के 125 गुना की समग्र योग्यता सूची घोषित की जाएगी। नोटः वास्तविक आवश्यकता का 25 प्रतिशत प्रतीक्षा सूची के रूप में रखा जाएगा जिसे सक्रिय किया जा सकता है यदि कोई प्रशिक्षु इंटर्नशिप शुरू होने के दो महीने के भीतर इंटर्नशिप छोड़ देता है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "gte": 21,
+          "lte": 30,
+          "category": "General"
+        },
+        {
+          "gte": 21,
+          "lte": 30,
+          "category": "EWS"
+        },
+        {
+          "gte": 21,
+          "lte": 30,
+          "category": "Female"
+        },
+        {
+          "gte": 21,
+          "lte": 30,
+          "category": "OBC"
+        },
+        {
+          "gte": 21,
+          "lte": 30,
+          "category": "SC"
+        },
+        {
+          "gte": 21,
+          "lte": 30,
+          "category": "ST"
+        },
+        {
+          "gte": 21,
+          "lte": 30,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Post Graduation",
+          "status": "Completed",
+          "stream": "Any",
+          "score_gte": 60,
+          "score_lte": 100,
+          "institute": "Recognized University"
+        },
+        {
+          "qualification": "Graduation",
+          "status": "Completed",
+          "stream": "Engineering/Medical/Law/CA/CS",
+          "score_gte": 60,
+          "score_lte": 100,
+          "institute": "Recognized University"
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "> * * सामान्य * * 1. आवेदक की आयु 21 वर्ष से 30 वर्ष के बीच होनी चाहिए। 1. आवेदक के पास उत्कृष्ट संचार/प्रस्तुति/अंतर-व्यक्तिगत कौशल/सॉफ्ट कौशल होना चाहिए। 1. आवेदक को अंग्रेजी के साथ-साथ हिंदी भाषा (पढ़ना, बोलना, लिखना और समझना) का अच्छा ज्ञान होना चाहिए। आवेदक के पास आई. सी. टी. कौशल और वैकल्पिक प्लेटफार्मों पर एम. एस. ऑफिस और इसी तरह के अन्य कार्यक्रमों का ज्ञान होना चाहिए। 1. सभी प्रशिक्षुओं के लिए अपना लैपटॉप और डेटा कार्ड/इंटरनेट सुविधा होना अनिवार्य है। आवेदक के पास किसी मान्यता प्राप्त विश्वविद्यालय से किसी भी स्ट्रीम में न्यूनतम 60 प्रतिशत अंकों के साथ स्नातकोत्तर योग्यता या 10 के पैमाने पर 6 का सी. जी. पी. ए. होना चाहिए। 1. किसी मान्यता प्राप्त विश्वविद्यालय से न्यूनतम 60 प्रतिशत अंकों के साथ इंजीनियरिंग/मेडिकल/लॉ/सीए/सीएस स्ट्रीम का स्नातक आवेदक या 10 के पैमाने पर 6 का सी. जी. पी. ए. भी इस इंटर्नशिप के लिए पात्र होगा। अपनी पसंद के विभाग के क्षेत्र में काम करने के अनुभव वाले आवेदक को प्राथमिकता दी जाएगी। * * कोई अन्य अतिरिक्त शैक्षिक और/या तकनीकी योग्यता और अनुभव संबंधित विभाग/जिला कलेक्टर/संभागीय मुख्यालय, यदि कोई हो, द्वारा प्रस्तुत विशेष आवश्यकताओं के अनुसार होगा। * * किसी भी विवाद के मामले में, सांख्यिकी विभाग के प्रभारी सचिव का निर्णय बाध्यकारी और अंतिम होगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "जनरल",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 21 वर्ष से 30 वर्ष के बीच होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास उत्कृष्ट संचार/प्रस्तुति/अंतर-व्यक्तिगत कौशल/सॉफ्ट कौशल होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को अंग्रेजी के साथ-साथ हिंदी भाषा (पढ़ना, बोलना, लिखना और समझना) का अच्छा ज्ञान होना चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास आई. सी. टी. कौशल और वैकल्पिक प्लेटफार्मों पर एम. एस. ऑफिस और इसी तरह के अन्य कार्यक्रमों का ज्ञान होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सभी प्रशिक्षुओं के लिए अपना लैपटॉप और डेटा कार्ड/इंटरनेट सुविधा होना अनिवार्य है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "विशिष्ट शिक्षा",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास किसी मान्यता प्राप्त विश्वविद्यालय से किसी भी स्ट्रीम में न्यूनतम 60 प्रतिशत अंकों के साथ स्नातकोत्तर योग्यता या 10 के पैमाने पर 6 का सी. जी. पी. ए. होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "किसी मान्यता प्राप्त विश्वविद्यालय से न्यूनतम 60 प्रतिशत अंकों के साथ इंजीनियरिंग/मेडिकल/लॉ/सीए/सीएस स्ट्रीम का स्नातक आवेदक या 10 के पैमाने पर 6 का सी. जी. पी. ए. भी इस इंटर्नशिप के लिए पात्र होगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "आरक्षण/वरीयता/प्राथमिकता",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अपनी पसंद के विभाग के क्षेत्र में काम करने का अनुभव रखने वाले आवेदक को प्राथमिकता दी जाएगी।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "नोट 1:"
+            },
+            {
+              "text": "कोई अन्य अतिरिक्त शैक्षिक और/या तकनीकी योग्यता और अनुभव संबंधित विभाग/जिला कलेक्टर/संभागीय मुख्यालय, यदि कोई हो, द्वारा प्रस्तुत विशेष आवश्यकताओं के अनुसार होगा।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "नोट 2:",
+              "bold": true
+            },
+            {
+              "text": "किसी भी विवाद के मामले में, सांख्यिकी विभाग के प्रभारी सचिव का निर्णय बाध्यकारी और अंतिम होगा।"
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "gte": 21,
+        "lte": 30,
+        "category": "General"
+      },
+      {
+        "gte": 21,
+        "lte": 30,
+        "category": "EWS"
+      },
+      {
+        "gte": 21,
+        "lte": 30,
+        "category": "Female"
+      },
+      {
+        "gte": 21,
+        "lte": 30,
+        "category": "OBC"
+      },
+      {
+        "gte": 21,
+        "lte": 30,
+        "category": "SC"
+      },
+      {
+        "gte": 21,
+        "lte": 30,
+        "category": "ST"
+      },
+      {
+        "gte": 21,
+        "lte": 30,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Post Graduation",
+        "status": "Completed",
+        "stream": "Any",
+        "score_gte": 60,
+        "score_lte": 100,
+        "institute": "Recognized University"
+      },
+      {
+        "qualification": "Graduation",
+        "status": "Completed",
+        "stream": "Engineering/Medical/Law/CA/CS",
+        "score_gte": 60,
+        "score_lte": 100,
+        "institute": "Recognized University"
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "> * * सामान्य * * 1. आवेदक की आयु 21 वर्ष से 30 वर्ष के बीच होनी चाहिए। 1. आवेदक के पास उत्कृष्ट संचार/प्रस्तुति/अंतर-व्यक्तिगत कौशल/सॉफ्ट कौशल होना चाहिए। 1. आवेदक को अंग्रेजी के साथ-साथ हिंदी भाषा (पढ़ना, बोलना, लिखना और समझना) का अच्छा ज्ञान होना चाहिए। आवेदक के पास आई. सी. टी. कौशल और वैकल्पिक प्लेटफार्मों पर एम. एस. ऑफिस और इसी तरह के अन्य कार्यक्रमों का ज्ञान होना चाहिए। 1. सभी प्रशिक्षुओं के लिए अपना लैपटॉप और डेटा कार्ड/इंटरनेट सुविधा होना अनिवार्य है। आवेदक के पास किसी मान्यता प्राप्त विश्वविद्यालय से किसी भी स्ट्रीम में न्यूनतम 60 प्रतिशत अंकों के साथ स्नातकोत्तर योग्यता या 10 के पैमाने पर 6 का सी. जी. पी. ए. होना चाहिए। 1. किसी मान्यता प्राप्त विश्वविद्यालय से न्यूनतम 60 प्रतिशत अंकों के साथ इंजीनियरिंग/मेडिकल/लॉ/सीए/सीएस स्ट्रीम का स्नातक आवेदक या 10 के पैमाने पर 6 का सी. जी. पी. ए. भी इस इंटर्नशिप के लिए पात्र होगा। अपनी पसंद के विभाग के क्षेत्र में काम करने के अनुभव वाले आवेदक को प्राथमिकता दी जाएगी। * * कोई अन्य अतिरिक्त शैक्षिक और/या तकनीकी योग्यता और अनुभव संबंधित विभाग/जिला कलेक्टर/संभागीय मुख्यालय, यदि कोई हो, द्वारा प्रस्तुत विशेष आवश्यकताओं के अनुसार होगा। * * किसी भी विवाद के मामले में, सांख्यिकी विभाग के प्रभारी सचिव का निर्णय बाध्यकारी और अंतिम होगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "block_quote",
+        "children": [
+          {
+            "text": "जनरल",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की आयु 21 वर्ष से 30 वर्ष के बीच होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास उत्कृष्ट संचार/प्रस्तुति/अंतर-व्यक्तिगत कौशल/सॉफ्ट कौशल होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को अंग्रेजी के साथ-साथ हिंदी भाषा (पढ़ना, बोलना, लिखना और समझना) का अच्छा ज्ञान होना चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास आई. सी. टी. कौशल और वैकल्पिक प्लेटफार्मों पर एम. एस. ऑफिस और इसी तरह के अन्य कार्यक्रमों का ज्ञान होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "सभी प्रशिक्षुओं के लिए अपना लैपटॉप और डेटा कार्ड/इंटरनेट सुविधा होना अनिवार्य है।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "block_quote",
+        "children": [
+          {
+            "text": "विशिष्ट शिक्षा",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास किसी मान्यता प्राप्त विश्वविद्यालय से किसी भी स्ट्रीम में न्यूनतम 60 प्रतिशत अंकों के साथ स्नातकोत्तर योग्यता या 10 के पैमाने पर 6 का सी. जी. पी. ए. होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "किसी मान्यता प्राप्त विश्वविद्यालय से न्यूनतम 60 प्रतिशत अंकों के साथ इंजीनियरिंग/मेडिकल/लॉ/सीए/सीएस स्ट्रीम का स्नातक आवेदक या 10 के पैमाने पर 6 का सी. जी. पी. ए. भी इस इंटर्नशिप के लिए पात्र होगा।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "block_quote",
+        "children": [
+          {
+            "text": "आरक्षण/वरीयता/प्राथमिकता",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अपनी पसंद के विभाग के क्षेत्र में काम करने का अनुभव रखने वाले आवेदक को प्राथमिकता दी जाएगी।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "bold": true,
+            "text": "नोट 1:"
+          },
+          {
+            "text": "कोई अन्य अतिरिक्त शैक्षिक और/या तकनीकी योग्यता और अनुभव संबंधित विभाग/जिला कलेक्टर/संभागीय मुख्यालय, यदि कोई हो, द्वारा प्रस्तुत विशेष आवश्यकताओं के अनुसार होगा।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "नोट 2:",
+            "bold": true
+          },
+          {
+            "text": "किसी भी विवाद के मामले में, सांख्यिकी विभाग के प्रभारी सचिव का निर्णय बाध्यकारी और अंतिम होगा।"
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Photograph"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Letter of Intent (in Hindi or English)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate of the state of Rajasthan"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Age (Birth Certificate or Marksheet of Class 10th)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Educational Qualification (Passing Certificate / Marksheet)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Experience"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Details of Bank Account"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Photograph\n1. Letter of Intent (in Hindi or English)\n1. Domicile Certificate of the state of Rajasthan\n1. Proof of Age (Birth Certificate or Marksheet of Class 10th)\n1. Proof of Educational Qualification (Passing Certificate / Marksheet)\n1. Proof of Experience\n1. Details of Bank Account\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "फोटोग्राफ"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आशय पत्र (हिंदी या अंग्रेजी में)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "राजस्थान राज्य का अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयु का प्रमाण (जन्म प्रमाण पत्र या 10वीं कक्षा की मार्कशीट)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षणिक योग्यता का प्रमाण (पासिंग सर्टिफिकेट/मार्कशीट)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुभव का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Photograph\n1. Letter of Intent (in Hindi or English)\n1. Domicile Certificate of the state of Rajasthan\n1. Proof of Age (Birth Certificate or Marksheet of Class 10th)\n1. Proof of Educational Qualification (Passing Certificate / Marksheet)\n1. Proof of Experience\n1. Details of Bank Account\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What Are The Objectives Of The Young Interns Program (YIP)?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The objective of the Young Interns Program (YIP) is to provide opportunities for talented and progressive youth to upgrade their skills by gaining practical experience working in programs, schemes and projects of the government departments."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the Young Interns Program (YIP) is to provide opportunities for talented and progressive youth to upgrade their skills by gaining practical experience working in programs, schemes and projects of the government departments.\n"
+        },
+        {
+          "question": "How Is This Internship Program Mutually Beneficial To The Government As Well As The Interns?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The program is mutually beneficial to the government as well as the interns as:\n1.  The Government is benefitted by infusing novelty and innovation in the project implementation and service delivery system through the youthful and courageous ideas & techniques of the young interns.\n2.  The Interns are benefitted by attaining knowledge of project implementation and the ecosystem of the government functionalities."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The program is mutually beneficial to the government as well as the interns as:\n1.  The Government is benefitted by infusing novelty and innovation in the project implementation and service delivery system through the youthful and courageous ideas & techniques of the young interns.\n2.  The Interns are benefitted by attaining knowledge of project implementation and the ecosystem of the government functionalities.\n"
+        },
+        {
+          "question": "How Many Interns Are Expected To Be Deployed In FY 2023-24?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "30 Interns are expected to be deployed in FY 2023-24."
+                }
+              ]
+            }
+          ],
+          "answer_md": "30 Interns are expected to be deployed in FY 2023-24.\n"
+        },
+        {
+          "question": "What Shall Be The Duration Of The Internship? Is It Extendable?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The internship is of a one-year duration. After the end of the first year, if the mentor/nodal officer feels and recommends the extension in the internship duration on the basis of the performance of the intern, the duration of the internship may be increased by one more year with six months at a time. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "The internship is of a one-year duration. After the end of the first year, if the mentor/nodal officer feels and recommends the extension in the internship duration on the basis of the performance of the intern, the duration of the internship may be increased by one more year with six months at a time. \n"
+        },
+        {
+          "question": "What Can The Maximum Duration Of The Internship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In no circumstances, the duration of the internship shall be more than two years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "In no circumstances, the duration of the internship shall be more than two years.\n"
+        },
+        {
+          "question": "How Many Interns Are To Be Deployed At The Divisional HQs?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interns to be deployed at each Divisional HQ: 3 each (7x3=21)"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Interns to be deployed at each Divisional HQ: 3 each (7x3=21)\n"
+        },
+        {
+          "question": "Will The Laptop And Connectivity Support Be Provided By The Department?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, It is mandatory for all the interns to have their own Laptop and data card/internet facility. Laptop Connectivity and Mobility Support of ₹ 2500/- shall be paid to each intern per month."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, It is mandatory for all the interns to have their own Laptop and data card/internet facility. Laptop Connectivity and Mobility Support of [?] 2500/- shall be paid to each intern per month.\n"
+        },
+        {
+          "question": "Are Graduate Students Also Eligible To Apply For YIP?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the graduate applicant of Engineering/Medical/Law/CA/CS Streams from a recognized University with a minimum 60% mark or a CGPA of 6 on a scale of 10 shall also be eligible for this internship. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the graduate applicant of Engineering/Medical/Law/CA/CS Streams from a recognized University with a minimum 60% mark or a CGPA of 6 on a scale of 10 shall also be eligible for this internship. \n"
+        },
+        {
+          "question": "What Level Of Computer Proficiency Is Expected From The Intern?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant should have well-versed ICT skills and knowledge of MS Office and other similar programs on alternative platforms."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant should have well-versed ICT skills and knowledge of MS Office and other similar programs on alternative platforms.\n"
+        },
+        {
+          "question": "What Is The Age-Related Criteria For This Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The age of the applicant should be between 21 years and 30 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The age of the applicant should be between 21 years and 30 years.\n"
+        },
+        {
+          "question": "What Is The URL Of The Rajasthan Single Sign-On (SSO) Portal?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The URL of the Rajasthan Single Sign-On (SSO) Portal is: https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The URL of the Rajasthan Single Sign-On (SSO) Portal is: https://sso.rajasthan.gov.in/signin\n"
+        },
+        {
+          "question": "In What Language Should The Letter Of Intent Be Written? Is There A Word Limit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Letter of Intent, of not less than 300 words, should be in Hindi or English."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Letter of Intent, of not less than 300 words, should be in Hindi or English.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "युवा प्रशिक्षु कार्यक्रम (वाई. आई. पी.) के उद्देश्य क्या हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यंग इंटर्न प्रोग्राम (वाई. आई. पी.) का उद्देश्य प्रतिभाशाली और प्रगतिशील युवाओं को सरकारी विभागों के कार्यक्रमों, योजनाओं और परियोजनाओं में काम करने का व्यावहारिक अनुभव प्राप्त करके अपने कौशल को उन्नत करने के अवसर प्रदान करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The objective of the Young Interns Program (YIP) is to provide opportunities for talented and progressive youth to upgrade their skills by gaining practical experience working in programs, schemes and projects of the government departments.\n"
+        },
+        {
+          "question": "यह इंटर्नशिप कार्यक्रम सरकार के साथ-साथ इंटर्न के लिए पारस्परिक रूप से कैसे फायदेमंद है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह कार्यक्रम सरकार के साथ-साथ प्रशिक्षुओं के लिए भी पारस्परिक रूप से फायदेमंद हैः 1. युवा प्रशिक्षुओं के युवा और साहसी विचारों और तकनीकों के माध्यम से परियोजना कार्यान्वयन और सेवा वितरण प्रणाली में नवीनता और नवाचार को शामिल करने से सरकार लाभान्वित होती है। 2. प्रशिक्षुओं को परियोजना कार्यान्वयन और सरकारी कार्यों के पारिस्थितिकी तंत्र का ज्ञान प्राप्त करने से लाभ होता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The program is mutually beneficial to the government as well as the interns as:\n1.  The Government is benefitted by infusing novelty and innovation in the project implementation and service delivery system through the youthful and courageous ideas & techniques of the young interns.\n2.  The Interns are benefitted by attaining knowledge of project implementation and the ecosystem of the government functionalities.\n"
+        },
+        {
+          "question": "वित्त वर्ष 2023-24 में कितने प्रशिक्षुओं को तैनात किए जाने की उम्मीद है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वित्त वर्ष 2023-24 में 30 प्रशिक्षुओं को तैनात किए जाने की उम्मीद है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "30 Interns are expected to be deployed in FY 2023-24.\n"
+        },
+        {
+          "question": "इंटर्नशिप की अवधि क्या होगी? क्या यह विस्तार योग्य है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इंटर्नशिप एक साल की अवधि की होती है। पहले वर्ष की समाप्ति के बाद, यदि संरक्षक/नोडल अधिकारी अनुभव करता है और प्रशिक्षु के प्रदर्शन के आधार पर इंटर्नशिप अवधि में विस्तार की सिफारिश करता है, तो इंटर्नशिप की अवधि एक बार में छह महीने के साथ एक और वर्ष बढ़ाई जा सकती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The internship is of a one-year duration. After the end of the first year, if the mentor/nodal officer feels and recommends the extension in the internship duration on the basis of the performance of the intern, the duration of the internship may be increased by one more year with six months at a time. \n"
+        },
+        {
+          "question": "इंटर्नशिप की अधिकतम अवधि क्या हो सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "किसी भी परिस्थिति में इंटर्नशिप की अवधि दो वर्ष से अधिक नहीं होगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In no circumstances, the duration of the internship shall be more than two years.\n"
+        },
+        {
+          "question": "संभागीय मुख्यालयों में कितने प्रशिक्षु तैनात किए जाने हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रत्येक संभागीय मुख्यालय में प्रशिक्षु तैनात किए जाएंगेः प्रत्येक में 3 (7x3 = 21)"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Interns to be deployed at each Divisional HQ: 3 each (7x3=21)\n"
+        },
+        {
+          "question": "क्या विभाग द्वारा लैपटॉप और कनेक्टिविटी सहायता प्रदान की जाएगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, सभी प्रशिक्षुओं के लिए अपना लैपटॉप और डेटा कार्ड/इंटरनेट सुविधा होना अनिवार्य है। प्रत्येक प्रशिक्षु को प्रति माह ₹2,500/- की लैपटॉप कनेक्टिविटी और गतिशीलता सहायता का भुगतान किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, It is mandatory for all the interns to have their own Laptop and data card/internet facility. Laptop Connectivity and Mobility Support of [?] 2500/- shall be paid to each intern per month.\n"
+        },
+        {
+          "question": "क्या स्नातक छात्र भी वाई. आई. पी. के लिए आवेदन करने के योग्य हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, किसी मान्यता प्राप्त विश्वविद्यालय से इंजीनियरिंग/मेडिकल/लॉ/सीए/सीएस स्ट्रीम का स्नातक आवेदक न्यूनतम 60 प्रतिशत अंकों के साथ या 10 के पैमाने पर 6 का सी. जी. पी. ए. भी इस इंटर्नशिप के लिए पात्र होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the graduate applicant of Engineering/Medical/Law/CA/CS Streams from a recognized University with a minimum 60% mark or a CGPA of 6 on a scale of 10 shall also be eligible for this internship. \n"
+        },
+        {
+          "question": "इंटर्न से किस स्तर की कंप्यूटर प्रवीणता की अपेक्षा की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक के पास आई. सी. टी. कौशल और वैकल्पिक प्लेटफार्मों पर एम. एस. ऑफिस और इसी तरह के अन्य कार्यक्रमों का ज्ञान होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant should have well-versed ICT skills and knowledge of MS Office and other similar programs on alternative platforms.\n"
+        },
+        {
+          "question": "इस योजना के लिए आयु संबंधी मानदंड क्या हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 21 वर्ष से 30 वर्ष के बीच होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The age of the applicant should be between 21 years and 30 years.\n"
+        },
+        {
+          "question": "राजस्थान सिंगल साइन-ऑन (एसएसओ) पोर्टल का यूआरएल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सिंगल साइन-ऑन (एसएसओ) पोर्टल का यूआरएल हैः https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The URL of the Rajasthan Single Sign-On (SSO) Portal is: https://sso.rajasthan.gov.in/signin\n"
+        },
+        {
+          "question": "आशय पत्र किस भाषा में लिखा जाना चाहिए? क्या कोई शब्द सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आशय पत्र, कम से कम 300 शब्दों का, हिंदी या अंग्रेजी में होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Letter of Intent, of not less than 300 words, should be in Hindi or English.\n"
+        }
+      ]
+    }
+  }
+}

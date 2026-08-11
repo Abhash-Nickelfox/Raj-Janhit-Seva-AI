@@ -1,0 +1,2327 @@
+{
+  "scheme_id": "67b5f127d6a94de2eee2bde1",
+  "slug": "adbtvs",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Residential Facility",
+        "Scheduled Caste",
+        "Scheduled Tribe",
+        "Other Backward Class",
+        "Economically Weaker Section",
+        "Most Backward Class",
+        "Student",
+        "Hostel"
+      ],
+      "schemeName": "Ambedkar DBT Voucher Scheme",
+      "schemeShortTitle": "ADBTVS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Rehabilitation",
+          "label": "Rehabilitation"
+        },
+        {
+          "value": "Shelter",
+          "label": "Shelter"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": "2021-07-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202107061604065219.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Ambedkar DBT Voucher Scheme&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, during the financial year 2021–22. It aims to provide financial assistance for accommodation to students from SC, ST, OBC, MBC, and EWS categories who are regularly studying in undergraduate or postgraduate courses at government colleges located at the district level in Rajasthan. Under this scheme, eligible students residing in rented accommodations receive ₹2,000 per month for a maximum of 10 months per academic year.\n",
+      "benefits_md": "**Financial Assistance:** \n\n- ₹2,000/- per month for a maximum of 10 months per academic year.\n\n**Note:** Students will be paid on monthly/monthly basis.\n**Duration of Benefit:** \n\n- Maximum 5 years per student.\n\n**Total Number of Beneficiaries:** \n\n- 5,000 students annually.\n\n",
+      "briefDescription": "The scheme aims to support students from SC, ST, OBC, MBC, and EWS categories by providing financial aid for accommodation. The students receive ₹2,000/- per month for up to 10 months per academic year.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Ambedkar DBT Voucher Scheme\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, during the financial year 2021–22. It aims to provide financial assistance for accommodation to students from SC, ST, OBC, MBC, and EWS categories who are regularly studying in undergraduate or postgraduate courses at government colleges located at the district level in Rajasthan. Under this scheme, eligible students residing in rented accommodations receive ₹2,000 per month for a maximum of 10 months per academic year."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹2,000/- per month for a maximum of 10 months per academic year."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " Students will be paid on monthly/monthly basis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Duration of Benefit:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum 5 years per student."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Total Number of Beneficiaries: ",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "5,000 students annually."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "College-Level Verification:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The government college where the student is enrolled verifies the application and forwards it to the District Social Justice and Empowerment Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Approval Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Deputy Director/Assistant Director (District Magistrate) approves applications based on the category-wise allocation."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n***College-Level Verification:***\nThe government college where the student is enrolled verifies the application and forwards it to the District Social Justice and Empowerment Office.\n***Approval Process:***\nThe Deputy Director/Assistant Director (District Magistrate) approves applications based on the category-wise allocation.\n"
+      },
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “IFMS-RAJSSP\" option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Select \"Continue to RajSSP\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes, and click on the name of \"Yojana\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out all relevant details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “IFMS-RAJSSP&quot; option.\n**Step-4:** Select &quot;Continue to RajSSP&quot;. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes, and click on the name of &quot;Yojana&quot;\n**Step-7:** Fill out all relevant details. \n**Step-8:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Rajasthan.\n1. The applicant should belong to Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), Most Backward Class (MBC) or Economically Weaker Section (EWS) category.\n1. The applicant should be studying in a government college at the district level for the academic course.\n1. The student should be regularly enrolled in an undergraduate or postgraduate course at a government college.\n1. The student should be pursuing an academic course in a government college located at the district level.\n1. The student should not be a resident of the Municipal Corporation, Municipal Council, or Municipality of the district where they are studying.\n1. The student whose parent/guardian owns a house in the city or town where they are studying is not eligible for benefits under this scheme.\n1. The student who is residing in government-run hostel will not be eligible for benefits under the scheme.\n1. The benefit of the scheme will be available to the student for a maximum of five years.\n1. The annual income of the applicant’s family should not exceed:\n\n\n- SC/ST/MBC: ₹2,50,000/-\n- OBC: ₹1,50,000/-\n- EWS: ₹1,00,000/-\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), Most Backward Class (MBC) or Economically Weaker Section (EWS) category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be studying in a government college at the district level for the academic course."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student should be regularly enrolled in an undergraduate or postgraduate course at a government college."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student should be pursuing an academic course in a government college located at the district level."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student should not be a resident of the Municipal Corporation, Municipal Council, or Municipality of the district where they are studying."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student whose parent/guardian owns a house in the city or town where they are studying is not eligible for benefits under this scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student who is residing in government-run hostel will not be eligible for benefits under the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The benefit of the scheme will be available to the student for a maximum of five years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The annual income of the applicant’s family should not exceed:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "SC/ST/MBC: ₹2,50,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "OBC: ₹1,50,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "EWS: ₹1,00,000/-"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "आवासीय सुविधा",
+        "अनुसूचित जाति",
+        "अनुसूचित जनजाति",
+        "अन्य पिछड़ा वर्ग",
+        "आर्थिक रूप से कमजोर वर्ग",
+        "सबसे पिछड़ा वर्ग",
+        "विद्यार्थी",
+        "छात्रावास"
+      ],
+      "schemeName": "अम्बेडकर डी. बी. टी. वाउचर योजना",
+      "schemeShortTitle": "ADBTVS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Rehabilitation",
+          "label": "पुनर्वास"
+        },
+        {
+          "value": "Shelter",
+          "label": "आश्रय"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": "2021-07-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202107061604065219.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "अम्बेडकर डी. बी. टी. वाउचर योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा वित्तीय वर्ष 2021-22 के दौरान शुरू की गई थी। इसका उद्देश्य अनुसूचित जाति, अनुसूचित जनजाति, अन्य पिछड़ा वर्ग, एमबीसी और ईडब्ल्यूएस श्रेणियों के छात्रों को आवास के लिए वित्तीय सहायता प्रदान करना है जो नियमित रूप से राजस्थान में जिला स्तर पर स्थित सरकारी कॉलेजों में स्नातक या स्नातकोत्तर पाठ्यक्रमों में अध्ययन कर रहे हैं। इस योजना के तहत, किराए के आवास में रहने वाले योग्य छात्रों को प्रति शैक्षणिक वर्ष अधिकतम 10 महीने के लिए प्रति माह 2,000 रुपये मिलते हैं।",
+      "benefits_md": "वित्तीय सहायताः * *-₹2,000/- प्रति माह अधिकतम 10 महीने प्रति शैक्षणिक वर्ष के लिए। * * नोटः छात्रों को मासिक/मासिक आधार पर भुगतान किया जाएगा। लाभ की अवधिः * *-प्रति छात्र अधिकतम 5 वर्ष। * * लाभार्थियों की कुल संख्याः * *-सालाना 5,000 छात्र।",
+      "briefDescription": "इस योजना का उद्देश्य एससी, एसटी, ओ. बी. सी., एम. बी. सी. और ई. डब्ल्यू. एस. श्रेणियों के छात्रों को आवास के लिए वित्तीय सहायता प्रदान करना है। छात्रों को प्रति शैक्षणिक वर्ष 10 महीने तक प्रति माह ₹2,000/- प्राप्त होते हैं।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"अम्बेडकर डी. बी. टी. वाउचर योजना\" वित्तीय वर्ष 2021-22 के दौरान राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इसका उद्देश्य अनुसूचित जाति, अनुसूचित जनजाति, अन्य पिछड़ा वर्ग, एमबीसी और ईडब्ल्यूएस श्रेणियों के छात्रों को आवास के लिए वित्तीय सहायता प्रदान करना है जो नियमित रूप से राजस्थान में जिला स्तर पर स्थित सरकारी कॉलेजों में स्नातक या स्नातकोत्तर पाठ्यक्रमों में अध्ययन कर रहे हैं। इस योजना के तहत, किराए के आवास में रहने वाले योग्य छात्रों को प्रति शैक्षणिक वर्ष अधिकतम 10 महीने के लिए प्रति माह 2,000 रुपये मिलते हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रति शैक्षणिक वर्ष अधिकतम 10 महीनों के लिए ₹2,000/- प्रति माह।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "छात्रों को मासिक/मासिक आधार पर भुगतान किया जाएगा।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "लाभ की अवधिः",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रति छात्र अधिकतम 5 वर्ष।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "लाभार्थियों की कुल संख्याः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सालाना 5,000 छात्र।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित प्राधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन प्रस्तुत किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "महाविद्यालय-स्तरीय सत्यापनः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "जिस सरकारी कॉलेज में छात्र नामांकित है, वह आवेदन का सत्यापन करता है और इसे जिला सामाजिक न्याय और अधिकारिता कार्यालय को भेजता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "स्वीकृति प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "उप निदेशक/सहायक निदेशक (जिला मजिस्ट्रेट) श्रेणी-वार आवंटन के आधार पर आवेदनों को मंजूरी देते हैं।"
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए। चरण 2: आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए। चरण 3: आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है। * * चरण 4: * * संबंधित प्राधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। कॉलेज-स्तरीय सत्यापनः सरकारी कॉलेज जहाँ छात्र नामांकित है, आवेदन का सत्यापन करता है और इसे जिला सामाजिक न्याय और अधिकारिता कार्यालय को भेजता है। * * * अनुमोदन प्रक्रियाः * * * उप निदेशक/सहायक निदेशक (जिला मजिस्ट्रेट) श्रेणी-वार आवंटन के आधार पर आवेदनों को मंजूरी देते हैं।"
+      },
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"राजएसएसपी को जारी रखें\" चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पेज पर सभी योजनाओं के नामों की सूची मिलेगी और \"योजना\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण-3: * * 'आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी.' विकल्प पर क्लिक करें। * * चरण-4: * * 'राजएसएसपी' को जारी रखें 'का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, सभी योजनाओं के नामों की एक सूची मिलेगी, और 'योजना' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 16,
+          "lte": 40,
+          "category": "General"
+        },
+        {
+          "gte": 16,
+          "lte": 40,
+          "category": "EWS"
+        },
+        {
+          "gte": 16,
+          "lte": 40,
+          "category": "Female"
+        },
+        {
+          "gte": 16,
+          "lte": 40,
+          "category": "OBC"
+        },
+        {
+          "gte": 16,
+          "lte": 40,
+          "category": "SC"
+        },
+        {
+          "gte": 16,
+          "lte": 40,
+          "category": "ST"
+        },
+        {
+          "gte": 16,
+          "lte": 40,
+          "category": "Widowed"
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Post Graduation",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        },
+        {
+          "qualification": "Professional Degree",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": 0,
+        "lte": 250000
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओ. बी. सी.), सबसे पिछड़ा वर्ग (एम. बी. सी.) या आर्थिक रूप से कमजोर वर्ग (ई. डब्ल्यू. एस.) श्रेणी से संबंधित होना चाहिए। 1. आवेदक को शैक्षणिक पाठ्यक्रम के लिए जिला स्तर पर सरकारी कॉलेज में पढ़ रहा होना चाहिए। 1. छात्र को नियमित रूप से सरकारी कॉलेज में स्नातक या स्नातकोत्तर पाठ्यक्रम में नामांकित किया जाना चाहिए। 1. छात्र को जिला स्तर पर स्थित सरकारी कॉलेज में एक शैक्षणिक पाठ्यक्रम का अध्ययन करना चाहिए। 1. छात्र को उस जिले के नगर निगम, नगर परिषद या नगर पालिका का निवासी नहीं होना चाहिए जहाँ वे पढ़ रहे हैं। 1. जिस छात्र के माता-पिता/अभिभावक के पास उस शहर या कस्बे में घर है जहां वे पढ़ रहे हैं, वह इस योजना के तहत लाभ के लिए पात्र नहीं है। 1. जो छात्र सरकार द्वारा संचालित छात्रावास में रह रहा है, वह योजना के तहत लाभ के लिए पात्र नहीं होगा। 1. इस योजना का लाभ छात्र को अधिकतम पांच वर्षों के लिए उपलब्ध होगा। 1. आवेदक के परिवार की वार्षिक आय से अधिक नहीं होनी चाहिएः-एससी/एसटी/एमबीसीः ₹ 2,50,000-- ओ. बी. सी.: ₹ 1,50,000-- ई. डब्ल्यू. एस.: ₹ 1,00,000--",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओ. बी. सी.), सबसे पिछड़ा वर्ग (एम. बी. सी.) या आर्थिक रूप से कमजोर वर्ग (ई. डब्ल्यू. एस.) श्रेणी से संबंधित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को शैक्षणिक पाठ्यक्रम के लिए जिला स्तर पर सरकारी कॉलेज में पढ़ रहा होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को नियमित रूप से सरकारी कॉलेज में स्नातक या स्नातकोत्तर पाठ्यक्रम में नामांकित किया जाना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को जिला स्तर पर स्थित सरकारी कॉलेज में एक शैक्षणिक पाठ्यक्रम का अध्ययन करना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को उस जिले के नगर निगम, नगर परिषद या नगर पालिका का निवासी नहीं होना चाहिए जहाँ वे पढ़ रहे हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जिस छात्र के माता-पिता/अभिभावक के पास उस शहर या कस्बे में घर है जहां वे पढ़ रहे हैं, वह इस योजना के तहत लाभ के लिए पात्र नहीं है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जो छात्र सरकार द्वारा संचालित छात्रावास में रह रहा है, वह योजना के तहत लाभ के लिए पात्र नहीं होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना का लाभ छात्र को अधिकतम पांच वर्षों के लिए उपलब्ध होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के परिवार की वार्षिक आय निम्नलिखित से अधिक नहीं होनी चाहिएः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एससी/एसटी/एमबीसीः ₹ 2,50,000 -"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ओ. बी. सी.: ₹ 1,50,000 -"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ईडब्ल्यूएसः ₹ 1,00,000 -"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "obc",
+          "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+        },
+        {
+          "value": "pvtg",
+          "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+        },
+        {
+          "value": "sc",
+          "label": "अनुसूचित जाति (एससी)"
+        },
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "isStudent": "Yes"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 16,
+        "lte": 40,
+        "category": "General"
+      },
+      {
+        "gte": 16,
+        "lte": 40,
+        "category": "EWS"
+      },
+      {
+        "gte": 16,
+        "lte": 40,
+        "category": "Female"
+      },
+      {
+        "gte": 16,
+        "lte": 40,
+        "category": "OBC"
+      },
+      {
+        "gte": 16,
+        "lte": 40,
+        "category": "SC"
+      },
+      {
+        "gte": 16,
+        "lte": 40,
+        "category": "ST"
+      },
+      {
+        "gte": 16,
+        "lte": 40,
+        "category": "Widowed"
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Post Graduation",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      },
+      {
+        "qualification": "Professional Degree",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": 0,
+      "lte": 250000
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओ. बी. सी.), सबसे पिछड़ा वर्ग (एम. बी. सी.) या आर्थिक रूप से कमजोर वर्ग (ई. डब्ल्यू. एस.) श्रेणी से संबंधित होना चाहिए। 1. आवेदक को शैक्षणिक पाठ्यक्रम के लिए जिला स्तर पर सरकारी कॉलेज में पढ़ रहा होना चाहिए। 1. छात्र को नियमित रूप से सरकारी कॉलेज में स्नातक या स्नातकोत्तर पाठ्यक्रम में नामांकित किया जाना चाहिए। 1. छात्र को जिला स्तर पर स्थित सरकारी कॉलेज में एक शैक्षणिक पाठ्यक्रम का अध्ययन करना चाहिए। 1. छात्र को उस जिले के नगर निगम, नगर परिषद या नगर पालिका का निवासी नहीं होना चाहिए जहाँ वे पढ़ रहे हैं। 1. जिस छात्र के माता-पिता/अभिभावक के पास उस शहर या कस्बे में घर है जहां वे पढ़ रहे हैं, वह इस योजना के तहत लाभ के लिए पात्र नहीं है। 1. जो छात्र सरकार द्वारा संचालित छात्रावास में रह रहा है, वह योजना के तहत लाभ के लिए पात्र नहीं होगा। 1. इस योजना का लाभ छात्र को अधिकतम पांच वर्षों के लिए उपलब्ध होगा। 1. आवेदक के परिवार की वार्षिक आय से अधिक नहीं होनी चाहिएः-एससी/एसटी/एमबीसीः ₹ 2,50,000-- ओ. बी. सी.: ₹ 1,50,000-- ई. डब्ल्यू. एस.: ₹ 1,00,000--",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओ. बी. सी.), सबसे पिछड़ा वर्ग (एम. बी. सी.) या आर्थिक रूप से कमजोर वर्ग (ई. डब्ल्यू. एस.) श्रेणी से संबंधित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को शैक्षणिक पाठ्यक्रम के लिए जिला स्तर पर सरकारी कॉलेज में पढ़ रहा होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को नियमित रूप से सरकारी कॉलेज में स्नातक या स्नातकोत्तर पाठ्यक्रम में नामांकित किया जाना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को जिला स्तर पर स्थित सरकारी कॉलेज में एक शैक्षणिक पाठ्यक्रम का अध्ययन करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को उस जिले के नगर निगम, नगर परिषद या नगर पालिका का निवासी नहीं होना चाहिए जहाँ वे पढ़ रहे हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "जिस छात्र के माता-पिता/अभिभावक के पास उस शहर या कस्बे में घर है जहां वे पढ़ रहे हैं, वह इस योजना के तहत लाभ के लिए पात्र नहीं है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "जो छात्र सरकार द्वारा संचालित छात्रावास में रह रहा है, वह योजना के तहत लाभ के लिए पात्र नहीं होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "इस योजना का लाभ छात्र को अधिकतम पांच वर्षों के लिए उपलब्ध होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के परिवार की वार्षिक आय निम्नलिखित से अधिक नहीं होनी चाहिएः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एससी/एसटी/एमबीसीः ₹ 2,50,000 -"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "ओ. बी. सी.: ₹ 1,50,000 -"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "ईडब्ल्यूएसः ₹ 1,00,000 -"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "obc",
+        "label": "अन्य पिछड़ा वर्ग (ओ. बी. सी)"
+      },
+      {
+        "value": "pvtg",
+        "label": "विशेष रूप से कमजोर जनजातीय समूह (पीवीटीजी)"
+      },
+      {
+        "value": "sc",
+        "label": "अनुसूचित जाति (एससी)"
+      },
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "isStudent": "Yes"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate (issued by a competent authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate (issued by a competent authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self-Declared Income Certificate (as per category requirements)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aaadhar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card (for identity verification)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details (Bank Name, Account Number, IFSC Code, Branch Name)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Regular Enrollment in a government college"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self-Certified Rental Proof (Rental Agreement/Receipt)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marksheet of the Last Passed Examination"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Domicile Certificate (issued by a competent authority)\n1. Caste Certificate (issued by a competent authority)\n1. Self-Declared Income Certificate (as per category requirements)\n1. Jan Aaadhar Card\n1. Aadhar Card (for identity verification)\n1. Bank Account Details (Bank Name, Account Number, IFSC Code, Branch Name)\n1. Certificate of Regular Enrollment in a government college\n1. Self-Certified Rental Proof (Rental Agreement/Receipt)\n1. Marksheet of the Last Passed Examination\n1. Any other documents as required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र (एक सक्षम प्राधिकारी द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र (एक सक्षम प्राधिकारी द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्व-घोषित आय प्रमाण पत्र (श्रेणी की आवश्यकताओं के अनुसार)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड (पहचान सत्यापन के लिए)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण (बैंक का नाम, खाता संख्या, आईएफएससी कोड, शाखा का नाम)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सरकारी महाविद्यालय में नियमित नामांकन का प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्व-प्रमाणित किराया प्रमाण (किराया समझौता/रसीद)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अंतिम उत्तीर्ण परीक्षा की मार्कशीट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Domicile Certificate (issued by a competent authority)\n1. Caste Certificate (issued by a competent authority)\n1. Self-Declared Income Certificate (as per category requirements)\n1. Jan Aaadhar Card\n1. Aadhar Card (for identity verification)\n1. Bank Account Details (Bank Name, Account Number, IFSC Code, Branch Name)\n1. Certificate of Regular Enrollment in a government college\n1. Self-Certified Rental Proof (Rental Agreement/Receipt)\n1. Marksheet of the Last Passed Examination\n1. Any other documents as required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students from SC, ST, OBC, MBC, and EWS categories who are enrolled in government colleges and live in rented accommodations can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students from SC, ST, OBC, MBC, and EWS categories who are enrolled in government colleges and live in rented accommodations can apply.\n"
+        },
+        {
+          "question": "What is the amount provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eligible students receive ₹2,000 per month for a maximum of 10 months per academic year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible students receive [?]2,000 per month for a maximum of 10 months per academic year.\n"
+        },
+        {
+          "question": "How many students benefit from this scheme annually?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A total of 5,000 students are selected each year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A total of 5,000 students are selected each year.\n"
+        },
+        {
+          "question": "Can I apply if I live in a government hostel?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, students residing in government hostels are not eligible for this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students residing in government hostels are not eligible for this scheme.\n"
+        },
+        {
+          "question": "How can I apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicant can apply online through the e-Mitra or SSO ID portal using their Janaadhar Card."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant can apply online through the e-Mitra or SSO ID portal using their Janaadhar Card.\n"
+        },
+        {
+          "question": "What is the maximum duration for receiving benefits?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A student can receive benefits for a maximum of 5 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A student can receive benefits for a maximum of 5 years.\n"
+        },
+        {
+          "question": "What documents are required for application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicant needs a Domicile Certificate, Caste Certificate, Income Certificate, Janaadhar Card, Bank Account Details, Enrollment Certificate, Rental Proof, and Last Passed Marksheet."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant needs a Domicile Certificate, Caste Certificate, Income Certificate, Janaadhar Card, Bank Account Details, Enrollment Certificate, Rental Proof, and Last Passed Marksheet.\n"
+        },
+        {
+          "question": "How is the amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The stipend is directly transferred to the student’s bank account via DBT every month."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The stipend is directly transferred to the student's bank account via DBT every month.\n"
+        },
+        {
+          "question": "Can I apply if my parents own a house in my college city?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, students whose parents own a house in their study location are not eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students whose parents own a house in their study location are not eligible.\n"
+        },
+        {
+          "question": "When will I receive my first payment?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Once your application is verified and approved, payments start within a few weeks of approval."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Once your application is verified and approved, payments start within a few weeks of approval.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एस. सी., एस. टी., ओ. बी. सी., एम. बी. सी. और ई. डब्ल्यू. एस. श्रेणियों के छात्र जो सरकारी कॉलेजों में नामांकित हैं और किराए के आवास में रहते हैं, वे आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Students from SC, ST, OBC, MBC, and EWS categories who are enrolled in government colleges and live in rented accommodations can apply.\n"
+        },
+        {
+          "question": "इस योजना के तहत कितनी राशि प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योग्य छात्रों को प्रति शैक्षणिक वर्ष अधिकतम 10 महीनों के लिए प्रति माह ₹2,000 प्राप्त होते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Eligible students receive [?]2,000 per month for a maximum of 10 months per academic year.\n"
+        },
+        {
+          "question": "इस योजना से सालाना कितने छात्रों को लाभ होता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रत्येक वर्ष कुल 5,000 छात्रों का चयन किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A total of 5,000 students are selected each year.\n"
+        },
+        {
+          "question": "अगर मैं सरकारी छात्रावास में रहता हूँ तो क्या मैं आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, सरकारी छात्रावासों में रहने वाले छात्र इस योजना के लिए पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students residing in government hostels are not eligible for this scheme.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक अपने जनाधार कार्ड का उपयोग करके ई-मित्रा या एसएसओ आईडी पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant can apply online through the e-Mitra or SSO ID portal using their Janaadhar Card.\n"
+        },
+        {
+          "question": "लाभ प्राप्त करने की अधिकतम अवधि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक छात्र अधिकतम 5 वर्षों तक लाभ प्राप्त कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A student can receive benefits for a maximum of 5 years.\n"
+        },
+        {
+          "question": "आवेदन के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को अधिवास प्रमाण पत्र, जाति प्रमाण पत्र, आय प्रमाण पत्र, जनाधार कार्ड, बैंक खाते का विवरण, नामांकन प्रमाण पत्र, किराये का प्रमाण और अंतिम उत्तीर्ण अंकपत्र की आवश्यकता होती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant needs a Domicile Certificate, Caste Certificate, Income Certificate, Janaadhar Card, Bank Account Details, Enrollment Certificate, Rental Proof, and Last Passed Marksheet.\n"
+        },
+        {
+          "question": "राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वजीफा हर महीने डी. बी. टी. के माध्यम से सीधे छात्र के बैंक खाते में स्थानांतरित किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The stipend is directly transferred to the student's bank account via DBT every month.\n"
+        },
+        {
+          "question": "अगर मेरे माता-पिता के पास मेरे कॉलेज शहर में घर है तो क्या मैं आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, जिन छात्रों के माता-पिता के पास अपने अध्ययन स्थल पर घर है, वे पात्र नहीं हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, students whose parents own a house in their study location are not eligible.\n"
+        },
+        {
+          "question": "मुझे अपना पहला भुगतान कब मिलेगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक बार जब आपका आवेदन सत्यापित और अनुमोदित हो जाता है, तो अनुमोदन के कुछ हफ्तों के भीतर भुगतान शुरू हो जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Once your application is verified and approved, payments start within a few weeks of approval.\n"
+        }
+      ]
+    }
+  }
+}

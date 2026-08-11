@@ -1,0 +1,1214 @@
+{
+  "scheme_id": "67b1e53dd6a94de2eedda95b",
+  "slug": "cmsmfops",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Pension",
+        "Farmers",
+        "Old Age"
+      ],
+      "schemeName": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
+      "schemeShortTitle": "CMSMFOPS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "Pension"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/201908271723067572Farmer%20Pension%20order%20and%20rules.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://ssp.rajasthan.gov.in/LoginContent/MidLogin.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Chief Minister Small and Marginal Farmers Older Pension Scheme&quot; implemented by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers for their social and economic well-being. \n",
+      "benefits_md": "\n- **Pension of ₹1250/- per month.** \n\n<br>\n\n",
+      "briefDescription": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" implemented by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers for their social and economic well-being. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pension of ₹1250/- per month. ",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest E-mitra Center and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the E-mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a permanent resident of Rajasthan.\n1. The applicant must belong to a small and marginal farmer family. \n1. The minimum age requirement is:\n\n\n\n  - 55 years or above for women.\n  - 58 years or above for men.\n\n\n<br>\n\n**NOTE:** Small and marginal farmer as per the definition under the National Food Security Ordinance, 2013, and as per the Rajasthan Government&#39;s Food and Civil Supplies Department circular dated 31.8.2013.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a permanent resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to a small and marginal farmer family. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The minimum age requirement is:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "55 years or above for women."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "58 years or above for men."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "Small and marginal farmer as per the definition under the National Food Security Ordinance, 2013, and as per the Rajasthan Government's Food and Civil Supplies Department circular dated 31.8.2013."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "पेंशन",
+        "किसान",
+        "वृद्धावस्था"
+      ],
+      "schemeName": "मुख्यमंत्री लघु और सीमांत किसान पुरानी पेंशन योजना",
+      "schemeShortTitle": "CMSMFOPS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "पेंशन"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "वित्तीय सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/201908271723067572Farmer%20Pension%20order%20and%20rules.pdf"
+        },
+        {
+          "title": "आधिकारिक वेबसाइट",
+          "url": "https://ssp.rajasthan.gov.in/LoginContent/MidLogin.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा कार्यान्वित मुख्यमंत्री लघु और सीमांत किसान वृद्ध पेंशन योजना का उद्देश्य बुजुर्ग लघु और सीमांत किसानों को उनकी सामाजिक और आर्थिक भलाई के लिए वित्तीय सहायता प्रदान करना है।",
+      "benefits_md": "₹1250/- प्रति माह की पेंशन",
+      "briefDescription": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा \"मुख्यमंत्री लघु और सीमांत किसान पुरानी पेंशन योजना\" का उद्देश्य बुजुर्ग छोटे और सीमांत किसानों को वित्तीय सहायता प्रदान करना है।",
+      "exclusions_md": "<बी. आर>",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा कार्यान्वित \"मुख्यमंत्री लघु और सीमांत किसान वृद्ध पेंशन योजना\" का उद्देश्य बुजुर्ग छोटे और सीमांत किसानों को उनकी सामाजिक और आर्थिक भलाई के लिए वित्तीय सहायता प्रदान करना है।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "1250/- प्रति माह की पेंशन।",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करे और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करे।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित प्राधिकारी से रसीद या स्वीकृति का अनुरोध करें जिसे आवेदन प्रस्तुत किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय, और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए। चरण 2: आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए। चरण 3: आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है। चरण 4: जिस संबंधित प्राधिकारी को आवेदन जमा किया गया है, उससे रसीद या स्वीकृति का अनुरोध करें। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय, और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 55,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 55,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 55,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 55,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 55,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 55,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 55,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक को राजस्थान का स्थायी निवासी होना चाहिए। 1. आवेदक एक छोटे और सीमांत किसान परिवार से होना चाहिए। 1. न्यूनतम आयु की आवश्यकता हैः - महिलाओं के लिए 55 वर्ष या उससे अधिक.-पुरुषों के लिए 58 वर्ष या उससे अधिक। राष्ट्रीय खाद्य सुरक्षा अध्यादेश, 2013 की परिभाषा के अनुसार और राजस्थान सरकार के अनुसार लघु और सीमांत किसान खाद्य और नागरिक आपूर्ति विभाग का परिपत्र दिनांक 31.8.2013",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान का स्थायी निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक एक छोटे और सीमांत किसान परिवार से होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "न्यूनतम आयु की आवश्यकता हैः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "महिलाओं के लिए 55 वर्ष या उससे अधिक।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "पुरुषों के लिए 58 वर्ष या उससे अधिक।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "राष्ट्रीय खाद्य सुरक्षा अध्यादेश, 2013 के तहत परिभाषा के अनुसार और राजस्थान सरकार के खाद्य और नागरिक आपूर्ति विभाग के परिपत्र दिनांक 31.8.2013 के अनुसार छोटे और सीमांत किसान।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "value": "rural",
+          "label": "ग्रामीण"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सब कुछ",
+          "value": "All"
+        }
+      ],
+      "occupation": [
+        {
+          "value": "farmer",
+          "label": "Farmer"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 55,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 55,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 55,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 55,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 55,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 55,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 55,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक को राजस्थान का स्थायी निवासी होना चाहिए। 1. आवेदक एक छोटे और सीमांत किसान परिवार से होना चाहिए। 1. न्यूनतम आयु की आवश्यकता हैः - महिलाओं के लिए 55 वर्ष या उससे अधिक.-पुरुषों के लिए 58 वर्ष या उससे अधिक। राष्ट्रीय खाद्य सुरक्षा अध्यादेश, 2013 की परिभाषा के अनुसार और राजस्थान सरकार के अनुसार लघु और सीमांत किसान खाद्य और नागरिक आपूर्ति विभाग का परिपत्र दिनांक 31.8.2013",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान का स्थायी निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक एक छोटे और सीमांत किसान परिवार से होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "न्यूनतम आयु की आवश्यकता हैः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "महिलाओं के लिए 55 वर्ष या उससे अधिक।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "पुरुषों के लिए 58 वर्ष या उससे अधिक।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "ध्यान देंः",
+            "bold": true
+          },
+          {
+            "text": "राष्ट्रीय खाद्य सुरक्षा अध्यादेश, 2013 के तहत परिभाषा के अनुसार और राजस्थान सरकार के खाद्य और नागरिक आपूर्ति विभाग के परिपत्र दिनांक 31.8.2013 के अनुसार छोटे और सीमांत किसान।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "value": "rural",
+        "label": "ग्रामीण"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सब कुछ",
+        "value": "All"
+      }
+    ],
+    "occupation": [
+      {
+        "value": "farmer",
+        "label": "Farmer"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Birth Certificate.\n- Income Certificate.\n- Domicile Certificate.\n\n<br>\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाण पत्र।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Birth Certificate.\n- Income Certificate.\n- Domicile Certificate.\n\n<br>\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Small and marginal farmers who are permanent residents of Rajasthan and meet the age criteria. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Small and marginal farmers who are permanent residents of Rajasthan and meet the age criteria. \n"
+        },
+        {
+          "question": "What is the pension amount provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme provides a monthly pension of ₹1,250."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides a monthly pension of ₹1,250.\n<br>\n\n"
+        },
+        {
+          "question": "Is there any application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the application process is free of charge."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application process is free of charge.\n"
+        },
+        {
+          "question": "Will I receive a pension if I move outside Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only permanent residents residing in Rajasthan are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only permanent residents residing in Rajasthan are eligible.\n"
+        },
+        {
+          "question": "Is there income limit for the scheme? ",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the income limit not available for the scheme. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the income limit not available for the scheme. \n"
+        },
+        {
+          "question": "What documents are required for application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Birth Certificate, Income Certificate, Domicile Certificate etc. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Birth Certificate, Income Certificate, Domicile Certificate etc. \n"
+        },
+        {
+          "question": "Is there a deadline for applying?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no deadline mention in guidelines. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no deadline mention in guidelines. \n"
+        },
+        {
+          "question": "When will I start receiving the pension after applying?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Once the application is verified and approved, pension disbursement starts from the next payment cycle."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Once the application is verified and approved, pension disbursement starts from the next payment cycle.\n"
+        },
+        {
+          "question": "How can I apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applicant can apply by visiting the nearest E-Mitra Center with the required documents."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant can apply by visiting the nearest E-Mitra Center with the required documents.\n"
+        },
+        {
+          "question": "Where can I get more details about the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Visit the official website of the Social Justice and Empowerment Department, Rajasthan or the nearest E-Mitra Center."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Visit the official website of the Social Justice and Empowerment Department, Rajasthan or the nearest E-Mitra Center.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छोटे और सीमांत किसान जो राजस्थान के स्थायी निवासी हैं और आयु मानदंडों को पूरा करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Small and marginal farmers who are permanent residents of Rajasthan and meet the age criteria. \n"
+        },
+        {
+          "question": "इस योजना के तहत कितनी पेंशन राशि प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह योजना 1,250 रुपये की मासिक पेंशन प्रदान करती है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme provides a monthly pension of ₹1,250.\n<br>\n\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन प्रक्रिया निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the application process is free of charge.\n"
+        },
+        {
+          "question": "अगर मैं राजस्थान से बाहर जाता हूं तो क्या मुझे पेंशन मिलेगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान में रहने वाले स्थायी निवासी ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only permanent residents residing in Rajasthan are eligible.\n"
+        },
+        {
+          "question": "क्या योजना के लिए आय की कोई सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, योजना के लिए आय सीमा उपलब्ध नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the income limit not available for the scheme. \n"
+        },
+        {
+          "question": "आवेदन के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र, आय प्रमाण पत्र, अधिवास प्रमाण पत्र आदि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Birth Certificate, Income Certificate, Domicile Certificate etc. \n"
+        },
+        {
+          "question": "क्या आवेदन करने की कोई समय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, दिशानिर्देशों में कोई समय सीमा का उल्लेख नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no deadline mention in guidelines. \n"
+        },
+        {
+          "question": "आवेदन करने के बाद मुझे पेंशन कब से मिलना शुरू होगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक बार जब आवेदन सत्यापित और अनुमोदित हो जाता है, तो पेंशन वितरण अगले भुगतान चक्र से शुरू होता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Once the application is verified and approved, pension disbursement starts from the next payment cycle.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कैसे आवेदन कर सकता हूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक आवश्यक दस्तावेजों के साथ निकटतम ई-मित्र केंद्र पर जाकर आवेदन कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applicant can apply by visiting the nearest E-Mitra Center with the required documents.\n"
+        },
+        {
+          "question": "मुझे योजना के बारे में अधिक जानकारी कहाँ से मिल सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग, राजस्थान की आधिकारिक वेबसाइट या निकटतम ई-मित्र केंद्र पर जाएँ।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Visit the official website of the Social Justice and Empowerment Department, Rajasthan or the nearest E-Mitra Center.\n"
+        }
+      ]
+    }
+  }
+}

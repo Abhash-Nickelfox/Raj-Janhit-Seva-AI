@@ -1,0 +1,1058 @@
+{
+  "scheme_id": "67cd8bcb4f0bd5e698d5c22d",
+  "slug": "mts",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Persons With Disabilities",
+        "Motorized Tricycle",
+        "Locomotor Disability",
+        "Self-employment",
+        "PwD"
+      ],
+      "schemeName": "Motorized Tricycle Yojana",
+      "schemeShortTitle": "MTCY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=139"
+        },
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Schemes/MotorisedTriCycleScheme.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Motorized Tricycle Yojana&amp;quot; is a scheme implemented by the Department of Social Justice and Empowerment, Government of Rajasthan. Under this scheme, motorized tricycles are provided to eligible applicants for purposes such as self-employment and pursuing higher education from Senior Higher Secondary onwards. To be eligible for the scheme, the applicant must be a resident of Rajasthan, a specially-abled person with 50% or more locomotor disability, and possess driving experience along with a valid driving license.\n",
+      "benefits_md": "Under this scheme, beneficiaries will receive a motorized tricycle free of cost to support self-employment and higher education from the Senior Secondary level onwards.\n",
+      "briefDescription": "Under this scheme, motorized tricycles are provided to specially-abled individuals with 50% or more locomotor disability to support self-employment and pursuing higher education from Senior Higher Secondary onwards.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Motorized Tricycle Yojana\" is a scheme implemented by the Department of Social Justice and Empowerment, Government of Rajasthan. Under this scheme, motorized tricycles are provided to eligible applicants for purposes such as self-employment and pursuing higher education from Senior Higher Secondary onwards. To be eligible for the scheme, the applicant must be a resident of Rajasthan, a specially-abled person with 50% or more locomotor disability, and possess driving experience along with a valid driving license."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, beneficiaries will receive a motorized tricycle free of cost to support self-employment and higher education from the Senior Secondary level onwards."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit the office of the District Social Justice & Empowerment Department and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District Social Justice & Empowerment Department."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the District Social Justice & Empowerment Department to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the office of the District Social Justice &amp;amp; Empowerment Department and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Social Justice &amp;amp; Empowerment Department.\n**Step 4:** Request a receipt or acknowledgment from the District Social Justice &amp;amp; Empowerment Department to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a native of Rajasthan.\n1. The applicant should be self-employed or a student pursuing senior higher secondary education. \n1. The applicant must have a 50% or more locomotor disability.\n1. The annual family (parents/guardians including applicant&#39;s income, if any) income should not exceed ₹2,50,000/-.\n1. The applicant&#39;s age must be 18 years or older.\n1. The applicant must have prior experience in operating a vehicle and hold a valid driving license.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be self-employed or a student pursuing senior higher secondary education. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have a 50% or more locomotor disability."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The annual family (parents/guardians including applicant's income, if any) income should not exceed ₹2,50,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's age must be 18 years or older."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have prior experience in operating a vehicle and hold a valid driving license."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "विकलांग व्यक्ति",
+        "मोटर चालित तिपहिया साइकिल",
+        "लोकोमोटर अक्षमता",
+        "स्व-रोजगार",
+        "पीडब्लूडी"
+      ],
+      "schemeName": "मोटर चालित तिपहिया योजना",
+      "schemeShortTitle": "MTCY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "योजना का विवरण",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=139"
+        },
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Schemes/MotorisedTriCycleScheme.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मोटर चालित तिपहिया योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा कार्यान्वित एक योजना है। इस योजना के तहत, योग्य आवेदकों को स्व-रोजगार और वरिष्ठ उच्च माध्यमिक से उच्च शिक्षा प्राप्त करने जैसे उद्देश्यों के लिए मोटर चालित तिपहिया साइकिलें प्रदान की जाती हैं। योजना के लिए पात्र होने के लिए, आवेदक को राजस्थान का निवासी होना चाहिए, 50 प्रतिशत या उससे अधिक लोकोमोटर विकलांगता वाला एक विशेष रूप से सक्षम व्यक्ति होना चाहिए, और वैध ड्राइविंग लाइसेंस के साथ ड्राइविंग का अनुभव होना चाहिए।",
+      "benefits_md": "इस योजना के तहत, लाभार्थियों को वरिष्ठ माध्यमिक स्तर से स्व-रोजगार और उच्च शिक्षा का समर्थन करने के लिए मुफ्त में एक मोटर चालित तिपहिया साइकिल मिलेगी।",
+      "briefDescription": "इस योजना के तहत 50 प्रतिशत या उससे अधिक चलने-फिरने की अक्षमता वाले विशेष रूप से सक्षम व्यक्तियों को मोटर चालित तिपहिया साइकिलें प्रदान की जाती हैं ताकि वे स्व-रोजगार का समर्थन कर सकें और वरिष्ठ उच्च माध्यमिक से उच्च शिक्षा प्राप्त कर सकें।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"मोटर चालित तिपहिया योजना\" राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा कार्यान्वित एक योजना है। इस योजना के तहत, योग्य आवेदकों को स्व-रोजगार और वरिष्ठ उच्च माध्यमिक से उच्च शिक्षा प्राप्त करने जैसे उद्देश्यों के लिए मोटर चालित तिपहिया साइकिलें प्रदान की जाती हैं। योजना के लिए पात्र होने के लिए, आवेदक को राजस्थान का निवासी होना चाहिए, 50 प्रतिशत या उससे अधिक लोकोमोटर विकलांगता वाला एक विशेष रूप से सक्षम व्यक्ति होना चाहिए, और वैध ड्राइविंग लाइसेंस के साथ ड्राइविंग का अनुभव होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, लाभार्थियों को वरिष्ठ माध्यमिक स्तर से स्व-रोजगार और उच्च शिक्षा का समर्थन करने के लिए मुफ्त में एक मोटर चालित तिपहिया साइकिल मिलेगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को जिला सामाजिक न्याय और अधिकारिता विभाग के कार्यालय में जाना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र की एक प्रति का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला सामाजिक न्याय और अधिकारिता विभाग में जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला सामाजिक न्याय और अधिकारिता विभाग से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को जिला सामाजिक न्याय और अधिकारिता विभाग के कार्यालय में जाना चाहिए और भरे हुए आवेदन पत्र जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र की एक प्रति का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे हुए और हस्ताक्षरित आवेदन पत्र को जिला सामाजिक न्याय और अधिकारिता विभाग में जमा करें। * * चरण 4: * * जिला सामाजिक न्याय और अधिकारिता विभाग से रसीद या पावती का अनुरोध करें, जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "pwd"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक स्व-नियोजित या उच्च माध्यमिक शिक्षा प्राप्त करने वाला छात्र होना चाहिए। 1. आवेदक के पास 50 प्रतिशत या उससे अधिक लोकोमोटर विकलांगता होनी चाहिए। 1. वार्षिक परिवार (आवेदक की आय, यदि कोई हो, सहित माता-पिता/अभिभावक) की आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए। 1. आवेदक की आयु 18 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक के पास वाहन चलाने का पूर्व अनुभव होना चाहिए और वैध ड्राइविंग लाइसेंस होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "disabilityPercentage": {
+        "gte": 50,
+        "lte": 100
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक स्व-नियोजित या उच्च माध्यमिक शिक्षा प्राप्त करने वाला छात्र होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास 50 प्रतिशत या उससे अधिक लोकोमोटर विकलांगता होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वार्षिक परिवार (आवेदक की आय सहित माता-पिता/अभिभावक, यदि कोई हो) की आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 18 वर्ष या उससे अधिक होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास वाहन चलाने का पूर्व अनुभव होना चाहिए और वैध ड्राइविंग लाइसेंस होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "disability": true,
+      "disabilityType": [
+        {
+          "value": "locomotor-disability",
+          "label": "Locomotor Disability"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "pwd"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक स्व-नियोजित या उच्च माध्यमिक शिक्षा प्राप्त करने वाला छात्र होना चाहिए। 1. आवेदक के पास 50 प्रतिशत या उससे अधिक लोकोमोटर विकलांगता होनी चाहिए। 1. वार्षिक परिवार (आवेदक की आय, यदि कोई हो, सहित माता-पिता/अभिभावक) की आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए। 1. आवेदक की आयु 18 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक के पास वाहन चलाने का पूर्व अनुभव होना चाहिए और वैध ड्राइविंग लाइसेंस होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "disabilityPercentage": {
+      "gte": 50,
+      "lte": 100
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक स्व-नियोजित या उच्च माध्यमिक शिक्षा प्राप्त करने वाला छात्र होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास 50 प्रतिशत या उससे अधिक लोकोमोटर विकलांगता होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वार्षिक परिवार (आवेदक की आय सहित माता-पिता/अभिभावक, यदि कोई हो) की आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की आयु 18 वर्ष या उससे अधिक होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास वाहन चलाने का पूर्व अनुभव होना चाहिए और वैध ड्राइविंग लाइसेंस होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "disability": true,
+    "disabilityType": [
+      {
+        "value": "locomotor-disability",
+        "label": "Locomotor Disability"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity Proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of age"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disability Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Driving License"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity Proof\n1. Proof of age\n1. Domicile Certificate\n1. Disability Certificate\n1. Driving License\n1. Income Certificate\n1. Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उम्र का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निशक्तता प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ड्राइविंग लाइसेंस"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Identity Proof\n1. Proof of age\n1. Domicile Certificate\n1. Disability Certificate\n1. Driving License\n1. Income Certificate\n1. Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for the Motorized Tricycle Scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Specially-abled individuals with 50% or more locomotor disability residing in Rajasthan can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Specially-abled individuals with 50% or more locomotor disability residing in Rajasthan can apply.\n"
+        },
+        {
+          "question": "Is the tricycle provided free of cost?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, eligible applicants receive the motorized tricycle free of cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, eligible applicants receive the motorized tricycle free of cost.\n"
+        },
+        {
+          "question": "Can I apply online for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, If an online application facility is available, details will be provided by the concerned department.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, If an online application facility is available, details will be provided by the concerned department.\n\n\n"
+        },
+        {
+          "question": "What is the age requirement for applying?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant must be 18 years or older."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant must be 18 years or older.\n"
+        },
+        {
+          "question": "Is a driving license necessary for availing the benefit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant must hold a valid driving license."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must hold a valid driving license.\n"
+        },
+        {
+          "question": "Where can I apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nApplications can be submitted at the District Social Justice & Empowerment Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "\nApplications can be submitted at the District Social Justice & Empowerment Department.\n"
+        },
+        {
+          "question": "What documents are required to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Documents include a disability certificate, residence proof and driving license, etc. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Documents include a disability certificate, residence proof and driving license, etc. \n"
+        },
+        {
+          "question": "What is the maximum income limit for eligibility?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The annual family income should not exceed ₹2,50,000."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The annual family income should not exceed [?]2,50,000.\n"
+        },
+        {
+          "question": "Can applicant from other states apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only applicants from Rajasthan are eligible to apply for the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only applicants from Rajasthan are eligible to apply for the scheme.\n"
+        },
+        {
+          "question": "Can a student apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, students pursuing Senior Higher Secondary education or above can apply"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students pursuing Senior Higher Secondary education or above can apply\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "मोटर चालित तिपहिया योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में रहने वाले 50 प्रतिशत या उससे अधिक चलने-फिरने में अक्षम विशेष रूप से सक्षम व्यक्ति आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Specially-abled individuals with 50% or more locomotor disability residing in Rajasthan can apply.\n"
+        },
+        {
+          "question": "क्या तिपहिया साइकिल मुफ्त प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, योग्य आवेदकों को मोटर चालित तिपहिया साइकिल मुफ्त में मिलती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, eligible applicants receive the motorized tricycle free of cost.\n"
+        },
+        {
+          "question": "क्या मैं इस योजना के लिए ऑनलाइन आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यदि ऑनलाइन आवेदन की सुविधा उपलब्ध है, तो संबंधित विभाग द्वारा विवरण प्रदान किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, If an online application facility is available, details will be provided by the concerned department.\n\n\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आयु की आवश्यकता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 18 वर्ष या उससे अधिक होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant must be 18 years or older.\n"
+        },
+        {
+          "question": "क्या इस लाभ का लाभ उठाने के लिए ड्राइविंग लाइसेंस की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक के पास वैध ड्राइविंग लाइसेंस होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must hold a valid driving license.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कहाँ आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन जिला सामाजिक न्याय और अधिकारिता विभाग में जमा किए जा सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "\nApplications can be submitted at the District Social Justice & Empowerment Department.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "दस्तावेजों में विकलांगता प्रमाण पत्र, निवास प्रमाण और ड्राइविंग लाइसेंस आदि शामिल हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Documents include a disability certificate, residence proof and driving license, etc. \n"
+        },
+        {
+          "question": "पात्रता के लिए अधिकतम आय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वार्षिक पारिवारिक आय ₹ 2,50,000 से अधिक नहीं होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The annual family income should not exceed [?]2,50,000.\n"
+        },
+        {
+          "question": "क्या अन्य राज्यों के आवेदक इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल राजस्थान के आवेदक ही इस योजना के लिए आवेदन करने के पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only applicants from Rajasthan are eligible to apply for the scheme.\n"
+        },
+        {
+          "question": "क्या कोई छात्र इस योजना के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, उच्च माध्यमिक शिक्षा या उससे ऊपर की पढ़ाई करने वाले छात्र आवेदन कर सकते हैं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, students pursuing Senior Higher Secondary education or above can apply\n"
+        }
+      ]
+    }
+  }
+}

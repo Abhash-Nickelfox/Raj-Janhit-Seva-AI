@@ -1,0 +1,1071 @@
+{
+  "scheme_id": "64216226eb5671c0e45ac74c",
+  "slug": "njcfts",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Coaching",
+          "label": "Coaching"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "Tribal Scheme",
+        "NEET",
+        "JEE",
+        "Coaching",
+        "Student Scheme"
+      ],
+      "schemeName": "NEET/JEE Coaching For Tribal Students",
+      "schemeShortTitle": "NJCFTS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Government Website",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/539"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "NEET/JEE Coaching for tribal students scheme launched in Rajasthan by Tribal Area Development in the year 2001.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The NEET/JEE Coaching for Tribal Students Scheme is a government initiative launched by the Rajasthan Tribal Area Development Department to provide free coaching to tribal students in the state who are preparing for the National Eligibility cum Entrance Test (NEET) and Joint Entrance Examination (JEE). The aim of the scheme is to help talented tribal students in Rajasthan to get admission to prestigious medical and engineering colleges in India by providing them with high-quality coaching."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the scheme, the Rajasthan government has partnered with reputed coaching institutes to provide free coaching to eligible tribal students. The coaching includes intensive classroom sessions, doubt clearing sessions, study materials, and mock tests. The coaching institutes also provide guidance and mentorship to students to help them develop a better understanding of the subjects and excel in the exams."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To be eligible for the scheme, the student must belong to a tribal community, have passed the 12th class examination, and have a valid NEET/JEE score. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The NEET/JEE Coaching for Tribal Students Scheme is an important initiative to help talented students from tribal communities in Rajasthan to realize their dreams of pursuing a career in medicine and engineering."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reimbursement of institute fees up to Rs. 55,000."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provision of Rs. 1,000 per month for food and accommodation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Full coverage of stationary expenses, amounting to Rs. 5,000 one-time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "The NEET/JEE Coaching for Tribal Students Scheme is a government initiative launched by the Rajasthan Tribal Area Development Department to provide free coaching to tribal students in the state who are preparing for the National Eligibility cum Entrance Test (NEET) and Joint Entrance Examination (JEE). The aim of the scheme is to help talented tribal students in Rajasthan to get admission to prestigious medical and engineering colleges in India by providing them with high-quality coaching.\n<br>\n\nUnder the scheme, the Rajasthan government has partnered with reputed coaching institutes to provide free coaching to eligible tribal students. The coaching includes intensive classroom sessions, doubt clearing sessions, study materials, and mock tests. The coaching institutes also provide guidance and mentorship to students to help them develop a better understanding of the subjects and excel in the exams.\n<br>\n\nTo be eligible for the scheme, the student must belong to a tribal community, have passed the 12th class examination, and have a valid NEET/JEE score. \n<br>\n\nThe NEET/JEE Coaching for Tribal Students Scheme is an important initiative to help talented students from tribal communities in Rajasthan to realize their dreams of pursuing a career in medicine and engineering.\n<br>\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://tad.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant can apply online for the NEET/JEE Coaching for Tribal Students through website "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://tad.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "tad.rajasthan.gov.in."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Application form is free for NEET/JEE Coaching for Tribal Students."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Belong to a tribal community.\n1. Have successfully completed 12th grade in the science stream with a first-class standing.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Belong to a tribal community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Have successfully completed 12th grade in the science stream with a first-class standing."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Coaching",
+          "label": "कोचिंग"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "जनजातीय योजना",
+        "एन. ई. टी",
+        "जे. ई. ई",
+        "कोचिंग",
+        "छात्र योजना"
+      ],
+      "schemeName": "जनजातीय छात्रों के लिए एन. ई. ई. टी./जे. ई. ई. कोचिंग",
+      "schemeShortTitle": "NJCFTS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "सरकारी वेबसाइट",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/539"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "वर्ष 2001 में जनजातीय क्षेत्र विकास द्वारा राजस्थान में जनजातीय छात्रों के लिए एन. ई. ई. टी./जे. ई. ई. कोचिंग योजना शुरू की गई।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राष्ट्रीय पात्रता प्रवेश परीक्षा (एन. ई. ई. टी.) और संयुक्त प्रवेश परीक्षा (जे. ई. ई.) की तैयारी कर रहे राज्य के जनजातीय छात्रों को मुफ्त कोचिंग प्रदान करने के लिए राजस्थान जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई एन. ई. ई. टी./जे. ई. ई. कोचिंग फॉर ट्राइबल स्टूडेंट स्कीम एक सरकारी पहल है। इस योजना का उद्देश्य राजस्थान में प्रतिभाशाली आदिवासी छात्रों को उच्च गुणवत्ता वाली कोचिंग प्रदान करके भारत के प्रतिष्ठित मेडिकल और इंजीनियरिंग कॉलेजों में प्रवेश पाने में मदद करना है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस योजना के तहत, राजस्थान सरकार ने योग्य आदिवासी छात्रों को मुफ्त कोचिंग प्रदान करने के लिए प्रतिष्ठित कोचिंग संस्थानों के साथ भागीदारी की है। कोचिंग में गहन कक्षा सत्र, संदेह निवारण सत्र, अध्ययन सामग्री और नकली परीक्षण शामिल हैं। कोचिंग संस्थान छात्रों को विषयों की बेहतर समझ विकसित करने और परीक्षाओं में उत्कृष्टता प्राप्त करने में मदद करने के लिए मार्गदर्शन और मार्गदर्शन भी प्रदान करते हैं।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "योजना के लिए पात्र होने के लिए, छात्र को एक आदिवासी समुदाय से संबंधित होना चाहिए, 12 वीं कक्षा की परीक्षा उत्तीर्ण की होनी चाहिए, और एक वैध एन. ई. ई. टी./जे. ई. ई. स्कोर होना चाहिए।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "एन. ई. ई. टी./जे. ई. ई. आदिवासी छात्रों के लिए कोचिंग योजना राजस्थान में आदिवासी समुदायों के प्रतिभाशाली छात्रों को चिकित्सा और इंजीनियरिंग में अपना करियर बनाने के अपने सपनों को साकार करने में मदद करने के लिए एक महत्वपूर्ण पहल है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रुपये तक के संस्थान शुल्क की प्रतिपूर्ति। 55, 000।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "रुपये का प्रावधान। भोजन और आवास के लिए 1,000 रुपये प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्थिर खर्चों का पूरा कवरेज, जिसकी राशि रु। 5, 000 एक बार।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "राष्ट्रीय पात्रता प्रवेश परीक्षा (एन. ई. ई. टी.) और संयुक्त प्रवेश परीक्षा (जे. ई. ई.) की तैयारी कर रहे राज्य के जनजातीय छात्रों को मुफ्त कोचिंग प्रदान करने के लिए राजस्थान जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई एन. ई. ई. टी./जे. ई. ई. कोचिंग फॉर ट्राइबल स्टूडेंट स्कीम एक सरकारी पहल है। इस योजना का उद्देश्य राजस्थान में प्रतिभाशाली आदिवासी छात्रों को उच्च गुणवत्ता वाली कोचिंग प्रदान करके भारत के प्रतिष्ठित मेडिकल और इंजीनियरिंग कॉलेजों में प्रवेश पाने में मदद करना है। इस योजना के तहत, राजस्थान सरकार ने योग्य आदिवासी छात्रों को मुफ्त कोचिंग प्रदान करने के लिए प्रतिष्ठित कोचिंग संस्थानों के साथ भागीदारी की है। कोचिंग में गहन कक्षा सत्र, संदेह निवारण सत्र, अध्ययन सामग्री और नकली परीक्षण शामिल हैं। कोचिंग संस्थान छात्रों को विषयों की बेहतर समझ विकसित करने और परीक्षाओं में उत्कृष्टता प्राप्त करने में मदद करने के लिए मार्गदर्शन और मार्गदर्शन भी प्रदान करते हैं। इस योजना के लिए पात्र होने के लिए, छात्र को एक आदिवासी समुदाय से संबंधित होना चाहिए, 12 वीं कक्षा की परीक्षा उत्तीर्ण की होनी चाहिए, और एक वैध एन. ई. ई. टी./जे. ई. ई. स्कोर होना चाहिए। एन. ई. ई. टी./जे. ई. ई. कोचिंग फॉर ट्राइबल स्टूडेंट स्कीम राजस्थान में आदिवासी समुदायों के प्रतिभाशाली छात्रों को चिकित्सा और इंजीनियरिंग में अपना करियर बनाने के अपने सपनों को साकार करने में मदद करने के लिए एक महत्वपूर्ण पहल है"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://tad.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक वेबसाइट के माध्यम से जनजातीय छात्रों के लिए एन. ई. ई. टी./जे. ई. ई. कोचिंग के लिए ऑनलाइन आवेदन कर सकते हैं"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://tad.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "tad.rajasthan.gov.in."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जनजातीय छात्रों के लिए एन. ई. ई. टी./जे. ई. ई. कोचिंग के लिए आवेदन पत्र निःशुल्क है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "category": "st",
+          "gte": 16,
+          "lte": 100
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Post Matric (11-12)",
+          "status": "Completed",
+          "stream": "Science",
+          "score_gte": 60,
+          "score_lte": 100
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आदिवासी समुदाय से ताल्लुक रखते हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विज्ञान स्ट्रीम में प्रथम श्रेणी की स्थिति के साथ 12 वीं कक्षा सफलतापूर्वक पूरी की है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "eligibilityDescription_md": "1. आदिवासी समुदाय से ताल्लुक रखते हैं। 1. प्रथम श्रेणी की स्थिति के साथ विज्ञान स्ट्रीम में 12 वीं कक्षा सफलतापूर्वक पूरी की है"
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "category": "st",
+        "gte": 16,
+        "lte": 100
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Post Matric (11-12)",
+        "status": "Completed",
+        "stream": "Science",
+        "score_gte": 60,
+        "score_lte": 100
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आदिवासी समुदाय से ताल्लुक रखते हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "विज्ञान स्ट्रीम में प्रथम श्रेणी की स्थिति के साथ 12 वीं कक्षा सफलतापूर्वक पूरी की है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "eligibilityDescription_md": "1. आदिवासी समुदाय से ताल्लुक रखते हैं। 1. प्रथम श्रेणी की स्थिति के साथ विज्ञान स्ट्रीम में 12 वीं कक्षा सफलतापूर्वक पूरी की है"
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate Copy* : 12th marksheet"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy* : Aadhar no."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate Copy* : TSP Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy* : ID"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate Copy* : Self Attested"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport Size Photo* : Passport size"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "* denotes mandatory document for applying."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि *: 12वीं की मार्कशीट"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि *: आधार संख्या।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र प्रतिलिपि *: टी. एस. पी. प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि *: आईडी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र प्रतिलिपि *: स्वप्रमाणित"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट साइज फोटो *: पासपोर्ट साइज"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "* आवेदन करने के लिए अनिवार्य दस्तावेज़ को दर्शाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": ""
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The NEET/JEE Coaching for Tribal Students Scheme is a government initiative launched by the Rajasthan Tribal Area Development Department to provide free coaching to tribal students in the state who are preparing for the National Eligibility cum Entrance Test (NEET) and Joint Entrance Examination (JEE)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The NEET/JEE Coaching for Tribal Students Scheme is a government initiative launched by the Rajasthan Tribal Area Development Department to provide free coaching to tribal students in the state who are preparing for the National Eligibility cum Entrance Test (NEET) and Joint Entrance Examination (JEE).\n"
+        },
+        {
+          "question": "What is the aim of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The aim of the scheme is to help talented tribal students in Rajasthan to get admission to prestigious medical and engineering colleges in India by providing them with high-quality coaching."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The aim of the scheme is to help talented tribal students in Rajasthan to get admission to prestigious medical and engineering colleges in India by providing them with high-quality coaching.\n"
+        },
+        {
+          "question": "How can we get Free Coaching?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme, the Rajasthan government has partnered with reputed coaching institutes to provide free coaching to eligible tribal students. The coaching includes intensive classroom sessions, doubt clearing sessions, study materials, and mock tests. The coaching institutes also provide guidance and mentorship to students to help them develop a better understanding of the subjects and excel in the exams."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under the scheme, the Rajasthan government has partnered with reputed coaching institutes to provide free coaching to eligible tribal students. The coaching includes intensive classroom sessions, doubt clearing sessions, study materials, and mock tests. The coaching institutes also provide guidance and mentorship to students to help them develop a better understanding of the subjects and excel in the exams.\n"
+        },
+        {
+          "question": "Who is eligible for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To be eligible for the scheme, the student must belong to a tribal community, have passed the 12th class examination with First class."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To be eligible for the scheme, the student must belong to a tribal community, have passed the 12th class examination with First class.\n"
+        },
+        {
+          "question": "What are the benefits?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Reimbursement of institute fees up to Rs. 55,000.\n2. Provision of Rs. 1,000 per month for food and accommodation.\n3. Full coverage of stationary expenses, amounting to Rs. 5,000 one-time.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Reimbursement of institute fees up to Rs. 55,000.\n2. Provision of Rs. 1,000 per month for food and accommodation.\n3. Full coverage of stationary expenses, amounting to Rs. 5,000 one-time.\n\n"
+        },
+        {
+          "question": "Which documents are required to apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate Copy* : 12th marksheet\nAadhar Card Copy* : Aadhar no.\nDomicile Certificate Copy* : TSP Certificate\nJan Aadhar/Bhamashah Card Copy* : ID\nIncome Certificate Copy* : Self Attested\nPassport Size Photo* : Passport size\n* denotes mandatory document for applying.\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Education Qualification Marksheet / Certificate Copy* : 12th marksheet\nAadhar Card Copy* : Aadhar no.\nDomicile Certificate Copy* : TSP Certificate\nJan Aadhar/Bhamashah Card Copy* : ID\nIncome Certificate Copy* : Self Attested\nPassport Size Photo* : Passport size\n* denotes mandatory document for applying.\n\n"
+        },
+        {
+          "question": "How to apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicant can apply online for the NEET/JEE Coaching for Tribal Students through website tad.rajasthan.gov.in.\n2. Application form is free for NEET/JEE Coaching for Tribal Students."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant can apply online for the NEET/JEE Coaching for Tribal Students through website tad.rajasthan.gov.in.\n2. Application form is free for NEET/JEE Coaching for Tribal Students.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राष्ट्रीय पात्रता प्रवेश परीक्षा (एन. ई. ई. टी.) और संयुक्त प्रवेश परीक्षा (जे. ई. ई.) की तैयारी कर रहे राज्य के जनजातीय छात्रों को मुफ्त कोचिंग प्रदान करने के लिए राजस्थान जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई एन. ई. ई. टी./जे. ई. ई. कोचिंग फॉर ट्राइबल स्टूडेंट स्कीम एक सरकारी पहल है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The NEET/JEE Coaching for Tribal Students Scheme is a government initiative launched by the Rajasthan Tribal Area Development Department to provide free coaching to tribal students in the state who are preparing for the National Eligibility cum Entrance Test (NEET) and Joint Entrance Examination (JEE).\n"
+        },
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना का उद्देश्य राजस्थान में प्रतिभाशाली आदिवासी छात्रों को उच्च गुणवत्ता वाली कोचिंग प्रदान करके भारत के प्रतिष्ठित मेडिकल और इंजीनियरिंग कॉलेजों में प्रवेश पाने में मदद करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The aim of the scheme is to help talented tribal students in Rajasthan to get admission to prestigious medical and engineering colleges in India by providing them with high-quality coaching.\n"
+        },
+        {
+          "question": "हम मुफ्त कोचिंग कैसे प्राप्त कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, राजस्थान सरकार ने योग्य आदिवासी छात्रों को मुफ्त कोचिंग प्रदान करने के लिए प्रतिष्ठित कोचिंग संस्थानों के साथ भागीदारी की है। कोचिंग में गहन कक्षा सत्र, संदेह निवारण सत्र, अध्ययन सामग्री और नकली परीक्षण शामिल हैं। कोचिंग संस्थान छात्रों को विषयों की बेहतर समझ विकसित करने और परीक्षाओं में उत्कृष्टता प्राप्त करने में मदद करने के लिए मार्गदर्शन और मार्गदर्शन भी प्रदान करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under the scheme, the Rajasthan government has partnered with reputed coaching institutes to provide free coaching to eligible tribal students. The coaching includes intensive classroom sessions, doubt clearing sessions, study materials, and mock tests. The coaching institutes also provide guidance and mentorship to students to help them develop a better understanding of the subjects and excel in the exams.\n"
+        },
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना के लिए पात्र होने के लिए, छात्र को एक आदिवासी समुदाय से होना चाहिए, प्रथम श्रेणी के साथ 12 वीं कक्षा की परीक्षा उत्तीर्ण की होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To be eligible for the scheme, the student must belong to a tribal community, have passed the 12th class examination with First class.\n"
+        },
+        {
+          "question": "लाभ क्या हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. रुपये तक के संस्थान शुल्क की प्रतिपूर्ति। 55, 000। 2. रुपये का प्रावधान। भोजन और आवास के लिए 1,000 रुपये प्रति माह। 3. स्थिर खर्चों का पूरा कवरेज, जिसकी राशि रु। 5, 000 एक बार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Reimbursement of institute fees up to Rs. 55,000.\n2. Provision of Rs. 1,000 per month for food and accommodation.\n3. Full coverage of stationary expenses, amounting to Rs. 5,000 one-time.\n\n"
+        },
+        {
+          "question": "इस योजना के लिए आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र प्रतिलिपि *: 12वीं मार्कशीट आधार कार्ड प्रतिलिपि *: आधार संख्या। अधिवास प्रमाणपत्र प्रतिलिपि *: टी. एस. पी. प्रमाणपत्र जन आधार/भामाशाह कार्ड प्रतिलिपि *: आई. डी. आय प्रमाणपत्र प्रतिलिपि *: स्वप्रमाणित पासपोर्ट आकार फोटो *: पासपोर्ट आकार * आवेदन करने के लिए अनिवार्य दस्तावेज को दर्शाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Education Qualification Marksheet / Certificate Copy* : 12th marksheet\nAadhar Card Copy* : Aadhar no.\nDomicile Certificate Copy* : TSP Certificate\nJan Aadhar/Bhamashah Card Copy* : ID\nIncome Certificate Copy* : Self Attested\nPassport Size Photo* : Passport size\n* denotes mandatory document for applying.\n\n"
+        },
+        {
+          "question": "इस योजना के लिए कैसे आवेदन करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक वेबसाइट tad.rajasthan.gov.in के माध्यम से जनजातीय छात्रों के लिए एन. ई. ई. टी./जे. ई. ई. कोचिंग के लिए ऑनलाइन आवेदन कर सकते हैं। 2. जनजातीय छात्रों के लिए एन. ई. ई. टी./जे. ई. ई. कोचिंग के लिए आवेदन पत्र निःशुल्क है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant can apply online for the NEET/JEE Coaching for Tribal Students through website tad.rajasthan.gov.in.\n2. Application form is free for NEET/JEE Coaching for Tribal Students.\n"
+        }
+      ]
+    }
+  }
+}

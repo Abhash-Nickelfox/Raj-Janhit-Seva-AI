@@ -1,0 +1,1022 @@
+{
+  "scheme_id": "648f4dd7481f59106a6a5771",
+  "slug": "gpy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Financial Assistance",
+        "Scholarship",
+        "Girl Education"
+      ],
+      "schemeName": "Gargi Puruskar Yojana",
+      "schemeShortTitle": "GPY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": "1998-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "Education (Elementary and Secondary) Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://education.rajasthan.gov.in/secondary/#/scheme/detail/326"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Through the Gargi Puraskar Yojana, girls are given incentives from the government to move forward in the field of education. Girls of all classes can take advantage of the scheme. The amount of this scheme will be given every year on Basant Panchami.\n&lt;br&gt;\n\nThe girl students who will get the benefit of the scheme in class 10th will be required to enrol in the school in classes 11th and 12th. And the government will give the amount to the beneficiary girl child through a check, so it is mandatory for the girl child to have a bank account. You can apply for the scheme online.\n",
+      "benefits_md": "\n- Payable for 11 &amp; 12 class girl students: Rs. 3,000/- each year on the day of Basant Panchami. \n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The benefit of Gargi Puraskar Yojana is given every year to the beneficiary girl child of Rajasthan on the day of Basant Panchami. This time also the beneficiary girl students were taken on a tour of the girl students on the occasion of Basant Panchami very year.\n\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Through the Gargi Puraskar Yojana, girls are given incentives from the government to move forward in the field of education. Girls of all classes can take advantage of the scheme. The amount of this scheme will be given every year on Basant Panchami."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The girl students who will get the benefit of the scheme in class 10th will be required to enrol in the school in classes 11th and 12th. And the government will give the amount to the beneficiary girl child through a check, so it is mandatory for the girl child to have a bank account. You can apply for the scheme online."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Payable for 11 & 12 class girl students: Rs. 3,000/- each year on the day of Basant Panchami. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://rajshaladarpan.nic.in/SD3/Scholarship/HomePage.aspx",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Scholarship Application online through School Principal on "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.nic.in/SD2/Home/Public2/Default.aspx",
+                    "children": [
+                      {
+                        "text": "Shaladarpan Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on \"Balika Shiksha Protsahan\" or click "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.nic.in/SD2/Home/BSF/Index.aspx",
+                    "children": [
+                      {
+                        "text": "here"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ". "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select the scheme and click on apply button. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now select the scheme name. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out the required details and process further. "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Scholarship Application online through School Principal on [Shaladarpan Portal](https://rajshaladarpan.nic.in/SD2/Home/Public2/Default.aspx).1. Click on &quot;Balika Shiksha Protsahan&quot; or click [here](https://rajshaladarpan.nic.in/SD2/Home/BSF/Index.aspx). 1. Select the scheme and click on apply button. \n1. Now select the scheme name. \n1. Fill out the required details and process further. \n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The student must have secured minimum 75% marks in class 10th.\n1. The girl student should be studying regularly in class 11 or 12.\n1. There is no restriction on income, occupation and caste etc. of the parents of the student.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student must have secured minimum 75% marks in class 10th."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The girl student should be studying regularly in class 11 or 12."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "There is no restriction on income, occupation and caste etc. of the parents of the student."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "वित्तीय सहायता",
+        "छात्रवृत्ति",
+        "बालिका शिक्षा"
+      ],
+      "schemeName": "गार्गी पुरस्कार योजना",
+      "schemeShortTitle": "GPY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": "1998-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "शिक्षा (प्राथमिक और माध्यमिक) विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://education.rajasthan.gov.in/secondary/#/scheme/detail/326"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "गार्गी पुरस्कार योजना के माध्यम से लड़कियों को शिक्षा के क्षेत्र में आगे बढ़ने के लिए सरकार की ओर से प्रोत्साहन दिया जाता है। सभी वर्गों की लड़कियां इस योजना का लाभ उठा सकती हैं। इस योजना की राशि हर साल बसंत पंचमी पर दी जाएगी। जिन बालिकाओं को 10वीं कक्षा में योजना का लाभ मिलेगा, उन्हें 11वीं और 12वीं कक्षा में स्कूल में दाखिला लेना होगा। और सरकार लाभार्थी बालिकाओं को राशि एक चेक के माध्यम से देगी, इसलिए बालिकाओं के लिए बैंक खाता होना अनिवार्य है। आप इस योजना के लिए ऑनलाइन आवेदन कर सकते हैं।",
+      "benefits_md": "- 11 और 12वीं कक्षा की छात्राओं के लिए देय राशिः बसंत पंचमी के दिन प्रत्येक वर्ष 3,000/- रुपये।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "गार्गी पुरस्कार योजना का लाभ हर साल बसंत पंचमी के दिन राजस्थान की लाभार्थी बालिकाओं को दिया जाता है। इस बार भी उसी वर्ष बसंत पंचमी के अवसर पर लाभार्थी बालिकाओं को बालिकाओं के दौरे पर ले जाया गया था।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "गार्गी पुरस्कार योजना के माध्यम से लड़कियों को शिक्षा के क्षेत्र में आगे बढ़ने के लिए सरकार की ओर से प्रोत्साहन दिया जाता है। सभी वर्गों की लड़कियां इस योजना का लाभ उठा सकती हैं। इस योजना की राशि हर साल बसंत पंचमी पर दी जाएगी।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिन लड़कियों को 10वीं कक्षा में इस योजना का लाभ मिलेगा, उन्हें 11वीं और 12वीं कक्षा में स्कूल में दाखिला लेना होगा। और सरकार लाभार्थी बालिकाओं को राशि एक चेक के माध्यम से देगी, इसलिए बालिकाओं के लिए बैंक खाता होना अनिवार्य है। आप इस योजना के लिए ऑनलाइन आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "11वीं और 12वीं कक्षा की छात्राओं के लिए देय राशिः बसंत पंचमी के दिन प्रत्येक वर्ष 3,000/- रुपये।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://rajshaladarpan.nic.in/SD3/Scholarship/HomePage.aspx",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "विद्यालय के प्राचार्य के माध्यम से छात्रवृत्ति आवेदन ऑनलाइन"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.nic.in/SD2/Home/Public2/Default.aspx",
+                    "children": [
+                      {
+                        "text": "शालदर्पण पोर्टल"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "\"बालिका शिक्षा प्रोत्साहन\" पर क्लिक करें या क्लिक करें"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajshaladarpan.nic.in/SD2/Home/BSF/Index.aspx",
+                    "children": [
+                      {
+                        "text": "यहाँ"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "योजना चुनें और लागू करें बटन पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "अब योजना का नाम चुनें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक विवरण भरें और आगे की प्रक्रिया करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. [शालदर्पण पोर्टल] (https://rajshaladarpan.nic.in/SD2/Home/Public2/Default.aspx). 1 पर स्कूल प्रिंसिपल के माध्यम से छात्रवृत्ति आवेदन ऑनलाइन। 'बालिका शिक्षा प्रोत्साहन' पर क्लिक करें या [यहाँ] (https://rajshaladarpan.nic.in/SD2/Home/BSF/Index.aspx) पर क्लिक करें। 1. योजना चुनें और लागू करें बटन पर क्लिक करें। 1. अब योजना का नाम चुनें। 1. आवश्यक विवरण भरें और आगे की प्रक्रिया करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 1,
+          "lte": 100
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Matric (9-10)",
+          "status": "",
+          "score_gte": 75,
+          "score_lte": 100
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. छात्र को 10वीं कक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने चाहिए। 1. छात्रा को कक्षा 11 या 12 में नियमित रूप से पढ़ना चाहिए। 1. छात्र के माता-पिता की आय, व्यवसाय और जाति आदि पर कोई प्रतिबंध नहीं है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को 10वीं कक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रा को कक्षा 11 या 12 में नियमित रूप से पढ़ना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र के माता-पिता की आय, व्यवसाय और जाति आदि पर कोई प्रतिबंध नहीं है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 1,
+        "lte": 100
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Matric (9-10)",
+        "status": "",
+        "score_gte": 75,
+        "score_lte": 100
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. छात्र को 10वीं कक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने चाहिए। 1. छात्रा को कक्षा 11 या 12 में नियमित रूप से पढ़ना चाहिए। 1. छात्र के माता-पिता की आय, व्यवसाय और जाति आदि पर कोई प्रतिबंध नहीं है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को 10वीं कक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्रा को कक्षा 11 या 12 में नियमित रूप से पढ़ना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र के माता-पिता की आय, व्यवसाय और जाति आदि पर कोई प्रतिबंध नहीं है।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Education Qualification Marksheet / Certificate Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar Card Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook Copy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhar/Bhamashah Card Copy."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Education Qualification Marksheet / Certificate Copy.\n1. Aadhar Card Copy.\n1. Bank Passbook Copy.\n1. Jan Aadhar/Bhamashah Card Copy.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक की प्रतिलिपि।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार/भामाशाह कार्ड की प्रतिलिपि।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Education Qualification Marksheet / Certificate Copy.\n1. Aadhar Card Copy.\n1. Bank Passbook Copy.\n1. Jan Aadhar/Bhamashah Card Copy.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the scope of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The benefit of Gargi Puraskar Yojana is given every year to the beneficiary girl child of Rajasthan on the day of Basant Panchami. This time also the beneficiary girl students were taken on a tour of the girl students on the occasion of Basant Panchami on January 29, 2020."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The benefit of Gargi Puraskar Yojana is given every year to the beneficiary girl child of Rajasthan on the day of Basant Panchami. This time also the beneficiary girl students were taken on a tour of the girl students on the occasion of Basant Panchami on January 29, 2020.\n"
+        },
+        {
+          "question": "What are the benefits under the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Payable for 11 & 12 class girl students: Rs. 3,000/- each year on Basant Panchami.\n "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Payable for 11 & 12 class girl students: Rs. 3,000/- each year on Basant Panchami.\n \n"
+        },
+        {
+          "question": "Who can get the benefits of the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All Rajasthan State, students who full fill the eligibility criteria. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "All Rajasthan State, students who full fill the eligibility criteria. \n"
+        },
+        {
+          "question": "Is there caste restriction for students ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, there is no such restriction. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no such restriction. \n"
+        },
+        {
+          "question": "What Is The Education Qualification For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Girl student must have secured a minimum of 75% marks in class 10th and studying regularly in class 11 or 12."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Girl student must have secured a minimum of 75% marks in class 10th and studying regularly in class 11 or 12.\n"
+        },
+        {
+          "question": "Is only gril student get the scheme benefits ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, Girl students will be eligible. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Girl students will be eligible. \n"
+        },
+        {
+          "question": "What is the financial eligibility for applicant ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "There is no restriction on income."
+                }
+              ]
+            }
+          ],
+          "answer_md": "There is no restriction on income.\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Scholarship Application online through School Principal on Shaladarpan Portal.\n2. Click on \"Balika Shiksha Protsahan\" or click here. \n3. Select the scheme and click on apply button. \n4. Now select the scheme name. \n5. Fill out the required details and process further. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Scholarship Application online through School Principal on Shaladarpan Portal.\n2. Click on \"Balika Shiksha Protsahan\" or click here. \n3. Select the scheme and click on apply button. \n4. Now select the scheme name. \n5. Fill out the required details and process further. \n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Education Qualification Marksheet / Certificate Copy.   \n2. Aadhar Card Copy.   \n3. Bank Passbook Copy. \n4. Jan Aadhar/Bhamashah Card Copy."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Education Qualification Marksheet / Certificate Copy.   \n2. Aadhar Card Copy.   \n3. Bank Passbook Copy. \n4. Jan Aadhar/Bhamashah Card Copy.\n"
+        },
+        {
+          "question": "What is the official web portal to apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Use the following URL. \nLink : https://rajshaladarpan.nic.in/SD2/Home/BSF/Index.aspx"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following URL. \nLink : https://rajshaladarpan.nic.in/SD2/Home/BSF/Index.aspx\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का दायरा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "गार्गी पुरस्कार योजना का लाभ हर साल बसंत पंचमी के दिन राजस्थान की लाभार्थी बालिकाओं को दिया जाता है। इस बार भी 29 जनवरी, 2020 को बसंत पंचमी के अवसर पर लाभार्थी छात्राओं को छात्राओं के दौरे पर ले जाया गया था।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The benefit of Gargi Puraskar Yojana is given every year to the beneficiary girl child of Rajasthan on the day of Basant Panchami. This time also the beneficiary girl students were taken on a tour of the girl students on the occasion of Basant Panchami on January 29, 2020.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "11वीं और 12वीं कक्षा की छात्राओं के लिए देय राशिः बसंत पंचमी पर प्रत्येक वर्ष 3,000/- रुपये।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Payable for 11 & 12 class girl students: Rs. 3,000/- each year on Basant Panchami.\n \n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सभी राजस्थान राज्य, जो छात्र पात्रता मानदंडों को पूरा करते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "All Rajasthan State, students who full fill the eligibility criteria. \n"
+        },
+        {
+          "question": "क्या छात्रों के लिए जाति प्रतिबंध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, ऐसी कोई पाबंदी नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, there is no such restriction. \n"
+        },
+        {
+          "question": "इस योजना के लिए शिक्षा योग्यता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्रा को 10वीं कक्षा में न्यूनतम 75 प्रतिशत अंक प्राप्त करने और 11वीं या 12वीं कक्षा में नियमित रूप से पढ़ने का अनुभव होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Girl student must have secured a minimum of 75% marks in class 10th and studying regularly in class 11 or 12.\n"
+        },
+        {
+          "question": "क्या केवल ग्रिल छात्र को ही योजना का लाभ मिलता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, छात्राएँ पात्र होंगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, Girl students will be eligible. \n"
+        },
+        {
+          "question": "आवेदक के लिए वित्तीय पात्रता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आय पर कोई प्रतिबंध नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "There is no restriction on income.\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. शालदर्पण पोर्टल पर स्कूल प्रिंसिपल के माध्यम से ऑनलाइन छात्रवृत्ति आवेदन। 2. \"बालिका शिक्षा प्रोत्साहन\" पर क्लिक करें या यहाँ क्लिक करें। 3. योजना चुनें और लागू करें बटन पर क्लिक करें। 4. अब योजना का नाम चुनें। 5. आवश्यक विवरण भरें और आगे की प्रक्रिया करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Scholarship Application online through School Principal on Shaladarpan Portal.\n2. Click on \"Balika Shiksha Protsahan\" or click here. \n3. Select the scheme and click on apply button. \n4. Now select the scheme name. \n5. Fill out the required details and process further. \n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. शिक्षा योग्यता मार्कशीट/प्रमाणपत्र की प्रतिलिपि। 2. आधार कार्ड की प्रतिलिपि। 3. बैंक पासबुक की प्रतिलिपि। 4. जन आधार/भामाशाह कार्ड की प्रतिलिपि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Education Qualification Marksheet / Certificate Copy.   \n2. Aadhar Card Copy.   \n3. Bank Passbook Copy. \n4. Jan Aadhar/Bhamashah Card Copy.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक वेब पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निम्नलिखित यू. आर. एल. का उपयोग करें। लिंकः https://rajshaladarpan.nic.in/SD2/Home/BSF/Index.aspx"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following URL. \nLink : https://rajshaladarpan.nic.in/SD2/Home/BSF/Index.aspx\n"
+        }
+      ]
+    }
+  }
+}

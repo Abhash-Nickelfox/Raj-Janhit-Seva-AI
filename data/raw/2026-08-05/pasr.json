@@ -1,0 +1,990 @@
+{
+  "scheme_id": "6820ef3121aa532bf675913d",
+  "slug": "pasr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Scheduled Tribe",
+        "Authors",
+        "Publication",
+        "Writer"
+      ],
+      "schemeName": "Prakashan Sahayata Yojana",
+      "schemeShortTitle": "PSYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "Tribal Area Development Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://industries.rajasthan.gov.in/BunkarSangh/#/scheme/detail/540"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Prakashan Sahayata Yojana&amp;quot; was launched by the Department of Tribal Area Development, Government of Rajasthan in year 2000. It aims to promote and support original literary and research work related to tribal communities by offering publication assistance. Under this scheme, financial assistance is provided to scheduled tribe authors for publishing their original literature / manuscripts / research work with reputed publishers. This scheme encourages documenting and disseminating tribal knowledge, culture, and issues by supporting tribal scholars and writers.\n",
+      "benefits_md": "> **Monetary Assistance:**\n\n\n  - Authors of original manuscripts or research work related to tribal subjects receive financial support ranging from ₹6,000/- to ₹12,000/- for publication through reputed publishers.\n\n",
+      "briefDescription": "The scheme aims to support original literary/research work related to tribal communities. Authors are provided financial assistance of ₹6,000 to ₹12,000 for publication.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Prakashan Sahayata Yojana\" was launched by the Department of Tribal Area Development, Government of Rajasthan in year 2000. It aims to promote and support original literary and research work related to tribal communities by offering publication assistance. Under this scheme, financial assistance is provided to scheduled tribe authors for publishing their original literature / manuscripts / research work with reputed publishers. This scheme encourages documenting and disseminating tribal knowledge, culture, and issues by supporting tribal scholars and writers."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Monetary Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Authors of original manuscripts or research work related to tribal subjects receive financial support ranging from ₹6,000/- to ₹12,000/- for publication through reputed publishers."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should write the application on plain paper. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Attach copies of all the mandatory documents (self-attested, if required) along with the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 3: "
+              },
+              {
+                "text": "Submit the duly filled and signed application along with the documents to the Director, Manikya Lal Verma Tribal Research and Training Institute, Udiapur, Rajasthan."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Note:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach the original manuscript and an affidavit declaring the originality of the work."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Obtain a quotation from a publication house for publication assistance."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should write the application on plain paper. \n**Step 2:** Attach copies of all the mandatory documents (self-attested, if required) along with the application.\n**Step 3:** Submit the duly filled and signed application along with the documents to the Director, Manikya Lal Verma Tribal Research and Training Institute, Udiapur, Rajasthan.\n> **Note:**\n\n\n- Attach the original manuscript and an affidavit declaring the originality of the work.\n- Obtain a quotation from a publication house for publication assistance.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be native of Rajasthan.\n1. The applicant should be an author and belong to the Scheduled Tribe community.\n1. The manuscript/research work/literature should be related to Scheduled Tribes and should be an original creation by the author.\n1. The manuscript should be unpublished and original in nature.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be an author and belong to the Scheduled Tribe community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The manuscript/research work/literature should be related to Scheduled Tribes and should be an original creation by the author."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The manuscript should be unpublished and original in nature."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "अनुसूचित जनजाति",
+        "लेखकों",
+        "प्रकाशन",
+        "लेखक"
+      ],
+      "schemeName": "प्रकाशन सहायता योजना",
+      "schemeShortTitle": "PSYR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000043,
+        "label": "जनजातीय क्षेत्र विकास विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://industries.rajasthan.gov.in/BunkarSangh/#/scheme/detail/540"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "यह योजना 'प्रकाशन सहायता योजना' वर्ष 2000 में राजस्थान सरकार के जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई थी। इसका उद्देश्य प्रकाशन सहायता प्रदान करके आदिवासी समुदायों से संबंधित मूल साहित्यिक और शोध कार्यों को बढ़ावा देना और उनका समर्थन करना है। इस योजना के तहत अनुसूचित जनजाति के लेखकों को प्रतिष्ठित प्रकाशकों के साथ अपने मूल साहित्य/पांडुलिपियों/शोध कार्य को प्रकाशित करने के लिए वित्तीय सहायता प्रदान की जाती है। यह योजना आदिवासी विद्वानों और लेखकों का समर्थन करके आदिवासी ज्ञान, संस्कृति और मुद्दों के दस्तावेजीकरण और प्रसार को प्रोत्साहित करती है।",
+      "benefits_md": "मौद्रिक सहायताः आदिवासी विषयों से संबंधित मूल पांडुलिपियों या शोध कार्य के लेखकों को प्रतिष्ठित प्रकाशकों के माध्यम से प्रकाशन के लिए 6,₹000/- से लेकर 12,₹000/- तक की वित्तीय सहायता प्राप्त होती है।",
+      "briefDescription": "इस योजना का उद्देश्य आदिवासी समुदायों से संबंधित मूल साहित्यिक/अनुसंधान कार्यों का समर्थन करना है। लेखकों को प्रकाशन के लिए 6,000 रुपये से 12,000 रुपये की वित्तीय सहायता प्रदान की जाती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"प्रकाशन सहायता योजना\" योजना वर्ष 2000 में राजस्थान सरकार के जनजातीय क्षेत्र विकास विभाग द्वारा शुरू की गई थी। इसका उद्देश्य प्रकाशन सहायता प्रदान करके आदिवासी समुदायों से संबंधित मूल साहित्यिक और शोध कार्यों को बढ़ावा देना और उनका समर्थन करना है। इस योजना के तहत अनुसूचित जनजाति के लेखकों को प्रतिष्ठित प्रकाशकों के साथ अपने मूल साहित्य/पांडुलिपियों/शोध कार्य को प्रकाशित करने के लिए वित्तीय सहायता प्रदान की जाती है। यह योजना आदिवासी विद्वानों और लेखकों का समर्थन करके आदिवासी ज्ञान, संस्कृति और मुद्दों के दस्तावेजीकरण और प्रसार को प्रोत्साहित करती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "आदिवासी विषयों से संबंधित मूल पांडुलिपियों या शोध कार्यों के लेखकों को प्रतिष्ठित प्रकाशकों के माध्यम से प्रकाशन के लिए 6,000 रुपये से लेकर 12,000 रुपये तक की वित्तीय सहायता मिलती है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "इच्छुक आवेदक को सादे कागज पर आवेदन लिखना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन के साथ सभी अनिवार्य दस्तावेजों (यदि आवश्यक हो तो स्व-सत्यापित) की प्रतियां संलग्न करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 3:"
+              },
+              {
+                "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को निदेशक, माणिक्य लाल वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर, राजस्थान को जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "ध्यान देंः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "मूल पांडुलिपि और कृति की मौलिकता की घोषणा करने वाला एक शपथ पत्र संलग्न करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रकाशन सहायता के लिए प्रकाशन गृह से उद्धरण प्राप्त करें।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * * इच्छुक आवेदक को सादे कागज पर आवेदन लिखना चाहिए। * * चरण 2: आवेदन के साथ सभी अनिवार्य दस्तावेजों (यदि आवश्यक हो तो स्व-सत्यापित) की प्रतियां संलग्न करें। * * दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को निदेशक, माणिक्य लाल वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर, राजस्थान को जमा करें। * *-मूल पांडुलिपि और कृति की मौलिकता की घोषणा करने वाला एक शपथ पत्र संलग्न करें।-प्रकाशन सहायता के लिए प्रकाशन गृह से एक उद्धरण प्राप्त करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "st",
+          "gte": 18,
+          "lte": 100
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक एक लेखक होना चाहिए और अनुसूचित जनजाति समुदाय से संबंधित होना चाहिए। 1. पांडुलिपि/शोध कार्य/साहित्य अनुसूचित जनजातियों से संबंधित होना चाहिए और लेखक द्वारा एक मूल रचना होनी चाहिए। 1. पांडुलिपि अप्रकाशित और मौलिक होनी चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक एक लेखक होना चाहिए और अनुसूचित जनजाति समुदाय से संबंधित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पांडुलिपि/शोध कार्य/साहित्य अनुसूचित जनजातियों से संबंधित होना चाहिए और लेखक द्वारा एक मूल रचना होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पांडुलिपि अप्रकाशित और मौलिक होनी चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "value": "rural",
+          "label": "ग्रामीण"
+        }
+      ],
+      "caste": [
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 1,
+        "value": "All",
+        "label": "All"
+      },
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "st",
+        "gte": 18,
+        "lte": 100
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक एक लेखक होना चाहिए और अनुसूचित जनजाति समुदाय से संबंधित होना चाहिए। 1. पांडुलिपि/शोध कार्य/साहित्य अनुसूचित जनजातियों से संबंधित होना चाहिए और लेखक द्वारा एक मूल रचना होनी चाहिए। 1. पांडुलिपि अप्रकाशित और मौलिक होनी चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक एक लेखक होना चाहिए और अनुसूचित जनजाति समुदाय से संबंधित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पांडुलिपि/शोध कार्य/साहित्य अनुसूचित जनजातियों से संबंधित होना चाहिए और लेखक द्वारा एक मूल रचना होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पांडुलिपि अप्रकाशित और मौलिक होनी चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "value": "rural",
+        "label": "ग्रामीण"
+      }
+    ],
+    "caste": [
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 1,
+      "value": "All",
+      "label": "All"
+    },
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Affidavit Declaring the Work is Original (on Stamp Paper)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Quotation from the Publication House for Publishing Charges"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Manuscript Copy for Review (if required by the institute)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Affidavit Declaring the Work is Original (on Stamp Paper)\n1. Quotation from the Publication House for Publishing Charges\n1. Caste Certificate\n1. Manuscript Copy for Review (if required by the institute)\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "कार्य की घोषणा करने वाला शपथ पत्र मूल है (स्टाम्प पेपर पर)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रकाशन शुल्क के लिए प्रकाशन गृह से उद्धरण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "समीक्षा के लिए पांडुलिपि की प्रतिलिपि (यदि संस्थान द्वारा आवश्यक हो)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Affidavit Declaring the Work is Original (on Stamp Paper)\n1. Quotation from the Publication House for Publishing Charges\n1. Caste Certificate\n1. Manuscript Copy for Review (if required by the institute)\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible to apply under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Scheduled Tribe individuals who are the original authors of tribal-related manuscripts."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Scheduled Tribe individuals who are the original authors of tribal-related manuscripts.\n"
+        },
+        {
+          "question": "What is the financial assistance provided under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹6,000 to ₹12,000 depending on the publication requirements."
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹6,000 to ₹12,000 depending on the publication requirements.\n"
+        },
+        {
+          "question": "What kind of works are supported?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Manuscripts, literary pieces, or research works related to tribal subjects."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Manuscripts, literary pieces, or research works related to tribal subjects.\n"
+        },
+        {
+          "question": "Is the support given for unpublished work only?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, only unpublished and original works are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, only unpublished and original works are eligible.\n"
+        },
+        {
+          "question": "Can organizations apply under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only individual authors from Scheduled Tribes are eligible."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only individual authors from Scheduled Tribes are eligible.\n"
+        },
+        {
+          "question": "Is there a deadline for submission?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "There is no fixed deadline; applications are accepted throughout the year."
+                }
+              ]
+            }
+          ],
+          "answer_md": "There is no fixed deadline; applications are accepted throughout the year.\n"
+        },
+        {
+          "question": "Where should the application be submitted?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At the Manikya Lal Verma Tribal Research and Training Institute, Udaipur."
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the Manikya Lal Verma Tribal Research and Training Institute, Udaipur.\n"
+        },
+        {
+          "question": "What if the work is found to be plagiarized?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application will be rejected and assistance will not be granted."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application will be rejected and assistance will not be granted.\n"
+        },
+        {
+          "question": "How often can one apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Once per manuscript."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Once per manuscript.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के तहत आवेदन करने के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अनुसूचित जनजाति के व्यक्ति जो जनजातीय-संबंधित पांडुलिपियों के मूल लेखक हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Scheduled Tribe individuals who are the original authors of tribal-related manuscripts.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रकाशन आवश्यकताओं के आधार पर 6,000 रुपये से 12,000 रुपये तक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "₹6,000 to ₹12,000 depending on the publication requirements.\n"
+        },
+        {
+          "question": "किस तरह के कार्यों का समर्थन किया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जनजातीय विषयों से संबंधित पांडुलिपियाँ, साहित्यिक कृतियाँ या शोध कार्य।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Manuscripts, literary pieces, or research works related to tribal subjects.\n"
+        },
+        {
+          "question": "क्या केवल अप्रकाशित कार्य के लिए समर्थन दिया जाता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, केवल अप्रकाशित और मूल कृतियाँ ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, only unpublished and original works are eligible.\n"
+        },
+        {
+          "question": "क्या संगठन इस योजना के तहत आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, केवल अनुसूचित जनजातियों के व्यक्तिगत लेखक ही पात्र हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only individual authors from Scheduled Tribes are eligible.\n"
+        },
+        {
+          "question": "क्या जमा करने की कोई समय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कोई निश्चित समय सीमा नहीं है; आवेदन पूरे वर्ष स्वीकार किए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "There is no fixed deadline; applications are accepted throughout the year.\n"
+        },
+        {
+          "question": "आवेदन कहाँ जमा किया जाना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "माणिक्य लाल वर्मा जनजातीय अनुसंधान और प्रशिक्षण संस्थान, उदयपुर।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "At the Manikya Lal Verma Tribal Research and Training Institute, Udaipur.\n"
+        },
+        {
+          "question": "अगर काम चोरी का पाया जाता है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन अस्वीकार कर दिया जाएगा और सहायता प्रदान नहीं की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application will be rejected and assistance will not be granted.\n"
+        },
+        {
+          "question": "इस योजना के लिए कितनी बार आवेदन किया जा सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक बार प्रति पांडुलिपि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Once per manuscript.\n"
+        }
+      ]
+    }
+  }
+}

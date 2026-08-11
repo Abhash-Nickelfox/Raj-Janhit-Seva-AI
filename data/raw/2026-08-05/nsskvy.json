@@ -1,0 +1,2736 @@
+{
+  "scheme_id": "65d59a0fcd96dc5e075b55d0",
+  "slug": "nsskvy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Student",
+        "Education",
+        "Financial",
+        "Scholarships"
+      ],
+      "schemeName": "Nirman Shramik Siksha Kaushal Vikas Yojana",
+      "schemeShortTitle": "NSSKVY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "schemeOpenDate": "2016-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "Labour Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/222"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The NIRMAN SHRAMIK SIKSHA KAUSHAL VIKAS YOJANA (NSKKVY) is a scheme launched by the Government of Rajasthan to provide financial assistance for education and skill development to the children of registered construction workers in the state. Under the scheme, scholarships for education will be provided to the workers&#39; children. According to the scheme format, children studying from the 6th class to higher class (ITI, Diploma, Graduation, Post Graduation) can avail of the scheme&#39;s benefits by applying for the scholarship.\n",
+      "benefits_md": "> **The following scholarships will be provided to the male and female students after taking admission in the upcoming class: -**\n\n<br>\n\nClassStudentStudent / Specially abledFrom class 6th to 8th₹ 8,000/- per year₹ 9,000/- per yearFrom class 9th to 12th₹ 9,000/- per year₹ 10,000/- per yearITI₹ 9,000/- per year₹ 10,000/- per yearDiploma₹ 10,000/- per year₹ 11,000/- per yearGraduation (General)₹ 13,000/- per year₹ 15,000/- per yearGraduate (Professional)₹ 18,000/- per year₹ 20,000/- per yearPost Graduate (General)₹15,000/- per year₹ 17,000/- per yearPost Graduate (Professional)₹ 23,000/- per year₹ 25,000/- per year<br>\n\n> **Beneficiary meritorious students will be given the following cash awards under the scheme:-**\n\n<br>\n\nClassPrize moneyClass 8th to 9th₹ 4,000/-class 11th₹ 6,000/-Diploma₹ 10,000/-Graduate₹ 8,000/-Postgraduate₹ 12,000/-Graduate (Professional)₹ 25,000/-Post Graduate (Professional)₹ 35,000/-<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The NIRMAN SHRAMIK SIKSHA KAUSHAL VIKAS YOJANA (NSKKVY) is a scheme launched by the Government of Rajasthan to provide financial assistance for education and skill development to the children of registered construction workers in the state.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The NIRMAN SHRAMIK SIKSHA KAUSHAL VIKAS YOJANA (NSKKVY) is a scheme launched by the Government of Rajasthan to provide financial assistance for education and skill development to the children of registered construction workers in the state. Under the scheme, scholarships for education will be provided to the workers' children. According to the scheme format, children studying from the 6th class to higher class (ITI, Diploma, Graduation, Post Graduation) can avail of the scheme's benefits by applying for the scholarship."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "The following scholarships will be provided to the male and female students after taking admission in the upcoming class: -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Student"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Student / Specially abled"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "From class 6th to 8th"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 8,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 9,000/- per year"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "From class 9th to 12th"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 9,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/- per year"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "ITI"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 9,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/- per year"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Diploma"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 11,000/- per year"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Graduation (General)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 13,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 15,000/- per year"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Graduate (Professional)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 18,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 20,000/- per year"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Post Graduate (General)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹15,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 17,000/- per year"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Post Graduate (Professional)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 23,000/- per year"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 25,000/- per year"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Beneficiary meritorious students will be given the following cash awards under the scheme:-",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Prize money"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Class 8th to 9th"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 4,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "class 11th"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 6,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Diploma"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Graduate"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 8,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Postgraduate"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 12,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Graduate (Professional)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 25,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Post Graduate (Professional)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 35,000/-"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “LDMS” option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In LDMS, select \"Welfare Schemes\" from the side menu and select BOCW Welfare Board. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of \"Yojana\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out the all relevant detail. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “LDMS” option.\n**Step-4:** In LDMS, select &quot;Welfare Schemes&quot; from the side menu and select BOCW Welfare Board. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of &quot;Yojana&quot;\n**Step-7:** Fill out the all relevant detail. \n**Step-8:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The beneficiary must be a registered construction worker in the board.\n1. Only the son/daughter/wife of the beneficiary will be eligible for the education assistance (scholarship) scheme.\n1. A maximum of two children of the beneficiary or one child and wife will be eligible to receive the scholarship. However, if both husband and wife are registered beneficiaries, then a maximum of two children of the husband and wife will be eligible for the scholarship. However, there will be no limit for meritorious students to receive cash awards.\n1. The student must be studying regularly in a government or private school or college recognized by the Central/State Government from class 6 to postgraduate level.\n1. The student must be studying regularly in a government or recognized private ITI and polytechnic course run in the state.\n1. To receive the cash award, meritorious students must have passed the class 8 to 12th examination with 75% marks or equivalent grade. Must have obtained/passed 60% or more marks or equivalent grade in diploma, graduation and postgraduate level examination (including medical, engineering or other professional examination).\n1. The age of the beneficiary&#39;s wife should not be more than 35 years for the eligibility of scholarship and she should be studying regularly in an educational institution.\n1. Scholarship will be payable only after passing the relevant examination for a year.\n1. The student will be eligible for the scholarship only after getting admission in the next class after the opening of the educational/training institution after the summer vacation. However, in case of passing the final examination of 12th class, diploma, graduation or postgraduate course, it will not be necessary to take admission in the next class.\n1. A beneficiary who does not deposit the contribution for a continuous period of one year will cease to be a beneficiary. Therefore, the son/daughter/wife of such a construction worker who fails to deposit the contribution will not be eligible for the scholarship under the scheme. However, the scholarship will be paid on restoration of the beneficiary under the proviso of the above section and rule.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary must be a registered construction worker in the board."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Only the son/daughter/wife of the beneficiary will be eligible for the education assistance (scholarship) scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A maximum of two children of the beneficiary or one child and wife will be eligible to receive the scholarship. However, if both husband and wife are registered beneficiaries, then a maximum of two children of the husband and wife will be eligible for the scholarship. However, there will be no limit for meritorious students to receive cash awards."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student must be studying regularly in a government or private school or college recognized by the Central/State Government from class 6 to postgraduate level."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student must be studying regularly in a government or recognized private ITI and polytechnic course run in the state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To receive the cash award, meritorious students must have passed the class 8 to 12th examination with 75% marks or equivalent grade. Must have obtained/passed 60% or more marks or equivalent grade in diploma, graduation and postgraduate level examination (including medical, engineering or other professional examination)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the beneficiary's wife should not be more than 35 years for the eligibility of scholarship and she should be studying regularly in an educational institution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scholarship will be payable only after passing the relevant examination for a year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student will be eligible for the scholarship only after getting admission in the next class after the opening of the educational/training institution after the summer vacation. However, in case of passing the final examination of 12th class, diploma, graduation or postgraduate course, it will not be necessary to take admission in the next class."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A beneficiary who does not deposit the contribution for a continuous period of one year will cease to be a beneficiary. Therefore, the son/daughter/wife of such a construction worker who fails to deposit the contribution will not be eligible for the scholarship under the scheme. However, the scholarship will be paid on restoration of the beneficiary under the proviso of the above section and rule."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "विद्यार्थी",
+        "शिक्षा",
+        "वित्तीय",
+        "छात्रवृत्ति"
+      ],
+      "schemeName": "निर्माण श्रमिक शिक्षा कौशल विकास योजना",
+      "schemeShortTitle": "NSSKVY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "schemeOpenDate": "2016-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000022,
+        "label": "श्रम विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/222"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "लॉगइन करें",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "निर्मल श्रमिक शिक्षा कौशल विकास योजना (एन. एस. के. के. वी. वाई.) राजस्थान सरकार द्वारा राज्य में पंजीकृत निर्माण श्रमिकों के बच्चों को शिक्षा और कौशल विकास के लिए वित्तीय सहायता प्रदान करने के लिए शुरू की गई एक योजना है। इस योजना के तहत श्रमिकों और बच्चों को शिक्षा के लिए छात्रवृत्ति प्रदान की जाएगी। योजना प्रारूप के अनुसार, छठी कक्षा से लेकर उच्च कक्षा (आईटीआई, डिप्लोमा, स्नातक, स्नातकोत्तर) तक पढ़ने वाले बच्चे छात्रवृत्ति के लिए आवेदन करके योजना के लाभों का लाभ उठा सकते हैं।",
+      "benefits_md": "> * * आगामी कक्षा में प्रवेश लेने के बाद पुरुष और महिला छात्रों को निम्नलिखित छात्रवृत्ति प्रदान की जाएगीः-* * कक्षा 6 से 8वीं तक छात्र/विशेष रूप से सक्षम छात्र कक्षा 6 से 8वीं तक प्रति वर्ष ₹8,000/- प्रति वर्ष 9वीं से 12वीं तक ₹9,000/- प्रति वर्ष ₹ 10,000/- प्रति वर्ष आईटीआई ₹9,000/- प्रति वर्ष ₹10,000/- प्रति वर्ष डिप्लोमा ₹10,000/- प्रति वर्ष ₹11,000/- प्रति वर्ष स्नातक (सामान्य) ₹13,000/- प्रति वर्ष स्नातक (व्यावसायिक) ₹18,000/- प्रति वर्ष ₹20,000/- प्रति वर्ष स्नातकोत्तर (सामान्य) ₹15,000/- प्रति वर्ष 12, 000/- स्नातक (पेशेवर) 25,000/- स्नातकोत्तर (पेशेवर) 35,000/-",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "निर्मल श्रमिक शिक्षा कौशल विकास योजना (एन. एस. के. के. वी. वाई.) राजस्थान सरकार द्वारा राज्य में पंजीकृत निर्माण श्रमिकों के बच्चों को शिक्षा और कौशल विकास के लिए वित्तीय सहायता प्रदान करने के लिए शुरू की गई एक योजना है।",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "निर्मल श्रमिक शिक्षा कौशल विकास योजना (एन. एस. के. के. वी. वाई.) राजस्थान सरकार द्वारा राज्य में पंजीकृत निर्माण श्रमिकों के बच्चों को शिक्षा और कौशल विकास के लिए वित्तीय सहायता प्रदान करने के लिए शुरू की गई एक योजना है। इस योजना के तहत श्रमिकों के बच्चों को शिक्षा के लिए छात्रवृत्ति प्रदान की जाएगी। योजना प्रारूप के अनुसार, छठी कक्षा से लेकर उच्च कक्षा (आई. टी. आई., डिप्लोमा, स्नातक, स्नातकोत्तर) तक पढ़ने वाले बच्चे छात्रवृत्ति के लिए आवेदन करके योजना के लाभों का लाभ उठा सकते हैं।"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "आगामी कक्षा में प्रवेश लेने के बाद पुरुष और महिला छात्रों को निम्नलिखित छात्रवृत्ति प्रदान की जाएगी",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "वर्ग"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "विद्यार्थी"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "छात्र/विशेष रूप से सक्षम"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "छठी से आठवीं कक्षा तक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹8,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹9,000/- प्रति वर्ष"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "9वीं से 12वीं तक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹9,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/- प्रति वर्ष"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "आई. टी. आई"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹9,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/- प्रति वर्ष"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "डिप्लोमा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹11,000/- प्रति वर्ष"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातक (सामान्य)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹13,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 15,000/- प्रति वर्ष"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातक (पेशेवर)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹18,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 20,000/- प्रति वर्ष"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातकोत्तर (सामान्य)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 15,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹17,000/- प्रति वर्ष"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातकोत्तर (व्यावसायिक)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹23,000/- प्रति वर्ष"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹25,000/- प्रति वर्ष"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "इस योजना के तहत लाभार्थी मेधावी छात्रों को निम्नलिखित नकद पुरस्कार दिए जाएंगेः -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "वर्ग"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "पुरस्कार राशि"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कक्षा 8वीं से 9वीं तक"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "कक्षा 11वीं"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹6,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "डिप्लोमा"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹ 10,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "ग्रेजुएट"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹8,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातकोत्तर"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹12,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातक (पेशेवर)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹25,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "स्नातकोत्तर (व्यावसायिक)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹35,000/-"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"एल. डी. एम. एस\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "एल. डी. एम. एस. में, साइड मेन्यू से \"कल्याण योजनाएं\" चुनें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पेज पर राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की सूची मिलेगी, जिसमें से \"योजना\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। चरण-3: एल. डी. एम. एस. विकल्प पर क्लिक करें। * * चरण-4: एल. डी. एम. एस. में, साइड मेन्यू से कल्याण योजनाओं का चयन करें और बी. ओ. सी. डब्ल्यू. कल्याण बोर्ड का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, राजस्थान श्रमिक कार्ड की सभी योजनाओं के नामों की एक सूची मिलेगी, जिसमें से 'योजना' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. लाभार्थी को बोर्ड में एक पंजीकृत निर्माण श्रमिक होना चाहिए। 1. केवल लाभार्थी का बेटा/बेटी/पत्नी ही शिक्षा सहायता (छात्रवृत्ति) योजना के लिए पात्र होगा। 1. लाभार्थी के अधिकतम दो बच्चे या एक बच्चा और पत्नी छात्रवृत्ति प्राप्त करने के पात्र होंगे। हालाँकि, यदि पति और पत्नी दोनों पंजीकृत लाभार्थी हैं, तो पति और पत्नी के अधिकतम दो बच्चे छात्रवृत्ति के लिए पात्र होंगे। हालांकि, मेधावी छात्रों के लिए नकद पुरस्कार प्राप्त करने की कोई सीमा नहीं होगी। 1. छात्र को कक्षा 6 से स्नातकोत्तर स्तर तक केंद्र/राज्य सरकार द्वारा मान्यता प्राप्त सरकारी या निजी स्कूल या कॉलेज में नियमित रूप से अध्ययन करना चाहिए। 1. छात्र को राज्य में संचालित सरकारी या मान्यता प्राप्त निजी आई. टी. आई. और पॉलिटेक्निक पाठ्यक्रम में नियमित रूप से अध्ययन करना चाहिए। 1. नकद पुरस्कार प्राप्त करने के लिए, मेधावी छात्रों को 75 प्रतिशत अंकों या समकक्ष ग्रेड के साथ कक्षा 8 से 12 वीं की परीक्षा उत्तीर्ण होनी चाहिए। डिप्लोमा, स्नातक और स्नातकोत्तर स्तर की परीक्षा (मेडिकल, इंजीनियरिंग या अन्य पेशेवर परीक्षा सहित) में 60 प्रतिशत या उससे अधिक अंक या समकक्ष ग्रेड प्राप्त/उत्तीर्ण होना चाहिए। 1. छात्रवृत्ति की पात्रता के लिए लाभार्थी की पत्नी की आयु 35 वर्ष से अधिक नहीं होनी चाहिए और वह किसी शैक्षणिक संस्थान में नियमित रूप से पढ़ रही होनी चाहिए। 1. एक वर्ष के लिए प्रासंगिक परीक्षा उत्तीर्ण करने के बाद ही छात्रवृत्ति का भुगतान किया जाएगा। 1. छात्र गर्मी की छुट्टियों के बाद शैक्षणिक/प्रशिक्षण संस्थान खुलने के बाद अगली कक्षा में प्रवेश पाने के बाद ही छात्रवृत्ति के लिए पात्र होगा। हालांकि, 12वीं कक्षा, डिप्लोमा, स्नातक या स्नातकोत्तर पाठ्यक्रम की अंतिम परीक्षा उत्तीर्ण करने के मामले में अगली कक्षा में प्रवेश लेने की आवश्यकता नहीं होगी। 1. एक लाभार्थी जो एक वर्ष की निरंतर अवधि के लिए योगदान जमा नहीं करता है, वह लाभार्थी नहीं रहेगा। इसलिए, ऐसे निर्माण श्रमिक का बेटा/बेटी/पत्नी जो योगदान जमा करने में विफल रहता है, वह योजना के तहत छात्रवृत्ति के लिए पात्र नहीं होगा। हालाँकि, उपरोक्त धारा और नियम के प्रावधान के तहत लाभार्थी की बहाली पर छात्रवृत्ति का भुगतान किया जाएगा।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी को बोर्ड में एक पंजीकृत निर्माण श्रमिक होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "केवल लाभार्थी का बेटा/बेटी/पत्नी ही शिक्षा सहायता (छात्रवृत्ति) योजना के लिए पात्र होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "लाभार्थी के अधिकतम दो बच्चे या एक बच्चा और पत्नी छात्रवृत्ति प्राप्त करने के पात्र होंगे। हालाँकि, यदि पति और पत्नी दोनों पंजीकृत लाभार्थी हैं, तो पति और पत्नी के अधिकतम दो बच्चे छात्रवृत्ति के लिए पात्र होंगे। हालांकि, मेधावी छात्रों के लिए नकद पुरस्कार प्राप्त करने की कोई सीमा नहीं होगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को कक्षा 6 से स्नातकोत्तर स्तर तक केंद्र/राज्य सरकार द्वारा मान्यता प्राप्त सरकारी या निजी स्कूल या कॉलेज में नियमित रूप से अध्ययन करना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को राज्य में संचालित सरकारी या मान्यता प्राप्त निजी आई. टी. आई. और पॉलिटेक्निक पाठ्यक्रम में नियमित रूप से अध्ययन करना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नकद पुरस्कार प्राप्त करने के लिए, मेधावी छात्रों को 75 प्रतिशत अंकों या समकक्ष ग्रेड के साथ कक्षा 8 से 12 वीं की परीक्षा उत्तीर्ण होनी चाहिए। डिप्लोमा, स्नातक और स्नातकोत्तर स्तर की परीक्षा (मेडिकल, इंजीनियरिंग या अन्य पेशेवर परीक्षा सहित) में 60 प्रतिशत या उससे अधिक अंक या समकक्ष ग्रेड प्राप्त/उत्तीर्ण होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्रवृत्ति की पात्रता के लिए लाभार्थी की पत्नी की आयु 35 वर्ष से अधिक नहीं होनी चाहिए और वह किसी शैक्षणिक संस्थान में नियमित रूप से पढ़ रही होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक वर्ष के लिए प्रासंगिक परीक्षा उत्तीर्ण करने के बाद ही छात्रवृत्ति का भुगतान किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र गर्मी की छुट्टियों के बाद शैक्षणिक/प्रशिक्षण संस्थान खुलने के बाद अगली कक्षा में प्रवेश पाने के बाद ही छात्रवृत्ति के लिए पात्र होगा। हालाँकि, 12वीं कक्षा, डिप्लोमा, स्नातक या स्नातकोत्तर पाठ्यक्रम की अंतिम परीक्षा उत्तीर्ण करने के मामले में, अगली कक्षा में प्रवेश लेने की आवश्यकता नहीं होगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक लाभार्थी जो एक वर्ष की निरंतर अवधि के लिए योगदान जमा नहीं करता है, वह लाभार्थी नहीं रहेगा। इसलिए, ऐसे निर्माण श्रमिक का बेटा/बेटी/पत्नी जो योगदान जमा करने में विफल रहता है, वह योजना के तहत छात्रवृत्ति के लिए पात्र नहीं होगा। हालाँकि, उपरोक्त धारा और नियम के प्रावधान के तहत लाभार्थी की बहाली पर छात्रवृत्ति का भुगतान किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. लाभार्थी को बोर्ड में एक पंजीकृत निर्माण श्रमिक होना चाहिए। 1. केवल लाभार्थी का बेटा/बेटी/पत्नी ही शिक्षा सहायता (छात्रवृत्ति) योजना के लिए पात्र होगा। 1. लाभार्थी के अधिकतम दो बच्चे या एक बच्चा और पत्नी छात्रवृत्ति प्राप्त करने के पात्र होंगे। हालाँकि, यदि पति और पत्नी दोनों पंजीकृत लाभार्थी हैं, तो पति और पत्नी के अधिकतम दो बच्चे छात्रवृत्ति के लिए पात्र होंगे। हालांकि, मेधावी छात्रों के लिए नकद पुरस्कार प्राप्त करने की कोई सीमा नहीं होगी। 1. छात्र को कक्षा 6 से स्नातकोत्तर स्तर तक केंद्र/राज्य सरकार द्वारा मान्यता प्राप्त सरकारी या निजी स्कूल या कॉलेज में नियमित रूप से अध्ययन करना चाहिए। 1. छात्र को राज्य में संचालित सरकारी या मान्यता प्राप्त निजी आई. टी. आई. और पॉलिटेक्निक पाठ्यक्रम में नियमित रूप से अध्ययन करना चाहिए। 1. नकद पुरस्कार प्राप्त करने के लिए, मेधावी छात्रों को 75 प्रतिशत अंकों या समकक्ष ग्रेड के साथ कक्षा 8 से 12 वीं की परीक्षा उत्तीर्ण होनी चाहिए। डिप्लोमा, स्नातक और स्नातकोत्तर स्तर की परीक्षा (मेडिकल, इंजीनियरिंग या अन्य पेशेवर परीक्षा सहित) में 60 प्रतिशत या उससे अधिक अंक या समकक्ष ग्रेड प्राप्त/उत्तीर्ण होना चाहिए। 1. छात्रवृत्ति की पात्रता के लिए लाभार्थी की पत्नी की आयु 35 वर्ष से अधिक नहीं होनी चाहिए और वह किसी शैक्षणिक संस्थान में नियमित रूप से पढ़ रही होनी चाहिए। 1. एक वर्ष के लिए प्रासंगिक परीक्षा उत्तीर्ण करने के बाद ही छात्रवृत्ति का भुगतान किया जाएगा। 1. छात्र गर्मी की छुट्टियों के बाद शैक्षणिक/प्रशिक्षण संस्थान खुलने के बाद अगली कक्षा में प्रवेश पाने के बाद ही छात्रवृत्ति के लिए पात्र होगा। हालांकि, 12वीं कक्षा, डिप्लोमा, स्नातक या स्नातकोत्तर पाठ्यक्रम की अंतिम परीक्षा उत्तीर्ण करने के मामले में अगली कक्षा में प्रवेश लेने की आवश्यकता नहीं होगी। 1. एक लाभार्थी जो एक वर्ष की निरंतर अवधि के लिए योगदान जमा नहीं करता है, वह लाभार्थी नहीं रहेगा। इसलिए, ऐसे निर्माण श्रमिक का बेटा/बेटी/पत्नी जो योगदान जमा करने में विफल रहता है, वह योजना के तहत छात्रवृत्ति के लिए पात्र नहीं होगा। हालाँकि, उपरोक्त धारा और नियम के प्रावधान के तहत लाभार्थी की बहाली पर छात्रवृत्ति का भुगतान किया जाएगा।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी को बोर्ड में एक पंजीकृत निर्माण श्रमिक होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "केवल लाभार्थी का बेटा/बेटी/पत्नी ही शिक्षा सहायता (छात्रवृत्ति) योजना के लिए पात्र होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "लाभार्थी के अधिकतम दो बच्चे या एक बच्चा और पत्नी छात्रवृत्ति प्राप्त करने के पात्र होंगे। हालाँकि, यदि पति और पत्नी दोनों पंजीकृत लाभार्थी हैं, तो पति और पत्नी के अधिकतम दो बच्चे छात्रवृत्ति के लिए पात्र होंगे। हालांकि, मेधावी छात्रों के लिए नकद पुरस्कार प्राप्त करने की कोई सीमा नहीं होगी।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को कक्षा 6 से स्नातकोत्तर स्तर तक केंद्र/राज्य सरकार द्वारा मान्यता प्राप्त सरकारी या निजी स्कूल या कॉलेज में नियमित रूप से अध्ययन करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को राज्य में संचालित सरकारी या मान्यता प्राप्त निजी आई. टी. आई. और पॉलिटेक्निक पाठ्यक्रम में नियमित रूप से अध्ययन करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "नकद पुरस्कार प्राप्त करने के लिए, मेधावी छात्रों को 75 प्रतिशत अंकों या समकक्ष ग्रेड के साथ कक्षा 8 से 12 वीं की परीक्षा उत्तीर्ण होनी चाहिए। डिप्लोमा, स्नातक और स्नातकोत्तर स्तर की परीक्षा (मेडिकल, इंजीनियरिंग या अन्य पेशेवर परीक्षा सहित) में 60 प्रतिशत या उससे अधिक अंक या समकक्ष ग्रेड प्राप्त/उत्तीर्ण होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्रवृत्ति की पात्रता के लिए लाभार्थी की पत्नी की आयु 35 वर्ष से अधिक नहीं होनी चाहिए और वह किसी शैक्षणिक संस्थान में नियमित रूप से पढ़ रही होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एक वर्ष के लिए प्रासंगिक परीक्षा उत्तीर्ण करने के बाद ही छात्रवृत्ति का भुगतान किया जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र गर्मी की छुट्टियों के बाद शैक्षणिक/प्रशिक्षण संस्थान खुलने के बाद अगली कक्षा में प्रवेश पाने के बाद ही छात्रवृत्ति के लिए पात्र होगा। हालाँकि, 12वीं कक्षा, डिप्लोमा, स्नातक या स्नातकोत्तर पाठ्यक्रम की अंतिम परीक्षा उत्तीर्ण करने के मामले में, अगली कक्षा में प्रवेश लेने की आवश्यकता नहीं होगी।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एक लाभार्थी जो एक वर्ष की निरंतर अवधि के लिए योगदान जमा नहीं करता है, वह लाभार्थी नहीं रहेगा। इसलिए, ऐसे निर्माण श्रमिक का बेटा/बेटी/पत्नी जो योगदान जमा करने में विफल रहता है, वह योजना के तहत छात्रवृत्ति के लिए पात्र नहीं होगा। हालाँकि, उपरोक्त धारा और नियम के प्रावधान के तहत लाभार्थी की बहाली पर छात्रवृत्ति का भुगतान किया जाएगा।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. Copy of the registration identity card of the beneficiary."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. Copy of the first page of the beneficiary's bank account passbook (in which the name of the beneficiary, bank account number, and IFSC code is mentioned)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. Copies of the beneficiary's Aadhar card and Bhamashah card. (optional)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. Self-attested copy of the mark sheet of the class or course for which the scholarship is sought."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. It is necessary to put the signature and seal in the prescribed column of the form by the head of the educational/training institution."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Special:- Incomplete application forms will not be accepted by the competent authority/office and will be returned",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to the applicant at the same time for desired fulfillment.",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "1. Copy of the registration identity card of the beneficiary.\n2. Copy of the first page of the beneficiary&#39;s bank account passbook (in which the name of the beneficiary, bank account number, and IFSC code is mentioned).\n3. Copies of the beneficiary&#39;s Aadhar card and Bhamashah card. (optional)\n4. Self-attested copy of the mark sheet of the class or course for which the scholarship is sought.\n5. It is necessary to put the signature and seal in the prescribed column of the form by the head of the educational/training institution.\n**Special:- Incomplete application forms will not be accepted by the competent authority/office and will be returned**\n**to the applicant at the same time for desired fulfillment.**\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. लाभार्थी के पंजीकरण पहचान पत्र की प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. लाभार्थी की बैंक खाता पासबुक के पहले पृष्ठ की प्रति (जिसमें लाभार्थी का नाम, बैंक खाता संख्या और आईएफएससी कोड का उल्लेख है)।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. लाभार्थी के आधार कार्ड और भामाशाह कार्ड की प्रतियाँ। (वैकल्पिक)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. जिस वर्ग या पाठ्यक्रम के लिए छात्रवृत्ति मांगी गई है, उसके अंक पत्र की स्वप्रमाणित प्रति।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. शैक्षणिक/प्रशिक्षण संस्थान के प्रमुख द्वारा प्रपत्र के निर्धारित कॉलम में हस्ताक्षर और मुहर लगाना आवश्यक है।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "विशेषः-अपूर्ण आवेदन पत्र सक्षम प्राधिकारी/कार्यालय द्वारा स्वीकार नहीं किए जाएंगे और उन्हें वापस कर दिया जाएगा",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "वांछित पूर्ति के लिए एक ही समय में आवेदक को।",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "1. Copy of the registration identity card of the beneficiary.\n2. Copy of the first page of the beneficiary&#39;s bank account passbook (in which the name of the beneficiary, bank account number, and IFSC code is mentioned).\n3. Copies of the beneficiary&#39;s Aadhar card and Bhamashah card. (optional)\n4. Self-attested copy of the mark sheet of the class or course for which the scholarship is sought.\n5. It is necessary to put the signature and seal in the prescribed column of the form by the head of the educational/training institution.\n**Special:- Incomplete application forms will not be accepted by the competent authority/office and will be returned**\n**to the applicant at the same time for desired fulfillment.**\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, scholarships for education will be provided to the children of workers."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under this scheme, scholarships for education will be provided to the children of workers.\n"
+        },
+        {
+          "question": "Who is eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The daughter, son, or wife of a construction worker will be eligible to avail benefits under the scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The daughter, son, or wife of a construction worker will be eligible to avail benefits under the scheme.\n"
+        },
+        {
+          "question": "Is there any cash awards?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Meritorious students from class 8 to postgraduate level will be given cash awards ranging from Rs 4000/- to Rs 35,000/-."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Meritorious students from class 8 to postgraduate level will be given cash awards ranging from Rs 4000/- to Rs 35,000/-.\n"
+        },
+        {
+          "question": "How can i apply online ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "By logging in to the SSO portal of Rajasthan, https://sso.rajasthan.gov.in/signin, and follow the steps."
+                }
+              ]
+            }
+          ],
+          "answer_md": "By logging in to the SSO portal of Rajasthan, https://sso.rajasthan.gov.in/signin, and follow the steps.\n"
+        },
+        {
+          "question": "Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No\n"
+        },
+        {
+          "question": "Can students from all streams avail the benefits of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes\n"
+        },
+        {
+          "question": "Under which department does this scheme come?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Labour Department of Rajasthan"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Labour Department of Rajasthan\n"
+        },
+        {
+          "question": "Can applicants from outside Rajasthan apply for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No\n"
+        },
+        {
+          "question": "Is there an age limit ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In case the applicant is the wife of a construction worker, the age of the wife should not be more than 35 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case the applicant is the wife of a construction worker, the age of the wife should not be more than 35 years.\n"
+        },
+        {
+          "question": "Is this Scheme for student scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत श्रमिकों के बच्चों को शिक्षा के लिए छात्रवृत्ति प्रदान की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Under this scheme, scholarships for education will be provided to the children of workers.\n"
+        },
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "किसी निर्माण श्रमिक की बेटी, बेटा या पत्नी इस योजना के तहत लाभ उठाने के पात्र होंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The daughter, son, or wife of a construction worker will be eligible to avail benefits under the scheme.\n"
+        },
+        {
+          "question": "क्या कोई नकद पुरस्कार है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कक्षा 8 से स्नातकोत्तर स्तर तक के मेधावी छात्रों को 4000/- रुपये से लेकर 35,000/- रुपये तक के नकद पुरस्कार दिए जाएंगे"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Meritorious students from class 8 to postgraduate level will be given cash awards ranging from Rs 4000/- to Rs 35,000/-.\n"
+        },
+        {
+          "question": "मैं ऑनलाइन आवेदन कैसे कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान के एसएसओ पोर्टल, https://sso.rajasthan.gov.in/signin पर लॉग इन करके और चरणों का पालन करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "By logging in to the SSO portal of Rajasthan, https://sso.rajasthan.gov.in/signin, and follow the steps.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No\n"
+        },
+        {
+          "question": "क्या सभी स्ट्रीम के छात्र इस योजना का लाभ उठा सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes\n"
+        },
+        {
+          "question": "यह योजना किस विभाग के अंतर्गत आती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान का श्रम विभाग"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Labour Department of Rajasthan\n"
+        },
+        {
+          "question": "क्या राजस्थान के बाहर के आवेदक छात्रवृत्ति के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No\n"
+        },
+        {
+          "question": "क्या कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यदि आवेदक किसी निर्माण श्रमिक की पत्नी है, तो पत्नी की आयु 35 वर्ष से अधिक नहीं होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In case the applicant is the wife of a construction worker, the age of the wife should not be more than 35 years.\n"
+        },
+        {
+          "question": "क्या यह योजना छात्र छात्रवृत्ति के लिए है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes\n"
+        }
+      ]
+    }
+  }
+}

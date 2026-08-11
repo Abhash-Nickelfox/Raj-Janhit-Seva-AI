@@ -1,0 +1,1640 @@
+{
+  "scheme_id": "65e5ecca938a0b13cca39636",
+  "slug": "mwfhjwy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Women",
+        "Work From Home",
+        "Empower",
+        "Employment"
+      ],
+      "schemeName": "Mukhyamantri Work Form Home-Job Work Yojana",
+      "schemeShortTitle": "MWFH",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2022-08-26",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000037,
+        "label": "Women and Child Development Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/1020"
+        },
+        {
+          "title": "Registration",
+          "url": "https://mahilawfh.rajasthan.gov.in/candidate/registration"
+        },
+        {
+          "title": "Log In",
+          "url": "https://mahilawfh.rajasthan.gov.in/candidate/login"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Rajasthan government has launched 26-08-2022 a new scheme for women, the Mukhyamantri Work From–Job Work Scheme Under the Women and Child Development Department, Rajasthan who can contribute to the family income while working from home. Now women of the state will be able to get employment sitting at home through this scheme. Many women cannot go out and work, the government wants to help them by giving them work at home so that they can work at home and earn money to support their families financially.\nDuring work from home, women will be made to work from home through various departments like the Women Empowerment Department, School and Higher and Technical Education, Works Department, and Information Technology and Communication Department, and this will include typing, documentation, dictation, etc. Instructions will be issued keeping this in mind.\n<br>\n\n> **School and higher and technical education**\n\nThrough school and higher and technical education, women students will be allowed to study online and some women will be given the work of stitching dresses to be given to the students in the school. Along with this, women can do the work of washing clothes, bedsheets, etc. used in school while sitting at home.\n<br>\n\n> **Department of Information Technology and Communication**\n\nIn this department, women will be given work related to programming like software design, data analysis, and web design. Due to this women will be friends with modern methods and through this, they will also be able to earn a good income.\n<br>\n\n> **Finance department**\n\nImportant instructions will be issued to women in the financial department to get the work related to accounting and auditing done in government agencies by the women of the state through work from home.\n<br>\n\n> **Women Empowerment Department**\n\nUnder this work, counseling services will be provided to women in the form of work from home.\n<br>\n\n> **Medical Health and Family Welfare Department-** \n\nOnline consultation service from women specialist doctors, transcription, sewing work of clothes used in hospitals.\n<br>\n\n> **Department of Skills, Employment and Entrepreneurship -**\n\nOrganize employment fairs/ camps and ensure participation of such employers who provide employment opportunities in the form of work-from-home-job work. To provide work from home job work to the women registered under the scheme through these fairs/camps.\n<br>\n\n> **Rajasthan Skills and Livelihood Development Corporation (RSLDC) -**\n\nTo connect at least 10 percent of the women trained under the training being conducted by Rajasthan Skills and Livelihood Development Corporation through training partners with work from home-job work.\n<br>\n\n> **Rajasthan Co-operative Dairy Federation (RCDF) –** \n\nTo provide work from home- job work opportunities to women in work related to the processing and marketing of milk and milk products.\n \n",
+      "benefits_md": "> **Financial and non-financial incentives -**\n\n\n1. Advertisement of such private unit which provides work from home-job work to a maximum number of women will be displayed free of cost on the Work from Home-Job Work portal.\n1. If a private unit provides work from home - job work to women and the payment for the work given to the woman is more than ₹  5,000, then ₹  3,000 per trainee will be given as a training incentive, as a training fee. However, the payment of the training incentive amount will be given to the female trainee only after the offer letter is given by the private entity in the form of work from home- job work.\n\n",
+      "briefDescription": "The main objective of the \"Mukhyamantri Work from Home\" Scheme is to provide an opportunity for the women of the state to get employment sitting at home and to empower women by providing them with financial help by giving them work. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rajasthan government has launched 26-08-2022 a new scheme for women, the Mukhyamantri Work From–Job Work Scheme Under the Women and Child Development Department, Rajasthan who can contribute to the family income while working from home. Now women of the state will be able to get employment sitting at home through this scheme. Many women cannot go out and work, the government wants to help them by giving them work at home so that they can work at home and earn money to support their families financially."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During work from home, women will be made to work from home through various departments like the Women Empowerment Department, School and Higher and Technical Education, Works Department, and Information Technology and Communication Department, and this will include typing, documentation, dictation, etc. Instructions will be issued keeping this in mind."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "School and higher and technical education",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Through school and higher and technical education, women students will be allowed to study online and some women will be given the work of stitching dresses to be given to the students in the school. Along with this, women can do the work of washing clothes, bedsheets, etc. used in school while sitting at home."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "bold": true,
+              "text": "Department of Information Technology and Communication"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this department, women will be given work related to programming like software design, data analysis, and web design. Due to this women will be friends with modern methods and through this, they will also be able to earn a good income."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Finance department",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Important instructions will be issued to women in the financial department to get the work related to accounting and auditing done in government agencies by the women of the state through work from home."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Women Empowerment Department",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under this work, counseling services will be provided to women in the form of work from home."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Medical Health and Family Welfare Department- ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Online consultation service from women specialist doctors, transcription, sewing work of clothes used in hospitals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Department of Skills, Employment and Entrepreneurship -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Organize employment fairs/ camps and ensure participation of such employers who provide employment opportunities in the form of work-from-home-job work. To provide work from home job work to the women registered under the scheme through these fairs/camps."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Rajasthan Skills and Livelihood Development Corporation (RSLDC) -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To connect at least 10 percent of the women trained under the training being conducted by Rajasthan Skills and Livelihood Development Corporation through training partners with work from home-job work."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Rajasthan Co-operative Dairy Federation (RCDF) – ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To provide work from home- job work opportunities to women in work related to the processing and marketing of milk and milk products."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial and non-financial incentives -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Advertisement of such private unit which provides work from home-job work to a maximum number of women will be displayed free of cost on the Work from Home-Job Work portal."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If a private unit provides work from home - job work to women and the payment for the work given to the woman is more than ₹  5,000, then ₹  3,000 per trainee will be given as a training incentive, as a training fee. However, the payment of the training incentive amount will be given to the female trainee only after the offer letter is given by the private entity in the form of work from home- job work."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Visit the “"
+              },
+              {
+                "type": "link",
+                "link": "https://mahilawfh.rajasthan.gov.in/#",
+                "children": [
+                  {
+                    "text": " Mukhyamantri Work From Home –Job Work Yojna"
+                  }
+                ]
+              },
+              {
+                "text": " ” Portal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " Click on Applicant (only female) under \"Onboarding\" option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \""
+              },
+              {
+                "type": "link",
+                "link": "https://mahilawfh.rajasthan.gov.in/candidate/registration",
+                "children": [
+                  {
+                    "text": "New User Register"
+                  }
+                ]
+              },
+              {
+                "text": "\" "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " Register as a “ Woman Applicant ” through “ Jan-Aadhaar Number ” and “ Aadhaar Number ”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " All details of Applicant are fetched from Jan-Aadhaar Number & Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the “ Submit ” button & Registration is complete And intimation is sent to the applicant through SMS."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7: ",
+                "bold": true
+              },
+              {
+                "text": "Applicant can view/ search Opportunity and Apply."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Organization check applicant details and Verify Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9: ",
+                "bold": true
+              },
+              {
+                "text": "Organization Accept/Reject the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-10:",
+                "bold": true
+              },
+              {
+                "text": " Intimation sent to Applicant through SMS."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step-1:** Visit the “[ Mukhyamantri Work From Home –Job Work Yojna](https://mahilawfh.rajasthan.gov.in/#) ” Portal.\n**Step-2:** Click on Applicant (only female) under &quot;Onboarding&quot; option.\n**Step-3:** Now click on &quot;[New User Register](https://mahilawfh.rajasthan.gov.in/candidate/registration)&quot; \n**Step-4:** Register as a “ Woman Applicant ” through “ Jan-Aadhaar Number ” and “ Aadhaar Number ”\n**Step-5:** All details of Applicant are fetched from Jan-Aadhaar Number &amp; Aadhaar Number.\n**Step-6:** Click on the “ Submit ” button &amp; Registration is complete And intimation is sent to the applicant through SMS.\n**Step-7:** Applicant can view/ search Opportunity and Apply.\n**Step-8:** Organization check applicant details and Verify Documents.\n**Step-9:** Organization Accept/Reject the application.\n**Step-10:** Intimation sent to Applicant through SMS.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Rajasthan.\n1. The minimum age of the applicant should be 18 years.\n1. Preference will be given to widow/abandoned/divorced/disabled/victim of violence.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The minimum age of the applicant should be 18 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference will be given to widow/abandoned/divorced/disabled/victim of violence."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "महिलाएँ",
+        "घर से काम करें",
+        "सशक्तीकरण",
+        "रोजगार"
+      ],
+      "schemeName": "मुख्यमंत्री वर्क फॉर्म होम-जॉब वर्क योजना",
+      "schemeShortTitle": "MWFH",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2022-08-26",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000037,
+        "label": "महिला एवं बाल विकास विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "योजना का विवरण",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/1020"
+        },
+        {
+          "title": "पंजीकरण",
+          "url": "https://mahilawfh.rajasthan.gov.in/candidate/registration"
+        },
+        {
+          "title": "लॉग इन करें",
+          "url": "https://mahilawfh.rajasthan.gov.in/candidate/login"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार ने महिलाओं के लिए एक नई योजना शुरू की है, महिला और बाल विकास विभाग, राजस्थान के तहत मुख्यमंत्री कार्य कार्य योजना जो घर से काम करते हुए परिवार की आय में योगदान कर सकती है। अब राज्य की महिलाओं को इस योजना के माध्यम से घर बैठे रोजगार मिल सकेगा। कई महिलाएं बाहर जाकर काम नहीं कर सकतीं, सरकार उन्हें घर से काम देकर उनकी मदद करना चाहती है ताकि वे घर से काम कर सकें और अपने परिवार का आर्थिक रूप से समर्थन करने के लिए पैसे कमा सकें। वर्क फ्रॉम होम के दौरान महिलाओं को महिला सशक्तिकरण विभाग, स्कूल और उच्च और तकनीकी शिक्षा, निर्माण विभाग और सूचना प्रौद्योगिकी और संचार विभाग जैसे विभिन्न विभागों के माध्यम से घर से काम करने के लिए कहा जाएगा और इसमें टाइपिंग, प्रलेखन, डिक्टेशन आदि शामिल होंगे। इसे ध्यान में रखते हुए निर्देश जारी किए जाएंगे। स्कूल और उच्च और तकनीकी शिक्षा के माध्यम से महिला छात्रों को ऑनलाइन पढ़ाई करने की अनुमति दी जाएगी और कुछ महिलाओं को स्कूल में छात्रों को कपड़े सिलने का काम दिया जाएगा। इसके साथ ही महिलाएं घर बैठे स्कूल में इस्तेमाल होने वाले कपड़े, बेडशीट आदि धोने का काम कर सकती हैं। सूचना प्रौद्योगिकी और संचार विभाग इस विभाग में महिलाओं को सॉफ्टवेयर डिजाइन, डेटा एनालिसिस और वेब डिजाइन जैसे प्रोग्रामिंग से संबंधित काम दिए जाएंगे। इससे महिलाएँ आधुनिक तरीकों से दोस्त बनेंगी और इसके माध्यम से वे अच्छी आय भी अर्जित कर सकेंगी। वित्त विभाग में महिलाओं को महत्वपूर्ण निर्देश जारी किए जाएंगे कि वे सरकारी एजेंसियों में लेखा और लेखा परीक्षा से संबंधित काम राज्य की महिलाओं द्वारा घर से काम के माध्यम से करवाएँ। महिला सशक्तिकरण विभाग इस काम के तहत महिलाओं को घर से काम के रूप में परामर्श सेवाएं प्रदान करेगा। चिकित्सा स्वास्थ्य और परिवार कल्याण विभाग-* महिला विशेषज्ञ डॉक्टरों से ऑनलाइन परामर्श सेवा, प्रतिलेखन, अस्पतालों में उपयोग किए जाने वाले कपड़ों की सिलाई का काम। इन मेलों/शिविरों के माध्यम से योजना के तहत पंजीकृत महिलाओं को घर से काम करने का काम प्रदान करना। राजस्थान कौशल और आजीविका विकास निगम (आरएसएलडीसी)-राजस्थान कौशल और आजीविका विकास निगम द्वारा आयोजित किए जा रहे प्रशिक्षण के तहत प्रशिक्षित महिलाओं में से कम से कम 10 प्रतिशत को प्रशिक्षण भागीदारों के माध्यम से घर से काम करने वाले काम से जोड़ना। राजस्थान सहकारी डेयरी महासंघ (आरसीडीएफ)-* दूध और दूध उत्पादों के प्रसंस्करण और विपणन से संबंधित काम में महिलाओं को घर से काम करने के अवसर प्रदान करना।",
+      "benefits_md": "> * * वित्तीय और गैर-वित्तीय प्रोत्साहन-* * 1 ऐसी निजी इकाई का विज्ञापन जो अधिकतम संख्या में महिलाओं को घर से काम प्रदान करता है, वर्क फ्रॉम होम-जॉब वर्क पोर्टल पर मुफ्त में प्रदर्शित किया जाएगा। 1. यदि कोई निजी इकाई महिलाओं को घर से काम-नौकरी प्रदान करती है और महिला को दिए गए काम के लिए भुगतान ₹5,000 से अधिक है, तो प्रति प्रशिक्षु ₹3,000 को प्रशिक्षण शुल्क के रूप में प्रशिक्षण प्रोत्साहन के रूप में दिया जाएगा। हालांकि, महिला प्रशिक्षु को प्रशिक्षण प्रोत्साहन राशि का भुगतान निजी संस्था द्वारा वर्क फ्रॉम होम-जॉब के रूप में प्रस्ताव पत्र दिए जाने के बाद ही किया जाएगा।",
+      "briefDescription": "\"मुख्यमंत्री वर्क फ्रॉम होम\" योजना का मुख्य उद्देश्य राज्य की महिलाओं को घर बैठे रोजगार प्राप्त करने का अवसर प्रदान करना और उन्हें काम देकर वित्तीय सहायता प्रदान करके महिलाओं को सशक्त बनाना है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार ने महिलाओं के लिए एक नई योजना शुरू की है, महिला और बाल विकास विभाग, राजस्थान के तहत मुख्यमंत्री कार्य कार्य योजना जो घर से काम करते हुए परिवार की आय में योगदान कर सकती है। अब राज्य की महिलाओं को इस योजना के माध्यम से घर बैठे रोजगार मिल सकेगा। कई महिलाएं बाहर जाकर काम नहीं कर सकतीं, सरकार उन्हें घर से काम देकर उनकी मदद करना चाहती है ताकि वे घर से काम कर सकें और अपने परिवार का आर्थिक रूप से समर्थन करने के लिए पैसे कमा सकें।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "वर्क फ्रॉम होम के दौरान महिलाओं को महिला सशक्तिकरण विभाग, स्कूल और उच्च और तकनीकी शिक्षा, निर्माण विभाग और सूचना प्रौद्योगिकी और संचार विभाग जैसे विभिन्न विभागों के माध्यम से घर से काम करने के लिए कहा जाएगा और इसमें टाइपिंग, प्रलेखन, डिक्टेशन आदि शामिल होंगे। इसे ध्यान में रखते हुए निर्देश जारी किए जाएंगे।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "स्कूल और उच्च और तकनीकी शिक्षा",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "स्कूल और उच्च और तकनीकी शिक्षा के माध्यम से, महिला छात्रों को ऑनलाइन अध्ययन करने की अनुमति दी जाएगी और कुछ महिलाओं को स्कूल में छात्रों को दिए जाने वाले कपड़े सिलाई का काम दिया जाएगा। इसके साथ ही महिलाएं घर बैठे स्कूल में इस्तेमाल होने वाले कपड़े, बेडशीट आदि धोने का काम भी कर सकती हैं।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "bold": true,
+              "text": "सूचना प्रौद्योगिकी और संचार विभाग"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस विभाग में महिलाओं को सॉफ्टवेयर डिजाइन, डेटा एनालिसिस और वेब डिजाइन जैसी प्रोग्रामिंग से संबंधित काम दिया जाएगा। इससे महिलाएं आधुनिक तरीकों से मित्र बनेंगी और इसके माध्यम से वे अच्छी आय भी अर्जित कर सकेंगी।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "वित्त विभाग",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "वित्तीय विभाग में महिलाओं को राज्य की महिलाओं द्वारा घर से काम करके सरकारी एजेंसियों में लेखा और लेखा परीक्षा से संबंधित काम कराने के लिए महत्वपूर्ण निर्देश जारी किए जाएंगे।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "महिला सशक्तिकरण विभाग",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "इस कार्य के तहत महिलाओं को वर्क फ्रॉम होम के रूप में परामर्श सेवाएं प्रदान की जाएंगी।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "चिकित्सा स्वास्थ्य और परिवार कल्याण विभाग -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "महिला विशेषज्ञ डॉक्टरों से ऑनलाइन परामर्श सेवा, प्रतिलेखन, अस्पतालों में उपयोग किए जाने वाले कपड़ों की सिलाई का काम।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "कौशल, रोजगार और उद्यमिता विभाग -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "रोजगार मेलों/शिविरों का आयोजन करें और ऐसे नियोक्ताओं की भागीदारी सुनिश्चित करें जो घर से काम करने के रूप में रोजगार के अवसर प्रदान करते हैं। इन मेलों/शिविरों के माध्यम से योजना के तहत पंजीकृत महिलाओं को घर से काम करने का काम प्रदान करना।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "राजस्थान कौशल और आजीविका विकास निगम (आरएसएलडीसी) -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान कौशल और आजीविका विकास निगम द्वारा आयोजित किए जा रहे प्रशिक्षण के तहत प्रशिक्षित कम से कम 10 प्रतिशत महिलाओं को प्रशिक्षण भागीदारों के माध्यम से वर्क फ्रॉम होम-जॉब वर्क से जोड़ना।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "राजस्थान सहकारी डेयरी फेडरेशन (आर. सी. डी. एफ.) -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "दूध और दूध उत्पादों के प्रसंस्करण और विपणन से संबंधित काम में महिलाओं को घर से काम करने के अवसर प्रदान करना।"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "वित्तीय और गैर-वित्तीय प्रोत्साहन -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ऐसी निजी इकाई का विज्ञापन जो अधिकतम संख्या में महिलाओं को घर से काम प्रदान करता है, वर्क फ्रॉम होम-जॉब वर्क पोर्टल पर मुफ्त में प्रदर्शित किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि कोई निजी इकाई महिलाओं को घर से काम-नौकरी प्रदान करती है और महिला को दिए गए काम के लिए भुगतान ₹5,000 से अधिक है, तो प्रति प्रशिक्षु ₹3,000 को प्रशिक्षण शुल्क के रूप में प्रशिक्षण प्रोत्साहन के रूप में दिया जाएगा। हालांकि, महिला प्रशिक्षु को प्रशिक्षण प्रोत्साहन राशि का भुगतान निजी संस्था द्वारा वर्क फ्रॉम होम-जॉब के रूप में प्रस्ताव पत्र दिए जाने के बाद ही किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "विजिट करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://mahilawfh.rajasthan.gov.in/#",
+                "children": [
+                  {
+                    "text": "मुख्यमंत्री घर से काम करें-नौकरी कार्य योजना"
+                  }
+                ]
+              },
+              {
+                "text": "\"पोर्टल।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "\"ऑनबोर्डिंग\" विकल्प के तहत आवेदक (केवल महिला) पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "अब \"पर क्लिक करें"
+              },
+              {
+                "type": "link",
+                "link": "https://mahilawfh.rajasthan.gov.in/candidate/registration",
+                "children": [
+                  {
+                    "text": "नया उपयोगकर्ता रजिस्टर"
+                  }
+                ]
+              },
+              {
+                "text": "\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"जन-आधार संख्या\" और \"आधार संख्या\" के माध्यम से \"महिला आवेदक\" के रूप में पंजीकरण करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक के सभी विवरण जन-आधार संख्या और आधार संख्या से प्राप्त किए जाते हैं।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "\"जमा करें\" बटन पर क्लिक करें और पंजीकरण पूरा हो गया है और आवेदक को एस. एम. एस. के माध्यम से सूचना भेजी जाती है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-7:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक अवसर देख/खोज कर आवेदन कर सकता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "संगठन आवेदक के विवरण की जांच करता है और दस्तावेजों का सत्यापन करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-9:",
+                "bold": true
+              },
+              {
+                "text": "संगठन आवेदन स्वीकार/अस्वीकार करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-10:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को एस. एम. एस. के माध्यम से सूचना भेजी जाती है।"
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण-1: * * \"[मुख्यमंत्री वर्क फ्रॉम होम-जॉब वर्क योजना] (https://mahilawfh.rajasthan.gov.in #)\" पोर्टल पर जाएँ। * * चरण-2: * * 'ऑनबोर्डिंग' विकल्प के तहत आवेदक (केवल महिला) पर क्लिक करें। * * चरण-3: * * अब \"जन-आधार संख्या\" और \"आधार संख्या\" के माध्यम से \"महिला आवेदक\" के रूप में पंजीकरण करें * * चरण-5: * * आवेदक के सभी विवरण जन-आधार संख्या और आधार संख्या से प्राप्त किए जाते हैं। * * चरण-6: \"जमा करें\" बटन पर क्लिक करें और पंजीकरण पूरा हो गया है और आवेदक को एस. एम. एस. के माध्यम से सूचना भेजी जाती है। * * चरण-7: * * आवेदक अवसर देख/खोज सकता है और आवेदन कर सकता है। * * चरण-8: संगठन आवेदक के विवरण की जांच करता है और दस्तावेजों का सत्यापन करता है। * * चरण-9: संगठन आवेदन स्वीकार/अस्वीकार करें। * * चरण-10: * * आवेदक को एस. एम. एस. के माध्यम से सूचना भेजी जाती है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "category": "female",
+          "gte": 18,
+          "lte": 100
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक की न्यूनतम आयु 18 वर्ष होनी चाहिए। 1. विधवा/परित्यक्त/तलाकशुदा/विकलांग/हिंसा की शिकार को प्राथमिकता दी जाएगी।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की न्यूनतम आयु 18 वर्ष होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विधवा/परित्यक्त/तलाकशुदा/विकलांग/हिंसा की शिकार को प्राथमिकता दी जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "category": "female",
+        "gte": 18,
+        "lte": 100
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक की न्यूनतम आयु 18 वर्ष होनी चाहिए। 1. विधवा/परित्यक्त/तलाकशुदा/विकलांग/हिंसा की शिकार को प्राथमिकता दी जाएगी।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की न्यूनतम आयु 18 वर्ष होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "विधवा/परित्यक्त/तलाकशुदा/विकलांग/हिंसा की शिकार को प्राथमिकता दी जाएगी।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Address proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhar card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Age certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Email id"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport size photo"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mobile number"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Jan Aadhaar Number"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Special Category (Disabled/Divorced/Specially Handicapped/Victim of Violence) Documents"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Address proof\n1. Aadhar card\n1. Age certificate\n1. Email id\n1. Passport size photo\n1. Mobile number\n1. Jan Aadhaar Number\n1. Special Category (Disabled/Divorced/Specially Handicapped/Victim of Violence) Documents\n\n<br>\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पते का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयु प्रमाण पत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "ईमेल आईडी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "मोबाइल नंबर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार संख्या"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विशेष श्रेणी के दस्तावेज़ (विकलांग/तलाकशुदा/विशेष रूप से विकलांग/हिंसा का शिकार)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Address proof\n1. Aadhar card\n1. Age certificate\n1. Email id\n1. Passport size photo\n1. Mobile number\n1. Jan Aadhaar Number\n1. Special Category (Disabled/Divorced/Specially Handicapped/Victim of Violence) Documents\n\n<br>\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is the Mukhyamantri Work from Home - Job Work Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Mukhyamantri Work from Home - Job Work Yojana is a government initiative aimed at providing work-from-home opportunities to individuals seeking employment or supplemental income."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Mukhyamantri Work from Home - Job Work Yojana is a government initiative aimed at providing work-from-home opportunities to individuals seeking employment or supplemental income.\n"
+        },
+        {
+          "question": "What are the benefits of “Mukhyamantri Work from Home-Job Work Scheme”?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " With this scheme, women of the state will become empowered and self-reliant. Rajasthan Work from Home Scheme will also reduce the unemployment rate. Apart from this, women will also be able to get employment under this scheme. Various training programs will also be organized for this."
+                }
+              ]
+            }
+          ],
+          "answer_md": " With this scheme, women of the state will become empowered and self-reliant. Rajasthan Work from Home Scheme will also reduce the unemployment rate. Apart from this, women will also be able to get employment under this scheme. Various training programs will also be organized for this.\n"
+        },
+        {
+          "question": "Is there any Preference that will be given in this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Preference will be given to widow/abandoned/divorced/disabled/victim of violence."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Preference will be given to widow/abandoned/divorced/disabled/victim of violence.\n"
+        },
+        {
+          "question": "Is there any age criteria ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The minimum age of the applicant should be 18 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The minimum age of the applicant should be 18 years.\n"
+        },
+        {
+          "question": "Is there an application fee?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": " Can I apply offline for the scholarship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, you can apply online only."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, you can apply online only.\n"
+        },
+        {
+          "question": "What is DBT?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DBT stands for Direct Benefit Transfer. It is a system introduced by the Government of India to transfer subsidies directly to the beneficiaries' bank accounts. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a system introduced by the Government of India to transfer subsidies directly to the beneficiaries' bank accounts. \n"
+        },
+        {
+          "question": "Can applicants from outside Rajasthan apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, this scheme is only for Rajasthan state."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is only for Rajasthan state.\n"
+        },
+        {
+          "question": "What is IFSC code?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The IFSC code, or Indian Financial System Code, is an alphanumeric code used to identify specific bank branches within the electronic payment system in India."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The IFSC code, or Indian Financial System Code, is an alphanumeric code used to identify specific bank branches within the electronic payment system in India.\n"
+        },
+        {
+          "question": "What is Jan Aadhaar Number?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " Database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members. And to provide recognition as an address document."
+                }
+              ]
+            }
+          ],
+          "answer_md": " Database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members. And to provide recognition as an address document.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "मुख्यमंत्री वर्क फ्रॉम होम-जॉब वर्क योजना क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "मुख्यमंत्री वर्क फ्रॉम होम-जॉब वर्क योजना एक सरकारी पहल है जिसका उद्देश्य रोजगार या पूरक आय चाहने वाले व्यक्तियों को घर से काम करने के अवसर प्रदान करना है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Mukhyamantri Work from Home - Job Work Yojana is a government initiative aimed at providing work-from-home opportunities to individuals seeking employment or supplemental income.\n"
+        },
+        {
+          "question": "\"मुख्यमंत्री वर्क फ्रॉम होम-जॉब वर्क स्कीम\" के क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना से राज्य की महिलाएं सशक्त और आत्मनिर्भर बनेंगी। राजस्थान वर्क फ्रॉम होम योजना से बेरोजगारी दर में भी कमी आएगी। इसके अलावा महिलाओं को भी इस योजना के तहत रोजगार मिल सकेगा। इसके लिए विभिन्न प्रशिक्षण कार्यक्रम भी आयोजित किए जाएंगे।"
+                }
+              ]
+            }
+          ],
+          "answer_md": " With this scheme, women of the state will become empowered and self-reliant. Rajasthan Work from Home Scheme will also reduce the unemployment rate. Apart from this, women will also be able to get employment under this scheme. Various training programs will also be organized for this.\n"
+        },
+        {
+          "question": "क्या इस योजना में कोई वरीयता दी जाएगी?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "विधवा/परित्यक्त/तलाकशुदा/विकलांग/हिंसा की शिकार को प्राथमिकता दी जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Preference will be given to widow/abandoned/divorced/disabled/victim of violence.\n"
+        },
+        {
+          "question": "क्या कोई आयु मानदंड है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक की न्यूनतम आयु 18 वर्ष होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The minimum age of the applicant should be 18 years.\n"
+        },
+        {
+          "question": "क्या कोई आवेदन शुल्क है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No.\n"
+        },
+        {
+          "question": "क्या मैं छात्रवृत्ति के लिए ऑफ़लाइन आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आप केवल ऑनलाइन आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, you can apply online only.\n"
+        },
+        {
+          "question": "डी. बी. टी. क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "डी. बी. टी. का अर्थ है प्रत्यक्ष लाभ हस्तांतरण। यह भारत सरकार द्वारा सब्सिडी को सीधे लाभार्थियों के बैंक खातों में हस्तांतरित करने के लिए शुरू की गई एक प्रणाली है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "DBT stands for Direct Benefit Transfer. It is a system introduced by the Government of India to transfer subsidies directly to the beneficiaries' bank accounts. \n"
+        },
+        {
+          "question": "क्या राजस्थान के बाहर के आवेदक इस योजना के लिए आवेदन कर सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह योजना केवल राजस्थान राज्य के लिए है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, this scheme is only for Rajasthan state.\n"
+        },
+        {
+          "question": "आईएफएससी कोड क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आईएफएससी कोड, या भारतीय वित्तीय प्रणाली कोड, एक वर्णानुक्रमिक कोड है जिसका उपयोग भारत में इलेक्ट्रॉनिक भुगतान प्रणाली के भीतर विशिष्ट बैंक शाखाओं की पहचान करने के लिए किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The IFSC code, or Indian Financial System Code, is an alphanumeric code used to identify specific bank branches within the electronic payment system in India.\n"
+        },
+        {
+          "question": "जन आधार संख्या क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राज्य के निवासी परिवारों की जनसांख्यिकीय और सामाजिक-आर्थिक जानकारी का डेटाबेस और जन आधार कार्ड के माध्यम से परिवार और उसके सदस्यों की पहचान। और पता दस्तावेज के रूप में मान्यता प्रदान करना।"
+                }
+              ]
+            }
+          ],
+          "answer_md": " Database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members. And to provide recognition as an address document.\n"
+        }
+      ]
+    }
+  }
+}

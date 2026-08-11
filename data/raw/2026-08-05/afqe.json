@@ -1,0 +1,1851 @@
+{
+  "scheme_id": "67f3b839269b0727e8facfa4",
+  "slug": "afqe",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Quality Enhancement",
+        "Quality Certification",
+        "Reimbursement",
+        "Micro Enterprises",
+        "Small Enterprises",
+        "Intellectual Property"
+      ],
+      "schemeName": "Assistance for Quality Enhancement",
+      "schemeShortTitle": "AFQE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Technology upgradation",
+          "label": "Technology upgradation"
+        },
+        {
+          "value": "Licenses, trademarks and copyright",
+          "label": "Licenses, trademarks and copyright"
+        },
+        {
+          "value": "Intellectual property rights and patents",
+          "label": "Intellectual property rights and patents"
+        }
+      ],
+      "schemeOpenDate": "2024-12-04",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000019,
+        "label": "Industry Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://istart.rajasthan.gov.in/public/Policies/2024/rajasthan-msme-policy-2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Assistance for Quality Enhancement&amp;quot; scheme was started under Rajasthan MSME Policy 2024 by the Department of Industries &amp;amp; Commerce, Government of Rajasthan. The scheme envisages to support Micro and Small enterprises in state to improve the quality of their products and processes through assistance towards the cost incurred for quality certification as well as other system certifications and Intellectual Property Right. This scheme will remain in force until 31st March 2029. \n**Scheme Implementation**\nThis scheme component is implemented through the respective District Industries &amp;amp; Commerce Centers (DICCs) in their districts under the aegis of the Department of Industries &amp;amp; Commerce. Office of the Commissioner, Industries &amp;amp; Commerce will be the nodal agency for the implementation and supervision of the scheme at the state level. \n",
+      "benefits_md": "**One-Time Financial Assistance:**\n\n- Reimbursement of up to 50% of the total cost incurred for obtaining quality certifications (e.g., BIS, FSSAI), system certifications (e.g., ISO, ZED), and Intellectual Property Rights (IPRs), subject to a maximum of ₹3,00,000/- per unit.\n\n**Note:** Micro and Small Enterprises may acquire such certifications from any government agency or an agency authorized by the Government of India or the Government of Rajasthan.\n**Costs Covered:**\n\n- Documentation and consultation fees\n- Testing and calibration charges\n- Accreditation, license, and application fees\n\n**Mode of Disbursement:**\n\n- The approved amount is directly transferred to the applicant’s authorized bank account.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to support micro and small enterprises in obtaining quality and system certifications or IPRs. It offers up to 50% reimbursement of certification costs with a ceiling of ₹3,00,000.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Assistance for Quality Enhancement\" scheme was started under Rajasthan MSME Policy 2024 by the Department of Industries & Commerce, Government of Rajasthan. The scheme envisages to support Micro and Small enterprises in state to improve the quality of their products and processes through assistance towards the cost incurred for quality certification as well as other system certifications and Intellectual Property Right. This scheme will remain in force until 31st March 2029. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Scheme Implementation",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This scheme component is implemented through the respective District Industries & Commerce Centers (DICCs) in their districts under the aegis of the Department of Industries & Commerce. Office of the Commissioner, Industries & Commerce will be the nodal agency for the implementation and supervision of the scheme at the state level. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One-Time Financial Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reimbursement of up to 50% of the total cost incurred for obtaining quality certifications (e.g., BIS, FSSAI), system certifications (e.g., ISO, ZED), and Intellectual Property Rights (IPRs), subject to a maximum of ₹3,00,000/- per unit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note: ",
+                  "bold": true
+                },
+                {
+                  "text": "Micro and Small Enterprises may acquire such certifications from any government agency or an agency authorized by the Government of India or the Government of Rajasthan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Costs Covered:",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Documentation and consultation fees"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Testing and calibration charges"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Accreditation, license, and application fees"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The approved amount is directly transferred to the applicant’s authorized bank account."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant downloads the application form (Annexure 4.1) from the official website. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the respective General Manager, District Industries & Commerce Centre (DICC)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Verification Process:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The District Level Task Force Committee (DLTFC) will review and approve, partially approve, or reject the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 2: "
+              },
+              {
+                "text": "Upon approval, an approval letter will be issued by the GM, DICC."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 3: "
+              },
+              {
+                "text": "The sanctioned assistance will be disbursed to the applicant’s authorized bank account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n**Step 1:** The interested applicant downloads the application form (Annexure 4.1) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the respective General Manager, District Industries &amp; Commerce Centre (DICC).\n***Verification Process:***\n**Step 1:** The District Level Task Force Committee (DLTFC) will review and approve, partially approve, or reject the application.\n**Step 2:** Upon approval, an approval letter will be issued by the GM, DICC.\n**Step 3:** The sanctioned assistance will be disbursed to the applicant’s authorized bank account.\n<br>\n\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Mode of Online Application: e-Mitra",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant can submit the online application by visiting the nearest "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "e-Mitra"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " center or by using their own e-Mitra account."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The application is free of cost."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Mode of Online Application: e-Mitra**\n\n\n- The applicant can submit the online application by visiting the nearest [e-Mitra](https://emitra.rajasthan.gov.in/emitra/home) center or by using their own e-Mitra account.\n\n- The application is free of cost.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "All Micro and Small Enterprises existing anywhere in Rajasthan will be required to comply with the following conditions to avail benefits under the scheme:\n\n   1. The enterprise will be required to have Udyam Registration Certificate (URC) as per MSME Development Act 2006.\n   1. The enterprise should apply for the one-time reimbursement within 12 months of obtaining the quality certification/(s).\n   1. Cost of certification will include documentation, testing, accreditation fee, consultation fee, and calibration charges (till the enterprise obtain the certificate), application fee, license fee and other relevant fees.\n   1. Certification should be related to the product or process of the enterprise.\n   1. The enterprise should be in commercial production at the time of disbursement and the assistance shall not be released to the closed unit.\n   1. One MSME enterprise can apply only once under the scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "All Micro and Small Enterprises existing anywhere in Rajasthan will be required to comply with the following conditions to avail benefits under the scheme:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The enterprise will be required to have Udyam Registration Certificate (URC) as per MSME Development Act 2006."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The enterprise should apply for the one-time reimbursement within 12 months of obtaining the quality certification/(s)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Cost of certification will include documentation, testing, accreditation fee, consultation fee, and calibration charges (till the enterprise obtain the certificate), application fee, license fee and other relevant fees."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Certification should be related to the product or process of the enterprise."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The enterprise should be in commercial production at the time of disbursement and the assistance shall not be released to the closed unit."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "One MSME enterprise can apply only once under the scheme."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "गुणवत्ता में वृद्धि",
+        "गुणवत्ता प्रमाणन",
+        "प्रतिपूर्ति",
+        "सूक्ष्म उद्यम",
+        "लघु उद्यम",
+        "बौद्धिक संपदा"
+      ],
+      "schemeName": "गुणवत्ता वृद्धि के लिए सहायता",
+      "schemeShortTitle": "AFQE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "स्थापना/स्टार्टअप/उद्यमिता"
+        },
+        {
+          "value": "Technology upgradation",
+          "label": "प्रौद्योगिकी का उन्नयन"
+        },
+        {
+          "value": "Licenses, trademarks and copyright",
+          "label": "लाइसेंस, ट्रेडमार्क और कॉपीराइट"
+        },
+        {
+          "value": "Intellectual property rights and patents",
+          "label": "बौद्धिक संपदा अधिकार और पेटेंट"
+        }
+      ],
+      "schemeOpenDate": "2024-12-04",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000019,
+        "label": "उद्योग विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://istart.rajasthan.gov.in/public/Policies/2024/rajasthan-msme-policy-2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार के उद्योग और वाणिज्य विभाग द्वारा राजस्थान एमएसएमई नीति 2024 के तहत गुणवत्ता वृद्धि के लिए सहायता योजना शुरू की गई थी। इस योजना में गुणवत्ता प्रमाणन के साथ-साथ अन्य प्रणाली प्रमाणन और बौद्धिक संपदा अधिकार के लिए की गई लागत की दिशा में सहायता के माध्यम से अपने उत्पादों और प्रक्रियाओं की गुणवत्ता में सुधार करने के लिए राज्य में सूक्ष्म और लघु उद्यमों का समर्थन करने की परिकल्पना की गई है। यह योजना 31 मार्च 2029 तक लागू रहेगी। योजना कार्यान्वयन इस योजना घटक को उद्योग और वाणिज्य विभाग के तत्वावधान में उनके जिलों में संबंधित जिला उद्योगों और वाणिज्य केंद्रों (डी. आई. सी. सी.) के माध्यम से लागू किया जाता है। आयुक्त, उद्योग और वाणिज्य का कार्यालय राज्य स्तर पर योजना के कार्यान्वयन और पर्यवेक्षण के लिए नोडल एजेंसी होगी।",
+      "benefits_md": "एकमुश्त वित्तीय सहायता-गुणवत्ता प्रमाणन (जैसे, बी. आई. एस., एफ. एस. ए. आई.), प्रणाली प्रमाणन (जैसे, आई. एस. ओ., जेड. ई. डी.), और बौद्धिक संपदा अधिकार (आई. पी. आर.) प्राप्त करने के लिए कुल लागत का 50 प्रतिशत तक प्रति इकाई, अधिकतम ₹ 3,00,000 के अधीन। * नोट: सूक्ष्म और लघु उद्यम भारत सरकार या राजस्थान सरकार द्वारा अधिकृत किसी भी सरकारी एजेंसी या एजेंसी से इस तरह के प्रमाणन प्राप्त कर सकते हैं। कवर की गई लागत:-प्रलेखन और परामर्श शुल्क-परीक्षण और अंशांकन शुल्क-प्रत्यायन, लाइसेंस और आवेदन शुल्क-संवितरण का तरीका-अनुमोदित राशि सीधे आवेदक के अधिकृत बैंक खाते में स्थानांतरित की जाती है।",
+      "exclusions_md": "<बी. आर>",
+      "briefDescription": "इस योजना का उद्देश्य गुणवत्ता और प्रणाली प्रमाणन या आई. पी. आर. प्राप्त करने में सूक्ष्म और लघु उद्यमों का समर्थन करना है। यह ₹ 3,00,000 की अधिकतम सीमा के साथ प्रमाणन लागत की 50 प्रतिशत तक प्रतिपूर्ति प्रदान करता है।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार के उद्योग और वाणिज्य विभाग द्वारा राजस्थान एमएसएमई नीति 2024 के तहत \"गुणवत्ता वृद्धि के लिए सहायता\" योजना शुरू की गई थी। इस योजना में गुणवत्ता प्रमाणन के साथ-साथ अन्य प्रणाली प्रमाणन और बौद्धिक संपदा अधिकार के लिए की गई लागत की दिशा में सहायता के माध्यम से अपने उत्पादों और प्रक्रियाओं की गुणवत्ता में सुधार करने के लिए राज्य में सूक्ष्म और लघु उद्यमों का समर्थन करने की परिकल्पना की गई है। यह योजना 31 मार्च 2029 तक लागू रहेगी।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "योजना का कार्यान्वयन",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना घटक को उद्योग और वाणिज्य विभाग के तत्वावधान में संबंधित जिला उद्योग और वाणिज्य केंद्रों (डी. आई. सी. सी.) के माध्यम से उनके जिलों में लागू किया जाता है। आयुक्त, उद्योग और वाणिज्य का कार्यालय राज्य स्तर पर योजना के कार्यान्वयन और पर्यवेक्षण के लिए नोडल एजेंसी होगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "एकमुश्त वित्तीय सहायता:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गुणवत्ता प्रमाणन (जैसे, बी. आई. एस., एफ. एस. ए. आई.), प्रणाली प्रमाणन (जैसे, आई. एस. ओ., जेड. ई. डी.), और बौद्धिक संपदा अधिकार (आई. पी. आर.) प्राप्त करने के लिए कुल लागत का 50 प्रतिशत तक प्रतिपूर्ति, प्रति इकाई अधिकतम ₹ 3,00,000 के अधीन।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ध्यान देंः",
+                  "bold": true
+                },
+                {
+                  "text": "सूक्ष्म और लघु उद्यम भारत सरकार या राजस्थान सरकार द्वारा अधिकृत किसी भी सरकारी एजेंसी या एजेंसी से इस तरह के प्रमाण पत्र प्राप्त कर सकते हैं।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "शामिल खर्चः",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दस्तावेजीकरण और परामर्श शुल्क"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "परीक्षण और अंशांकन शुल्क"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रत्यायन, लाइसेंस और आवेदन शुल्क"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्वीकृत राशि सीधे आवेदक के अधिकृत बैंक खाते में हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "आवेदन प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 1:"
+              },
+              {
+                "text": "इच्छुक आवेदक आधिकारिक वेबसाइट से आवेदन पत्र (अनुलग्नक 4.1) डाउनलोड करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र जमा करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "सत्यापन प्रक्रियाः",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 1:"
+              },
+              {
+                "text": "जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) आवेदन की समीक्षा और अनुमोदन करेगी, आंशिक रूप से अनुमोदन करेगी या अस्वीकार कर देगी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 2:"
+              },
+              {
+                "text": "अनुमोदन के बाद, जी. एम., डी. आई. सी. द्वारा एक अनुमोदन पत्र जारी किया जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 3:"
+              },
+              {
+                "text": "स्वीकृत सहायता आवेदक के अधिकृत बैंक खाते में वितरित की जाएगी।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "आवेदन प्रक्रिया: चरण 1: इच्छुक आवेदक आधिकारिक वेबसाइट से आवेदन पत्र (अनुलग्नक 4) डाउनलोड करता है। चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों (यदि आवश्यक हो तो स्व-सत्यापन) की प्रतियां संलग्न करें। चरण 3: दस्तावेजों के साथ विधिवत भरे गए और हस्ताक्षरित आवेदन पत्र को संबंधित महाप्रबंधक, जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) को जमा करें। सत्यापन प्रक्रिया: चरण 1: जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.) आवेदन की समीक्षा और अनुमोदन, आंशिक रूप से अनुमोदन या अस्वीकार करेगी। चरण 2: अनुमोदन के बाद, जी. एम., डी. आई. सी. द्वारा एक अनुमोदन पत्र जारी किया जाएगा। चरण 3: स्वीकृत सहायता आवेदक के अधिकृत बैंक खाते में वितरित की जाएगी। <बी. आर>"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "ऑनलाइन आवेदन का माध्यमः ई-मित्र",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदक निकटतम स्थान पर जाकर ऑनलाइन आवेदन जमा कर सकता है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://emitra.rajasthan.gov.in/emitra/home",
+                    "children": [
+                      {
+                        "text": "ई-मित्रा"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "केंद्र या अपने स्वयं के ई-मित्र खाते का उपयोग करके।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवेदन निःशुल्क है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "ऑनलाइन आवेदन का मोडः ई-मित्र * *-आवेदक निकटतम [ई-मित्र] पर जाकर ऑनलाइन आवेदन जमा कर सकता है। //एमित्र. राजस्थान. जी. ओ. वी. इन/एमित्र/होम) केंद्र या अपने स्वयं के ई-मित्र खाते का उपयोग करके।-आवेदन निःशुल्क है"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 1,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "राजस्थान में कहीं भी मौजूद सभी सूक्ष्म और लघु उद्यमों को योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित शर्तों का पालन करना होगा: उद्यम के पास एमएसएमई विकास अधिनियम 2006 के अनुसार उद्यम पंजीकरण प्रमाणपत्र (यूआरसी) होना आवश्यक होगा। 1. उद्यम को गुणवत्ता प्रमाणन प्राप्त करने के 12 महीने के भीतर एकमुश्त प्रतिपूर्ति के लिए आवेदन करना चाहिए। 1. प्रमाणन की लागत में प्रलेखन, परीक्षण, मान्यता शुल्क, परामर्श शुल्क और अंशांकन शुल्क (जब तक उद्यम प्रमाण पत्र प्राप्त नहीं कर लेता), आवेदन शुल्क, लाइसेंस शुल्क और अन्य प्रासंगिक शुल्क शामिल होंगे। 1. प्रमाणन उद्यम के उत्पाद या प्रक्रिया से संबंधित होना चाहिए। 1. संवितरण के समय उद्यम वाणिज्यिक उत्पादन में होना चाहिए और सहायता बंद इकाई को जारी नहीं की जाएगी। 1. एक एम. एस. एम. ई. उद्यम इस योजना के तहत केवल एक बार आवेदन कर सकता है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में कहीं भी मौजूद सभी सूक्ष्म और लघु उद्यमों को योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित शर्तों का पालन करना होगा:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उद्यम के पास एमएसएमई विकास अधिनियम 2006 के अनुसार उद्यम पंजीकरण प्रमाण पत्र (यूआरसी) होना आवश्यक होगा।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "उद्यम को गुणवत्ता प्रमाणन प्राप्त करने के 12 महीने के भीतर एकमुश्त प्रतिपूर्ति के लिए आवेदन करना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रमाणन की लागत में प्रलेखन, परीक्षण, मान्यता शुल्क, परामर्श शुल्क और अंशांकन शुल्क (जब तक उद्यम प्रमाण पत्र प्राप्त नहीं कर लेता), आवेदन शुल्क, लाइसेंस शुल्क और अन्य प्रासंगिक शुल्क शामिल होंगे।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "प्रमाणन उद्यम के उत्पाद या प्रक्रिया से संबंधित होना चाहिए।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "संवितरण के समय उद्यम वाणिज्यिक उत्पादन में होना चाहिए और सहायता बंद इकाई को जारी नहीं की जाएगी।"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "एक एम. एस. एम. ई. उद्यम इस योजना के तहत केवल एक बार आवेदन कर सकता है।"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सब कुछ",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सब कुछ",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 1,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "राजस्थान में कहीं भी मौजूद सभी सूक्ष्म और लघु उद्यमों को योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित शर्तों का पालन करना होगा: उद्यम के पास एमएसएमई विकास अधिनियम 2006 के अनुसार उद्यम पंजीकरण प्रमाणपत्र (यूआरसी) होना आवश्यक होगा। 1. उद्यम को गुणवत्ता प्रमाणन प्राप्त करने के 12 महीने के भीतर एकमुश्त प्रतिपूर्ति के लिए आवेदन करना चाहिए। 1. प्रमाणन की लागत में प्रलेखन, परीक्षण, मान्यता शुल्क, परामर्श शुल्क और अंशांकन शुल्क (जब तक उद्यम प्रमाण पत्र प्राप्त नहीं कर लेता), आवेदन शुल्क, लाइसेंस शुल्क और अन्य प्रासंगिक शुल्क शामिल होंगे। 1. प्रमाणन उद्यम के उत्पाद या प्रक्रिया से संबंधित होना चाहिए। 1. संवितरण के समय उद्यम वाणिज्यिक उत्पादन में होना चाहिए और सहायता बंद इकाई को जारी नहीं की जाएगी। 1. एक एम. एस. एम. ई. उद्यम इस योजना के तहत केवल एक बार आवेदन कर सकता है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "align_justify",
+        "children": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "राजस्थान में कहीं भी मौजूद सभी सूक्ष्म और लघु उद्यमों को योजना के तहत लाभ प्राप्त करने के लिए निम्नलिखित शर्तों का पालन करना होगा:"
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उद्यम के पास एमएसएमई विकास अधिनियम 2006 के अनुसार उद्यम पंजीकरण प्रमाण पत्र (यूआरसी) होना आवश्यक होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उद्यम को गुणवत्ता प्रमाणन प्राप्त करने के 12 महीने के भीतर एकमुश्त प्रतिपूर्ति के लिए आवेदन करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रमाणन की लागत में प्रलेखन, परीक्षण, मान्यता शुल्क, परामर्श शुल्क और अंशांकन शुल्क (जब तक उद्यम प्रमाण पत्र प्राप्त नहीं कर लेता), आवेदन शुल्क, लाइसेंस शुल्क और अन्य प्रासंगिक शुल्क शामिल होंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "प्रमाणन उद्यम के उत्पाद या प्रक्रिया से संबंधित होना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "संवितरण के समय उद्यम वाणिज्यिक उत्पादन में होना चाहिए और सहायता बंद इकाई को जारी नहीं की जाएगी।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एक एम. एस. एम. ई. उद्यम इस योजना के तहत केवल एक बार आवेदन कर सकता है।"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सब कुछ",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सब कुछ",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Udyam Registration Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Incorporation/Partnership Deed/Firm Registration (as applicable)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Board Resolution or Power of Attorney in the name of Authorized Signatory"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Certification/IPR and other related documents"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bills of Eligible Expenses and Proof of Payment"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Regular Commercial Production (e.g., Recent Sale Bill)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Account Details (Cancelled Cheque) and PAN Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Undertaking/Declaration on Non-Judicial Stamp Paper ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure 4.2"
+                    }
+                  ]
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "CA-Certified Statement of Expenditure ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure 4.3"
+                    }
+                  ]
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of Udyam Registration Certificate\n1. Certificate of Incorporation/Partnership Deed/Firm Registration (as applicable)\n1. Board Resolution or Power of Attorney in the name of Authorized Signatory\n1. Copy of Certification/IPR and other related documents\n1. Bills of Eligible Expenses and Proof of Payment\n1. Proof of Regular Commercial Production (e.g., Recent Sale Bill)\n1. Bank Account Details (Cancelled Cheque) and PAN Card\n1. Undertaking/Declaration on Non-Judicial Stamp Paper ([Annexure 4.2](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf))1. CA-Certified Statement of Expenditure ([Annexure 4.3](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf))\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उद्यम पंजीकरण प्रमाण पत्र की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निगमन/साझेदारी विलेख/फर्म पंजीकरण का प्रमाण पत्र (जैसा लागू हो)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिकृत हस्ताक्षरकर्ता के नाम पर बोर्ड प्रस्ताव या पावर ऑफ अटॉर्नी"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "प्रमाणन/आई. पी. आर. और अन्य संबंधित दस्तावेजों की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "योग्य खर्चों के बिल और भुगतान का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "नियमित वाणिज्यिक उत्पादन का प्रमाण (उदाहरण के लिए, हाल का बिक्री बिल)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण (रद्द किया गया चेक) और पैन कार्ड"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गैर-न्यायिक स्टाम्प पेपर पर उपक्रम/घोषणा ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "अनुलग्नक 4.2"
+                    }
+                  ]
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "व्यय का सीए-प्रमाणित विवरण ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf",
+                  "children": [
+                    {
+                      "text": "अनुलग्नक 4.3"
+                    }
+                  ]
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Copy of Udyam Registration Certificate\n1. Certificate of Incorporation/Partnership Deed/Firm Registration (as applicable)\n1. Board Resolution or Power of Attorney in the name of Authorized Signatory\n1. Copy of Certification/IPR and other related documents\n1. Bills of Eligible Expenses and Proof of Payment\n1. Proof of Regular Commercial Production (e.g., Recent Sale Bill)\n1. Bank Account Details (Cancelled Cheque) and PAN Card\n1. Undertaking/Declaration on Non-Judicial Stamp Paper ([Annexure 4.2](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf))1. CA-Certified Statement of Expenditure ([Annexure 4.3](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf))\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Micro and Small Enterprises (MSEs) operating in Rajasthan with valid Udyam Registration."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Micro and Small Enterprises (MSEs) operating in Rajasthan with valid Udyam Registration.\n"
+        },
+        {
+          "question": "What is the objective of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To support MSEs in improving product and process quality through quality certifications and IPRs."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "To support MSEs in improving product and process quality through quality certifications and IPRs.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "What is the maximum financial assistance provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Up to ₹3,00,000 per enterprise as a one-time reimbursement."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Up to ₹3,00,000 per enterprise as a one-time reimbursement.\n<br>\n\n"
+        },
+        {
+          "question": "What is the validity period of the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Until 31st March 2029."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Until 31st March 2029.\n"
+        },
+        {
+          "question": "How is the assistance amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is transferred directly to the enterprise’s bank account after approval."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is transferred directly to the enterprise’s bank account after approval.\n"
+        },
+        {
+          "question": "What is the application deadline after getting the certification?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications must be submitted within 12 months of obtaining the certification."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted within 12 months of obtaining the certification.\n"
+        },
+        {
+          "question": "Who approves the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The District Level Task Force Committee (DLTFC)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Level Task Force Committee (DLTFC).\n"
+        },
+        {
+          "question": "Where should I submit the application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To the General Manager of the concerned District Industries & Commerce Centre (DICC)."
+                }
+              ]
+            }
+          ],
+          "answer_md": "To the General Manager of the concerned District Industries &amp; Commerce Centre (DICC).\n"
+        },
+        {
+          "question": "What types of certifications are covered under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "BIS, FSSAI, ISO, ZED, and IPR among others."
+                }
+              ]
+            }
+          ],
+          "answer_md": "BIS, FSSAI, ISO, ZED, and IPR among others.\n"
+        },
+        {
+          "question": "Can I apply more than once for different certifications?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, only one application per enterprise is allowed."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only one application per enterprise is allowed.\n"
+        },
+        {
+          "question": "Is the scheme applicable to enterprises outside Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, it is applicable only to enterprises located in Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is applicable only to enterprises located in Rajasthan.\n"
+        },
+        {
+          "question": "What if the enterprise is not in commercial production at the time of disbursement?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application will be rejected as the enterprise must be in commercial production."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application will be rejected as the enterprise must be in commercial production.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के तहत कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सूक्ष्म और लघु उद्यम (एमएसई) राजस्थान में वैध उद्यम पंजीकरण के साथ काम कर रहे हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Micro and Small Enterprises (MSEs) operating in Rajasthan with valid Udyam Registration.\n"
+        },
+        {
+          "question": "इस योजना का उद्देश्य क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "गुणवत्ता प्रमाणन और आईपीआर के माध्यम से उत्पाद और प्रक्रिया की गुणवत्ता में सुधार करने में एमएसई का समर्थन करना।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "To support MSEs in improving product and process quality through quality certifications and IPRs.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "अधिकतम वित्तीय सहायता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक बार की प्रतिपूर्ति के रूप में प्रति उद्यम ₹ 3,00,000 तक।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "Up to ₹3,00,000 per enterprise as a one-time reimbursement.\n<br>\n\n"
+        },
+        {
+          "question": "योजना की वैधता अवधि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "31 मार्च 2029 तक।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Until 31st March 2029.\n"
+        },
+        {
+          "question": "सहायता राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अनुमोदन के बाद इसे सीधे उद्यम के बैंक खाते में स्थानांतरित कर दिया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is transferred directly to the enterprise’s bank account after approval.\n"
+        },
+        {
+          "question": "प्रमाणन प्राप्त करने के बाद आवेदन करने की समय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रमाणन प्राप्त करने के 12 महीने के भीतर आवेदन जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted within 12 months of obtaining the certification.\n"
+        },
+        {
+          "question": "आवेदन को कौन मंजूरी देता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला स्तरीय कार्य बल समिति (डी. एल. टी. एफ. सी.)।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The District Level Task Force Committee (DLTFC).\n"
+        },
+        {
+          "question": "मुझे आवेदन कहाँ जमा करना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "संबंधित जिला उद्योग और वाणिज्य केंद्र (डी. आई. सी. सी.) के महाप्रबंधक को।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "To the General Manager of the concerned District Industries &amp; Commerce Centre (DICC).\n"
+        },
+        {
+          "question": "इस योजना के तहत किस प्रकार के प्रमाण पत्र शामिल हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "बी. आई. एस., एफ. एस. ए. आई., आई. एस. ओ., जेड. ई. डी. और आई. पी. आर. आदि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "BIS, FSSAI, ISO, ZED, and IPR among others.\n"
+        },
+        {
+          "question": "क्या मैं विभिन्न प्रमाणपत्रों के लिए एक से अधिक बार आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, प्रति उद्यम केवल एक आवेदन की अनुमति है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, only one application per enterprise is allowed.\n"
+        },
+        {
+          "question": "क्या यह योजना राजस्थान के बाहर के उद्यमों पर लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह केवल राजस्थान में स्थित उद्यमों पर लागू होता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is applicable only to enterprises located in Rajasthan.\n"
+        },
+        {
+          "question": "यदि उद्यम वितरण के समय वाणिज्यिक उत्पादन में नहीं है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन को अस्वीकार कर दिया जाएगा क्योंकि उद्यम वाणिज्यिक उत्पादन में होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application will be rejected as the enterprise must be in commercial production.\n"
+        }
+      ]
+    }
+  }
+}

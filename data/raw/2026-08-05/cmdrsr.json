@@ -1,0 +1,1279 @@
+{
+  "scheme_id": "680e8e0c096abd5b8bc31a73",
+  "slug": "cmdrsr",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Orphan",
+        "Senior Citizen",
+        "Rehabilitation",
+        "Destitute",
+        "Day-care Centers",
+        "Old-age Homes"
+      ],
+      "schemeName": "Mukhyamantri Asahaya Punarwas Yojana",
+      "schemeShortTitle": "MAPY",
+      "implementingAgency": "Department Of Social Justice And Empowerment, Government Of Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Rehabilitation",
+          "label": "Rehabilitation"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Shelter",
+          "label": "Shelter"
+        },
+        {
+          "value": "Pension",
+          "label": "Pension"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=111"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Mukhyamantri Asahaya Punarwas Yojana&amp;quot; was launched by the Department of Social Justice and Empowerment, Government of Rajasthan. The scheme aims to provide financial aid and rehabilitation support to to destitute individuals who are completely dependent, orphaned, abandoned by their parents, or have no one to care for them. Under this scheme, men and women are provided one-time financial assistance and support for admission to day-care centers or old-age homes.\n",
+      "benefits_md": "> **One-Time Financial Assistance:**\n\n\n- Under this scheme, eligible women and men receive a one-time financial assistance of up to ₹2,000/-.\n\n> **Admission to Day-Care Centers and Old-Age Homes:**\n\n\n- Admission into day-care centers and old-age homes run by the Social Justice and Empowerment Department and funded by the state and central government.\n\n> **Provision for Pension Approval:**\n\n\n- If the destitute applicant qualifies for Old Age Pension, Widow Pension, or Disability Pension, then the pension will be sanctioned within one month of identification.\n\n",
+      "briefDescription": "The scheme aims to provide financial assistance and rehabilitation support to destitute individuals who are orphaned, abandoned by their parents, or have no one to care for them. Beneficiaries receive one-time financial aid and support for admission to day-care centers or old-age homes.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Mukhyamantri Asahaya Punarwas Yojana\" was launched by the Department of Social Justice and Empowerment, Government of Rajasthan. The scheme aims to provide financial aid and rehabilitation support to to destitute individuals who are completely dependent, orphaned, abandoned by their parents, or have no one to care for them. Under this scheme, men and women are provided one-time financial assistance and support for admission to day-care centers or old-age homes."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "One-Time Financial Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Under this scheme, eligible women and men receive a one-time financial assistance of up to ₹2,000/-."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Admission to Day-Care Centers and Old-Age Homes:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Admission into day-care centers and old-age homes run by the Social Justice and Empowerment Department and funded by the state and central government."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Provision for Pension Approval:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the destitute applicant qualifies for Old Age Pension, Widow Pension, or Disability Pension, then the pension will be sanctioned within one month of identification."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The applicant may submit application on a plain paper to the district collector of their respective district."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application, attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Upon receipt, the application is scrutinized and approved by the Zila Parishad (District Council)."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process:**\n\n**Step 1:** The applicant may submit application on a plain paper to the district collector of their respective district.\n**Step 2:** In the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Upon receipt, the application is scrutinized and approved by the Zila Parishad (District Council).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of the Rajasthan.\n1. The applicant should belong to one of the following categories:\n\n\n- Destitute individual with no one to care for them.\n- Individual abandoned by their parents.\n- Orphaned, destitute or completely dependent individual.\n\n**Note:** The applicant should not already be receiving benefits under pension schemes (for financial aid support).\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of the Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to one of the following categories:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Destitute individual with no one to care for them."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Individual abandoned by their parents."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Orphaned, destitute or completely dependent individual."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " The applicant should not already be receiving benefits under pension schemes (for financial aid support)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "अनाथ",
+        "वरिष्ठ नागरिक",
+        "पुनर्वास",
+        "बेसहारा",
+        "डे-केयर सेंटर",
+        "वृद्धाश्रम"
+      ],
+      "schemeName": "मुख्यमंत्री सहाय पुनर्वास योजना",
+      "schemeShortTitle": "MAPY",
+      "implementingAgency": "Department Of Social Justice And Empowerment, Government Of Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Rehabilitation",
+          "label": "पुनर्वास"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        },
+        {
+          "value": "Shelter",
+          "label": "आश्रय"
+        },
+        {
+          "value": "Pension",
+          "label": "पेंशन"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=111"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री सहाय पुनर्वास योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इस योजना का उद्देश्य बेसहारा व्यक्तियों को वित्तीय सहायता और पुनर्वास सहायता प्रदान करना है जो पूरी तरह से निर्भर हैं, अनाथ हैं, अपने माता-पिता द्वारा छोड़ दिए गए हैं, या उनकी देखभाल करने वाला कोई नहीं है। इस योजना के तहत, पुरुषों और महिलाओं को डे-केयर केंद्रों या वृद्धाश्रमों में प्रवेश के लिए एक बार की वित्तीय सहायता और सहायता प्रदान की जाती है।",
+      "benefits_md": "एकमुश्त वित्तीय सहायता-इस योजना के तहत पात्र महिलाओं और पुरुषों को 2,000 रुपये तक की एकमुश्त वित्तीय सहायता मिलती है। > * * डे-केयर केंद्रों और वृद्धाश्रमों में प्रवेशः * *-सामाजिक न्याय और अधिकारिता विभाग द्वारा संचालित और राज्य और केंद्र सरकार द्वारा वित्त पोषित डे-केयर केंद्रों और वृद्धाश्रमों में प्रवेश। > * * पेंशन अनुमोदन के लिए प्रावधानः * *-यदि निराश्रित आवेदक वृद्धावस्था पेंशन, विधवा पेंशन या दिव्यांगता पेंशन के लिए योग्य है, तो पहचान के एक महीने के भीतर पेंशन को मंजूरी दे दी जाएगी।",
+      "briefDescription": "इस योजना का उद्देश्य उन बेसहारा व्यक्तियों को वित्तीय सहायता और पुनर्वास सहायता प्रदान करना है जो अनाथ हैं, अपने माता-पिता द्वारा छोड़ दिए गए हैं, या उनकी देखभाल करने वाला कोई नहीं है। लाभार्थियों को डे-केयर केंद्रों या वृद्धाश्रमों में प्रवेश के लिए एक बार की वित्तीय सहायता और सहायता प्राप्त होती है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"मुख्यमंत्री सहाय पुनरुत्थान योजना\" राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इस योजना का उद्देश्य बेसहारा व्यक्तियों को वित्तीय सहायता और पुनर्वास सहायता प्रदान करना है जो पूरी तरह से निर्भर हैं, अनाथ हैं, अपने माता-पिता द्वारा छोड़ दिए गए हैं, या उनकी देखभाल करने वाला कोई नहीं है। इस योजना के तहत, पुरुषों और महिलाओं को डे-केयर केंद्रों या वृद्धाश्रमों में प्रवेश के लिए एक बार की वित्तीय सहायता और सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "एक बार की वित्तीय सहायता -",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, पात्र महिलाओं और पुरुषों को ₹2,000/- तक की एकमुश्त वित्तीय सहायता प्राप्त होती है"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "डे-केयर केंद्रों और वृद्धाश्रमों में प्रवेशः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग द्वारा संचालित और राज्य और केंद्र सरकार द्वारा वित्त पोषित दिवस-देखभाल केंद्रों और वृद्धाश्रमों में प्रवेश।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "पेंशन अनुमोदन के लिए प्रावधानः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि निराश्रित आवेदक वृद्धावस्था पेंशन, विधवा पेंशन या दिव्यांगता पेंशन के लिए अर्हता प्राप्त करता है, तो पहचान के एक महीने के भीतर पेंशन को मंजूरी दे दी जाएगी।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन प्रक्रियाः",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण 1:"
+              },
+              {
+                "text": "आवेदक अपने संबंधित जिले के जिला कलेक्टर को सादे कागज पर आवेदन जमा कर सकता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदन में, सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "प्राप्त होने पर, आवेदन की जांच की जाती है और जिला परिषद (जिला परिषद) द्वारा अनुमोदित किया जाता है।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * आवेदन प्रक्रियाः * * * * चरण 1: * * आवेदक अपने संबंधित जिले के जिला कलेक्टर को सादे कागज पर आवेदन जमा कर सकता है। चरण 2: आवेदन में सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * प्राप्त होने पर, आवेदन की जांच की जाती है और जिला परिषद (जिला परिषद) द्वारा अनुमोदित किया जाता है।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Male"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Transgender"
+        },
+        {
+          "gte": 0,
+          "lte": 100,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः - बेसहारा व्यक्ति जिसकी देखभाल करने वाला कोई नहीं है।-वह व्यक्ति जिसे उसके माता-पिता ने छोड़ दिया है।-अनाथ, बेसहारा या पूरी तरह से आश्रित व्यक्ति। * * नोटः आवेदक को पहले से ही पेंशन योजनाओं (वित्तीय सहायता सहायता के लिए) के तहत लाभ प्राप्त नहीं होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बेसहारा व्यक्ति जिसकी देखभाल करने वाला कोई नहीं है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अपने माता-पिता द्वारा परित्यक्त व्यक्ति।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनाथ, निराश्रित या पूरी तरह से आश्रित व्यक्ति।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true
+            },
+            {
+              "text": "आवेदक को पहले से ही पेंशन योजनाओं (वित्तीय सहायता सहायता के लिए) के तहत लाभ प्राप्त नहीं होना चाहिए।"
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "isEconomicDistress": "Yes",
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 3,
+        "value": "unemployed",
+        "label": "Unemployed"
+      },
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Male"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Transgender"
+      },
+      {
+        "gte": 0,
+        "lte": 100,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का निवासी होना चाहिए। 1. आवेदक निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः - बेसहारा व्यक्ति जिसकी देखभाल करने वाला कोई नहीं है।-वह व्यक्ति जिसे उसके माता-पिता ने छोड़ दिया है।-अनाथ, बेसहारा या पूरी तरह से आश्रित व्यक्ति। * * नोटः आवेदक को पहले से ही पेंशन योजनाओं (वित्तीय सहायता सहायता के लिए) के तहत लाभ प्राप्त नहीं होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक निम्नलिखित श्रेणियों में से किसी एक से संबंधित होना चाहिएः"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "बेसहारा व्यक्ति जिसकी देखभाल करने वाला कोई नहीं है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अपने माता-पिता द्वारा परित्यक्त व्यक्ति।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "अनाथ, निराश्रित या पूरी तरह से आश्रित व्यक्ति।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "ध्यान देंः",
+            "bold": true
+          },
+          {
+            "text": "आवेदक को पहले से ही पेंशन योजनाओं (वित्तीय सहायता सहायता के लिए) के तहत लाभ प्राप्त नहीं होना चाहिए।"
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "isEconomicDistress": "Yes",
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 3,
+      "value": "unemployed",
+      "label": "Unemployed"
+    },
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card or Any Valid Identity Proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Residence"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any Other Document if Required"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card or Any Valid Identity Proof\n1. Proof of Residence\n1. Any Other Document if Required\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड या कोई वैध पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निवास का प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि आवश्यक हो तो कोई अन्य दस्तावेज़"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card or Any Valid Identity Proof\n1. Proof of Residence\n1. Any Other Document if Required\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who implements this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme is implemented by the Social Justice and Empowerment Department through District Authorities."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme is implemented by the Social Justice and Empowerment Department through District Authorities.\n"
+        },
+        {
+          "question": "What is the financial assistance amount provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A one-time financial assistance of up to ₹2,000 is provided."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A one-time financial assistance of up to ₹2,000 is provided.\n"
+        },
+        {
+          "question": "Who can apply under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Destitute, abandoned, childless, and shelterless individuals residing in Rajasthan can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Destitute, abandoned, childless, and shelterless individuals residing in Rajasthan can apply.\n"
+        },
+        {
+          "question": "Is there any age limit to apply?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No specific age limit is mentioned, but elderly and helpless individuals are prioritized."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No specific age limit is mentioned, but elderly and helpless individuals are prioritized.\n"
+        },
+        {
+          "question": "Can an applicant already getting pension apply for financial assistance?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, if already receiving a pension, financial assistance under this scheme is not available. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, if already receiving a pension, financial assistance under this scheme is not available. \n"
+        },
+        {
+          "question": "What if a destitute person qualifies for a pension but has not applied?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "They will be enrolled in the relevant pension scheme within one month of identification."
+                }
+              ]
+            }
+          ],
+          "answer_md": "They will be enrolled in the relevant pension scheme within one month of identification.\n"
+        },
+        {
+          "question": "Can I receive benefits more than once under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the financial assistance is provided only once."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the financial assistance is provided only once.\n"
+        },
+        {
+          "question": "Are day-care centers and old-age homes free of cost?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Admission facilities are provided under government-supported centers, with minimal or no cost."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Admission facilities are provided under government-supported centers, with minimal or no cost.\n"
+        },
+        {
+          "question": "How can I apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant need to submit a plain application letter to the District Collector."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant need to submit a plain application letter to the District Collector.\n"
+        },
+        {
+          "question": "Is this scheme available throughout Rajasthan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, it is available across all districts of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, it is available across all districts of Rajasthan.\n"
+        },
+        {
+          "question": "Where can I get help for applying?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant can contact the District Officer of the Social Justice and Empowerment Department."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant can contact the District Officer of the Social Justice and Empowerment Department.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना को सामाजिक न्याय और अधिकारिता विभाग द्वारा जिला प्राधिकरणों के माध्यम से लागू किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The scheme is implemented by the Social Justice and Empowerment Department through District Authorities.\n"
+        },
+        {
+          "question": "वित्तीय सहायता राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹2,000 तक की एक बार की वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A one-time financial assistance of up to ₹2,000 is provided.\n"
+        },
+        {
+          "question": "इस योजना के तहत कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान में रहने वाले निराश्रित, परित्यक्त, निःसंतान और आश्रयहीन व्यक्ति आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Destitute, abandoned, childless, and shelterless individuals residing in Rajasthan can apply.\n"
+        },
+        {
+          "question": "क्या आवेदन करने के लिए कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "कोई विशिष्ट आयु सीमा का उल्लेख नहीं किया गया है, लेकिन बुजुर्गों और असहाय व्यक्तियों को प्राथमिकता दी जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No specific age limit is mentioned, but elderly and helpless individuals are prioritized.\n"
+        },
+        {
+          "question": "क्या पहले से ही पेंशन प्राप्त करने वाला आवेदक वित्तीय सहायता के लिए आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यदि पहले से ही पेंशन प्राप्त कर रहे हैं, तो इस योजना के तहत वित्तीय सहायता उपलब्ध नहीं है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, if already receiving a pension, financial assistance under this scheme is not available. \n"
+        },
+        {
+          "question": "क्या होगा यदि कोई बेसहारा व्यक्ति पेंशन के लिए योग्य है लेकिन उसने आवेदन नहीं किया है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "पहचान के एक महीने के भीतर उन्हें संबंधित पेंशन योजना में नामांकित किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "They will be enrolled in the relevant pension scheme within one month of identification.\n"
+        },
+        {
+          "question": "क्या मुझे इस योजना के तहत एक से अधिक बार लाभ मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, वित्तीय सहायता केवल एक बार प्रदान की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the financial assistance is provided only once.\n"
+        },
+        {
+          "question": "क्या डे-केयर सेंटर और वृद्धाश्रम मुफ्त हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रवेश सुविधाएं सरकार द्वारा समर्थित केंद्रों के तहत न्यूनतम या बिना किसी लागत के प्रदान की जाती हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Admission facilities are provided under government-supported centers, with minimal or no cost.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को जिला कलेक्टर को एक सादा आवेदन पत्र जमा करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant need to submit a plain application letter to the District Collector.\n"
+        },
+        {
+          "question": "क्या यह योजना पूरे राजस्थान में उपलब्ध है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, यह राजस्थान के सभी जिलों में उपलब्ध है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, it is available across all districts of Rajasthan.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए मुझे कहाँ से मदद मिल सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक सामाजिक न्याय और अधिकारिता विभाग के जिला अधिकारी से संपर्क कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant can contact the District Officer of the Social Justice and Empowerment Department.\n"
+        }
+      ]
+    }
+  }
+}

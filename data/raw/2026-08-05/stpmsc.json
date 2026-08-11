@@ -1,0 +1,1142 @@
+{
+  "scheme_id": "648f618d380f8e12353fd21a",
+  "slug": "stpmsc",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "1984-04-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "Education (Elementary and Secondary) Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Learning",
+        "Student Finance",
+        "Education"
+      ],
+      "schemeName": "Schedule Tribe Pre-Metric Scholarship Class 06 To 08",
+      "schemeShortTitle": "STPMSC",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/268"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Rajasthan government aims to provide educational opportunities to students belonging to Schedule Tribe student, specifically those studying in grades 6 to 8. \nThis program targets students from Schedule Tribe whose parents/guardians are not income taxpayers and not getting any other type of scholarship or allowance for study from central, state / public sources.\n",
+      "benefits_md": "\n- For Schedule Caste Boy Students Rs. 75/- per month.\n- For Schedule Caste Girl Students Rs. 125/- per month.\n\n",
+      "briefDescription": "In the year 1984, Rajasthan Government started a scholarship to encourage the education of the Schedule Tribe.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Rajasthan government aims to provide educational opportunities to students belonging to Schedule Tribe student, specifically those studying in grades 6 to 8. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This program targets students from Schedule Tribe whose parents/guardians are not income taxpayers and not getting any other type of scholarship or allowance for study from central, state / public sources."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Schedule Caste Boy Students Rs. 75/- per month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Schedule Caste Girl Students Rs. 125/- per month."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sso.rajasthan.gov.in/register",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant to log in to "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in",
+                    "children": [
+                      {
+                        "text": "RajSSO"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " Portal using his/her SSOID."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If SSOID is not available then the applicant to first register on RajSSO Portal to create SSOID and update SSO Profile at first login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After successful authentication/login and updation of the SSOID Profile and select the scheme name. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select his/her name, the bank account and fill in personal details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upload the required document."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Clicking the “SUBMIT” button. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicant to log in to [RajSSO](https://sso.rajasthan.gov.in) Portal using his/her SSOID.1. If SSOID is not available then the applicant to first register on RajSSO Portal to create SSOID and update SSO Profile at first login.\n1. After successful authentication/login and updation of the SSOID Profile and select the scheme name. \n1. Select his/her name, the bank account and fill in personal details.\n1. Upload the required document.\n1. Clicking the “SUBMIT” button. \n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The student should belong to the Scheduled Tribe category.\n1. The student who is studying as a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities and schools recognized by the Department of Education.\n1. Students whose parents/guardians are not income taxpayers when they are not alive.\n1. The student who is not getting any other type of scholarship or allowance for study from central, state / public sources.\n1. The student who has not failed in the lower class in the last session. If he fails in any year&#39;s examination, his scholarship will be stopped, but if he fails in the same class in the next\n1. If he passes the examination, he will be eligible for the scholarship in the new class from the next session. For this, the student will have to apply for a new scholarship again.\n1. Students who are not living in hostels are run or aided by the Department of Social Justice and Empowerment.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student should belong to the Scheduled Tribe category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student who is studying as a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities and schools recognized by the Department of Education."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Students whose parents/guardians are not income taxpayers when they are not alive."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student who is not getting any other type of scholarship or allowance for study from central, state / public sources."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student who has not failed in the lower class in the last session. If he fails in any year's examination, his scholarship will be stopped, but if he fails in the same class in the next"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If he passes the examination, he will be eligible for the scholarship in the new class from the next session. For this, the student will have to apply for a new scholarship again."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Students who are not living in hostels are run or aided by the Department of Social Justice and Empowerment."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "schemeOpenDate": "1984-04-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000008,
+        "label": "शिक्षा (प्राथमिक और माध्यमिक) विभाग"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "छात्रवृत्ति और छात्र वित्त"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "वित्तीय सहायता",
+        "सीखना",
+        "छात्र वित्त",
+        "शिक्षा"
+      ],
+      "schemeName": "अनुसूचित जनजाति प्री-मेट्रिक छात्रवृत्ति कक्षा 06 से 08 तक",
+      "schemeShortTitle": "STPMSC",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/268"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "राजस्थान सरकार का उद्देश्य अनुसूचित जनजाति के छात्रों, विशेष रूप से कक्षा 6 से 8 तक पढ़ने वाले छात्रों को शैक्षिक अवसर प्रदान करना है। यह कार्यक्रम अनुसूचित जनजाति के उन छात्रों को लक्षित करता है जिनके माता-पिता/अभिभावक आय करदाता नहीं हैं और जिन्हें केंद्रीय, राज्य/सार्वजनिक स्रोतों से अध्ययन के लिए किसी अन्य प्रकार की छात्रवृत्ति या भत्ता नहीं मिलता है।",
+      "benefits_md": "- अनुसूचित जाति के लड़कों के लिए रु। 75/- प्रति माह-अनुसूचित जाति की लड़कियों के लिए रु। 125/- प्रति माह।",
+      "briefDescription": "वर्ष 1984 में, राजस्थान सरकार ने अनुसूचित जनजाति की शिक्षा को प्रोत्साहित करने के लिए छात्रवृत्ति शुरू की।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राजस्थान सरकार का उद्देश्य अनुसूचित जनजाति के छात्रों, विशेष रूप से कक्षा 6 से 8 तक पढ़ने वाले छात्रों को शैक्षिक अवसर प्रदान करना है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह कार्यक्रम अनुसूचित जनजाति के उन छात्रों को लक्षित करता है जिनके माता-पिता/अभिभावक आय करदाता नहीं हैं और जिन्हें केंद्रीय, राज्य/सार्वजनिक स्रोतों से अध्ययन के लिए किसी अन्य प्रकार की छात्रवृत्ति या भत्ता नहीं मिलता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुसूचित जाति के लड़कों के लिए रु। 75/- प्रति माह।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुसूचित जाति की लड़कियों के लिए रु। 125/- प्रति माह।"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sso.rajasthan.gov.in/register",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "लॉग इन करने के लिए आवेदक"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in",
+                    "children": [
+                      {
+                        "text": "राजएसएसओ"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "उसके एस. एस. ओ. आई. डी. का उपयोग करते हुए पोर्टल।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि एस. एस. ओ. आई. डी. उपलब्ध नहीं है तो आवेदक को पहले एस. एस. ओ. आई. डी. बनाने और पहले लॉगिन पर एस. एस. ओ. प्रोफाइल को अद्यतन करने के लिए राज. एस. एस. ओ. पोर्टल पर पंजीकरण करना होगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "एस. एस. ओ. आई. डी. प्रोफाइल के सफल प्रमाणीकरण/लॉगिन और अद्यतन के बाद योजना का नाम चुनें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "उसका नाम, बैंक खाता चुनें और व्यक्तिगत विवरण भरें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "आवश्यक दस्तावेज़ अपलोड करें।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "\"सबमिट\" बटन पर क्लिक करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1. आवेदक अपने एसएसओआईडी. 1 का उपयोग करके [राजएसएसओ] (https://sso.rajasthan.gov.in) पोर्टल पर लॉग इन करने के लिए। यदि एस. एस. ओ. आई. डी. उपलब्ध नहीं है तो आवेदक को पहले एस. एस. ओ. आई. डी. बनाने और पहले लॉगिन पर एस. एस. ओ. प्रोफाइल को अद्यतन करने के लिए राज. एस. एस. ओ. पोर्टल पर पंजीकरण करना होगा। 1. एस. एस. ओ. आई. डी. प्रोफाइल के सफल प्रमाणीकरण/लॉगिन और अद्यतन के बाद योजना का नाम चुनें। 1. उसका नाम, बैंक खाता चुनें और व्यक्तिगत विवरण भरें। 1. आवश्यक दस्तावेज़ अपलोड करें। 1. \"सबमिट\" बटन पर क्लिक करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": null,
+      "age": [
+        {
+          "category": "st",
+          "gte": 1,
+          "lte": 100
+        }
+      ],
+      "education": [
+        {
+          "qualification": "Middle (6-8)",
+          "status": "Pursuing",
+          "score_gte": null,
+          "score_lte": null
+        }
+      ],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. छात्र को अनुसूचित जनजाति श्रेणी से संबंधित होना चाहिए। 1. वह छात्र जो केंद्र सरकार, राज्य सरकार, नगर पालिकाओं और शिक्षा विभाग द्वारा मान्यता प्राप्त स्कूलों द्वारा संचालित स्कूलों में कक्षा 6 से 8 तक नियमित छात्र के रूप में पढ़ रहा है। 1. जिन छात्रों के माता-पिता/अभिभावक जीवित नहीं होने पर आयकरदाता नहीं हैं। 1. वह छात्र जिसे केंद्रीय, राज्य/सार्वजनिक स्रोतों से अध्ययन के लिए किसी अन्य प्रकार की छात्रवृत्ति या भत्ता नहीं मिल रहा है। 1. वह छात्र जो पिछले सत्र में निचली कक्षा में असफल नहीं हुआ हो। यदि वह किसी भी वर्ष की परीक्षा में विफल रहता है, तो उसकी छात्रवृत्ति बंद कर दी जाएगी, लेकिन अगर वह अगली कक्षा में उसी कक्षा में विफल रहता है। यदि वह परीक्षा उत्तीर्ण करता है, तो वह अगले सत्र से नई कक्षा में छात्रवृत्ति के लिए पात्र होगा। इसके लिए छात्र को फिर से नई छात्रवृत्ति के लिए आवेदन करना होगा। 1. जो छात्र छात्रावासों में नहीं रह रहे हैं, उन्हें सामाजिक न्याय और अधिकारिता विभाग द्वारा चलाया या सहायता प्रदान की जाती है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "छात्र को अनुसूचित जनजाति श्रेणी से संबंधित होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वह छात्र जो केंद्र सरकार, राज्य सरकार, नगर पालिकाओं और शिक्षा विभाग द्वारा मान्यता प्राप्त स्कूलों द्वारा संचालित स्कूलों में कक्षा 6 से 8 तक नियमित छात्र के रूप में पढ़ रहा है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जिन छात्रों के माता-पिता/अभिभावक जीवित नहीं होने पर आयकरदाता नहीं हैं।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वह छात्र जिसे केंद्रीय, राज्य/सार्वजनिक स्रोतों से अध्ययन के लिए किसी अन्य प्रकार की छात्रवृत्ति या भत्ता नहीं मिल रहा है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वह छात्र जो पिछले सत्र में निचली कक्षा में असफल नहीं हुआ हो। यदि वह किसी भी वर्ष की परीक्षा में असफल हो जाता है, तो उसकी छात्रवृत्ति रोक दी जाएगी, लेकिन अगर वह अगली कक्षा में उसी कक्षा में असफल हो जाता है"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि वह परीक्षा उत्तीर्ण करता है, तो वह अगले सत्र से नई कक्षा में छात्रवृत्ति के लिए पात्र होगा। इसके लिए छात्र को फिर से नई छात्रवृत्ति के लिए आवेदन करना होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जो छात्र छात्रावासों में नहीं रह रहे हैं, उन्हें सामाजिक न्याय और अधिकारिता विभाग द्वारा चलाया या सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": null,
+    "age": [
+      {
+        "category": "st",
+        "gte": 1,
+        "lte": 100
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Middle (6-8)",
+        "status": "Pursuing",
+        "score_gte": null,
+        "score_lte": null
+      }
+    ],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. छात्र को अनुसूचित जनजाति श्रेणी से संबंधित होना चाहिए। 1. वह छात्र जो केंद्र सरकार, राज्य सरकार, नगर पालिकाओं और शिक्षा विभाग द्वारा मान्यता प्राप्त स्कूलों द्वारा संचालित स्कूलों में कक्षा 6 से 8 तक नियमित छात्र के रूप में पढ़ रहा है। 1. जिन छात्रों के माता-पिता/अभिभावक जीवित नहीं होने पर आयकरदाता नहीं हैं। 1. वह छात्र जिसे केंद्रीय, राज्य/सार्वजनिक स्रोतों से अध्ययन के लिए किसी अन्य प्रकार की छात्रवृत्ति या भत्ता नहीं मिल रहा है। 1. वह छात्र जो पिछले सत्र में निचली कक्षा में असफल नहीं हुआ हो। यदि वह किसी भी वर्ष की परीक्षा में विफल रहता है, तो उसकी छात्रवृत्ति बंद कर दी जाएगी, लेकिन अगर वह अगली कक्षा में उसी कक्षा में विफल रहता है। यदि वह परीक्षा उत्तीर्ण करता है, तो वह अगले सत्र से नई कक्षा में छात्रवृत्ति के लिए पात्र होगा। इसके लिए छात्र को फिर से नई छात्रवृत्ति के लिए आवेदन करना होगा। 1. जो छात्र छात्रावासों में नहीं रह रहे हैं, उन्हें सामाजिक न्याय और अधिकारिता विभाग द्वारा चलाया या सहायता प्रदान की जाती है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "छात्र को अनुसूचित जनजाति श्रेणी से संबंधित होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वह छात्र जो केंद्र सरकार, राज्य सरकार, नगर पालिकाओं और शिक्षा विभाग द्वारा मान्यता प्राप्त स्कूलों द्वारा संचालित स्कूलों में कक्षा 6 से 8 तक नियमित छात्र के रूप में पढ़ रहा है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "जिन छात्रों के माता-पिता/अभिभावक जीवित नहीं होने पर आयकरदाता नहीं हैं।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वह छात्र जिसे केंद्रीय, राज्य/सार्वजनिक स्रोतों से अध्ययन के लिए किसी अन्य प्रकार की छात्रवृत्ति या भत्ता नहीं मिल रहा है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "वह छात्र जो पिछले सत्र में निचली कक्षा में असफल नहीं हुआ हो। यदि वह किसी भी वर्ष की परीक्षा में असफल हो जाता है, तो उसकी छात्रवृत्ति रोक दी जाएगी, लेकिन अगर वह अगली कक्षा में उसी कक्षा में असफल हो जाता है"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "यदि वह परीक्षा उत्तीर्ण करता है, तो वह अगले सत्र से नई कक्षा में छात्रवृत्ति के लिए पात्र होगा। इसके लिए छात्र को फिर से नई छात्रवृत्ति के लिए आवेदन करना होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "जो छात्र छात्रावासों में नहीं रह रहे हैं, उन्हें सामाजिक न्याय और अधिकारिता विभाग द्वारा चलाया या सहायता प्रदान की जाती है।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Annual Income Of The Parent / Guardian - Non-Tax Payee."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Janaadhaar Card Details Of Family And Student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Details Linked With Janaadhaar Card Of Either The Family Head Or Student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth Certificate."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card.\n1. Annual Income Of The Parent / Guardian - Non-Tax Payee.\n1. Janaadhaar Card Details Of Family And Student.\n1. Bank Details Linked With Janaadhaar Card Of Either The Family Head Or Student.\n1. Caste Certificate.\n1. Birth Certificate.\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "माता-पिता/अभिभावक की वार्षिक आय-गैर-कर दाता।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जनाधार कार्ड परिवार और छात्र का विवरण।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक विवरण परिवार के मुखिया या छात्र के जनाधार कार्ड से जुड़ा हुआ है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन्म प्रमाण पत्र।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Aadhaar Card.\n1. Annual Income Of The Parent / Guardian - Non-Tax Payee.\n1. Janaadhaar Card Details Of Family And Student.\n1. Bank Details Linked With Janaadhaar Card Of Either The Family Head Or Student.\n1. Caste Certificate.\n1. Birth Certificate.\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In the year 1984, Rajasthan Government started a scholarship to encourage the education of the Schedule Tribe."
+                }
+              ]
+            }
+          ],
+          "answer_md": "In the year 1984, Rajasthan Government started a scholarship to encourage the education of the Schedule Tribe.\n"
+        },
+        {
+          "question": "What are the benefits under the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Rs. 75/- per month to Male Scheduled Tribe students studying in classes 6 to 8.\n2. Rs. 125/- per month to Female Scheduled Tribe students studying in classes 6 to 8 "
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Rs. 75/- per month to Male Scheduled Tribe students studying in classes 6 to 8.\n2. Rs. 125/- per month to Female Scheduled Tribe students studying in classes 6 to 8 \n"
+        },
+        {
+          "question": "Who can get the benefits of the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The student should belong to the Scheduled Tribe category and full fill the eligibility criteria. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "The student should belong to the Scheduled Tribe category and full fill the eligibility criteria. \n"
+        },
+        {
+          "question": "Is other than Scheduled Tribe (ST) student get the benefits of the scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, The student should belong to the Scheduled Tribe (ST) category only."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, The student should belong to the Scheduled Tribe (ST) category only.\n"
+        },
+        {
+          "question": "What Is The Education Qualification For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The student who is studying as a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities and schools recognized by the Department of Education."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The student who is studying as a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities and schools recognized by the Department of Education.\n"
+        },
+        {
+          "question": "Can other education scheme beneficiaries also get benefits from this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, Other Education Scheme Beneficiaries will not be considered. "
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, Other Education Scheme Beneficiaries will not be considered. \n"
+        },
+        {
+          "question": "What is the financial eligibility for applicant ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Student guardians should not be income taxpayers."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Student guardians should not be income taxpayers.\n"
+        },
+        {
+          "question": "How To Apply For The Scheme ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 3. Select his/her name, the bank account and fill in personal details. 4. Upload the required documents. 5. Click on the “SUBMIT” button."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 3. Select his/her name, the bank account and fill in personal details. 4. Upload the required documents. 5. Click on the \"SUBMIT\" button.\n"
+        },
+        {
+          "question": "What Documents Are Needed ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. Aadhaar Card.  \n2. Annual Income Of The Parent / Guardian - Non-Tax Payee.   \n3. Janaadhaar Card Details Of Family And Student.  \n4. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.\n5. Caste Certificate.   \n6. Birth Certificate."
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhaar Card.  \n2. Annual Income Of The Parent / Guardian - Non-Tax Payee.   \n3. Janaadhaar Card Details Of Family And Student.  \n4. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.\n5. Caste Certificate.   \n6. Birth Certificate.\n"
+        },
+        {
+          "question": "What is the official web portal to apply ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Use the following link.\nURL: https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following link.\nURL: https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "यह क्या योजना है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वर्ष 1984 में, राजस्थान सरकार ने अनुसूचित जनजाति की शिक्षा को प्रोत्साहित करने के लिए छात्रवृत्ति शुरू की।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "In the year 1984, Rajasthan Government started a scholarship to encourage the education of the Schedule Tribe.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या लाभ हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. रु. कक्षा 6 से 8 तक पढ़ने वाले अनुसूचित जनजाति के पुरुष छात्रों के लिए 75 रुपये प्रति माह। 2. रु. कक्षा 6 से 8 तक पढ़ने वाली अनुसूचित जनजाति की महिला छात्रों के लिए 125/- प्रति माह"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Rs. 75/- per month to Male Scheduled Tribe students studying in classes 6 to 8.\n2. Rs. 125/- per month to Female Scheduled Tribe students studying in classes 6 to 8 \n"
+        },
+        {
+          "question": "योजना का लाभ किसे मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्र को अनुसूचित जनजाति श्रेणी से संबंधित होना चाहिए और पात्रता मानदंड को पूरा करना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The student should belong to the Scheduled Tribe category and full fill the eligibility criteria. \n"
+        },
+        {
+          "question": "क्या अनुसूचित जनजाति (एसटी) के अलावा अन्य छात्रों को इस योजना का लाभ मिलता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, छात्र को केवल अनुसूचित जनजाति (एसटी) श्रेणी से संबंधित होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, The student should belong to the Scheduled Tribe (ST) category only.\n"
+        },
+        {
+          "question": "इस योजना के लिए शिक्षा योग्यता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "वह छात्र जो केंद्र सरकार, राज्य सरकार, नगर पालिकाओं और शिक्षा विभाग द्वारा मान्यता प्राप्त स्कूलों द्वारा संचालित स्कूलों में कक्षा 6 से 8 तक नियमित छात्र के रूप में पढ़ रहा है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The student who is studying as a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities and schools recognized by the Department of Education.\n"
+        },
+        {
+          "question": "क्या अन्य शिक्षा योजना लाभार्थियों को भी इस योजना का लाभ मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, अन्य शिक्षा योजनाओं के लाभार्थियों पर विचार नहीं किया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, Other Education Scheme Beneficiaries will not be considered. \n"
+        },
+        {
+          "question": "आवेदक के लिए वित्तीय पात्रता क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "छात्र अभिभावक को आयकरदाता नहीं होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Student guardians should not be income taxpayers.\n"
+        },
+        {
+          "question": "योजना के लिए आवेदन कैसे करें?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आवेदक को अपने एस. एस. ओ. आई. डी. का उपयोग करके राज. एस. एस. ओ. पोर्टल पर लॉग इन करना होगा। 2. एस. एस. ओ. आई. डी. प्रोफाइल के सफल प्रमाणीकरण/लॉगिन और अद्यतन के बाद योजना का नाम चुनें। 3. उसका नाम, बैंक खाता चुनें और व्यक्तिगत विवरण भरें। 4. आवश्यक दस्तावेज अपलोड करें। 5. \"सबमिट\" बटन पर क्लिक करें।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 3. Select his/her name, the bank account and fill in personal details. 4. Upload the required documents. 5. Click on the \"SUBMIT\" button.\n"
+        },
+        {
+          "question": "किन दस्तावेजों की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. आधार कार्ड। 2. माता-पिता/अभिभावक की वार्षिक आय-गैर-कर दाता। 3. जनाधार कार्ड परिवार और छात्र का विवरण। 4. बैंक विवरण परिवार के मुखिया या छात्र के जनाधार कार्ड से जुड़ा हुआ है। 5. जाति प्रमाण पत्र। 6. जन्म प्रमाण पत्र।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "1. Aadhaar Card.  \n2. Annual Income Of The Parent / Guardian - Non-Tax Payee.   \n3. Janaadhaar Card Details Of Family And Student.  \n4. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.\n5. Caste Certificate.   \n6. Birth Certificate.\n"
+        },
+        {
+          "question": "आवेदन करने के लिए आधिकारिक वेब पोर्टल क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "निम्नलिखित लिंक का उपयोग करें। यूआरएलः https://sso.rajasthan.gov.in/signin"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Use the following link.\nURL: https://sso.rajasthan.gov.in/signin\n"
+        }
+      ]
+    }
+  }
+}

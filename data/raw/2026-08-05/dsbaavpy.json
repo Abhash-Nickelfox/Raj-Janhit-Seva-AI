@@ -1,0 +1,2300 @@
+{
+  "scheme_id": "67bb637e550228dc0e102e22",
+  "slug": "dsbaavpy",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Inter-caste",
+        "Marriage"
+      ],
+      "schemeName": "Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana",
+      "schemeShortTitle": "DSBAAVPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Marriage",
+          "label": "Marriage"
+        }
+      ],
+      "schemeOpenDate": "2017-08-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Tenders/43610.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana&quot; implemented by the Social Justice and Empowerment Department, Government of Rajasthan. Under this scheme, a financial incentive of ₹5,00,000/- is provided to inter-caste married couples to support their married life and household setup. \n> ***Objectives:***\n\n\n- To eliminate caste-based discrimination and untouchability.\n- To promote social harmony by encouraging inter-caste marriages between Scheduled Caste individuals and upper-caste Hindus.\n- To provide financial assistance to inter-caste couples for economic stability and social acceptance.\n\n<br>\n\n",
+      "benefits_md": "> **Financial Assistance:**\n\n\n- Financial assistance of ₹5,00,000/- is provided per couple.\n\n> **Disbursement Process:**\n\n\n- ₹2,50,000/- is deposited as a fixed deposit in a nationalized bank for eight years (not withdrawable before maturity).\n- ₹2,50,000/- is directly transferred to the couple’s joint bank account for household and essential needs.\n\n<br>\n\n",
+      "briefDescription": "The \"Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana\" aims to eliminate caste discrimination and promote social harmony. Under this scheme, eligible inter-caste married couples receive a financial incentive.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana\" implemented by the Social Justice and Empowerment Department, Government of Rajasthan. Under this scheme, a financial incentive of ₹5,00,000/- is provided to inter-caste married couples to support their married life and household setup. "
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Objectives:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To eliminate caste-based discrimination and untouchability."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To promote social harmony by encouraging inter-caste marriages between Scheduled Caste individuals and upper-caste Hindus."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To provide financial assistance to inter-caste couples for economic stability and social acceptance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹5,00,000/- is provided per couple."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Disbursement Process:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹2,50,000/- is deposited as a fixed deposit in a nationalized bank for eight years (not withdrawable before maturity)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹2,50,000/- is directly transferred to the couple’s joint bank account for household and essential needs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "underline": true,
+                "italic": true,
+                "text": "Verfification Process:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The District Social Justice and Empowerment Officer will verify the application within one month."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If discrepancies are found, the applicant will be given one month to rectify the issues."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upon successful verification, the approved financial incentive is disbursed in two parts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE: The application must be submitted within one year from the date of marriage.",
+                "bold": true
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n***Verfification Process:***\n\n- The District Social Justice and Empowerment Officer will verify the application within one month.\n- If discrepancies are found, the applicant will be given one month to rectify the issues.\n- Upon successful verification, the approved financial incentive is disbursed in two parts.\n\n<br>\n\n**NOTE: The application must be submitted within one year from the date of marriage.**\n"
+      },
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “IFMS-RAJSSP\" option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Select \"Continue to RajSSP\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5:",
+                "bold": true
+              },
+              {
+                "text": " Now click on \"Apply for Scheme\" on screen. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6: ",
+                "bold": true
+              },
+              {
+                "text": "In this new page, will get a list of names of all the schemes, and click on the name of \"SCHOLARSHIP (SJE)\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-7: "
+              },
+              {
+                "text": "Fill out all relevant details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8: ",
+                "bold": true
+              },
+              {
+                "text": "Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “IFMS-RAJSSP&quot; option.\n**Step-4:** Select &quot;Continue to RajSSP&quot;. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes, and click on the name of &quot;SCHOLARSHIP (SJE)&quot;\n**Step-7:** Fill out all relevant details. \n**Step-8:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. One of the applicants should belong to the general category, and the other should be from the scheduled caste.\n1. Both applicants should be natives of Rajasthan.\n1. The age of the applicant should not be more than 35 years (females above 18 years and males above 21 years) at the time of applying. \n1. The annual family income of the couple must not exceed ₹2,50,000/-.\n1. The applicant should not have any criminal record.\n1. The couple must not have received financial benefits from similar state/central government schemes.\n1. There should be no case of remarriage; the benefit of this scheme is given only on the first marriage.\n1. A man who marries a widow shall be free from the contract of first marriage.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One of the applicants should belong to the general category, and the other should be from the scheduled caste."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Both applicants should be natives of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the applicant should not be more than 35 years (females above 18 years and males above 21 years) at the time of applying. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The annual family income of the couple must not exceed ₹2,50,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not have any criminal record."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The couple must not have received financial benefits from similar state/central government schemes."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "There should be no case of remarriage; the benefit of this scheme is given only on the first marriage."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A man who marries a widow shall be free from the contract of first marriage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "अंतर-जाति",
+        "शादी"
+      ],
+      "schemeName": "डॉ. सविता बेन अम्बेडकर अंतर्राष्ट्रीय विवाह प्रोत्साहन योजना",
+      "schemeShortTitle": "DSBAAVPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "आर्थिक सहायता"
+        },
+        {
+          "value": "Marriage",
+          "label": "शादी"
+        }
+      ],
+      "schemeOpenDate": "2017-08-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      }
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Tenders/43610.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "द & quot; डॉ. सविता बेन अम्बेडकर अंतर्राष्ट्रीय विवाह प्रोत्साहन योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया गया। इस योजना के तहत, अंतर-जातीय विवाहित जोड़ों को उनके विवाहित जीवन और घरेलू व्यवस्था का समर्थन करने के लिए ₹ 5,00,000 का वित्तीय प्रोत्साहन प्रदान किया जाता है। जाति आधारित भेदभाव और अस्पृश्यता को समाप्त करना-अनुसूचित जाति के व्यक्तियों और उच्च जाति के हिंदुओं के बीच अंतर-जाति विवाह को प्रोत्साहित करके सामाजिक सद्भाव को बढ़ावा देना-आर्थिक स्थिरता और सामाजिक स्वीकृति के लिए अंतर-जाति जोड़ों को वित्तीय सहायता प्रदान करना",
+      "benefits_md": "> * * वित्तीय सहायताः * *-प्रति दंपति ₹ 5,00,000-की वित्तीय सहायता प्रदान की जाती है। * *-₹ 2,50,000-आठ साल के लिए एक राष्ट्रीयकृत बैंक में एक सावधि जमा के रूप में जमा किया जाता है (परिपक्वता से पहले निकासी योग्य नहीं)-₹ 2,50,000-घरेलू और आवश्यक जरूरतों के लिए सीधे जोड़े के संयुक्त बैंक खाते में स्थानांतरित किया जाता है",
+      "briefDescription": "\"डॉ. सविता बेन अम्बेडकर अंतर्राष्ट्रीय विवाह प्रोत्साहन योजना\" का उद्देश्य जातिगत भेदभाव को समाप्त करना और सामाजिक सद्भाव को बढ़ावा देना है। इस योजना के तहत पात्र अंतरजातीय विवाहित जोड़ों को वित्तीय प्रोत्साहन मिलता है।",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा \"डॉ. सविता बेन अम्बेडकर अंतर्राष्ट्रीय विवाह प्रोत्साहन योजना\" लागू की गई है। इस योजना के तहत, अंतर-जातीय विवाहित जोड़ों को उनके विवाहित जीवन और घरेलू व्यवस्था का समर्थन करने के लिए ₹ 5,00,000 का वित्तीय प्रोत्साहन प्रदान किया जाता है।"
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "उद्देश्यः",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति आधारित भेदभाव और अस्पृश्यता को समाप्त करना।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अनुसूचित जाति के व्यक्तियों और उच्च जाति के हिंदुओं के बीच अंतर-जातीय विवाह को प्रोत्साहित करके सामाजिक सद्भाव को बढ़ावा देना।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आर्थिक स्थिरता और सामाजिक स्वीकृति के लिए अंतर-जातीय जोड़ों को वित्तीय सहायता प्रदान करना।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹ 5,00,000-की वित्तीय सहायता प्रति दंपति प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "संवितरण प्रक्रियाः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹ 2,50,000-आठ साल के लिए एक राष्ट्रीयकृत बैंक में सावधि जमा के रूप में जमा किया जाता है (परिपक्वता से पहले निकासी योग्य नहीं)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹ 2,50,000-घरेलू और आवश्यक जरूरतों के लिए सीधे जोड़े के संयुक्त बैंक खाते में स्थानांतरित किया जाता है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 2:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 3:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण 4:",
+                "bold": true
+              },
+              {
+                "text": "संबंधित प्राधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन प्रस्तुत किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "underline": true,
+                "italic": true,
+                "text": "सत्यापन प्रक्रियाः"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "जिला सामाजिक न्याय और अधिकारिता अधिकारी एक महीने के भीतर आवेदन का सत्यापन करेंगे।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "यदि विसंगतियाँ पाई जाती हैं, तो आवेदक को समस्याओं को सुधारने के लिए एक महीने का समय दिया जाएगा।"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "सफल सत्यापन पर, अनुमोदित वित्तीय प्रोत्साहन दो भागों में वितरित किया जाता है।"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "नोटः आवेदन विवाह की तारीख से एक वर्ष के भीतर जमा किया जाना चाहिए।",
+                "bold": true
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * आवेदक को संबंधित योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों की प्रतियां एकत्र करनी चाहिए। * * चरण 2: * * आवेदक को निकटतम ई-मित्र केंद्र पर जाना चाहिए और बायोमेट्रिक सत्यापन प्रक्रिया को पूरा करना चाहिए। * * चरण 3: * * आवेदक को यह सुनिश्चित करना चाहिए कि ई-मित्र केंद्र एजेंट आवेदन पत्र में सभी अनिवार्य क्षेत्रों को पूरा करता है और सभी आवश्यक दस्तावेजों की प्रतियां अपलोड करता है। * * संबंधित प्राधिकारी से रसीद या पावती का अनुरोध करें जिसे आवेदन प्रस्तुत किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो। * * *-जिला सामाजिक न्याय और अधिकारिता अधिकारी एक महीने के भीतर आवेदन का सत्यापन करेगा।-यदि विसंगतियां पाई जाती हैं, तो आवेदक को मुद्दों को सुधारने के लिए एक महीने का समय दिया जाएगा।-सफल सत्यापन के बाद, अनुमोदित वित्तीय प्रोत्साहन दो भागों में वितरित किया जाता है। आवेदन विवाह की तारीख से एक वर्ष के भीतर प्रस्तुत किया जाना चाहिए"
+      },
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "पंजीकरण",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "विकल्प पर क्लिक करें \""
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "रजिस्टर करें"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "नागरिक"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "अपना नाम, परिवार के मुखिया का नाम और अन्य सभी सदस्यों का चयन करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पंजीकरण पूरा करने के लिए 'सत्यापित ओ. टी. पी.' बटन पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "पासवर्ड दर्ज करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब कूटशब्द बनाएँ।"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें।"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "आवेदन करें",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-1:",
+                "bold": true
+              },
+              {
+                "text": "आवेदक को जाना होगा"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "आधिकारिक पोर्टल"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-2:",
+                "bold": true
+              },
+              {
+                "text": "लॉग इन करने के बाद डैशबोर्ड खुल जाएगा।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-3:",
+                "bold": true
+              },
+              {
+                "text": "\"आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी\". विकल्प पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-4:",
+                "bold": true
+              },
+              {
+                "text": "\"राजएसएसपी को जारी रखें\" चुनें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-5:",
+                "bold": true
+              },
+              {
+                "text": "अब स्क्रीन पर \"योजना के लिए आवेदन करें\" पर क्लिक करें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-6:",
+                "bold": true
+              },
+              {
+                "text": "इस नए पृष्ठ में, सभी योजनाओं के नामों की सूची मिलेगी, और \"स्कॉलरशिप (एसजेई)\" के नाम पर क्लिक करें"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "चरण-7:"
+              },
+              {
+                "text": "सभी प्रासंगिक विवरण भरें।"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "चरण-8:",
+                "bold": true
+              },
+              {
+                "text": "प्रस्तुत करें।"
+              }
+            ]
+          }
+        ],
+        "process_md": "> * * पंजीकरण * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। * * चरण-2: * * \"[रजिस्टर] (https://sso.rajasthan.gov.in/register)\" विकल्प पर क्लिक करें। * * चरण-3: * * फिर आपको एसएसओ पंजीकरण पृष्ठ पर पुनर्निर्देशित किया जाएगा। पंजीकरण पृष्ठ निम्नलिखित विकल्पों के साथ दिखाई देगा। - नागरिक * * चरण-4: * * आगे की प्रक्रिया के लिए जन आधार या गूगल में से किसी एक विकल्प को चुनें। जन आधारः जन आधार संख्या दर्ज करें, 'अगला' बटन पर क्लिक करें,-अपना नाम, परिवार के मुखिया और अन्य सभी सदस्यों का नाम चुनें और-'सेंड ओ. टी. पी.' बटन पर क्लिक करें। 'ओ. टी. पी.' दर्ज करें और-पंजीकरण पूरा करने के लिए 'ओ. टी. पी. सत्यापित करें' बटन पर क्लिक करें। - गूगलः जीमेल आईडी दर्ज करें, 'अगला' बटन पर क्लिक करें,-पासवर्ड दर्ज करें। - स्क्रीन पर एक नया लिंक दिखाई देता है, अब नए एसएसओ लिंक पर क्लिक करें। - एस. एस. ओ. आई. डी. स्क्रीन पर दिखाई देगी, अब पासवर्ड बनाएँ। - मोबाइल नंबर दर्ज करें, पंजीकरण पर क्लिक करें। > * * आवेदन करें * * * * चरण-1: * * आवेदक को [आधिकारिक पोर्टल] (https://sso.rajasthan.gov.in/signin) पर जाना होगा। चरण-2: लॉग इन करने के बाद डैशबोर्ड खुल जाएगा। * * चरण-3: * * 'आई. एफ. एम. एस.-आर. ए. जे. एस. एस. पी.' विकल्प पर क्लिक करें। * * चरण-4: * * 'राजएसएसपी' को जारी रखें 'का चयन करें। * * चरण-5: * * अब स्क्रीन पर 'योजना के लिए आवेदन करें' पर क्लिक करें। * * चरण-6: * * इस नए पृष्ठ में, सभी योजनाओं के नामों की एक सूची मिलेगी, और 'स्कॉलरशिप (एसजेई)' के नाम पर क्लिक करें। * * चरण-8: * * जमा करें।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 35,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदकों में से एक सामान्य श्रेणी से संबंधित होना चाहिए, और दूसरा अनुसूचित जाति से होना चाहिए। 1. दोनों आवेदक राजस्थान के मूल निवासी होने चाहिए। 1. आवेदन करते समय आवेदक की आयु 35 वर्ष (महिलाएँ 18 वर्ष से अधिक और पुरुष 21 वर्ष से अधिक) से अधिक नहीं होनी चाहिए। 1. दंपति की वार्षिक पारिवारिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए। 1. आवेदक का कोई आपराधिक रिकॉर्ड नहीं होना चाहिए। 1. दंपति को राज्य/केंद्र सरकार की समान योजनाओं से वित्तीय लाभ नहीं मिला होगा। 1. पुनर्विवाह का कोई मामला नहीं होना चाहिए; इस योजना का लाभ केवल पहली शादी पर ही दिया जाता है। 1. एक आदमी जो एक विधवा से शादी करता है, वह पहली शादी के अनुबंध से मुक्त होगा",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदकों में से एक सामान्य श्रेणी से संबंधित होना चाहिए, और दूसरा अनुसूचित जाति से होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दोनों आवेदक राजस्थान के मूल निवासी होने चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदन करते समय आवेदक की आयु 35 वर्ष (महिलाएँ 18 वर्ष से अधिक और पुरुष 21 वर्ष से अधिक) से अधिक नहीं होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दंपति की वार्षिक पारिवारिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक का कोई आपराधिक रिकॉर्ड नहीं होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दंपति को राज्य/केंद्र सरकार की समान योजनाओं से वित्तीय लाभ नहीं मिला होगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पुनर्विवाह का कोई मामला नहीं होना चाहिए; इस योजना का लाभ केवल पहली शादी पर दिया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "एक आदमी जो एक विधवा से शादी करता है, वह पहली शादी के अनुबंध से मुक्त होगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "female",
+          "label": "महिला"
+        },
+        {
+          "value": "male",
+          "label": "पुरुष"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "value": "sc",
+          "label": "अनुसूचित जाति (एससी)"
+        },
+        {
+          "value": "st",
+          "label": "अनुसूचित जनजाति (एसटी)"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "value": "never-married",
+          "label": "Never Married"
+        },
+        {
+          "value": "widowed",
+          "label": "Widowed"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 35,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदकों में से एक सामान्य श्रेणी से संबंधित होना चाहिए, और दूसरा अनुसूचित जाति से होना चाहिए। 1. दोनों आवेदक राजस्थान के मूल निवासी होने चाहिए। 1. आवेदन करते समय आवेदक की आयु 35 वर्ष (महिलाएँ 18 वर्ष से अधिक और पुरुष 21 वर्ष से अधिक) से अधिक नहीं होनी चाहिए। 1. दंपति की वार्षिक पारिवारिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए। 1. आवेदक का कोई आपराधिक रिकॉर्ड नहीं होना चाहिए। 1. दंपति को राज्य/केंद्र सरकार की समान योजनाओं से वित्तीय लाभ नहीं मिला होगा। 1. पुनर्विवाह का कोई मामला नहीं होना चाहिए; इस योजना का लाभ केवल पहली शादी पर ही दिया जाता है। 1. एक आदमी जो एक विधवा से शादी करता है, वह पहली शादी के अनुबंध से मुक्त होगा",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदकों में से एक सामान्य श्रेणी से संबंधित होना चाहिए, और दूसरा अनुसूचित जाति से होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "दोनों आवेदक राजस्थान के मूल निवासी होने चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदन करते समय आवेदक की आयु 35 वर्ष (महिलाएँ 18 वर्ष से अधिक और पुरुष 21 वर्ष से अधिक) से अधिक नहीं होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "दंपति की वार्षिक पारिवारिक आय ₹ 2,50,000-से अधिक नहीं होनी चाहिए"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक का कोई आपराधिक रिकॉर्ड नहीं होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "दंपति को राज्य/केंद्र सरकार की समान योजनाओं से वित्तीय लाभ नहीं मिला होगा।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "पुनर्विवाह का कोई मामला नहीं होना चाहिए; इस योजना का लाभ केवल पहली शादी पर दिया जाता है।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "एक आदमी जो एक विधवा से शादी करता है, वह पहली शादी के अनुबंध से मुक्त होगा।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "female",
+        "label": "महिला"
+      },
+      {
+        "value": "male",
+        "label": "पुरुष"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "value": "sc",
+        "label": "अनुसूचित जाति (एससी)"
+      },
+      {
+        "value": "st",
+        "label": "अनुसूचित जनजाति (एसटी)"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "value": "never-married",
+        "label": "Never Married"
+      },
+      {
+        "value": "widowed",
+        "label": "Widowed"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marriage Registration Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate (for Scheduled Caste spouse)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residence Certificate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Birth Certificate or Educational Certificate for age proof."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aadhaar Card and Bhamashah Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Joint Bank Account Details (Nationalized Bank)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "PAN Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Certificate (Self-Declaration Form)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Joint Photograph of the Couple."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Death Certificate of Previous Spouse (if applicable for widows)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sworn Affidavit (Notarized) stating the caste of the upper-caste spouse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Marriage Registration Certificate.\n- Caste Certificate (for Scheduled Caste spouse).\n- Residence Certificate.\n- Birth Certificate or Educational Certificate for age proof.\n- Aadhaar Card and Bhamashah Card.\n- Joint Bank Account Details (Nationalized Bank).\n- PAN Card.\n- Income Certificate (Self-Declaration Form).\n- Joint Photograph of the Couple.\n- Death Certificate of Previous Spouse (if applicable for widows).\n- Sworn Affidavit (Notarized) stating the caste of the upper-caste spouse.\n\n<br>\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "विवाह पंजीकरण प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र (अनुसूचित जाति के जीवनसाथी के लिए)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निवास प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आयु प्रमाण के लिए जन्म प्रमाण पत्र या शैक्षिक प्रमाण पत्र।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आधार कार्ड और भामाशाह कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "संयुक्त बैंक खाते का विवरण (राष्ट्रीयकृत बैंक)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पैन कार्ड।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आय प्रमाणपत्र (स्व-घोषणा प्रपत्र)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दंपति की संयुक्त तस्वीर।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पिछले पति या पत्नी का मृत्यु प्रमाण पत्र (यदि विधवाओं के लिए लागू हो)।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उच्च जाति के पति या पत्नी की जाति बताते हुए शपथ पत्र (नोटरीकृत)।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n- Marriage Registration Certificate.\n- Caste Certificate (for Scheduled Caste spouse).\n- Residence Certificate.\n- Birth Certificate or Educational Certificate for age proof.\n- Aadhaar Card and Bhamashah Card.\n- Joint Bank Account Details (Nationalized Bank).\n- PAN Card.\n- Income Certificate (Self-Declaration Form).\n- Joint Photograph of the Couple.\n- Death Certificate of Previous Spouse (if applicable for widows).\n- Sworn Affidavit (Notarized) stating the caste of the upper-caste spouse.\n\n<br>\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who is eligible for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A Scheduled Caste individual who marries a Hindu upper-caste individual and meets the residency, income, and age criteria."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A Scheduled Caste individual who marries a Hindu upper-caste individual and meets the residency, income, and age criteria.\n"
+        },
+        {
+          "question": "What is the financial assistance provided under this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A total incentive of ₹5,00,000 per couple."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A total incentive of [?]5,00,000 per couple.\n"
+        },
+        {
+          "question": "How is the incentive amount distributed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹2,50,000 as an 8-year Fixed Deposit and ₹2,50,000 transferred to the couple’s bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "[?]2,50,000 as an 8-year Fixed Deposit and [?]2,50,000 transferred to the couple's bank account.\n"
+        },
+        {
+          "question": "What is the application deadline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications must be submitted within one year from the marriage date."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted within one year from the marriage date.\n"
+        },
+        {
+          "question": "Can a widow avail of this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, a widow can apply if she has not previously benefited from this scheme."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, a widow can apply if she has not previously benefited from this scheme.\n"
+        },
+        {
+          "question": "Is the scheme applicable for second marriages?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Only in the case of a widow; otherwise, it is applicable for the first marriage only."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only in the case of a widow; otherwise, it is applicable for the first marriage only.\n"
+        },
+        {
+          "question": "How can I apply for the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Applications can be submitted online via the Rajasthan SSO portal or through e-Mitra kiosks."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications can be submitted online via the Rajasthan SSO portal or through e-Mitra kiosks.\n"
+        },
+        {
+          "question": "What happens if false information is provided?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Legal action will be taken against the applicant."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Legal action will be taken against the applicant.\n"
+        },
+        {
+          "question": "Can applications be submitted offline?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, applications are accepted only online via the SJMS portal.\n\n"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applications are accepted only online via the SJMS portal.\n\n\n"
+        },
+        {
+          "question": "Is there any physical verification required?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, random verification of 10% of beneficiaries is conducted annually."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, random verification of 10% of beneficiaries is conducted annually.\n"
+        },
+        {
+          "question": "What happens if discrepancies are found in my application?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant will be given one month to rectify them; otherwise, the application will be rejected."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will be given one month to rectify them; otherwise, the application will be rejected.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन पात्र है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "एक अनुसूचित जाति का व्यक्ति जो एक हिंदू उच्च जाति के व्यक्ति से शादी करता है और निवास, आय और आयु मानदंड को पूरा करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A Scheduled Caste individual who marries a Hindu upper-caste individual and meets the residency, income, and age criteria.\n"
+        },
+        {
+          "question": "इस योजना के तहत क्या वित्तीय सहायता प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "प्रति दंपति ₹ 5,00,000 का कुल प्रोत्साहन।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A total incentive of [?]5,00,000 per couple.\n"
+        },
+        {
+          "question": "प्रोत्साहन राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "₹ 2,50,000 8 साल की सावधि जमा के रूप में और ₹ 2,50,000 दंपति के बैंक खाते में स्थानांतरित किया गया।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "[?]2,50,000 as an 8-year Fixed Deposit and [?]2,50,000 transferred to the couple's bank account.\n"
+        },
+        {
+          "question": "आवेदन की समय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन विवाह की तारीख से एक वर्ष के भीतर जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications must be submitted within one year from the marriage date.\n"
+        },
+        {
+          "question": "क्या कोई विधवा इस योजना का लाभ उठा सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, एक विधवा आवेदन कर सकती है यदि उसने पहले इस योजना का लाभ नहीं उठाया है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, a widow can apply if she has not previously benefited from this scheme.\n"
+        },
+        {
+          "question": "क्या यह योजना दूसरी शादी के लिए लागू होती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "केवल विधवा के मामले में; अन्यथा, यह केवल पहली शादी के लिए लागू होता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Only in the case of a widow; otherwise, it is applicable for the first marriage only.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदन राजस्थान एसएसओ पोर्टल या ई-मित्र कियोस्क के माध्यम से ऑनलाइन जमा किए जा सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Applications can be submitted online via the Rajasthan SSO portal or through e-Mitra kiosks.\n"
+        },
+        {
+          "question": "अगर गलत जानकारी दी जाती है तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "याचिकाकर्ता के खिलाफ कानूनी कार्रवाई की जाएगी।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Legal action will be taken against the applicant.\n"
+        },
+        {
+          "question": "क्या आवेदन ऑफ़लाइन जमा किए जा सकते हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन केवल एस. जे. एम. एस. पोर्टल के माध्यम से ऑनलाइन स्वीकार किए जाते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applications are accepted only online via the SJMS portal.\n\n\n"
+        },
+        {
+          "question": "क्या किसी भौतिक सत्यापन की आवश्यकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, 10 प्रतिशत लाभार्थियों का यादृच्छिक सत्यापन सालाना किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, random verification of 10% of beneficiaries is conducted annually.\n"
+        },
+        {
+          "question": "यदि मेरे आवेदन में विसंगतियाँ पाई जाती हैं तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को उन्हें सुधारने के लिए एक महीने का समय दिया जाएगा; अन्यथा, आवेदन अस्वीकार कर दिया जाएगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will be given one month to rectify them; otherwise, the application will be rejected.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1442 @@
+{
+  "scheme_id": "6811d56082a8f87190f055a1",
+  "slug": "mhvs-sebs",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Self-Employment",
+        "Business",
+        "Financial Assistance",
+        "Skill Development",
+        "Palanhar"
+      ],
+      "schemeName": "Mukhyamantri Hunar Vikas Yojana- Self-Employment/Business",
+      "schemeShortTitle": "MHVY-SEB",
+      "implementingAgency": "Department Of Social Justice And Empowerment, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Information for employers",
+          "label": "Information for employers"
+        },
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "Training and Skill Up-gradation"
+        }
+      ],
+      "schemeOpenDate": "2012-01-19",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231258279383.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Mukhyamantri Hunar Vikas Yojana – Self-Employment/Business&amp;quot; was launched by the Department of Social Justice and Empowerment, Government of Rajasthan with the objective of providing financial assistance to beneficiary boys and girls under the State Government’s Palanhar Scheme to help them establish their own self-employment ventures or businesses after completing their training. The scheme aims to create employment opportunities and ensure a dignified livelihood for these beneficiaries upon the completion of their training.\nUnder this scheme, the State Government provides financial assistance to eligible boys and girls in two installments: 60% of the total sanctioned amount is disbursed in the first installment, and the remaining 40% in the second installment. The assistance is specifically for setting up self-employment or business activities related to the training course completed by the beneficiary.\nThe scheme is implemented by the Department of Social Justice and Empowerment, Rajasthan, at the state level and by the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level.\n",
+      "benefits_md": "> **Financial Assistance:**\n\n\n- Financial assistance up to ₹50,000 or the actual/estimated cost, whichever is lower, to establish self-employment/business.\n\n> **Payment Disbursed in Two Installments**\n\n\n- First Installment: 60% for establishing the necessary shop/location or purchasing equipment, raw materials, etc.\n- Second Installment: After establishing, the remaining 40% amount will be paid based on the inspection report by the officer appointed by the District Collector. \n\n> **Mode of Disbursement:**\n\n\n- The financial assistance is directly deposited into the beneficiary&#39;s bank savings account. \n\n",
+      "briefDescription": "Under this scheme, eligible boys and girls receive financial assistance in two installments - 60% initially and 40% later, to establish self-employment or business ventures. The support is specifically linked to the training course completed by the beneficiary.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Mukhyamantri Hunar Vikas Yojana – Self-Employment/Business\" was launched by the Department of Social Justice and Empowerment, Government of Rajasthan with the objective of providing financial assistance to beneficiary boys and girls under the State Government’s Palanhar Scheme to help them establish their own self-employment ventures or businesses after completing their training. The scheme aims to create employment opportunities and ensure a dignified livelihood for these beneficiaries upon the completion of their training."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, the State Government provides financial assistance to eligible boys and girls in two installments: 60% of the total sanctioned amount is disbursed in the first installment, and the remaining 40% in the second installment. The assistance is specifically for setting up self-employment or business activities related to the training course completed by the beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme is implemented by the Department of Social Justice and Empowerment, Rajasthan, at the state level and by the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance up to ₹50,000 or the actual/estimated cost, whichever is lower, to establish self-employment/business."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Payment Disbursed in Two Installments",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "First Installment: 60% for establishing the necessary shop/location or purchasing equipment, raw materials, etc."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Second Installment: After establishing, the remaining 40% amount will be paid based on the inspection report by the officer appointed by the District Collector. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The financial assistance is directly deposited into the beneficiary's bank savings account. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant downloads the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf",
+                    "children": [
+                      {
+                        "text": "application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " from the official website. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District Officer, Social Justice and Empowerment Department."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The District Officer, Social Justice and Empowerment Department, will examine the application and issue administrative and financial approval within a maximum of one month."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant downloads the [application form](https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Officer, Social Justice and Empowerment Department.\n**Step 4:** The District Officer, Social Justice and Empowerment Department, will examine the application and issue administrative and financial approval within a maximum of one month.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a beneficiary under the Palanhar Scheme of Rajasthan.\n1. The applicant should have completed skill training under the scheme.\n1. The applicant’s age should be 21 years or above.\n1. The applicant should be registered their business through Udyam Aadhaar Portal is required for self-employment assistance.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a beneficiary under the Palanhar Scheme of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have completed skill training under the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s age should be 21 years or above."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be registered their business through Udyam Aadhaar Portal is required for self-employment assistance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "स्व-रोजगार",
+        "कारोबार",
+        "वित्तीय सहायता",
+        "कौशल विकास",
+        "पालनहर"
+      ],
+      "schemeName": "मुख्यमंत्री हुनर विकास योजना-स्व-रोजगार/व्यवसाय",
+      "schemeShortTitle": "MHVY-SEB",
+      "implementingAgency": "Department Of Social Justice And Empowerment, Rajasthan",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "स्थापना/स्टार्टअप/उद्यमिता"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "उद्यमिता विकास"
+        },
+        {
+          "value": "Information for employers",
+          "label": "नियोक्ताओं के लिए जानकारी"
+        },
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "प्रशिक्षण और कौशल उन्नयन"
+        }
+      ],
+      "schemeOpenDate": "2012-01-19",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Individual"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231258279383.pdf"
+        },
+        {
+          "title": "आवेदन पत्र",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "मुख्यमंत्री हुनर विकास योजना-स्व-रोजगार/व्यवसाय और विकास योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा राज्य सरकार की पालनहार योजना के तहत लाभार्थी लड़कों और लड़कियों को वित्तीय सहायता प्रदान करने के उद्देश्य से शुरू की गई थी ताकि उन्हें अपना प्रशिक्षण पूरा करने के बाद अपने स्वयं के स्व-रोजगार उद्यम या व्यवसाय स्थापित करने में मदद मिल सके। इस योजना का उद्देश्य रोजगार के अवसर पैदा करना और इन लाभार्थियों के लिए उनका प्रशिक्षण पूरा होने पर एक सम्मानजनक आजीविका सुनिश्चित करना है। इस योजना के तहत, राज्य सरकार पात्र लड़कों और लड़कियों को दो किश्तों में वित्तीय सहायता प्रदान करती हैः कुल स्वीकृत राशि का 60 प्रतिशत पहली किश्त में और शेष 40 प्रतिशत दूसरी किश्त में वितरित किया जाता है। यह सहायता विशेष रूप से लाभार्थी द्वारा पूरा किए गए प्रशिक्षण पाठ्यक्रम से संबंधित स्व-रोजगार या व्यावसायिक गतिविधियों की स्थापना के लिए है। इस योजना को राज्य स्तर पर सामाजिक न्याय और अधिकारिता विभाग, राजस्थान द्वारा और जिला स्तर पर उप निदेशक/सहायक निदेशक, सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया जाता है।",
+      "benefits_md": "वित्तीय सहायता-स्व-रोजगार/व्यवसाय स्थापित करने के लिए 50,000 रुपये तक की वित्तीय सहायता या वास्तविक/अनुमानित लागत, जो भी कम हो। > * * भुगतान दो किश्तों में वितरित किया गया * *-पहली किश्तः आवश्यक दुकान/स्थान स्थापित करने या उपकरण, कच्चा आदि खरीदने के लिए 60 प्रतिशत। - दूसरी किश्तः स्थापना के बाद, शेष 40 प्रतिशत राशि का भुगतान जिला कलेक्टर द्वारा नियुक्त अधिकारी द्वारा निरीक्षण रिपोर्ट के आधार पर किया जाएगा। > * * संवितरण का तरीका-वित्तीय सहायता सीधे लाभार्थी के बैंक बचत खाते में जमा की जाती है।",
+      "briefDescription": "इस योजना के तहत, पात्र लड़कों और लड़कियों को दो किश्तों में वित्तीय सहायता प्राप्त होती है-शुरू में 60 प्रतिशत और बाद में 40 प्रतिशत, स्व-रोजगार या व्यावसायिक उद्यम स्थापित करने के लिए। सहायता विशेष रूप से लाभार्थी द्वारा पूरा किए गए प्रशिक्षण पाठ्यक्रम से जुड़ी हुई है।",
+      "exclusions_md": "<बीआर>",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"मुख्यमंत्री हुनर विकास योजना-स्व-रोजगार/व्यवसाय\" की शुरुआत राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा राज्य सरकार की पालनहार योजना के तहत लाभार्थी लड़कों और लड़कियों को वित्तीय सहायता प्रदान करने के उद्देश्य से की गई थी ताकि उन्हें अपना प्रशिक्षण पूरा करने के बाद अपना स्व-रोजगार उद्यम या व्यवसाय स्थापित करने में मदद मिल सके। इस योजना का उद्देश्य रोजगार के अवसर पैदा करना और इन लाभार्थियों के लिए उनका प्रशिक्षण पूरा होने पर एक सम्मानजनक आजीविका सुनिश्चित करना है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना के तहत, राज्य सरकार पात्र लड़कों और लड़कियों को दो किश्तों में वित्तीय सहायता प्रदान करती हैः कुल स्वीकृत राशि का 60 प्रतिशत पहली किश्त में और शेष 40 प्रतिशत दूसरी किश्त में वितरित किया जाता है। यह सहायता विशेष रूप से लाभार्थी द्वारा पूरा किए गए प्रशिक्षण पाठ्यक्रम से संबंधित स्व-रोजगार या व्यावसायिक गतिविधियों की स्थापना के लिए है।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "इस योजना को राज्य स्तर पर सामाजिक न्याय और अधिकारिता विभाग, राजस्थान द्वारा और जिला स्तर पर उप निदेशक/सहायक निदेशक, सामाजिक न्याय और अधिकारिता विभाग द्वारा लागू किया जाता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "स्व-रोजगार/व्यवसाय स्थापित करने के लिए ₹50,000 तक की वित्तीय सहायता या वास्तविक/अनुमानित लागत, जो भी कम हो।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "भुगतान दो किश्तों में वितरित किया गया",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहली किश्तः आवश्यक दुकान/स्थान स्थापित करने या उपकरण, कच्चा आदि खरीदने के लिए 60 प्रतिशत।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दूसरी किश्तः स्थापना के बाद, शेष 40 प्रतिशत राशि का भुगतान जिला कलेक्टर द्वारा नियुक्त अधिकारी द्वारा निरीक्षण रिपोर्ट के आधार पर किया जाएगा।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "वित्तीय सहायता सीधे लाभार्थी के बैंक बचत खाते में जमा की जाती है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "चरण 1:"
+                  },
+                  {
+                    "text": "इच्छुक आवेदक डाउनलोड करता है"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf",
+                    "children": [
+                      {
+                        "text": "आवेदन पत्र"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "आधिकारिक वेबसाइट से।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला अधिकारी, सामाजिक न्याय और अधिकारिता विभाग को जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला अधिकारी, सामाजिक न्याय और अधिकारिता विभाग, आवेदन की जांच करेगा और अधिकतम एक महीने के भीतर प्रशासनिक और वित्तीय मंजूरी जारी करेगा।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "* * चरण 1: * * इच्छुक आवेदक आधिकारिक वेबसाइट से [आवेदन पत्र] (https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf) डाउनलोड करता है। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें, और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला अधिकारी, सामाजिक न्याय और अधिकारिता विभाग को जमा करें। चरण 4: जिला अधिकारी, सामाजिक न्याय और अधिकारिता विभाग, आवेदन की जांच करेगा और अधिकतम एक महीने के भीतर प्रशासनिक और वित्तीय अनुमोदन जारी करेगा।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "General"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "EWS"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "Female"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "Male"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "OBC"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "Person with Disability"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "SC"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "ST"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "Transgender"
+        },
+        {
+          "gte": 21,
+          "lte": 60,
+          "category": "Widow"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए। 1. आवेदक को योजना के तहत कौशल प्रशिक्षण पूरा करना चाहिए। 1. आवेदक की आयु 21 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक को उद्यम आधार पोर्टल के माध्यम से अपना व्यवसाय पंजीकृत करना चाहिए जो स्व-रोजगार सहायता के लिए आवश्यक है।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को योजना के तहत कौशल प्रशिक्षण पूरा करना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक की आयु 21 वर्ष या उससे अधिक होनी चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को उद्यम आधार पोर्टल के माध्यम से अपना व्यवसाय पंजीकृत करना चाहिए जो स्व-रोजगार सहायता के लिए आवश्यक है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "value": "male",
+          "label": "पुरुष"
+        },
+        {
+          "value": "female",
+          "label": "महिला"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ],
+      "employmentStatus": {
+        "id": 4,
+        "value": "self-employed",
+        "label": "Self-Employed/ Entrepreneur"
+      },
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "General"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "EWS"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "Female"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "Male"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "OBC"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "Person with Disability"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "Particularly Vulnerable Tribal Groups (PVTG)"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "SC"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "ST"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "Transgender"
+      },
+      {
+        "gte": 21,
+        "lte": 60,
+        "category": "Widow"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए। 1. आवेदक को योजना के तहत कौशल प्रशिक्षण पूरा करना चाहिए। 1. आवेदक की आयु 21 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक को उद्यम आधार पोर्टल के माध्यम से अपना व्यवसाय पंजीकृत करना चाहिए जो स्व-रोजगार सहायता के लिए आवश्यक है।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को राजस्थान की पालनहार योजना के तहत लाभार्थी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को योजना के तहत कौशल प्रशिक्षण पूरा करना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक की आयु 21 वर्ष या उससे अधिक होनी चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को उद्यम आधार पोर्टल के माध्यम से अपना व्यवसाय पंजीकृत करना चाहिए जो स्व-रोजगार सहायता के लिए आवश्यक है।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "label": "पुरुष"
+      },
+      {
+        "value": "female",
+        "label": "महिला"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ],
+    "employmentStatus": {
+      "id": 4,
+      "value": "self-employed",
+      "label": "Self-Employed/ Entrepreneur"
+    },
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Passport-size Photo"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Copy of Jan Aadhaar Card"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant program)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Udyog Aadhaar Registration Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank Passbook"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Residence proof"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Copy of Jan Aadhaar Card\n1. Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant program)\n1. Udyog Aadhaar Registration Certificate\n1. Bank Passbook\n1. Residence proof\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पासपोर्ट आकार की तस्वीर"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जन आधार कार्ड की प्रति"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "शैक्षिक योग्यता का प्रमाण पत्र (संबंधित कार्यक्रम के लिए निर्धारित शैक्षणिक योग्यता का प्रमाण)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उद्योग आधार पंजीकरण प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक पासबुक"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निवास प्रमाण"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "\n1. Passport-size Photo\n1. Copy of Jan Aadhaar Card\n1. Certificate of Educational Qualification (proof of the prescribed educational qualification for the relevant program)\n1. Udyog Aadhaar Registration Certificate\n1. Bank Passbook\n1. Residence proof\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "What is Mukhyamantri Hunar Vikas Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is a scheme providing skill training, higher education, and self-employment support to Palanhar beneficiaries."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is a scheme providing skill training, higher education, and self-employment support to Palanhar beneficiaries.\n"
+        },
+        {
+          "question": "Who implements the Mukhyamantri Hunar Vikas Yojana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Department of Social Justice and Empowerment, Government of Rajasthan."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Department of Social Justice and Empowerment, Government of Rajasthan.\n"
+        },
+        {
+          "question": "What is the maximum grant amount for starting my own business?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The maximum grant is ₹50,000 or the actual/estimated cost, whichever is less."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The maximum grant is ₹50,000 or the actual/estimated cost, whichever is less.\n"
+        },
+        {
+          "question": "Is the grant amount provided in a single payment?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, it is given in two installments: 60% initially and 40% after business verification."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is given in two installments: 60% initially and 40% after business verification.\n"
+        },
+        {
+          "question": "Does the business need to be related to the training I received?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the business must be directly related to your completed skill training."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the business must be directly related to your completed skill training.\n"
+        },
+        {
+          "question": "What if my business setup costs exceed the grant amount?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant will need to cover the additional expenses yourself."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will need to cover the additional expenses yourself.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "Can the grant amount be increased in the future?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the state government may increase the grant amount."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the state government may increase the grant amount.\n"
+        },
+        {
+          "question": "Is there an age limit to be eligible for this benefit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the applicant must be under 21 or within one year of training completion."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must be under 21 or within one year of training completion.\n"
+        },
+        {
+          "question": "What is Udyog Aadhaar and how do I obtain it?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Udyog Aadhaar is a registration for MSMEs, and the applicant can obtain it through the online portal of the Ministry of MSME."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Udyog Aadhaar is a registration for MSMEs, and the applicant can obtain it through the online portal of the Ministry of MSME.\n"
+        },
+        {
+          "question": "When is the second installment released?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After verification by the District Officer confirming the actual establishment of the business or purchase of necessary items."
+                }
+              ]
+            }
+          ],
+          "answer_md": "After verification by the District Officer confirming the actual establishment of the business or purchase of necessary items.\n"
+        },
+        {
+          "question": "Is the financial assistance transferred directly to the beneficiary?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the amount is directly transferred to the beneficiary’s bank account."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the amount is directly transferred to the beneficiary’s bank account.\n"
+        },
+        {
+          "question": "What is the time limit for application processing?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The application must be scrutinized and processed within one month by the District Officer."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application must be scrutinized and processed within one month by the District Officer.\n"
+        },
+        {
+          "question": "What kind of businesses are eligible for support under the scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Any business or self-employment activity related to the training course completed by the beneficiary."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Any business or self-employment activity related to the training course completed by the beneficiary.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "क्या है मुख्यमंत्री हुनर विकास योजना?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह एक ऐसी योजना है जो पालनहार लाभार्थियों को कौशल प्रशिक्षण, उच्च शिक्षा और स्व-रोजगार सहायता प्रदान करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is a scheme providing skill training, higher education, and self-employment support to Palanhar beneficiaries.\n"
+        },
+        {
+          "question": "मुख्यमंत्री हुनर विकास योजना को कौन लागू करता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "सामाजिक न्याय और अधिकारिता विभाग, राजस्थान सरकार।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The Department of Social Justice and Empowerment, Government of Rajasthan.\n"
+        },
+        {
+          "question": "मेरा अपना व्यवसाय शुरू करने के लिए अधिकतम अनुदान राशि क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अधिकतम अनुदान ₹50,000 या वास्तविक/अनुमानित लागत, जो भी कम हो, है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The maximum grant is ₹50,000 or the actual/estimated cost, whichever is less.\n"
+        },
+        {
+          "question": "क्या अनुदान राशि एक ही भुगतान में प्रदान की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, यह दो किश्तों में दिया जाता हैः शुरू में 60 प्रतिशत और व्यवसाय सत्यापन के बाद 40 प्रतिशत।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, it is given in two installments: 60% initially and 40% after business verification.\n"
+        },
+        {
+          "question": "क्या व्यवसाय को मेरे द्वारा प्राप्त प्रशिक्षण से संबंधित होना चाहिए?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, व्यवसाय सीधे आपके पूर्ण कौशल प्रशिक्षण से संबंधित होना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the business must be directly related to your completed skill training.\n"
+        },
+        {
+          "question": "अगर मेरे व्यवसाय की स्थापना लागत अनुदान राशि से अधिक हो तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को अतिरिक्त खर्चों को स्वयं वहन करना होगा।"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant will need to cover the additional expenses yourself.\n<br>\n\n<br>\n\n"
+        },
+        {
+          "question": "क्या भविष्य में अनुदान राशि बढ़ाई जा सकती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, राज्य सरकार अनुदान राशि बढ़ा सकती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the state government may increase the grant amount.\n"
+        },
+        {
+          "question": "क्या इस लाभ के लिए कोई आयु सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, आवेदक की आयु 21 वर्ष से कम या प्रशिक्षण पूरा होने के एक वर्ष के भीतर होनी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the applicant must be under 21 or within one year of training completion.\n"
+        },
+        {
+          "question": "उद्योग आधार क्या है और मैं इसे कैसे प्राप्त करूं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "उद्योग आधार एमएसएमई के लिए एक पंजीकरण है, और आवेदक इसे एमएसएमई मंत्रालय के ऑनलाइन पोर्टल के माध्यम से प्राप्त कर सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Udyog Aadhaar is a registration for MSMEs, and the applicant can obtain it through the online portal of the Ministry of MSME.\n"
+        },
+        {
+          "question": "दूसरी किस्त कब जारी की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला अधिकारी द्वारा व्यवसाय की वास्तविक स्थापना या आवश्यक वस्तुओं की खरीद की पुष्टि करने के बाद।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "After verification by the District Officer confirming the actual establishment of the business or purchase of necessary items.\n"
+        },
+        {
+          "question": "क्या वित्तीय सहायता सीधे लाभार्थी को हस्तांतरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, राशि सीधे लाभार्थी के बैंक खाते में हस्तांतरित की जाती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the amount is directly transferred to the beneficiary’s bank account.\n"
+        },
+        {
+          "question": "आवेदन प्रक्रिया के लिए समय सीमा क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला अधिकारी द्वारा आवेदन की जांच की जानी चाहिए और एक महीने के भीतर उस पर कार्रवाई की जानी चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The application must be scrutinized and processed within one month by the District Officer.\n"
+        },
+        {
+          "question": "किस तरह के व्यवसाय इस योजना के तहत सहायता के लिए पात्र हैं?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "लाभार्थी द्वारा पूरा किए गए प्रशिक्षण पाठ्यक्रम से संबंधित कोई भी व्यवसाय या स्व-रोजगार गतिविधि।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Any business or self-employment activity related to the training course completed by the beneficiary.\n"
+        }
+      ]
+    }
+  }
+}

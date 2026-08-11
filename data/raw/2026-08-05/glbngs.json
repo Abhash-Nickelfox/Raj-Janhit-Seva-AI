@@ -1,0 +1,1518 @@
+{
+  "scheme_id": "67c59346e39781207675dfdc",
+  "slug": "glbngs",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Bhawan Nirman",
+        "Maharana Pratap",
+        "Gadia Lohar",
+        "House Construction"
+      ],
+      "schemeName": "Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana",
+      "schemeShortTitle": "GLMPBNY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "Shelter, integrated support and assistance"
+        },
+        {
+          "value": "Housing",
+          "label": "Housing"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=175"
+        },
+        {
+          "title": "Amendment",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/Feb/30409/133142.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana&amp;quot; was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. Under this scheme, financial assistance of ₹1,20,000/- is provided in three instalments to Gadiya Lohar families in Rajasthan for the construction of permanent houses and ensuring their settlement.\n***Objectives:***\n\n- To provide permanent houses to the Gadiya Lohar families.\n- To provide financial assistance in three installments for house construction.\n- To promote the social and economic integration of Gadiya Lohars community.\n\n",
+      "benefits_md": "**Financial Assistance:**\n\n- ₹1,20,000/- is provided to each eligible beneficiary.\n\n**Mode of Disbursement:**\n\n- First Installment: ₹40,000/- is provided after verification of land ownership and submission of required documents.\n- Second Installment: ₹40,000/- is disbursed after verification of construction progress.\n- Third Installment: ₹40,000/- is given upon completion of construction and submission of utilization proof.\n\n**Frequency &amp; Validity:**\n\n- This is a one-time financial grant.\n- The entire house construction must be completed within one year from the approval of the first installment.\n\n***Note:***\n\n- If a beneficiary misuses the grant, legal action will be taken, and the amount will be recovered.\n- The constructed house cannot be sold or transferred for 20 years.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "This scheme provides financial assistance of ₹1,20,000/- in three instalments to Gadiya Lohar families in Rajasthan for the construction of permanent houses and ensuring their settlement.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana\" was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. Under this scheme, financial assistance of ₹1,20,000/- is provided in three instalments to Gadiya Lohar families in Rajasthan for the construction of permanent houses and ensuring their settlement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objectives:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To provide permanent houses to the Gadiya Lohar families."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To provide financial assistance in three installments for house construction."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To promote the social and economic integration of Gadiya Lohars community."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹1,20,000/- is provided to each eligible beneficiary."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "First Installment: ₹40,000/- is provided after verification of land ownership and submission of required documents."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Second Installment: ₹40,000/- is disbursed after verification of construction progress."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Third Installment: ₹40,000/- is given upon completion of construction and submission of utilization proof."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frequency & Validity:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This is a one-time financial grant."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entire house construction must be completed within one year from the approval of the first installment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If a beneficiary misuses the grant, legal action will be taken, and the amount will be recovered."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The constructed house cannot be sold or transferred for 20 years."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the District Social Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District Social Welfare Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the District Social Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Social Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Social Welfare Office.\n**Step 4:** Request a receipt or acknowledgment from the District Social Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a native of Rajasthan.\n1. The applicant should belong to the Gadiya Lohar community.\n1. The applicant should own a plot for house construction.\n1. The applicant or their family should not own any other house within the district or anywhere in Rajasthan.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to the Gadiya Lohar community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should own a plot for house construction."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant or their family should not own any other house within the district or anywhere in Rajasthan."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hi": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "वित्तीय सहायता",
+        "भवन निर्माण",
+        "महाराणा प्रताप",
+        "गडिया लोहार",
+        "घर का निर्माण"
+      ],
+      "schemeName": "गड़िया लोहार महाराणा प्रताप भवन निर्माण योजना",
+      "schemeShortTitle": "GLMPBNY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "आश्रय, एकीकृत सहायता और सहायता"
+        },
+        {
+          "value": "Housing",
+          "label": "आवास"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "सामाजिक न्याय और अधिकारिता विभाग"
+      },
+      "schemeFor": "Family"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "दिशानिर्देश",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=175"
+        },
+        {
+          "title": "संशोधन",
+          "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/Feb/30409/133142.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "यह योजना 'गडिया लोहार महाराणा प्रताप भवन निर्माण योजना' राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इस योजना के तहत, राजस्थान में गडिया लोहार परिवारों को स्थायी घरों के निर्माण और उनकी बस्ती सुनिश्चित करने के लिए तीन किश्तों में ₹ 1,20,000 की वित्तीय सहायता प्रदान की जाती है। * * * उद्देश्यः * * *-गडिया लोहार परिवारों को स्थायी घर प्रदान करना। - आवास निर्माण के लिए तीन किश्तों में वित्तीय सहायता प्रदान करना। - गडिया लोहार समुदाय के सामाजिक और आर्थिक एकीकरण को बढ़ावा देना।",
+      "benefits_md": "* * वित्तीय सहायताः * *-₹ 1,20,000-प्रत्येक पात्र लाभार्थी को प्रदान की जाती है। संवितरण का तरीका-पहली किश्तः भूमि स्वामित्व के सत्यापन और आवश्यक दस्तावेज जमा करने के बाद 40,000 रुपये प्रदान किए जाते हैं। - दूसरी किश्तः निर्माण प्रगति के सत्यापन के बाद ₹40,000/- वितरित किया जाता है। तीसरी किश्तः ₹40,000/- निर्माण पूरा होने और उपयोग प्रमाण जमा करने पर दिया जाता है। आवृत्ति और वैधताः * *-यह एक बार का वित्तीय अनुदान है। - पहली किश्त की मंजूरी के एक साल के भीतर पूरे घर का निर्माण पूरा किया जाना चाहिए। * * * नोटः-यदि कोई लाभार्थी अनुदान का दुरुपयोग करता है, तो कानूनी कार्रवाई की जाएगी, और राशि की वसूली की जाएगी। - निर्मित घर को 20 साल तक बेचा या स्थानांतरित नहीं किया जा सकता है।",
+      "exclusions_md": "<बीआर>",
+      "briefDescription": "यह योजना राजस्थान में गडिया लोहार परिवारों को स्थायी घरों के निर्माण और उनकी बस्ती सुनिश्चित करने के लिए तीन किश्तों में ₹ 1,20,000 की वित्तीय सहायता प्रदान करती है।",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"गडिया लोहार महाराणा प्रताप भवन निर्माण योजना\" योजना राजस्थान सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई थी। इस योजना के तहत, राजस्थान में गडिया लोहार परिवारों को स्थायी घरों के निर्माण और उनकी बस्ती सुनिश्चित करने के लिए तीन किश्तों में ₹ 1,20,000 की वित्तीय सहायता प्रदान की जाती है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "उद्देश्यः",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गडिया लोहार परिवारों को स्थायी घर प्रदान करना।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवास निर्माण के लिए तीन किश्तों में वित्तीय सहायता प्रदान करना।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "गडिया लोहार समुदाय के सामाजिक और आर्थिक एकीकरण को बढ़ावा देना।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आर्थिक मददः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹ 1,20,000-प्रत्येक पात्र लाभार्थी को प्रदान किया जाता है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "संवितरण की विधिः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहली किश्तः भूमि स्वामित्व के सत्यापन और आवश्यक दस्तावेज जमा करने के बाद ₹40,000/- प्रदान किया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "दूसरी किश्तः ₹40,000/- निर्माण प्रगति के सत्यापन के बाद वितरित किया जाता है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "तीसरी किश्तः ₹40,000/- निर्माण पूरा होने और उपयोग प्रमाण जमा करने पर दिया जाता है।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "आवृत्ति और वैधताः",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यह एक बार का वित्तीय अनुदान है।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहली किश्त की मंजूरी के एक साल के भीतर पूरे घर का निर्माण पूरा किया जाना चाहिए।"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ध्यान देंः",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "यदि कोई लाभार्थी अनुदान का दुरुपयोग करता है, तो कानूनी कार्रवाई की जाएगी और राशि की वसूली की जाएगी।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्मित घर को 20 साल तक बेचा या स्थानांतरित नहीं किया जा सकता है।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": "इच्छुक आवेदक को (कार्यालय समय के दौरान) जिला समाज कल्याण कार्यालय जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": "आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": "दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला समाज कल्याण कार्यालय में जमा करें।"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "चरण 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": "जिला समाज कल्याण कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "चरण 1: इच्छुक आवेदक को (कार्यालय समय के दौरान) जिला समाज कल्याण कार्यालय जाना चाहिए और भरे हुए आवेदन जारी करने और एकत्र करने के लिए विशेष रूप से सौंपे गए कर्मचारियों से आवेदन पत्र के निर्धारित प्रारूप की एक हार्ड कॉपी का अनुरोध करना चाहिए। * * चरण 2: आवेदन पत्र में, सभी अनिवार्य क्षेत्रों को भरें और सभी अनिवार्य दस्तावेजों की प्रतियां संलग्न करें (यदि आवश्यक हो तो स्व-सत्यापन)। * * चरण 3: * * दस्तावेजों के साथ विधिवत भरे और हस्ताक्षरित आवेदन पत्र को जिला समाज कल्याण कार्यालय में जमा करें। * * चरण 4: * * जिला समाज कल्याण कार्यालय से रसीद या पावती का अनुरोध करें जिसे आवेदन जमा किया गया है। सुनिश्चित करें कि रसीद में आवश्यक विवरण जैसे जमा करने की तारीख और समय और एक विशिष्ट पहचान संख्या (यदि लागू हो) हो।"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "nationality": "India",
+      "age": [
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "General"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "EWS"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Female"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "OBC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "SC"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "ST"
+        },
+        {
+          "gte": 18,
+          "lte": 100,
+          "category": "Widowed"
+        }
+      ],
+      "education": [],
+      "numberOfDependents": null,
+      "familyIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "individualIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfChildren": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfBoys": {
+        "gte": null,
+        "lte": null
+      },
+      "numberOfGirls": {
+        "gte": null,
+        "lte": null
+      },
+      "workExperience": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को गडिया लोहार समुदाय से होना चाहिए। 1. आवेदक के पास घर बनाने के लिए एक भूखंड होना चाहिए। 1. आवेदक या उनके परिवार के पास जिले के भीतर या राजस्थान में कहीं भी कोई अन्य घर नहीं होना चाहिए।",
+      "parentIncomeAnnual": {
+        "gte": null,
+        "lte": null
+      },
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को गडिया लोहार समुदाय से होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक के पास घर बनाने के लिए एक भूखंड होना चाहिए।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक या उनके परिवार के पास जिले के भीतर या राजस्थान में कहीं भी कोई अन्य घर नहीं होना चाहिए।"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "gender": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "residence": [
+        {
+          "label": "दोनों",
+          "value": "Both"
+        }
+      ],
+      "caste": [
+        {
+          "label": "सभी",
+          "value": "All"
+        }
+      ],
+      "maritalStatus": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "beneficiaryState": [
+        {
+          "value": 8,
+          "label": "राजस्थान"
+        }
+      ]
+    }
+  },
+  "eligibility_structured": {
+    "nationality": "India",
+    "age": [
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "General"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "EWS"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Female"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "OBC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "SC"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "ST"
+      },
+      {
+        "gte": 18,
+        "lte": 100,
+        "category": "Widowed"
+      }
+    ],
+    "education": [],
+    "numberOfDependents": null,
+    "familyIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "individualIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfChildren": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfBoys": {
+      "gte": null,
+      "lte": null
+    },
+    "numberOfGirls": {
+      "gte": null,
+      "lte": null
+    },
+    "workExperience": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription_md": "1. आवेदक राजस्थान का मूल निवासी होना चाहिए। 1. आवेदक को गडिया लोहार समुदाय से होना चाहिए। 1. आवेदक के पास घर बनाने के लिए एक भूखंड होना चाहिए। 1. आवेदक या उनके परिवार के पास जिले के भीतर या राजस्थान में कहीं भी कोई अन्य घर नहीं होना चाहिए।",
+    "parentIncomeAnnual": {
+      "gte": null,
+      "lte": null
+    },
+    "eligibilityDescription": [
+      {
+        "type": "ol_list",
+        "children": [
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक राजस्थान का मूल निवासी होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक को गडिया लोहार समुदाय से होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक के पास घर बनाने के लिए एक भूखंड होना चाहिए।"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "children": [
+              {
+                "text": "आवेदक या उनके परिवार के पास जिले के भीतर या राजस्थान में कहीं भी कोई अन्य घर नहीं होना चाहिए।"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gender": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "residence": [
+      {
+        "label": "दोनों",
+        "value": "Both"
+      }
+    ],
+    "caste": [
+      {
+        "label": "सभी",
+        "value": "All"
+      }
+    ],
+    "maritalStatus": [
+      {
+        "label": "All",
+        "value": "All"
+      }
+    ],
+    "beneficiaryState": [
+      {
+        "value": 8,
+        "label": "राजस्थान"
+      }
+    ]
+  },
+  "documents": {
+    "en": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Document Submit in First Installment:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Identity proof"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Caste Certificate (Issued by a competent authority)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proof of Land Ownership (Patta/Title Deed)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Domicile Certificate"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bank account details"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must declare on a ₹10 non-judicial stamp paper that they do not own any other house in the district or state and the house will not be sold or transferred for 20 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any other documents as required"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Second Installment:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction Progress Report (for second and third installments)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Final Installment:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Utilization Certificate (for final installment)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "***Document Submit in First Installment:***\n\n1. Identity proof\n1. Caste Certificate (Issued by a competent authority)\n1. Proof of Land Ownership (Patta/Title Deed)\n1. Domicile Certificate\n1. Bank account details\n1. The applicant must declare on a ₹10 non-judicial stamp paper that they do not own any other house in the district or state and the house will not be sold or transferred for 20 years.\n1. Any other documents as required\n\n***Second Installment:***\n\n- Construction Progress Report (for second and third installments)\n\n***Final Installment:***\n\n- Utilization Certificate (for final installment)\n\n"
+    },
+    "hi": {
+      "documents_required": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "पहली किश्त में दस्तावेज़ जमा करनाः",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "पहचान प्रमाण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "जाति प्रमाण पत्र (एक सक्षम प्राधिकारी द्वारा जारी)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "भूमि स्वामित्व का प्रमाण (पट्टा/स्वामित्व विलेख)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "अधिवास प्रमाणपत्र"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "बैंक खाते का विवरण"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवेदक को 10 रुपये के गैर-न्यायिक स्टाम्प पेपर पर यह घोषणा करनी होगी कि उनके पास जिले या राज्य में कोई अन्य घर नहीं है और घर को 20 वर्षों तक बेचा या स्थानांतरित नहीं किया जाएगा।"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "आवश्यकतानुसार कोई अन्य दस्तावेज"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "दूसरी किश्तः",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "निर्माण प्रगति रिपोर्ट (दूसरी और तीसरी किश्तों के लिए)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "अंतिम किश्तः",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "उपयोग प्रमाण पत्र (अंतिम किश्त के लिए)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentsRequired_md": "***Document Submit in First Installment:***\n\n1. Identity proof\n1. Caste Certificate (Issued by a competent authority)\n1. Proof of Land Ownership (Patta/Title Deed)\n1. Domicile Certificate\n1. Bank account details\n1. The applicant must declare on a ₹10 non-judicial stamp paper that they do not own any other house in the district or state and the house will not be sold or transferred for 20 years.\n1. Any other documents as required\n\n***Second Installment:***\n\n- Construction Progress Report (for second and third installments)\n\n***Final Installment:***\n\n- Utilization Certificate (for final installment)\n\n"
+    }
+  },
+  "faqs": {
+    "en": {
+      "faqs": [
+        {
+          "question": "Who can apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Individuals belonging to the Gadiya Lohar community who own a plot can apply."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Individuals belonging to the Gadiya Lohar community who own a plot can apply.\n"
+        },
+        {
+          "question": "How is the amount disbursed?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The grant is provided in three installments based on the progress of house construction."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The grant is provided in three installments based on the progress of house construction.\n"
+        },
+        {
+          "question": "How often can I receive this grant?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is a one-time financial assistance for house construction."
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is a one-time financial assistance for house construction.\n"
+        },
+        {
+          "question": "What happens if I misuse the grant?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The amount will be recovered, and legal action may be taken against the beneficiary."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount will be recovered, and legal action may be taken against the beneficiary.\n"
+        },
+        {
+          "question": "Is there a deadline to complete the house construction?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yes, the house must be completed within one year from the approval of the first installment."
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the house must be completed within one year from the approval of the first installment.\n"
+        },
+        {
+          "question": "What is the selection process for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A committee consisting of district officials reviews applications and determines eligibility."
+                }
+              ]
+            }
+          ],
+          "answer_md": "A committee consisting of district officials reviews applications and determines eligibility.\n"
+        },
+        {
+          "question": "Can I apply online?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, applications must be submitted physically at the District Social Welfare Office."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applications must be submitted physically at the District Social Welfare Office.\n"
+        },
+        {
+          "question": "What is the role of the District Social Welfare Officer in this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The officer reviews applications, approves grants, and ensures proper utilization."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The officer reviews applications, approves grants, and ensures proper utilization.\n"
+        },
+        {
+          "question": "Can I sell or transfer the house after receiving the grant?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No, the house cannot be sold, mortgaged, or transferred for 20 years."
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the house cannot be sold, mortgaged, or transferred for 20 years.\n"
+        },
+        {
+          "question": "How can I apply for this scheme?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant needs to fill out the application form  and submit it to the District Social Welfare Officer along with the required documents."
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant needs to fill out the application form  and submit it to the District Social Welfare Officer along with the required documents.\n"
+        }
+      ]
+    },
+    "hi": {
+      "faqs": [
+        {
+          "question": "इस योजना के लिए कौन आवेदन कर सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "गडिया लोहार समुदाय से संबंधित व्यक्ति जिनके पास भूखंड है, वे आवेदन कर सकते हैं।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Individuals belonging to the Gadiya Lohar community who own a plot can apply.\n"
+        },
+        {
+          "question": "राशि कैसे वितरित की जाती है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवास निर्माण की प्रगति के आधार पर अनुदान तीन किश्तों में प्रदान किया जाता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The grant is provided in three installments based on the progress of house construction.\n"
+        },
+        {
+          "question": "मुझे यह अनुदान कितनी बार मिल सकता है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "यह घर के निर्माण के लिए एक बार की वित्तीय सहायता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "It is a one-time financial assistance for house construction.\n"
+        },
+        {
+          "question": "अगर मैं अनुदान का दुरुपयोग करता हूं तो क्या होगा?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "राशि की वसूली की जाएगी और लाभार्थी के खिलाफ कानूनी कार्रवाई की जा सकती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The amount will be recovered, and legal action may be taken against the beneficiary.\n"
+        },
+        {
+          "question": "क्या घर के निर्माण को पूरा करने के लिए कोई समय सीमा है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "हां, घर को पहली किस्त की मंजूरी के एक साल के भीतर पूरा किया जाना चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "Yes, the house must be completed within one year from the approval of the first installment.\n"
+        },
+        {
+          "question": "इस योजना के लिए चयन प्रक्रिया क्या है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "जिला अधिकारियों की एक समिति आवेदनों की समीक्षा करती है और पात्रता निर्धारित करती है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "A committee consisting of district officials reviews applications and determines eligibility.\n"
+        },
+        {
+          "question": "क्या मैं ऑनलाइन आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, आवेदन जिला समाज कल्याण कार्यालय में भौतिक रूप से जमा किए जाने चाहिए।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, applications must be submitted physically at the District Social Welfare Office.\n"
+        },
+        {
+          "question": "इस योजना में जिला समाज कल्याण अधिकारी की क्या भूमिका है?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "अधिकारी आवेदनों की समीक्षा करता है, अनुदान को मंजूरी देता है और उचित उपयोग सुनिश्चित करता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The officer reviews applications, approves grants, and ensures proper utilization.\n"
+        },
+        {
+          "question": "क्या मैं अनुदान प्राप्त करने के बाद घर बेच या स्थानांतरित कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "नहीं, घर को 20 साल के लिए बेचा, गिरवी रखा या स्थानांतरित नहीं किया जा सकता है।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "No, the house cannot be sold, mortgaged, or transferred for 20 years.\n"
+        },
+        {
+          "question": "मैं इस योजना के लिए कैसे आवेदन कर सकता हूँ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "आवेदक को आवेदन पत्र भरना होगा और इसे आवश्यक दस्तावेजों के साथ जिला समाज कल्याण अधिकारी को जमा करना होगा।"
+                }
+              ]
+            }
+          ],
+          "answer_md": "The applicant needs to fill out the application form  and submit it to the District Social Welfare Officer along with the required documents.\n"
+        }
+      ]
+    }
+  }
+}
