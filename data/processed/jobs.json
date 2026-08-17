@@ -6,8 +6,8 @@
     "vacancies": 277,
     "qualification": "Post Graduate",
     "location": "Alwar",
-    "startDate": "2026-06-21",
-    "lastDate": "2026-08-10",
+    "startDate": "2026-07-25",
+    "lastDate": "2026-08-29",
     "salary": "₹33843 - ₹97275",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -30,8 +30,8 @@
     "vacancies": 908,
     "qualification": "12th Pass",
     "location": "Kota",
-    "startDate": "2026-04-02",
-    "lastDate": "2026-05-05",
+    "startDate": "2025-12-22",
+    "lastDate": "2026-01-21",
     "salary": "₹39825 - ₹109411",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -54,8 +54,8 @@
     "vacancies": 210,
     "qualification": "Diploma",
     "location": "Alwar",
-    "startDate": "2025-12-24",
-    "lastDate": "2026-01-23",
+    "startDate": "2026-02-19",
+    "lastDate": "2026-03-26",
     "salary": "₹45753 - ₹128408",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -78,8 +78,8 @@
     "vacancies": 3841,
     "qualification": "Graduate",
     "location": "Jodhpur",
-    "startDate": "2026-08-26",
-    "lastDate": "2026-10-18",
+    "startDate": "2026-08-21",
+    "lastDate": "2026-09-10",
     "salary": "₹22926 - ₹116759",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -102,7 +102,7 @@
     "vacancies": 1634,
     "qualification": "Post Graduate",
     "location": "Udaipur",
-    "startDate": "2026-09-10",
+    "startDate": "2026-08-21",
     "lastDate": "2026-10-18",
     "salary": "₹24428 - ₹149854",
     "documentsNeeded": [
@@ -126,8 +126,8 @@
     "vacancies": 4192,
     "qualification": "Diploma",
     "location": "Udaipur",
-    "startDate": "2026-05-12",
-    "lastDate": "2026-06-18",
+    "startDate": "2026-01-07",
+    "lastDate": "2026-01-30",
     "salary": "₹40945 - ₹122274",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -150,8 +150,8 @@
     "vacancies": 3123,
     "qualification": "Diploma",
     "location": "Kota",
-    "startDate": "2026-02-18",
-    "lastDate": "2026-03-27",
+    "startDate": "2026-02-10",
+    "lastDate": "2026-03-16",
     "salary": "₹46436 - ₹92382",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -174,8 +174,8 @@
     "vacancies": 2436,
     "qualification": "12th Pass",
     "location": "Udaipur",
-    "startDate": "2026-07-19",
-    "lastDate": "2026-08-22",
+    "startDate": "2026-05-14",
+    "lastDate": "2026-06-26",
     "salary": "₹34500 - ₹156852",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -189,7 +189,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ009",
@@ -198,8 +198,8 @@
     "vacancies": 1396,
     "qualification": "Diploma",
     "location": "Jaipur",
-    "startDate": "2026-08-24",
-    "lastDate": "2026-10-16",
+    "startDate": "2026-03-02",
+    "lastDate": "2026-03-28",
     "salary": "₹50425 - ₹168938",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -213,7 +213,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ010",
@@ -222,8 +222,8 @@
     "vacancies": 1779,
     "qualification": "Diploma",
     "location": "Udaipur",
-    "startDate": "2026-07-19",
-    "lastDate": "2026-08-21",
+    "startDate": "2026-05-09",
+    "lastDate": "2026-06-30",
     "salary": "₹51694 - ₹83784",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -237,7 +237,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ011",
@@ -246,8 +246,8 @@
     "vacancies": 79,
     "qualification": "BCA",
     "location": "Ajmer",
-    "startDate": "2026-03-24",
-    "lastDate": "2026-05-14",
+    "startDate": "2026-05-22",
+    "lastDate": "2026-06-17",
     "salary": "₹19637 - ₹95472",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -270,8 +270,8 @@
     "vacancies": 3374,
     "qualification": "12th Pass",
     "location": "Ajmer",
-    "startDate": "2025-12-28",
-    "lastDate": "2026-02-19",
+    "startDate": "2026-09-22",
+    "lastDate": "2026-10-27",
     "salary": "₹42770 - ₹73036",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -285,7 +285,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "coming soon"
   },
   {
     "id": "RJ013",
@@ -294,8 +294,8 @@
     "vacancies": 91,
     "qualification": "12th Pass",
     "location": "Jodhpur",
-    "startDate": "2025-11-11",
-    "lastDate": "2026-01-08",
+    "startDate": "2025-12-17",
+    "lastDate": "2026-01-12",
     "salary": "₹31321 - ₹70667",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -318,8 +318,8 @@
     "vacancies": 1893,
     "qualification": "Diploma",
     "location": "Udaipur",
-    "startDate": "2026-07-23",
-    "lastDate": "2026-09-08",
+    "startDate": "2026-09-23",
+    "lastDate": "2026-11-18",
     "salary": "₹30635 - ₹105324",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -342,8 +342,8 @@
     "vacancies": 2272,
     "qualification": "12th Pass",
     "location": "Kota",
-    "startDate": "2026-08-19",
-    "lastDate": "2026-09-20",
+    "startDate": "2026-09-15",
+    "lastDate": "2026-11-13",
     "salary": "₹52078 - ₹131314",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -366,8 +366,8 @@
     "vacancies": 2056,
     "qualification": "BCA",
     "location": "Kota",
-    "startDate": "2026-04-23",
-    "lastDate": "2026-06-10",
+    "startDate": "2026-03-20",
+    "lastDate": "2026-05-06",
     "salary": "₹56921 - ₹175468",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -390,8 +390,8 @@
     "vacancies": 4919,
     "qualification": "BCA",
     "location": "Jodhpur",
-    "startDate": "2026-07-14",
-    "lastDate": "2026-08-26",
+    "startDate": "2025-12-10",
+    "lastDate": "2026-01-20",
     "salary": "₹42857 - ₹148301",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -405,7 +405,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ018",
@@ -414,8 +414,8 @@
     "vacancies": 2837,
     "qualification": "B.Tech",
     "location": "Bikaner",
-    "startDate": "2026-08-20",
-    "lastDate": "2026-09-20",
+    "startDate": "2026-09-02",
+    "lastDate": "2026-10-05",
     "salary": "₹52863 - ₹178341",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -438,8 +438,8 @@
     "vacancies": 2800,
     "qualification": "Post Graduate",
     "location": "Sikar",
-    "startDate": "2026-11-02",
-    "lastDate": "2026-12-02",
+    "startDate": "2025-12-06",
+    "lastDate": "2026-02-04",
     "salary": "₹50553 - ₹179486",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -453,7 +453,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ020",
@@ -462,8 +462,8 @@
     "vacancies": 4949,
     "qualification": "B.Tech",
     "location": "Ajmer",
-    "startDate": "2026-09-18",
-    "lastDate": "2026-10-20",
+    "startDate": "2026-05-09",
+    "lastDate": "2026-06-02",
     "salary": "₹57453 - ₹148135",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -477,7 +477,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://police.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ021",
@@ -486,8 +486,8 @@
     "vacancies": 668,
     "qualification": "Diploma",
     "location": "Jaipur",
-    "startDate": "2026-03-12",
-    "lastDate": "2026-04-17",
+    "startDate": "2026-07-07",
+    "lastDate": "2026-08-01",
     "salary": "₹29239 - ₹166558",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -510,8 +510,8 @@
     "vacancies": 1199,
     "qualification": "B.Tech",
     "location": "Bikaner",
-    "startDate": "2026-07-14",
-    "lastDate": "2026-08-20",
+    "startDate": "2026-03-26",
+    "lastDate": "2026-05-04",
     "salary": "₹26925 - ₹68852",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -525,7 +525,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://police.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ023",
@@ -534,8 +534,8 @@
     "vacancies": 2327,
     "qualification": "Diploma",
     "location": "Kota",
-    "startDate": "2026-11-10",
-    "lastDate": "2026-12-26",
+    "startDate": "2025-12-22",
+    "lastDate": "2026-01-23",
     "salary": "₹52963 - ₹169156",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -549,7 +549,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ024",
@@ -558,8 +558,8 @@
     "vacancies": 3386,
     "qualification": "B.Tech",
     "location": "Ajmer",
-    "startDate": "2025-11-28",
-    "lastDate": "2026-01-16",
+    "startDate": "2026-02-20",
+    "lastDate": "2026-04-14",
     "salary": "₹37783 - ₹129175",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -582,8 +582,8 @@
     "vacancies": 1578,
     "qualification": "Graduate",
     "location": "Alwar",
-    "startDate": "2026-10-10",
-    "lastDate": "2026-11-09",
+    "startDate": "2026-06-03",
+    "lastDate": "2026-07-30",
     "salary": "₹30036 - ₹97922",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -597,7 +597,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ026",
@@ -606,8 +606,8 @@
     "vacancies": 595,
     "qualification": "BCA",
     "location": "Alwar",
-    "startDate": "2025-12-30",
-    "lastDate": "2026-02-15",
+    "startDate": "2026-07-22",
+    "lastDate": "2026-09-01",
     "salary": "₹59130 - ₹158489",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -621,7 +621,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ027",
@@ -630,8 +630,8 @@
     "vacancies": 3195,
     "qualification": "12th Pass",
     "location": "Jaipur",
-    "startDate": "2026-11-03",
-    "lastDate": "2026-12-09",
+    "startDate": "2026-03-24",
+    "lastDate": "2026-05-14",
     "salary": "₹42587 - ₹101145",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -645,7 +645,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ028",
@@ -654,8 +654,8 @@
     "vacancies": 2465,
     "qualification": "BCA",
     "location": "Jaipur",
-    "startDate": "2026-07-12",
-    "lastDate": "2026-09-02",
+    "startDate": "2026-09-19",
+    "lastDate": "2026-10-19",
     "salary": "₹29484 - ₹145903",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -669,7 +669,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://police.rajasthan.gov.in",
-    "status": "active"
+    "status": "coming soon"
   },
   {
     "id": "RJ029",
@@ -678,8 +678,8 @@
     "vacancies": 4503,
     "qualification": "Graduate",
     "location": "Alwar",
-    "startDate": "2026-06-08",
-    "lastDate": "2026-07-28",
+    "startDate": "2026-09-06",
+    "lastDate": "2026-10-11",
     "salary": "₹45569 - ₹79219",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -693,7 +693,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://forest.rajasthan.gov.in",
-    "status": "active"
+    "status": "coming soon"
   },
   {
     "id": "RJ030",
@@ -702,8 +702,8 @@
     "vacancies": 3104,
     "qualification": "12th Pass",
     "location": "Bikaner",
-    "startDate": "2026-02-12",
-    "lastDate": "2026-04-05",
+    "startDate": "2026-09-16",
+    "lastDate": "2026-11-07",
     "salary": "₹45378 - ₹71188",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -717,7 +717,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "coming soon"
   },
   {
     "id": "RJ031",
@@ -726,8 +726,8 @@
     "vacancies": 1357,
     "qualification": "BCA",
     "location": "Bikaner",
-    "startDate": "2026-06-08",
-    "lastDate": "2026-07-25",
+    "startDate": "2025-11-28",
+    "lastDate": "2026-01-14",
     "salary": "₹36832 - ₹140029",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -741,7 +741,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ032",
@@ -750,57 +750,9 @@
     "vacancies": 1385,
     "qualification": "Graduate",
     "location": "Sikar",
-    "startDate": "2025-12-24",
-    "lastDate": "2026-02-05",
+    "startDate": "2026-09-02",
+    "lastDate": "2026-10-17",
     "salary": "₹57766 - ₹154613",
-    "documentsNeeded": [
-      "Aadhaar Card",
-      "Recent Passport-size Photograph",
-      "Signature Specimen",
-      "Valid Photo ID Proof",
-      "Rajasthan Domicile/Residence Certificate",
-      "10th & 12th Marksheet",
-      "Graduation Degree & Marksheet",
-      "Category/Caste Certificate (if applicable)",
-      "Experience Certificate (if applicable)"
-    ],
-    "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
-  },
-  {
-    "id": "RJ033",
-    "title": "Patwari",
-    "department": "Rajasthan Department 2",
-    "vacancies": 2781,
-    "qualification": "B.Tech",
-    "location": "Kota",
-    "startDate": "2026-07-01",
-    "lastDate": "2026-08-07",
-    "salary": "₹33914 - ₹74568",
-    "documentsNeeded": [
-      "Aadhaar Card",
-      "Recent Passport-size Photograph",
-      "Signature Specimen",
-      "Valid Photo ID Proof",
-      "Rajasthan Domicile/Residence Certificate",
-      "10th & 12th Marksheet",
-      "B.Tech Degree & Marksheet",
-      "Category/Caste Certificate (if applicable)",
-      "Experience Certificate (if applicable)"
-    ],
-    "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
-  },
-  {
-    "id": "RJ034",
-    "title": "Junior Engineer",
-    "department": "Rajasthan Department 4",
-    "vacancies": 3443,
-    "qualification": "Graduate",
-    "location": "Udaipur",
-    "startDate": "2026-10-01",
-    "lastDate": "2026-11-14",
-    "salary": "₹28231 - ₹155908",
     "documentsNeeded": [
       "Aadhaar Card",
       "Recent Passport-size Photograph",
@@ -816,14 +768,62 @@
     "status": "coming soon"
   },
   {
+    "id": "RJ033",
+    "title": "Patwari",
+    "department": "Rajasthan Department 2",
+    "vacancies": 2781,
+    "qualification": "B.Tech",
+    "location": "Kota",
+    "startDate": "2025-12-18",
+    "lastDate": "2026-01-24",
+    "salary": "₹33914 - ₹74568",
+    "documentsNeeded": [
+      "Aadhaar Card",
+      "Recent Passport-size Photograph",
+      "Signature Specimen",
+      "Valid Photo ID Proof",
+      "Rajasthan Domicile/Residence Certificate",
+      "10th & 12th Marksheet",
+      "B.Tech Degree & Marksheet",
+      "Category/Caste Certificate (if applicable)",
+      "Experience Certificate (if applicable)"
+    ],
+    "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
+    "status": "closed"
+  },
+  {
+    "id": "RJ034",
+    "title": "Junior Engineer",
+    "department": "Rajasthan Department 4",
+    "vacancies": 3443,
+    "qualification": "Graduate",
+    "location": "Udaipur",
+    "startDate": "2026-01-18",
+    "lastDate": "2026-02-13",
+    "salary": "₹28231 - ₹155908",
+    "documentsNeeded": [
+      "Aadhaar Card",
+      "Recent Passport-size Photograph",
+      "Signature Specimen",
+      "Valid Photo ID Proof",
+      "Rajasthan Domicile/Residence Certificate",
+      "10th & 12th Marksheet",
+      "Graduation Degree & Marksheet",
+      "Category/Caste Certificate (if applicable)",
+      "Experience Certificate (if applicable)"
+    ],
+    "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
+    "status": "closed"
+  },
+  {
     "id": "RJ035",
     "title": "LDC",
     "department": "Rajasthan Department 13",
     "vacancies": 4569,
     "qualification": "Post Graduate",
     "location": "Ajmer",
-    "startDate": "2026-01-13",
-    "lastDate": "2026-03-02",
+    "startDate": "2025-12-23",
+    "lastDate": "2026-01-20",
     "salary": "₹41106 - ₹117114",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -846,8 +846,8 @@
     "vacancies": 3016,
     "qualification": "Diploma",
     "location": "Bikaner",
-    "startDate": "2025-11-27",
-    "lastDate": "2026-01-04",
+    "startDate": "2026-08-25",
+    "lastDate": "2026-10-03",
     "salary": "₹54727 - ₹71558",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -861,7 +861,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "coming soon"
   },
   {
     "id": "RJ037",
@@ -870,8 +870,8 @@
     "vacancies": 1611,
     "qualification": "B.Tech",
     "location": "Udaipur",
-    "startDate": "2026-09-13",
-    "lastDate": "2026-11-07",
+    "startDate": "2026-01-19",
+    "lastDate": "2026-03-10",
     "salary": "₹40840 - ₹119955",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -885,7 +885,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ038",
@@ -894,8 +894,8 @@
     "vacancies": 4502,
     "qualification": "Graduate",
     "location": "Kota",
-    "startDate": "2025-12-02",
-    "lastDate": "2026-01-28",
+    "startDate": "2025-11-25",
+    "lastDate": "2026-01-10",
     "salary": "₹46362 - ₹160662",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -918,8 +918,8 @@
     "vacancies": 3313,
     "qualification": "12th Pass",
     "location": "Bikaner",
-    "startDate": "2025-12-19",
-    "lastDate": "2026-01-18",
+    "startDate": "2026-02-15",
+    "lastDate": "2026-03-17",
     "salary": "₹54626 - ₹106697",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -942,8 +942,8 @@
     "vacancies": 2948,
     "qualification": "B.Tech",
     "location": "Jaipur",
-    "startDate": "2026-03-22",
-    "lastDate": "2026-05-15",
+    "startDate": "2025-12-15",
+    "lastDate": "2026-01-08",
     "salary": "₹47921 - ₹61573",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -966,8 +966,8 @@
     "vacancies": 3509,
     "qualification": "B.Tech",
     "location": "Kota",
-    "startDate": "2026-01-06",
-    "lastDate": "2026-03-02",
+    "startDate": "2026-03-15",
+    "lastDate": "2026-04-11",
     "salary": "₹40038 - ₹143457",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -990,8 +990,8 @@
     "vacancies": 932,
     "qualification": "Diploma",
     "location": "Udaipur",
-    "startDate": "2026-03-20",
-    "lastDate": "2026-04-24",
+    "startDate": "2026-04-09",
+    "lastDate": "2026-06-04",
     "salary": "₹53519 - ₹128776",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1014,8 +1014,8 @@
     "vacancies": 1856,
     "qualification": "B.Tech",
     "location": "Udaipur",
-    "startDate": "2025-11-13",
-    "lastDate": "2026-01-04",
+    "startDate": "2026-04-18",
+    "lastDate": "2026-05-12",
     "salary": "₹22457 - ₹108290",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1038,8 +1038,8 @@
     "vacancies": 4156,
     "qualification": "Diploma",
     "location": "Jodhpur",
-    "startDate": "2026-04-11",
-    "lastDate": "2026-05-24",
+    "startDate": "2026-06-17",
+    "lastDate": "2026-07-10",
     "salary": "₹59659 - ₹179966",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1062,8 +1062,8 @@
     "vacancies": 4996,
     "qualification": "BCA",
     "location": "Alwar",
-    "startDate": "2026-04-03",
-    "lastDate": "2026-05-13",
+    "startDate": "2026-06-05",
+    "lastDate": "2026-07-20",
     "salary": "₹42671 - ₹157997",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1086,8 +1086,8 @@
     "vacancies": 2769,
     "qualification": "Post Graduate",
     "location": "Jodhpur",
-    "startDate": "2026-08-02",
-    "lastDate": "2026-09-09",
+    "startDate": "2025-12-20",
+    "lastDate": "2026-01-30",
     "salary": "₹46897 - ₹153856",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1101,7 +1101,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ047",
@@ -1110,8 +1110,8 @@
     "vacancies": 1319,
     "qualification": "B.Tech",
     "location": "Ajmer",
-    "startDate": "2026-06-19",
-    "lastDate": "2026-07-23",
+    "startDate": "2026-04-14",
+    "lastDate": "2026-06-03",
     "salary": "₹42213 - ₹162146",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1125,7 +1125,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ048",
@@ -1134,8 +1134,8 @@
     "vacancies": 854,
     "qualification": "BCA",
     "location": "Kota",
-    "startDate": "2026-01-23",
-    "lastDate": "2026-02-28",
+    "startDate": "2026-02-24",
+    "lastDate": "2026-03-16",
     "salary": "₹29582 - ₹161265",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1158,8 +1158,8 @@
     "vacancies": 2600,
     "qualification": "Graduate",
     "location": "Alwar",
-    "startDate": "2026-08-10",
-    "lastDate": "2026-10-09",
+    "startDate": "2026-05-01",
+    "lastDate": "2026-06-02",
     "salary": "₹34747 - ₹119480",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1173,7 +1173,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://forest.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ050",
@@ -1182,8 +1182,8 @@
     "vacancies": 529,
     "qualification": "B.Tech",
     "location": "Kota",
-    "startDate": "2026-07-11",
-    "lastDate": "2026-09-03",
+    "startDate": "2026-06-16",
+    "lastDate": "2026-07-20",
     "salary": "₹50596 - ₹65621",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1197,7 +1197,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://forest.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ051",
@@ -1206,8 +1206,8 @@
     "vacancies": 3138,
     "qualification": "Diploma",
     "location": "Jaipur",
-    "startDate": "2026-07-16",
-    "lastDate": "2026-08-25",
+    "startDate": "2026-06-20",
+    "lastDate": "2026-07-15",
     "salary": "₹37936 - ₹150658",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1221,7 +1221,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rpsc.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ052",
@@ -1230,8 +1230,8 @@
     "vacancies": 3681,
     "qualification": "12th Pass",
     "location": "Jaipur",
-    "startDate": "2026-06-30",
-    "lastDate": "2026-08-02",
+    "startDate": "2025-12-27",
+    "lastDate": "2026-02-01",
     "salary": "₹23153 - ₹174689",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1245,7 +1245,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rpsc.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ053",
@@ -1254,8 +1254,8 @@
     "vacancies": 3119,
     "qualification": "Post Graduate",
     "location": "Jodhpur",
-    "startDate": "2026-09-11",
-    "lastDate": "2026-10-13",
+    "startDate": "2026-05-12",
+    "lastDate": "2026-06-04",
     "salary": "₹19912 - ₹143415",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1269,7 +1269,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rpsc.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ054",
@@ -1278,8 +1278,8 @@
     "vacancies": 1642,
     "qualification": "B.Tech",
     "location": "Udaipur",
-    "startDate": "2026-08-27",
-    "lastDate": "2026-10-08",
+    "startDate": "2026-08-09",
+    "lastDate": "2026-09-12",
     "salary": "₹33569 - ₹136259",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1293,7 +1293,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "active"
   },
   {
     "id": "RJ055",
@@ -1302,8 +1302,8 @@
     "vacancies": 1247,
     "qualification": "12th Pass",
     "location": "Alwar",
-    "startDate": "2026-11-20",
-    "lastDate": "2026-12-23",
+    "startDate": "2026-08-21",
+    "lastDate": "2026-09-25",
     "salary": "₹42206 - ₹140402",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1326,8 +1326,8 @@
     "vacancies": 4838,
     "qualification": "B.Tech",
     "location": "Alwar",
-    "startDate": "2026-05-23",
-    "lastDate": "2026-07-03",
+    "startDate": "2026-01-14",
+    "lastDate": "2026-03-02",
     "salary": "₹29610 - ₹94438",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1350,8 +1350,8 @@
     "vacancies": 1247,
     "qualification": "Diploma",
     "location": "Kota",
-    "startDate": "2026-04-13",
-    "lastDate": "2026-06-09",
+    "startDate": "2026-02-01",
+    "lastDate": "2026-03-07",
     "salary": "₹19527 - ₹113246",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1374,8 +1374,8 @@
     "vacancies": 1250,
     "qualification": "BCA",
     "location": "Alwar",
-    "startDate": "2026-01-21",
-    "lastDate": "2026-03-03",
+    "startDate": "2026-07-15",
+    "lastDate": "2026-08-22",
     "salary": "₹56894 - ₹75364",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1389,7 +1389,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ059",
@@ -1398,8 +1398,8 @@
     "vacancies": 3215,
     "qualification": "B.Tech",
     "location": "Alwar",
-    "startDate": "2026-02-19",
-    "lastDate": "2026-04-09",
+    "startDate": "2026-03-03",
+    "lastDate": "2026-04-21",
     "salary": "₹18571 - ₹110412",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1422,8 +1422,8 @@
     "vacancies": 2583,
     "qualification": "Post Graduate",
     "location": "Jaipur",
-    "startDate": "2026-01-06",
-    "lastDate": "2026-02-13",
+    "startDate": "2026-04-06",
+    "lastDate": "2026-05-29",
     "salary": "₹28998 - ₹165860",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1446,8 +1446,8 @@
     "vacancies": 657,
     "qualification": "Diploma",
     "location": "Jodhpur",
-    "startDate": "2025-12-03",
-    "lastDate": "2026-01-27",
+    "startDate": "2026-05-14",
+    "lastDate": "2026-07-03",
     "salary": "₹53059 - ₹72923",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1470,8 +1470,8 @@
     "vacancies": 2171,
     "qualification": "Diploma",
     "location": "Kota",
-    "startDate": "2026-02-03",
-    "lastDate": "2026-03-06",
+    "startDate": "2026-01-17",
+    "lastDate": "2026-02-25",
     "salary": "₹36722 - ₹142083",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1494,8 +1494,8 @@
     "vacancies": 2040,
     "qualification": "Graduate",
     "location": "Alwar",
-    "startDate": "2026-04-27",
-    "lastDate": "2026-06-19",
+    "startDate": "2026-05-30",
+    "lastDate": "2026-07-07",
     "salary": "₹40828 - ₹83249",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1518,8 +1518,8 @@
     "vacancies": 2538,
     "qualification": "Diploma",
     "location": "Udaipur",
-    "startDate": "2026-06-23",
-    "lastDate": "2026-08-06",
+    "startDate": "2025-12-26",
+    "lastDate": "2026-02-03",
     "salary": "₹31576 - ₹109174",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1533,7 +1533,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ065",
@@ -1542,8 +1542,8 @@
     "vacancies": 4966,
     "qualification": "B.Tech",
     "location": "Udaipur",
-    "startDate": "2026-01-19",
-    "lastDate": "2026-03-07",
+    "startDate": "2026-08-06",
+    "lastDate": "2026-09-25",
     "salary": "₹34108 - ₹139586",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1557,7 +1557,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ066",
@@ -1566,8 +1566,8 @@
     "vacancies": 2710,
     "qualification": "B.Tech",
     "location": "Ajmer",
-    "startDate": "2026-02-15",
-    "lastDate": "2026-03-20",
+    "startDate": "2026-03-12",
+    "lastDate": "2026-04-24",
     "salary": "₹18350 - ₹165988",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1590,8 +1590,8 @@
     "vacancies": 326,
     "qualification": "Diploma",
     "location": "Kota",
-    "startDate": "2026-10-04",
-    "lastDate": "2026-12-02",
+    "startDate": "2025-12-09",
+    "lastDate": "2026-01-29",
     "salary": "₹55787 - ₹67199",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1605,7 +1605,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rpsc.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ068",
@@ -1614,8 +1614,8 @@
     "vacancies": 1260,
     "qualification": "Graduate",
     "location": "Sikar",
-    "startDate": "2026-02-01",
-    "lastDate": "2026-03-15",
+    "startDate": "2025-11-29",
+    "lastDate": "2026-01-22",
     "salary": "₹45172 - ₹160178",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1638,8 +1638,8 @@
     "vacancies": 1499,
     "qualification": "12th Pass",
     "location": "Jaipur",
-    "startDate": "2026-10-04",
-    "lastDate": "2026-11-05",
+    "startDate": "2026-02-26",
+    "lastDate": "2026-03-29",
     "salary": "₹55119 - ₹146987",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1653,7 +1653,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ070",
@@ -1662,8 +1662,8 @@
     "vacancies": 2456,
     "qualification": "Diploma",
     "location": "Bikaner",
-    "startDate": "2025-12-19",
-    "lastDate": "2026-02-04",
+    "startDate": "2026-09-23",
+    "lastDate": "2026-11-20",
     "salary": "₹42545 - ₹109436",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1677,7 +1677,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "coming soon"
   },
   {
     "id": "RJ071",
@@ -1686,8 +1686,8 @@
     "vacancies": 3076,
     "qualification": "Diploma",
     "location": "Sikar",
-    "startDate": "2026-11-04",
-    "lastDate": "2026-12-13",
+    "startDate": "2026-06-07",
+    "lastDate": "2026-08-04",
     "salary": "₹55825 - ₹107989",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1701,7 +1701,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rpsc.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ072",
@@ -1710,8 +1710,8 @@
     "vacancies": 1566,
     "qualification": "Diploma",
     "location": "Ajmer",
-    "startDate": "2026-09-25",
-    "lastDate": "2026-11-20",
+    "startDate": "2026-08-06",
+    "lastDate": "2026-09-25",
     "salary": "₹26682 - ₹95005",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1725,7 +1725,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "active"
   },
   {
     "id": "RJ073",
@@ -1734,8 +1734,8 @@
     "vacancies": 1751,
     "qualification": "BCA",
     "location": "Bikaner",
-    "startDate": "2026-07-05",
-    "lastDate": "2026-08-24",
+    "startDate": "2026-04-18",
+    "lastDate": "2026-06-11",
     "salary": "₹18407 - ₹119143",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1749,7 +1749,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ074",
@@ -1758,8 +1758,8 @@
     "vacancies": 4163,
     "qualification": "Diploma",
     "location": "Jaipur",
-    "startDate": "2026-03-16",
-    "lastDate": "2026-05-04",
+    "startDate": "2026-05-07",
+    "lastDate": "2026-07-02",
     "salary": "₹40733 - ₹61233",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1782,8 +1782,8 @@
     "vacancies": 3762,
     "qualification": "12th Pass",
     "location": "Alwar",
-    "startDate": "2026-04-04",
-    "lastDate": "2026-06-01",
+    "startDate": "2026-05-25",
+    "lastDate": "2026-07-11",
     "salary": "₹39370 - ₹77157",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1806,8 +1806,8 @@
     "vacancies": 4475,
     "qualification": "BCA",
     "location": "Udaipur",
-    "startDate": "2026-02-09",
-    "lastDate": "2026-04-07",
+    "startDate": "2026-09-11",
+    "lastDate": "2026-10-08",
     "salary": "₹26485 - ₹174980",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1821,7 +1821,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "coming soon"
   },
   {
     "id": "RJ077",
@@ -1830,8 +1830,8 @@
     "vacancies": 2427,
     "qualification": "12th Pass",
     "location": "Ajmer",
-    "startDate": "2025-11-22",
-    "lastDate": "2026-01-02",
+    "startDate": "2026-04-18",
+    "lastDate": "2026-06-11",
     "salary": "₹44504 - ₹131724",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1854,8 +1854,8 @@
     "vacancies": 580,
     "qualification": "BCA",
     "location": "Jaipur",
-    "startDate": "2026-05-24",
-    "lastDate": "2026-07-11",
+    "startDate": "2026-07-20",
+    "lastDate": "2026-08-22",
     "salary": "₹53460 - ₹76031",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1869,7 +1869,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ079",
@@ -1878,8 +1878,8 @@
     "vacancies": 2440,
     "qualification": "Graduate",
     "location": "Ajmer",
-    "startDate": "2026-03-31",
-    "lastDate": "2026-05-06",
+    "startDate": "2026-01-25",
+    "lastDate": "2026-03-19",
     "salary": "₹56612 - ₹157583",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1902,8 +1902,8 @@
     "vacancies": 2807,
     "qualification": "Graduate",
     "location": "Kota",
-    "startDate": "2026-07-01",
-    "lastDate": "2026-08-22",
+    "startDate": "2026-01-15",
+    "lastDate": "2026-02-11",
     "salary": "₹34165 - ₹63447",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1917,7 +1917,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ081",
@@ -1926,8 +1926,8 @@
     "vacancies": 3088,
     "qualification": "12th Pass",
     "location": "Jaipur",
-    "startDate": "2026-02-08",
-    "lastDate": "2026-03-12",
+    "startDate": "2026-07-04",
+    "lastDate": "2026-07-31",
     "salary": "₹57942 - ₹158229",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1950,8 +1950,8 @@
     "vacancies": 1059,
     "qualification": "B.Tech",
     "location": "Udaipur",
-    "startDate": "2025-12-09",
-    "lastDate": "2026-01-09",
+    "startDate": "2026-09-22",
+    "lastDate": "2026-10-18",
     "salary": "₹34506 - ₹108830",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1965,7 +1965,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "coming soon"
   },
   {
     "id": "RJ083",
@@ -1974,8 +1974,8 @@
     "vacancies": 1559,
     "qualification": "Graduate",
     "location": "Jodhpur",
-    "startDate": "2026-03-18",
-    "lastDate": "2026-05-08",
+    "startDate": "2026-03-16",
+    "lastDate": "2026-04-15",
     "salary": "₹28922 - ₹112366",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -1998,8 +1998,8 @@
     "vacancies": 3739,
     "qualification": "Post Graduate",
     "location": "Jaipur",
-    "startDate": "2026-05-18",
-    "lastDate": "2026-06-24",
+    "startDate": "2026-07-05",
+    "lastDate": "2026-09-19",
     "salary": "₹44823 - ₹161211",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2013,7 +2013,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ085",
@@ -2022,8 +2022,8 @@
     "vacancies": 2965,
     "qualification": "BCA",
     "location": "Sikar",
-    "startDate": "2025-11-18",
-    "lastDate": "2026-01-11",
+    "startDate": "2026-03-06",
+    "lastDate": "2026-03-31",
     "salary": "₹26604 - ₹175199",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2046,8 +2046,8 @@
     "vacancies": 2965,
     "qualification": "Graduate",
     "location": "Jodhpur",
-    "startDate": "2026-06-03",
-    "lastDate": "2026-07-12",
+    "startDate": "2026-02-17",
+    "lastDate": "2026-04-13",
     "salary": "₹32706 - ₹104887",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2070,9 +2070,33 @@
     "vacancies": 3624,
     "qualification": "Graduate",
     "location": "Sikar",
-    "startDate": "2026-01-10",
-    "lastDate": "2026-02-11",
+    "startDate": "2026-08-22",
+    "lastDate": "2026-10-07",
     "salary": "₹19285 - ₹80513",
+    "documentsNeeded": [
+      "Aadhaar Card",
+      "Recent Passport-size Photograph",
+      "Signature Specimen",
+      "Valid Photo ID Proof",
+      "Rajasthan Domicile/Residence Certificate",
+      "10th & 12th Marksheet",
+      "Graduation Degree & Marksheet",
+      "Category/Caste Certificate (if applicable)",
+      "Experience Certificate (if applicable)"
+    ],
+    "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
+    "status": "coming soon"
+  },
+  {
+    "id": "RJ088",
+    "title": "Patwari",
+    "department": "Rajasthan Department 9",
+    "vacancies": 25,
+    "qualification": "Graduate",
+    "location": "Udaipur",
+    "startDate": "2026-03-15",
+    "lastDate": "2026-04-28",
+    "salary": "₹20117 - ₹72733",
     "documentsNeeded": [
       "Aadhaar Card",
       "Recent Passport-size Photograph",
@@ -2088,38 +2112,14 @@
     "status": "closed"
   },
   {
-    "id": "RJ088",
-    "title": "Patwari",
-    "department": "Rajasthan Department 9",
-    "vacancies": 25,
-    "qualification": "Graduate",
-    "location": "Udaipur",
-    "startDate": "2026-10-12",
-    "lastDate": "2026-12-08",
-    "salary": "₹20117 - ₹72733",
-    "documentsNeeded": [
-      "Aadhaar Card",
-      "Recent Passport-size Photograph",
-      "Signature Specimen",
-      "Valid Photo ID Proof",
-      "Rajasthan Domicile/Residence Certificate",
-      "10th & 12th Marksheet",
-      "Graduation Degree & Marksheet",
-      "Category/Caste Certificate (if applicable)",
-      "Experience Certificate (if applicable)"
-    ],
-    "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
-  },
-  {
     "id": "RJ089",
     "title": "Lab Assistant",
     "department": "Rajasthan Department 3",
     "vacancies": 2639,
     "qualification": "Diploma",
     "location": "Udaipur",
-    "startDate": "2026-07-10",
-    "lastDate": "2026-08-16",
+    "startDate": "2025-12-19",
+    "lastDate": "2026-02-11",
     "salary": "₹46905 - ₹138783",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2133,7 +2133,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ090",
@@ -2142,8 +2142,8 @@
     "vacancies": 2981,
     "qualification": "Graduate",
     "location": "Kota",
-    "startDate": "2026-09-28",
-    "lastDate": "2026-11-24",
+    "startDate": "2026-07-22",
+    "lastDate": "2026-09-15",
     "salary": "₹29483 - ₹139764",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2157,7 +2157,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rpsc.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "active"
   },
   {
     "id": "RJ091",
@@ -2166,8 +2166,8 @@
     "vacancies": 2005,
     "qualification": "B.Tech",
     "location": "Sikar",
-    "startDate": "2026-06-05",
-    "lastDate": "2026-07-08",
+    "startDate": "2026-07-10",
+    "lastDate": "2026-08-03",
     "salary": "₹35529 - ₹129727",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2190,8 +2190,8 @@
     "vacancies": 2030,
     "qualification": "Graduate",
     "location": "Bikaner",
-    "startDate": "2025-12-13",
-    "lastDate": "2026-01-24",
+    "startDate": "2026-07-31",
+    "lastDate": "2026-08-31",
     "salary": "₹59604 - ₹154780",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2205,7 +2205,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rpsc.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ093",
@@ -2214,8 +2214,8 @@
     "vacancies": 4805,
     "qualification": "12th Pass",
     "location": "Bikaner",
-    "startDate": "2026-10-17",
-    "lastDate": "2026-11-24",
+    "startDate": "2026-01-26",
+    "lastDate": "2026-02-25",
     "salary": "₹56477 - ₹69696",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2229,7 +2229,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://police.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ094",
@@ -2238,8 +2238,8 @@
     "vacancies": 379,
     "qualification": "Graduate",
     "location": "Kota",
-    "startDate": "2025-12-15",
-    "lastDate": "2026-01-28",
+    "startDate": "2026-02-09",
+    "lastDate": "2026-03-05",
     "salary": "₹33457 - ₹133915",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2262,8 +2262,8 @@
     "vacancies": 414,
     "qualification": "BCA",
     "location": "Sikar",
-    "startDate": "2025-11-20",
-    "lastDate": "2026-01-09",
+    "startDate": "2026-09-15",
+    "lastDate": "2026-10-25",
     "salary": "₹24208 - ₹108753",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2277,7 +2277,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "coming soon"
   },
   {
     "id": "RJ096",
@@ -2286,8 +2286,8 @@
     "vacancies": 3287,
     "qualification": "Post Graduate",
     "location": "Ajmer",
-    "startDate": "2025-12-14",
-    "lastDate": "2026-02-08",
+    "startDate": "2025-12-31",
+    "lastDate": "2026-01-23",
     "salary": "₹40751 - ₹129923",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2310,8 +2310,8 @@
     "vacancies": 3346,
     "qualification": "Graduate",
     "location": "Alwar",
-    "startDate": "2025-12-17",
-    "lastDate": "2026-01-27",
+    "startDate": "2026-01-15",
+    "lastDate": "2026-03-05",
     "salary": "₹26683 - ₹113160",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2334,8 +2334,8 @@
     "vacancies": 2895,
     "qualification": "Diploma",
     "location": "Jaipur",
-    "startDate": "2026-10-28",
-    "lastDate": "2026-12-02",
+    "startDate": "2026-03-21",
+    "lastDate": "2026-04-10",
     "salary": "₹22202 - ₹144803",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2349,7 +2349,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ099",
@@ -2358,8 +2358,8 @@
     "vacancies": 2849,
     "qualification": "12th Pass",
     "location": "Ajmer",
-    "startDate": "2026-04-13",
-    "lastDate": "2026-05-24",
+    "startDate": "2026-01-01",
+    "lastDate": "2026-02-22",
     "salary": "₹41216 - ₹66428",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2382,8 +2382,8 @@
     "vacancies": 3507,
     "qualification": "BCA",
     "location": "Ajmer",
-    "startDate": "2026-01-02",
-    "lastDate": "2026-02-12",
+    "startDate": "2026-04-29",
+    "lastDate": "2026-06-02",
     "salary": "₹47946 - ₹114138",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2406,8 +2406,8 @@
     "vacancies": 930,
     "qualification": "Post Graduate",
     "location": "Jodhpur",
-    "startDate": "2026-09-26",
-    "lastDate": "2026-11-01",
+    "startDate": "2026-04-06",
+    "lastDate": "2026-05-25",
     "salary": "₹44674 - ₹75031",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2421,7 +2421,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://police.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ102",
@@ -2430,8 +2430,8 @@
     "vacancies": 2347,
     "qualification": "B.Tech",
     "location": "Bikaner",
-    "startDate": "2026-07-07",
-    "lastDate": "2026-08-27",
+    "startDate": "2026-04-24",
+    "lastDate": "2026-06-17",
     "salary": "₹52187 - ₹174098",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2445,7 +2445,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://forest.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ103",
@@ -2454,8 +2454,8 @@
     "vacancies": 1372,
     "qualification": "Diploma",
     "location": "Jaipur",
-    "startDate": "2026-02-07",
-    "lastDate": "2026-03-17",
+    "startDate": "2026-07-06",
+    "lastDate": "2026-08-22",
     "salary": "₹33259 - ₹111528",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2469,7 +2469,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ104",
@@ -2478,8 +2478,8 @@
     "vacancies": 1341,
     "qualification": "BCA",
     "location": "Bikaner",
-    "startDate": "2026-01-24",
-    "lastDate": "2026-03-17",
+    "startDate": "2026-04-04",
+    "lastDate": "2026-05-25",
     "salary": "₹51733 - ₹145901",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2502,8 +2502,8 @@
     "vacancies": 4164,
     "qualification": "B.Tech",
     "location": "Sikar",
-    "startDate": "2026-07-29",
-    "lastDate": "2026-09-26",
+    "startDate": "2025-12-27",
+    "lastDate": "2026-02-19",
     "salary": "₹33521 - ₹125473",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2517,7 +2517,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ106",
@@ -2526,8 +2526,8 @@
     "vacancies": 1578,
     "qualification": "Post Graduate",
     "location": "Kota",
-    "startDate": "2026-01-01",
-    "lastDate": "2026-02-21",
+    "startDate": "2026-07-10",
+    "lastDate": "2026-09-01",
     "salary": "₹33367 - ₹124715",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2541,7 +2541,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ107",
@@ -2550,8 +2550,8 @@
     "vacancies": 4915,
     "qualification": "Post Graduate",
     "location": "Bikaner",
-    "startDate": "2026-01-25",
-    "lastDate": "2026-03-16",
+    "startDate": "2026-08-20",
+    "lastDate": "2026-10-11",
     "salary": "₹47413 - ₹179576",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2565,7 +2565,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "coming soon"
   },
   {
     "id": "RJ108",
@@ -2574,8 +2574,8 @@
     "vacancies": 1037,
     "qualification": "Diploma",
     "location": "Bikaner",
-    "startDate": "2026-01-04",
-    "lastDate": "2026-02-05",
+    "startDate": "2026-07-24",
+    "lastDate": "2026-09-17",
     "salary": "₹52951 - ₹165932",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2589,7 +2589,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ109",
@@ -2598,8 +2598,8 @@
     "vacancies": 3525,
     "qualification": "Post Graduate",
     "location": "Alwar",
-    "startDate": "2026-01-03",
-    "lastDate": "2026-02-21",
+    "startDate": "2026-01-29",
+    "lastDate": "2026-03-02",
     "salary": "₹48584 - ₹80304",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2622,8 +2622,8 @@
     "vacancies": 4206,
     "qualification": "B.Tech",
     "location": "Bikaner",
-    "startDate": "2026-05-19",
-    "lastDate": "2026-07-08",
+    "startDate": "2026-02-14",
+    "lastDate": "2026-03-22",
     "salary": "₹54541 - ₹161481",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2646,8 +2646,8 @@
     "vacancies": 998,
     "qualification": "B.Tech",
     "location": "Udaipur",
-    "startDate": "2026-11-23",
-    "lastDate": "2026-12-28",
+    "startDate": "2026-03-15",
+    "lastDate": "2026-04-12",
     "salary": "₹23110 - ₹151052",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2661,7 +2661,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "coming soon"
+    "status": "closed"
   },
   {
     "id": "RJ112",
@@ -2670,8 +2670,8 @@
     "vacancies": 4533,
     "qualification": "BCA",
     "location": "Jaipur",
-    "startDate": "2026-08-23",
-    "lastDate": "2026-10-09",
+    "startDate": "2026-08-19",
+    "lastDate": "2026-10-17",
     "salary": "₹38857 - ₹161661",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2694,8 +2694,8 @@
     "vacancies": 2919,
     "qualification": "B.Tech",
     "location": "Bikaner",
-    "startDate": "2026-05-31",
-    "lastDate": "2026-07-23",
+    "startDate": "2026-06-08",
+    "lastDate": "2026-07-19",
     "salary": "₹48161 - ₹82044",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2709,7 +2709,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://police.rajasthan.gov.in",
-    "status": "active"
+    "status": "closed"
   },
   {
     "id": "RJ114",
@@ -2718,8 +2718,8 @@
     "vacancies": 1864,
     "qualification": "Diploma",
     "location": "Kota",
-    "startDate": "2026-04-07",
-    "lastDate": "2026-05-14",
+    "startDate": "2026-07-30",
+    "lastDate": "2026-09-12",
     "salary": "₹31973 - ₹63686",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2733,7 +2733,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ115",
@@ -2742,8 +2742,8 @@
     "vacancies": 1290,
     "qualification": "Diploma",
     "location": "Bikaner",
-    "startDate": "2026-01-22",
-    "lastDate": "2026-02-26",
+    "startDate": "2026-06-08",
+    "lastDate": "2026-07-07",
     "salary": "₹41548 - ₹125063",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2766,8 +2766,8 @@
     "vacancies": 3932,
     "qualification": "Post Graduate",
     "location": "Ajmer",
-    "startDate": "2026-03-23",
-    "lastDate": "2026-05-06",
+    "startDate": "2026-07-14",
+    "lastDate": "2026-09-19",
     "salary": "₹51258 - ₹132439",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2781,7 +2781,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "closed"
+    "status": "active"
   },
   {
     "id": "RJ117",
@@ -2790,8 +2790,8 @@
     "vacancies": 4835,
     "qualification": "Diploma",
     "location": "Udaipur",
-    "startDate": "2026-10-20",
-    "lastDate": "2026-12-01",
+    "startDate": "2026-09-19",
+    "lastDate": "2026-10-29",
     "salary": "₹33222 - ₹145332",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2814,8 +2814,8 @@
     "vacancies": 4775,
     "qualification": "BCA",
     "location": "Jodhpur",
-    "startDate": "2026-07-02",
-    "lastDate": "2026-08-09",
+    "startDate": "2026-08-22",
+    "lastDate": "2026-09-22",
     "salary": "₹19777 - ₹125096",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2829,7 +2829,7 @@
       "Experience Certificate (if applicable)"
     ],
     "officialApplicationPortal": "https://rsmssb.rajasthan.gov.in",
-    "status": "active"
+    "status": "coming soon"
   },
   {
     "id": "RJ119",
@@ -2838,8 +2838,8 @@
     "vacancies": 3338,
     "qualification": "12th Pass",
     "location": "Udaipur",
-    "startDate": "2025-11-26",
-    "lastDate": "2026-01-24",
+    "startDate": "2026-06-26",
+    "lastDate": "2026-07-18",
     "salary": "₹31093 - ₹120958",
     "documentsNeeded": [
       "Aadhaar Card",
@@ -2862,8 +2862,8 @@
     "vacancies": 3858,
     "qualification": "Post Graduate",
     "location": "Jodhpur",
-    "startDate": "2026-05-03",
-    "lastDate": "2026-06-22",
+    "startDate": "2026-03-18",
+    "lastDate": "2026-04-18",
     "salary": "₹24923 - ₹97928",
     "documentsNeeded": [
       "Aadhaar Card",

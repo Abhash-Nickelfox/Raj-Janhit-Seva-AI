@@ -63,18 +63,31 @@ SHORTLIST_POOL_SIZE = 100  # how many raw semantic hits to pull before filtering
 # common, obvious cases; anything missed just fails open on both ends
 # (extraction leaves the facet unpopulated; the gap-check asks rather than
 # silently guessing).
+# Devanagari entries alongside every Romanized one (2026-08-11) - need_text
+# is REQUIRED to be written in Devanagari for any Hindi/Hinglish message
+# (see NeedItem.need_text's own field description - verified this retrieves
+# far better than Romanized text), so a Romanized-only keyword list here
+# silently never matches for the majority of this app's actual users.
+# Confirmed live: "बेटी की शादी" (daughter's marriage) never matched
+# 'woman'/'beti' at all, so a scheme tagged occupation_target_group='woman'
+# with NO OTHER restriction (gender/marital_status/caste all 'all') still
+# showed up as having an unconfirmed gap, causing a much narrower, unlikely
+# scheme (widow-only) to be explained/asked about first instead - the exact
+# "narrow scheme wins the gap-check race" failure mode already fixed
+# elsewhere, just via a different route (a script-mismatch false negative,
+# not a ranking issue).
 OCCUPATION_KEYWORDS = {
-    "farmer": ["farmer", "kisan", "krishi"],
-    "student": ["student", "scholarship", "chatra", "vidyarthi"],
-    "widow": ["widow", "vidhwa", "ekal nari"],
-    "differently_abled": ["disab", "divyang", "viklang"],
-    "unemployed": ["unemploy", "berojgar"],
-    "senior_citizen": ["senior citizen", "old age", "vridha", "pension"],
-    "woman": ["women", "mahila", "girl", "beti", "kanya"],
-    "artisan": ["artisan", "weaver", "handicraft", "shilpkar"],
-    "labourer": ["labour", "worker", "shramik", "mazdoor"],
-    "entrepreneur": ["entrepreneur", "business", "udyam", "startup"],
-    "ex_servicemen": ["ex-servicemen", "ex servicemen", "sainik", "veteran", "war widow"],
+    "farmer": ["farmer", "kisan", "krishi", "किसान", "कृषि"],
+    "student": ["student", "scholarship", "chatra", "vidyarthi", "छात्र", "छात्रा", "विद्यार्थी", "छात्रवृत्ति"],
+    "widow": ["widow", "vidhwa", "ekal nari", "विधवा", "एकल नारी"],
+    "differently_abled": ["disab", "divyang", "viklang", "दिव्यांग", "विकलांग"],
+    "unemployed": ["unemploy", "berojgar", "बेरोजगार"],
+    "senior_citizen": ["senior citizen", "old age", "vridha", "pension", "वृद्ध", "बुजुर्ग", "वरिष्ठ नागरिक", "पेंशन"],
+    "woman": ["women", "mahila", "girl", "beti", "kanya", "महिला", "बेटी", "कन्या", "लड़की"],
+    "artisan": ["artisan", "weaver", "handicraft", "shilpkar", "शिल्पकार", "बुनकर", "कारीगर"],
+    "labourer": ["labour", "worker", "shramik", "mazdoor", "श्रमिक", "मजदूर"],
+    "entrepreneur": ["entrepreneur", "business", "udyam", "startup", "व्यवसाय", "उद्यम", "व्यापार", "बिजनेस", "बिज़नेस"],
+    "ex_servicemen": ["ex-servicemen", "ex servicemen", "sainik", "veteran", "war widow", "सैनिक", "पूर्व सैनिक"],
 }
 
 
@@ -302,3 +315,19 @@ class RagService:
         where = {"$and": clauses}
         results = self.chunks.get(where=where, include=["documents", "metadatas"])
         return list(zip(results["documents"], results["metadatas"]))
+
+    def get_discovery_card(self, scheme_id: str, lang: str) -> str:
+        """The pre-synthesized one-paragraph card already used for Stage A
+        search (name + who it's for + benefit type + a short description) -
+        reused here as a lightweight scheme summary distinct from the full
+        field-chunk text, e.g. for generate_node's reply when a clarifying
+        question is needed and a full eligibility/benefit dump would bury
+        it. Falls back to the English card if the requested language's
+        version isn't found, same pattern as scheme_detail's callers use."""
+        where = {"$and": [{"scheme_id": scheme_id}, {"lang": lang}]}
+        results = self.cards.get(where=where, include=["documents"])
+        if results["documents"]:
+            return results["documents"][0]
+        if lang != "en":
+            return self.get_discovery_card(scheme_id, "en")
+        return ""

@@ -28,6 +28,8 @@ from app.config import OPENROUTER_API_KEY, OPENROUTER_MODEL
 from app.state import ConvState
 from app.rag_service import RagService, CitizenContext, OCCUPATION_KEYWORDS, eligibility_verdict
 from app.job_service import JobService
+from app import pii_utils
+from app.janaadhaar_service import get_janaadhaar_service, _PROFILE_FIELD_KEYS
 
 KNOWN_CATEGORIES = [
     "Education & Learning",
@@ -85,7 +87,15 @@ IDENTITY_FIELDS = ("gender", "caste", "marital_status", "residence", "education_
 # just the #1 - found live (2026-08-10): a #1 scheme unrestricted on gender
 # let a #2-ranked, gender-restricted scheme (Transgender Utthan Kosh) slip
 # through with no check at all, since only shortlist[0] was ever examined.
-IDENTITY_GAP_CHECK_TOP_N = 3
+# Raised from 3 to 5 (2026-08-12): "start a business" still opened with a
+# disability question even after the gap-free-alternative check existed,
+# because THREE different narrow-population schemes (differently_abled,
+# woman, transgender) happened to rank #1-#3, pushing a genuinely open
+# scheme to #4 - just outside the old window. _prioritize_gap_free (which
+# decides which schemes to actually SHOW once no question is asked) already
+# scans the full shortlist with no such limit; this only widens how deep
+# the "is there a gap-free alternative at all" check looks before giving up.
+IDENTITY_GAP_CHECK_TOP_N = 5
 
 # Bounds on the two rolling context mechanisms below - kept small and fixed
 # deliberately: this is a safety margin for context the CURRENT turn's own
@@ -334,6 +344,177 @@ def _source_lang(reply_lang):
     return "hi" if reply_lang in ("hindi", "hinglish") else "en"
 
 
+class NeedItem(BaseModel):
+    """One distinct need/topic within the message. A message almost always
+    produces exactly one of these - it only becomes a list because a single
+    message occasionally states two unrelated needs at once (a farming
+    subsidy for the citizen AND a scholarship for their son), and each needs
+    its own search + its own eligibility facts rather than being merged or
+    silently dropped."""
+
+    need_text: str = Field(
+        ...,
+        description=(
+            "A SHORT (3-6 word) phrase capturing ONLY the core purpose/need - e.g. 'start a "
+            "business', 'scholarship for SC student'. Do NOT include place names, institution "
+            "names, degree specifics, or other biographical detail (that's captured separately) - "
+            "this phrase is used directly as a search query, and extra detail hurts semantic "
+            "search relevance rather than helping it (verified 2026-08-05: a query padded with "
+            "'IIT Kharagpur'/'B.Tech computer science'/'Jodhpur' surfaced irrelevant agriculture "
+            "schemes ahead of real business schemes; the same need stated as just 'start a "
+            "company' retrieved correctly).\n"
+            "If the citizen wrote in Hindi OR Hinglish (romanized Hindi), write this phrase in "
+            "DEVANAGARI SCRIPT (transliterate/translate as needed), even if their own message "
+            "used Roman letters. Verified 2026-08-07: 'beti ki shaadi' (Hinglish) retrieved "
+            "irrelevant construction-worker schemes, while the same need as 'बेटी की शादी' "
+            "(Devanagari) correctly retrieved actual marriage-assistance schemes - the embedding "
+            "search matches natural Hindi phrasing far better in Devanagari than in Roman script. "
+            "If they wrote in English, keep this phrase in English."
+        ),
+    )
+    need_category: Optional[str] = Field(
+        None,
+        description=(
+            f"one of {KNOWN_CATEGORIES} ONLY if the message itself names or clearly implies a "
+            "subject matter. If the message is a pure procedural/reference follow-up with no "
+            "subject matter of its own (e.g. 'what's the applying process of this', 'iske "
+            "documents batao', 'just give me the process for this') - referring back to "
+            "something already discussed rather than describing a new topic - leave this null. "
+            "Do NOT guess a category from words like 'apply'/'process'/'documents' alone; those "
+            "describe an ACTION, not a subject."
+        ),
+    )
+    need_benefit_type: Optional[str] = Field(
+        None,
+        description=(
+            f"one of {KNOWN_BENEFIT_TYPES} ONLY if the message itself names or clearly implies "
+            "one, using the same rule as need_category - null for a content-free procedural "
+            "follow-up, do not guess."
+        ),
+    )
+    domain: Literal["scheme", "job", "citizen_status"] = Field(
+        ...,
+        description=(
+            "'job' if this need is about a GOVERNMENT JOB VACANCY/RECRUITMENT - looking for a "
+            "sarkari naukri, bharti, vacancy, a specific post (Patwari, LDC, Police Constable, "
+            "Junior Assistant, etc.), or asking what jobs/posts they can apply for.\n"
+            "'citizen_status' ONLY if the citizen is asking about THEIR OWN existing "
+            "record/application/benefit status with the government - e.g. 'kya meri pension "
+            "aayegi', 'mera application status kya hai', 'meri scholarship kab aayegi' - a "
+            "question that can only be answered by looking up THEM specifically, not a general "
+            "eligibility/discovery question. Do NOT use this for 'am I eligible for X' or 'what "
+            "schemes can I get' - those are 'scheme', even if phrased personally, since they're "
+            "about discovering options, not checking an existing record.\n"
+            "'scheme' for everything else - a welfare benefit, subsidy, pension, scholarship, "
+            "loan, or other government ASSISTANCE scheme (including business/employment-support "
+            "schemes, which are benefits, not a job posting). When genuinely unclear, default to "
+            "'scheme'."
+        ),
+    )
+    job_location: Optional[str] = Field(
+        None,
+        description=(
+            "ONLY if domain='job' and the citizen named a specific city for the job search (e.g. "
+            "'Jaipur', 'Jodhpur'). null otherwise."
+        ),
+    )
+    job_qualification: Optional[Literal["12th Pass", "Diploma", "Graduate", "Post Graduate"]] = Field(
+        None,
+        description=(
+            "ONLY if domain='job' and the citizen explicitly stated THEIR OWN educational/technical "
+            "qualification in THIS message. Normalize free text to exactly one of these 4 levels: "
+            "'12th Pass' (10th/12th pass, no further study); 'Diploma' (polytechnic, ITI, any "
+            "technical diploma); 'Graduate' (any bachelor's degree - B.A./B.Sc./B.Com/B.Tech/BCA/"
+            "etc.); 'Post Graduate' (any master's degree or higher). null if no qualification was "
+            "stated - do not guess this from their phrasing or tone."
+        ),
+    )
+    job_min_salary: Optional[int] = Field(
+        None,
+        description=(
+            "ONLY if domain='job' and the citizen explicitly stated a minimum/expected salary "
+            "figure in THIS message (e.g. '30000 se zyada chahiye', 'at least 25k salary'). The "
+            "number in rupees (convert 'k'/'lakh' as needed, e.g. '25k' -> 25000, '2 lakh' -> "
+            "200000). null if no figure was stated."
+        ),
+    )
+    about: Literal["self", "family_member"] = Field(
+        ...,
+        description=(
+            "'family_member' ONLY if this specific need is explicitly stated as being for someone "
+            "else the citizen is asking on behalf of (son/daughter/spouse/parent/sibling) - e.g. "
+            "'scheme for my beti', 'mera beta PhD karna chahta hai uske liye kuch batao'. 'self' "
+            "for everything else, including when the message doesn't specify - default to self."
+        ),
+    )
+    subject_relation: Optional[str] = Field(
+        None,
+        description="ONLY if about='family_member': a short English word for who (son, daughter, spouse, mother, father, sibling). null if about='self'.",
+    )
+    subject_caste: Optional[str] = Field(
+        None,
+        description="ONLY if about='family_member' AND their caste was explicitly stated for THIS need (e.g. sc/st/obc/general/pvtg). null otherwise, and null if about='self' (use the citizen's own profile instead).",
+    )
+    subject_gender: Optional[str] = Field(
+        None,
+        description="ONLY if about='family_member' AND their gender was explicitly stated for THIS need. null otherwise.",
+    )
+    subject_education_level: Optional[EducationLevel] = Field(
+        None,
+        description=(
+            "ONLY if about='family_member': 'school' if they're CURRENTLY STUDYING IN (not yet passed) "
+            "school, up to Class 12. 'higher_education' if pursuing/holding a degree, diploma, or PhD - "
+            "OR if they've PASSED/COMPLETED Class 12 and are now seeking to continue into further/higher "
+            "studies (e.g. '12th pass, wants to study further') - that is 'higher_education' even before "
+            "a degree has started, because that is the stage they are now entering. "
+            "null if not stated or about='self'."
+        ),
+    )
+    subject_disability: Optional[YesNo] = Field(
+        None,
+        description=(
+            "ONLY if about='family_member': 'yes' if THEY were explicitly stated to have a "
+            "disability, 'no' if explicitly stated to NOT have one (denying one specific thing "
+            "does not confirm anything else - same rule as the citizen's own disability field "
+            "above). null if not stated or about='self'."
+        ),
+    )
+    subject_age: Optional[int] = Field(
+        None,
+        description="ONLY if about='family_member' AND their age was explicitly stated for THIS need. null otherwise.",
+    )
+    subject_marital_status: Optional[str] = Field(
+        None,
+        description=(
+            "ONLY if about='family_member': married, never-married, widowed, divorced, separated - "
+            "only if explicitly stated about THEM specifically. null if not stated or about='self'."
+        ),
+    )
+    subject_family_income: Optional[int] = Field(
+        None,
+        description=(
+            "ONLY if about='family_member' AND an income figure specific to them (not the general "
+            "family income, which belongs on the citizen's own profile) was explicitly stated. "
+            "null otherwise - most of the time this stays null even for family-member needs, since "
+            "family income is usually a household-level fact already captured on the citizen."
+        ),
+    )
+    subject_residence_evidence: Optional[str] = Field(
+        None,
+        description=(
+            "ONLY if about='family_member': the EXACT words, copied verbatim, that specifically say "
+            "WHAT TYPE of area THEY live in (village/rural vs. city/urban) - same rule as the "
+            "citizen's own residence_evidence field above: a place name alone does not qualify, "
+            "and this is usually null even for family-member needs since residence is normally a "
+            "shared household fact already on the citizen's own profile."
+        ),
+    )
+    subject_residence: Optional[RuralUrban] = Field(
+        None,
+        description="ONLY if about='family_member' and subject_residence_evidence above is also filled in with the literal supporting words. null otherwise.",
+    )
+
+
 class ProfileExtraction(BaseModel):
     """Just the mechanical, low-ambiguity part: did the citizen state a fact
     about THEMSELVES (the person sending this message) this message? Split
@@ -341,6 +522,16 @@ class ProfileExtraction(BaseModel):
     trying to fill ~10 fields at once was flaky - even outright dropping
     required fields on simple messages like "main mahila hoon". Fewer
     fields per call = fewer chances to fail.
+
+    RE-CONFIRMED (2026-08-11): a later attempt to re-merge this with
+    NeedExtraction into one call was tried again and reverted a second
+    time - verified directly that it reintroduces a real regression (the
+    residence_evidence guardrail below started confidently misclassifying
+    'main Rajasthan ka rehne wala hu' as rural evidence, 11/11 across two
+    rounds including after strengthening the field description, despite
+    the standalone version below getting it right 5/5). Do not re-attempt
+    merging this with need classification without re-verifying against
+    that exact case first.
 
     Every field here is about the citizen who is typing, never about a
     family member (spouse/child/parent/sibling) they mention. A message
@@ -434,155 +625,17 @@ class ProfileExtraction(BaseModel):
     )
 
 
-class NeedItem(BaseModel):
-    """One distinct need/topic within the message. A message almost always
-    produces exactly one of these - it only becomes a list because a single
-    message occasionally states two unrelated needs at once (a farming
-    subsidy for the citizen AND a scholarship for their son), and each needs
-    its own search + its own eligibility facts rather than being merged or
-    silently dropped."""
-
-    need_text: str = Field(
-        ...,
-        description=(
-            "A SHORT (3-6 word) phrase capturing ONLY the core purpose/need - e.g. 'start a "
-            "business', 'scholarship for SC student'. Do NOT include place names, institution "
-            "names, degree specifics, or other biographical detail (that's captured separately) - "
-            "this phrase is used directly as a search query, and extra detail hurts semantic "
-            "search relevance rather than helping it (verified 2026-08-05: a query padded with "
-            "'IIT Kharagpur'/'B.Tech computer science'/'Jodhpur' surfaced irrelevant agriculture "
-            "schemes ahead of real business schemes; the same need stated as just 'start a "
-            "company' retrieved correctly).\n"
-            "If the citizen wrote in Hindi OR Hinglish (romanized Hindi), write this phrase in "
-            "DEVANAGARI SCRIPT (transliterate/translate as needed), even if their own message "
-            "used Roman letters. Verified 2026-08-07: 'beti ki shaadi' (Hinglish) retrieved "
-            "irrelevant construction-worker schemes, while the same need as 'बेटी की शादी' "
-            "(Devanagari) correctly retrieved actual marriage-assistance schemes - the embedding "
-            "search matches natural Hindi phrasing far better in Devanagari than in Roman script. "
-            "If they wrote in English, keep this phrase in English."
-        ),
-    )
-    need_category: Optional[str] = Field(
-        None,
-        description=(
-            f"one of {KNOWN_CATEGORIES} ONLY if the message itself names or clearly implies a "
-            "subject matter. If the message is a pure procedural/reference follow-up with no "
-            "subject matter of its own (e.g. 'what's the applying process of this', 'iske "
-            "documents batao', 'just give me the process for this') - referring back to "
-            "something already discussed rather than describing a new topic - leave this null. "
-            "Do NOT guess a category from words like 'apply'/'process'/'documents' alone; those "
-            "describe an ACTION, not a subject."
-        ),
-    )
-    need_benefit_type: Optional[str] = Field(
-        None,
-        description=(
-            f"one of {KNOWN_BENEFIT_TYPES} ONLY if the message itself names or clearly implies "
-            "one, using the same rule as need_category - null for a content-free procedural "
-            "follow-up, do not guess."
-        ),
-    )
-    domain: Literal["scheme", "job"] = Field(
-        ...,
-        description=(
-            "'job' if this need is about a GOVERNMENT JOB VACANCY/RECRUITMENT - looking for a "
-            "sarkari naukri, bharti, vacancy, a specific post (Patwari, LDC, Police Constable, "
-            "Junior Assistant, etc.), or asking what jobs/posts they can apply for. 'scheme' for "
-            "everything else - a welfare benefit, subsidy, pension, scholarship, loan, or other "
-            "government ASSISTANCE scheme (including business/employment-support schemes, which "
-            "are benefits, not a job posting). When genuinely unclear, default to 'scheme'."
-        ),
-    )
-    job_location: Optional[str] = Field(
-        None,
-        description=(
-            "ONLY if domain='job' and the citizen named a specific city for the job search (e.g. "
-            "'Jaipur', 'Jodhpur'). null otherwise."
-        ),
-    )
-    about: Literal["self", "family_member"] = Field(
-        ...,
-        description=(
-            "'family_member' ONLY if this specific need is explicitly stated as being for someone "
-            "else the citizen is asking on behalf of (son/daughter/spouse/parent/sibling) - e.g. "
-            "'scheme for my beti', 'mera beta PhD karna chahta hai uske liye kuch batao'. 'self' "
-            "for everything else, including when the message doesn't specify - default to self."
-        ),
-    )
-    subject_relation: Optional[str] = Field(
-        None,
-        description="ONLY if about='family_member': a short English word for who (son, daughter, spouse, mother, father, sibling). null if about='self'.",
-    )
-    subject_caste: Optional[str] = Field(
-        None,
-        description="ONLY if about='family_member' AND their caste was explicitly stated for THIS need (e.g. sc/st/obc/general/pvtg). null otherwise, and null if about='self' (use the citizen's own profile instead).",
-    )
-    subject_gender: Optional[str] = Field(
-        None,
-        description="ONLY if about='family_member' AND their gender was explicitly stated for THIS need. null otherwise.",
-    )
-    subject_education_level: Optional[EducationLevel] = Field(
-        None,
-        description=(
-            "ONLY if about='family_member': 'school' if they're CURRENTLY STUDYING IN (not yet passed) "
-            "school, up to Class 12. 'higher_education' if pursuing/holding a degree, diploma, or PhD - "
-            "OR if they've PASSED/COMPLETED Class 12 and are now seeking to continue into further/higher "
-            "studies (e.g. '12th pass, wants to study further') - that is 'higher_education' even before "
-            "a degree has started, because that is the stage they are now entering. "
-            "null if not stated or about='self'."
-        ),
-    )
-    subject_disability: Optional[YesNo] = Field(
-        None,
-        description=(
-            "ONLY if about='family_member': 'yes' if THEY were explicitly stated to have a "
-            "disability, 'no' if explicitly stated to NOT have one (denying one specific thing "
-            "does not confirm anything else - see the same rule in ProfileExtraction). null if not "
-            "stated or about='self'."
-        ),
-    )
-    subject_age: Optional[int] = Field(
-        None,
-        description="ONLY if about='family_member' AND their age was explicitly stated for THIS need. null otherwise.",
-    )
-    subject_marital_status: Optional[str] = Field(
-        None,
-        description=(
-            "ONLY if about='family_member': married, never-married, widowed, divorced, separated - "
-            "only if explicitly stated about THEM specifically. null if not stated or about='self'."
-        ),
-    )
-    subject_family_income: Optional[int] = Field(
-        None,
-        description=(
-            "ONLY if about='family_member' AND an income figure specific to them (not the general "
-            "family income, which belongs on the citizen's own profile) was explicitly stated. "
-            "null otherwise - most of the time this stays null even for family-member needs, since "
-            "family income is usually a household-level fact already captured on the citizen."
-        ),
-    )
-    subject_residence_evidence: Optional[str] = Field(
-        None,
-        description=(
-            "ONLY if about='family_member': the EXACT words, copied verbatim, that specifically say "
-            "WHAT TYPE of area THEY live in (village/rural vs. city/urban) - same rule as "
-            "ProfileExtraction.residence_evidence: a place name alone does not qualify, and this is "
-            "usually null even for family-member needs since residence is normally a shared "
-            "household fact already on the citizen's own profile."
-        ),
-    )
-    subject_residence: Optional[RuralUrban] = Field(
-        None,
-        description="ONLY if about='family_member' and subject_residence_evidence above is also filled in with the literal supporting words. null otherwise.",
-    )
-
-
 class NeedExtraction(BaseModel):
     """The judgment-heavy part: what do they want, and is it clear enough
     to act on. need_is_specific is the model's OWN direct clarity call -
     never inferred from whether need_category/need_benefit_type happened
     to populate (those two are unreliable and exist only for the rank
-    boost, not for judging vagueness)."""
+    boost, not for judging vagueness).
+
+    Includes chitchat_reply (2026-08-11) - folding the chitchat reply
+    itself into this same call (verified safe/reliable, unlike merging in
+    ProfileExtraction's fields - see that class's docstring) skips a
+    separate chitchat_node call entirely on chitchat turns."""
 
     needs: list[NeedItem] = Field(
         ...,
@@ -665,6 +718,16 @@ class NeedExtraction(BaseModel):
             "(nothing to disambiguate), or if the message clearly refers to ALL of them together."
         ),
     )
+    chitchat_reply: Optional[str] = Field(
+        None,
+        description=(
+            "ONLY if intent='chitchat': write the actual reply to send back, right here - not a "
+            "description of what to say, the literal reply text itself. Keep it brief and warm, "
+            "in the same language/register as detected_language above, and mention you can help "
+            "them find Rajasthan government schemes and jobs. null for every other intent - do not "
+            "write anything here unless intent is genuinely 'chitchat'."
+        ),
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -673,14 +736,46 @@ class NeedExtraction(BaseModel):
 
 def normalize_node(state: ConvState):
     raw = state["raw_message"].strip()
-    # Cheap placeholder only - extract_need_node's detected_language always
-    # overrides this with a real 3-way classification (hindi/hinglish/
-    # english) before any reply-generating node reads reply_lang. This
-    # regex can only tell Devanagari from not-Devanagari, so it can't tell
-    # Hinglish from English - kept only as a fallback value, in the unlikely
-    # case something reads reply_lang before extract_need_node completes.
-    reply_lang = "hindi" if DEVANAGARI_RE.search(raw) else "english"
-    return {"normalized_message": raw, "reply_lang": reply_lang}
+    result = {
+        "normalized_message": raw,
+        # Cleared at the START of every turn, not just after use - if a
+        # PREVIOUS turn set this (janaadhaar_handle_node redacting an ID/OTP
+        # attempt), it must not linger and wrongly redact a later, unrelated
+        # turn's conversation_history entry. janaadhaar_handle_node re-sets
+        # this later in THIS SAME turn's run if it actually processes one.
+        "redacted_raw_message": None,
+    }
+    if not state.get("pending_janaadhaar_step"):
+        # Cheap placeholder only - extract_need_node's detected_language
+        # always overrides this with a real 3-way classification (hindi/
+        # hinglish/english) before any reply-generating node reads
+        # reply_lang. This regex can only tell Devanagari from
+        # not-Devanagari, so it can't tell Hinglish from English - kept only
+        # as a fallback value, in the unlikely case something reads
+        # reply_lang before extract_need_node completes.
+        # Skipped entirely while a Jan Aadhaar verification turn is pending
+        # (route_after_normalize is about to send this straight to
+        # janaadhaar_handle_node, bypassing extract_need_node) - found live
+        # (2026-08-14): without this guard, a Hinglish-typed Jan Aadhaar ID
+        # ("mera jan aadhaar id ... hai", no Devanagari characters) got this
+        # crude heuristic's "english" guess instead, silently downgrading a
+        # conversation already locked to Hinglish since this heuristic's
+        # value was never subsequently corrected by extract_need_node on
+        # these bypassed turns.
+        result["reply_lang"] = "hindi" if DEVANAGARI_RE.search(raw) else "english"
+    return result
+
+
+def route_after_normalize(state: ConvState):
+    """Intercepts every turn where a Jan Aadhaar verification sub-flow is
+    already in progress (an ID, member choice, or OTP is expected next) and
+    sends it straight to janaadhaar_handle_node, BYPASSING extract_profile/
+    extract_need entirely - both are LLM calls, and this turn's raw_message
+    IS itself a credential the citizen just typed. Every other turn proceeds
+    through the normal extraction pipeline unchanged."""
+    if state.get("pending_janaadhaar_step"):
+        return "janaadhaar_handle"
+    return "extract_profile"
 
 
 def extract_profile_node(state: ConvState):
@@ -770,6 +865,7 @@ def extract_profile_node(state: ConvState):
 def extract_need_node(state: ConvState):
     shown_scheme_name = state.get("shown_scheme_name")
     shown_schemes = state.get("shown_schemes") or []
+    shown_jobs = state.get("shown_jobs") or []
     last_reply = state.get("last_reply")
     pending_need_text = state.get("pending_need_text")
 
@@ -801,7 +897,6 @@ def extract_need_node(state: ConvState):
         context_lines.append(f"Multiple schemes were shown last turn, in this order: {options}")
     elif shown_scheme_name:
         context_lines.append(f"Scheme currently in focus (most recently shown): {shown_scheme_name}")
-    shown_jobs = state.get("shown_jobs") or []
     if len(shown_jobs) > 1:
         job_options = "; ".join(f'{i+1}. "{j["title"]}" ({j.get("department", "")})' for i, j in enumerate(shown_jobs))
         context_lines.append(f"Multiple job postings were shown last turn, in this order: {job_options}")
@@ -814,6 +909,13 @@ def extract_need_node(state: ConvState):
             f'They were previously asking about: "{pending_need_text}" - if this message is just a '
             "short answer to your last reply (yes/no/a fact about themselves) rather than a full "
             "restatement, treat need_text as still being about that."
+        )
+    locked_lang = state.get("locked_reply_lang")
+    if locked_lang:
+        context_lines.append(
+            f"The citizen has picked '{locked_lang}' as their language for this whole conversation - "
+            f"if you fill in chitchat_reply below, write it in '{locked_lang}' specifically, "
+            "regardless of what detected_language would otherwise classify this message as."
         )
     context = "\n".join(context_lines)
 
@@ -833,6 +935,8 @@ def extract_need_node(state: ConvState):
             "need_benefit_type": _normalize_to_known(item.need_benefit_type, KNOWN_BENEFIT_TYPES),
             "domain": item.domain,
             "job_location": item.job_location,
+            "job_qualification": item.job_qualification,
+            "job_min_salary": item.job_min_salary,
             "about": item.about,
             "subject_relation": item.subject_relation,
             "subject_facts": {
@@ -857,8 +961,15 @@ def extract_need_node(state: ConvState):
             },
         })
     if not needs:  # defensive - the model is expected to always return >=1
+        # Found live (2026-08-14): a fully context-free, very generic message
+        # ("what is my application status", first turn, nothing else stated)
+        # can come back with an empty needs list from the model. domain
+        # defaults to "scheme" here - matching NeedItem.domain's own "when
+        # genuinely unclear, default to scheme" rule - so route_after_extract's
+        # domain checks (job/citizen_status) have a defined value to read
+        # instead of silently falling through on a missing key.
         needs = [{"need_text": state["normalized_message"], "need_category": None, "need_benefit_type": None,
-                  "about": "self", "subject_relation": None, "subject_facts": {}}]
+                  "domain": "scheme", "about": "self", "subject_relation": None, "subject_facts": {}}]
     primary = needs[0]
 
     need_is_specific = result.need_is_specific == "yes"
@@ -879,7 +990,11 @@ def extract_need_node(state: ConvState):
         "need_is_specific": need_is_specific,
         "intent": intent,
         "turn_type": result.turn_type,
-        "reply_lang": result.detected_language,
+        # A citizen-picked language (via the frontend's language picker)
+        # always wins over this turn's own detection - see ConvState.
+        # locked_reply_lang's docstring for why (voice transcription
+        # flip-flopping between Devanagari and Romanized Hindi).
+        "reply_lang": state.get("locked_reply_lang") or result.detected_language,
         "followup_target": result.followup_target,
         "pending_need_text": None,  # consumed - don't let it linger past the turn it was needed for
         # was the PREVIOUS turn a clarifying question (clarify/clarify_identity)?
@@ -901,6 +1016,17 @@ def extract_need_node(state: ConvState):
         # pending, so the streak survives across the turns route_after_stage_a
         # actually needs to count it over.
         result_dict["clarify_attempts"] = 0
+        result_dict["generate_clarify_rounds"] = 0
+
+    # The reply itself was already composed as part of this SAME call
+    # (chitchat_reply) - route_after_extract sends this straight to
+    # finalize instead of a separate chitchat_node call when this is set,
+    # cutting chitchat turns from 3 LLM calls down to 2 (extract_profile +
+    # this call). Falls back to the old separate chitchat_node call (still
+    # wired into the graph) if the model left chitchat_reply empty despite
+    # intent='chitchat' - never silently produce an empty reply.
+    if intent == "chitchat" and result.chitchat_reply:
+        result_dict["last_reply"] = result.chitchat_reply
     return result_dict
 
 
@@ -909,6 +1035,15 @@ def route_after_extract(state: ConvState):
         return "stage_a"
     turn_type = state.get("turn_type")
     primary_need = (state.get("needs") or [None])[0]
+    # A citizen-status question ("kya meri pension aayegi") can only be
+    # answered by looking up THIS citizen's own record - kicks off the Jan
+    # Aadhaar OTP-consent sub-flow instead of a scheme/job search. This turn's
+    # own message (the status question itself) has no identifier in it, so
+    # it's safe that it already went through extract_profile/extract_need
+    # above - only the FOLLOWING turns (ID/OTP) get intercepted earlier, by
+    # route_after_normalize.
+    if primary_need and primary_need.get("domain") == "citizen_status":
+        return "janaadhaar_handle"
     # Job vacancies are a separate domain from welfare schemes (no identity
     # eligibility gating, structured qualification/location/deadline data
     # instead) - routed to their own parallel subgraph rather than through
@@ -927,7 +1062,11 @@ def route_after_extract(state: ConvState):
     if turn_type == "followup_same_scheme" and state.get("shown_scheme_id"):
         return "stage_b_followup"
     if state.get("intent") == "chitchat":
-        return "chitchat"
+        # extract_need_node already composed the reply in the same call
+        # (chitchat_reply) - skip the separate chitchat_node call entirely
+        # and go straight to finalize. Only falls through to the old
+        # chitchat_node path if that field came back empty.
+        return "finalize" if state.get("last_reply") else "chitchat"
     return "stage_a"
 
 
@@ -1046,6 +1185,14 @@ def clarify_identity_node(state: ConvState):
     top, gaps = _first_identity_gap(shortlist, facts, need_text)
     if top is None:  # defensive - routing already confirmed a gap exists somewhere in the top N
         top = shortlist[0]
+    # Capped at 2, same limit as generate_node's QUESTION LIMIT - a single
+    # scheme restricted on 3+ unconfirmed fields at once (e.g. gender AND
+    # caste AND disability) would otherwise get jammed into one compound
+    # gap_desc and asked as a single overloaded question. Any gap beyond the
+    # first 2 simply isn't asked about THIS turn - once these are answered
+    # and the shortlist is re-evaluated with the new facts, a remaining gap
+    # (on this scheme or another) surfaces on a later turn same as normal.
+    gaps = gaps[:2]
     gap_desc = ", ".join(f"{field.replace('_', ' ')}: {value.replace('|', ' or ')}" for field, value in gaps)
     lang_instruction = _lang_instruction(state.get("reply_lang"))
 
@@ -1117,9 +1264,35 @@ def clarify_identity_node(state: ConvState):
         f'The best-matching scheme is specifically restricted on: {gap_desc}. Its actual eligibility '
         f'text: "{elig_text}"\n\n'
         f"{who_clause}\n\n"
-        f"Normally: ask ONE short, natural, non-intrusive question {lang_instruction} to check whether "
-        "this applies, addressed to whichever person you determined above the restriction is actually "
-        "about, and mention that general options exist either way. Do NOT name the specific scheme. "
+        f"Normally: ask ONE short, natural, non-intrusive question {lang_instruction} SPECIFICALLY "
+        f"about the {gap_desc} criterion identified above - not a different, narrower requirement "
+        "mentioned elsewhere in the eligibility text (e.g. a specific field of study/institution/"
+        "sub-condition), even if that seems more concretely checkable. The eligibility text is only "
+        "there to help phrase the question accurately and to determine who it's about (per the "
+        "paragraph above) - it does not change WHICH criterion the question is about. Found live "
+        "(2026-08-11): a generic 'give me a scholarship' request with an unconfirmed education_level "
+        "gap got asked 'is your PhD in sociology/law/economics/...' instead - a wildly narrower, "
+        "far less likely assumption than the actual gap (are they even in higher education at all), "
+        "purely because that scheme's eligibility text happened to be dominated by that specific PhD "
+        "requirement. "
+        "If the identified gap is caste or marital status - fields with SEVERAL possible values "
+        "(general/OBC/SC/ST/PVTG for caste; married/never-married/widowed/divorced/separated for "
+        "marital status) - phrase the question OPEN-ENDED, asking what category/status the RELEVANT "
+        "PERSON belongs to, NOT a presumptuous yes/no naming the one specific value THIS scheme "
+        "happens to require (avoid 'are you SC?'/'are you widowed?' framings - that presumes an "
+        "answer and reads as leading). This open-ended phrasing follows the SAME who-it's-addressed-"
+        "to rule as everything else here - if the restriction is about the citizen, ask 'aap kis "
+        "caste category se hain?'; if it's about a family member (e.g. their son), ask about THAT "
+        "person by name/relation, e.g. 'aapke bete ki caste category kya hai?', never a bare 'aap/"
+        "aapki' that would wrongly imply it's asking about the citizen themselves. Learning their "
+        "actual category also resolves eligibility for every OTHER caste- or marital-status-"
+        "restricted scheme in the shortlist from this one answer, not just this scheme. For every "
+        "other gap field (residence, education level, disability, gender), a direct yes/no about "
+        "the specific requirement is fine, since those are simple binary confirmations, not "
+        "multi-way categories. "
+        "Address the question to whichever person you determined above the restriction "
+        "is actually about, and mention that general options exist either way. Do NOT name the "
+        "specific scheme. "
         "But if the paragraph above says this scheme doesn't actually apply, say that briefly instead "
         f"{lang_instruction} and mention general options exist - do not ask a question in that case. "
         "One or two sentences either way."
@@ -1384,6 +1557,25 @@ def _format_profile(profile):
     return f"What we know about this citizen: {facts}\n\n"
 
 
+class SchemeAnswer(BaseModel):
+    """Structured wrapper around generate_node's reply purely to know
+    whether it asked a clarifying question - added 2026-08-16 so
+    pending_need_text can be set the same way clarify_node/
+    clarify_identity_node already do, giving a terse follow-up reply next
+    turn something structured to anchor to (see generate_node's return)."""
+
+    reply: str = Field(..., description="The actual reply to send to the citizen - identical in content to what a plain text reply would be.")
+    asked_clarifying_question: bool = Field(
+        ...,
+        description=(
+            "True if `reply` asks the citizen to confirm/provide ANY information needed to "
+            "determine eligibility (per QUESTION LIMIT above) - i.e. it is NOT yet a complete, "
+            "final answer. False if `reply` is a complete answer with no outstanding question "
+            "(eligibility confirmed, or plainly stating nothing matches)."
+        ),
+    )
+
+
 def generate_node(state: ConvState):
     # this turn's own retrieval is authoritative and always included; the
     # rolling cache only fills in recently-discussed schemes/fields THIS
@@ -1420,6 +1612,19 @@ def generate_node(state: ConvState):
     chunks_text = "\n\n".join(
         f"[{meta['scheme_name']} / {meta['field_type']}]\n{doc}" for doc, meta in chunks
     )
+
+    # Pre-synthesized short cards (name + who it's for + one-line
+    # description), reused from Stage A's own search index rather than
+    # having the model improvise a summary from the full eligibility/
+    # benefit text below - see "RESPONSE ORDER"/clarifying-question
+    # instructions further down for when this gets used INSTEAD of the
+    # full text, not alongside it.
+    svc = get_rag_service()
+    discovery_cards_text = "\n".join(
+        f"[{name}] {svc.get_discovery_card(meta['scheme_id'], meta['lang'])}"
+        for name, meta in structured_by_scheme.items()
+    )
+
     lang_instruction = _lang_instruction(state.get("reply_lang"))
 
     needs = state.get("needs") or [{"need_text": state.get("need_text"), "about": "self", "subject_relation": None}]
@@ -1452,12 +1657,38 @@ def generate_node(state: ConvState):
     # of referenced third party.
     question_block += f'\nCitizen\'s exact words this turn: "{state.get("raw_message", "")}"'
 
+    generate_clarify_rounds = state.get("generate_clarify_rounds", 0)
+    hard_stop_block = (
+        f"HARD STOP: this need has already gone through {generate_clarify_rounds} round(s) of your "
+        "own clarifying questions without landing on an answer. You MUST give your FINAL best-effort "
+        "answer this turn - set asked_clarifying_question to false, recommend the most likely-fitting "
+        "scheme(s) from what is already known, and clearly caveat anything still unconfirmed. Do NOT "
+        "ask another question, even a reasonable one. Found live (2026-08-17): a business-loan need "
+        "was asked about across SEVEN consecutive turns and never once reached an actual "
+        "recommendation - one of those questions even repeated something already answered several "
+        "turns earlier, since only a few recent turns of conversation history are ever kept.\n\n"
+        if generate_clarify_rounds >= 2 else ""
+    )
+
     prompt = (
         "Answer the citizen's question using ONLY the information below (both the "
-        "structured eligibility data AND the scheme text) - both are equally authoritative, "
-        "sourced from the same government scheme database. Do not invent eligibility "
+        "structured eligibility data AND the scheme text). Do not invent eligibility "
         "criteria, amounts, or steps not present in either. If it doesn't fully answer, "
         "say what's missing rather than guessing.\n\n"
+        "The structured eligibility data is a COARSE category tag (e.g. a single caste value), "
+        "not a substitute for the scheme text - the scheme text is the actual, complete, "
+        "government-written eligibility description, and is authoritative when the two disagree. "
+        "Confirmed live (2026-08-11): a real scheme's structured caste tag said 'SC', but its own "
+        "written eligibility text named a specific, different list of OBC sub-castes with no "
+        "mention of SC at all - a genuine contradiction in the source government data itself, not "
+        "something invented here. When the tag and the written text disagree like this, do NOT "
+        "call the scheme a 'match' or 'best match' based on the tag - say plainly that the tag and "
+        "the actual written criteria disagree, and that eligibility depends on the WRITTEN "
+        "criteria, not the tag. If the citizen has already stated a fact the written text clearly "
+        "excludes (e.g. they named a caste that isn't in the text's specific list), say so directly "
+        "and drop the scheme from consideration immediately - do not keep re-asking a question "
+        "about the same requirement the citizen has already effectively answered by stating an "
+        "incompatible fact.\n\n"
         "Never assume or state the citizen's OWN caste, disability status, gender, or any other "
         "identity/category fact unless it is explicitly listed in 'What we know about this "
         "citizen' below - if a scheme's eligibility depends on something not confirmed there, say "
@@ -1473,23 +1704,96 @@ def generate_node(state: ConvState):
         "assume it means all of them, and do not just repeat the same conditional information "
         "again unchanged. Instead ask ONE short follow-up naming the specific conditions and "
         "asking which apply, so the next answer is unambiguous.\n\n"
+        "RESPONSE ORDER: if this answer needs a clarifying question (per QUESTION LIMIT below), lead "
+        "with a SHORT list of the 2-3 relevant scheme NAMES (one line each, from 'Scheme summaries' "
+        "below - not the full eligibility/benefit text), then put the clarifying question(s) AFTER "
+        "that, at the end. This reads as a natural conversation - here's what's out there, and here's "
+        "what I need to know to narrow it down - rather than opening with a bare question with no "
+        "context. Reversed 2026-08-17 from an earlier version of this instruction that put the "
+        "question first - that was itself a fix for a different problem (a long wall of full scheme "
+        "text/conditions burying the question at the very end), which QUESTION LIMIT and SCHEME "
+        "DETAIL LEVEL below already solve on their own by capping questions at 2 and keeping scheme "
+        "mentions short - so leading with a few short names no longer buries anything.\n\n"
+        "QUESTION LIMIT: ask AT MOST 2 clarifying questions in this single reply, even if more "
+        "facts remain unconfirmed across the schemes below - pick the 2 most important/narrowing "
+        "ones. Found live (2026-08-14): a vague scholarship need surfaced FIVE separate questions "
+        "(residence, age, class/degree, disability, income) in one reply, all before any scheme "
+        "info - overwhelming, and answering all 5 at once isn't how a real conversation works. Do "
+        "NOT try to compensate by cramming multiple conditions into one combined question either - "
+        "each of the (at most 2) questions should be about ONE thing. Whatever remains unconfirmed "
+        "after these 2 are answered will naturally surface as further questions on a LATER turn, "
+        "once this turn's answers are known - you do not need to mention or promise that here.\n\n"
+        "QUESTION PRIORITY: when choosing WHICH (at most 2) unconfirmed facts to ask about, prefer "
+        "broad, low-sensitivity ones - age, what class/degree they're studying in, family income, "
+        "residence - over narrow, identity-defining, or sensitive ones - disability status, caste, "
+        "marital status, gender. Ask about a sensitive/narrow fact FIRST only if literally no broad "
+        "fact remains unconfirmed for any shortlisted scheme. Found live (2026-08-16): 'paisa chahiye "
+        "beti ki padhai ke liye' (a plain request for help with a daughter's education) got asked "
+        "'does she have a 40%+ disability certificate' as the OPENING question, purely because one of "
+        "three shortlisted scholarships happened to be disability-gated - presumptuous and needlessly "
+        "personal as a first question when her age or which class she's in would narrow things down "
+        "just as well without asking about a sensitive medical/identity fact up front.\n\n"
+        "SCHEME DETAIL LEVEL: if this reply includes a clarifying question (per the above), describe "
+        "each scheme using ONLY its short description below (under 'Scheme summaries') - just what "
+        "it's for, in a line or two - NOT the full eligibility criteria or benefit text ('Scheme "
+        "text' below). Dumping full eligibility/benefit detail for schemes whose fit isn't even "
+        "confirmed yet buries the actual question under paragraphs the citizen can't act on. Once "
+        "no more clarifying questions are needed (eligibility is confirmed, or you're giving a final "
+        "answer), use the full 'Scheme text' as before - this limit is ONLY for a reply that also "
+        "asks something.\n\n"
+        "ANSWER EARLY: prefer giving a caveated best-guess answer over asking yet another question "
+        "whenever you already have enough to make a reasonable recommendation. Only ask about a fact "
+        "if NOT knowing it would change WHICH scheme applies, or whether the citizen is eligible at "
+        "all - not for minor refinements (e.g. whether they need special machinery vs a general "
+        "setup loan doesn't usually change scheme eligibility, only which scheme is a marginally "
+        "better fit - that's exactly the kind of thing to note as a caveat, not gate the whole answer "
+        "behind). When you do answer without every detail confirmed, say plainly what you assumed or "
+        "couldn't confirm, rather than presenting it as certain.\n\n"
+        f"{hard_stop_block}"
         f"{_format_conversation_history(state.get('conversation_history'))}"
         f"{_format_profile(state.get('profile'))}"
         f"{question_block}\n\n"
         f"Structured eligibility data:\n{structured_text}\n\n"
-        f"Scheme text:\n{chunks_text}\n\n"
+        f"Scheme summaries (short - use these instead of 'Scheme text' when asking a clarifying "
+        f"question):\n{discovery_cards_text}\n\n"
+        f"Scheme text (full detail - use once no clarifying question is needed):\n{chunks_text}\n\n"
         f"{lang_instruction} Keep it concise and practical."
     )
-    resp = get_llm().invoke(prompt)
-    return {"last_reply": resp.content}
+    result = get_llm().with_structured_output(SchemeAnswer).invoke(prompt)
+    # Mechanically enforced regardless of what the model decided - the
+    # HARD STOP prompt instruction above asks nicely, but prompt-following
+    # isn't guaranteed, and the whole point of this cap is a GUARANTEE the
+    # loop terminates, not just a strong hint. Once generate_clarify_rounds
+    # already hit the cap coming into this turn, this turn is forced to
+    # count as a final answer no matter what asked_clarifying_question says.
+    asked_question = result.asked_clarifying_question and generate_clarify_rounds < 2
+    # Set the SAME way clarify_node/clarify_identity_node already do, so a
+    # terse follow-up reply ("nahi"/"18 saal") next turn has something
+    # structured to anchor to - found live (2026-08-16): generate_node's own
+    # clarifying questions had NO such anchor (only clarify_node/
+    # clarify_identity_node set this), so a citizen's direct "nahi" to a
+    # disability question never made it into subject_facts at all, and the
+    # same question got asked again two turns later despite already being
+    # answered. Cleared (None) when this reply didn't ask anything, so a
+    # later unrelated message doesn't get wrongly treated as answering a
+    # question that was never actually asked.
+    return {
+        "last_reply": result.reply,
+        "pending_need_text": state.get("need_text") if asked_question else None,
+        "generate_clarify_rounds": (generate_clarify_rounds + 1) if asked_question else 0,
+    }
 
 
 def chitchat_node(state: ConvState):
+    """Fallback only - the normal path composes the chitchat reply directly
+    inside extract_need_node (NeedExtraction.chitchat_reply) and skips this
+    node entirely via route_after_extract. This only runs if that field
+    came back empty despite intent='chitchat'."""
     lang_instruction = _lang_instruction(state.get("reply_lang"))
     prompt = (
         f'The citizen said: "{state["normalized_message"]}"\n'
-        f"This isn't a scheme question. Reply briefly and warmly. {lang_instruction} "
-        "Mention you can help them find Rajasthan government schemes."
+        f"This isn't a scheme/job question. Reply briefly and warmly. {lang_instruction} "
+        "Mention you can help them find Rajasthan government schemes and jobs."
     )
     resp = get_llm().invoke(prompt)
     return {"last_reply": resp.content}
@@ -1505,6 +1809,8 @@ def stage_a_jobs_node(state: ConvState):
     primary_need = (state.get("needs") or [None])[0]
     need_text = primary_need["need_text"] if primary_need else state.get("need_text", "")
     location = primary_need.get("job_location") if primary_need else None
+    qualification = primary_need.get("job_qualification") if primary_need else None
+    min_salary = primary_need.get("job_min_salary") if primary_need else None
     turn_type = state.get("turn_type")
 
     svc = get_job_service()
@@ -1513,7 +1819,10 @@ def stage_a_jobs_node(state: ConvState):
     # search (even a repeat of the same title) should not - a citizen asking
     # about "Patwari" again later should still see it.
     exclude_ids = already_shown if turn_type == "wants_alternatives" else None
-    results = svc.search(need_text, location=location, exclude_ids=exclude_ids, top_n=5)
+    results = svc.search(
+        need_text, location=location, exclude_ids=exclude_ids, top_n=5,
+        qualification=qualification, min_salary=min_salary,
+    )
 
     shown_jobs = [{"job_id": j["id"], "title": j["title"], "department": j["department"]} for j in results]
     # Record EVERY job shown this turn, not just the first - a "show more"
@@ -1612,13 +1921,293 @@ def no_match_node(state: ConvState):
     return {"last_reply": text}
 
 
+# ---------------------------------------------------------------------------
+# Jan Aadhaar citizen-status verification sub-flow (mock, 2026-08-14) - a
+# scripted 3-step OTP-consent dialogue (member choice -> OTP -> fetch),
+# mirroring the real Jan Aadhaar Integration Document v1.8 flow. Every
+# message in it is parsed deterministically via app/pii_utils.py, never by
+# an LLM - see route_after_normalize/route_after_extract above for how turns
+# get routed here instead of through the normal extraction pipeline.
+# ---------------------------------------------------------------------------
+
+_ASK_ID_TEXT = {
+    "hindi": "आपकी स्थिति जानने के लिए मुझे आपका Jan Aadhaar verify करना होगा। कृपया अपना 10 अंकों का Jan Aadhaar ID बताएं।",
+    "hinglish": "Aapki status jaanne ke liye mujhe aapka Jan Aadhaar verify karna hoga. Kripya apna 10 anko ka Jan Aadhaar ID bataiye.",
+    "english": "To check your status, I'll need to verify your Jan Aadhaar. Please share your 10-digit Jan Aadhaar ID.",
+}
+_ID_INVALID_TEXT = {
+    "hindi": "माफ़ कीजिए, यह एक मान्य Jan Aadhaar ID नहीं लग रहा। कृपया सही 10 अंकों का ID दोबारा भेजें।",
+    "hinglish": "Maaf kijiye, yeh valid Jan Aadhaar ID nahi lag raha. Kripya sahi 10 anko ka ID dobara bhejein.",
+    "english": "Sorry, that doesn't look like a valid Jan Aadhaar ID. Please send the correct 10-digit ID again.",
+}
+_ID_NOT_FOUND_TEXT = {
+    "hindi": "माफ़ कीजिए, इस Jan Aadhaar ID से कोई रिकॉर्ड नहीं मिला। कृपया ID दोबारा जांच कर बताएं, या कुछ और पूछें।",
+    "hinglish": "Maaf kijiye, is Jan Aadhaar ID se koi record nahi mila. Kripya ID dobara check karke bataiye, ya kuch aur pooch sakte hain.",
+    "english": "Sorry, no record was found for that Jan Aadhaar ID. Please double-check and try again, or ask me something else.",
+}
+_MEMBER_CHOICE_HEADER = {
+    "hindi": "आपके Jan Aadhaar में ये सदस्य मिले हैं। कृपया बताएं यह जानकारी किसके लिए चाहिए (नंबर बताएं):",
+    "hinglish": "Aapke Jan Aadhaar mein ye members mile hain. Kripya bataiye yeh jaankari kiske liye chahiye (number bataiye):",
+    "english": "Your Jan Aadhaar has these family members - please tell me which one this is for (reply with the number):",
+}
+# Appended after the member list every time (2026-08-14) - a relative living
+# in a DIFFERENT household has their own separate Jan Aadhaar family ID (per
+# janaadhaar.rajasthan.gov.in's own FAQ: a split household gets "a new Jan
+# Aadhaar family ID"), so they simply won't appear in THIS list at all - the
+# member list itself carries no relation metadata (just masked names), so
+# only the citizen can recognize whether the person they mean is even here.
+# Offered proactively rather than only after a failed match, so a citizen
+# asking about someone outside their own household doesn't have to guess
+# their way through a wrong list first.
+_MEMBER_CHOICE_FOOTER = {
+    "hindi": "(अगर इनमें से कोई नहीं है, तो बताएं और उनका अपना Jan Aadhaar ID दें।)",
+    "hinglish": "(Agar inme se koi nahi hai, to bataiye aur unka apna Jan Aadhaar ID dijiye.)",
+    "english": "(If none of these are who you mean, let me know and share their own Jan Aadhaar ID instead.)",
+}
+_NOT_IN_LIST_TEXT = {
+    "hindi": "ठीक है। अगर वह व्यक्ति आपके साथ एक ही Jan Aadhaar परिवार में नहीं हैं, तो कृपया उनका अपना 10 अंकों का Jan Aadhaar ID बताएं।",
+    "hinglish": "Theek hai. Agar wo vyakti aapke saath ek hi Jan Aadhaar parivar mein nahi hain, to kripya unka apna 10 anko ka Jan Aadhaar ID bataiye.",
+    "english": "Understood. If they're not part of your own Jan Aadhaar household, please share their own 10-digit Jan Aadhaar ID instead.",
+}
+_NONE_OF_THESE_PHRASES = (
+    "inme se koi nahi", "in mein se koi nahi", "koi nahi hai", "koi bhi nahi",
+    "इनमें से कोई नहीं", "कोई नहीं है", "none of these", "not in the list",
+    "not on this list", "alag rehte", "अलग रहते",
+)
+_ASK_OTP_TEXT = {
+    "hindi": "आपके रजिस्टर्ड मोबाइल नंबर पर एक OTP भेज दिया गया है। कृपया वह 6 अंकों का OTP यहां बताएं।",
+    "hinglish": "Aapke registered mobile number par ek OTP bhej diya gaya hai. Kripya wo 6 anko ka OTP yahan bataiye.",
+    "english": "An OTP has been sent to your registered mobile number. Please share that 6-digit OTP here.",
+}
+_OTP_INVALID_TEXT = {
+    "hindi": "यह OTP सही नहीं लग रहा। कृपया दोबारा सही 6 अंकों का OTP भेजें।",
+    "hinglish": "Yeh OTP sahi nahi lag raha. Kripya dobara sahi 6 anko ka OTP bhejein.",
+    "english": "That OTP doesn't look correct. Please send the correct 6-digit OTP again.",
+}
+_FLOW_ABORTED_TEXT = {
+    "hindi": "माफ़ कीजिए, वेरिफिकेशन पूरा नहीं हो पाया। कृपया थोड़ी देर बाद दोबारा कोशिश करें, या मुझसे कुछ और पूछें।",
+    "hinglish": "Maaf kijiye, verification poora nahi ho paaya. Kripya thodi der baad dobara koshish karein, ya mujhse kuch aur poochein.",
+    "english": "Sorry, verification couldn't be completed. Please try again in a little while, or ask me something else.",
+}
+
+_MEMBER_ORDINAL_WORDS = {
+    "1": 0, "first": 0, "pehla": 0, "pehli": 0, "पहला": 0, "पहली": 0,
+    "2": 1, "second": 1, "dusra": 1, "dusri": 1, "दूसरा": 1, "दूसरी": 1,
+    "3": 2, "third": 2, "teesra": 2, "teesri": 2, "तीसरा": 2, "तीसरी": 2,
+}
+
+_MAX_JANAADHAAR_ATTEMPTS = 3
+
+
+def _pick_text(reply_lang, texts):
+    return texts.get(reply_lang, texts["english"])
+
+
+def _format_member_choice_text(reply_lang, members):
+    header = _pick_text(reply_lang, _MEMBER_CHOICE_HEADER)
+    lines = "\n".join(f"{i + 1}. {m['masked_name']}" for i, m in enumerate(members))
+    footer = _pick_text(reply_lang, _MEMBER_CHOICE_FOOTER)
+    return f"{header}\n{lines}\n{footer}"
+
+
+def _is_none_of_these(text: str) -> bool:
+    lowered = text.lower()
+    return any(phrase in lowered for phrase in _NONE_OF_THESE_PHRASES)
+
+
+def _resolve_member_choice(text, members):
+    # Tokenize rather than requiring the WHOLE trimmed message to match one
+    # of the ordinal words exactly - found live (2026-08-14): "dusra wala"
+    # ("the second one", a natural Hinglish phrasing with a trailing "wala")
+    # failed an exact-match lookup even though "dusra" itself is a known
+    # ordinal, because the full string "dusra wala" isn't itself a dict key.
+    words = re.findall(r"[\wऀ-ॿ]+", text.lower())
+    for word in words:
+        if word in _MEMBER_ORDINAL_WORDS:
+            idx = _MEMBER_ORDINAL_WORDS[word]
+            if idx < len(members):
+                return members[idx]
+    digits = pii_utils.digits_only(text)
+    if digits:
+        idx = int(digits) - 1
+        if 0 <= idx < len(members):
+            return members[idx]
+    return None
+
+
+def _abort_janaadhaar_flow(reply_lang):
+    return {
+        "last_reply": _pick_text(reply_lang, _FLOW_ABORTED_TEXT),
+        "pending_janaadhaar_step": None,
+        "janaadhaar_member_id": None,
+        "janaadhaar_tid": None,
+        "janaadhaar_members": [],
+        "janaadhaar_attempts": 0,
+    }
+
+
+def janaadhaar_handle_node(state: ConvState):
+    step = state.get("pending_janaadhaar_step")
+    reply_lang = state.get("reply_lang")
+    attempts = state.get("janaadhaar_attempts", 0)
+    svc = get_janaadhaar_service()
+
+    if step is None:
+        # Fresh trigger from a citizen_status need - THIS turn's own message
+        # (the status question itself) already safely went through
+        # extract_profile/extract_need, nothing to redact yet.
+        return {
+            "last_reply": _pick_text(reply_lang, _ASK_ID_TEXT),
+            "pending_janaadhaar_step": "awaiting_id",
+            "janaadhaar_attempts": 0,
+        }
+
+    # From here on, THIS turn's raw_message is itself a credential attempt
+    # (an ID, a member choice, or an OTP) - never let it reach
+    # conversation_history/logs unredacted, regardless of which branch below
+    # actually runs.
+    redacted = {"redacted_raw_message": "[Jan Aadhaar verification input redacted]"}
+
+    if step == "awaiting_id":
+        jan_id = pii_utils.extract_jan_aadhaar_id(state["raw_message"])
+        if not jan_id:
+            if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:
+                return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+            return {**redacted, "last_reply": _pick_text(reply_lang, _ID_INVALID_TEXT), "janaadhaar_attempts": attempts + 1}
+
+        result = svc.fetch_member_list(jan_id)
+        if result["status"] != "JAN_200" or not result["members"]:
+            return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+
+        members = result["members"]
+        if len(members) == 1:
+            otp_result = svc.generate_otp(members[0]["member_id"])
+            return {
+                **redacted,
+                "last_reply": _pick_text(reply_lang, _ASK_OTP_TEXT),
+                "pending_janaadhaar_step": "awaiting_otp",
+                "janaadhaar_member_id": members[0]["member_id"],
+                "janaadhaar_tid": otp_result["tid"],
+                "janaadhaar_members": members,
+                "janaadhaar_attempts": 0,
+            }
+        return {
+            **redacted,
+            "last_reply": _format_member_choice_text(reply_lang, members),
+            "pending_janaadhaar_step": "awaiting_member_choice",
+            "janaadhaar_members": members,
+            "janaadhaar_attempts": 0,
+        }
+
+    if step == "awaiting_member_choice":
+        members = state.get("janaadhaar_members") or []
+        if _is_none_of_these(state["raw_message"]):
+            # The person they mean isn't in THIS family's list at all - most
+            # likely a relative in a different household (their own,
+            # separate Jan Aadhaar family ID) rather than a resolution
+            # failure - restart the flow asking for THAT ID instead of
+            # re-showing a list that can never contain them.
+            return {
+                **redacted,
+                "last_reply": _pick_text(reply_lang, _NOT_IN_LIST_TEXT),
+                "pending_janaadhaar_step": "awaiting_id",
+                "janaadhaar_members": [],
+                "janaadhaar_attempts": 0,
+            }
+        chosen = _resolve_member_choice(state["raw_message"], members)
+        if not chosen:
+            if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:
+                return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+            return {
+                **redacted,
+                "last_reply": _format_member_choice_text(reply_lang, members),
+                "janaadhaar_attempts": attempts + 1,
+            }
+
+        otp_result = svc.generate_otp(chosen["member_id"])
+        return {
+            **redacted,
+            "last_reply": _pick_text(reply_lang, _ASK_OTP_TEXT),
+            "pending_janaadhaar_step": "awaiting_otp",
+            "janaadhaar_member_id": chosen["member_id"],
+            "janaadhaar_tid": otp_result["tid"],
+            "janaadhaar_attempts": 0,
+        }
+
+    if step == "awaiting_otp":
+        otp = pii_utils.extract_otp(state["raw_message"])
+        if not otp:
+            if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:
+                return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+            return {**redacted, "last_reply": _pick_text(reply_lang, _OTP_INVALID_TEXT), "janaadhaar_attempts": attempts + 1}
+
+        result = svc.validate_otp_and_fetch(state.get("janaadhaar_member_id"), state.get("janaadhaar_tid"), otp)
+        if result["status"] != "JAN_200":
+            if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:
+                return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+            return {**redacted, "last_reply": _pick_text(reply_lang, _OTP_INVALID_TEXT), "janaadhaar_attempts": attempts + 1}
+
+        data = result["data"]
+        profile_fields = {k: v for k, v in data.items() if k in _PROFILE_FIELD_KEYS and v is not None}
+        merged_profile = dict(state.get("profile", {}))
+        merged_profile.update(profile_fields)
+
+        # Entitlement Details is a SEPARATE fetch from the identity data
+        # above (unverified schema - see janaadhaar_mock_data.
+        # handle_entitlement_details) - this is what actually carries
+        # per-scheme status (enrolled/approved/paid, last payment amount/
+        # date), not the identity fetch itself.
+        entitlement_result = svc.get_entitlement_details(state.get("janaadhaar_member_id"))
+        entitlements = entitlement_result.get("entitlements", [])
+
+        # Only entitlements (never the ID/OTP, which never reached this
+        # point as anything but a local variable) go into this prompt.
+        lang_instruction = _lang_instruction(reply_lang)
+        prompt = (
+            f'The citizen asked about their own status: "{state.get("need_text", "")}"\n'
+            f"Their identity has just been verified via Jan Aadhaar OTP. Their scheme entitlements:\n"
+            f"{entitlements}\n\n"
+            f"Answer their question directly using ONLY this data {lang_instruction} - match it to "
+            "whichever scheme they actually asked about (by name, even if phrased differently, "
+            "abbreviated, or in Hindi/Hinglish). If they asked generally what they're enrolled in "
+            "rather than about one specific scheme, briefly list all of the entitlements above. If "
+            "NONE of the entitlements match what they asked about, say plainly that no record was "
+            "found for that specific scheme, rather than guessing from an unrelated one. Do not "
+            "invent any detail not listed above. Keep it to one or two sentences unless listing "
+            "multiple entitlements. Do not mention Jan Aadhaar, OTP, or the verification process in "
+            "this reply - just answer their status question naturally, as if you already knew this "
+            "about them."
+        )
+        resp = get_llm().invoke(prompt)
+        return {
+            **redacted,
+            "last_reply": resp.content,
+            "profile": merged_profile,
+            "janaadhaar_status_data": entitlements,
+            "pending_janaadhaar_step": None,
+            "janaadhaar_member_id": None,
+            "janaadhaar_tid": None,
+            "janaadhaar_members": [],
+            "janaadhaar_attempts": 0,
+        }
+
+    # Defensive fallback - shouldn't be reachable given the three states above.
+    return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+
+
 def finalize_node(state: ConvState):
     """Every path (generate/clarify/clarify_identity/chitchat/no_match) routes
     through here before END, so conversation_history updates consistently
     regardless of which one produced the reply - rather than duplicating
     this update in five different terminal nodes."""
     history = list(state.get("conversation_history") or [])
-    history.append({"user": state["raw_message"], "bot": state.get("last_reply", "")})
+    # redacted_raw_message (set by janaadhaar_handle_node) stands in for the
+    # real message whenever this turn was a Jan Aadhaar ID/OTP attempt - this
+    # history gets replayed into FUTURE extract_profile/extract_need/generate
+    # prompts, so persisting the raw value here would leak it to an LLM one
+    # turn later even if this turn's own handling never did.
+    persisted_message = state.get("redacted_raw_message") or state["raw_message"]
+    history.append({"user": persisted_message, "bot": state.get("last_reply", "")})
     return {"conversation_history": history[-MAX_HISTORY_TURNS:]}
 
 
@@ -1643,10 +2232,15 @@ def build_graph():
     graph.add_node("stage_a_jobs", stage_a_jobs_node)
     graph.add_node("stage_b_followup_jobs", stage_b_followup_jobs_node)
     graph.add_node("generate_jobs", generate_jobs_node)
+    graph.add_node("janaadhaar_handle", janaadhaar_handle_node)
     graph.add_node("finalize", finalize_node)
 
     graph.set_entry_point("normalize")
-    graph.add_edge("normalize", "extract_profile")
+    graph.add_conditional_edges(
+        "normalize",
+        route_after_normalize,
+        {"janaadhaar_handle": "janaadhaar_handle", "extract_profile": "extract_profile"},
+    )
     graph.add_edge("extract_profile", "extract_need")
     graph.add_conditional_edges(
         "extract_need",
@@ -1655,9 +2249,11 @@ def build_graph():
             "stage_b_followup": "stage_b_followup",
             "show_more": "show_more",
             "chitchat": "chitchat",
+            "finalize": "finalize",
             "stage_a": "stage_a",
             "stage_a_jobs": "stage_a_jobs",
             "stage_b_followup_jobs": "stage_b_followup_jobs",
+            "janaadhaar_handle": "janaadhaar_handle",
         },
     )
     graph.add_conditional_edges(
@@ -1676,6 +2272,7 @@ def build_graph():
     graph.add_edge("clarify_identity", "finalize")
     graph.add_edge("chitchat", "finalize")
     graph.add_edge("no_match", "finalize")
+    graph.add_edge("janaadhaar_handle", "finalize")
     graph.add_edge("finalize", END)
 
     return graph.compile(checkpointer=MemorySaver())

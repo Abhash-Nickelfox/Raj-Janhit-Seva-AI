@@ -12,6 +12,15 @@ const WELCOME_TEXT =
   "Namaste! Main Rajasthan sarkari yojnaon aur naukriyon mein madad karta hoon.\n" +
   "Hi! I help with Rajasthan govt schemes and jobs.";
 
+// Shown as its own bot message every time the citizen picks/changes a
+// language via LanguageSelector (top-right, always visible) - written in
+// the language just selected, so the confirmation itself demonstrates it.
+const LANGUAGE_CONFIRM_TEXT = {
+  hindi: "आपने हिंदी भाषा चुनी है। अब मैं हिंदी में जवाब दूंगा।",
+  hinglish: "Aapne Hinglish language select kiya hai. Ab main Hinglish mein jawab dunga.",
+  english: "You have selected English language. I'll reply in English now.",
+};
+
 // Unlike the reference frontend, this doesn't fire an empty-message request
 // on mount to fetch a greeting from the backend - the conversation graph's
 // extraction nodes expect a real citizen message, not an empty kickoff, so
@@ -21,6 +30,17 @@ export const useChatStore = create((set, get) => ({
   sessionId: newSessionId(),
   messages: [{ role: "bot", text: WELCOME_TEXT }],
   isLoading: false,
+  // null until the citizen picks one via LanguageSelector - stays null
+  // (normal per-turn detection) if they never pick, so this is purely
+  // additive, not a required step. Once set, stays locked across every
+  // future turn until they change it again via the same selector.
+  preferredLang: null,
+
+  setPreferredLang: (lang) =>
+    set((state) => ({
+      preferredLang: lang,
+      messages: [...state.messages, { role: "bot", text: LANGUAGE_CONFIRM_TEXT[lang] }],
+    })),
 
   sendMessage: async (text) => {
     const trimmed = text.trim();
@@ -32,7 +52,7 @@ export const useChatStore = create((set, get) => ({
     }));
 
     try {
-      const { reply } = await apiSendMessage(get().sessionId, trimmed);
+      const { reply } = await apiSendMessage(get().sessionId, trimmed, get().preferredLang);
       set((state) => ({
         messages: [...state.messages, { role: "bot", text: reply }],
         isLoading: false,

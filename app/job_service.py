@@ -11,6 +11,8 @@ RagService's eligibility-gating machinery.
 """
 
 import json
+import re
+from datetime import date
 from pathlib import Path
 from typing import Optional
 
@@ -28,6 +30,47 @@ JOBS_PATH = Path(__file__).resolve().parent.parent / "data" / "processed" / "job
 # RagService uses for scheme-name matching.
 TITLE_MATCH_THRESHOLD = 80
 
+# The dataset's qualification field is a small closed set (verified directly
+# against jobs.json, 2026-08-14), not free text - '12th Pass' < 'Diploma'
+# (covers polytechnic/ITI) < 'Graduate'/'BCA'/'B.Tech' (same tier - all
+# bachelor's-level) < 'Post Graduate'. This tier number is what
+# _rank_key uses to prioritize jobs the citizen is actually likely eligible
+# for, WITHOUT ever excluding higher-tier ones (see search()'s docstring).
+_QUALIFICATION_TIER = {
+    "12th Pass": 0,
+    "Diploma": 1,
+    "Graduate": 2, "BCA": 2, "B.Tech": 2,
+    "Post Graduate": 3,
+}
+
+
+def _qualification_tier(value: Optional[str]) -> int:
+    return _QUALIFICATION_TIER.get(value, 2)  # unknown values default to the common bachelor's tier
+
+
+def _min_salary(job) -> int:
+    """"₹33843 - ₹97275" -> 33843. First number in the string is always the
+    lower bound of the range in this dataset."""
+    nums = re.findall(r"\d+", job["salary"])
+    return int(nums[0]) if nums else 0
+
+
+def _compute_status(job, today: date) -> str:
+    """Computed fresh every call rather than trusted from the stored
+    "status" field - found live (2026-08-14): the stored field went stale
+    the moment "today" moved past a job's lastDate without the file being
+    re-edited (9 of 120 records had status="active" with a lastDate already
+    in the past). A static field can only ever be correct as of whenever it
+    was last written; computing it from startDate/lastDate/today is correct
+    forever, no matter how much time passes."""
+    start = date.fromisoformat(job["startDate"])
+    last = date.fromisoformat(job["lastDate"])
+    if today < start:
+        return "coming soon"
+    if today > last:
+        return "closed"
+    return "active"
+
 
 def _title_match_score(query, job):
     query_lower = query.lower()
@@ -42,32 +85,53 @@ class JobService:
         self.jobs = json.loads(JOBS_PATH.read_text(encoding="utf-8"))
         self._by_id = {j["id"]: j for j in self.jobs}
 
-    def search(self, query_text, location: Optional[str] = None, status: Optional[str] = "active",
-               exclude_ids: Optional[list] = None, top_n: int = 5):
-        """Fuzzy-matches query_text against title/department, optionally
-        filtered by status/location, sorted by title-match score (falling
-        back to soonest deadline when nothing specifically matches, so a
-        bare "sarkari naukri" query still returns the most time-sensitive
-        postings rather than an arbitrary order).
+    def _with_live_status(self, job):
+        return {**job, "status": _compute_status(job, date.today())}
 
-        Never excludes on qualification - fail-open, same principle as
+    def search(self, query_text, location: Optional[str] = None, status: Optional[str] = "active",
+               exclude_ids: Optional[list] = None, top_n: int = 5,
+               qualification: Optional[str] = None, min_salary: Optional[int] = None):
+        """Fuzzy-matches query_text against title/department, optionally
+        filtered by status/location/min_salary. When a specific post is
+        named, sorted by title-match score. Otherwise (a qualification-
+        driven or bare "sarkari naukri" query), sorted by qualification fit
+        and vacancy count - see below.
+
+        Never EXCLUDES on qualification - fail-open, same principle as
         scheme eligibility: a Graduate asking about a "12th Pass" posting
         shouldn't have it hidden, since overqualification is normally fine
         for these posts. The requirement is surfaced in the reply instead,
-        so the citizen can self-assess.
+        so the citizen can self-assess. What qualification DOES change is
+        ranking: found live (2026-08-14) - "maine polytechnic ITI kiya hua
+        hai, koi job batao" produced a need_text ("polytechnic ITI graduate
+        job") that never fuzzy-matched any real job TITLE (titles are post
+        names like "Patwari", not qualification categories), so it fell
+        into the bare-query fallback and returned B.Tech-required postings
+        sorted by pure deadline, ignoring the stated qualification entirely.
+        Now: when no specific post is named but a qualification IS stated,
+        jobs at or below the citizen's tier are ranked first (real fit),
+        then by vacancy count (more open seats = better odds), then by
+        deadline - higher-tier jobs still appear, just later, never dropped.
 
-        If a location filter drops every candidate, it's silently relaxed
-        (dropped) rather than returning nothing - a citizen asking about a
-        city with no current openings still gets useful alternatives back.
+        If a location/min_salary filter drops every candidate, it's
+        silently relaxed (dropped) rather than returning nothing - a
+        citizen asking about a city/pay bar with no current openings still
+        gets useful alternatives back.
         """
+        today = date.today()
         candidates = self.jobs
         if status:
-            candidates = [j for j in candidates if j["status"] == status]
+            candidates = [j for j in candidates if _compute_status(j, today) == status]
         if exclude_ids:
             candidates = [j for j in candidates if j["id"] not in exclude_ids]
 
         if location:
             narrowed = [j for j in candidates if location.lower() in j["location"].lower()]
+            if narrowed:
+                candidates = narrowed
+
+        if min_salary:
+            narrowed = [j for j in candidates if _min_salary(j) >= min_salary]
             if narrowed:
                 candidates = narrowed
 
@@ -81,10 +145,21 @@ class JobService:
             # in the remaining slots purely because nothing else scored
             # higher, not because they're actually relevant).
             strong.sort(key=lambda pair: (-pair[0], pair[1]["lastDate"]))
-            return [j for _, j in strong[:top_n]]
-        # No specific title/department named (a bare "sarkari naukri") -
-        # return the broadest, most time-sensitive set instead of noise-order.
-        return sorted(candidates, key=lambda j: j["lastDate"])[:top_n]
+            return [self._with_live_status(j) for _, j in strong[:top_n]]
+
+        if qualification:
+            citizen_tier = _qualification_tier(qualification)
+            ranked = sorted(
+                candidates,
+                key=lambda j: (_qualification_tier(j["qualification"]) > citizen_tier, -j["vacancies"], j["lastDate"]),
+            )
+        else:
+            # No specific title AND no stated qualification (a bare "sarkari
+            # naukri") - most vacancies first (better realistic odds), then
+            # soonest deadline, instead of an arbitrary/pure-deadline order.
+            ranked = sorted(candidates, key=lambda j: (-j["vacancies"], j["lastDate"]))
+        return [self._with_live_status(j) for j in ranked[:top_n]]
 
     def get(self, job_id):
-        return self._by_id.get(job_id)
+        job = self._by_id.get(job_id)
+        return self._with_live_status(job) if job else None

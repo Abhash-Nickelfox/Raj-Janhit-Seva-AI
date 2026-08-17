@@ -10,3 +10,5 @@ python-dotenv
 rapidfuzz
 fastapi
 uvicorn[standard]
+python-multipart
+cryptography

@@ -1,10 +1,11 @@
 import { useEffect, useRef } from "react";
 import { useChatStore } from "../store/chatStore.js";
 import MessageBubble from "./MessageBubble.jsx";
+import LanguageSelector from "./LanguageSelector.jsx";
 import InputBar from "./InputBar.jsx";
 
 export default function ChatWindow() {
-  const { messages, isLoading, sendMessage } = useChatStore();
+  const { messages, isLoading, sendMessage, preferredLang, setPreferredLang } = useChatStore();
   const bottomRef = useRef(null);
 
   useEffect(() => {
@@ -13,9 +14,22 @@ export default function ChatWindow() {
 
   return (
     <div style={{ display: "flex", flexDirection: "column", height: "100%" }}>
-      <div style={{ background: "#ff9933", color: "#fff", padding: "14px 16px" }}>
-        <div style={{ fontSize: 18, fontWeight: 700 }}>जन सेवा AI 🏛️</div>
-        <div style={{ fontSize: 12, opacity: 0.9 }}>Rajasthan Government Scheme Assistant</div>
+      <div
+        style={{
+          background: "#ff9933",
+          color: "#fff",
+          padding: "14px 16px",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "flex-start",
+          gap: 8,
+        }}
+      >
+        <div>
+          <div style={{ fontSize: 18, fontWeight: 700 }}>जन सेवा AI 🏛️</div>
+          <div style={{ fontSize: 12, opacity: 0.9 }}>Rajasthan Government Scheme Assistant</div>
+        </div>
+        <LanguageSelector current={preferredLang} onSelect={setPreferredLang} />
       </div>
 
       <div style={{ flex: 1, overflowY: "auto", padding: 14, background: "#f9fafb" }}>
@@ -41,7 +55,7 @@ export default function ChatWindow() {
         <div ref={bottomRef} />
       </div>
 
-      <InputBar onSend={sendMessage} disabled={isLoading} />
+      <InputBar onSend={sendMessage} disabled={isLoading} preferredLang={preferredLang} />
     </div>
   );
 }

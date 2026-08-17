@@ -192,8 +192,9 @@ def scenario_out_of_scope():
 # "beti"/"ladka" (daughter/son) made the model hallucinate the CITIZEN's own
 # gender/marital_status, and a mentioned child's education level got
 # attributed to the citizen instead. Fixed by explicit "about the citizen
-# themselves, not a family member" instructions in extract_profile_node's
-# prompt text (field-level Pydantic descriptions alone did not work).
+# themselves, not a family member" instructions in extract_node's (formerly
+# extract_profile_node's) prompt text (field-level Pydantic descriptions
+# alone did not work).
 # ---------------------------------------------------------------------------
 
 def scenario_profile_third_party_isolation():
