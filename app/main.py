@@ -84,6 +84,12 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     session_id: str
     reply: str
+    # Mock-only (2026-08-17): set only on the turn the Jan Aadhaar mock
+    # generates an OTP, so the frontend can show it as a simulated "SMS
+    # arrived" popup instead of requiring a look at server logs. None on
+    # every other turn, and naturally None forever once JANAADHAAR_MODE=real,
+    # since the real transport's response never carries the OTP value.
+    sms_preview: Optional[str] = None
 
 
 class TranscribeResponse(BaseModel):
@@ -167,4 +173,8 @@ def chat(req: ChatRequest):
 
     logged_message = result.get("redacted_raw_message") or req.message
     _log_turn(req.session_id, logged_message, result)
-    return ChatResponse(session_id=req.session_id, reply=result.get("last_reply", ""))
+    return ChatResponse(
+        session_id=req.session_id,
+        reply=result.get("last_reply", ""),
+        sms_preview=result.get("mock_sms_preview"),
+    )

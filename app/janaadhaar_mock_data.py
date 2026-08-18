@@ -174,6 +174,14 @@ def handle_generate_otp(member_id: str) -> dict:
         "tid": tid,
         "JanId": None,
         "data": None,
+        # Mock-only convenience (2026-08-17): the REAL API never returns the
+        # OTP itself in this response - it only ever reaches the citizen via
+        # actual SMS. This field exists purely so the demo UI can show it as
+        # a simulated "SMS arrived" popup instead of requiring a look at
+        # server logs. RealJanAadhaarTransport's response will never carry
+        # this key, so the popup naturally disappears once
+        # JANAADHAAR_MODE=real - no special-casing needed anywhere else.
+        "_mock_otp_for_demo": otp,
     }
 
 

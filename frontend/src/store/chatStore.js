@@ -36,6 +36,13 @@ export const useChatStore = create((set, get) => ({
   // future turn until they change it again via the same selector.
   preferredLang: null,
 
+  // Mock-only (2026-08-17): set to the OTP preview text the turn the Jan
+  // Aadhaar mock generates one, so SmsPopup can show it as a simulated
+  // incoming SMS instead of requiring a look at server logs. null otherwise,
+  // and cleared once the popup dismisses itself.
+  smsPopup: null,
+  dismissSmsPopup: () => set({ smsPopup: null }),
+
   setPreferredLang: (lang) =>
     set((state) => ({
       preferredLang: lang,
@@ -52,10 +59,11 @@ export const useChatStore = create((set, get) => ({
     }));
 
     try {
-      const { reply } = await apiSendMessage(get().sessionId, trimmed, get().preferredLang);
+      const { reply, sms_preview } = await apiSendMessage(get().sessionId, trimmed, get().preferredLang);
       set((state) => ({
         messages: [...state.messages, { role: "bot", text: reply }],
         isLoading: false,
+        smsPopup: sms_preview || null,
       }));
     } catch (err) {
       set((state) => ({

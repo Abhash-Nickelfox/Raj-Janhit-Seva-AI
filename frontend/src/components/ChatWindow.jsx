@@ -3,9 +3,11 @@ import { useChatStore } from "../store/chatStore.js";
 import MessageBubble from "./MessageBubble.jsx";
 import LanguageSelector from "./LanguageSelector.jsx";
 import InputBar from "./InputBar.jsx";
+import SmsPopup from "./SmsPopup.jsx";
 
 export default function ChatWindow() {
-  const { messages, isLoading, sendMessage, preferredLang, setPreferredLang } = useChatStore();
+  const { messages, isLoading, sendMessage, preferredLang, setPreferredLang, smsPopup, dismissSmsPopup } =
+    useChatStore();
   const bottomRef = useRef(null);
 
   useEffect(() => {
@@ -13,7 +15,8 @@ export default function ChatWindow() {
   }, [messages, isLoading]);
 
   return (
-    <div style={{ display: "flex", flexDirection: "column", height: "100%" }}>
+    <div style={{ display: "flex", flexDirection: "column", height: "100%", position: "relative" }}>
+      <SmsPopup text={smsPopup} onDismiss={dismissSmsPopup} />
       <div
         style={{
           background: "#ff9933",

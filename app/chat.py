@@ -29,7 +29,7 @@ from app.state import ConvState
 from app.rag_service import RagService, CitizenContext, OCCUPATION_KEYWORDS, eligibility_verdict
 from app.job_service import JobService
 from app import pii_utils
-from app.janaadhaar_service import get_janaadhaar_service, _PROFILE_FIELD_KEYS
+from app.janaadhaar_service import get_janaadhaar_service
 
 KNOWN_CATEGORIES = [
     "Education & Learning",
@@ -154,10 +154,25 @@ def _identity_gap(scheme_meta, facts, need_text=""):
         # ("business" -> entrepreneur) happens to match the need text too
         # (found live 2026-08-10 testing this exact fix: "start a business"
         # wrongly cleared a disability-restricted scheme's whole gap check).
+        #
+        # A group already confirmed on the citizen's PERSISTED profile
+        # (facts.occupation_groups - see ProfileExtraction) counts as
+        # confirmed regardless of what THIS turn's need_text says - added
+        # 2026-08-17 because the need_text-keyword check alone only "worked"
+        # by coincidence (e.g. a scheme literally named "Krishi Yantra"
+        # contains the keyword "krishi") and broke the moment the same
+        # citizen's farmer status carried over to a differently-named scheme
+        # ("Walk In Tunnel") whose own need_text no longer happened to
+        # contain a farming keyword. The keyword-in-need_text check is kept
+        # as a fallback for the common single-turn case (the very first
+        # message already implies the occupation before profile extraction
+        # has even run yet).
+        known_groups = set(facts.get("occupation_groups") or [])
         need_lower = (need_text or "").lower()
         unconfirmed_groups = [
             group for group in occ_groups
-            if not any(kw in need_lower for kw in OCCUPATION_KEYWORDS.get(group, []))
+            if group not in known_groups
+            and not any(kw in need_lower for kw in OCCUPATION_KEYWORDS.get(group, []))
         ]
         if unconfirmed_groups:
             gaps.append(("occupation_target_group", "|".join(unconfirmed_groups)))
@@ -623,6 +638,21 @@ class ProfileExtraction(BaseModel):
             "occupation, need, or anything else."
         ),
     )
+    occupation_groups: list[str] = Field(
+        default_factory=list,
+        description=(
+            "Which of these categories did the CITIZEN THEMSELVES (not a family member) just state "
+            "about themselves THIS message: farmer, student, widow, differently_abled, unemployed, "
+            "senior_citizen, woman, artisan, labourer, entrepreneur, ex_servicemen. Include a "
+            "category only when this message itself clearly states or directly implies it about the "
+            "citizen (e.g. 'mai kheti karta hu'/'I farm' -> farmer; 'mera business hai'/'I run a "
+            "business' -> entrepreneur; 'main padhta hoon' -> student) - not because it's associated "
+            "with whatever scheme happens to be under discussion. A citizen can genuinely belong to "
+            "more than one (e.g. a farmer who also runs a business) - include every one THIS message "
+            "states, not just one. Empty list if nothing new is stated this message - this only ADDS "
+            "to what's already known, so previously-confirmed categories never need restating."
+        ),
+    )
 
 
 class NeedExtraction(BaseModel):
@@ -728,6 +758,20 @@ class NeedExtraction(BaseModel):
             "write anything here unless intent is genuinely 'chitchat'."
         ),
     )
+    is_answering_pending_question: Optional[bool] = Field(
+        None,
+        description=(
+            "ONLY relevant when the context above tells you a question was left pending from your "
+            "last reply - leave this null if it doesn't mention one. When it does, decide: true if "
+            "THIS message is actually a direct answer to that specific question (a fact about "
+            "themselves, a yes/no, a choice between options it offered) - false if this message is "
+            "about something else entirely, even though a question was left pending - e.g. it names "
+            "a different/specific scheme or job to ask about instead, asks to switch reply language "
+            "or format, asks you to pause/wait, or is otherwise unrelated to what was asked. Do not "
+            "default to true just because a question was pending - read what THIS message actually "
+            "says and judge whether it answers that question or not."
+        ),
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -744,6 +788,9 @@ def normalize_node(state: ConvState):
         # turn's conversation_history entry. janaadhaar_handle_node re-sets
         # this later in THIS SAME turn's run if it actually processes one.
         "redacted_raw_message": None,
+        # Same reset reasoning as above - a mock OTP popup from an earlier
+        # turn must not resurface on an unrelated later turn.
+        "mock_sms_preview": None,
     }
     if not state.get("pending_janaadhaar_step"):
         # Cheap placeholder only - extract_need_node's detected_language
@@ -858,6 +905,22 @@ def extract_profile_node(state: ConvState):
         value = getattr(result, field)
         if value is not None:
             merged_profile[field] = value
+
+    # Union, not overwrite - unlike the scalar fields above, occupation isn't
+    # exclusive (a citizen can be a farmer AND run a business at the same
+    # time), so a later message naming a different occupation must ADD to
+    # what's already confirmed, never replace it. Found live (2026-08-17):
+    # occupation confirmation used to rely on a keyword match against
+    # whatever need_text happened to be in play THIS turn (see _identity_gap)
+    # instead of a persisted fact - it only "worked" by coincidence when a
+    # scheme name itself contained a matching keyword (e.g. "Krishi Yantra"),
+    # and broke the moment the conversation moved to a differently-named
+    # scheme (Walk In Tunnel) despite the citizen's farmer status having been
+    # stated turns earlier.
+    if result.occupation_groups:
+        merged_profile["occupation_groups"] = sorted(
+            set(profile.get("occupation_groups") or []) | set(result.occupation_groups)
+        )
 
     return {"profile": merged_profile}
 
@@ -997,17 +1060,29 @@ def extract_need_node(state: ConvState):
         "reply_lang": state.get("locked_reply_lang") or result.detected_language,
         "followup_target": result.followup_target,
         "pending_need_text": None,  # consumed - don't let it linger past the turn it was needed for
-        # was the PREVIOUS turn a clarifying question (clarify/clarify_identity)?
-        # If so, this message is almost certainly answering it, not referring
-        # back to some possibly much-older shown_scheme - route_after_extract
+        # was the PREVIOUS turn a clarifying question (clarify/clarify_identity/
+        # generate), AND is THIS message actually answering it? route_after_extract
         # uses this to force a fresh Stage A run regardless of what turn_type
         # says. Found live (2026-08-05): "education"/"undergraduate"/"she is
         # 12th pass" - answers to the bot's own clarifying questions - kept
         # getting misrouted to stage_b_followup against a stale shown_scheme
         # from many turns earlier (a different topic entirely), producing
         # answers about the wrong scheme and a dead-end loop the citizen
-        # couldn't escape even by explicitly asking for a different scheme.
-        "was_answering_clarification": bool(pending_need_text),
+        # couldn't escape even by explicitly asking for a different scheme -
+        # hence forcing stage_a whenever a question was left pending.
+        # But a question being pending doesn't mean THIS message answers it -
+        # found live (2026-08-17): "hindi me likho" and (separately) naming a
+        # specific already-shown scheme by name both got forced through this
+        # same override and derailed into a fresh, irrelevant search, because
+        # it used to fire on bool(pending_need_text) alone with no check on
+        # what the new message actually says. is_answering_pending_question is
+        # the model's own direct judgment call on that, made with the pending
+        # question already in its context (see context_lines above) - default
+        # to the old conservative behavior (true) unless it explicitly says
+        # false, since a false negative here reproduces the 2026-08-05 bug.
+        "was_answering_clarification": (
+            bool(pending_need_text) and result.is_answering_pending_question is not False
+        ),
     }
     if not pending_need_text:
         # No clarification was pending coming into this turn, so this is a
@@ -1031,6 +1106,9 @@ def extract_need_node(state: ConvState):
 
 
 def route_after_extract(state: ConvState):
+    # was_answering_clarification already factors in the model's own
+    # is_answering_pending_question judgment (see extract_need_node) - no
+    # need to special-case intent/turn_type/followup_target here as well.
     if state.get("was_answering_clarification"):
         return "stage_a"
     turn_type = state.get("turn_type")
@@ -1657,98 +1735,67 @@ def generate_node(state: ConvState):
     # of referenced third party.
     question_block += f'\nCitizen\'s exact words this turn: "{state.get("raw_message", "")}"'
 
+    # Consolidated 2026-08-17 from six separately-labeled rules (RESPONSE
+    # ORDER/QUESTION LIMIT/QUESTION PRIORITY/SCHEME DETAIL LEVEL/ANSWER
+    # EARLY/HARD STOP) into two sections below - the accumulated rule count
+    # itself was making replies read like a checklist being executed rather
+    # than a person reasoning, which is a real, separate complaint from any
+    # single rule being wrong. Nothing here removes a protection; the
+    # concrete bugs each rule was fixing are preserved below in comments
+    # (not sent to the model - it doesn't need bug history, just the
+    # current rule) so the reasoning isn't lost, only the prompt bulk:
+    #   - RESPONSE ORDER (2026-08-17): question buried after a long list of
+    #     scheme names/conditions read as an afterthought.
+    #   - QUESTION LIMIT (2026-08-14): a vague scholarship need surfaced
+    #     FIVE questions (residence/age/class/disability/income) at once.
+    #   - QUESTION PRIORITY (2026-08-16): "paisa chahiye beti ki padhai ke
+    #     liye" opened with "does she have a 40%+ disability certificate"
+    #     purely because one of three matched schemes was disability-gated.
+    #   - SCHEME DETAIL LEVEL: full eligibility/benefit text for schemes
+    #     whose fit isn't even confirmed yet buried the actual question.
+    #   - ANSWER EARLY / HARD STOP (2026-08-17): a business-loan need was
+    #     asked about across SEVEN consecutive turns without ever landing
+    #     on a recommendation - one question even repeated something
+    #     already answered several turns earlier, once it scrolled out of
+    #     conversation_history's rolling window.
     generate_clarify_rounds = state.get("generate_clarify_rounds", 0)
     hard_stop_block = (
-        f"HARD STOP: this need has already gone through {generate_clarify_rounds} round(s) of your "
-        "own clarifying questions without landing on an answer. You MUST give your FINAL best-effort "
-        "answer this turn - set asked_clarifying_question to false, recommend the most likely-fitting "
-        "scheme(s) from what is already known, and clearly caveat anything still unconfirmed. Do NOT "
-        "ask another question, even a reasonable one. Found live (2026-08-17): a business-loan need "
-        "was asked about across SEVEN consecutive turns and never once reached an actual "
-        "recommendation - one of those questions even repeated something already answered several "
-        "turns earlier, since only a few recent turns of conversation history are ever kept.\n\n"
+        "HARD STOP: you've already asked this many rounds of questions about this need without "
+        "landing on an answer. Give your FINAL best-effort answer now - recommend the most "
+        "likely-fitting scheme(s) from what's already known, caveat anything unconfirmed, and do "
+        "not ask again, even a reasonable one.\n\n"
         if generate_clarify_rounds >= 2 else ""
     )
 
     prompt = (
         "Answer the citizen's question using ONLY the information below (both the "
-        "structured eligibility data AND the scheme text). Do not invent eligibility "
-        "criteria, amounts, or steps not present in either. If it doesn't fully answer, "
-        "say what's missing rather than guessing.\n\n"
-        "The structured eligibility data is a COARSE category tag (e.g. a single caste value), "
-        "not a substitute for the scheme text - the scheme text is the actual, complete, "
-        "government-written eligibility description, and is authoritative when the two disagree. "
-        "Confirmed live (2026-08-11): a real scheme's structured caste tag said 'SC', but its own "
-        "written eligibility text named a specific, different list of OBC sub-castes with no "
-        "mention of SC at all - a genuine contradiction in the source government data itself, not "
-        "something invented here. When the tag and the written text disagree like this, do NOT "
-        "call the scheme a 'match' or 'best match' based on the tag - say plainly that the tag and "
-        "the actual written criteria disagree, and that eligibility depends on the WRITTEN "
-        "criteria, not the tag. If the citizen has already stated a fact the written text clearly "
-        "excludes (e.g. they named a caste that isn't in the text's specific list), say so directly "
-        "and drop the scheme from consideration immediately - do not keep re-asking a question "
-        "about the same requirement the citizen has already effectively answered by stating an "
-        "incompatible fact.\n\n"
-        "Never assume or state the citizen's OWN caste, disability status, gender, or any other "
-        "identity/category fact unless it is explicitly listed in 'What we know about this "
-        "citizen' below - if a scheme's eligibility depends on something not confirmed there, say "
-        "plainly that it isn't confirmed yet (e.g. 'this requires knowing your caste/disability "
-        "status, which hasn't been mentioned') rather than labeling the citizen into a category "
-        "('as a general-category applicant', 'since you have no disability') that was never stated. "
-        "If NONE of the schemes below are confirmed to match what's actually known about the "
-        "citizen, say so directly and plainly rather than repeatedly re-listing the same "
-        "conditional options turn after turn.\n\n"
-        "If the citizen's exact words this turn are a short answer (yes/no/haan/nahi) to your own "
-        "PREVIOUS reply, and that previous reply asked about TWO OR MORE separate conditions at "
-        "once, a bare 'nahi'/'no' is AMBIGUOUS about which one(s) it's denying - do not silently "
-        "assume it means all of them, and do not just repeat the same conditional information "
-        "again unchanged. Instead ask ONE short follow-up naming the specific conditions and "
-        "asking which apply, so the next answer is unambiguous.\n\n"
-        "RESPONSE ORDER: if this answer needs a clarifying question (per QUESTION LIMIT below), lead "
-        "with a SHORT list of the 2-3 relevant scheme NAMES (one line each, from 'Scheme summaries' "
-        "below - not the full eligibility/benefit text), then put the clarifying question(s) AFTER "
-        "that, at the end. This reads as a natural conversation - here's what's out there, and here's "
-        "what I need to know to narrow it down - rather than opening with a bare question with no "
-        "context. Reversed 2026-08-17 from an earlier version of this instruction that put the "
-        "question first - that was itself a fix for a different problem (a long wall of full scheme "
-        "text/conditions burying the question at the very end), which QUESTION LIMIT and SCHEME "
-        "DETAIL LEVEL below already solve on their own by capping questions at 2 and keeping scheme "
-        "mentions short - so leading with a few short names no longer buries anything.\n\n"
-        "QUESTION LIMIT: ask AT MOST 2 clarifying questions in this single reply, even if more "
-        "facts remain unconfirmed across the schemes below - pick the 2 most important/narrowing "
-        "ones. Found live (2026-08-14): a vague scholarship need surfaced FIVE separate questions "
-        "(residence, age, class/degree, disability, income) in one reply, all before any scheme "
-        "info - overwhelming, and answering all 5 at once isn't how a real conversation works. Do "
-        "NOT try to compensate by cramming multiple conditions into one combined question either - "
-        "each of the (at most 2) questions should be about ONE thing. Whatever remains unconfirmed "
-        "after these 2 are answered will naturally surface as further questions on a LATER turn, "
-        "once this turn's answers are known - you do not need to mention or promise that here.\n\n"
-        "QUESTION PRIORITY: when choosing WHICH (at most 2) unconfirmed facts to ask about, prefer "
-        "broad, low-sensitivity ones - age, what class/degree they're studying in, family income, "
-        "residence - over narrow, identity-defining, or sensitive ones - disability status, caste, "
-        "marital status, gender. Ask about a sensitive/narrow fact FIRST only if literally no broad "
-        "fact remains unconfirmed for any shortlisted scheme. Found live (2026-08-16): 'paisa chahiye "
-        "beti ki padhai ke liye' (a plain request for help with a daughter's education) got asked "
-        "'does she have a 40%+ disability certificate' as the OPENING question, purely because one of "
-        "three shortlisted scholarships happened to be disability-gated - presumptuous and needlessly "
-        "personal as a first question when her age or which class she's in would narrow things down "
-        "just as well without asking about a sensitive medical/identity fact up front.\n\n"
-        "SCHEME DETAIL LEVEL: if this reply includes a clarifying question (per the above), describe "
-        "each scheme using ONLY its short description below (under 'Scheme summaries') - just what "
-        "it's for, in a line or two - NOT the full eligibility criteria or benefit text ('Scheme "
-        "text' below). Dumping full eligibility/benefit detail for schemes whose fit isn't even "
-        "confirmed yet buries the actual question under paragraphs the citizen can't act on. Once "
-        "no more clarifying questions are needed (eligibility is confirmed, or you're giving a final "
-        "answer), use the full 'Scheme text' as before - this limit is ONLY for a reply that also "
-        "asks something.\n\n"
-        "ANSWER EARLY: prefer giving a caveated best-guess answer over asking yet another question "
-        "whenever you already have enough to make a reasonable recommendation. Only ask about a fact "
-        "if NOT knowing it would change WHICH scheme applies, or whether the citizen is eligible at "
-        "all - not for minor refinements (e.g. whether they need special machinery vs a general "
-        "setup loan doesn't usually change scheme eligibility, only which scheme is a marginally "
-        "better fit - that's exactly the kind of thing to note as a caveat, not gate the whole answer "
-        "behind). When you do answer without every detail confirmed, say plainly what you assumed or "
-        "couldn't confirm, rather than presenting it as certain.\n\n"
+        "structured eligibility data AND the scheme text) - never invent eligibility criteria, "
+        "amounts, or steps not present in either.\n\n"
+        "GROUNDING: the structured eligibility data is a COARSE tag (e.g. one caste value) - the "
+        "scheme text is the actual, complete, government-written eligibility description, and is "
+        "authoritative when the two disagree (say so plainly rather than calling it a confident "
+        "match off the tag alone). Never assume or state the citizen's OWN caste, disability, "
+        "gender, or any other identity fact unless it's explicitly listed in 'What we know about "
+        "this citizen' below - if it isn't confirmed, say plainly that it isn't, rather than "
+        "guessing or labeling them into a category that was never stated. If the citizen has "
+        "already stated a fact that clearly excludes a scheme, drop it from consideration and say "
+        "so - don't keep re-asking something they've effectively already answered. If a bare "
+        "'yes/no' this turn is ambiguous (your last reply asked about two or more separate things "
+        "at once), ask which one it's answering rather than assuming. If NONE of the schemes match "
+        "what's known, say so plainly rather than repeating the same conditional list turn after "
+        "turn.\n\n"
+        "HAVING THE CONVERSATION: have this like a real conversation, not an intake form. If you "
+        "need to ask anything, lead with a short list of the 2-3 relevant scheme NAMES (one line "
+        "each, from 'Scheme summaries' below - not the full eligibility/benefit text), THEN the "
+        "question(s) after that, at the end - at most 2, each about ONE thing, never combined. "
+        "Prefer broad, low-sensitivity questions (age, class/degree, income, residence) over "
+        "narrow or sensitive ones (disability, caste, marital status, gender) - ask about the "
+        "latter only once no broad fact remains unconfirmed. Prefer answering with a caveated "
+        "best guess over asking again whenever you already have enough for a reasonable "
+        "recommendation - only keep asking if the missing fact would change WHICH scheme applies "
+        "or whether they're eligible at all, not for minor refinements (note those as caveats "
+        "instead, don't gate the whole answer behind them). Use the full 'Scheme text' only once "
+        "no more questions are needed - otherwise stick to the short summaries.\n\n"
         f"{hard_stop_block}"
         f"{_format_conversation_history(state.get('conversation_history'))}"
         f"{_format_profile(state.get('profile'))}"
@@ -1979,6 +2026,18 @@ _ASK_OTP_TEXT = {
     "hinglish": "Aapke registered mobile number par ek OTP bhej diya gaya hai. Kripya wo 6 anko ka OTP yahan bataiye.",
     "english": "An OTP has been sent to your registered mobile number. Please share that 6-digit OTP here.",
 }
+_MOCK_SMS_LABEL = {
+    "hindi": "जन आधार से SMS",
+    "hinglish": "Jan Aadhaar se SMS",
+    "english": "SMS from Jan Aadhaar",
+}
+
+
+def _mock_sms_text(reply_lang, otp):
+    """Mock-only (2026-08-17): builds the popup text the frontend shows to
+    simulate an incoming SMS, since our own backend generates the OTP in
+    mock mode and would otherwise only ever print it to server logs."""
+    return f"📱 {_pick_text(reply_lang, _MOCK_SMS_LABEL)}: {otp}"
 _OTP_INVALID_TEXT = {
     "hindi": "यह OTP सही नहीं लग रहा। कृपया दोबारा सही 6 अंकों का OTP भेजें।",
     "hinglish": "Yeh OTP sahi nahi lag raha. Kripya dobara sahi 6 anko ka OTP bhejein.",
@@ -2090,6 +2149,9 @@ def janaadhaar_handle_node(state: ConvState):
                 "janaadhaar_tid": otp_result["tid"],
                 "janaadhaar_members": members,
                 "janaadhaar_attempts": 0,
+                "mock_sms_preview": (
+                    _mock_sms_text(reply_lang, otp_result["mock_otp"]) if otp_result.get("mock_otp") else None
+                ),
             }
         return {
             **redacted,
@@ -2132,6 +2194,9 @@ def janaadhaar_handle_node(state: ConvState):
             "janaadhaar_member_id": chosen["member_id"],
             "janaadhaar_tid": otp_result["tid"],
             "janaadhaar_attempts": 0,
+            "mock_sms_preview": (
+                _mock_sms_text(reply_lang, otp_result["mock_otp"]) if otp_result.get("mock_otp") else None
+            ),
         }
 
     if step == "awaiting_otp":
@@ -2148,9 +2213,19 @@ def janaadhaar_handle_node(state: ConvState):
             return {**redacted, "last_reply": _pick_text(reply_lang, _OTP_INVALID_TEXT), "janaadhaar_attempts": attempts + 1}
 
         data = result["data"]
-        profile_fields = {k: v for k, v in data.items() if k in _PROFILE_FIELD_KEYS and v is not None}
-        merged_profile = dict(state.get("profile", {}))
-        merged_profile.update(profile_fields)
+
+        # Deliberately NOT merged into the shared `profile` used for scheme
+        # eligibility gating elsewhere (found live 2026-08-17, not yet fixed):
+        # the member just verified here isn't necessarily the citizen
+        # themselves - fetch_member_list returns every member on the Jan
+        # Aadhaar (the whole family), and the citizen can pick any one of
+        # them to check status for (e.g. "kya meri maa ki pension aayi"). The
+        # mock member records carry no relation-to-self field, so there's
+        # currently no way to confirm the verified member IS the citizen -
+        # merging blindly would silently misattribute a family member's
+        # gender/age/marital_status etc. as the citizen's own for every
+        # unrelated scheme question for the rest of the conversation. Only
+        # used to answer THIS status question below, not persisted anywhere.
 
         # Entitlement Details is a SEPARATE fetch from the identity data
         # above (unverified schema - see janaadhaar_mock_data.
@@ -2182,7 +2257,6 @@ def janaadhaar_handle_node(state: ConvState):
         return {
             **redacted,
             "last_reply": resp.content,
-            "profile": merged_profile,
             "janaadhaar_status_data": entitlements,
             "pending_janaadhaar_step": None,
             "janaadhaar_member_id": None,

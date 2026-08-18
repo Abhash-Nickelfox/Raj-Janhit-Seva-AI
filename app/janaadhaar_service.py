@@ -89,7 +89,10 @@ class JanAadhaarService:
         _audit_logger.info("generate_otp member_id=%s code=%s", member_id, result.get("responseCode"))
         if result.get("responseCode") != "JAN_200":
             return {"status": result.get("responseCode", "JAN_404")}
-        return {"status": "JAN_200", "tid": result["tid"]}
+        # mock_otp is None in real mode - RealJanAadhaarTransport's response
+        # never carries "_mock_otp_for_demo" at all, so this simply stays
+        # absent with no special-casing needed here.
+        return {"status": "JAN_200", "tid": result["tid"], "mock_otp": result.get("_mock_otp_for_demo")}
 
     def validate_otp_and_fetch(self, member_id: str, tid: str, otp: str) -> dict:
         result = self.transport.validate_otp(member_id, tid, otp)

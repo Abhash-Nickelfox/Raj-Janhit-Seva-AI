@@ -193,3 +193,13 @@ class ConvState(TypedDict, total=False):
     # every turn, so a stale value can't wrongly redact an unrelated later
     # turn's conversation_history entry.
     redacted_raw_message: Optional[str]
+
+    # Mock-only (2026-08-17): the simulated OTP text, for the frontend to
+    # show as a "SMS arrived" popup instead of requiring a look at server
+    # logs - set by janaadhaar_handle_node the moment it generates an OTP,
+    # None every other turn. Reset by normalize_node at the start of every
+    # turn for the same reason redacted_raw_message is - so a stale value
+    # from an earlier turn can't linger and pop up again on an unrelated
+    # later turn. Naturally empty once JANAADHAAR_MODE=real, since the real
+    # transport's response never carries the OTP value at all.
+    mock_sms_preview: Optional[str]
