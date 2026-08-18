@@ -114,6 +114,28 @@ class ConvState(TypedDict, total=False):
     # message refers to all of them together.
     followup_target: Optional[str]
     pending_need_text: Optional[str]  # set when we asked a clarifying question, so a terse reply ("no"/"haan") next turn doesn't lose what was being asked about
+    # Which domain the pending clarifying question (above) was actually
+    # about - "scheme" (clarify/clarify_identity/generate) or "job"
+    # (clarify_jobs). Added 2026-08-18: route_after_extract's
+    # was_answering_clarification override used to unconditionally route to
+    # "stage_a" (the SCHEME search) the moment ANY clarification was
+    # pending, with no awareness that a JOB clarification could be pending
+    # instead - found live: "mere liye koi job btao" -> clarify_jobs asks
+    # about qualification -> "10th pass hu" (answering it) got forced into a
+    # fresh SCHEME search instead of continuing the job search, surfacing an
+    # unrelated "Leather Training Scheme" with no connection to the job
+    # request at all. None when no clarification is pending, same lifecycle
+    # as pending_need_text (set together, reset together).
+    pending_need_domain: Optional[str]
+    # Ephemeral, ONE-turn-only companion to pending_need_domain above - set
+    # by extract_need_node to whatever pending_need_domain was BEFORE it got
+    # reset to None in that same call (pending_need_domain has to reset every
+    # turn, same lifecycle as pending_need_text, but route_after_extract
+    # still needs the OLD value THIS turn to decide "stage_a" vs
+    # "stage_a_jobs" when was_answering_clarification fires). Not meant to be
+    # read on any later turn - it gets overwritten (or left stale/unused)
+    # the moment this turn's routing decision is made.
+    clarification_domain: Optional[str]
     already_shown_scheme_ids: list  # every scheme_id ever set as shown_scheme_id this conversation - show_more_node excludes all of these, not just the current one
 
     # How many consecutive clarify/clarify_identity questions have been asked

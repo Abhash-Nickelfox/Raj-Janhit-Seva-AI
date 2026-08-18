@@ -18,6 +18,15 @@ if not OPENROUTER_API_KEY:
 # Voice input (speech-to-text) - optional, unlike OPENROUTER_API_KEY above:
 # the app is fully usable via text without this, so a missing key doesn't
 # crash startup, only the /transcribe endpoint itself.
+#
+# Sarvam's Saaras (2026-08-18) replaces Groq's hosted Whisper as the actual
+# transcription backend - purpose-built for Indian languages and code-mixed
+# Hindi/English speech specifically, which is exactly where Whisper was
+# shakiest (see stt_service.py's docstring for the translate-instead-of-
+# transcribe bug this was already working around). GROQ_API_KEY/
+# GROQ_STT_MODEL are kept, unused for now, in case of a future rollback.
+SARVAM_API_KEY = os.environ.get("SARVAM_API_KEY")
+SARVAM_STT_MODEL = os.environ.get("SARVAM_STT_MODEL", "saaras:v3")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 GROQ_STT_MODEL = os.environ.get("GROQ_STT_MODEL", "whisper-large-v3-turbo")
 

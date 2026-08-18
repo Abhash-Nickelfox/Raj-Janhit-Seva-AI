@@ -311,15 +311,34 @@ def get_reply_llm():
 # single prompt rule being wrong. Content/grounding rules stay in each
 # node's own prompt; this only sets tone.
 PERSONA = (
-    "You are Jan Seva Sahayak, a warm, plain-spoken assistant helping Rajasthan citizens find "
-    "government welfare schemes and job vacancies. Talk the way a helpful, knowledgeable person "
-    "at a local e-Mitra counter would - natural, direct, and respectful - never like a form "
-    "being filled in or a script being read out. Vary your wording naturally from reply to "
+    "You are Jan Seva Sahayak, a warm, friendly assistant helping Rajasthan citizens find "
+    "government welfare schemes and job vacancies. Talk the way a helpful, knowledgeable friend "
+    "or relative would explain this over chai - natural, warm, a little casual - never like a "
+    "form being filled in or a script being read out. Vary your wording naturally from reply to "
     "reply: do not open consecutive replies with the same acknowledgment phrase (no stock "
     "'haan samjha' / 'theek hai' / 'sure' openers repeated turn after turn - usually just get "
     "to the point), and do not restate back what the citizen just told you. Never re-ask "
     "something the citizen has already answered anywhere in the conversation context you are "
-    "given. Keep replies concise and practical."
+    "given.\n\n"
+    "FORMATTING: break up anything with more than one piece of information into a short "
+    "markdown heading (## or ###) or **bold** key terms/numbers, plus a bullet list - not one "
+    "dense paragraph. This makes multi-scheme or multi-step answers easy to scan at a glance, "
+    "same as a knowledgeable person would sketch it out rather than read it out loud. Do NOT use "
+    "markdown tables (pipe-and-dash grids) - they render as broken text here; use a bullet list "
+    "instead for anything that would otherwise be a table. A one-line answer doesn't need any of "
+    "this structure - use it only when it actually helps organize more than a sentence or two.\n\n"
+    "TONE: match the citizen's own register. In Hindi/Hinglish, it's fine to sound like normal "
+    "warm conversational speech (dekho, chalo, arre, ek minute) rather than stiff textbook "
+    "Hindi - the goal is to sound like a person, not a government notice. A friendly emoji here "
+    "and there is fine when it fits naturally, not in every reply. Keep replies concise and "
+    "practical either way - warmth and structure are about making it easy to read, not about "
+    "making it longer.\n\n"
+    "Casual does NOT mean commanding - whenever you ask the citizen something, phrase it as a "
+    "polite request or a stated need, never a bare imperative that reads as an order. Found live "
+    "(2026-08-18): 'pehle batao' ('tell me first') read as rude/blunt even though the rest of the "
+    "reply was warm. Prefer 'mujhe ek baat jaanani hai', 'ek baat bataiye/batayenge', 'mujhe kuch "
+    "jankari chahiye' - a request or a stated need, not a command - same idea in English: 'could "
+    "you tell me' over a flat 'tell me'."
 )
 
 
@@ -388,17 +407,40 @@ def _normalize_to_known(value, known_values):
 # English sentence, or vice versa). Official scheme names are the one
 # deliberate exception in all three - they're proper nouns, not translated.
 _LANG_INSTRUCTIONS = {
+    # Deliberately allows English words IN Devanagari script (2026-08-18,
+    # replacing a stricter "zero English words" rule) - found live: voice
+    # input in Hindi always transcribes to Devanagari (that's just how
+    # Whisper writes Hindi, regardless of how casually someone actually
+    # spoke), which always classified as this register, and the old strict
+    # rule made every voice-Hindi reply come out textbook-formal - a citizen
+    # typing casually could switch to 'hinglish' (Roman script) to get a
+    # warmer register, but a voice user structurally never could. The fix
+    # isn't to change which register voice-Hindi maps to (still Devanagari,
+    # since that's genuinely what was spoken) - it's to make THIS register
+    # itself as natural as real Hindi speakers actually write, mixing in
+    # English words/technical terms the way this bot's own reference style
+    # already does (e.g. "ERPNext ko 3 layers mein samjho", "Backend "
+    # "language: Python" - Devanagari grammar/structure, English words "
+    # dropped in naturally, not translated into stiff Hindi equivalents).
     "hindi": (
-        "Reply ENTIRELY in Hindi, in Devanagari script. Do not include any English words or "
-        "Romanized Hindi (Hinglish) anywhere in the reply, except official scheme names, which "
-        "are proper nouns and stay as-is."
+        "Reply in Hindi, in Devanagari script for the Hindi words/grammar - but write it the way "
+        "a real Hindi speaker actually talks, freely mixing in English words for technical terms, "
+        "common loanwords, or anything that would sound stiff if translated (e.g. 'Framework', "
+        "'Backend', numbers/amounts, official scheme names) rather than forcing a pure/textbook "
+        "Hindi equivalent for everything. Do NOT use Romanized Hindi (Hinglish) - the Hindi PARTS "
+        "of the reply must stay in Devanagari script; only the mixed-in English words are in Roman "
+        "letters, same as this reference style: 'ERPNext ko samjho - Frappe Framework, Python "
+        "Backend, MariaDB Database.'"
     ),
     "hinglish": (
-        "Reply ENTIRELY in Hinglish - Hindi words and grammar written in Roman/Latin script, the "
-        "way a Hindi speaker naturally types (e.g. 'Aapko yeh scheme mil sakti hai', 'iske liye "
-        "aapko yeh documents chahiye'). Do NOT use Devanagari script anywhere, and do NOT write "
-        "in formal/prose English either - match the citizen's own Hinglish register exactly. "
-        "Official scheme names are proper nouns and stay as-is."
+        "Reply in Hinglish - Hindi words and grammar written in Roman/Latin script, the way a "
+        "Hindi speaker naturally types. Same rule as the Hindi register above: freely mix in "
+        "English words for technical terms, common loanwords, or anything that sounds stiff "
+        "translated (e.g. 'Framework', 'Backend', numbers/amounts, official scheme names), same "
+        "as this reference style: 'ERPNext ko samjho - Frappe Framework, Python Backend, MariaDB "
+        "Database.' Do NOT use Devanagari script anywhere - everything (Hindi parts AND the "
+        "mixed-in English words) stays in Roman/Latin letters. Do not write in stiff, fully "
+        "formal prose English either - match the citizen's own Hinglish register."
     ),
     "english": (
         "Reply ENTIRELY in English. Do not include any Hindi words, in Devanagari or Romanized "
@@ -1045,6 +1087,12 @@ def extract_need_node(state: ConvState):
     shown_schemes = state.get("shown_schemes") or []
     shown_jobs = state.get("shown_jobs") or []
     last_reply = state.get("last_reply")
+    # Captured now, before pending_need_domain gets reset below (same
+    # lifecycle reason pending_need_text is captured into a local here too) -
+    # route_after_extract needs to know which domain THIS resolved
+    # clarification belonged to, and by the time it runs, state's own
+    # pending_need_domain would already be the freshly-reset None.
+    pending_need_domain_before = state.get("pending_need_domain")
     pending_need_text = state.get("pending_need_text")
 
     context_lines = []
@@ -1183,6 +1231,7 @@ def extract_need_node(state: ConvState):
         "reply_lang": state.get("locked_reply_lang") or result.detected_language,
         "followup_target": result.followup_target,
         "pending_need_text": None,  # consumed - don't let it linger past the turn it was needed for
+        "pending_need_domain": None,  # consumed alongside pending_need_text above - same lifecycle
         # was the PREVIOUS turn a clarifying question (clarify/clarify_identity/
         # generate), AND is THIS message actually answering it? route_after_extract
         # uses this to force a fresh Stage A run regardless of what turn_type
@@ -1206,6 +1255,17 @@ def extract_need_node(state: ConvState):
         "was_answering_clarification": (
             bool(pending_need_text) and result.is_answering_pending_question is not False
         ),
+        # Which domain that resolved clarification actually belongs to -
+        # route_after_extract reads THIS (not pending_need_domain, which is
+        # already reset to None above) to decide "stage_a" vs "stage_a_jobs"
+        # when was_answering_clarification fires. Found live (2026-08-18):
+        # "mere liye koi job btao" -> clarify_jobs asks about qualification
+        # -> "10th pass hu" (answering it) got forced into a fresh SCHEME
+        # search instead of continuing the job search, because the override
+        # always routed to "stage_a" with no awareness a JOB clarification
+        # could be the one pending - surfaced a completely unrelated
+        # "Leather Training Scheme" with no connection to the job request.
+        "clarification_domain": pending_need_domain_before,
     }
     if result.stated_facts:
         # Additive, never reset - facts about the citizen/their situation
@@ -1247,8 +1307,13 @@ def route_after_extract(state: ConvState):
     # was_answering_clarification already factors in the model's own
     # is_answering_pending_question judgment (see extract_need_node) - no
     # need to special-case intent/turn_type/followup_target here as well.
+    # clarification_domain decides WHICH search this resumes into - found
+    # live (2026-08-18): this used to unconditionally return "stage_a" (the
+    # SCHEME search) regardless of domain, so answering a JOB clarifying
+    # question (clarify_jobs) got forced into a fresh, unrelated scheme
+    # search instead of continuing the job search.
     if state.get("was_answering_clarification"):
-        return "stage_a"
+        return "stage_a_jobs" if state.get("clarification_domain") == "job" else "stage_a"
     turn_type = state.get("turn_type")
     primary_need = (state.get("needs") or [None])[0]
     # A citizen-status question ("kya meri pension aayegi") can only be
@@ -1372,6 +1437,63 @@ def route_after_stage_a(state: ConvState):
     return "stage_b"
 
 
+def route_after_stage_a_jobs(state: ConvState):
+    """Jobs never had a clarify step at all (v1 gap - see stage_a_jobs_node's
+    call site in route_after_extract) - a fully generic "mujhe job ke liye
+    kuch btao" just ran a bare fuzzy search and dumped whatever came back,
+    with no chance to ask what kind of job/where/what qualification first.
+
+    NOT keyed on need_is_specific (tried first, found live 2026-08-18 to
+    never actually fire): that field asks "is the general PURPOSE clear",
+    and for jobs the purpose is nearly always clear ("I want a job" already
+    states it) even when there's nothing to narrow WHICH job - a signal
+    calibrated for scheme topic-vagueness, not job specificity. Instead,
+    ask only when there's genuinely nothing to search on: no location/
+    qualification/salary stated AND no specific post/department named
+    (job_title_named, from stage_a_jobs_node - see JobService.
+    has_title_match's docstring for why that needs its own check rather
+    than reusing the three structured fields alone)."""
+    if state.get("clarify_attempts", 0) >= 1:
+        return "generate_jobs"
+    primary_need = (state.get("needs") or [None])[0]
+    has_narrowing = bool(
+        primary_need and (
+            primary_need.get("job_location")
+            or primary_need.get("job_qualification")
+            or primary_need.get("job_min_salary")
+        )
+    )
+    if not has_narrowing and not state.get("job_title_named"):
+        return "clarify_jobs"
+    return "generate_jobs"
+
+
+def clarify_jobs_node(state: ConvState):
+    """Same shape as clarify_node, for the jobs domain - one short narrowing
+    question (kind of job/location/qualification) instead of dumping a
+    fuzzy-matched search result for a need that was never actually specific."""
+    lang_instruction = _lang_instruction(state.get("reply_lang"))
+    prompt = (
+        f"{_format_conversation_history(state.get('conversation_history'))}"
+        f"{_format_profile(state.get('profile'))}"
+        f"{_format_notes(state.get('conversation_notes'))}"
+        f'The citizen asked about government jobs: "{state.get("need_text", "")}"\n'
+        "This is too broad to search directly - no specific post, location, or qualification was "
+        "stated.\n\n"
+        f"Ask ONE short, simple clarifying question {lang_instruction} that would narrow this down "
+        "(e.g. what kind of post, which department/area, or their own qualification) - it must be "
+        "about something NOT already answered in the context above. Do not list job titles. One "
+        "sentence only."
+    )
+    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+    return {
+        "last_reply": resp.content,
+        "pending_need_text": state.get("need_text"),
+        "pending_need_domain": "job",
+        "clarify_attempts": state.get("clarify_attempts", 0) + 1,
+    }
+
+
 def clarify_node(state: ConvState):
     shortlist = state.get("shortlist") or []
     options_desc = "; ".join(
@@ -1397,6 +1519,7 @@ def clarify_node(state: ConvState):
     return {
         "last_reply": resp.content,
         "pending_need_text": state.get("need_text"),
+        "pending_need_domain": "scheme",
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
     }
 
@@ -1533,6 +1656,7 @@ def clarify_identity_node(state: ConvState):
     return {
         "last_reply": resp.content,
         "pending_need_text": state.get("need_text"),
+        "pending_need_domain": "scheme",
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
     }
 
@@ -1947,8 +2071,13 @@ def generate_node(state: ConvState):
         "this citizen' below - if it isn't confirmed, say plainly that it isn't, rather than "
         "guessing or labeling them into a category that was never stated. If the citizen has "
         "already stated a fact - in the profile, the noted facts, or the conversation above - "
-        "that clearly excludes a scheme, drop it from consideration and say "
-        "so - don't keep re-asking something they've effectively already answered. If a bare "
+        "that clearly excludes a scheme, DO NOT include that scheme in your list of options at "
+        "all - check this against the FULL scheme text, not just the coarse structured tag, since "
+        "the tag can be wrong or too broad (e.g. tagged for a whole caste category when the real "
+        "text restricts it to specific sub-groups the citizen isn't part of). A brief one-line "
+        "mention that it doesn't apply is fine if directly relevant, but never present an "
+        "already-excluded scheme as one of the options, even with a caveat attached - and don't "
+        "keep re-asking something they've effectively already answered either. If a bare "
         "'yes/no' this turn is ambiguous (your last reply asked about two or more separate things "
         "at once), ask which one it's answering rather than assuming. If NONE of the schemes match "
         "what's known, say so plainly rather than repeating the same conditional list turn after "
@@ -1999,6 +2128,7 @@ def generate_node(state: ConvState):
     return {
         "last_reply": result.reply,
         "pending_need_text": state.get("need_text") if asked_question else None,
+        "pending_need_domain": "scheme" if asked_question else None,
         "generate_clarify_rounds": (generate_clarify_rounds + 1) if asked_question else 0,
     }
 
@@ -2059,6 +2189,10 @@ def stage_a_jobs_node(state: ConvState):
         "shown_jobs": shown_jobs,
         "shown_job_id": results[0]["id"] if results else None,
         "already_shown_job_ids": already_shown,
+        # For route_after_stage_a_jobs - see JobService.has_title_match's
+        # docstring for why this needs its own signal, distinct from
+        # job_location/job_qualification/job_min_salary.
+        "job_title_named": svc.has_title_match(need_text),
     }
 
 
@@ -2284,6 +2418,35 @@ def _abort_janaadhaar_flow(reply_lang):
     }
 
 
+def _answer_from_entitlements(need_text, entitlements, reply_lang):
+    """Shared answer-composition prompt, used both right after a fresh OTP
+    success and (2026-08-18) for a same-session followup that reuses already-
+    cached entitlement data instead of re-verifying - see
+    janaadhaar_handle_node's `step is None` branch."""
+    lang_instruction = _lang_instruction(reply_lang)
+    prompt = (
+        f'The citizen asked about their own status: "{need_text}"\n'
+        f"Their identity has just been verified via Jan Aadhaar OTP. Their scheme entitlements:\n"
+        f"{entitlements}\n\n"
+        f"Answer their question directly using ONLY this data {lang_instruction} - match it to "
+        "whichever scheme they actually asked about (by name, even if phrased differently, "
+        "abbreviated, or in Hindi/Hinglish). If they asked generally what they're enrolled in "
+        "rather than about one specific scheme, briefly list all of the entitlements above. If "
+        "NONE of the entitlements match what they asked about, say plainly that no record was "
+        "found for that specific scheme, rather than guessing from an unrelated one. If the "
+        "entitlement itself IS found but doesn't contain the SPECIFIC detail they're asking about "
+        "(e.g. an exact date/timeline for when a pending verification will complete - this data "
+        "only has a status label, never a completion ETA), say plainly that this specific detail "
+        "isn't available, and share whatever status information you do have instead of guessing at "
+        "or inventing a timeline. Do not invent any detail not listed above. Keep it to one or two "
+        "sentences unless listing multiple entitlements. Do not mention Jan Aadhaar, OTP, or the "
+        "verification process in this reply - just answer their status question naturally, as if "
+        "you already knew this about them."
+    )
+    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+    return resp.content
+
+
 def janaadhaar_handle_node(state: ConvState):
     step = state.get("pending_janaadhaar_step")
     reply_lang = state.get("reply_lang")
@@ -2291,6 +2454,20 @@ def janaadhaar_handle_node(state: ConvState):
     svc = get_janaadhaar_service()
 
     if step is None:
+        # Same-session followup reusing already-verified data (2026-08-18):
+        # found live - "palanhar kab tak verify hojayga" right after a
+        # successful verification restarted the WHOLE ID/OTP flow from
+        # scratch, even though janaadhaar_status_data already held that
+        # citizen's fetched entitlements. state.py's own docstring for that
+        # field always documented this intent ("kept in case a same-session
+        # followup asks about it again without re-verifying") but nothing
+        # ever actually checked it before this fix - re-verifying was the
+        # ONLY path. Answer straight from the cache instead; only fall
+        # through to asking for the ID when there's nothing cached yet.
+        cached = state.get("janaadhaar_status_data")
+        if cached:
+            reply = _answer_from_entitlements(state.get("need_text", ""), cached, reply_lang)
+            return {"last_reply": reply}
         # Fresh trigger from a citizen_status need - THIS turn's own message
         # (the status question itself) already safely went through
         # extract_profile/extract_need, nothing to redact yet.
@@ -2416,26 +2593,10 @@ def janaadhaar_handle_node(state: ConvState):
 
         # Only entitlements (never the ID/OTP, which never reached this
         # point as anything but a local variable) go into this prompt.
-        lang_instruction = _lang_instruction(reply_lang)
-        prompt = (
-            f'The citizen asked about their own status: "{state.get("need_text", "")}"\n'
-            f"Their identity has just been verified via Jan Aadhaar OTP. Their scheme entitlements:\n"
-            f"{entitlements}\n\n"
-            f"Answer their question directly using ONLY this data {lang_instruction} - match it to "
-            "whichever scheme they actually asked about (by name, even if phrased differently, "
-            "abbreviated, or in Hindi/Hinglish). If they asked generally what they're enrolled in "
-            "rather than about one specific scheme, briefly list all of the entitlements above. If "
-            "NONE of the entitlements match what they asked about, say plainly that no record was "
-            "found for that specific scheme, rather than guessing from an unrelated one. Do not "
-            "invent any detail not listed above. Keep it to one or two sentences unless listing "
-            "multiple entitlements. Do not mention Jan Aadhaar, OTP, or the verification process in "
-            "this reply - just answer their status question naturally, as if you already knew this "
-            "about them."
-        )
-        resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+        reply = _answer_from_entitlements(state.get("need_text", ""), entitlements, reply_lang)
         return {
             **redacted,
-            "last_reply": resp.content,
+            "last_reply": reply,
             "janaadhaar_status_data": entitlements,
             "pending_janaadhaar_step": None,
             "janaadhaar_member_id": None,
@@ -2483,6 +2644,7 @@ def build_graph():
     graph.add_node("no_match", no_match_node)
     graph.add_node("generate", generate_node)
     graph.add_node("stage_a_jobs", stage_a_jobs_node)
+    graph.add_node("clarify_jobs", clarify_jobs_node)
     graph.add_node("stage_b_followup_jobs", stage_b_followup_jobs_node)
     graph.add_node("generate_jobs", generate_jobs_node)
     graph.add_node("janaadhaar_handle", janaadhaar_handle_node)
@@ -2518,9 +2680,14 @@ def build_graph():
     graph.add_edge("stage_b_followup", "generate")
     graph.add_edge("show_more", "generate")
     graph.add_edge("generate", "finalize")
-    graph.add_edge("stage_a_jobs", "generate_jobs")
+    graph.add_conditional_edges(
+        "stage_a_jobs",
+        route_after_stage_a_jobs,
+        {"clarify_jobs": "clarify_jobs", "generate_jobs": "generate_jobs"},
+    )
     graph.add_edge("stage_b_followup_jobs", "generate_jobs")
     graph.add_edge("generate_jobs", "finalize")
+    graph.add_edge("clarify_jobs", "finalize")
     graph.add_edge("clarify", "finalize")
     graph.add_edge("clarify_identity", "finalize")
     graph.add_edge("chitchat", "finalize")

@@ -1,0 +1,5 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 3985.99it/s]
+total eligibility chunks scanned: 166
+hits: 1
+('Kali Bai Bheel Medhavi Chhatra Scooty Scheme', 'year of passing', 'Kali Bai Bheel Medhavi Chhatra Scooty Scheme — Eligibility: 1. Girl students who have passed class 12th with a minimum of 65% marks in Rajasthan Board of Secondary Education and passed class 12th with a minimum of 75% marks in Central Board of Secondary Education who are studying in any school in Ra')

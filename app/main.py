@@ -90,6 +90,13 @@ class ChatResponse(BaseModel):
     # every other turn, and naturally None forever once JANAADHAAR_MODE=real,
     # since the real transport's response never carries the OTP value.
     sms_preview: Optional[str] = None
+    # This turn's own reply_lang ("hindi"/"hinglish"/"english"), 2026-08-18 -
+    # the frontend threads this back as the language hint for the CITIZEN'S
+    # NEXT voice message (see /transcribe below), now that the language
+    # picker that used to supply this hint has been removed. None on the
+    # very first turn of a session (nothing to hint from yet, same as
+    # before the picker ever existed).
+    reply_lang: Optional[str] = None
 
 
 class TranscribeResponse(BaseModel):
@@ -137,13 +144,22 @@ async def transcribe_audio(audio: UploadFile = File(...), preferred_lang: Option
     Whatever text comes back is just handed to POST /chat like any typed
     message, so no session_id is needed here at all.
 
-    preferred_lang ("hindi"/"hinglish"/"english"), if the citizen already
-    picked one via the language picker, is passed through to Whisper as a
-    language hint - confirmed live (2026-08-12) that speaking Hindi with no
-    hint got translated to English text instead of transcribed faithfully."""
+    preferred_lang ("hindi"/"hinglish"/"english") is passed through to
+    Sarvam's Saaras as a language hint - sourced from the PREVIOUS turn's own
+    reply_lang now that the language picker that used to supply this is
+    gone (see frontend/src/store/chatStore.js's lastReplyLang and
+    ChatResponse.reply_lang above). Confirmed live (2026-08-12, against the
+    old Whisper backend) that speaking Hindi with no hint got translated to
+    English text instead of transcribed faithfully - passing one costs
+    nothing even if this turns out unnecessary against Saaras too."""
     try:
         audio_bytes = await audio.read()
-        text = transcribe(audio_bytes, filename=audio.filename or "audio.webm", reply_lang=preferred_lang)
+        text = transcribe(
+            audio_bytes,
+            filename=audio.filename or "audio.webm",
+            reply_lang=preferred_lang,
+            content_type=audio.content_type,
+        )
     except TranscriptionError as e:
         logger.error("transcription failed: %s", e)
         raise HTTPException(status_code=502, detail=str(e))
@@ -177,4 +193,5 @@ def chat(req: ChatRequest):
         session_id=req.session_id,
         reply=result.get("last_reply", ""),
         sms_preview=result.get("mock_sms_preview"),
+        reply_lang=result.get("reply_lang"),
     )

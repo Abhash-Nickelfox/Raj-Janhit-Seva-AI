@@ -160,6 +160,22 @@ class JobService:
             ranked = sorted(candidates, key=lambda j: (-j["vacancies"], j["lastDate"]))
         return [self._with_live_status(j) for j in ranked[:top_n]]
 
+    def has_title_match(self, query_text, status: Optional[str] = "active") -> bool:
+        """Whether query_text names a specific post/department confidently
+        enough that no clarifying question is needed about WHICH job -
+        reuses the exact same scoring search() itself already computes
+        internally to decide between its title-matched result set and the
+        generic ranked-fallback path, so the two can never disagree. Added
+        2026-08-18 for route_after_stage_a_jobs: a bare "mujhe job ke liye
+        kuch batao" should trigger a narrowing question, but "Patwari job ke
+        baare mein batao" (a specific post named, just no location/
+        qualification/salary stated) should not - job_location/
+        job_qualification/job_min_salary alone can't tell those two apart,
+        since both leave all three null."""
+        today = date.today()
+        candidates = [j for j in self.jobs if not status or _compute_status(j, today) == status]
+        return any(_title_match_score(query_text, j) >= TITLE_MATCH_THRESHOLD for j in candidates)
+
     def get(self, job_id):
         job = self._by_id.get(job_id)
         return self._with_live_status(job) if job else None

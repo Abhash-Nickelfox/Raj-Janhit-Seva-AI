@@ -12,15 +12,6 @@ const WELCOME_TEXT =
   "Namaste! Main Rajasthan sarkari yojnaon aur naukriyon mein madad karta hoon.\n" +
   "Hi! I help with Rajasthan govt schemes and jobs.";
 
-// Shown as its own bot message every time the citizen picks/changes a
-// language via LanguageSelector (top-right, always visible) - written in
-// the language just selected, so the confirmation itself demonstrates it.
-const LANGUAGE_CONFIRM_TEXT = {
-  hindi: "आपने हिंदी भाषा चुनी है। अब मैं हिंदी में जवाब दूंगा।",
-  hinglish: "Aapne Hinglish language select kiya hai. Ab main Hinglish mein jawab dunga.",
-  english: "You have selected English language. I'll reply in English now.",
-};
-
 // Unlike the reference frontend, this doesn't fire an empty-message request
 // on mount to fetch a greeting from the backend - the conversation graph's
 // extraction nodes expect a real citizen message, not an empty kickoff, so
@@ -30,11 +21,21 @@ export const useChatStore = create((set, get) => ({
   sessionId: newSessionId(),
   messages: [{ role: "bot", text: WELCOME_TEXT }],
   isLoading: false,
-  // null until the citizen picks one via LanguageSelector - stays null
-  // (normal per-turn detection) if they never pick, so this is purely
-  // additive, not a required step. Once set, stays locked across every
-  // future turn until they change it again via the same selector.
+  // Always null now that LanguageSelector is removed - the backend's /chat
+  // still accepts this (to LOCK reply_lang for a whole session), it's just
+  // never sent since there's no more UI to set it. Per-turn auto-detection
+  // (unaffected either way) is what actually decides the reply's language.
   preferredLang: null,
+
+  // The backend's OWN reply_lang from the most recent turn (2026-08-18) -
+  // NOT the same thing as preferredLang above (that's a citizen-picked LOCK
+  // that no longer has a way to be set; this is just "what got detected
+  // last turn"). Threaded through to MicButton as the voice-transcription
+  // hint now that the picker that used to supply this hint is gone - see
+  // chatApi.js's transcribeAudio and app/stt_service.py's docstring for why
+  // a hint matters at all. null until the first reply arrives (nothing to
+  // hint from yet, same as before the picker ever existed).
+  lastReplyLang: null,
 
   // Mock-only (2026-08-17): set to the OTP preview text the turn the Jan
   // Aadhaar mock generates one, so SmsPopup can show it as a simulated
@@ -42,12 +43,6 @@ export const useChatStore = create((set, get) => ({
   // and cleared once the popup dismisses itself.
   smsPopup: null,
   dismissSmsPopup: () => set({ smsPopup: null }),
-
-  setPreferredLang: (lang) =>
-    set((state) => ({
-      preferredLang: lang,
-      messages: [...state.messages, { role: "bot", text: LANGUAGE_CONFIRM_TEXT[lang] }],
-    })),
 
   sendMessage: async (text) => {
     const trimmed = text.trim();
@@ -59,11 +54,12 @@ export const useChatStore = create((set, get) => ({
     }));
 
     try {
-      const { reply, sms_preview } = await apiSendMessage(get().sessionId, trimmed, get().preferredLang);
+      const { reply, sms_preview, reply_lang } = await apiSendMessage(get().sessionId, trimmed, get().preferredLang);
       set((state) => ({
         messages: [...state.messages, { role: "bot", text: reply }],
         isLoading: false,
         smsPopup: sms_preview || null,
+        lastReplyLang: reply_lang || state.lastReplyLang,
       }));
     } catch (err) {
       set((state) => ({

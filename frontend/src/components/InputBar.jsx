@@ -1,7 +1,7 @@
 import { useState } from "react";
 import MicButton from "./MicButton.jsx";
 
-export default function InputBar({ onSend, disabled, preferredLang }) {
+export default function InputBar({ onSend, disabled, lastReplyLang }) {
   const [text, setText] = useState("");
   const [voiceError, setVoiceError] = useState("");
 
@@ -42,7 +42,7 @@ export default function InputBar({ onSend, disabled, preferredLang }) {
           }}
           disabled={disabled}
           onError={setVoiceError}
-          preferredLang={preferredLang}
+          lastReplyLang={lastReplyLang}
         />
         <button
           onClick={submit}

@@ -17,13 +17,13 @@ const MAX_RECORDING_MS = 30000;
 
 // Press to start recording (records via MediaRecorder), auto-stops once
 // voice-activity detection notices the citizen has gone quiet after
-// speaking, transcribes via Groq Whisper (app/stt_service.py), then
+// speaking, transcribes via Sarvam's Saaras (app/stt_service.py), then
 // auto-sends the transcribed text exactly like a typed message (no
 // review-before-send step, by design). A manual click while recording
 // still stops it immediately too, as a fallback/override. Errors surface
 // via onError rather than failing silently, so the citizen always knows
 // to fall back to typing.
-export default function MicButton({ onSend, disabled, onError, preferredLang }) {
+export default function MicButton({ onSend, disabled, onError, lastReplyLang }) {
   const [status, setStatus] = useState("idle"); // idle | recording | transcribing
   const mediaRecorderRef = useRef(null);
   const chunksRef = useRef([]);
@@ -103,7 +103,7 @@ export default function MicButton({ onSend, disabled, onError, preferredLang }) 
         setStatus("transcribing");
         try {
           const blob = new Blob(chunksRef.current, { type: recorder.mimeType || "audio/webm" });
-          const text = (await transcribeAudio(blob, preferredLang)).trim();
+          const text = (await transcribeAudio(blob, lastReplyLang)).trim();
           if (text) {
             onSend(text);
           } else {

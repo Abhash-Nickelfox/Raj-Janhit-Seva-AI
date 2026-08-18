@@ -1,0 +1,67 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 3113.18it/s]
+graduat* mentions: 16
+--- Ambedkar DBT Voucher Scheme
+ the district level for the academic course.
+1. The student should be regularly enrolled in an undergraduate or postgraduate course at a government college.
+1. The student should be pursuing an academic course in a government college located at the d
+--- Ambedkar Fellowship Scheme
+nt should belong to the Scheduled Caste (SC) category.
+1. The applicant should have completed a postgraduate degree with at least 55% marks.
+1. The applicant should be below 35 years of age at the time of application.
+1. The applicant&#39;s annual fa
+--- Ambedkar International Scholarship - SC
+licant must belong to the Scheduled Caste (SC) category.
+1. The applicant must have completed a postgraduate degree from a recognized Indian university with a minimum of 55% marks.
+1. The applicant must have secured admission to a Ph.D. program in a 
+--- Devnarayan Pratibhawan Chhatra Protsahan Yojana
+ld be studying in a government school or college.
+1. The applicant should have passed class 10th to graduation with a first division.1. The applicant should have obtained at least 48% marks in the postgraduation first year and be enrolled in the fina
+--- Hostel Rent Assistance Scheme for Tribal Students
+ance Scheme for Tribal Students — Eligibility: 1. The applicant should be studying regularly a undergraduate or postgraduate course in a government college.
+1. The student should belong to a Scheduled Tribe community residing in the Scheduled Areas o
+--- Indira Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna -RS-CIT
+ priority.
+   1. The applicant trainees who have passed class 10th from a government school and are graduates.
+   1. The applicant  Anganwadi worker must be a Graduate.
+--- Kali Bai Bheel Medhavi Chhatra Scooty Scheme
+f 75% marks in Central Board of Secondary Education who are studying in any school in Rajasthan.
+1. Graduation degree from any Rajasthan-based college like (B.A.BED/ B.SC.BED/ B.COM.BED/BE / B.TECH/ B.ARCH / MBBS / IIT / BBA / BBM / BCA / BDS / BHMS 
+--- Kasturba Gandhi Special Term Deposit Receipt Scheme
+from a government school 1. The applicant should be enrolled in the first year of a recognized undergraduate course.
+--- Laado Protsahan Yojana
+ a recognized school or institution for subsequent installments.
+1. The applicant’s daughter should graduate from a recognized higher education institution and attain the age of 21 to receive the final installment.
+--- Mukhyamantri Hunar Vikas Yojana- Higher Education/Technical Education
+vernment.
+   1. Financial assistance is applicable for regular higher or technical education at the graduate or postgraduate level.
+   1. The applicant should not be receiving any scholarships or grants for higher/technical education from the Central
+--- Nirman Shramik Siksha Kaushal Vikas Yojana
+ernment or private school or college recognized by the Central/State Government from class 6 to postgraduate level.
+1. The student must be studying regularly in a government or recognized private ITI and polytechnic course run in the state.
+1. To rec
+--- Nirman Shramik Siksha Kaushal Vikas Yojana
+fter the summer vacation. However, in case of passing the final examination of 12th class, diploma, graduation or postgraduate course, it will not be necessary to take admission in the next class.
+1. A beneficiary who does not deposit the contributio
+--- Research Fellowship Scheme for Scheduled Tribe Candidates
+nj tehsils of Baran district (Saheria Project Area).
+   1. The applicant should have completed Post-graduation with at least 50% marks from a recognized university.
+   1. The applicant should be registered in a recognized Central/State/Deemed/Private
+--- Scheme For Study In Abroad
+sthan. 
+1. The girl students securing the first three positions are given the opportunity to pursue graduate-level education abroad
+--- Urdu Scholarship- Rajasthan
+du Scholarship- Rajasthan — Eligibility: 1. The applicant should be a native of Rajasthan.
+   1. At graduation level, only female students are eligible.
+   1. At post-graduation level, both male and female students are eligible.
+   1. The applicant s
+--- Young Interns Program
+and data card/internet facility.
+
+ 
+
+> **Education Specific**
+
+
+1. The applicant should have a post-graduate qualification with a minimum of 60% marks or a CGPA of 6 on a scale of 10 in any stream from a recognized university.
+1. The graduate applica
