@@ -53,7 +53,7 @@ This is a **one-time offline pipeline** — it's not run live during a conversat
 This is `app/chat.py`'s [LangGraph](https://langchain-ai.github.io/langgraph/) state machine, run fresh on every message:
 
 1. **`normalize`** — light cleanup of the raw message.
-2. **`extract_profile`** — an LLM call that pulls out any *new, explicitly stated* facts about the citizen themselves (caste, gender, residence, education level...) and merges them into a persistent profile for this conversation.
+2. **`extract_profile`** — an LLM call that pulls out any *new, explicitly stated* facts about the citizen themselves (caste, gender, residence, education level...) and merges them into a persistent profile for this conversation. The same call also records free-form **conversation notes** — durable facts with no profile field of their own (a family member's class, documents held, answers to the bot's own questions) — so they never expire with the rolling chat history and are never re-asked.
 3. **`extract_need`** — a second LLM call that classifies what this message actually wants: is it a fresh need, a follow-up on something just shown, or a request for more options? Is it about a scheme or a job? Is it for the citizen or a family member? What language should the reply be in?
 4. Routing splits here:
    - **Scheme domain** → `stage_a` (semantic shortlist search + fail-open eligibility filter over `RagService`) → either `clarify`/`clarify_identity` (ask one short question if genuinely needed) or `stage_b` (fetch full detail for the best matching schemes) → `generate`.

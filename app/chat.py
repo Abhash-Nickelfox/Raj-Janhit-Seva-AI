@@ -97,16 +97,37 @@ IDENTITY_FIELDS = ("gender", "caste", "marital_status", "residence", "education_
 # the "is there a gap-free alternative at all" check looks before giving up.
 IDENTITY_GAP_CHECK_TOP_N = 5
 
-# Bounds on the two rolling context mechanisms below - kept small and fixed
-# deliberately: this is a safety margin for context the CURRENT turn's own
-# retrieval might have missed (e.g. a narrow documents-only fetch), not a
-# replacement for doing retrieval well. Unbounded growth would just make
-# every future prompt larger and slower for no benefit once it exceeds a
-# handful of recent exchanges.
+# Bounds on the rolling context mechanisms below - bounded so prompts don't
+# grow without limit, but the history window is deliberately generous:
+# raised 4 -> 12 (2026-08-18) after live conversations showed facts stated
+# a few turns earlier scrolling out of the window and getting re-asked
+# (see ConvState.generate_clarify_rounds' 2026-08-17 seven-questions
+# incident). Twelve exchanges of chat text is still a small prompt for the
+# models in use; facts that must outlive even this window belong in
+# `profile` or `conversation_notes`, which never expire.
 MAX_CACHED_CHUNKS = 15
-MAX_HISTORY_TURNS = 4
+MAX_HISTORY_TURNS = 12
+# Cap on the free-form durable memory (ConvState.conversation_notes) -
+# oldest notes drop first once exceeded. High enough that a normal
+# conversation never hits it.
+MAX_CONVERSATION_NOTES = 30
 
 DEVANAGARI_RE = re.compile(r"[ऀ-ॿ]")
+
+
+def _merge_notes(existing, new):
+    """Append new free-form notes onto the durable conversation_notes list -
+    deduped case-insensitively, oldest dropped first past the cap. Shared by
+    both capture channels (extract_profile_node's new_notes and
+    extract_need_node's stated_facts) so they feed one list identically."""
+    notes = list(existing or [])
+    seen = {n.strip().lower() for n in notes}
+    for note in new or []:
+        cleaned = note.strip()
+        if cleaned and cleaned.lower() not in seen:
+            notes.append(cleaned)
+            seen.add(cleaned.lower())
+    return notes[-MAX_CONVERSATION_NOTES:]
 
 
 def _chunk_key(meta):
@@ -243,11 +264,14 @@ def _subject_facts_for_need(need, profile):
 
 
 _llm = None
+_reply_llm = None
 _rag_service = None
 _job_service = None
 
 
 def get_llm():
+    """Extraction/classification calls - temperature 0 so profile facts,
+    need classification, and routing stay deterministic and reproducible."""
     global _llm
     if _llm is None:
         _llm = ChatOpenAI(
@@ -257,6 +281,46 @@ def get_llm():
             temperature=0,
         )
     return _llm
+
+
+def get_reply_llm():
+    """Citizen-facing reply composition - separate from get_llm() above
+    (2026-08-18): temperature 0 on the reply calls made every answer open
+    with the identical acknowledgment formula turn after turn ("haan
+    samjha..."), reading robotic in live testing. A moderate temperature
+    varies phrasing naturally without affecting factual grounding (the
+    facts come from the retrieved data in the prompt, not from sampling),
+    while extraction/classification stays pinned at 0 where determinism
+    actually matters."""
+    global _reply_llm
+    if _reply_llm is None:
+        _reply_llm = ChatOpenAI(
+            model=OPENROUTER_MODEL,
+            api_key=OPENROUTER_API_KEY,
+            base_url="https://openrouter.ai/api/v1",
+            temperature=0.6,
+        )
+    return _reply_llm
+
+
+# Shared persona for every citizen-facing reply call, sent as the system
+# message (2026-08-18). Before this, each reply node built a bare one-off
+# instruction prompt with no voice at all, and the deterministic model fell
+# back on the same stock acknowledgments every turn - a live complaint
+# ("sounds robotic, says 'haan samjha' again and again") distinct from any
+# single prompt rule being wrong. Content/grounding rules stay in each
+# node's own prompt; this only sets tone.
+PERSONA = (
+    "You are Jan Seva Sahayak, a warm, plain-spoken assistant helping Rajasthan citizens find "
+    "government welfare schemes and job vacancies. Talk the way a helpful, knowledgeable person "
+    "at a local e-Mitra counter would - natural, direct, and respectful - never like a form "
+    "being filled in or a script being read out. Vary your wording naturally from reply to "
+    "reply: do not open consecutive replies with the same acknowledgment phrase (no stock "
+    "'haan samjha' / 'theek hai' / 'sure' openers repeated turn after turn - usually just get "
+    "to the point), and do not restate back what the citizen just told you. Never re-ask "
+    "something the citizen has already answered anywhere in the conversation context you are "
+    "given. Keep replies concise and practical."
+)
 
 
 def get_rag_service():
@@ -437,7 +501,9 @@ class NeedItem(BaseModel):
         None,
         description=(
             "ONLY if domain='job' and the citizen explicitly stated THEIR OWN educational/technical "
-            "qualification in THIS message. Normalize free text to exactly one of these 4 levels: "
+            "qualification - either in THIS message, or recorded in the 'Durable facts noted "
+            "earlier' context above (a qualification they stated in an earlier turn still counts; "
+            "never make them restate it). Normalize free text to exactly one of these 4 levels: "
             "'12th Pass' (10th/12th pass, no further study); 'Diploma' (polytechnic, ITI, any "
             "technical diploma); 'Graduate' (any bachelor's degree - B.A./B.Sc./B.Com/B.Tech/BCA/"
             "etc.); 'Post Graduate' (any master's degree or higher). null if no qualification was "
@@ -448,7 +514,8 @@ class NeedItem(BaseModel):
         None,
         description=(
             "ONLY if domain='job' and the citizen explicitly stated a minimum/expected salary "
-            "figure in THIS message (e.g. '30000 se zyada chahiye', 'at least 25k salary'). The "
+            "figure - in THIS message (e.g. '30000 se zyada chahiye', 'at least 25k salary') or "
+            "recorded in the 'Durable facts noted earlier' context above. The "
             "number in rupees (convert 'k'/'lakh' as needed, e.g. '25k' -> 25000, '2 lakh' -> "
             "200000). null if no figure was stated."
         ),
@@ -653,6 +720,22 @@ class ProfileExtraction(BaseModel):
             "to what's already known, so previously-confirmed categories never need restating."
         ),
     )
+    new_notes: list[str] = Field(
+        default_factory=list,
+        description=(
+            "OTHER durable facts stated in THIS message that are worth remembering for the rest of "
+            "the conversation but have NO dedicated field above - e.g. facts about a family member "
+            "('son is in class 10', 'daughter is 19 and unmarried'), documents the citizen has or "
+            "lacks ('has a BPL card', 'no disability certificate'), schemes/jobs they already "
+            "applied to or already receive, land/assets they own ('owns 2 bigha of land'), their "
+            "job-search preferences (qualification, expected salary, preferred city), or a direct "
+            "answer they just gave to a question in your last reply - INCLUDING negative answers "
+            "('said no when asked about disability'). One short, self-contained English sentence "
+            "per fact, stating whose fact it is. Only facts actually stated in THIS message - "
+            "never inferences - and never a duplicate of something already in the known facts or "
+            "already-noted list above. Most messages have none - empty list is the normal case."
+        ),
+    )
 
 
 class NeedExtraction(BaseModel):
@@ -754,8 +837,10 @@ class NeedExtraction(BaseModel):
             "ONLY if intent='chitchat': write the actual reply to send back, right here - not a "
             "description of what to say, the literal reply text itself. Keep it brief and warm, "
             "in the same language/register as detected_language above, and mention you can help "
-            "them find Rajasthan government schemes and jobs. null for every other intent - do not "
-            "write anything here unless intent is genuinely 'chitchat'."
+            "them find Rajasthan government schemes and jobs. Word it naturally and freshly - if "
+            "the recent conversation above shows an earlier reply of yours, do not reuse its "
+            "opening words or repeat the same stock acknowledgment. null for every other intent - "
+            "do not write anything here unless intent is genuinely 'chitchat'."
         ),
     )
     is_answering_pending_question: Optional[bool] = Field(
@@ -852,9 +937,15 @@ def extract_profile_node(state: ConvState):
     # actually see what's being discussed - it wasn't a reasoning gap, it
     # was missing the same context extract_need_node already gets.
     history_block = _format_conversation_history(state.get("conversation_history"))
+    existing_notes = state.get("conversation_notes") or []
+    notes_block = (
+        "Facts already noted this conversation (do not repeat these in new_notes):\n"
+        + "\n".join(f"- {n}" for n in existing_notes) + "\n\n"
+    ) if existing_notes else ""
     prompt = (
         history_block
         + (f"Known facts about this citizen so far: {profile}\n\n" if profile else "")
+        + notes_block
         + f'Citizen\'s new message: "{state["normalized_message"]}"\n\n'
         + "Extract only NEW facts about the citizen THEMSELVES (the person sending this message) "
         "stated in THIS message. Use the recent conversation above to tell whether this message is "
@@ -888,7 +979,11 @@ def extract_profile_node(state: ConvState):
         "nahi hoon'-style Hindi negation). A denial with no separate positive statement leaves the "
         "field null. "
         "Do not restate facts already known above unless this message corrects them. "
-        "Most messages state no new profile facts at all - that's fine, leave those null."
+        "Most messages state no new profile facts at all - that's fine, leave those null.\n\n"
+        "Separately, in new_notes, record any OTHER durable facts from THIS message per that "
+        "field's own description - facts with no profile field of their own (family members, "
+        "documents, prior applications, assets, job preferences, direct answers to a question "
+        "your last reply asked). The same explicitly-stated-only standard applies there too."
     )
     result = get_llm().with_structured_output(ProfileExtraction).invoke(prompt)
 
@@ -938,7 +1033,11 @@ def extract_profile_node(state: ConvState):
             set(profile.get("occupation_groups") or []) | set(result.occupation_groups)
         )
 
-    return {"profile": merged_profile}
+    # Append-only free-form memory (see ConvState.conversation_notes) - this
+    # is what lets an out-of-schema fact ("son is in class 10", "no
+    # disability certificate") outlive the rolling conversation_history
+    # window instead of being re-asked.
+    return {"profile": merged_profile, "conversation_notes": _merge_notes(existing_notes, result.new_notes)}
 
 
 def extract_need_node(state: ConvState):
@@ -961,6 +1060,14 @@ def extract_need_node(state: ConvState):
         # named "wife" explicitly, because this node previously had no
         # access to the turn where "wife" was first established.
         context_lines.append(_format_conversation_history(history).rstrip())
+    notes = state.get("conversation_notes") or []
+    if notes:
+        # Durable facts that may predate the rolling history window above -
+        # lets terse followups resolve against facts stated many turns ago
+        # (e.g. a job qualification or a family member's situation).
+        context_lines.append(
+            "Durable facts noted earlier this conversation:\n" + "\n".join(f"- {n}" for n in notes)
+        )
     if len(shown_schemes) > 1:
         # Multiple schemes shown at once (a multi-need answer, or several
         # options) - give the model the actual list so it can resolve which
@@ -1101,17 +1208,20 @@ def extract_need_node(state: ConvState):
         ),
     }
     if result.stated_facts:
-        # Additive, never reset - unlike need-scoped fields above, these are
-        # facts about the citizen/their situation (registrations, asset
-        # ownership, prior scheme history), not tied to whichever need is
-        # currently being discussed, so they must survive a topic switch the
-        # same way `profile` does. Added 2026-08-18 after finding that narrow,
-        # scheme-specific criteria (MSME registration, tractor ownership, ...)
-        # had NO persisted tracking at all, unlike the fixed identity fields -
-        # they lived only in conversation_history's rolling 4-turn window, so
-        # clarify_identity_node/generate_node re-asked them once that window
-        # scrolled past the turn where they were first confirmed.
-        result_dict["stated_facts"] = (state.get("stated_facts") or []) + result.stated_facts
+        # Additive, never reset - facts about the citizen/their situation
+        # (registrations, asset ownership, prior scheme history), not tied
+        # to whichever need is currently being discussed, so they must
+        # survive a topic switch the same way `profile` does. Feeds the SAME
+        # conversation_notes list as extract_profile_node's new_notes (this
+        # node runs after it, so state already carries this turn's profile-
+        # channel notes) - one durable store, two capture channels, since
+        # this call sees the need/clarify-answer context the profile call
+        # doesn't. Added 2026-08-18: narrow scheme-specific criteria (MSME
+        # registration, tractor ownership, ...) previously lived only in
+        # conversation_history's rolling window, so clarify_identity_node/
+        # generate_node re-asked them once the window scrolled past the turn
+        # where they were first confirmed.
+        result_dict["conversation_notes"] = _merge_notes(state.get("conversation_notes"), result.stated_facts)
     if not pending_need_text:
         # No clarification was pending coming into this turn, so this is a
         # fresh need with no unresolved clarify streak to cap - reset the
@@ -1268,14 +1378,22 @@ def clarify_node(state: ConvState):
         f"{s['scheme_name']} ({s['metadata'].get('category', '')})" for s in shortlist[:8]
     )
     lang_instruction = _lang_instruction(state.get("reply_lang"))
+    # History/profile/notes context (2026-08-18): this node used to see NONE
+    # of it - only the distilled need_text - so it could ask a narrowing
+    # question the citizen had already answered a few turns earlier, which
+    # read as the bot not listening.
     prompt = (
+        f"{_format_conversation_history(state.get('conversation_history'))}"
+        f"{_format_profile(state.get('profile'))}"
+        f"{_format_notes(state.get('conversation_notes'))}"
         f'The citizen asked: "{state["need_text"]}"\n'
         f"This is too broad to answer directly - {state.get('candidate_count')} schemes could match, "
         f"spanning different purposes, e.g.: {options_desc}\n\n"
         f"Ask ONE short, simple clarifying question {lang_instruction} that would narrow this down "
-        "(e.g. what specific kind of help they need). Do not list scheme names. One sentence only."
+        "(e.g. what specific kind of help they need) - it must be about something NOT already "
+        "answered in the context above. Do not list scheme names. One sentence only."
     )
-    resp = get_llm().invoke(prompt)
+    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
     return {
         "last_reply": resp.content,
         "pending_need_text": state.get("need_text"),
@@ -1366,6 +1484,12 @@ def clarify_identity_node(state: ConvState):
             "(there is no family member involved in this need)."
         )
     prompt = (
+        # Same context gap as clarify_node (2026-08-18): without the recent
+        # conversation and durable notes, this node could ask about a
+        # restriction the citizen had already addressed in a form the coded
+        # facts didn't capture.
+        f"{_format_conversation_history(state.get('conversation_history'))}"
+        f"{_format_notes(state.get('conversation_notes'))}"
         f'The citizen asked about: "{state["need_text"]}"\n'
         f'The best-matching scheme is specifically restricted on: {gap_desc}. Its actual eligibility '
         f'text: "{elig_text}"\n\n'
@@ -1401,9 +1525,11 @@ def clarify_identity_node(state: ConvState):
         "specific scheme. "
         "But if the paragraph above says this scheme doesn't actually apply, say that briefly instead "
         f"{lang_instruction} and mention general options exist - do not ask a question in that case. "
+        "Likewise, if the conversation or noted facts above already answer the question you would "
+        "ask, do not ask it - use that answer directly instead. "
         "One or two sentences either way."
     )
-    resp = get_llm().invoke(prompt)
+    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
     return {
         "last_reply": resp.content,
         "pending_need_text": state.get("need_text"),
@@ -1663,17 +1789,18 @@ def _format_profile(profile):
     return f"What we know about this citizen: {facts}\n\n"
 
 
-def _format_stated_facts(stated_facts):
-    """Narrow, scheme-specific facts (MSME registration, tractor ownership,
-    prior subsidy history, ...) that don't fit the fixed identity-field
-    schema profile covers - added 2026-08-18 so these survive past
-    conversation_history's rolling window instead of only living in raw
-    chat text the model has to re-notice every time. See NeedExtraction.
-    stated_facts's docstring for how these get populated."""
-    if not stated_facts:
+def _format_notes(notes):
+    """conversation_notes as a prompt block - the durable free-form memory
+    that outlives the rolling history window (fed by both ProfileExtraction.
+    new_notes and NeedExtraction.stated_facts), so anything recorded here is
+    already-given information a reply must never ask for again."""
+    if not notes:
         return ""
-    facts = "; ".join(stated_facts)
-    return f"Also already confirmed - do NOT ask about any of these again: {facts}\n\n"
+    lines = "\n".join(f"- {n}" for n in notes)
+    return (
+        "Other facts noted earlier in this conversation (treat these as already answered - "
+        f"never ask about any of them again):\n{lines}\n\n"
+    )
 
 
 class SchemeAnswer(BaseModel):
@@ -1819,7 +1946,8 @@ def generate_node(state: ConvState):
         "gender, or any other identity fact unless it's explicitly listed in 'What we know about "
         "this citizen' below - if it isn't confirmed, say plainly that it isn't, rather than "
         "guessing or labeling them into a category that was never stated. If the citizen has "
-        "already stated a fact that clearly excludes a scheme, drop it from consideration and say "
+        "already stated a fact - in the profile, the noted facts, or the conversation above - "
+        "that clearly excludes a scheme, drop it from consideration and say "
         "so - don't keep re-asking something they've effectively already answered. If a bare "
         "'yes/no' this turn is ambiguous (your last reply asked about two or more separate things "
         "at once), ask which one it's answering rather than assuming. If NONE of the schemes match "
@@ -1840,7 +1968,7 @@ def generate_node(state: ConvState):
         f"{hard_stop_block}"
         f"{_format_conversation_history(state.get('conversation_history'))}"
         f"{_format_profile(state.get('profile'))}"
-        f"{_format_stated_facts(state.get('stated_facts'))}"
+        f"{_format_notes(state.get('conversation_notes'))}"
         f"{question_block}\n\n"
         f"Structured eligibility data:\n{structured_text}\n\n"
         f"Scheme summaries (short - use these instead of 'Scheme text' when asking a clarifying "
@@ -1848,7 +1976,9 @@ def generate_node(state: ConvState):
         f"Scheme text (full detail - use once no clarifying question is needed):\n{chunks_text}\n\n"
         f"{lang_instruction} Keep it concise and practical."
     )
-    result = get_llm().with_structured_output(SchemeAnswer).invoke(prompt)
+    result = get_reply_llm().with_structured_output(SchemeAnswer).invoke(
+        [("system", PERSONA), ("human", prompt)]
+    )
     # Mechanically enforced regardless of what the model decided - the
     # HARD STOP prompt instruction above asks nicely, but prompt-following
     # isn't guaranteed, and the whole point of this cap is a GUARANTEE the
@@ -1884,7 +2014,7 @@ def chitchat_node(state: ConvState):
         f"This isn't a scheme/job question. Reply briefly and warmly. {lang_instruction} "
         "Mention you can help them find Rajasthan government schemes and jobs."
     )
-    resp = get_llm().invoke(prompt)
+    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
     return {"last_reply": resp.content}
 
 
@@ -1962,7 +2092,7 @@ def generate_jobs_node(state: ConvState):
             f"No matching postings were found. Say so briefly {lang_instruction} and suggest they "
             "check back later or ask about a different post/location. One or two sentences."
         )
-        resp = get_llm().invoke(prompt)
+        resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
         return {"last_reply": resp.content}
 
     jobs_desc = "\n".join(
@@ -1974,9 +2104,16 @@ def generate_jobs_node(state: ConvState):
         for j in jobs
     )
     focus = _JOB_FIELD_FOCUS_BY_INTENT.get(state.get("intent"), "give a clear overview of the matching postings.")
+    # Conversation context (2026-08-18): job replies used to be composed
+    # from the distilled need_text alone, blind to the conversation - a
+    # followup or a short answer to the bot's own question got answered as
+    # if it were the first message of a brand-new session.
     prompt = (
         f"Today's date is {date.today().isoformat()}.\n"
+        f"{_format_conversation_history(state.get('conversation_history'))}"
+        f"{_format_notes(state.get('conversation_notes'))}"
         f'The citizen asked: "{state.get("need_text", "")}"\n'
+        f'Citizen\'s exact words this turn: "{state.get("raw_message", "")}"\n'
         f"Matching government job posting(s):\n{jobs_desc}\n\n"
         f"Answer their question {lang_instruction} using ONLY this data - never invent a detail "
         f"not listed above. {focus} Use today's date above to reason correctly about whether the "
@@ -1987,7 +2124,7 @@ def generate_jobs_node(state: ConvState):
         "status and phrase the reply around it rather than asserting a contradiction. Format as a "
         "short list if there are multiple postings."
     )
-    resp = get_llm().invoke(prompt)
+    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
     return {"last_reply": resp.content}
 
 
@@ -2295,7 +2432,7 @@ def janaadhaar_handle_node(state: ConvState):
             "this reply - just answer their status question naturally, as if you already knew this "
             "about them."
         )
-        resp = get_llm().invoke(prompt)
+        resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
         return {
             **redacted,
             "last_reply": resp.content,

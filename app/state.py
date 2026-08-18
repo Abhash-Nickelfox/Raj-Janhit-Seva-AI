@@ -78,23 +78,24 @@ class ConvState(TypedDict, total=False):
 
     # --- persistent across the whole conversation (SS4.a / SS4.c) ---
     profile: dict  # caste/gender/marital_status/age/family_income/residence - merged, never reset
-
-    # Free-form facts that don't fit profile's fixed schema - MSME/Udyam
-    # registration status, tractor/asset ownership, prior subsidy history,
-    # and any other narrow, scheme-specific criterion. Added 2026-08-18:
-    # unlike the fixed identity fields, these can't be enumerated as a
-    # bounded schema (every scheme can gate on its own idiosyncratic
-    # condition), so this is a plain growing list of statements, extracted
-    # additively by NeedExtraction.stated_facts and surfaced explicitly to
-    # clarify/generate prompts - see _format_stated_facts in app/chat.py.
-    # Never reset (same reasoning as `profile`): these are facts about the
-    # citizen/their situation, not tied to whichever need is currently being
-    # discussed, so they must survive a topic switch. Found live (2026-08-18):
-    # a citizen already told "idea stage, MSME cert doesn't apply yet" still
-    # got asked "do you have an MSME certificate?" for a different scheme two
-    # turns later, because nothing outside the fixed profile schema persisted
-    # past conversation_history's rolling window at all.
-    stated_facts: list  # list[str]
+    # Free-form durable memory alongside the fixed-schema `profile` above -
+    # short factual sentences for anything with no profile field of its
+    # own: family-member facts ("son is in class 10"), documents held/
+    # lacking, schemes already applied to, land/assets, narrow scheme-
+    # specific criteria (MSME/Udyam registration, tractor ownership, prior
+    # subsidy history), and direct answers to the bot's own questions
+    # (including "no" answers). Added 2026-08-18: the profile's 9 fixed
+    # fields were the ONLY thing that outlived the rolling
+    # conversation_history window, so every out-of-schema fact silently
+    # expired with the window and got re-asked - the exact "asks the same
+    # question again" failure seen live on 2026-08-16/17. Fed by TWO
+    # capture channels appending into this one list (extract_profile_node's
+    # ProfileExtraction.new_notes and extract_need_node's NeedExtraction.
+    # stated_facts - the latter sees the clarify-answer context the profile
+    # call doesn't). Appended-only (deduped, capped at MAX_CONVERSATION_
+    # NOTES in app/chat.py), fed into every reply-generating prompt with an
+    # explicit do-not-re-ask rule.
+    conversation_notes: list  # list[str]
     # One entry per scheme actually shown last turn - {scheme_id, scheme_name,
     # need_text}, in the order presented. shown_scheme_id/name/lang mirror
     # shown_schemes[0] for old single-scheme code paths. Added 2026-08-10:
