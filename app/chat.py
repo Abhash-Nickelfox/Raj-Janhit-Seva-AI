@@ -772,6 +772,22 @@ class NeedExtraction(BaseModel):
             "says and judge whether it answers that question or not."
         ),
     )
+    stated_facts: list[str] = Field(
+        default_factory=list,
+        description=(
+            "Any specific, checkable fact the citizen just confirmed or denied about their own "
+            "eligibility situation THIS message - phrase it as a short, plain, self-contained "
+            "statement worth remembering for the REST of the conversation, not just this reply "
+            "(e.g. 'does not yet have an MSME/Udyam registration certificate', 'owns a tractor "
+            "registered in their own name', 'has not claimed this type of subsidy before', 'business "
+            "is still at the idea stage, not yet started'). This is for narrow, scheme-specific "
+            "criteria that AREN'T one of the identity fields above (caste/gender/marital_status/"
+            "residence/education/disability/occupation already have their own tracking) - things "
+            "like registrations, ownership of specific assets, or prior scheme history. Only include "
+            "NEW facts stated or confirmed this message - do not restate anything already known from "
+            "earlier in the conversation. Empty list if nothing new and checkable was stated."
+        ),
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -1084,6 +1100,18 @@ def extract_need_node(state: ConvState):
             bool(pending_need_text) and result.is_answering_pending_question is not False
         ),
     }
+    if result.stated_facts:
+        # Additive, never reset - unlike need-scoped fields above, these are
+        # facts about the citizen/their situation (registrations, asset
+        # ownership, prior scheme history), not tied to whichever need is
+        # currently being discussed, so they must survive a topic switch the
+        # same way `profile` does. Added 2026-08-18 after finding that narrow,
+        # scheme-specific criteria (MSME registration, tractor ownership, ...)
+        # had NO persisted tracking at all, unlike the fixed identity fields -
+        # they lived only in conversation_history's rolling 4-turn window, so
+        # clarify_identity_node/generate_node re-asked them once that window
+        # scrolled past the turn where they were first confirmed.
+        result_dict["stated_facts"] = (state.get("stated_facts") or []) + result.stated_facts
     if not pending_need_text:
         # No clarification was pending coming into this turn, so this is a
         # fresh need with no unresolved clarify streak to cap - reset the
@@ -1635,6 +1663,19 @@ def _format_profile(profile):
     return f"What we know about this citizen: {facts}\n\n"
 
 
+def _format_stated_facts(stated_facts):
+    """Narrow, scheme-specific facts (MSME registration, tractor ownership,
+    prior subsidy history, ...) that don't fit the fixed identity-field
+    schema profile covers - added 2026-08-18 so these survive past
+    conversation_history's rolling window instead of only living in raw
+    chat text the model has to re-notice every time. See NeedExtraction.
+    stated_facts's docstring for how these get populated."""
+    if not stated_facts:
+        return ""
+    facts = "; ".join(stated_facts)
+    return f"Also already confirmed - do NOT ask about any of these again: {facts}\n\n"
+
+
 class SchemeAnswer(BaseModel):
     """Structured wrapper around generate_node's reply purely to know
     whether it asked a clarifying question - added 2026-08-16 so
@@ -1799,6 +1840,7 @@ def generate_node(state: ConvState):
         f"{hard_stop_block}"
         f"{_format_conversation_history(state.get('conversation_history'))}"
         f"{_format_profile(state.get('profile'))}"
+        f"{_format_stated_facts(state.get('stated_facts'))}"
         f"{question_block}\n\n"
         f"Structured eligibility data:\n{structured_text}\n\n"
         f"Scheme summaries (short - use these instead of 'Scheme text' when asking a clarifying "
