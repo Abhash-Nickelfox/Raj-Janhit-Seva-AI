@@ -5,7 +5,7 @@ import InputBar from "./InputBar.jsx";
 import SmsPopup from "./SmsPopup.jsx";
 
 export default function ChatWindow() {
-  const { messages, isLoading, sendMessage, lastReplyLang, smsPopup, dismissSmsPopup } = useChatStore();
+  const { messages, isLoading, sendMessage, smsPopup, dismissSmsPopup } = useChatStore();
   const bottomRef = useRef(null);
 
   useEffect(() => {
@@ -43,7 +43,7 @@ export default function ChatWindow() {
         <div ref={bottomRef} />
       </div>
 
-      <InputBar onSend={sendMessage} disabled={isLoading} lastReplyLang={lastReplyLang} />
+      <InputBar onSend={sendMessage} disabled={isLoading} />
     </div>
   );
 }

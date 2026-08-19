@@ -20,17 +20,22 @@ guess both assume one script per message. "transcribe" keeps the exact same
 downstream classification working unchanged; revisit codemix only alongside
 updating that classifier to handle mixed-script text.
 
-Language hint (2026-08-12, still needed): confirmed live - speaking Hindi
-with no language hint got TRANSLATED to English text instead of transcribed
-faithfully (a known Whisper quirk; not yet re-verified against Saaras, but
-passing a hint costs nothing and Sarvam's own "unknown" value degrades
-gracefully to auto-detect if this turns out to be unnecessary here too).
-reply_lang was previously sourced from the frontend's language picker -
-since that's been removed, main.py now threads through the LAST turn's own
-reply_lang instead (see ChatResponse.reply_lang), so returning citizens still
-get a hint after their first exchange; a citizen's very first-ever message
-being voice still has no signal to hint from, same as before the picker
-ever existed.
+No language hint sent (2026-08-19, reverting the 2026-08-18 attempt at one):
+tried sourcing a hint from the PREVIOUS turn's own reply_lang, on the theory
+that a citizen's spoken language stays constant across a conversation -
+found live that this is false and actively harmful, not just unnecessary:
+a citizen who spoke English, then switched to Hindi for their next voice
+message, got that Hindi speech transcribed as English text, because the
+stale hint from turn 1's English reply told Sarvam "language_code: en-IN"
+for turn 2's actual Hindi speech, overriding what was really said. The
+original 2026-08-12 concern (no-hint Whisper sometimes translating instead
+of transcribing) doesn't even apply here - mode="transcribe" is already
+forced explicitly below regardless of language, unlike Whisper's single
+ambiguous endpoint. Always passing language_code="unknown" (Sarvam's own
+auto-detect) lets it read the ACTUAL audio fresh every turn instead of
+trusting a signal that can silently go stale the moment someone switches
+languages mid-conversation - which voice users can do far more easily than
+text users ever could.
 """
 
 import requests
@@ -39,22 +44,12 @@ from app.config import SARVAM_API_KEY, SARVAM_STT_MODEL
 
 SARVAM_STT_URL = "https://api.sarvam.ai/speech-to-text"
 
-# Our reply_lang values ("hindi"/"hinglish"/"english") aren't BCP-47 codes.
-# Hinglish is still spoken Hindi (just a script preference for the BOT's own
-# replies) - the citizen's spoken audio is the same either way, so it maps
-# to the same "hi-IN" hint as "hindi". "unknown" (Sarvam's own auto-detect
-# value) is used when we have no signal at all, rather than omitting the
-# field - Sarvam's own recommended way to say "figure it out", vs Groq's
-# API where omitting the field entirely was the only option.
-_LANGUAGE_HINTS = {"hindi": "hi-IN", "hinglish": "hi-IN", "english": "en-IN"}
-
 
 class TranscriptionError(Exception):
     pass
 
 
-def transcribe(audio_bytes: bytes, filename: str = "audio.webm", reply_lang: str = None,
-                content_type: str = None) -> str:
+def transcribe(audio_bytes: bytes, filename: str = "audio.webm", content_type: str = None) -> str:
     if not SARVAM_API_KEY:
         raise TranscriptionError(
             "SARVAM_API_KEY not set - copy .env.example's SARVAM_API_KEY into .env to enable voice input."
@@ -72,7 +67,7 @@ def transcribe(audio_bytes: bytes, filename: str = "audio.webm", reply_lang: str
     data = {
         "model": SARVAM_STT_MODEL,
         "mode": "transcribe",
-        "language_code": _LANGUAGE_HINTS.get(reply_lang, "unknown"),
+        "language_code": "unknown",
     }
 
     response = requests.post(

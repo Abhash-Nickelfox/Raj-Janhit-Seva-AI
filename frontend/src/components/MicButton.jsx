@@ -23,7 +23,7 @@ const MAX_RECORDING_MS = 30000;
 // still stops it immediately too, as a fallback/override. Errors surface
 // via onError rather than failing silently, so the citizen always knows
 // to fall back to typing.
-export default function MicButton({ onSend, disabled, onError, lastReplyLang }) {
+export default function MicButton({ onSend, disabled, onError }) {
   const [status, setStatus] = useState("idle"); // idle | recording | transcribing
   const mediaRecorderRef = useRef(null);
   const chunksRef = useRef([]);
@@ -103,7 +103,7 @@ export default function MicButton({ onSend, disabled, onError, lastReplyLang }) 
         setStatus("transcribing");
         try {
           const blob = new Blob(chunksRef.current, { type: recorder.mimeType || "audio/webm" });
-          const text = (await transcribeAudio(blob, lastReplyLang)).trim();
+          const text = (await transcribeAudio(blob)).trim();
           if (text) {
             onSend(text);
           } else {

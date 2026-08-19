@@ -112,7 +112,8 @@ chatbot_scratch/
 ### Prerequisites
 - Python 3.11+
 - Node.js 18+ (for the frontend)
-- An [OpenRouter](https://openrouter.ai/) API key (used for every LLM call — extraction, retrieval reasoning, and reply generation)
+- An [OpenRouter](https://openrouter.ai/) API key (used for every LLM call — extraction, retrieval reasoning, and reply generation) - **required**, the app won't start without it.
+- A [Sarvam AI](https://www.sarvam.ai/) API key - **optional**, only needed for the mic/voice-input button (speech-to-text). Everything else works fine without it.
 
 ### 3.1 Backend
 
@@ -129,9 +130,10 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 
-# Add your API key
+# Add your API key(s)
 cp .env.example .env        # Windows: copy .env.example .env
-# then edit .env and paste your OPENROUTER_API_KEY
+# then edit .env and paste your OPENROUTER_API_KEY (required)
+# and, if you want voice input, your SARVAM_API_KEY (optional)
 ```
 
 ### 3.2 Build the knowledge base (one-time, ~few minutes)

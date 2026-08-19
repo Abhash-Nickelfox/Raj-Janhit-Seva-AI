@@ -27,16 +27,6 @@ export const useChatStore = create((set, get) => ({
   // (unaffected either way) is what actually decides the reply's language.
   preferredLang: null,
 
-  // The backend's OWN reply_lang from the most recent turn (2026-08-18) -
-  // NOT the same thing as preferredLang above (that's a citizen-picked LOCK
-  // that no longer has a way to be set; this is just "what got detected
-  // last turn"). Threaded through to MicButton as the voice-transcription
-  // hint now that the picker that used to supply this hint is gone - see
-  // chatApi.js's transcribeAudio and app/stt_service.py's docstring for why
-  // a hint matters at all. null until the first reply arrives (nothing to
-  // hint from yet, same as before the picker ever existed).
-  lastReplyLang: null,
-
   // Mock-only (2026-08-17): set to the OTP preview text the turn the Jan
   // Aadhaar mock generates one, so SmsPopup can show it as a simulated
   // incoming SMS instead of requiring a look at server logs. null otherwise,
@@ -54,12 +44,11 @@ export const useChatStore = create((set, get) => ({
     }));
 
     try {
-      const { reply, sms_preview, reply_lang } = await apiSendMessage(get().sessionId, trimmed, get().preferredLang);
+      const { reply, sms_preview } = await apiSendMessage(get().sessionId, trimmed, get().preferredLang);
       set((state) => ({
         messages: [...state.messages, { role: "bot", text: reply }],
         isLoading: false,
         smsPopup: sms_preview || null,
-        lastReplyLang: reply_lang || state.lastReplyLang,
       }));
     } catch (err) {
       set((state) => ({

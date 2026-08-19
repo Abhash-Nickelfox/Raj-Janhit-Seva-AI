@@ -436,8 +436,13 @@ _LANG_INSTRUCTIONS = {
         "'Backend', numbers/amounts, official scheme names) rather than forcing a pure/textbook "
         "Hindi equivalent for everything. Do NOT use Romanized Hindi (Hinglish) - the Hindi PARTS "
         "of the reply must stay in Devanagari script; only the mixed-in English words are in Roman "
-        "letters, same as this reference style: 'ERPNext ko samjho - Frappe Framework, Python "
-        "Backend, MariaDB Database.'"
+        "letters, exactly like this reference style (Devanagari for the Hindi grammar, Roman only "
+        "for the English terms mixed into it - NOT the fully-Romanized 'ERPNext ko samjho' form): "
+        "'ERPNext को समझो - Frappe Framework, Python Backend, MariaDB Database.' Found live "
+        "(2026-08-19): an earlier version of this instruction gave a fully-Romanized example here "
+        "by mistake, and replies came out entirely in Roman script (Hinglish) despite the rule "
+        "above explicitly saying Devanagari - the example was contradicting the rule, and the "
+        "example won. Getting this example's OWN script right matters more than the prose rule."
     ),
     "hinglish": (
         "Reply in Hinglish - Hindi words and grammar written in Roman/Latin script, the way a "

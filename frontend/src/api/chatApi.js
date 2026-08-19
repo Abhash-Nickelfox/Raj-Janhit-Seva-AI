@@ -23,18 +23,13 @@ export async function sendMessage(sessionId, message, preferredLang) {
 // /transcribe). The returned text is just handed to sendMessage() above
 // like any typed message.
 //
-// lastReplyLang (2026-08-18, replacing the removed language picker as this
-// hint's source - see chatStore.js) is passed through as a language hint to
-// Sarvam's STT - confirmed live (2026-08-12, against the old Whisper
-// backend) that speaking Hindi with no hint got the transcription
-// TRANSLATED into English text instead of transcribed faithfully; passing
-// one costs nothing even if Sarvam turns out not to need it here too.
-export async function transcribeAudio(blob, lastReplyLang) {
+// No language hint sent (2026-08-19, reverting a 2026-08-18 attempt at one
+// sourced from the previous reply's language) - see app/stt_service.py's
+// docstring for why that was actively wrong the moment a citizen switched
+// languages between voice messages, not just unnecessary.
+export async function transcribeAudio(blob) {
   const formData = new FormData();
   formData.append("audio", blob, "recording.webm");
-  if (lastReplyLang) {
-    formData.append("preferred_lang", lastReplyLang);
-  }
 
   const res = await fetch("/transcribe", { method: "POST", body: formData });
   if (!res.ok) {
