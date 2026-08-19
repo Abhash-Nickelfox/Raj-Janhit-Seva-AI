@@ -209,7 +209,7 @@ class ConvState(TypedDict, total=False):
     # janaadhaar_handle_node, BYPASSING extract_profile/extract_need (both LLM
     # calls) entirely - this turn's raw_message is itself a Jan Aadhaar ID,
     # member choice, or OTP, and must never become model input.
-    pending_janaadhaar_step: Optional[str]  # None | "awaiting_id" | "awaiting_member_choice" | "awaiting_otp"
+    pending_janaadhaar_step: Optional[str]  # None | "awaiting_consent" | "awaiting_id" | "awaiting_member_choice" | "awaiting_otp"
     janaadhaar_member_id: Optional[str]  # the member_id OTP was generated for, needed to validate it
     janaadhaar_tid: Optional[str]  # transaction id from generate_otp, needed to validate the OTP
     janaadhaar_members: list  # masked member list from fetch_member_list, so "the second one" resolves against it

@@ -52,8 +52,15 @@ KNOWN_BENEFIT_TYPES = [
 FIELD_TYPES_BY_INTENT = {
     "how_to_apply": ["application", "documents"],
     "documents_question": ["documents"],
-    "ask_detail": ["eligibility", "benefits"],
-    "find_scheme": ["eligibility", "benefits"],
+    # "exclusions" added 2026-08-19 - found live: a scheme's disqualifying/
+    # termination conditions (e.g. Krishak Samman Pension Yojana's "if the
+    # farmer is out of the small/marginal land category, pension stops")
+    # live in this separate field_type, not "eligibility" - without it, the
+    # model has no way to know a fact like landholding size even MATTERS,
+    # let alone ask about it, since that text was simply never retrieved
+    # into its prompt at all for a normal "suggest me a scheme" query.
+    "ask_detail": ["eligibility", "benefits", "exclusions"],
+    "find_scheme": ["eligibility", "benefits", "exclusions"],
 }
 
 # If the need is unspecific (no category/benefit implied) AND this many or
@@ -271,7 +278,20 @@ _job_service = None
 
 def get_llm():
     """Extraction/classification calls - temperature 0 so profile facts,
-    need classification, and routing stay deterministic and reproducible."""
+    need classification, and routing stay deterministic and reproducible.
+
+    Every .with_structured_output(...) call anywhere in this file passes
+    method="function_calling" explicitly (2026-08-19, found live switching
+    OPENROUTER_MODEL from Haiku 4.5 to Sonnet 5) - the default method tries
+    strict JSON-schema-constrained decoding, which OpenRouter's OpenAI-
+    compatible endpoint doesn't reliably enforce for every model/provider
+    behind it. Sonnet 5 returned a discursive markdown answer instead of
+    bare JSON for a schema-constrained call and failed Pydantic validation,
+    while Haiku 4.5 happened to comply. Forcing function_calling instead
+    (tool-calling - the mechanism Claude models support natively and most
+    reliably, regardless of which one is configured) makes this robust to
+    swapping OPENROUTER_MODEL again later without silently breaking every
+    structured-output call in the app."""
     global _llm
     if _llm is None:
         _llm = ChatOpenAI(
@@ -845,17 +865,26 @@ class NeedExtraction(BaseModel):
         ...,
         description=(
             "EXACTLY one, mutually exclusive - do not reason about these as separate yes/no "
-            "questions, pick the single best-fitting category:\n"
+            "questions, pick the single best-fitting category. Applies IDENTICALLY whether the "
+            "domain is a scheme or a JOB posting - the name says 'scheme' but every rule and "
+            "example below applies the same way to a job already shown (found live 2026-08-19: "
+            "this description used to give ONLY scheme-flavored examples, with no job example "
+            "anywhere, and job followups got misclassified/stuck on a stale shown job across "
+            "several later, unrelated questions more often as a result):\n"
             "'new_need' - the message describes a DIFFERENT need/topic than what's currently "
-            "shown (even if phrased casually, e.g. 'and if i want to start a business' after a "
-            "scholarship was shown).\n"
-            "'followup_same_scheme' - asks for more detail about the SAME scheme already shown "
-            "(documents, how to apply, eligibility, a pronoun/implicit reference like 'this'/"
-            "'iske') - including terse procedural questions with no topic of their own.\n"
-            "'wants_alternatives' - explicitly asks for OTHER/additional/more schemes for the "
-            "SAME underlying need already established (e.g. 'what other schemes am I eligible "
-            "for', 'any other options') - NOT a message that itself describes a new need, which "
-            "is 'new_need' regardless of how it's phrased."
+            "shown (even if phrased casually) - e.g. 'and if i want to start a business' after a "
+            "scholarship was shown, or asking about a completely different job/post than the one "
+            "just shown.\n"
+            "'followup_same_scheme' - asks for more detail about the SAME scheme OR JOB already "
+            "shown (documents, how to apply, eligibility/qualification, salary, deadline, a "
+            "pronoun/implicit reference like 'this'/'iske') - including terse procedural questions "
+            "with no topic of their own. Only pick this if the message is STILL plausibly about "
+            "that same specific scheme/job - if the topic has clearly moved on (even a few turns "
+            "back), that's 'new_need', not this, no matter how recently it was shown.\n"
+            "'wants_alternatives' - explicitly asks for OTHER/additional/more schemes OR JOBS for "
+            "the SAME underlying need already established (e.g. 'what other schemes am I eligible "
+            "for', 'any other jobs available', 'aur konsi jobs hain') - NOT a message that itself "
+            "describes a new need, which is 'new_need' regardless of how it's phrased."
         ),
     )
     detected_language: ReplyLanguage = Field(
@@ -1039,7 +1068,7 @@ def extract_profile_node(state: ConvState):
         "documents, prior applications, assets, job preferences, direct answers to a question "
         "your last reply asked). The same explicitly-stated-only standard applies there too."
     )
-    result = get_llm().with_structured_output(ProfileExtraction).invoke(prompt)
+    result = get_llm().with_structured_output(ProfileExtraction, method="function_calling").invoke(prompt)
 
     # Evidence-grounding backstop for `residence` (2026-08-10): two rounds of
     # prompt-only guardrails failed to stop the model inferring rural/urban
@@ -1171,7 +1200,7 @@ def extract_need_node(state: ConvState):
         "Classify what they want and how clear it is."
     )
 
-    result = get_llm().with_structured_output(NeedExtraction).invoke(prompt)
+    result = get_llm().with_structured_output(NeedExtraction, method="function_calling").invoke(prompt)
 
     needs = []
     for item in result.needs:
@@ -1458,24 +1487,31 @@ def route_after_stage_a_jobs(state: ConvState):
     NOT keyed on need_is_specific (tried first, found live 2026-08-18 to
     never actually fire): that field asks "is the general PURPOSE clear",
     and for jobs the purpose is nearly always clear ("I want a job" already
-    states it) even when there's nothing to narrow WHICH job - a signal
-    calibrated for scheme topic-vagueness, not job specificity. Instead,
-    ask only when there's genuinely nothing to search on: no location/
-    qualification/salary stated AND no specific post/department named
-    (job_title_named, from stage_a_jobs_node - see JobService.
-    has_title_match's docstring for why that needs its own check rather
-    than reusing the three structured fields alone)."""
+    states it) even when there's nothing to narrow WHICH job.
+
+    NOT keyed on "did they state ANY of location/qualification/salary"
+    either (tried next, found live 2026-08-20 to still under-ask): stating a
+    qualification ("ITI aur BCom kar rakha hai") legitimately filters the
+    search, but doesn't narrow it down to ONE job - "koi job batao" with a
+    qualification still surfaced 3 different postings (2 different RAS
+    locations + a Junior Assistant posting) with no chance to say which one
+    actually matters to the citizen. A specific LOCATION is different - it's
+    a genuine, deliberate preference ("Jaipur mein job chahiye"), so that
+    alone is enough to just show whatever matches there. The actual signal
+    that matters: does the search still span MORE THAN ONE DISTINCT posting
+    title with no location or specific post given? If so, ask which one/
+    where before presenting a list, the same "narrow to one, don't dump a
+    menu" discipline the scheme side already follows."""
     if state.get("clarify_attempts", 0) >= 1:
         return "generate_jobs"
+    if state.get("job_title_named"):
+        return "generate_jobs"
     primary_need = (state.get("needs") or [None])[0]
-    has_narrowing = bool(
-        primary_need and (
-            primary_need.get("job_location")
-            or primary_need.get("job_qualification")
-            or primary_need.get("job_min_salary")
-        )
-    )
-    if not has_narrowing and not state.get("job_title_named"):
+    if primary_need and primary_need.get("job_location"):
+        return "generate_jobs"
+    shortlist = state.get("job_shortlist") or []
+    distinct_titles = {j["title"] for j in shortlist}
+    if len(distinct_titles) > 1:
         return "clarify_jobs"
     return "generate_jobs"
 
@@ -2078,7 +2114,13 @@ def generate_node(state: ConvState):
         "GROUNDING: the structured eligibility data is a COARSE tag (e.g. one caste value) - the "
         "scheme text is the actual, complete, government-written eligibility description, and is "
         "authoritative when the two disagree (say so plainly rather than calling it a confident "
-        "match off the tag alone). Never assume or state the citizen's OWN caste, disability, "
+        "match off the tag alone). A chunk labeled 'exclusions' is JUST AS eligibility-relevant as "
+        "one labeled 'eligibility' - it's where termination/disqualification conditions live (e.g. "
+        "'if landholding exceeds the small/marginal category, pension stops') - if it describes a "
+        "condition genuinely unconfirmed about this citizen that would end their eligibility, treat "
+        "it exactly like an eligibility gap: ask about it if it's the only thing stopping a "
+        "confident answer, don't silently skip it just because it wasn't under the 'eligibility' "
+        "label. Never assume or state the citizen's OWN caste, disability, "
         "gender, or any other identity fact unless it's explicitly listed in 'What we know about "
         "this citizen' below - if it isn't confirmed, say plainly that it isn't, rather than "
         "guessing or labeling them into a category that was never stated. If the citizen has "
@@ -2094,18 +2136,36 @@ def generate_node(state: ConvState):
         "at once), ask which one it's answering rather than assuming. If NONE of the schemes match "
         "what's known, say so plainly rather than repeating the same conditional list turn after "
         "turn.\n\n"
-        "HAVING THE CONVERSATION: have this like a real conversation, not an intake form. If you "
-        "need to ask anything, lead with a short list of the 2-3 relevant scheme NAMES (one line "
-        "each, from 'Scheme summaries' below - not the full eligibility/benefit text), THEN the "
-        "question(s) after that, at the end - at most 2, each about ONE thing, never combined. "
-        "Prefer broad, low-sensitivity questions (age, class/degree, income, residence) over "
-        "narrow or sensitive ones (disability, caste, marital status, gender) - ask about the "
-        "latter only once no broad fact remains unconfirmed. Prefer answering with a caveated "
-        "best guess over asking again whenever you already have enough for a reasonable "
-        "recommendation - only keep asking if the missing fact would change WHICH scheme applies "
-        "or whether they're eligible at all, not for minor refinements (note those as caveats "
-        "instead, don't gate the whole answer behind them). Use the full 'Scheme text' only once "
-        "no more questions are needed - otherwise stick to the short summaries.\n\n"
+        "HAVING THE CONVERSATION: have this like a real conversation, not an intake form - but "
+        "(2026-08-19, reversing an earlier 'lead with scheme names' rule) do NOT name or list ANY "
+        "scheme while you still need to ask something. The test is NOT how many candidates remain - "
+        "it's whether THIS reply contains a question at all. If it does, zero scheme names appear "
+        "anywhere in it, full stop, even if only 1 or 2 candidates are left. Found live (2026-08-19): "
+        "'kheti karta hu, 60 saal ka hu' surfaced exactly two candidate pension schemes by name, "
+        "amounts and all, then STILL asked about BPL status to know which one actually applies - "
+        "naming schemes while a real eligibility question (one that could rule either of them out) "
+        "is still open is exactly the mistake this rule exists to prevent, regardless of the "
+        "candidate count.\n\n"
+        "Once a reply asks NOTHING, name exactly the ONE scheme that most clearly and CONFIRMEDLY "
+        "fits - not two. Found live again the same day: naming ONE clearly-fitting scheme correctly "
+        "avoided a question this time, but then hedged in a SECOND scheme framed as 'you could also "
+        "try this IF your income is under X' - income was never actually confirmed, so this is the "
+        "exact same mistake wearing a conditional instead of a question mark: a scheme whose fit "
+        "isn't confirmed still doesn't belong in this answer, whether it's attached to a question or "
+        "to an 'if this applies to you' hedge. Only mention a second scheme if it is ALSO fully "
+        "confirmed-fitting with nothing conditional about it (rare - most of the time there's one "
+        "clear answer). If the citizen wants to see other options, they'll ask ('koi aur scheme?') "
+        "and that's handled separately - don't pre-empt it by listing a maybe-alternative here. Ask "
+        "at most 2 questions per reply, each about ONE thing, never combined. Prefer broad, "
+        "low-sensitivity questions (age, class/degree, income, residence) over narrow or sensitive "
+        "ones (disability, caste, marital status, gender) - ask about the latter only once no broad "
+        "fact remains unconfirmed. Prefer answering (one named scheme, no question attached) over "
+        "asking again whenever you already have enough for a reasonable recommendation - only keep "
+        "asking if the missing fact would change WHICH scheme applies or whether they're eligible at "
+        "all, not for minor refinements (note those as caveats instead, don't gate the whole answer "
+        "behind them). Use the full 'Scheme text' once you're naming that one scheme with no question "
+        "attached - 'Scheme summaries' exist for other internal uses, not for padding this answer "
+        "with a second, unconfirmed scheme.\n\n"
         f"{hard_stop_block}"
         f"{_format_conversation_history(state.get('conversation_history'))}"
         f"{_format_profile(state.get('profile'))}"
@@ -2117,9 +2177,36 @@ def generate_node(state: ConvState):
         f"Scheme text (full detail - use once no clarifying question is needed):\n{chunks_text}\n\n"
         f"{lang_instruction} Keep it concise and practical."
     )
-    result = get_reply_llm().with_structured_output(SchemeAnswer).invoke(
+    result = get_reply_llm().with_structured_output(SchemeAnswer, method="function_calling").invoke(
         [("system", PERSONA), ("human", prompt)]
     )
+    # Mechanically enforced retry (2026-08-19) - not just another prompt
+    # wording tweak. The "don't name a scheme in the same reply as a
+    # question" rule above has now been violated THREE separate times in a
+    # row across live testing (leading with names before any question,
+    # naming alongside a still-live question, naming alongside a
+    # conditional "try this if X" hedge), despite the prompt instruction
+    # getting progressively more explicit each time. Same reasoning as
+    # generate_clarify_rounds' HARD STOP below: once a rule needs to be a
+    # GUARANTEE rather than a strong hint, keep patching the wording stops
+    # being the right lever - check the actual output and correct it
+    # instead. One retry, with the SPECIFIC violation named back to the
+    # model (which scheme name(s) leaked into a question-asking reply),
+    # rather than a generic re-statement of the same rule it just missed.
+    scheme_names = list(structured_by_scheme.keys())
+    leaked_names = [n for n in scheme_names if n.lower() in result.reply.lower()]
+    if result.asked_clarifying_question and leaked_names:
+        correction_prompt = (
+            f"{prompt}\n\n"
+            f"Your previous answer named a scheme ({', '.join(leaked_names)}) AND asked a "
+            "clarifying question in the same reply - not allowed. Rewrite as ONLY ONE of these: "
+            "either ask the clarifying question again with ZERO scheme names anywhere in the "
+            "reply, or give the complete final answer naming that ONE scheme with NO question "
+            "attached at all."
+        )
+        result = get_reply_llm().with_structured_output(SchemeAnswer, method="function_calling").invoke(
+            [("system", PERSONA), ("human", correction_prompt)]
+        )
     # Mechanically enforced regardless of what the model decided - the
     # HARD STOP prompt instruction above asks nicely, but prompt-following
     # isn't guaranteed, and the whole point of this cap is a GUARANTEE the
@@ -2250,6 +2337,25 @@ def generate_jobs_node(state: ConvState):
         for j in jobs
     )
     focus = _JOB_FIELD_FOCUS_BY_INTENT.get(state.get("intent"), "give a clear overview of the matching postings.")
+
+    # The citizen's OWN structured qualification/location/salary (2026-08-19,
+    # found live missing here) - previously this prompt only had need_text/
+    # raw_message free text to work with, no structured signal at all, even
+    # though NeedItem.job_qualification is already extracted into a clean
+    # closed set (12th Pass/Diploma/Graduate/Post Graduate). Found live:
+    # "maine ITI aur B.COM kiya hua hai" (a COMPOUND qualification - ITI is
+    # Diploma-tier, B.Com is Graduate-tier) got reasoned about from raw text
+    # alone and mishandled. Passing the already-extracted value directly
+    # gives the model a clean anchor instead of re-deriving it from scratch
+    # each time from a sentence that states two qualifications at once.
+    primary_need = (state.get("needs") or [None])[0] or {}
+    known_bits = [
+        f"{label}: {primary_need[field]}"
+        for field, label in (("job_qualification", "qualification"), ("job_location", "preferred location"), ("job_min_salary", "minimum salary wanted"))
+        if primary_need.get(field)
+    ]
+    known_block = f"What's already confirmed about the citizen: {'; '.join(known_bits)}\n" if known_bits else ""
+
     # Conversation context (2026-08-18): job replies used to be composed
     # from the distilled need_text alone, blind to the conversation - a
     # followup or a short answer to the bot's own question got answered as
@@ -2257,7 +2363,9 @@ def generate_jobs_node(state: ConvState):
     prompt = (
         f"Today's date is {date.today().isoformat()}.\n"
         f"{_format_conversation_history(state.get('conversation_history'))}"
+        f"{_format_profile(state.get('profile'))}"
         f"{_format_notes(state.get('conversation_notes'))}"
+        f"{known_block}"
         f'The citizen asked: "{state.get("need_text", "")}"\n'
         f'Citizen\'s exact words this turn: "{state.get("raw_message", "")}"\n'
         f"Matching government job posting(s):\n{jobs_desc}\n\n"
@@ -2268,7 +2376,14 @@ def generate_jobs_node(state: ConvState):
         "authoritative signal for whether it's open ('active'), not yet open ('coming soon'), or "
         "over ('closed') - if your date reasoning and the status field seem to disagree, trust "
         "status and phrase the reply around it rather than asserting a contradiction. Format as a "
-        "short list if there are multiple postings."
+        "short list if there are multiple postings.\n\n"
+        "Do not call any single posting the 'best'/'sabse best' option unless you can point to a "
+        "SPECIFIC stated preference (location, salary, deadline, qualification fit) that makes it "
+        "clearly the strongest match - if you don't have that, present them as ranked matches with "
+        "the reasoning shown ('yeh sabse zyada fit baithti hai kyunki...'), not an unqualified "
+        "absolute claim. If nothing here is currently active/open, say so plainly and offer to "
+        "notify them when a matching posting opens, rather than recommending a closed one as if it "
+        "were usable now."
     )
     resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
     return {"last_reply": resp.content}
@@ -2302,10 +2417,25 @@ def no_match_node(state: ConvState):
 # get routed here instead of through the normal extraction pipeline.
 # ---------------------------------------------------------------------------
 
+_ASK_CONSENT_TEXT = {
+    "hindi": "आपकी स्थिति जानने के लिए मुझे आपका Jan Aadhaar verify करना होगा - इसके लिए 10 अंकों का Jan Aadhaar ID और एक OTP माँगना होगा। क्या आप इसके लिए सहमत हैं? (हाँ/नहीं)",
+    "hinglish": "Aapki status jaanne ke liye mujhe aapka Jan Aadhaar verify karna hoga - iske liye 10 anko ka Jan Aadhaar ID aur ek OTP maangna hoga. Kya aap iske liye sahmat hain? (Haan/Nahi)",
+    "english": "To check your status, I'll need to verify your Jan Aadhaar - that means asking for your 10-digit Jan Aadhaar ID and an OTP. Do you consent to this? (Yes/No)",
+}
+_CONSENT_UNCLEAR_TEXT = {
+    "hindi": "माफ़ कीजिए, मुझे समझ नहीं आया। क्या आप Jan Aadhaar verify करने के लिए सहमत हैं? कृपया हाँ या नहीं में जवाब दें।",
+    "hinglish": "Maaf kijiye, samajh nahi aaya. Kya aap Jan Aadhaar verify karne ke liye sahmat hain? Kripya Haan ya Nahi mein jawab dein.",
+    "english": "Sorry, I didn't quite catch that. Do you consent to verifying your Jan Aadhaar? Please reply Yes or No.",
+}
+_CONSENT_DECLINED_TEXT = {
+    "hindi": "ठीक है, कोई बात नहीं। बिना Jan Aadhaar verify किए मैं यह जानकारी नहीं दे सकता, लेकिन मैं आपकी किसी और चीज़ में मदद कर सकता हूँ।",
+    "hinglish": "Theek hai, koi baat nahi. Bina Jan Aadhaar verify kiye main yeh jaankari nahi de sakta, lekin main aapki kisi aur cheez mein madad kar sakta hoon.",
+    "english": "No problem at all. I can't share this specific information without verifying your Jan Aadhaar, but I'm happy to help with anything else.",
+}
 _ASK_ID_TEXT = {
-    "hindi": "आपकी स्थिति जानने के लिए मुझे आपका Jan Aadhaar verify करना होगा। कृपया अपना 10 अंकों का Jan Aadhaar ID बताएं।",
-    "hinglish": "Aapki status jaanne ke liye mujhe aapka Jan Aadhaar verify karna hoga. Kripya apna 10 anko ka Jan Aadhaar ID bataiye.",
-    "english": "To check your status, I'll need to verify your Jan Aadhaar. Please share your 10-digit Jan Aadhaar ID.",
+    "hindi": "कृपया अपना 10 अंकों का Jan Aadhaar ID बताएं।",
+    "hinglish": "Kripya apna 10 anko ka Jan Aadhaar ID bataiye.",
+    "english": "Please share your 10-digit Jan Aadhaar ID.",
 }
 _ID_INVALID_TEXT = {
     "hindi": "माफ़ कीजिए, यह एक मान्य Jan Aadhaar ID नहीं लग रहा। कृपया सही 10 अंकों का ID दोबारा भेजें।",
@@ -2482,18 +2612,39 @@ def janaadhaar_handle_node(state: ConvState):
             return {"last_reply": reply}
         # Fresh trigger from a citizen_status need - THIS turn's own message
         # (the status question itself) already safely went through
-        # extract_profile/extract_need, nothing to redact yet.
+        # extract_profile/extract_need, nothing to redact yet. Ask for
+        # explicit consent BEFORE requesting the ID/OTP at all (found live
+        # 2026-08-19, tester-reported gap: this flow used to go straight to
+        # asking for the ID with no consent step whatsoever).
         return {
-            "last_reply": _pick_text(reply_lang, _ASK_ID_TEXT),
-            "pending_janaadhaar_step": "awaiting_id",
+            "last_reply": _pick_text(reply_lang, _ASK_CONSENT_TEXT),
+            "pending_janaadhaar_step": "awaiting_consent",
             "janaadhaar_attempts": 0,
         }
 
     # From here on, THIS turn's raw_message is itself a credential attempt
-    # (an ID, a member choice, or an OTP) - never let it reach
-    # conversation_history/logs unredacted, regardless of which branch below
-    # actually runs.
+    # (a consent answer, an ID, a member choice, or an OTP) - never let it
+    # reach conversation_history/logs unredacted, regardless of which branch
+    # below actually runs. Consent itself isn't sensitive, but redacting it
+    # too is the safe default - a confused citizen could easily blurt out
+    # their actual ID in response to the consent question instead of a
+    # plain yes/no, and this net catches that either way.
     redacted = {"redacted_raw_message": "[Jan Aadhaar verification input redacted]"}
+
+    if step == "awaiting_consent":
+        consent = pii_utils.extract_consent(state["raw_message"])
+        if consent is False:
+            return {**redacted, **_abort_janaadhaar_flow(reply_lang), "last_reply": _pick_text(reply_lang, _CONSENT_DECLINED_TEXT)}
+        if consent is None:
+            if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:
+                return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+            return {**redacted, "last_reply": _pick_text(reply_lang, _CONSENT_UNCLEAR_TEXT), "janaadhaar_attempts": attempts + 1}
+        return {
+            **redacted,
+            "last_reply": _pick_text(reply_lang, _ASK_ID_TEXT),
+            "pending_janaadhaar_step": "awaiting_id",
+            "janaadhaar_attempts": 0,
+        }
 
     if step == "awaiting_id":
         jan_id = pii_utils.extract_jan_aadhaar_id(state["raw_message"])
