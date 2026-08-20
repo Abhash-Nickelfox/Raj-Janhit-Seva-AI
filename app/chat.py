@@ -462,7 +462,12 @@ _LANG_INSTRUCTIONS = {
         "(2026-08-19): an earlier version of this instruction gave a fully-Romanized example here "
         "by mistake, and replies came out entirely in Roman script (Hinglish) despite the rule "
         "above explicitly saying Devanagari - the example was contradicting the rule, and the "
-        "example won. Getting this example's OWN script right matters more than the prose rule."
+        "example won. Getting this example's OWN script right matters more than the prose rule. "
+        "This app supports exactly three registers: Hindi (Devanagari), Hinglish (Roman), and "
+        "English - NEVER any other Indian script (Gurmukhi/Punjabi, Bengali, Gujarati, etc.), "
+        "even briefly for one word - found live (2026-08-19) a reply came back in Gurmukhi script "
+        "with no instruction anywhere calling for that; if Devanagari is called for, it is "
+        "Devanagari only, start to finish."
     ),
     "hinglish": (
         "Reply in Hinglish - Hindi words and grammar written in Roman/Latin script, the way a "
@@ -892,15 +897,24 @@ class NeedExtraction(BaseModel):
         description=(
             "Which register the CITIZEN'S CURRENT message is actually written in - the reply "
             "must match this exactly, so classify carefully:\n"
-            "'hindi' - written in Devanagari script (देवनागरी).\n"
+            "'hindi' - written in Devanagari script (देवनागरी) ONLY - never any other Indian "
+            "script (Gurmukhi/Punjabi, Bengali, Gujarati, etc.) - this app supports exactly these "
+            "three registers, nothing else.\n"
             "'hinglish' - Hindi/Rajasthani words spelled out in Roman/Latin letters (e.g. 'mujhe "
             "scheme chahiye', 'mera beta 12th mein hai') - this is the common register for rural "
             "Hindi speakers typing in Roman script. Classify as hinglish even if a few English "
             "words are mixed in, as long as the sentence is fundamentally Hindi grammar/vocabulary "
             "in Roman letters.\n"
             "'english' - genuine English vocabulary and grammar, not Romanized Hindi.\n"
-            "Base this ONLY on the citizen's message in THIS turn, not on what language previous "
-            "turns used."
+            "Base this STRICTLY on the citizen's message in THIS turn ALONE, not on what language "
+            "previous turns used - do not let the surrounding conversation's language bias this "
+            "classification. Found live (2026-08-19): 'give me update regarding Lab assistant' - "
+            "unambiguous English vocabulary and grammar with not one Hindi/Hinglish word in it - "
+            "still got classified as 'hinglish', purely because the rest of that conversation had "
+            "been in Hindi/Hinglish. A short message surrounded by a different-language "
+            "conversation is judged ENTIRELY on its own words - if this exact message, with no "
+            "context at all, would obviously read as English, classify it 'english', full stop, "
+            "even if every other turn around it was Hindi/Hinglish."
         ),
     )
     followup_target: Optional[str] = Field(

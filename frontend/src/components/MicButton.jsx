@@ -1,91 +1,31 @@
 import { useRef, useState } from "react";
 import { transcribeAudio } from "../api/chatApi.js";
 
-// 0-128 scale (time-domain byte data is centered at 128) - the RMS level
-// below which the mic is considered "quiet". Tuned for a normal room, not
-// a noisy one - if this proves too sensitive/insensitive in practice, this
-// is the number to adjust.
-const SILENCE_RMS_THRESHOLD = 8;
-// How long the citizen must stay quiet, AFTER having spoken at least once,
-// before recording auto-stops - long enough to survive a natural pause
-// mid-sentence, short enough to feel responsive once they're actually done.
-const SILENCE_DURATION_MS = 1500;
-// Safety cap regardless of silence detection, in case background noise or
-// a quiet mic never registers as "silence" - recording still stops on its
-// own rather than running indefinitely.
-const MAX_RECORDING_MS = 30000;
-
-// Press to start recording (records via MediaRecorder), auto-stops once
-// voice-activity detection notices the citizen has gone quiet after
-// speaking, transcribes via Sarvam's Saaras (app/stt_service.py), then
-// auto-sends the transcribed text exactly like a typed message (no
-// review-before-send step, by design). A manual click while recording
-// still stops it immediately too, as a fallback/override. Errors surface
-// via onError rather than failing silently, so the citizen always knows
-// to fall back to typing.
+// Press to start recording (records via MediaRecorder), stops ONLY when the
+// citizen taps the mic icon again - no auto-stop of any kind (2026-08-20,
+// removing an earlier silence-detection + 30-second-cap auto-stop, per
+// explicit direction: the mic should never close on its own, only on a
+// manual tap, the same way it works elsewhere). Transcribes via Sarvam's
+// Saaras (app/stt_service.py), then auto-sends the transcribed text exactly
+// like a typed message (no review-before-send step, by design). Errors
+// surface via onError rather than failing silently, so the citizen always
+// knows to fall back to typing.
+//
+// Known, separate limitation this doesn't solve: Sarvam's synchronous REST
+// STT endpoint is documented for files under 30 seconds - a citizen who
+// talks past that may get a failed/rejected transcription regardless of
+// this component's own stop behavior. That's a server-side API constraint,
+// not something a frontend auto-stop timer was ever really fixing (it was
+// just cutting recordings short before hitting it) - if long recordings
+// need to actually work, that's a separate fix (Sarvam's batch/streaming
+// API instead of the sync REST one), not something to solve here.
 export default function MicButton({ onSend, disabled, onError }) {
   const [status, setStatus] = useState("idle"); // idle | recording | transcribing
   const mediaRecorderRef = useRef(null);
   const chunksRef = useRef([]);
-  const audioCtxRef = useRef(null);
-  const vadFrameRef = useRef(null);
-  const maxTimerRef = useRef(null);
 
   const supported = typeof navigator !== "undefined" && navigator.mediaDevices && window.MediaRecorder;
   if (!supported) return null; // graceful degrade - text input still works fine without this
-
-  const stopSilenceDetection = () => {
-    if (vadFrameRef.current !== null) cancelAnimationFrame(vadFrameRef.current);
-    vadFrameRef.current = null;
-    if (maxTimerRef.current !== null) clearTimeout(maxTimerRef.current);
-    maxTimerRef.current = null;
-    if (audioCtxRef.current) {
-      audioCtxRef.current.close();
-      audioCtxRef.current = null;
-    }
-  };
-
-  // Watches the mic's volume so recording stops itself once the citizen
-  // finishes speaking, instead of requiring a second click. Only starts
-  // counting silence AFTER real speech has been heard, so a citizen who
-  // pauses to think before speaking at all isn't cut off immediately.
-  const startSilenceDetection = (stream, onSilenceDetected) => {
-    const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-    const audioCtx = new AudioContextClass();
-    audioCtxRef.current = audioCtx;
-    const source = audioCtx.createMediaStreamSource(stream);
-    const analyser = audioCtx.createAnalyser();
-    analyser.fftSize = 512;
-    source.connect(analyser);
-
-    const data = new Uint8Array(analyser.frequencyBinCount);
-    let hasSpoken = false;
-    let silenceStartedAt = null;
-
-    const tick = () => {
-      analyser.getByteTimeDomainData(data);
-      let sumSquares = 0;
-      for (let i = 0; i < data.length; i++) {
-        const deviation = data[i] - 128;
-        sumSquares += deviation * deviation;
-      }
-      const rms = Math.sqrt(sumSquares / data.length);
-
-      if (rms > SILENCE_RMS_THRESHOLD) {
-        hasSpoken = true;
-        silenceStartedAt = null;
-      } else if (hasSpoken) {
-        if (silenceStartedAt === null) {
-          silenceStartedAt = performance.now();
-        } else if (performance.now() - silenceStartedAt > SILENCE_DURATION_MS) {
-          onSilenceDetected();
-          return; // stop polling - the recording is being stopped
-        }
-      }
-      vadFrameRef.current = requestAnimationFrame(tick);
-    };
-    vadFrameRef.current = requestAnimationFrame(tick);
-  };
 
   const startRecording = async () => {
     try {
@@ -98,7 +38,6 @@ export default function MicButton({ onSend, disabled, onError }) {
       };
 
       recorder.onstop = async () => {
-        stopSilenceDetection();
         stream.getTracks().forEach((track) => track.stop());
         setStatus("transcribing");
         try {
@@ -119,14 +58,6 @@ export default function MicButton({ onSend, disabled, onError }) {
       recorder.start();
       mediaRecorderRef.current = recorder;
       setStatus("recording");
-
-      const autoStop = () => {
-        if (mediaRecorderRef.current?.state === "recording") {
-          mediaRecorderRef.current.stop();
-        }
-      };
-      startSilenceDetection(stream, autoStop);
-      maxTimerRef.current = setTimeout(autoStop, MAX_RECORDING_MS);
     } catch (err) {
       onError?.("Microphone ka access nahi mila. Kripya permission dein ya type karke bhejein.");
       setStatus("idle");
@@ -139,7 +70,7 @@ export default function MicButton({ onSend, disabled, onError }) {
 
   const handleClick = () => {
     if (status === "idle") startRecording();
-    else if (status === "recording") stopRecording(); // manual override - still works alongside auto-stop
+    else if (status === "recording") stopRecording(); // the only way recording ever stops
     // a click during "transcribing" is ignored - nothing to start/stop
   };
 
@@ -151,7 +82,7 @@ export default function MicButton({ onSend, disabled, onError }) {
       onClick={handleClick}
       disabled={disabled || isBusy}
       aria-label={isRecording ? "Stop recording" : "Record a voice message"}
-      title={isRecording ? "Recording... stops automatically when you finish speaking, or click to stop now" : "Click to speak"}
+      title={isRecording ? "Recording... click to stop" : "Click to speak"}
       style={{
         display: "flex",
         alignItems: "center",
