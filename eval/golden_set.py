@@ -30,7 +30,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 DATA_DIR = ROOT / "data"
 CHROMA_DIR = DATA_DIR / "chromadb"
-EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+from app.rag_service import EMBEDDING_MODEL  # single source of truth
 
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 MIN_MEANINGFUL_CHARS = 8

@@ -80,7 +80,8 @@ chatbot_scratch/
 │
 ├── data/
 │   ├── raw/                #   one JSON file per scheme, straight from myScheme's API (scrape output)
-│   ├── processed/          #   eligibility_structured.json (schemes) + jobs.json (job postings)
+│   ├── processed/          #   eligibility_structured.json (schemes) + jobs.json (demo job postings)
+│   │                       #   + scheme_overrides.json (hand-maintained facet fixes, aliases, canonical_group for duplicate schemes)
 │   └── chromadb/           #   ⚠ gitignored - the built vector store, regenerate locally (see Setup)
 │
 ├── scripts/                # One-time/offline tooling, and manual test harnesses
@@ -91,8 +92,14 @@ chatbot_scratch/
 │   ├── query_retrieval.py       #   debug: full Stage A/B retrieval (filter + rank boost)
 │   └── chat_cli.py              #   a full interactive multi-turn conversation in your terminal
 │
+├── tests/                  # pytest suite - no API key / vector store needed (python -m pytest tests -q)
+│   ├── test_chat_graph.py       #   whole-graph replays of the tester-reported conversations (scripted LLM)
+│   ├── test_chat_logic.py       #   language detection, schema leniency, identity gaps, state resets
+│   ├── test_job_service.py / test_rag_service.py / test_pii_utils.py / test_main.py
+│   └── conftest.py              #   stubs the embedding stack + scripted FakeLLM / FakeRag fixtures
+│
 ├── eval/
-│   └── golden_set.py       #   regression test suite (retrieval + eligibility filter correctness) - no LLM calls, deterministic
+│   └── golden_set.py       #   older retrieval regression suite (needs the built Chroma store)
 │
 ├── frontend/                # React + Vite chat UI
 │   └── src/
@@ -174,15 +181,33 @@ npm run dev
 
 Open the URL it prints (default `http://localhost:5174`) and start chatting.
 
-### 3.5 (Optional) Test without the frontend
+### 3.5 Tests
 
 ```bash
-# Interactive terminal conversation
+# Fast, deterministic, NO API key and NO vector store needed - run before every commit.
+# Replays the tester-reported conversations through the real graph with a scripted LLM,
+# plus unit tests for JobService, RagService scoring, pii_utils, the API, and chat.py logic.
+python -m pytest tests -q
+
+# Interactive terminal conversation (needs OPENROUTER_API_KEY + built knowledge base)
 python scripts/chat_cli.py
 
-# Regression suite (no LLM calls, fast, deterministic)
+# Older retrieval regression suite (needs the built Chroma store)
 python -m eval.golden_set
 ```
+
+### 3.6 Things testers should know
+
+- **Job postings are demo data.** `data/processed/jobs.json` is a sanitised synthetic set (realistic
+  title → qualification/department/salary mapping, but not a live RSMSSB/RPSC feed). The bot says so
+  if asked. Don't file accuracy bugs against salaries/vacancies until a real feed is wired in.
+- **Jan Aadhaar is mocked.** Only the IDs in `app/janaadhaar_mock_data.py` work (e.g. `1234567890`).
+  Set `JANAADHAAR_DEMO_OTP_PREVIEW=1` in `.env` to see the OTP as an on-screen SMS popup; otherwise
+  it is only written to the server log. The flow is: consent (yes/no) → ID → OTP. Say "rehne do" /
+  "cancel" or just ask something else to leave it.
+- **Voice input** is pinned to Hindi/English (`SARVAM_STT_LANGUAGE`). Recording is click-to-stop.
+- If `/health` returns 503 with `rag_ready: false`, the vector store hasn't been built - run
+  `python scripts/build_knowledge_base.py` (rebuild it after any change to `data/processed/`).
 
 ---
 
