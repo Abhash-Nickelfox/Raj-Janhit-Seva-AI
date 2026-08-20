@@ -1,14 +1,24 @@
-requests
-langchain
-langchain-community
-langchain-chroma
-langchain-huggingface
-chromadb
-sentence-transformers
-langchain-openai
-python-dotenv
-rapidfuzz
-fastapi
-uvicorn[standard]
-python-multipart
-cryptography
+# Pinned 2026-08-20. Versions marked (installed) match the project's .venv;
+# the others are current stable releases at pin time.
+requests==2.34.2                 # installed
+python-dotenv==1.2.3             # installed
+rapidfuzz==3.14.5                # installed
+fastapi==0.141.1                 # installed
+uvicorn[standard]==0.52.4        # installed
+python-multipart==0.0.32         # installed
+cryptography==50.0.0             # installed
+pydantic==2.13.4                 # installed
+langchain-core==1.6.0            # installed
+langchain-openai==1.6.0          # installed
+langgraph==1.2.11                # installed
+langgraph-checkpoint==4.2.0      # installed
+langchain==1.2.3
+langchain-community==0.4.3
+langchain-chroma==1.0.1
+langchain-huggingface==1.2.0
+chromadb==1.4.1
+sentence-transformers==5.3.0
+
+# Test-only
+pytest==9.1.1
+httpx==0.28.1

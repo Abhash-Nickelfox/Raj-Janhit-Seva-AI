@@ -13,8 +13,21 @@ the closest generic, retryable code in its table; confirm the real one
 during onboarding.
 """
 
+import logging
 import secrets
-from datetime import date
+import threading
+import time
+
+from app.config import JANAADHAAR_DEMO_OTP_PREVIEW
+
+_audit_logger = logging.getLogger("janaadhaar_audit")
+
+# OTPs expire after this long; expired entries (and old transaction ids)
+# are pruned on every generate/validate call so the dicts can't grow
+# without bound across a long-running dev server.
+OTP_TTL_SECONDS = 5 * 60
+TRANSACTION_ID_TTL_SECONDS = 60 * 60
+_lock = threading.Lock()
 
 # --- mock family data -------------------------------------------------------
 # One single-member family (exercises the auto-select path in
@@ -97,13 +110,22 @@ MOCK_FAMILIES = {
     },
 }
 
-# tid -> {"member_id", "otp", "attempts"}
+# tid -> {"member_id", "otp", "attempts", "created_at"}
 PENDING_OTPS: dict[str, dict] = {}
 
 # Real transactionIds are generated fresh per call by the CONSUMER - the
 # server-side is expected to reject a reuse (JAN_501), so we track what
-# we've seen the same way a real gateway would.
-SEEN_TRANSACTION_IDS: set[str] = set()
+# we've seen the same way a real gateway would. transaction_id -> seen_at.
+SEEN_TRANSACTION_IDS: dict[str, float] = {}
+
+
+def prune_expired(now: float | None = None) -> None:
+    now = time.time() if now is None else now
+    with _lock:
+        for tid in [t for t, p in PENDING_OTPS.items() if now - p["created_at"] > OTP_TTL_SECONDS]:
+            del PENDING_OTPS[tid]
+        for txn in [t for t, seen in SEEN_TRANSACTION_IDS.items() if now - seen > TRANSACTION_ID_TTL_SECONDS]:
+            del SEEN_TRANSACTION_IDS[txn]
 
 
 def find_member(member_id: str):
@@ -120,10 +142,12 @@ def _to_ddmmyyyy(iso_date: str) -> str:
 
 
 def is_duplicate_transaction(transaction_id: str) -> bool:
-    if transaction_id in SEEN_TRANSACTION_IDS:
-        return True
-    SEEN_TRANSACTION_IDS.add(transaction_id)
-    return False
+    prune_expired()
+    with _lock:
+        if transaction_id in SEEN_TRANSACTION_IDS:
+            return True
+        SEEN_TRANSACTION_IDS[transaction_id] = time.time()
+        return False
 
 
 def handle_member_list(jan_id: str) -> dict:
@@ -162,30 +186,33 @@ def handle_generate_otp(member_id: str) -> dict:
         }
     otp = f"{secrets.randbelow(10 ** 6):06d}"
     tid = "TID" + secrets.token_hex(6)
-    PENDING_OTPS[tid] = {"member_id": member_id, "otp": otp, "attempts": 0}
-    # A real integration never sees this OTP - it goes straight from Jan
-    # Aadhaar to the member's own registered mobile via SMS. Printed here
-    # only because there's no real SMS gateway in the mock.
-    print(f"[MOCK SMS to {member['mobile']}] Your Jan Aadhaar OTP is {otp}")
-    return {
+    prune_expired()
+    with _lock:
+        PENDING_OTPS[tid] = {"member_id": member_id, "otp": otp, "attempts": 0, "created_at": time.time()}
+    result = {
         "status": True,
         "message": f"OTP sent to xxxxxx{member['mobile'][-4:]} successfully",
         "responseCode": "JAN_200",
         "tid": tid,
         "JanId": None,
         "data": None,
-        # Mock-only convenience (2026-08-17): the REAL API never returns the
-        # OTP itself in this response - it only ever reaches the citizen via
-        # actual SMS. This field exists purely so the demo UI can show it as
-        # a simulated "SMS arrived" popup instead of requiring a look at
-        # server logs. RealJanAadhaarTransport's response will never carry
-        # this key, so the popup naturally disappears once
-        # JANAADHAAR_MODE=real - no special-casing needed anywhere else.
-        "_mock_otp_for_demo": otp,
     }
+    # A real integration never sees this OTP - it goes straight from Jan
+    # Aadhaar to the member's registered mobile via SMS. In the mock there
+    # is no SMS gateway, so: with JANAADHAAR_DEMO_OTP_PREVIEW=1 the OTP is
+    # returned to the browser as a simulated "SMS arrived" popup
+    # (_mock_otp_for_demo - a key the real transport never emits, so the
+    # popup disappears by itself under JANAADHAAR_MODE=real); otherwise it
+    # is written ONLY to the audit log, where a tester can read it.
+    if JANAADHAAR_DEMO_OTP_PREVIEW:
+        result["_mock_otp_for_demo"] = otp
+    else:
+        _audit_logger.info("mock_sms tid=%s member_id=%s otp=%s (set JANAADHAAR_DEMO_OTP_PREVIEW=1 to show in UI)", tid, member_id, otp)
+    return result
 
 
 def handle_validate_otp(member_id: str, tid: str, otp: str) -> dict:
+    prune_expired()
     pending = PENDING_OTPS.get(tid)
     if not pending or pending["member_id"] != member_id:
         return {
@@ -206,7 +233,8 @@ def handle_validate_otp(member_id: str, tid: str, otp: str) -> dict:
             "JanId": None,
             "data": None,
         }
-    del PENDING_OTPS[tid]
+    with _lock:
+        PENDING_OTPS.pop(tid, None)
     member = find_member(member_id)
     data = {
         "NAME_EN": member["name"],

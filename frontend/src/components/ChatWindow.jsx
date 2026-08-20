@@ -5,7 +5,8 @@ import InputBar from "./InputBar.jsx";
 import SmsPopup from "./SmsPopup.jsx";
 
 export default function ChatWindow() {
-  const { messages, isLoading, sendMessage, smsPopup, dismissSmsPopup } = useChatStore();
+  const { messages, isLoading, sendMessage, retryLast, smsPopup, dismissSmsPopup, notice, clearNotice } =
+    useChatStore();
   const bottomRef = useRef(null);
 
   useEffect(() => {
@@ -22,7 +23,12 @@ export default function ChatWindow() {
 
       <div style={{ flex: 1, overflowY: "auto", padding: 14, background: "#f9fafb" }}>
         {messages.map((m, i) => (
-          <MessageBubble key={i} role={m.role} text={m.text} />
+          <MessageBubble
+            key={i}
+            role={m.role}
+            text={m.text}
+            onRetry={m.retryable && i === messages.length - 1 && !isLoading ? retryLast : undefined}
+          />
         ))}
         {isLoading && (
           <div style={{ display: "flex", justifyContent: "flex-start", marginBottom: 10 }}>
@@ -43,6 +49,17 @@ export default function ChatWindow() {
         <div ref={bottomRef} />
       </div>
 
+      {notice && (
+        <div
+          role="status"
+          style={{ padding: "6px 14px", fontSize: 12, color: "#92400e", background: "#fef3c7", display: "flex", gap: 8 }}
+        >
+          <span style={{ flex: 1 }}>{notice}</span>
+          <button onClick={clearNotice} aria-label="Dismiss" style={{ border: "none", background: "none", cursor: "pointer" }}>
+            x
+          </button>
+        </div>
+      )}
       <InputBar onSend={sendMessage} disabled={isLoading} />
     </div>
   );

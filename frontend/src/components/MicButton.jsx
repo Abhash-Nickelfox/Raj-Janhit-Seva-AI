@@ -1,95 +1,90 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { transcribeAudio } from "../api/chatApi.js";
 
-// 0-128 scale (time-domain byte data is centered at 128) - the RMS level
-// below which the mic is considered "quiet". Tuned for a normal room, not
-// a noisy one - if this proves too sensitive/insensitive in practice, this
-// is the number to adjust.
-const SILENCE_RMS_THRESHOLD = 8;
-// How long the citizen must stay quiet, AFTER having spoken at least once,
-// before recording auto-stops - long enough to survive a natural pause
-// mid-sentence, short enough to feel responsive once they're actually done.
-const SILENCE_DURATION_MS = 1500;
-// Safety cap regardless of silence detection, in case background noise or
-// a quiet mic never registers as "silence" - recording still stops on its
-// own rather than running indefinitely.
-const MAX_RECORDING_MS = 30000;
+// Safety cap only - there is NO silence-detection auto-stop any more
+// (2026-08-20: it cut citizens off mid-thought and the 30 s cap was too
+// short for a full description of their situation). Recording is
+// click-to-start / click-to-stop, with a live timer so the citizen can see
+// it's still listening.
+const MAX_RECORDING_MS = 5 * 60 * 1000;
 
-// Press to start recording (records via MediaRecorder), auto-stops once
-// voice-activity detection notices the citizen has gone quiet after
-// speaking, transcribes via Sarvam's Saaras (app/stt_service.py), then
-// auto-sends the transcribed text exactly like a typed message (no
-// review-before-send step, by design). A manual click while recording
-// still stops it immediately too, as a fallback/override. Errors surface
-// via onError rather than failing silently, so the citizen always knows
-// to fall back to typing.
+function formatElapsed(ms) {
+  const total = Math.floor(ms / 1000);
+  const mm = String(Math.floor(total / 60)).padStart(2, "0");
+  const ss = String(total % 60).padStart(2, "0");
+  return `${mm}:${ss}`;
+}
+
+// Press to start recording (MediaRecorder), press again to stop; the clip
+// is transcribed via Sarvam (app/stt_service.py) and auto-sent exactly like
+// a typed message. Errors surface via onError so the citizen knows to fall
+// back to typing.
 export default function MicButton({ onSend, disabled, onError }) {
   const [status, setStatus] = useState("idle"); // idle | recording | transcribing
+  const [elapsedMs, setElapsedMs] = useState(0);
   const mediaRecorderRef = useRef(null);
+  const streamRef = useRef(null);
   const chunksRef = useRef([]);
-  const audioCtxRef = useRef(null);
-  const vadFrameRef = useRef(null);
   const maxTimerRef = useRef(null);
+  const tickTimerRef = useRef(null);
+  const startedAtRef = useRef(0);
+  const mountedRef = useRef(true);
 
   const supported = typeof navigator !== "undefined" && navigator.mediaDevices && window.MediaRecorder;
-  if (!supported) return null; // graceful degrade - text input still works fine without this
 
-  const stopSilenceDetection = () => {
-    if (vadFrameRef.current !== null) cancelAnimationFrame(vadFrameRef.current);
-    vadFrameRef.current = null;
+  const clearTimers = () => {
     if (maxTimerRef.current !== null) clearTimeout(maxTimerRef.current);
     maxTimerRef.current = null;
-    if (audioCtxRef.current) {
-      audioCtxRef.current.close();
-      audioCtxRef.current = null;
-    }
+    if (tickTimerRef.current !== null) clearInterval(tickTimerRef.current);
+    tickTimerRef.current = null;
   };
 
-  // Watches the mic's volume so recording stops itself once the citizen
-  // finishes speaking, instead of requiring a second click. Only starts
-  // counting silence AFTER real speech has been heard, so a citizen who
-  // pauses to think before speaking at all isn't cut off immediately.
-  const startSilenceDetection = (stream, onSilenceDetected) => {
-    const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-    const audioCtx = new AudioContextClass();
-    audioCtxRef.current = audioCtx;
-    const source = audioCtx.createMediaStreamSource(stream);
-    const analyser = audioCtx.createAnalyser();
-    analyser.fftSize = 512;
-    source.connect(analyser);
+  const releaseStream = () => {
+    streamRef.current?.getTracks().forEach((track) => track.stop());
+    streamRef.current = null;
+  };
 
-    const data = new Uint8Array(analyser.frequencyBinCount);
-    let hasSpoken = false;
-    let silenceStartedAt = null;
-
-    const tick = () => {
-      analyser.getByteTimeDomainData(data);
-      let sumSquares = 0;
-      for (let i = 0; i < data.length; i++) {
-        const deviation = data[i] - 128;
-        sumSquares += deviation * deviation;
-      }
-      const rms = Math.sqrt(sumSquares / data.length);
-
-      if (rms > SILENCE_RMS_THRESHOLD) {
-        hasSpoken = true;
-        silenceStartedAt = null;
-      } else if (hasSpoken) {
-        if (silenceStartedAt === null) {
-          silenceStartedAt = performance.now();
-        } else if (performance.now() - silenceStartedAt > SILENCE_DURATION_MS) {
-          onSilenceDetected();
-          return; // stop polling - the recording is being stopped
+  // Cleanup on unmount: stop any in-flight recording and release the mic.
+  useEffect(() => {
+    mountedRef.current = true;
+    return () => {
+      mountedRef.current = false;
+      clearTimers();
+      const rec = mediaRecorderRef.current;
+      if (rec && rec.state !== "inactive") {
+        rec.onstop = null; // don't try to transcribe/setState after unmount
+        try {
+          rec.stop();
+        } catch {
+          /* already stopped */
         }
       }
-      vadFrameRef.current = requestAnimationFrame(tick);
+      mediaRecorderRef.current = null;
+      releaseStream();
     };
-    vadFrameRef.current = requestAnimationFrame(tick);
+  }, []);
+
+  if (!supported) return null; // graceful degrade - text input still works
+
+  const stopRecording = () => {
+    const rec = mediaRecorderRef.current;
+    if (rec && rec.state === "recording") {
+      try {
+        rec.stop();
+      } catch {
+        /* race with an already-finished recorder */
+      }
+    }
   };
 
   const startRecording = async () => {
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      if (!mountedRef.current) {
+        stream.getTracks().forEach((t) => t.stop());
+        return;
+      }
+      streamRef.current = stream;
       const recorder = new MediaRecorder(stream);
       chunksRef.current = [];
 
@@ -98,48 +93,54 @@ export default function MicButton({ onSend, disabled, onError }) {
       };
 
       recorder.onstop = async () => {
-        stopSilenceDetection();
-        stream.getTracks().forEach((track) => track.stop());
+        clearTimers();
+        releaseStream();
+        if (!mountedRef.current) return;
         setStatus("transcribing");
         try {
           const blob = new Blob(chunksRef.current, { type: recorder.mimeType || "audio/webm" });
           const text = (await transcribeAudio(blob)).trim();
+          if (!mountedRef.current) return;
           if (text) {
             onSend(text);
           } else {
             onError?.("Kuch sunai nahi diya. Kripya phir se try karein ya type karein.");
           }
         } catch (err) {
-          onError?.("Awaaz samajhne mein dikkat aayi. Kripya type karke bhejein.");
+          if (!mountedRef.current) return;
+          const msg =
+            err?.name === "TimeoutError" || err?.name === "AbortError"
+              ? "Awaaz bhejne mein zyada samay lag gaya. Kripya phir se try karein ya type karein."
+              : "Awaaz samajhne mein dikkat aayi. Kripya type karke bhejein.";
+          onError?.(msg);
         } finally {
-          setStatus("idle");
+          if (mountedRef.current) {
+            setStatus("idle");
+            setElapsedMs(0);
+          }
         }
       };
 
       recorder.start();
       mediaRecorderRef.current = recorder;
+      startedAtRef.current = Date.now();
+      setElapsedMs(0);
       setStatus("recording");
 
-      const autoStop = () => {
-        if (mediaRecorderRef.current?.state === "recording") {
-          mediaRecorderRef.current.stop();
-        }
-      };
-      startSilenceDetection(stream, autoStop);
-      maxTimerRef.current = setTimeout(autoStop, MAX_RECORDING_MS);
+      tickTimerRef.current = setInterval(() => {
+        setElapsedMs(Date.now() - startedAtRef.current);
+      }, 500);
+      maxTimerRef.current = setTimeout(stopRecording, MAX_RECORDING_MS);
     } catch (err) {
+      releaseStream();
       onError?.("Microphone ka access nahi mila. Kripya permission dein ya type karke bhejein.");
-      setStatus("idle");
+      if (mountedRef.current) setStatus("idle");
     }
-  };
-
-  const stopRecording = () => {
-    mediaRecorderRef.current?.stop();
   };
 
   const handleClick = () => {
     if (status === "idle") startRecording();
-    else if (status === "recording") stopRecording(); // manual override - still works alongside auto-stop
+    else if (status === "recording") stopRecording();
     // a click during "transcribing" is ignored - nothing to start/stop
   };
 
@@ -147,33 +148,49 @@ export default function MicButton({ onSend, disabled, onError }) {
   const isBusy = status === "transcribing";
 
   return (
-    <button
-      onClick={handleClick}
-      disabled={disabled || isBusy}
-      aria-label={isRecording ? "Stop recording" : "Record a voice message"}
-      title={isRecording ? "Recording... stops automatically when you finish speaking, or click to stop now" : "Click to speak"}
-      style={{
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "center",
-        width: 40,
-        height: 40,
-        padding: 0,
-        borderRadius: "50%",
-        border: "none",
-        background: isRecording ? "#dc2626" : disabled || isBusy ? "#9ca3af" : "#6b7280",
-        color: "#fff",
-        cursor: disabled || isBusy ? "default" : "pointer",
-        flexShrink: 0,
-        animation: isRecording ? "mic-pulse 1.2s infinite" : "none",
-      }}
-    >
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path
-          d="M12 14a3 3 0 003-3V6a3 3 0 10-6 0v5a3 3 0 003 3zm5-3a5 5 0 01-10 0H5a7 7 0 006 6.92V21h2v-3.08A7 7 0 0019 11h-2z"
-          fill="currentColor"
-        />
-      </svg>
-    </button>
+    <div style={{ display: "flex", alignItems: "center", gap: 6, flexShrink: 0 }}>
+      {isRecording && (
+        <span
+          aria-live="polite"
+          style={{ fontSize: 12, fontVariantNumeric: "tabular-nums", color: "#dc2626", minWidth: 38 }}
+        >
+          {formatElapsed(elapsedMs)}
+        </span>
+      )}
+      <button
+        onClick={handleClick}
+        disabled={(disabled && !isRecording) || isBusy}  // Stop must always work while recording
+        aria-label={isRecording ? "Stop recording" : "Record a voice message"}
+        title={isRecording ? "Recording... click to stop and send" : "Click to speak"}
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          width: 40,
+          height: 40,
+          padding: 0,
+          borderRadius: "50%",
+          border: "none",
+          background: isRecording ? "#dc2626" : disabled || isBusy ? "#9ca3af" : "#6b7280",
+          color: "#fff",
+          cursor: disabled || isBusy ? "default" : "pointer",
+          flexShrink: 0,
+          animation: isRecording ? "mic-pulse 1.2s infinite" : "none",
+        }}
+      >
+        {isRecording ? (
+          <svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor" />
+          </svg>
+        ) : (
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M12 14a3 3 0 003-3V6a3 3 0 10-6 0v5a3 3 0 003 3zm5-3a5 5 0 01-10 0H5a7 7 0 006 6.92V21h2v-3.08A7 7 0 0019 11h-2z"
+              fill="currentColor"
+            />
+          </svg>
+        )}
+      </button>
+    </div>
   );
 }

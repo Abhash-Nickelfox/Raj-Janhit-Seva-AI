@@ -7,7 +7,7 @@ export default function InputBar({ onSend, disabled }) {
 
   const submit = () => {
     if (!text.trim() || disabled) return;
-    onSend(text);
+    onSend(text, { source: "text" });
     setText("");
   };
 
@@ -38,7 +38,7 @@ export default function InputBar({ onSend, disabled }) {
         <MicButton
           onSend={(voiceText) => {
             setVoiceError("");
-            onSend(voiceText);
+            onSend(voiceText, { source: "voice" });
           }}
           disabled={disabled}
           onError={setVoiceError}

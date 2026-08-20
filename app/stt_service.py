@@ -9,44 +9,102 @@ the EXISTING three-way language detection in extract_need_node - no separate
 language handling needed here.
 
 mode="transcribe" (Saaras's default): native-script output only (Devanagari
-for Hindi, matching Whisper's old behavior) - deliberately NOT "codemix"
-(Devanagari for Hindi words, Latin for English words in the SAME sentence),
-even though Sarvam's own docs recommend codemix for naturally code-mixed
-speech and it's likely more accurate content-wise. codemix's mixed-script
-output doesn't map cleanly onto this app's existing hindi(Devanagari-only)/
-hinglish(Roman-only)/english three-way split - extract_need_node's
-detected_language classifier and normalize_node's DEVANAGARI_RE placeholder
-guess both assume one script per message. "transcribe" keeps the exact same
-downstream classification working unchanged; revisit codemix only alongside
-updating that classifier to handle mixed-script text.
+for Hindi) - deliberately NOT "codemix", because extract_need_node's
+language classifier assumes one script per message.
 
-No language hint sent (2026-08-19, reverting the 2026-08-18 attempt at one):
-tried sourcing a hint from the PREVIOUS turn's own reply_lang, on the theory
-that a citizen's spoken language stays constant across a conversation -
-found live that this is false and actively harmful, not just unnecessary:
-a citizen who spoke English, then switched to Hindi for their next voice
-message, got that Hindi speech transcribed as English text, because the
-stale hint from turn 1's English reply told Sarvam "language_code: en-IN"
-for turn 2's actual Hindi speech, overriding what was really said. The
-original 2026-08-12 concern (no-hint Whisper sometimes translating instead
-of transcribing) doesn't even apply here - mode="transcribe" is already
-forced explicitly below regardless of language, unlike Whisper's single
-ambiguous endpoint. Always passing language_code="unknown" (Sarvam's own
-auto-detect) lets it read the ACTUAL audio fresh every turn instead of
-trusting a signal that can silently go stale the moment someone switches
-languages mid-conversation - which voice users can do far more easily than
-text users ever could.
+Language hint (2026-08-20): language_code="unknown" (Sarvam auto-detect)
+made saaras:v3 emit Gurmukhi/Bengali script for plainly Hindi speech, which
+the downstream classifier can't handle at all. We now send
+SARVAM_STT_LANGUAGE (default hi-IN). If the transcript still comes back in
+a non-Devanagari Indic script, or Sarvam reports a language other than
+hi-IN/en-IN, we retry ONCE with en-IN (covers citizens who actually spoke
+English). If that is still neither Devanagari nor Latin, we give up with a
+"please repeat" error rather than hand garbage to the chat graph.
 """
+
+import logging
+import re
 
 import requests
 
-from app.config import SARVAM_API_KEY, SARVAM_STT_MODEL
+from app.config import SARVAM_API_KEY, SARVAM_STT_LANGUAGE, SARVAM_STT_MODEL
+
+logger = logging.getLogger("jan_seva_stt")
 
 SARVAM_STT_URL = "https://api.sarvam.ai/speech-to-text"
+MAX_AUDIO_BYTES = 8 * 1024 * 1024  # 8 MB
+REQUEST_TIMEOUT_S = 30
+
+_ACCEPTED_LANGS = {"hi-IN", "en-IN"}
+
+# Devanagari block, plus Latin letters. Anything in another Indic block
+# (Gurmukhi U+0A00-0A7F, Bengali U+0980-09FF, Gujarati, Tamil, Telugu,
+# Kannada, Malayalam, Odia, Urdu/Arabic) counts as "wrong script".
+_DEVANAGARI_RE = re.compile(r"[ऀ-ॿ]")
+_LATIN_RE = re.compile(r"[A-Za-z]")
+_OTHER_INDIC_RE = re.compile(
+    r"[ঀ-৿਀-੿઀-૿଀-୿஀-௿"
+    r"ఀ-౿ಀ-೿ഀ-ൿ؀-ۿ]"
+)
+
+_COULD_NOT_UNDERSTAND = "Could not understand the audio - please repeat, or type your message."
+_TOO_LARGE = "Audio is too large (max 8 MB) - please record a shorter message."
+_UPSTREAM_FAILED = "Speech-to-text service failed - please try again, or type your message."
 
 
 class TranscriptionError(Exception):
     pass
+
+
+def has_foreign_script(text: str) -> bool:
+    return bool(_OTHER_INDIC_RE.search(text or ""))
+
+
+def is_usable_script(text: str) -> bool:
+    """Devanagari and/or Latin only (digits/punctuation ignored)."""
+    if has_foreign_script(text):
+        return False
+    return bool(_DEVANAGARI_RE.search(text) or _LATIN_RE.search(text))
+
+
+def _call_sarvam(audio_bytes: bytes, filename: str, mime: str, language_code: str) -> tuple[str, str | None]:
+    data = {
+        "model": SARVAM_STT_MODEL,
+        "mode": "transcribe",
+        "language_code": language_code,
+    }
+    try:
+        response = requests.post(
+            SARVAM_STT_URL,
+            headers={"api-subscription-key": SARVAM_API_KEY},
+            files={"file": (filename, audio_bytes, mime)},
+            data=data,
+            timeout=REQUEST_TIMEOUT_S,
+        )
+    except requests.Timeout:
+        logger.error("sarvam stt timeout after %ss", REQUEST_TIMEOUT_S)
+        raise TranscriptionError(_UPSTREAM_FAILED)
+    except requests.RequestException as e:
+        logger.error("sarvam stt request error: %s", e.__class__.__name__)
+        raise TranscriptionError(_UPSTREAM_FAILED)
+
+    if not response.ok:
+        # Raw upstream body goes to the log only, never into the exception
+        # message (which reaches the browser via /transcribe's 502 detail).
+        logger.error("sarvam stt HTTP %s: %s", response.status_code, response.text[:500])
+        if response.status_code == 413:
+            raise TranscriptionError(_TOO_LARGE)
+        if response.status_code in (400, 415, 422):
+            raise TranscriptionError(_COULD_NOT_UNDERSTAND)
+        raise TranscriptionError(_UPSTREAM_FAILED)
+
+    try:
+        payload = response.json()
+    except ValueError:
+        logger.error("sarvam stt returned non-JSON body")
+        raise TranscriptionError(_UPSTREAM_FAILED)
+    transcript = (payload.get("transcript") or "").strip()
+    return transcript, payload.get("language_code")
 
 
 def transcribe(audio_bytes: bytes, filename: str = "audio.webm", content_type: str = None) -> str:
@@ -54,31 +112,24 @@ def transcribe(audio_bytes: bytes, filename: str = "audio.webm", content_type: s
         raise TranscriptionError(
             "SARVAM_API_KEY not set - copy .env.example's SARVAM_API_KEY into .env to enable voice input."
         )
+    if not audio_bytes:
+        raise TranscriptionError(_COULD_NOT_UNDERSTAND)
+    if len(audio_bytes) > MAX_AUDIO_BYTES:
+        raise TranscriptionError(_TOO_LARGE)
 
-    # Found live (2026-08-18): the 2-tuple form (filename, bytes) leaves
-    # `requests` to send no explicit Content-Type at all for the file part -
-    # Groq's endpoint tolerated that, but Sarvam's validates strictly against
-    # its own allowed-MIME list and rejects "None" outright. Strip any
-    # ";codecs=..." parameter (MediaRecorder's actual mimeType is typically
-    # "audio/webm;codecs=opus", not the bare "audio/webm" Sarvam's list has)
-    # and fall back to "audio/webm" if the browser didn't report one at all.
-    mime = (content_type or "audio/webm").split(";")[0].strip()
+    # Sarvam validates the part's Content-Type strictly; strip any
+    # ";codecs=..." parameter and default to audio/webm.
+    mime = (content_type or "audio/webm").split(";")[0].strip() or "audio/webm"
 
-    data = {
-        "model": SARVAM_STT_MODEL,
-        "mode": "transcribe",
-        "language_code": "unknown",
-    }
+    transcript, lang = _call_sarvam(audio_bytes, filename, mime, SARVAM_STT_LANGUAGE)
+    if transcript and not has_foreign_script(transcript) and (lang is None or lang in _ACCEPTED_LANGS):
+        return transcript
 
-    response = requests.post(
-        SARVAM_STT_URL,
-        headers={"api-subscription-key": SARVAM_API_KEY},
-        files={"file": (filename, audio_bytes, mime)},
-        data=data,
-        timeout=30,
+    logger.info(
+        "sarvam stt retry with en-IN (first pass lang=%s foreign_script=%s empty=%s)",
+        lang, has_foreign_script(transcript), not transcript,
     )
-    if not response.ok:
-        raise TranscriptionError(f"Sarvam transcription failed ({response.status_code}): {response.text}")
-
-    transcript = response.json().get("transcript", "")
-    return transcript.strip()
+    transcript, lang = _call_sarvam(audio_bytes, filename, mime, "en-IN")
+    if transcript and is_usable_script(transcript):
+        return transcript
+    raise TranscriptionError(_COULD_NOT_UNDERSTAND)

@@ -8,7 +8,7 @@ be internet-facing, and client_id is accepted but not validated since
 there's no real Consumer Subscription behind this mock.
 """
 
-from fastapi import APIRouter, Request
+from fastapi import APIRouter, HTTPException, Request
 
 from app import janaadhaar_crypto as crypto
 from app import janaadhaar_mock_data as mockdata
@@ -22,10 +22,23 @@ async def _read_request(request: Request) -> dict:
     """Decrypts+verifies the inbound envelope using the SERVER's (Jan
     Aadhaar's) keys - decrypt with its own private key, verify against the
     consumer's public key - the mirror image of what the client does."""
-    body = await request.json()
-    return crypto.open_envelope(
-        body["data"], "data", crypto.JANAADHAAR_KEYPAIR.private_key, crypto.CONSUMER_KEYPAIR.public_key
-    )
+    try:
+        body = await request.json()
+        inner = crypto.open_envelope(
+            body["data"], "data", crypto.JANAADHAAR_KEYPAIR.private_key, crypto.CONSUMER_KEYPAIR.public_key
+        )
+        if not isinstance(inner, dict) or "transactionId" not in inner:
+            raise ValueError("missing transactionId")
+        return inner
+    except Exception as e:  # malformed JSON, bad envelope, bad signature, missing keys
+        raise HTTPException(status_code=400, detail=f"Malformed request envelope ({e.__class__.__name__})")
+
+
+def _field(inner: dict, key: str) -> str:
+    value = inner.get(key)
+    if not isinstance(value, str) or not value:
+        raise HTTPException(status_code=400, detail=f"Missing or invalid field: {key}")
+    return value
 
 
 def _seal_response(payload: dict) -> dict:
@@ -51,7 +64,7 @@ async def member_list(request: Request, client_id: str = ""):
     if mockdata.is_duplicate_transaction(inner["transactionId"]):
         result = _duplicate_response(inner["transactionId"])
     else:
-        result = mockdata.handle_member_list(inner["janId"])
+        result = mockdata.handle_member_list(_field(inner, "janId"))
         result = {"transactionId": inner["transactionId"], "schemeCode": inner.get("schemShortCode"), "appCode": inner.get("appCode"), **result}
     return _seal_response(result)
 
@@ -62,7 +75,7 @@ async def generate_otp(request: Request, client_id: str = ""):
     if mockdata.is_duplicate_transaction(inner["transactionId"]):
         result = _duplicate_response(inner["transactionId"])
     else:
-        result = mockdata.handle_generate_otp(inner["memberId"])
+        result = mockdata.handle_generate_otp(_field(inner, "memberId"))
         result = {"transactionId": inner["transactionId"], "schemeCode": inner.get("schemShortCode"), "appCode": inner.get("appCode"), **result}
     return _seal_response(result)
 
@@ -73,7 +86,7 @@ async def validate_otp(request: Request, client_id: str = ""):
     if mockdata.is_duplicate_transaction(inner["transactionId"]):
         result = _duplicate_response(inner["transactionId"])
     else:
-        result = mockdata.handle_validate_otp(inner["memberId"], inner["tid"], inner["otp"])
+        result = mockdata.handle_validate_otp(_field(inner, "memberId"), _field(inner, "tid"), _field(inner, "otp"))
         result = {"transactionId": inner["transactionId"], "schemeCode": inner.get("schemShortCode"), "appCode": inner.get("appCode"), **result}
     return _seal_response(result)
 
@@ -88,6 +101,6 @@ async def entitlement_details(request: Request, client_id: str = ""):
     if mockdata.is_duplicate_transaction(inner["transactionId"]):
         result = _duplicate_response(inner["transactionId"])
     else:
-        result = mockdata.handle_entitlement_details(inner["janaadhaarMemId"])
+        result = mockdata.handle_entitlement_details(_field(inner, "janaadhaarMemId"))
         result = {"transactionId": inner["transactionId"], "appCode": inner.get("appCode"), **result}
     return _seal_response(result)
