@@ -13,11 +13,13 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")  # Windows console defaults to cp1252, breaks on Devanagari
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 
 CHROMA_DIR = Path(__file__).resolve().parent.parent / "data" / "chromadb"
-EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+from app.rag_service import EMBEDDING_MODEL  # single source of truth
 
 TOP_K = 8
 

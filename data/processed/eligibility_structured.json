@@ -20,8 +20,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -30,7 +32,8 @@
       "subsidy"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65fbc1ca47c0daa74e38e4b8",
@@ -55,6 +58,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -63,7 +68,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6807cb9192da06bdddb7d8ec",
@@ -89,6 +95,8 @@
     ],
     "age_min": 5,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -98,7 +106,8 @@
       "student",
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "67faab977dc6b8a0ad166831",
@@ -123,6 +132,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -133,7 +144,8 @@
     "occupation_target_group": [
       "entrepreneur"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67b5f127d6a94de2eee2bde1",
@@ -163,6 +175,8 @@
     ],
     "age_min": 16,
     "age_max": 40,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 250000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -171,7 +185,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "67ef73ab4f405f25875e6554",
@@ -197,6 +212,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -207,7 +224,8 @@
       "woman",
       "ex_servicemen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67f3b839269b0727e8facfa4",
@@ -230,15 +248,18 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "composite",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67b0544d0cc99d069d336c01",
@@ -263,6 +284,8 @@
     ],
     "age_min": 18,
     "age_max": 35,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -271,7 +294,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "67b1d7d250fc00c18b82039f",
@@ -296,6 +320,8 @@
     ],
     "age_min": 21,
     "age_max": 34,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -306,7 +332,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "6804f19e941ea79974b65f1d",
@@ -332,6 +359,8 @@
     ],
     "age_min": 9,
     "age_max": 14,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 100000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": 100000,
@@ -341,7 +370,8 @@
       "student",
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "67cdd05c4f0bd5e698d60453",
@@ -364,8 +394,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -376,7 +408,8 @@
     "occupation_target_group": [
       "differently_abled"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6831ee5277025b42c32d1c60",
@@ -401,13 +434,16 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "642170470912d761b99e8a1d",
@@ -432,6 +468,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -440,7 +478,8 @@
     "occupation_target_group": [
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "64217b310912d761b99e8acd",
@@ -465,6 +504,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -473,7 +514,8 @@
     "occupation_target_group": [
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67cadcbf1dc65aa2df41c967",
@@ -497,8 +539,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -509,7 +553,8 @@
     "occupation_target_group": [
       "differently_abled"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "649559b7481f59106a6d1651",
@@ -534,6 +579,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -542,7 +589,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67f2a8c24f89143c4d3dcca8",
@@ -567,6 +615,8 @@
     ],
     "age_min": 16,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -575,7 +625,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "642257f515612c1db763d0f7",
@@ -598,8 +649,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -610,7 +663,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67f103591b9b5e2aec0361a5",
@@ -635,6 +689,8 @@
     ],
     "age_min": 16,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -643,7 +699,8 @@
     "occupation_target_group": [
       "ex_servicemen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "68284785f2de71e7817d5859",
@@ -669,6 +726,8 @@
     ],
     "age_min": 9,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -679,7 +738,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65f00ab2da55878ebe212f59",
@@ -705,6 +765,8 @@
     ],
     "age_min": 16,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -714,7 +776,8 @@
       "student",
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "645be3be3b5b7730866a5979",
@@ -743,6 +806,8 @@
     ],
     "age_min": 16,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 800000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -751,7 +816,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "680e8e0c096abd5b8bc31a73",
@@ -775,17 +841,18 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "composite",
     "benefit_type_fine": [],
-    "occupation_target_group": [
-      "senior_citizen"
-    ],
-    "education_level": null
+    "occupation_target_group": [],
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "648b6113481f59106a699591",
@@ -813,6 +880,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 48000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -822,10 +891,10 @@
     ],
     "occupation_target_group": [
       "widow",
-      "senior_citizen",
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "widow_pension"
   },
   {
     "scheme_id": "66bc9a88c5af5de226834d4c",
@@ -850,6 +919,8 @@
     ],
     "age_min": 15,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 250000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": 250000,
@@ -858,9 +929,11 @@
       "scholarship"
     ],
     "occupation_target_group": [
-      "student"
+      "student",
+      "differently_abled"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "64aaee88481f59106a71e05e",
@@ -883,8 +956,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 60000,
     "individual_income_ceiling": 60000,
     "parent_income_ceiling": 60000,
@@ -894,10 +969,10 @@
       "pension"
     ],
     "occupation_target_group": [
-      "student",
-      "senior_citizen"
+      "differently_abled"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "disability_pension"
   },
   {
     "scheme_id": "67b1e53dd6a94de2eedda95b",
@@ -924,6 +999,8 @@
     ],
     "age_min": 55,
     "age_max": 100,
+    "age_min_female": 55,
+    "age_min_male": 58,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -935,7 +1012,8 @@
       "farmer",
       "senior_citizen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "farmer_old_age_pension"
   },
   {
     "scheme_id": "67f37956b4c840dea6658f6c",
@@ -960,6 +1038,8 @@
     ],
     "age_min": 18,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -968,7 +1048,8 @@
       "training"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67b0ae530cc99d069d33edb0",
@@ -994,6 +1075,8 @@
     ],
     "age_min": 12,
     "age_max": 16,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1003,7 +1086,8 @@
       "student",
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "67f252ca8e7fcdf4bf2ff670",
@@ -1028,6 +1112,8 @@
     ],
     "age_min": 16,
     "age_max": 50,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1037,7 +1123,8 @@
       "student",
       "woman"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "67b1b896d6a94de2eedd6d17",
@@ -1062,6 +1149,8 @@
     ],
     "age_min": 8,
     "age_max": 10,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1070,7 +1159,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "67f2cb7ac8b84abf36a16f31",
@@ -1095,6 +1185,8 @@
     ],
     "age_min": 13,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": 200000,
@@ -1103,7 +1195,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "649a9d0f481f59106a6e7624",
@@ -1126,8 +1219,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 200000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": 200000,
@@ -1138,7 +1233,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "649a8d82380f8e123543e9a2",
@@ -1161,8 +1257,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 250000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": 250000,
@@ -1173,7 +1271,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65f18303da55878ebe236c1e",
@@ -1198,6 +1297,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1206,7 +1307,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67bb637e550228dc0e102e22",
@@ -1234,13 +1336,16 @@
     ],
     "age_min": 18,
     "age_max": 35,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "648ac9ad380f8e12353ef57e",
@@ -1264,8 +1369,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 250000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": 250000,
@@ -1274,7 +1381,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "65f938b60e25df91fd3745de",
@@ -1299,6 +1407,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1307,7 +1417,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "649032d8380f8e12353ffc53",
@@ -1333,6 +1444,8 @@
     ],
     "age_min": 14,
     "age_max": 20,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1344,7 +1457,8 @@
       "student",
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "64a6625c380f8e1235465c1d",
@@ -1370,6 +1484,8 @@
     ],
     "age_min": 14,
     "age_max": 20,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1381,7 +1497,8 @@
       "student",
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "649150de481f59106a6ac38d",
@@ -1407,6 +1524,8 @@
     ],
     "age_min": 17,
     "age_max": 25,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1418,7 +1537,8 @@
       "student",
       "woman"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "67ef7dca5a4889e1887a8968",
@@ -1441,8 +1561,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1455,7 +1577,8 @@
       "differently_abled",
       "ex_servicemen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6822f25b21aa532bf67799d1",
@@ -1481,6 +1604,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1489,10 +1614,10 @@
       "healthcare"
     ],
     "occupation_target_group": [
-      "unemployed",
-      "senior_citizen"
+      "unemployed"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6824b38af2de71e78179554f",
@@ -1519,6 +1644,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1529,7 +1656,8 @@
     "occupation_target_group": [
       "unemployed"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "680cfa92197a2fd77e4d349d",
@@ -1555,6 +1683,8 @@
     ],
     "age_min": 9,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1563,7 +1693,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "64224f36af25fd4fcf837ddd",
@@ -1586,15 +1717,18 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "666bde8febb262eb5dc18570",
@@ -1619,6 +1753,8 @@
     ],
     "age_min": 18,
     "age_max": 80,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1627,7 +1763,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65eae022938a0b13ccaa2ca5",
@@ -1652,6 +1789,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1660,7 +1799,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "khet_talai"
   },
   {
     "scheme_id": "6808acdc5b9f421ef9a6f39d",
@@ -1686,6 +1826,8 @@
     ],
     "age_min": 11,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 250000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1695,7 +1837,8 @@
       "student",
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "65f2d70d938a0b13ccb7b959",
@@ -1720,6 +1863,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1731,7 +1876,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6498914e481f59106a6e05a4",
@@ -1756,6 +1902,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1765,7 +1913,8 @@
       "healthcare"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65f81eefe4760d555114194c",
@@ -1790,6 +1939,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1800,7 +1951,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67c59346e39781207675dfdc",
@@ -1825,6 +1977,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1833,7 +1987,8 @@
       "loan"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67c47578e39781207674d48a",
@@ -1858,6 +2013,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1866,7 +2023,8 @@
     "occupation_target_group": [
       "entrepreneur"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "648f4dd7481f59106a6a5771",
@@ -1890,8 +2048,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1903,7 +2063,8 @@
       "student",
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "676405f2f41779c1f9761215",
@@ -1928,13 +2089,16 @@
     ],
     "age_min": 18,
     "age_max": 65,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65d790f3938a0b13cc8e3106",
@@ -1960,6 +2124,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -1970,7 +2136,8 @@
     "occupation_target_group": [
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "681f9418d125d5479bb95b34",
@@ -1997,6 +2164,8 @@
     ],
     "age_min": 16,
     "age_max": 30,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2005,7 +2174,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "681f5136ba3ec28b04f660e0",
@@ -2030,6 +2200,8 @@
     ],
     "age_min": 18,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2038,7 +2210,8 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65e01abeda55878ebe08a7ee",
@@ -2063,6 +2236,8 @@
     ],
     "age_min": 60,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2073,7 +2248,8 @@
     "occupation_target_group": [
       "senior_citizen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "old_age_pension"
   },
   {
     "scheme_id": "65e034ac938a0b13cc9b5b2e",
@@ -2098,6 +2274,8 @@
     ],
     "age_min": 40,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2107,10 +2285,10 @@
     ],
     "occupation_target_group": [
       "widow",
-      "senior_citizen",
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "widow_pension"
   },
   {
     "scheme_id": "6498a6b1380f8e123543810c",
@@ -2135,6 +2313,8 @@
     ],
     "age_min": 18,
     "age_max": 40,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 50000,
     "individual_income_ceiling": 15000,
     "parent_income_ceiling": null,
@@ -2143,7 +2323,8 @@
     "occupation_target_group": [
       "unemployed"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65e9669dda55878ebe15b1ec",
@@ -2169,6 +2350,8 @@
     ],
     "age_min": 16,
     "age_max": 40,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2179,7 +2362,8 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65e98918938a0b13cca86e52",
@@ -2204,6 +2388,8 @@
     ],
     "age_min": 16,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2214,12 +2400,13 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "65d31dcdcd96dc5e07590140",
     "slug": "imspesy",
-    "scheme_name": " Indira Mahila Shakti Udyam Protsahan Yojana",
+    "scheme_name": "Indira Mahila Shakti Udyam Protsahan Yojana",
     "level": "State/ UT",
     "category": [
       "Women and Child"
@@ -2239,6 +2426,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2250,7 +2439,8 @@
       "woman",
       "entrepreneur"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67f798f5ca4dbdfd53108f0c",
@@ -2275,6 +2465,8 @@
     ],
     "age_min": 11,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2286,7 +2478,8 @@
       "student",
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "680e8435096abd5b8bc31473",
@@ -2311,6 +2504,8 @@
     ],
     "age_min": 14,
     "age_max": 25,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 250000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": 250000,
@@ -2319,7 +2514,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "649aa891380f8e123543f13f",
@@ -2342,8 +2538,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2352,7 +2550,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "649ab2cd380f8e123543f400",
@@ -2378,6 +2577,8 @@
     ],
     "age_min": 14,
     "age_max": 40,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2387,7 +2588,8 @@
       "student",
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "66029a8a26029b74e6c3c8f2",
@@ -2412,13 +2614,16 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "68207a9121aa532bf6751928",
@@ -2445,6 +2650,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2453,7 +2660,8 @@
       "insurance"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6491808d380f8e123540497d",
@@ -2479,6 +2687,8 @@
     ],
     "age_min": 14,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2488,7 +2698,8 @@
       "student",
       "woman"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "680cbaa50812f1f15d3fe7b2",
@@ -2514,6 +2725,8 @@
     ],
     "age_min": 13,
     "age_max": 20,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2523,7 +2736,8 @@
       "student",
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65f14a72da55878ebe22ffa2",
@@ -2548,6 +2762,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2556,7 +2772,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6603f5c2a8333243438951a5",
@@ -2581,6 +2798,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2589,7 +2808,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "660278c2d7b29251fbf06c77",
@@ -2614,6 +2834,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2622,7 +2844,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65f284a0da55878ebe2499e3",
@@ -2647,6 +2870,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2655,7 +2880,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "khet_talai"
   },
   {
     "scheme_id": "65f2b266938a0b13ccb77649",
@@ -2680,6 +2906,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2691,7 +2919,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "681c5236689952af098408f7",
@@ -2712,10 +2941,12 @@
       "all"
     ],
     "residence": [
-      "rural"
+      "all"
     ],
     "age_min": 0,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2726,7 +2957,8 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "68dbaf00507c812f4f301ea4",
@@ -2749,8 +2981,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2759,11 +2993,9 @@
       "loan",
       "healthcare"
     ],
-    "occupation_target_group": [
-      "farmer",
-      "labourer"
-    ],
-    "education_level": null
+    "occupation_target_group": [],
+    "education_level": null,
+    "canonical_group": "health_insurance"
   },
   {
     "scheme_id": "682c2ffefa43f37664fb1760",
@@ -2789,13 +3021,16 @@
     ],
     "age_min": 6,
     "age_max": 12,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "in-kind",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6490851c380f8e12354011b9",
@@ -2818,8 +3053,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2829,7 +3066,8 @@
       "healthcare"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "health_insurance"
   },
   {
     "scheme_id": "680f9d6d096abd5b8bc432f7",
@@ -2856,6 +3094,8 @@
     ],
     "age_min": 15,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2865,7 +3105,8 @@
       "student",
       "woman"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "680f683e197a2fd77e4f5d4b",
@@ -2891,6 +3132,8 @@
     ],
     "age_min": 15,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2901,7 +3144,8 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6811d56082a8f87190f055a1",
@@ -2928,6 +3172,8 @@
     ],
     "age_min": 21,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2939,12 +3185,13 @@
       "woman",
       "entrepreneur"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "660ebfe7d7abbe47ee1e5d8e",
     "slug": "mjpmsky",
-    "scheme_name": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana ",
+    "scheme_name": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana",
     "level": "State/ UT",
     "category": [
       "Agriculture,Rural & Environment"
@@ -2964,6 +3211,8 @@
     ],
     "age_min": 15,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -2973,7 +3222,8 @@
       "farmer",
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "641bf698b1f2fd9fac0f1694",
@@ -3000,6 +3250,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3008,7 +3260,8 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6809e8ee41f9fb65ecb30eb1",
@@ -3033,6 +3286,8 @@
     ],
     "age_min": 12,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3041,7 +3296,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "67c07bc70589a41767653e89",
@@ -3070,6 +3326,8 @@
     ],
     "age_min": 16,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 500000,
     "individual_income_ceiling": 500000,
     "parent_income_ceiling": 500000,
@@ -3080,7 +3338,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "67c957ba1dc65aa2df4033a4",
@@ -3105,6 +3364,8 @@
     ],
     "age_min": 18,
     "age_max": 55,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3116,7 +3377,8 @@
       "differently_abled",
       "entrepreneur"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65e59907da55878ebe1087c6",
@@ -3139,8 +3401,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3151,7 +3415,8 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65f961bfe06bfd7340436687",
@@ -3176,6 +3441,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3187,12 +3454,13 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65e1ae46938a0b13cc9d841f",
     "slug": "msveay",
-    "scheme_name": "Mukyamantri Samuhik Vivah Evam Anudan Yojna ",
+    "scheme_name": "Mukyamantri Samuhik Vivah Evam Anudan Yojna",
     "level": "State/ UT",
     "category": [
       "Women and Child"
@@ -3212,6 +3480,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": 18,
+    "age_min_male": 21,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3219,10 +3489,9 @@
     "benefit_type_fine": [
       "subsidy"
     ],
-    "occupation_target_group": [
-      "woman"
-    ],
-    "education_level": null
+    "occupation_target_group": [],
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67bc80da3f0a68c9ea3b1d44",
@@ -3249,6 +3518,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3257,10 +3528,10 @@
       "training"
     ],
     "occupation_target_group": [
-      "widow",
-      "woman"
+      "voluntary_organisation"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67cd8bcb4f0bd5e698d5c22d",
@@ -3285,6 +3556,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3293,7 +3566,8 @@
     "occupation_target_group": [
       "differently_abled"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65df6083da55878ebe07fa24",
@@ -3318,6 +3592,8 @@
     ],
     "age_min": 55,
     "age_max": 100,
+    "age_min_female": 55,
+    "age_min_male": 58,
     "family_income_ceiling": 48000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3328,7 +3604,8 @@
     "occupation_target_group": [
       "senior_citizen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "old_age_pension"
   },
   {
     "scheme_id": "65e00658da55878ebe088540",
@@ -3351,8 +3628,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 60000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3361,10 +3640,10 @@
       "pension"
     ],
     "occupation_target_group": [
-      "differently_abled",
-      "senior_citizen"
+      "differently_abled"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "disability_pension"
   },
   {
     "scheme_id": "65e5ecca938a0b13cca39636",
@@ -3389,6 +3668,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3397,7 +3678,8 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65fd667c49ec99f637977427",
@@ -3422,6 +3704,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3430,7 +3714,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "64216226eb5671c0e45ac74c",
@@ -3455,6 +3740,8 @@
     ],
     "age_min": 16,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3463,7 +3750,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "64264af255128caeb7320975",
@@ -3488,6 +3776,8 @@
     ],
     "age_min": 5,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3496,7 +3786,8 @@
     "occupation_target_group": [
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65d6ccb7cd96dc5e075ca7e7",
@@ -3521,6 +3812,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3531,7 +3824,8 @@
     "occupation_target_group": [
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65dc4558938a0b13cc9563e8",
@@ -3556,6 +3850,8 @@
     ],
     "age_min": 18,
     "age_max": 40,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3564,12 +3860,13 @@
     "occupation_target_group": [
       "labourer"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "65d457d2cd96dc5e075a1f54",
     "slug": "nsjbsy",
-    "scheme_name": " Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
+    "scheme_name": "Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
     "level": "State/ UT",
     "category": [
       "Health & Wellness"
@@ -3589,6 +3886,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3599,10 +3898,10 @@
       "healthcare"
     ],
     "occupation_target_group": [
-      "senior_citizen",
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65dc5d68cd96dc5e07657c2e",
@@ -3627,6 +3926,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3638,7 +3939,8 @@
       "labourer",
       "entrepreneur"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65d834d5938a0b13cc8eaf82",
@@ -3663,6 +3965,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3671,7 +3975,8 @@
     "occupation_target_group": [
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65d59a0fcd96dc5e075b55d0",
@@ -3696,6 +4001,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3708,7 +4015,8 @@
       "student",
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "682c5cb26e3fd3b163f40d55",
@@ -3735,6 +4043,8 @@
     ],
     "age_min": 5,
     "age_max": 25,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3743,7 +4053,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "682a2a9d6e3fd3b163f1f865",
@@ -3769,6 +4080,8 @@
     ],
     "age_min": 9,
     "age_max": 21,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3779,7 +4092,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "6820ef3121aa532bf675913d",
@@ -3804,13 +4118,16 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65fbb71947c0daa74e38d2da",
@@ -3835,6 +4152,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3843,7 +4162,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67bf3177f4981008fe917e35",
@@ -3871,6 +4191,8 @@
     ],
     "age_min": 13,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3883,7 +4205,8 @@
       "student",
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "64953573380f8e1235425edb",
@@ -3908,13 +4231,16 @@
     ],
     "age_min": 0,
     "age_max": 18,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": 120000,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "palanhar"
   },
   {
     "scheme_id": "6763c134f41779c1f974a5ea",
@@ -3939,13 +4265,16 @@
     ],
     "age_min": 18,
     "age_max": 65,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65d6ef77938a0b13cc8ce874",
@@ -3970,6 +4299,8 @@
     ],
     "age_min": 20,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -3979,7 +4310,8 @@
       "woman",
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65fab3ef47c0daa74e378775",
@@ -4004,6 +4336,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4014,7 +4348,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6417f8cae88cf6dc84ef7194",
@@ -4037,15 +4372,18 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "641d9453ed6317c1931b1134",
@@ -4068,8 +4406,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 250000,
     "individual_income_ceiling": 250000,
     "parent_income_ceiling": 250000,
@@ -4078,7 +4418,8 @@
       "healthcare"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "682a0a106e3fd3b163f1dd4d",
@@ -4103,6 +4444,8 @@
     ],
     "age_min": 17,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4111,7 +4454,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "6603cb6aa8333243438904b5",
@@ -4136,6 +4480,8 @@
     ],
     "age_min": 14,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4145,7 +4491,8 @@
       "farmer",
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "648b4b3f481f59106a6991c5",
@@ -4168,8 +4515,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4180,7 +4529,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "65eab9a1da55878ebe1759a8",
@@ -4205,13 +4555,16 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "in-kind",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67ffd860186a623fddce25b0",
@@ -4236,6 +4589,8 @@
     ],
     "age_min": 13,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4246,7 +4601,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "6817a719cf124d5d192b31be",
@@ -4271,6 +4627,8 @@
     ],
     "age_min": 60,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4279,7 +4637,8 @@
     "occupation_target_group": [
       "senior_citizen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67ff4e15bd5fb5093616babf",
@@ -4304,6 +4663,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4313,7 +4674,8 @@
       "subsidy"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67faa287ca4dbdfd53142a02",
@@ -4336,15 +4698,18 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67b6e10fd6a94de2eee3e14a",
@@ -4370,13 +4735,18 @@
     ],
     "age_min": 0,
     "age_max": 18,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
-    "occupation_target_group": [],
-    "education_level": "school"
+    "occupation_target_group": [
+      "differently_abled"
+    ],
+    "education_level": "school",
+    "canonical_group": "palanhar"
   },
   {
     "scheme_id": "65d33347cd96dc5e07591aae",
@@ -4401,6 +4771,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4410,7 +4782,8 @@
       "woman",
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67ef8a204f405f25875e9304",
@@ -4439,6 +4812,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4448,7 +4823,8 @@
       "widow",
       "ex_servicemen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "648f0718380f8e12353fbe46",
@@ -4471,8 +4847,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4483,7 +4861,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "68320f1377025b42c32d3dd7",
@@ -4508,13 +4887,16 @@
     ],
     "age_min": 21,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67cddb824f0bd5e698d60d32",
@@ -4541,13 +4923,18 @@
     ],
     "age_min": 18,
     "age_max": 45,
+    "age_min_female": 18,
+    "age_min_male": 21,
     "family_income_ceiling": 250000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
-    "occupation_target_group": [],
-    "education_level": null
+    "occupation_target_group": [
+      "differently_abled"
+    ],
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "648ae92e481f59106a698336",
@@ -4571,8 +4958,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4581,7 +4970,8 @@
     "occupation_target_group": [
       "woman"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "65f9806647c0daa74e3610b8",
@@ -4606,6 +4996,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4614,7 +5006,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65e16ef6da55878ebe0a7eea",
@@ -4639,6 +5032,8 @@
     ],
     "age_min": 55,
     "age_max": 100,
+    "age_min_female": 55,
+    "age_min_male": 58,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4647,9 +5042,11 @@
       "pension"
     ],
     "occupation_target_group": [
+      "farmer",
       "senior_citizen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": "farmer_old_age_pension"
   },
   {
     "scheme_id": "65d71df7cd96dc5e075d31a7",
@@ -4674,6 +5071,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4685,7 +5084,8 @@
     "occupation_target_group": [
       "labourer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65efec8f938a0b13ccb3682f",
@@ -4710,6 +5110,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4718,7 +5120,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67efa4ff4f405f25875ec44c",
@@ -4744,6 +5147,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4755,7 +5160,8 @@
       "student",
       "ex_servicemen"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67d846da5ba8cb935ddbf303",
@@ -4780,6 +5186,8 @@
     ],
     "age_min": 4,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 200000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4788,9 +5196,11 @@
       "scholarship"
     ],
     "occupation_target_group": [
-      "student"
+      "student",
+      "differently_abled"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "648f618d380f8e12353fd21a",
@@ -4813,8 +5223,10 @@
     "residence": [
       "all"
     ],
-    "age_min": 1,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4825,7 +5237,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "67fe0191e2f1560de65eb966",
@@ -4850,6 +5263,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4858,7 +5273,8 @@
       "loan"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67af84c364e707b6d5818e3e",
@@ -4881,15 +5297,18 @@
     "residence": [
       "all"
     ],
-    "age_min": 0,
-    "age_max": 100,
+    "age_min": null,
+    "age_max": null,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "in-kind",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67bdd3f26247a62366d28bbc",
@@ -4914,6 +5333,8 @@
     ],
     "age_min": 17,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 800000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -4922,7 +5343,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "67bafca40117797439f1ffa0",
@@ -4947,6 +5369,8 @@
     ],
     "age_min": 9,
     "age_max": 40,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": 800000,
     "parent_income_ceiling": null,
@@ -4955,7 +5379,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67b8594cd6a94de2eee5a7dd",
@@ -4981,6 +5406,8 @@
     ],
     "age_min": 21,
     "age_max": 50,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": 800000,
     "parent_income_ceiling": null,
@@ -4991,7 +5418,8 @@
     "occupation_target_group": [
       "entrepreneur"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67b8912dd6a94de2eee5f583",
@@ -5016,6 +5444,8 @@
     ],
     "age_min": 18,
     "age_max": 60,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": 800000,
     "parent_income_ceiling": null,
@@ -5024,7 +5454,8 @@
       "training"
     ],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67bd76346247a62366d2007b",
@@ -5049,6 +5480,8 @@
     ],
     "age_min": 14,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 800000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5059,7 +5492,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67bd67763f0a68c9ea3c022e",
@@ -5084,6 +5518,8 @@
     ],
     "age_min": 4,
     "age_max": 16,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": 800000,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5094,7 +5530,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "school"
+    "education_level": "school",
+    "canonical_group": null
   },
   {
     "scheme_id": "67f1512a47fce4bdae1f3dfa",
@@ -5120,6 +5557,8 @@
     ],
     "age_min": 15,
     "age_max": 45,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5131,7 +5570,8 @@
       "student",
       "woman"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "65fbdf9b47c0daa74e391bb6",
@@ -5156,6 +5596,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5164,7 +5606,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6763f1cbf41779c1f975ad92",
@@ -5189,13 +5632,16 @@
     ],
     "age_min": 18,
     "age_max": 65,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "65e0b218da55878ebe09bd2c",
@@ -5220,6 +5666,8 @@
     ],
     "age_min": 18,
     "age_max": 50,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5229,7 +5677,8 @@
       "widow",
       "woman"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "64b5f6d6b594314dec7ef220",
@@ -5257,6 +5706,8 @@
     ],
     "age_min": 18,
     "age_max": 40,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5267,7 +5718,8 @@
       "widow",
       "woman"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "6602e867858d639361013f02",
@@ -5292,6 +5744,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5302,7 +5756,8 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "67ef93a75a4889e1887ab46f",
@@ -5328,6 +5783,8 @@
     ],
     "age_min": 18,
     "age_max": 100,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5336,11 +5793,11 @@
       "pension"
     ],
     "occupation_target_group": [
-      "widow",
-      "senior_citizen",
-      "ex_servicemen"
+      "ex_servicemen",
+      "widow"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   },
   {
     "scheme_id": "6480348a380f8e12353d3419",
@@ -5365,6 +5822,8 @@
     ],
     "age_min": 21,
     "age_max": 30,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5375,7 +5834,8 @@
     "occupation_target_group": [
       "student"
     ],
-    "education_level": "higher_education"
+    "education_level": "higher_education",
+    "canonical_group": null
   },
   {
     "scheme_id": "649566df380f8e123542a437",
@@ -5400,6 +5860,8 @@
     ],
     "age_min": 18,
     "age_max": 35,
+    "age_min_female": null,
+    "age_min_male": null,
     "family_income_ceiling": null,
     "individual_income_ceiling": null,
     "parent_income_ceiling": null,
@@ -5410,6 +5872,7 @@
     "occupation_target_group": [
       "farmer"
     ],
-    "education_level": null
+    "education_level": null,
+    "canonical_group": null
   }
 ]

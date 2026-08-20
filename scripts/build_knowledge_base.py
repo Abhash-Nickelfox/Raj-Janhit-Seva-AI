@@ -26,6 +26,7 @@ consistent with the fail-open filter design in PLAN.md SS3.
 import json
 import re
 import shutil
+import sys
 from pathlib import Path
 
 from langchain_core.documents import Document
@@ -33,12 +34,17 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 
-DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-CHROMA_DIR = DATA_DIR / "chromadb"
-EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-LONG_FIELD_CHARS = 1400  # secondary-split threshold (SS2: ~300-400 tokens)
-SPLIT_OVERLAP_CHARS = 200  # ~15%
+from app.rag_service import CHROMA_DIR, DATA_DIR, EMBEDDING_MODEL  # noqa: E402  (single source of truth)
+
+# paraphrase-multilingual-MiniLM-L12-v2 has a 128-token input window -
+# anything past it is silently truncated, so a 1400-char chunk (~350
+# English tokens, more for Devanagari) only ever got its first third
+# embedded. ~450 chars (name prefix included) stays inside the window for
+# English and most Hindi text.
+LONG_FIELD_CHARS = 450
+SPLIT_OVERLAP_CHARS = 70  # ~15%
 
 FIELD_LABELS = {
     "description": "Description",
@@ -103,6 +109,8 @@ def eligibility_metadata(elig):
     for key in (
         "age_min",
         "age_max",
+        "age_min_female",
+        "age_min_male",
         "family_income_ceiling",
         "individual_income_ceiling",
         "parent_income_ceiling",
@@ -119,11 +127,12 @@ def base_metadata(raw, elig):
     meta = {
         "scheme_id": raw["scheme_id"],
         "slug": raw["slug"],
-        "scheme_name": basic.get("schemeName") or raw["slug"],
+        "scheme_name": (basic.get("schemeName") or "").strip() or raw["slug"],
         # kept alongside the (always-English) scheme_name so fuzzy scheme-
         # NAME matching (app/rag_service.py) can match a Devanagari-script
         # query too, not just Hinglish/English ones.
-        "scheme_name_hi": basic_hi.get("schemeName") or "",
+        "scheme_name_hi": (basic_hi.get("schemeName") or "").strip(),
+        "canonical_group": elig.get("canonical_group") or "",
         "category": _join(elig.get("category")),
         "department": elig.get("department") or "",
         "level": elig.get("level") or "",
@@ -136,7 +145,7 @@ def discovery_card_text(raw, elig, lang):
     lang_block = raw.get(lang, {})
     basic = lang_block.get("basicDetails", {})
     content = lang_block.get("schemeContent", {})
-    scheme_name = basic.get("schemeName") or raw["slug"]
+    scheme_name = (basic.get("schemeName") or "").strip() or raw["slug"]
     group = ", ".join(elig.get("occupation_target_group") or []) or "General public"
     benefit = ", ".join(elig.get("benefit_type_fine") or []) or (elig.get("benefit_type_coarse") or "")
     category = ", ".join(elig.get("category") or [])
@@ -175,7 +184,7 @@ def _field_texts(raw, lang):
 
 
 def build_field_chunks(raw, elig, lang):
-    scheme_name = raw.get(lang, {}).get("basicDetails", {}).get("schemeName") or raw["slug"]
+    scheme_name = (raw.get(lang, {}).get("basicDetails", {}).get("schemeName") or "").strip() or raw["slug"]
     meta = base_metadata(raw, elig)
     meta["lang"] = lang
 
