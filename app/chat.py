@@ -24,12 +24,17 @@ from langgraph.checkpoint.memory import MemorySaver
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
 
+import logging
+
+from app import config as _config
 from app.config import OPENROUTER_API_KEY, OPENROUTER_MODEL
 from app.state import ConvState
 from app.rag_service import RagService, CitizenContext, OCCUPATION_KEYWORDS, eligibility_verdict
 from app.job_service import JobService
 from app import pii_utils
 from app.janaadhaar_service import get_janaadhaar_service
+
+logger = logging.getLogger(__name__)
 
 KNOWN_CATEGORIES = [
     "Education & Learning",
@@ -67,6 +72,10 @@ FIELD_TYPES_BY_INTENT = {
 # more schemes survive the eligibility filter, asking one narrowing
 # question beats guessing among that many plausible options.
 CLARIFY_THRESHOLD = 6
+# One shared budget for EVERY questioning node (clarify, clarify_identity,
+# clarify_jobs, generate's own clarifying questions) - previously two
+# unreconciled counters let a single need absorb ~5 questions (2026-08-20).
+MAX_QUESTION_ROUNDS = 2
 
 # Every scalar identity/eligibility dimension eligibility_verdict already
 # checks - not a hand-picked subset added one bug at a time. Deliberately
@@ -122,12 +131,13 @@ MAX_CONVERSATION_NOTES = 30
 DEVANAGARI_RE = re.compile(r"[ऀ-ॿ]")
 
 
-def _merge_notes(existing, new):
+def _merge_notes(existing, new, superseded=None):
     """Append new free-form notes onto the durable conversation_notes list -
     deduped case-insensitively, oldest dropped first past the cap. Shared by
     both capture channels (extract_profile_node's new_notes and
     extract_need_node's stated_facts) so they feed one list identically."""
-    notes = list(existing or [])
+    drop = {n.strip().lower() for n in (superseded or []) if n and n.strip()}
+    notes = [n for n in (existing or []) if n.strip().lower() not in drop]
     seen = {n.strip().lower() for n in notes}
     for note in new or []:
         cleaned = note.strip()
@@ -195,7 +205,7 @@ def _identity_gap(scheme_meta, facts, need_text=""):
         # as a fallback for the common single-turn case (the very first
         # message already implies the occupation before profile extraction
         # has even run yet).
-        known_groups = set(facts.get("occupation_groups") or [])
+        known_groups = set(facts.get("occupation_groups") or []) | _implied_groups(facts)
         need_lower = (need_text or "").lower()
         unconfirmed_groups = [
             group for group in occ_groups
@@ -205,6 +215,28 @@ def _identity_gap(scheme_meta, facts, need_text=""):
         if unconfirmed_groups:
             gaps.append(("occupation_target_group", "|".join(unconfirmed_groups)))
     return gaps
+
+
+def _implied_groups(facts):
+    """Occupation/target groups already implied by scalar profile facts, so
+    the bot never asks 'kya aap vidhwa hain?' of someone whose
+    marital_status=widowed is already known (2026-08-20 - previously only
+    facts['occupation_groups'] was consulted)."""
+    implied = set()
+    if not facts:
+        return implied
+    if facts.get("gender") == "female":
+        implied.add("woman")
+    if facts.get("marital_status") == "widowed":
+        implied.update({"widow", "woman"})
+    age = _parse_int(facts.get("age"))
+    if age is not None and age >= 58:
+        implied.add("senior_citizen")
+    if facts.get("disability") == "yes":
+        implied.add("differently_abled")
+    if facts.get("education_level") in ("school", "higher_education"):
+        implied.add("student")
+    return implied
 
 
 def _first_identity_gap(shortlist, facts, need_text, top_n=IDENTITY_GAP_CHECK_TOP_N):
@@ -257,6 +289,10 @@ def _prioritize_gap_free(shortlist, facts, need_text, limit):
     return (gap_free + gapped)[:limit]
 
 
+def _question_rounds(state):
+    return int(state.get("question_rounds") or 0)
+
+
 def _subject_facts_for_need(need, profile):
     """Whose facts should filter/gate THIS need: the citizen's own persistent
     profile, or the family member's facts stated for this specific need?
@@ -274,6 +310,234 @@ _llm = None
 _reply_llm = None
 _rag_service = None
 _job_service = None
+
+
+def _require_key():
+    fn = getattr(_config, "require_openrouter_key", None)
+    if fn is not None:
+        fn()
+    elif not OPENROUTER_API_KEY:
+        raise RuntimeError("OPENROUTER_API_KEY not set. Copy .env.example to .env and fill in your key.")
+
+
+# ---------------------------------------------------------------------------
+# Structured-output robustness (2026-08-20)
+# ---------------------------------------------------------------------------
+# Before this, every with_structured_output() call used strict Literal/int
+# fields and no exception handling anywhere in the graph. One off-enum token
+# from the model (e.g. job_qualification="BCA" when the Literal only allowed
+# four values, or family_income="5 lakh") raised a Pydantic ValidationError,
+# main.py swallowed it into a canned "takniki dikkat" reply, and because the
+# turn never committed, the citizen hit the identical failure on every
+# retry. Now: enum-ish fields are plain Optional[str] snapped to the known
+# set in code, numeric fields are parsed leniently, and every structured
+# call goes through _invoke_structured() - one retry, then a caller-supplied
+# fallback - so a bad token degrades one field instead of killing the turn.
+
+def _invoke_structured(llm, model_cls, messages, fallback=None, label=""):
+    last_err = None
+    for attempt in range(2):
+        try:
+            return llm.with_structured_output(model_cls, method="function_calling").invoke(messages)
+        except Exception as e:  # ValidationError, OutputParserException, transport errors
+            last_err = e
+            logger.warning("structured call %s failed (attempt %d): %s: %s", label or model_cls.__name__, attempt + 1, type(e).__name__, str(e)[:500])
+    logger.error("structured call %s failed twice - using fallback", label or model_cls.__name__, exc_info=last_err)
+    return fallback() if callable(fallback) else fallback
+
+
+_INT_WORDS = {"lakh": 100000, "lac": 100000, "lac.": 100000, "लाख": 100000, "hazaar": 1000, "hazar": 1000, "हज़ार": 1000, "हजार": 1000, "thousand": 1000, "k": 1000, "crore": 10000000, "करोड़": 10000000}
+
+
+def _parse_int(value):
+    """Lenient int parse for LLM output: 30, "30", "30 saal", "5 lakh", "2,50,000", "Rs 48000/-"."""
+    if value is None:
+        return None
+    if isinstance(value, bool):
+        return None
+    if isinstance(value, (int, float)):
+        return int(value)
+    text = str(value).strip().lower().replace(",", "")
+    m = re.search(r"(\d+(?:\.\d+)?)", text)
+    if not m:
+        return None
+    num = float(m.group(1))
+    tail = text[m.end():].strip()
+    for word, mult in _INT_WORDS.items():
+        if tail.startswith(word):
+            num *= mult
+            break
+    return int(num)
+
+
+def _snap(value, allowed, default=None):
+    """Snap a free-text LLM label to one of `allowed` (case/space/underscore-insensitive, substring-tolerant)."""
+    if value is None:
+        return default
+    if isinstance(value, bool):
+        value = "yes" if value else "no"
+    v = re.sub(r"[\s_\-]+", "", str(value)).lower()
+    if not v:
+        return default
+    norm = {re.sub(r"[\s_\-]+", "", a).lower(): a for a in allowed}
+    if v in norm:
+        return norm[v]
+    for k, a in norm.items():
+        if v in k or k in v:
+            return a
+    return default
+
+
+_YESNO_TRUE = ("yes", "true", "haan", "ha", "han", "हाँ", "हां", "y")
+_YESNO_FALSE = ("no", "false", "nahi", "nahin", "नहीं", "n")
+
+
+def _snap_yesno(value):
+    if value is None:
+        return None
+    if isinstance(value, bool):
+        return "yes" if value else "no"
+    v = str(value).strip().lower()
+    if v in _YESNO_TRUE:
+        return "yes"
+    if v in _YESNO_FALSE:
+        return "no"
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Deterministic language detection + reply guard (2026-08-20)
+# ---------------------------------------------------------------------------
+# Reply language used to be purely the LLM's per-turn guess, with the
+# frontend's language picker removed - so typo-heavy English ("Give me
+# scheme related rajastha") came back 'hinglish' on turn 1 and a
+# Hinglish-saturated PERSONA at temperature 0.6 drifted replies further.
+# The heuristics below are the deterministic backbone: Devanagari always
+# means 'hindi'; zero Hinglish function words across 3+ Roman words means
+# 'english'; very short / ambiguous messages keep the previous turn's
+# language instead of flip-flopping. The LLM's classification only breaks
+# the genuinely ambiguous middle. _reply_language_mismatch() then checks
+# the generated reply's script/vocabulary and triggers one rewrite.
+# Deliberately excludes tokens that are also ordinary English words
+# (me, to, do, the, main, par...) - they made plain English look Hinglish.
+_HINGLISH_WORDS = {
+    "hai", "hain", "hu", "hun", "hoon", "tha", "thi", "mujhe", "mera", "meri", "mere", "mai",
+    "hum", "humko", "hume", "hamare", "aap", "aapka", "aapki", "aapke", "tum", "tera", "teri", "kya", "kyu", "kyun",
+    "kaise", "kaha", "kahan", "kab", "kitna", "kitni", "kitne", "kaun", "kaunsi", "kaunsa", "konsi", "konsa",
+    "nahi", "nahin", "nhi", "haan", "han", "ji", "chahiye", "chaiye", "chahta", "chahti", "karna", "karni",
+    "karo", "kar", "karta", "karti", "kare", "karke", "raha", "rahi", "rahe", "rha", "rhi", "hota", "hoti", "hoga",
+    "hogi", "ke", "ko", "mein", "pe", "liye", "liya", "wala", "wali", "wale",
+    "aur", "bhi", "toh", "ye", "yeh", "wo", "woh", "koi", "kuch", "sab", "abhi", "bahut", "bohot",
+    "thoda", "batao", "bataiye", "bata", "batana", "dijiye", "dena", "milega", "milegi", "mil", "milta",
+    "milti", "sakta", "sakti", "sakte", "paisa", "paise", "saal", "umar", "umr", "beta", "beti", "bhai", "behen",
+    "maa", "pita", "pitaji", "papa", "ghar", "gaon", "gaav", "kheti", "kisan", "naukri", "sarkari", "yojana",
+    "apna", "apni", "apne", "iske", "iska", "iski", "uske", "uska", "jo", "agar", "lekin", "phir", "fir", "abhi",
+    "kripya", "dhanyavad", "shukriya", "theek", "thik", "accha", "acha", "haa", "mujhko", "humein", "kijiye",
+    "btao", "chahie", "krna", "krte", "rkha", "rakha", "hua", "hui", "gaya", "gayi", "diya", "dia",
+}
+_GURMUKHI_OR_OTHER_INDIC_RE = re.compile(r"[\u0A00-\u0A7F\u0980-\u09FF\u0A80-\u0AFF\u0B00-\u0B7F\u0C00-\u0CFF\u0D00-\u0D7F]")
+
+
+def _roman_words(text):
+    return [w for w in re.findall(r"[a-zA-Z']+", text or "")]
+
+
+def _hinglish_ratio(text):
+    words = [w.lower() for w in _roman_words(text)]
+    if not words:
+        return 0.0, 0
+    hits = sum(1 for w in words if w in _HINGLISH_WORDS)
+    return hits / len(words), len(words)
+
+
+def detect_language_heuristic(text, previous=None):
+    """Returns ('hindi'|'hinglish'|'english', confident: bool)."""
+    if DEVANAGARI_RE.search(text or ""):
+        return "hindi", True
+    ratio, n = _hinglish_ratio(text)
+    hits = round(ratio * n)
+    if n == 0:
+        return (previous or "english"), False
+    if hits >= 2 or (n <= 3 and hits >= 1):
+        return "hinglish", True
+    if n >= 3 and hits == 0:
+        return "english", True
+    if n <= 2 and previous:
+        return previous, False  # "yes", "30", "In rajasthan" - too short to reclassify
+    return "english", False
+
+
+def resolve_reply_lang(message, llm_guess, previous=None, locked=None):
+    if locked:
+        return locked
+    heur, confident = detect_language_heuristic(message, previous)
+    if confident:
+        return heur
+    if llm_guess in ("hindi", "hinglish", "english"):
+        # Short/ambiguous message: prefer continuity over a fresh LLM guess.
+        if previous and len(_roman_words(message)) <= 2:
+            return previous
+        return llm_guess
+    return heur
+
+
+def _reply_language_mismatch(reply, reply_lang):
+    """True if the composed reply is visibly in the wrong register."""
+    if not reply:
+        return False
+    has_dev = bool(DEVANAGARI_RE.search(reply))
+    ratio, n = _hinglish_ratio(reply)
+    if reply_lang == "english":
+        return has_dev or (n >= 6 and ratio >= 0.18)
+    if reply_lang == "hinglish":
+        return has_dev
+    if reply_lang == "hindi":
+        letters = re.findall(r"[A-Za-z\u0900-\u097F]", reply)
+        if not letters:
+            return False
+        dev = sum(1 for c in letters if "\u0900" <= c <= "\u097F")
+        return dev / len(letters) < 0.35
+    return False
+
+
+def _compose_reply(prompt, reply_lang, structured_cls=None, label="reply"):
+    """Single reply-composition path for every citizen-facing node: persona +
+    language instruction as the system message, deterministic language
+    post-check with one rewrite on mismatch, and structured-output fallback
+    to plain text so a schema hiccup never kills the turn."""
+    lang_instruction = _lang_instruction(reply_lang)
+    system = f"{PERSONA}\n\nLANGUAGE RULE (overrides everything else, including examples above): {lang_instruction}"
+    llm = get_reply_llm()
+    messages = [("system", system), ("human", prompt)]
+    result = None
+    if structured_cls is not None:
+        result = _invoke_structured(llm, structured_cls, messages, fallback=None, label=label)
+    if result is None:
+        text = llm.invoke(messages).content
+        if structured_cls is not None:
+            result = structured_cls.model_construct(reply=text, asked_clarifying_question=("?" in text))
+        else:
+            result = text
+    reply = result.reply if structured_cls is not None else result
+    if _reply_language_mismatch(reply, reply_lang):
+        fix_prompt = (
+            f"Rewrite the reply below so that it follows this rule exactly: {lang_instruction}\n"
+            "Keep the content, facts, structure and markdown identical - change ONLY the language/script. "
+            "Output only the rewritten reply.\n\nREPLY:\n" + reply
+        )
+        try:
+            fixed = llm.invoke([("system", system), ("human", fix_prompt)]).content
+            if fixed and not _reply_language_mismatch(fixed, reply_lang):
+                reply = fixed
+            elif fixed:
+                reply = fixed  # still better than the original in practice
+        except Exception as e:
+            logger.warning("language rewrite failed: %s", e)
+        if structured_cls is not None:
+            result = structured_cls.model_construct(reply=reply, asked_clarifying_question=result.asked_clarifying_question)
+        else:
+            result = reply
+    return result
 
 
 def get_llm():
@@ -294,6 +558,7 @@ def get_llm():
     structured-output call in the app."""
     global _llm
     if _llm is None:
+        _require_key()
         _llm = ChatOpenAI(
             model=OPENROUTER_MODEL,
             api_key=OPENROUTER_API_KEY,
@@ -314,6 +579,7 @@ def get_reply_llm():
     actually matters."""
     global _reply_llm
     if _reply_llm is None:
+        _require_key()
         _reply_llm = ChatOpenAI(
             model=OPENROUTER_MODEL,
             api_key=OPENROUTER_API_KEY,
@@ -505,8 +771,8 @@ class NeedItem(BaseModel):
     its own search + its own eligibility facts rather than being merged or
     silently dropped."""
 
-    need_text: str = Field(
-        ...,
+    need_text: Optional[str] = Field(
+        None,
         description=(
             "A SHORT (3-6 word) phrase capturing ONLY the core purpose/need - e.g. 'start a "
             "business', 'scholarship for SC student'. Do NOT include place names, institution "
@@ -545,8 +811,8 @@ class NeedItem(BaseModel):
             "follow-up, do not guess."
         ),
     )
-    domain: Literal["scheme", "job", "citizen_status"] = Field(
-        ...,
+    domain: Optional[str] = Field(
+        None,
         description=(
             "'job' if this need is about a GOVERNMENT JOB VACANCY/RECRUITMENT - looking for a "
             "sarkari naukri, bharti, vacancy, a specific post (Patwari, LDC, Police Constable, "
@@ -571,7 +837,7 @@ class NeedItem(BaseModel):
             "'Jaipur', 'Jodhpur'). null otherwise."
         ),
     )
-    job_qualification: Optional[Literal["12th Pass", "Diploma", "Graduate", "Post Graduate"]] = Field(
+    job_qualification: Optional[str] = Field(
         None,
         description=(
             "ONLY if domain='job' and the citizen explicitly stated THEIR OWN educational/technical "
@@ -584,7 +850,7 @@ class NeedItem(BaseModel):
             "stated - do not guess this from their phrasing or tone."
         ),
     )
-    job_min_salary: Optional[int] = Field(
+    job_min_salary: Optional[str] = Field(
         None,
         description=(
             "ONLY if domain='job' and the citizen explicitly stated a minimum/expected salary "
@@ -594,8 +860,8 @@ class NeedItem(BaseModel):
             "200000). null if no figure was stated."
         ),
     )
-    about: Literal["self", "family_member"] = Field(
-        ...,
+    about: Optional[str] = Field(
+        None,
         description=(
             "'family_member' ONLY if this specific need is explicitly stated as being for someone "
             "else the citizen is asking on behalf of (son/daughter/spouse/parent/sibling) - e.g. "
@@ -615,7 +881,7 @@ class NeedItem(BaseModel):
         None,
         description="ONLY if about='family_member' AND their gender was explicitly stated for THIS need. null otherwise.",
     )
-    subject_education_level: Optional[EducationLevel] = Field(
+    subject_education_level: Optional[str] = Field(
         None,
         description=(
             "ONLY if about='family_member': 'school' if they're CURRENTLY STUDYING IN (not yet passed) "
@@ -626,7 +892,7 @@ class NeedItem(BaseModel):
             "null if not stated or about='self'."
         ),
     )
-    subject_disability: Optional[YesNo] = Field(
+    subject_disability: Optional[str] = Field(
         None,
         description=(
             "ONLY if about='family_member': 'yes' if THEY were explicitly stated to have a "
@@ -635,7 +901,7 @@ class NeedItem(BaseModel):
             "above). null if not stated or about='self'."
         ),
     )
-    subject_age: Optional[int] = Field(
+    subject_age: Optional[str] = Field(
         None,
         description="ONLY if about='family_member' AND their age was explicitly stated for THIS need. null otherwise.",
     )
@@ -646,7 +912,7 @@ class NeedItem(BaseModel):
             "only if explicitly stated about THEM specifically. null if not stated or about='self'."
         ),
     )
-    subject_family_income: Optional[int] = Field(
+    subject_family_income: Optional[str] = Field(
         None,
         description=(
             "ONLY if about='family_member' AND an income figure specific to them (not the general "
@@ -665,7 +931,7 @@ class NeedItem(BaseModel):
             "shared household fact already on the citizen's own profile."
         ),
     )
-    subject_residence: Optional[RuralUrban] = Field(
+    subject_residence: Optional[str] = Field(
         None,
         description="ONLY if about='family_member' and subject_residence_evidence above is also filled in with the literal supporting words. null otherwise.",
     )
@@ -727,8 +993,8 @@ class ProfileExtraction(BaseModel):
         ),
     )
     marital_status: Optional[str] = Field(None, description="married, never-married, widowed, divorced, separated - only if the citizen just stated their OWN marital status, never inferred from mentioning a spouse or child")
-    age: Optional[int] = Field(None, description="the citizen's own age - only if just stated")
-    family_income: Optional[int] = Field(None, description="annual family income in rupees - only if just stated")
+    age: Optional[str] = Field(None, description="the citizen's own age as a number - only if just stated")
+    family_income: Optional[str] = Field(None, description="annual family income in rupees as a number - only if just stated")
     residence_evidence: Optional[str] = Field(
         None,
         description=(
@@ -743,7 +1009,7 @@ class ProfileExtraction(BaseModel):
             "occupation, or other detail is present elsewhere in the message."
         ),
     )
-    residence: Optional[RuralUrban] = Field(
+    residence: Optional[str] = Field(
         None,
         description=(
             "MUST be exactly 'rural' or 'urban' if they described where THEY live in those terms - "
@@ -753,7 +1019,7 @@ class ProfileExtraction(BaseModel):
             "Only set this if residence_evidence above is also filled in with the literal supporting words."
         ),
     )
-    education_level: Optional[EducationLevel] = Field(
+    education_level: Optional[str] = Field(
         None,
         description=(
             "The CITIZEN's own education level - 'school' if they said THEY are CURRENTLY STUDYING IN "
@@ -769,7 +1035,7 @@ class ProfileExtraction(BaseModel):
             "Only if just stated this message."
         ),
     )
-    disability: Optional[YesNo] = Field(
+    disability: Optional[str] = Field(
         None,
         description=(
             "'yes' ONLY if the citizen explicitly stated THEY THEMSELVES have a disability "
@@ -792,6 +1058,14 @@ class ProfileExtraction(BaseModel):
             "more than one (e.g. a farmer who also runs a business) - include every one THIS message "
             "states, not just one. Empty list if nothing new is stated this message - this only ADDS "
             "to what's already known, so previously-confirmed categories never need restating."
+        ),
+    )
+    superseded_notes: list[str] = Field(
+        default_factory=list,
+        description=(
+            "Entries from 'Facts already noted this conversation' that THIS message contradicts or "
+            "updates (e.g. an earlier 'does not have Udyam registration' when they now say they got "
+            "it). Copy each one EXACTLY as listed so it can be removed. Empty list if nothing changed."
         ),
     )
     new_notes: list[str] = Field(
@@ -825,7 +1099,7 @@ class NeedExtraction(BaseModel):
     separate chitchat_node call entirely on chitchat turns."""
 
     needs: list[NeedItem] = Field(
-        ...,
+        default_factory=list,
         description=(
             "One entry per DISTINCT need/topic in the message. Almost always exactly ONE entry - "
             "only produce more than one when the citizen clearly states two or more SEPARATE, "
@@ -834,8 +1108,8 @@ class NeedExtraction(BaseModel):
             "a single need into multiple entries just because it has several details attached to it."
         ),
     )
-    need_is_specific: YesNo = Field(
-        ...,
+    need_is_specific: Optional[str] = Field(
+        None,
         description=(
             "'yes' if the need is specific enough to search for directly - e.g. names a "
             "scheme, a benefit type (pension/scholarship/loan/...), or a clear purpose - "
@@ -844,8 +1118,8 @@ class NeedExtraction(BaseModel):
             "(e.g. 'I need money', 'help chahiye' with no purpose stated)."
         ),
     )
-    intent: Intent = Field(
-        ...,
+    intent: Optional[str] = Field(
+        None,
         description=(
             "What KIND of question this is, which decides which scheme fields get fetched:\n"
             "'how_to_apply' - asks about the APPLICATION PROCESS, even indirectly - not just "
@@ -861,8 +1135,8 @@ class NeedExtraction(BaseModel):
             "'chitchat' - small talk, thanks, greetings - not a scheme question at all."
         ),
     )
-    turn_type: TurnType = Field(
-        ...,
+    turn_type: Optional[str] = Field(
+        None,
         description=(
             "EXACTLY one, mutually exclusive - do not reason about these as separate yes/no "
             "questions, pick the single best-fitting category. Applies IDENTICALLY whether the "
@@ -887,8 +1161,8 @@ class NeedExtraction(BaseModel):
             "describes a new need, which is 'new_need' regardless of how it's phrased."
         ),
     )
-    detected_language: ReplyLanguage = Field(
-        ...,
+    detected_language: Optional[str] = Field(
+        None,
         description=(
             "Which register the CITIZEN'S CURRENT message is actually written in - the reply "
             "must match this exactly, so classify carefully:\n"
@@ -1009,6 +1283,30 @@ def route_after_normalize(state: ConvState):
     return "extract_profile"
 
 
+_CASTE_LONG_FORMS = (
+    ("scheduled tribe", "st"), ("tribal", "st"), ("adivasi", "st"), ("अनुसूचित जनजाति", "st"), ("जनजाति", "st"),
+    ("scheduled caste", "sc"), ("dalit", "sc"), ("अनुसूचित जाति", "sc"),
+    ("other backward", "obc"), ("backward", "obc"), ("पिछड़ा", "obc"),
+    ("economically weaker", "ews"), ("pvtg", "pvtg"), ("particularly vulnerable", "pvtg"),
+    ("general", "general"), ("unreserved", "general"), ("सामान्य", "general"),
+)
+
+
+def _normalize_caste(value):
+    """Exact-match snap for caste - the substring-tolerant _snap mapped
+    'Scheduled Tribe' to 'sc' (review 2026-08-20)."""
+    if not value:
+        return None
+    v = str(value).strip().lower()
+    for long_form, code in _CASTE_LONG_FORMS:
+        if long_form in v:
+            return code
+    for tok in re.findall(r"[a-z]+", v):
+        if tok in ("sc", "st", "obc", "general", "pvtg", "ews", "gen"):
+            return "general" if tok == "gen" else tok
+    return None
+
+
 def extract_profile_node(state: ConvState):
     profile = state.get("profile", {})
     # Recent turns, not just the current message in isolation - found live
@@ -1068,17 +1366,16 @@ def extract_profile_node(state: ConvState):
         "documents, prior applications, assets, job preferences, direct answers to a question "
         "your last reply asked). The same explicitly-stated-only standard applies there too."
     )
-    result = get_llm().with_structured_output(ProfileExtraction, method="function_calling").invoke(prompt)
+    result = _invoke_structured(get_llm(), ProfileExtraction, prompt, fallback=ProfileExtraction, label="profile")
 
-    # Evidence-grounding backstop for `residence` (2026-08-10): two rounds of
-    # prompt-only guardrails failed to stop the model inferring rural/urban
-    # from a place NAME's stereotype (e.g. "Rajasthan" -> rural) when another
-    # fact was also stated - confirmed live, 2/2 reproducing, on both prompt
-    # attempts. Rather than enumerate the words that count as real evidence
-    # (a keyword list that can never keep pace with real phrasing diversity),
-    # require the model to cite its own justification and verify that
-    # citation is real: if there's no evidence, or the "evidence" isn't
-    # actually present in the message, the classification is unfounded.
+    result.residence = _snap(result.residence, ["rural", "urban"])
+    result.education_level = _snap(result.education_level, ["school", "higher_education"])
+    result.disability = _snap_yesno(result.disability)
+    result.age = _parse_int(result.age)
+    result.family_income = _parse_int(result.family_income)
+    result.caste = _normalize_caste(result.caste)
+    result.occupation_groups = [g for g in (_snap(g, list(OCCUPATION_KEYWORDS.keys())) for g in (result.occupation_groups or [])) if g]
+
     evidence = (result.residence_evidence or "").strip().lower()
     if result.residence is not None and (not evidence or evidence not in state["normalized_message"].lower()):
         result.residence = None
@@ -1120,7 +1417,7 @@ def extract_profile_node(state: ConvState):
     # is what lets an out-of-schema fact ("son is in class 10", "no
     # disability certificate") outlive the rolling conversation_history
     # window instead of being re-asked.
-    return {"profile": merged_profile, "conversation_notes": _merge_notes(existing_notes, result.new_notes)}
+    return {"profile": merged_profile, "conversation_notes": _merge_notes(existing_notes, result.new_notes, result.superseded_notes)}
 
 
 def extract_need_node(state: ConvState):
@@ -1200,34 +1497,37 @@ def extract_need_node(state: ConvState):
         "Classify what they want and how clear it is."
     )
 
-    result = get_llm().with_structured_output(NeedExtraction, method="function_calling").invoke(prompt)
+    result = _invoke_structured(get_llm(), NeedExtraction, prompt, fallback=NeedExtraction, label="need")
 
     needs = []
     for item in result.needs:
+        if not (item.need_text or "").strip():
+            continue
         needs.append({
-            "need_text": item.need_text,
+            "need_text": item.need_text.strip(),
             "need_category": _normalize_to_known(item.need_category, KNOWN_CATEGORIES),
             "need_benefit_type": _normalize_to_known(item.need_benefit_type, KNOWN_BENEFIT_TYPES),
-            "domain": item.domain,
+            "domain": _snap(item.domain, ["scheme", "job", "citizen_status"], default="scheme"),
+            "domain_explicit": _snap(item.domain, ["scheme", "job", "citizen_status"]) is not None,
             "job_location": item.job_location,
-            "job_qualification": item.job_qualification,
-            "job_min_salary": item.job_min_salary,
-            "about": item.about,
+            "job_qualification": _normalize_job_qualification(item.job_qualification),
+            "job_min_salary": _parse_int(item.job_min_salary),
+            "about": _snap(item.about, ["self", "family_member"], default="self"),
             "subject_relation": item.subject_relation,
             "subject_facts": {
                 k: v for k, v in {
                     "caste": item.subject_caste,
                     "gender": item.subject_gender,
-                    "education_level": item.subject_education_level,
-                    "disability": item.subject_disability,
-                    "age": item.subject_age,
+                    "education_level": _snap(item.subject_education_level, ["school", "higher_education"]),
+                    "disability": _snap_yesno(item.subject_disability),
+                    "age": _parse_int(item.subject_age),
                     "marital_status": item.subject_marital_status,
-                    "family_income": item.subject_family_income,
+                    "family_income": _parse_int(item.subject_family_income),
                     # Same evidence-grounding rule as the citizen's own residence
                     # (2026-08-10 fix): only trust it if the cited evidence is a
                     # real substring of the message, not just a place name.
                     "residence": (
-                        item.subject_residence
+                        _snap(item.subject_residence, ["rural", "urban"])
                         if item.subject_residence is not None
                         and (item.subject_residence_evidence or "").strip().lower() in state["normalized_message"].lower()
                         else None
@@ -1247,9 +1547,15 @@ def extract_need_node(state: ConvState):
                   "domain": "scheme", "about": "self", "subject_relation": None, "subject_facts": {}}]
     primary = needs[0]
 
-    need_is_specific = result.need_is_specific == "yes"
+    need_is_specific = _snap_yesno(result.need_is_specific) != "no"
 
-    intent = result.intent
+    intent = _snap(result.intent, ["find_scheme", "ask_detail", "how_to_apply", "documents_question", "chitchat"], default="find_scheme")
+    turn_type = _snap(result.turn_type, ["new_need", "followup_same_scheme", "wants_alternatives"], default="new_need")
+    detected = _snap(result.detected_language, ["hindi", "hinglish", "english"])
+    reply_lang = resolve_reply_lang(
+        state["normalized_message"], detected,
+        previous=state.get("reply_lang_sticky"), locked=state.get("locked_reply_lang"),
+    )
     if intent == "chitchat" and (primary["need_category"] or primary["need_benefit_type"] or need_is_specific):
         # the model contradicted itself - it extracted a real need but also
         # called this chitchat. A stated goal ("I want to start a business")
@@ -1264,13 +1570,18 @@ def extract_need_node(state: ConvState):
         "need_benefit_type": primary["need_benefit_type"],
         "need_is_specific": need_is_specific,
         "intent": intent,
-        "turn_type": result.turn_type,
-        # A citizen-picked language (via the frontend's language picker)
-        # always wins over this turn's own detection - see ConvState.
-        # locked_reply_lang's docstring for why (voice transcription
-        # flip-flopping between Devanagari and Romanized Hindi).
-        "reply_lang": state.get("locked_reply_lang") or result.detected_language,
+        "turn_type": turn_type,
+        # Deterministic heuristics first, LLM guess only for the ambiguous
+        # middle, previous turn's language for very short messages - see
+        # resolve_reply_lang(). A citizen-picked language (locked_reply_lang)
+        # still wins over everything.
+        "reply_lang": reply_lang,
+        "reply_lang_sticky": reply_lang,
         "followup_target": result.followup_target,
+        # Per-turn: cleared here so route_after_extract's chitchat shortcut
+        # can never replay the PREVIOUS turn's reply (found in audit
+        # 2026-08-20: "ok thanks" re-sent the last scheme answer verbatim).
+        "last_reply": None,
         "pending_need_text": None,  # consumed - don't let it linger past the turn it was needed for
         "pending_need_domain": None,  # consumed alongside pending_need_text above - same lifecycle
         # was the PREVIOUS turn a clarifying question (clarify/clarify_identity/
@@ -1294,7 +1605,20 @@ def extract_need_node(state: ConvState):
         # to the old conservative behavior (true) unless it explicitly says
         # false, since a false negative here reproduces the 2026-08-05 bug.
         "was_answering_clarification": (
-            bool(pending_need_text) and result.is_answering_pending_question is not False
+            bool(pending_need_text)
+            and result.is_answering_pending_question is not False
+            # A null judgment no longer forces the override when this message
+            # is visibly about something else (chitchat, a status question, or
+            # a different domain than the pending clarification) - those
+            # branches in route_after_extract were unreachable before.
+            and not (
+                result.is_answering_pending_question is None
+                and (
+                    intent == "chitchat"
+                    or primary["domain"] == "citizen_status"
+                    or (pending_need_domain_before == "job") != (primary["domain"] == "job")
+                )
+            )
         ),
         # Which domain that resolved clarification actually belongs to -
         # route_after_extract reads THIS (not pending_need_domain, which is
@@ -1323,14 +1647,16 @@ def extract_need_node(state: ConvState):
         # generate_node re-asked them once the window scrolled past the turn
         # where they were first confirmed.
         result_dict["conversation_notes"] = _merge_notes(state.get("conversation_notes"), result.stated_facts)
-    if not pending_need_text:
-        # No clarification was pending coming into this turn, so this is a
-        # fresh need with no unresolved clarify streak to cap - reset the
-        # counter. Left untouched (not returned) while a clarification IS
+    if not pending_need_text or not result_dict["was_answering_clarification"]:
+        # No clarification was pending coming into this turn (or one was, but
+        # this message is a NEW need rather than an answer to it), so there is
+        # no unresolved clarify streak to cap - reset the counters. Left untouched (not returned) while a clarification IS
         # pending, so the streak survives across the turns route_after_stage_a
         # actually needs to count it over.
         result_dict["clarify_attempts"] = 0
         result_dict["generate_clarify_rounds"] = 0
+        result_dict["question_rounds"] = 0
+        result_dict["identity_asked_for_need"] = False
 
     # The reply itself was already composed as part of this SAME call
     # (chitchat_reply) - route_after_extract sends this straight to
@@ -1342,6 +1668,60 @@ def extract_need_node(state: ConvState):
     if intent == "chitchat" and result.chitchat_reply:
         result_dict["last_reply"] = result.chitchat_reply
     return result_dict
+
+
+def _normalize_job_qualification(value):
+    """Snap the citizen's stated qualification to the dataset's closed set -
+    delegates to JobService.normalize_qualification when available, with a
+    local fallback. Never raises: unknown text simply means None."""
+    if not value:
+        return None
+    try:
+        from app import job_service as _js
+        fn = getattr(_js, "normalize_qualification", None)
+        if fn is not None:
+            out = fn(str(value))
+            if out:
+                return out
+    except Exception:
+        pass
+    v = str(value).lower()
+    if any(k in v for k in ("post grad", "pg", "m.a", "ma ", "msc", "m.sc", "mcom", "m.com", "mba", "mtech", "m.tech")):
+        return "Post Graduate"
+    if "b.tech" in v or "btech" in v or "b.e" in v or "engineering" in v:
+        return "B.Tech"
+    if "bca" in v:
+        return "BCA"
+    if any(k in v for k in ("grad", "b.a", "ba ", "bsc", "b.sc", "bcom", "b.com", "bachelor", "degree")):
+        return "Graduate"
+    if any(k in v for k in ("diploma", "iti", "polytechnic")):
+        return "Diploma"
+    if any(k in v for k in ("12", "inter", "hsc", "senior secondary", "10+2")):
+        return "12th Pass"
+    if any(k in v for k in ("10", "matric", "high school")):
+        return "12th Pass"  # below-12th gets the lowest tier; JobService is fail-open anyway
+    return None
+
+
+_SCHEME_KEYS_TO_RESET = {
+    "shown_schemes": [], "shown_scheme_id": None, "shown_scheme_name": None, "shortlist": [],
+    "shortlists": [], "detail_chunks": [], "chunk_cache": [], "focused_scheme_ids": None,
+}
+_JOB_KEYS_TO_RESET = {"job_shortlist": [], "shown_jobs": [], "shown_job_id": None, "job_search_info": None}
+
+
+def domain_switch_resets(state, new_domain):
+    """State updates that blank the OTHER domain's 'currently shown' context
+    when the conversation moves scheme<->job (2026-08-20). Without this,
+    extract_need_node told the model 'Scheme in focus: X' AND 'Job in focus: Y'
+    at once, and a bare 'iske documents?' after a job went to a scheme shown
+    ten turns earlier. already_shown_* ids are deliberately kept."""
+    last = state.get("last_domain")
+    if last == new_domain or new_domain not in ("scheme", "job"):
+        return {"last_domain": new_domain} if new_domain in ("scheme", "job") else {}
+    updates = {"last_domain": new_domain}
+    updates.update(_JOB_KEYS_TO_RESET if new_domain == "scheme" else _SCHEME_KEYS_TO_RESET)
+    return updates
 
 
 def route_after_extract(state: ConvState):
@@ -1374,6 +1754,17 @@ def route_after_extract(state: ConvState):
         if turn_type == "followup_same_scheme" and state.get("shown_job_id"):
             return "stage_b_followup_jobs"
         return "stage_a_jobs"  # covers both a fresh job search and "show other jobs" in v1
+    # A terse followup / "aur batao" right after a JOB answer, where the model
+    # left domain at its 'scheme' default: stay in the jobs domain (2026-08-20).
+    if (
+        state.get("last_domain") == "job"
+        and turn_type in ("followup_same_scheme", "wants_alternatives")
+        and state.get("shown_job_id")
+        and primary_need
+        and not primary_need.get("domain_explicit")
+        and not (primary_need.get("need_category") or primary_need.get("need_benefit_type"))
+    ):
+        return "stage_b_followup_jobs" if turn_type == "followup_same_scheme" else "stage_a_jobs"
     if turn_type == "wants_alternatives":
         shortlist = state.get("shortlist") or []
         already_shown = set(state.get("already_shown_scheme_ids") or [])
@@ -1381,14 +1772,12 @@ def route_after_extract(state: ConvState):
         if remaining:
             return "show_more"
         return "stage_a"  # nothing left to show from - fresh search instead of erroring
-    if turn_type == "followup_same_scheme" and state.get("shown_scheme_id"):
-        return "stage_b_followup"
     if state.get("intent") == "chitchat":
-        # extract_need_node already composed the reply in the same call
-        # (chitchat_reply) - skip the separate chitchat_node call entirely
-        # and go straight to finalize. Only falls through to the old
-        # chitchat_node path if that field came back empty.
+        # Checked BEFORE the followup branch (2026-08-20) - a 'thanks' that the
+        # model also tagged followup_same_scheme used to re-explain the scheme.
         return "finalize" if state.get("last_reply") else "chitchat"
+    if turn_type == "followup_same_scheme" and state.get("shown_scheme_id") and state.get("last_domain") != "job":
+        return "stage_b_followup"
     return "stage_a"
 
 
@@ -1447,6 +1836,7 @@ def stage_a_node(state: ConvState):
 
     primary = shortlists[0]
     return {
+        **domain_switch_resets(state, "scheme"),
         "shortlists": shortlists,
         "shortlist": primary["shortlist"],
         "candidate_count": primary["candidate_count"],
@@ -1462,19 +1852,21 @@ def route_after_stage_a(state: ConvState):
     # the identical clarifying question back, verbatim, with no way out.
     # After one unanswered attempt, fall back to presenting the best
     # available candidates rather than asking again.
+    rounds = _question_rounds(state)
+    if rounds >= MAX_QUESTION_ROUNDS:
+        return "stage_b"
     if state.get("clarify_attempts", 0) < 1:
-        # need_is_specific is the model's own direct judgment of clarity - NOT
-        # inferred from whether need_category/need_benefit_type happened to
-        # populate (those exist only for the rank boost and are unreliable
-        # proxies for "was the need actually clear").
         if not state.get("need_is_specific", True) and state.get("candidate_count", 0) >= CLARIFY_THRESHOLD:
             return "clarify"
-        primary_need = (state.get("needs") or [None])[0]
-        facts = _subject_facts_for_need(primary_need, state.get("profile", {}))
-        need_text = primary_need["need_text"] if primary_need else state.get("need_text", "")
-        _, gaps = _first_identity_gap(shortlist, facts, need_text)
-        if gaps:
-            return "clarify_identity"
+    # Identity-gap check is NOT gated on clarify_attempts (2026-08-20): after
+    # one vagueness question the gender/caste-gated #1 scheme used to go
+    # straight to stage_b and the LLM was left to notice the gap itself.
+    primary_need = (state.get("needs") or [None])[0]
+    facts = _subject_facts_for_need(primary_need, state.get("profile", {}))
+    need_text = primary_need["need_text"] if primary_need else state.get("need_text", "")
+    _, gaps = _first_identity_gap(shortlist, facts, need_text)
+    if gaps and not state.get("identity_asked_for_need"):
+        return "clarify_identity"
     return "stage_b"
 
 
@@ -1502,9 +1894,9 @@ def route_after_stage_a_jobs(state: ConvState):
     title with no location or specific post given? If so, ask which one/
     where before presenting a list, the same "narrow to one, don't dump a
     menu" discipline the scheme side already follows."""
-    if state.get("clarify_attempts", 0) >= 1:
+    if state.get("clarify_attempts", 0) >= 1 or _question_rounds(state) >= MAX_QUESTION_ROUNDS:
         return "generate_jobs"
-    if state.get("job_title_named"):
+    if state.get("job_title_named") or not state.get("job_shortlist"):
         return "generate_jobs"
     primary_need = (state.get("needs") or [None])[0]
     if primary_need and primary_need.get("job_location"):
@@ -1514,6 +1906,16 @@ def route_after_stage_a_jobs(state: ConvState):
     if len(distinct_titles) > 1:
         return "clarify_jobs"
     return "generate_jobs"
+
+
+def _job_known_block(state):
+    primary_need = (state.get("needs") or [None])[0] or {}
+    bits = [
+        f"{label}: {primary_need[field]}"
+        for field, label in (("job_qualification", "qualification"), ("job_location", "preferred location"), ("job_min_salary", "minimum salary wanted"))
+        if primary_need.get(field)
+    ]
+    return f"What's already confirmed about the citizen: {'; '.join(bits)}\n" if bits else ""
 
 
 def clarify_jobs_node(state: ConvState):
@@ -1526,19 +1928,20 @@ def clarify_jobs_node(state: ConvState):
         f"{_format_profile(state.get('profile'))}"
         f"{_format_notes(state.get('conversation_notes'))}"
         f'The citizen asked about government jobs: "{state.get("need_text", "")}"\n'
-        "This is too broad to search directly - no specific post, location, or qualification was "
-        "stated.\n\n"
+        f"{_job_known_block(state)}"
+        "This is still too broad to search directly - more than one kind of post could match.\n\n"
         f"Ask ONE short, simple clarifying question {lang_instruction} that would narrow this down "
         "(e.g. what kind of post, which department/area, or their own qualification) - it must be "
         "about something NOT already answered in the context above. Do not list job titles. One "
         "sentence only."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+    reply = _compose_reply(prompt, state.get("reply_lang"), label="clarify_jobs")
     return {
-        "last_reply": resp.content,
+        "last_reply": reply,
         "pending_need_text": state.get("need_text"),
         "pending_need_domain": "job",
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
+        "question_rounds": _question_rounds(state) + 1,
     }
 
 
@@ -1563,12 +1966,13 @@ def clarify_node(state: ConvState):
         "(e.g. what specific kind of help they need) - it must be about something NOT already "
         "answered in the context above. Do not list scheme names. One sentence only."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+    reply = _compose_reply(prompt, state.get("reply_lang"), label="clarify")
     return {
-        "last_reply": resp.content,
+        "last_reply": reply,
         "pending_need_text": state.get("need_text"),
         "pending_need_domain": "scheme",
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
+        "question_rounds": _question_rounds(state) + 1,
     }
 
 
@@ -1700,12 +2104,14 @@ def clarify_identity_node(state: ConvState):
         "ask, do not ask it - use that answer directly instead. "
         "One or two sentences either way."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+    reply = _compose_reply(prompt, state.get("reply_lang"), label="clarify_identity")
     return {
-        "last_reply": resp.content,
+        "last_reply": reply,
         "pending_need_text": state.get("need_text"),
         "pending_need_domain": "scheme",
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
+        "question_rounds": _question_rounds(state) + 1,
+        "identity_asked_for_need": True,
     }
 
 
@@ -1747,12 +2153,19 @@ def stage_b_node(state: ConvState):
             if not detail and lang != "en":
                 detail = svc.scheme_detail(s["scheme_id"], "en", field_types=field_types)
             chunks.extend(detail)
-        if top and top[0]["scheme_id"] not in already_shown:
-            already_shown.append(top[0]["scheme_id"])
+        for s in top:
+            if s["scheme_id"] not in already_shown:
+                already_shown.append(s["scheme_id"])
+
+    # Fresh need: the cache must not carry schemes from an earlier, unrelated
+    # need into this answer (audit 2026-08-20 - need A's three schemes showed
+    # up as grounded options for need B). Keep only this shortlist's schemes.
+    current_ids = {s["scheme_id"] for entry in shortlists for s in (entry["shortlist"] or [])}
+    scoped_cache = [(d, m) for d, m in (state.get("chunk_cache") or []) if m.get("scheme_id") in current_ids]
 
     return {
         "detail_chunks": chunks,
-        "chunk_cache": _update_chunk_cache(state.get("chunk_cache"), chunks),
+        "chunk_cache": _update_chunk_cache(scoped_cache, chunks),
         "shown_schemes": shown_schemes,
         "shown_scheme_id": shown_schemes[0]["scheme_id"] if shown_schemes else state.get("shown_scheme_id"),
         "shown_scheme_name": shown_schemes[0]["scheme_name"] if shown_schemes else state.get("shown_scheme_name"),
@@ -1760,6 +2173,7 @@ def stage_b_node(state: ConvState):
         "already_shown_scheme_ids": already_shown,
         "clarify_attempts": 0,  # a real answer is being delivered - the unresolved streak ends here
         "focused_scheme_ids": None,  # a genuinely fresh, possibly multi-scheme answer - no narrowing to carry over
+        "identity_asked_for_need": False,
     }
 
 
@@ -1772,7 +2186,10 @@ def show_more_node(state: ConvState):
     just the current one, so asking "what else" repeatedly doesn't repeat
     an earlier answer."""
     already_shown = set(state.get("already_shown_scheme_ids") or [])
-    remaining = [s for s in (state.get("shortlist") or []) if s["scheme_id"] not in already_shown][:3]
+    remaining_all = [s for s in (state.get("shortlist") or []) if s["scheme_id"] not in already_shown]
+    primary_need = (state.get("needs") or [None])[0]
+    facts = _subject_facts_for_need(primary_need, state.get("profile", {}))
+    remaining = _prioritize_gap_free(remaining_all, facts, state.get("need_text", ""), 3)
     lang = _source_lang(state.get("reply_lang"))
     field_types = FIELD_TYPES_BY_INTENT.get(state.get("intent"), ["eligibility", "benefits"])
 
@@ -1784,9 +2201,10 @@ def show_more_node(state: ConvState):
             detail = svc.scheme_detail(s["scheme_id"], "en", field_types=field_types)
         chunks.extend(detail)
 
-    new_already_shown = list(already_shown)
-    if remaining and remaining[0]["scheme_id"] not in new_already_shown:
-        new_already_shown.append(remaining[0]["scheme_id"])
+    new_already_shown = list(state.get("already_shown_scheme_ids") or [])
+    for s in remaining:
+        if s["scheme_id"] not in new_already_shown:
+            new_already_shown.append(s["scheme_id"])
 
     shown_schemes = [
         {"scheme_id": s["scheme_id"], "scheme_name": s["scheme_name"], "need_text": state.get("need_text", "")}
@@ -1906,7 +2324,15 @@ def stage_b_followup_node(state: ConvState):
         "detail_chunks": chunks,
         "chunk_cache": _update_chunk_cache(cache, cacheable_chunks),
         "focused_scheme_ids": focused_scheme_ids,
+        # Nothing left to ground on (every shown scheme is now excluded) ->
+        # route_after_followup sends this to a fresh Stage A instead of letting
+        # generate_node answer from stale cache (audit 2026-08-20).
+        "followup_needs_fresh_search": not to_fetch,
     }
+
+
+def route_after_followup(state: ConvState):
+    return "stage_a" if state.get("followup_needs_fresh_search") else "generate"
 
 
 def _structured_facts_summary(meta):
@@ -1942,8 +2368,18 @@ def _structured_facts_summary(meta):
             parts.append(f"{key.replace('_', ' ')}: {val.replace('|', ', ')}")
     if meta.get("family_income_ceiling"):
         parts.append(f"family income ceiling: Rs {meta['family_income_ceiling']}")
-    if meta.get("age_min") is not None or meta.get("age_max") is not None:
+    if meta.get("age_min_female") or meta.get("age_min_male"):
+        parts.append(f"minimum age: women {meta.get('age_min_female') or meta.get('age_min')}, men {meta.get('age_min_male') or meta.get('age_min')}")
+    elif meta.get("age_min") is not None or meta.get("age_max") is not None:
         parts.append(f"age range: {meta.get('age_min')}-{meta.get('age_max')}")
+    if meta.get("sibling_ids"):
+        parts.append(
+            "NOTE: this same programme also appears in the source data under another name/entry with "
+            "possibly different amounts - treat them as ONE scheme, quote ONLY this entry's figures, and "
+            "never present the two as separate options"
+        )
+    if meta.get("income_over_ceiling"):
+        parts.append(f"caution - stated income may exceed this scheme's ceiling: {meta['income_over_ceiling']}")
     return "; ".join(parts)
 
 
@@ -2019,12 +2455,14 @@ def generate_node(state: ConvState):
 
     chunks = current + cached_extra
 
+    # Keyed by scheme_id (2026-08-20) - keying by name duplicated a scheme
+    # whenever one field fell back from the hi to the en chunk set.
     structured_by_scheme = {}
     for _, meta in chunks:
-        structured_by_scheme.setdefault(meta["scheme_name"], meta)
+        structured_by_scheme.setdefault(meta["scheme_id"], meta)
     structured_text = "\n".join(
-        f"[{name}] structured eligibility data: {_structured_facts_summary(meta)}"
-        for name, meta in structured_by_scheme.items()
+        f"[{meta['scheme_name']}] structured eligibility data: {_structured_facts_summary(meta)}"
+        for meta in structured_by_scheme.values()
     )
 
     chunks_text = "\n\n".join(
@@ -2038,9 +2476,10 @@ def generate_node(state: ConvState):
     # instructions further down for when this gets used INSTEAD of the
     # full text, not alongside it.
     svc = get_rag_service()
+    card_lang = _source_lang(state.get("reply_lang"))
     discovery_cards_text = "\n".join(
-        f"[{name}] {svc.get_discovery_card(meta['scheme_id'], meta['lang'])}"
-        for name, meta in structured_by_scheme.items()
+        f"[{meta['scheme_name']}] {svc.get_discovery_card(meta['scheme_id'], card_lang) or svc.get_discovery_card(meta['scheme_id'], meta['lang'])}"
+        for meta in structured_by_scheme.values()
     )
 
     lang_instruction = _lang_instruction(state.get("reply_lang"))
@@ -2104,7 +2543,7 @@ def generate_node(state: ConvState):
         "landing on an answer. Give your FINAL best-effort answer now - recommend the most "
         "likely-fitting scheme(s) from what's already known, caveat anything unconfirmed, and do "
         "not ask again, even a reasonable one.\n\n"
-        if generate_clarify_rounds >= 2 else ""
+        if max(generate_clarify_rounds, _question_rounds(state)) >= MAX_QUESTION_ROUNDS else ""
     )
 
     prompt = (
@@ -2175,26 +2614,13 @@ def generate_node(state: ConvState):
         f"Scheme summaries (short - use these instead of 'Scheme text' when asking a clarifying "
         f"question):\n{discovery_cards_text}\n\n"
         f"Scheme text (full detail - use once no clarifying question is needed):\n{chunks_text}\n\n"
+        "If the citizen's message is vague about a detail you would need to act on (e.g. 'I don't "
+        "have all the documents' without saying which), ask WHICH one - never assume or pick one "
+        "for them.\n\n"
         f"{lang_instruction} Keep it concise and practical."
     )
-    result = get_reply_llm().with_structured_output(SchemeAnswer, method="function_calling").invoke(
-        [("system", PERSONA), ("human", prompt)]
-    )
-    # Mechanically enforced retry (2026-08-19) - not just another prompt
-    # wording tweak. The "don't name a scheme in the same reply as a
-    # question" rule above has now been violated THREE separate times in a
-    # row across live testing (leading with names before any question,
-    # naming alongside a still-live question, naming alongside a
-    # conditional "try this if X" hedge), despite the prompt instruction
-    # getting progressively more explicit each time. Same reasoning as
-    # generate_clarify_rounds' HARD STOP below: once a rule needs to be a
-    # GUARANTEE rather than a strong hint, keep patching the wording stops
-    # being the right lever - check the actual output and correct it
-    # instead. One retry, with the SPECIFIC violation named back to the
-    # model (which scheme name(s) leaked into a question-asking reply),
-    # rather than a generic re-statement of the same rule it just missed.
-    scheme_names = list(structured_by_scheme.keys())
-    leaked_names = [n for n in scheme_names if n.lower() in result.reply.lower()]
+    result = _compose_reply(prompt, state.get("reply_lang"), structured_cls=SchemeAnswer, label="generate")
+    leaked_names = _leaked_scheme_names(svc, structured_by_scheme, result.reply)
     if result.asked_clarifying_question and leaked_names:
         correction_prompt = (
             f"{prompt}\n\n"
@@ -2204,32 +2630,53 @@ def generate_node(state: ConvState):
             "reply, or give the complete final answer naming that ONE scheme with NO question "
             "attached at all."
         )
-        result = get_reply_llm().with_structured_output(SchemeAnswer, method="function_calling").invoke(
-            [("system", PERSONA), ("human", correction_prompt)]
-        )
-    # Mechanically enforced regardless of what the model decided - the
-    # HARD STOP prompt instruction above asks nicely, but prompt-following
-    # isn't guaranteed, and the whole point of this cap is a GUARANTEE the
-    # loop terminates, not just a strong hint. Once generate_clarify_rounds
-    # already hit the cap coming into this turn, this turn is forced to
-    # count as a final answer no matter what asked_clarifying_question says.
-    asked_question = result.asked_clarifying_question and generate_clarify_rounds < 2
-    # Set the SAME way clarify_node/clarify_identity_node already do, so a
-    # terse follow-up reply ("nahi"/"18 saal") next turn has something
-    # structured to anchor to - found live (2026-08-16): generate_node's own
-    # clarifying questions had NO such anchor (only clarify_node/
-    # clarify_identity_node set this), so a citizen's direct "nahi" to a
-    # disability question never made it into subject_facts at all, and the
-    # same question got asked again two turns later despite already being
-    # answered. Cleared (None) when this reply didn't ask anything, so a
-    # later unrelated message doesn't get wrongly treated as answering a
-    # question that was never actually asked.
+        result = _compose_reply(correction_prompt, state.get("reply_lang"), structured_cls=SchemeAnswer, label="generate_fix")
+    rounds = _question_rounds(state)
+    asked_question = result.asked_clarifying_question and rounds < MAX_QUESTION_ROUNDS
     return {
         "last_reply": result.reply,
         "pending_need_text": state.get("need_text") if asked_question else None,
         "pending_need_domain": "scheme" if asked_question else None,
         "generate_clarify_rounds": (generate_clarify_rounds + 1) if asked_question else 0,
+        "question_rounds": (rounds + 1) if asked_question else 0,
+        "followup_needs_fresh_search": False,
     }
+
+
+def _leaked_scheme_names(svc, structured_by_scheme, reply):
+    """Script-aware check for scheme names in a reply (2026-08-20): compares
+    against the en AND hi names plus curated aliases (RagService.names_for),
+    and against a Roman-transliteration-insensitive form, so a Hinglish reply
+    naming a Devanagari-sourced scheme is caught too. The old check compared
+    only the chunk's own-language name and never fired for Hinglish."""
+    reply_l = (reply or "").lower()
+    reply_words = set(re.findall(r"[a-z\u0900-\u097F]+", reply_l))
+    leaked = []
+    for sid, meta in structured_by_scheme.items():
+        names = {meta.get("scheme_name") or ""}
+        try:
+            names |= set(svc.names_for(sid) or [])
+        except Exception:
+            pass
+        hit = False
+        for n in names:
+            n_l = (n or "").strip().lower()
+            if not n_l:
+                continue
+            if n_l in reply_l:
+                hit = True
+                break
+            # distinctive-token overlap: 2+ non-generic words of the name present
+            toks = [t for t in re.findall(r"[a-z\u0900-\u097F]+", n_l) if len(t) > 3 and t not in _GENERIC_NAME_TOKENS]
+            if len(toks) >= 2 and sum(1 for t in toks if t in reply_words) >= 2:
+                hit = True
+                break
+        if hit:
+            leaked.append(meta.get("scheme_name") or sid)
+    return leaked
+
+
+_GENERIC_NAME_TOKENS = {"yojana", "yojna", "scheme", "rajasthan", "mukhyamantri", "chief", "minister", "national", "pension", "scholarship", "योजना", "राजस्थान", "मुख्यमंत्री", "पेंशन", "छात्रवृत्ति", "indira", "gandhi", "इंदिरा", "गांधी", "rashtriya", "राष्ट्रीय"}
 
 
 def chitchat_node(state: ConvState):
@@ -2243,8 +2690,7 @@ def chitchat_node(state: ConvState):
         f"This isn't a scheme/job question. Reply briefly and warmly. {lang_instruction} "
         "Mention you can help them find Rajasthan government schemes and jobs."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
-    return {"last_reply": resp.content}
+    return {"last_reply": _compose_reply(prompt, state.get("reply_lang"), label="chitchat")}
 
 
 # ---------------------------------------------------------------------------
@@ -2266,11 +2712,28 @@ def stage_a_jobs_node(state: ConvState):
     # "show other jobs" excludes what's already been shown; a fresh/different
     # search (even a repeat of the same title) should not - a citizen asking
     # about "Patwari" again later should still see it.
-    exclude_ids = already_shown if turn_type == "wants_alternatives" else None
-    results = svc.search(
-        need_text, location=location, exclude_ids=exclude_ids, top_n=5,
-        qualification=qualification, min_salary=min_salary,
-    )
+    # Exclude already-shown postings on every follow-up turn in the jobs
+    # domain, not only on an explicit "aur batao" (2026-08-20 - rephrasing the
+    # same ask used to reset to the identical top results). A brand-new job
+    # search (different title / fresh topic) still sees everything.
+    continuing = state.get("last_domain") == "job" and turn_type in ("wants_alternatives", "followup_same_scheme")
+    exclude_ids = already_shown if (turn_type == "wants_alternatives" or continuing) else None
+    if hasattr(svc, "search_with_info"):
+        results, info = svc.search_with_info(
+            need_text, location=location, qualification=qualification, min_salary=min_salary,
+            exclude_ids=exclude_ids, top_n=5,
+        )
+    else:
+        results = svc.search(need_text, location=location, exclude_ids=exclude_ids, top_n=5,
+                             qualification=qualification, min_salary=min_salary)
+        info = {"title_named": svc.has_title_match(need_text), "closed_matches": [], "upcoming_matches": [], "relaxed": []}
+    if not results and exclude_ids and not info.get("closed_matches"):
+        # Everything matching was already shown - fall back to a non-excluded
+        # search so the citizen at least gets the list again rather than nothing.
+        if hasattr(svc, "search_with_info"):
+            results, info = svc.search_with_info(need_text, location=location, qualification=qualification,
+                                                 min_salary=min_salary, exclude_ids=None, top_n=5)
+        info["repeat_of_shown"] = True
 
     shown_jobs = [{"job_id": j["id"], "title": j["title"], "department": j["department"]} for j in results]
     # Record EVERY job shown this turn, not just the first - a "show more"
@@ -2284,14 +2747,24 @@ def stage_a_jobs_node(state: ConvState):
             already_shown.append(j["id"])
 
     return {
+        **domain_switch_resets(state, "job"),
         "job_shortlist": results,
         "shown_jobs": shown_jobs,
         "shown_job_id": results[0]["id"] if results else None,
         "already_shown_job_ids": already_shown,
-        # For route_after_stage_a_jobs - see JobService.has_title_match's
-        # docstring for why this needs its own signal, distinct from
-        # job_location/job_qualification/job_min_salary.
-        "job_title_named": svc.has_title_match(need_text),
+        # Declared in ConvState now (2026-08-20) - it used to be silently
+        # dropped by LangGraph, making the named-post shortcut dead code.
+        "job_title_named": bool(info.get("title_named")),
+        "job_search_info": {
+            "title_named": bool(info.get("title_named")),
+            "matched_titles": info.get("matched_titles") or [],
+            "closed_titles": sorted({j["title"] for j in info.get("closed_matches") or []}),
+            "upcoming": [{"title": j["title"], "location": j.get("location"), "startDate": j.get("startDate")} for j in (info.get("upcoming_matches") or [])[:5]],
+            "relaxed": info.get("relaxed") or [],
+            "location_requested": info.get("location_requested") or location,
+            "below_min_qualification": bool(info.get("below_min_qualification")),
+            "repeat_of_shown": bool(info.get("repeat_of_shown")),
+        },
     }
 
 
@@ -2305,7 +2778,9 @@ def stage_b_followup_jobs_node(state: ConvState):
     svc = get_job_service()
     jobs = [svc.get(t["job_id"]) for t in targets]
     jobs = [j for j in jobs if j]
-    return {"job_shortlist": jobs}
+    # Clear the previous search's notes - they describe THAT search (closed
+    # titles, relaxed location), not this followup about an already-shown job.
+    return {"job_shortlist": jobs, "job_search_info": None}
 
 
 _JOB_FIELD_FOCUS_BY_INTENT = {
@@ -2319,14 +2794,34 @@ def generate_jobs_node(state: ConvState):
     lang_instruction = _lang_instruction(state.get("reply_lang"))
     jobs = state.get("job_shortlist") or []
 
+    info = state.get("job_search_info") or {}
+    info_lines = []
+    if info.get("closed_titles"):
+        info_lines.append(f"Postings for {', '.join(info['closed_titles'])} exist in our data but their application window is CLOSED - say so plainly.")
+    if info.get("upcoming"):
+        ups = "; ".join(f"{u['title']} ({u.get('location')}) opens {u.get('startDate')}" for u in info["upcoming"])
+        info_lines.append(f"Upcoming (not yet open) postings that match: {ups} - mention them as 'coming soon', not as something to apply for today.")
+    if "location" in (info.get("relaxed") or []) and info.get("location_requested"):
+        info_lines.append(f"NOTE: there are NO active postings in {info['location_requested']} - the postings below are from OTHER districts. Say this clearly first; do not present them as matches for {info['location_requested']}.")
+    if "min_salary" in (info.get("relaxed") or []):
+        info_lines.append("NOTE: no posting meets the salary the citizen asked for - the list below ignores that filter; say so.")
+    if info.get("below_min_qualification"):
+        info_lines.append("The citizen's stated qualification is below every posting's minimum (10th pass) - say this honestly and suggest skill/12th-completion routes instead of pretending a match.")
+    if info.get("repeat_of_shown"):
+        info_lines.append("Every matching posting was already shown earlier in this conversation - say there are no NEW ones and briefly recap rather than presenting these as fresh.")
+    info_block = ("Search notes (must be reflected in the reply):\n- " + "\n- ".join(info_lines) + "\n\n") if info_lines else ""
+
     if not jobs:
         prompt = (
+            f"{_format_conversation_history(state.get('conversation_history'))}"
+            f"{_job_known_block(state)}"
             f'The citizen asked about a government job: "{state.get("need_text", "")}"\n'
-            f"No matching postings were found. Say so briefly {lang_instruction} and suggest they "
-            "check back later or ask about a different post/location. One or two sentences."
+            f"{info_block}"
+            "No currently-open matching postings were found. Say so briefly, reflect the search notes "
+            "above (closed / upcoming / other-district facts) if any, and offer to tell them when a matching "
+            "posting opens or to look at a different post/location. Two or three sentences."
         )
-        resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
-        return {"last_reply": resp.content}
+        return {"last_reply": _compose_reply(prompt, state.get("reply_lang"), label="generate_jobs_empty"), "question_rounds": 0, "clarify_attempts": 0}
 
     jobs_desc = "\n".join(
         f"- {j['title']} ({j['department']}), location: {j['location']}, status: {j['status']}, "
@@ -2366,6 +2861,7 @@ def generate_jobs_node(state: ConvState):
         f"{_format_profile(state.get('profile'))}"
         f"{_format_notes(state.get('conversation_notes'))}"
         f"{known_block}"
+        f"{info_block}"
         f'The citizen asked: "{state.get("need_text", "")}"\n'
         f'Citizen\'s exact words this turn: "{state.get("raw_message", "")}"\n'
         f"Matching government job posting(s):\n{jobs_desc}\n\n"
@@ -2383,10 +2879,14 @@ def generate_jobs_node(state: ConvState):
         "the reasoning shown ('yeh sabse zyada fit baithti hai kyunki...'), not an unqualified "
         "absolute claim. If nothing here is currently active/open, say so plainly and offer to "
         "notify them when a matching posting opens, rather than recommending a closed one as if it "
-        "were usable now."
+        "were usable now. If the citizen says they lack documents/eligibility without saying WHICH, ask "
+        "which one - never assume or pick one for them. Do not repeat a full posting breakdown that "
+        "already appears in the recent conversation above - answer what was actually asked this turn.\n\n"
+        "DATA NOTE: these postings are from a demo dataset, not a live RSMSSB/RPSC feed. Never invent a "
+        "detail not listed above, and if asked whether this is official/current, say the citizen should "
+        "confirm on the official portal link before acting."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
-    return {"last_reply": resp.content}
+    return {"last_reply": _compose_reply(prompt, state.get("reply_lang"), label="generate_jobs"), "question_rounds": 0, "clarify_attempts": 0}
 
 
 _NO_MATCH_TEXT = {
@@ -2405,7 +2905,7 @@ _NO_MATCH_TEXT = {
 
 def no_match_node(state: ConvState):
     text = _NO_MATCH_TEXT.get(state.get("reply_lang"), _NO_MATCH_TEXT["english"])
-    return {"last_reply": text}
+    return {"last_reply": text, "question_rounds": 0}
 
 
 # ---------------------------------------------------------------------------
@@ -2498,6 +2998,11 @@ _OTP_INVALID_TEXT = {
     "hinglish": "Yeh OTP sahi nahi lag raha. Kripya dobara sahi 6 anko ka OTP bhejein.",
     "english": "That OTP doesn't look correct. Please send the correct 6-digit OTP again.",
 }
+_OTP_NOT_RECEIVED_TEXT = {
+    "hindi": "कोई बात नहीं - OTP आने में 1-2 मिनट लग सकते हैं। जब आ जाए तो वह 6 अंकों का OTP यहाँ लिख दें, या 'रहने दो' लिखकर बाद में कोशिश करें।",
+    "hinglish": "Koi baat nahi - OTP aane mein 1-2 minute lag sakte hain. Jab aa jaye to wo 6 anko ka OTP yahan likh dein, ya 'rehne do' likh kar baad mein try karein.",
+    "english": "No problem - the OTP can take a minute or two. Share the 6-digit OTP here once it arrives, or say 'cancel' to try later.",
+}
 _FLOW_ABORTED_TEXT = {
     "hindi": "माफ़ कीजिए, वेरिफिकेशन पूरा नहीं हो पाया। कृपया थोड़ी देर बाद दोबारा कोशिश करें, या मुझसे कुछ और पूछें।",
     "hinglish": "Maaf kijiye, verification poora nahi ho paaya. Kripya thodi der baad dobara koshish karein, ya mujhse kuch aur poochein.",
@@ -2508,6 +3013,7 @@ _MEMBER_ORDINAL_WORDS = {
     "1": 0, "first": 0, "pehla": 0, "pehli": 0, "पहला": 0, "पहली": 0,
     "2": 1, "second": 1, "dusra": 1, "dusri": 1, "दूसरा": 1, "दूसरी": 1,
     "3": 2, "third": 2, "teesra": 2, "teesri": 2, "तीसरा": 2, "तीसरी": 2,
+    "ek": 0, "एक": 0, "do": 1, "दो": 1, "teen": 2, "तीन": 2, "char": 3, "chaar": 3, "चार": 3, "4": 3, "fourth": 3,
 }
 
 _MAX_JANAADHAAR_ATTEMPTS = 3
@@ -2549,6 +3055,37 @@ def _resolve_member_choice(text, members):
     return None
 
 
+def _is_cancel(text):
+    fn = getattr(pii_utils, "extract_cancel", None)
+    if fn is not None:
+        try:
+            return bool(fn(text))
+        except Exception:
+            pass
+    lowered = (text or "").lower()
+    return any(k in lowered for k in ("cancel", "rehne do", "rahne do", "chhodo", "chodo", "baad mein", "skip", "रहने दो", "छोड़ो", "बाद में", "band karo", "बंद करो"))
+
+
+def _janaadhaar_wants_out(text, step):
+    """Should this message end the verification sub-flow? Explicit cancels
+    always; otherwise a digit-free message of 4+ words that isn't a consent
+    answer or a member pick reads as 'moved on to another question'."""
+    if _is_cancel(text):
+        return True
+    if step == "awaiting_consent":
+        return False
+    if pii_utils.digits_only(text or ""):
+        return False
+    lowered = (text or "").lower()
+    if re.search(r"otp|o\.t\.p|jan ?aadhaar|janaadhar|aadhaar|aadhar|\bid\b|sms|message|number|yaad|bhool|"
+                 r"ओटीपी|आधार|नंबर|एसएमएस|याद|भूल", lowered):
+        return False  # talking ABOUT the verification ("otp nahi aaya", "id yaad nahi") - stay in the flow
+    words = re.findall(r"[\wऀ-ॿ]+", lowered)
+    if step == "awaiting_member_choice" and (_is_none_of_these(text) or any(w in _MEMBER_ORDINAL_WORDS for w in words)):
+        return False
+    return len(words) >= 4
+
+
 def _abort_janaadhaar_flow(reply_lang):
     return {
         "last_reply": _pick_text(reply_lang, _FLOW_ABORTED_TEXT),
@@ -2585,8 +3122,7 @@ def _answer_from_entitlements(need_text, entitlements, reply_lang):
         "verification process in this reply - just answer their status question naturally, as if "
         "you already knew this about them."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
-    return resp.content
+    return _compose_reply(prompt, reply_lang, label="entitlements")
 
 
 def janaadhaar_handle_node(state: ConvState):
@@ -2595,19 +3131,13 @@ def janaadhaar_handle_node(state: ConvState):
     attempts = state.get("janaadhaar_attempts", 0)
     svc = get_janaadhaar_service()
 
+    primary_need = (state.get("needs") or [None])[0] or {}
     if step is None:
-        # Same-session followup reusing already-verified data (2026-08-18):
-        # found live - "palanhar kab tak verify hojayga" right after a
-        # successful verification restarted the WHOLE ID/OTP flow from
-        # scratch, even though janaadhaar_status_data already held that
-        # citizen's fetched entitlements. state.py's own docstring for that
-        # field always documented this intent ("kept in case a same-session
-        # followup asks about it again without re-verifying") but nothing
-        # ever actually checked it before this fix - re-verifying was the
-        # ONLY path. Answer straight from the cache instead; only fall
-        # through to asking for the ID when there's nothing cached yet.
         cached = state.get("janaadhaar_status_data")
-        if cached:
+        # Reuse cached entitlements only for the SAME person they were fetched
+        # for (2026-08-20) - a later "meri maa ki pension?" must not be answered
+        # from the citizen's own record.
+        if cached and primary_need.get("about") != "family_member":
             reply = _answer_from_entitlements(state.get("need_text", ""), cached, reply_lang)
             return {"last_reply": reply}
         # Fresh trigger from a citizen_status need - THIS turn's own message
@@ -2630,6 +3160,22 @@ def janaadhaar_handle_node(state: ConvState):
     # their actual ID in response to the consent question instead of a
     # plain yes/no, and this net catches that either way.
     redacted = {"redacted_raw_message": "[Jan Aadhaar verification input redacted]"}
+
+    # An explicit cancel ("rehne do", "cancel", "baad mein") or a clearly
+    # unrelated question at ANY step ends the sub-flow and lets the message be
+    # answered normally, instead of burning one of 3 attempts per message
+    # (2026-08-20). route_after_janaadhaar sends janaadhaar_exit_to_normal
+    # turns back through extract_profile.
+    raw = state["raw_message"]
+    if _janaadhaar_wants_out(raw, step):
+        exit_updates = {**_abort_janaadhaar_flow(reply_lang), "last_reply": None, "janaadhaar_exit_to_normal": True}
+        if _is_cancel(raw) and len(re.findall(r"[\wऀ-ॿ]+", raw)) <= 4:
+            # A bare cancel ("rehne do") - acknowledge and stop. A cancel that
+            # carries a new question ("chhodo, beti ke liye scholarship batao")
+            # falls through to the normal pipeline so the question gets answered.
+            exit_updates["last_reply"] = _pick_text(reply_lang, _CONSENT_DECLINED_TEXT)
+            exit_updates["janaadhaar_exit_to_normal"] = False
+        return exit_updates
 
     if step == "awaiting_consent":
         consent = pii_utils.extract_consent(state["raw_message"])
@@ -2654,12 +3200,19 @@ def janaadhaar_handle_node(state: ConvState):
             return {**redacted, "last_reply": _pick_text(reply_lang, _ID_INVALID_TEXT), "janaadhaar_attempts": attempts + 1}
 
         result = svc.fetch_member_list(jan_id)
-        if result["status"] != "JAN_200" or not result["members"]:
+        if result.get("status") == "JAN_404" or (result.get("status") == "JAN_200" and not result.get("members")):
+            # Unknown ID: let them retry (was an immediate abort; _ID_NOT_FOUND_TEXT was dead code).
+            if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:
+                return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+            return {**redacted, "last_reply": _pick_text(reply_lang, _ID_NOT_FOUND_TEXT), "janaadhaar_attempts": attempts + 1}
+        if result.get("status") != "JAN_200":
             return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
 
         members = result["members"]
         if len(members) == 1:
             otp_result = svc.generate_otp(members[0]["member_id"])
+            if otp_result.get("status") not in (None, "JAN_200") or not otp_result.get("tid"):
+                return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
             return {
                 **redacted,
                 "last_reply": _pick_text(reply_lang, _ASK_OTP_TEXT),
@@ -2695,6 +3248,15 @@ def janaadhaar_handle_node(state: ConvState):
                 "janaadhaar_members": [],
                 "janaadhaar_attempts": 0,
             }
+        pasted_id = pii_utils.extract_jan_aadhaar_id(state["raw_message"])
+        if pasted_id and len(members) < 10:
+            # They shared a different household's ID instead of picking - treat
+            # exactly like the awaiting_id step (2026-08-20; used to count as a
+            # wrong choice three times and abort).
+            inner = janaadhaar_handle_node({**state, "pending_janaadhaar_step": "awaiting_id", "janaadhaar_attempts": 0})
+            inner.setdefault("pending_janaadhaar_step", "awaiting_id")
+            inner.setdefault("janaadhaar_members", [])
+            return inner
         chosen = _resolve_member_choice(state["raw_message"], members)
         if not chosen:
             if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:
@@ -2706,6 +3268,8 @@ def janaadhaar_handle_node(state: ConvState):
             }
 
         otp_result = svc.generate_otp(chosen["member_id"])
+        if otp_result.get("status") not in (None, "JAN_200") or not otp_result.get("tid"):
+            return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
         return {
             **redacted,
             "last_reply": _pick_text(reply_lang, _ASK_OTP_TEXT),
@@ -2720,6 +3284,8 @@ def janaadhaar_handle_node(state: ConvState):
 
     if step == "awaiting_otp":
         otp = pii_utils.extract_otp(state["raw_message"])
+        if not otp and re.search(r"nahi aaya|nhi aaya|not (yet )?(received|come|arrived)|नहीं आया|नही आया|resend|dobara bhej", state["raw_message"].lower()):
+            return {**redacted, "last_reply": _pick_text(reply_lang, _OTP_NOT_RECEIVED_TEXT)}
         if not otp:
             if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:
                 return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
@@ -2784,15 +3350,19 @@ def finalize_node(state: ConvState):
     # prompts, so persisting the raw value here would leak it to an LLM one
     # turn later even if this turn's own handling never did.
     persisted_message = state.get("redacted_raw_message") or state["raw_message"]
-    history.append({"user": persisted_message, "bot": state.get("last_reply", "")})
-    return {"conversation_history": history[-MAX_HISTORY_TURNS:]}
+    history.append({"user": persisted_message, "bot": state.get("last_reply") or ""})
+    return {"conversation_history": history[-MAX_HISTORY_TURNS:], "janaadhaar_exit_to_normal": False, "followup_needs_fresh_search": False}
 
 
 # ---------------------------------------------------------------------------
 # Graph
 # ---------------------------------------------------------------------------
 
-def build_graph():
+def route_after_janaadhaar(state: ConvState):
+    return "extract_profile" if state.get("janaadhaar_exit_to_normal") else "finalize"
+
+
+def build_graph(checkpointer=None):
     graph = StateGraph(ConvState)
     graph.add_node("normalize", normalize_node)
     graph.add_node("extract_profile", extract_profile_node)
@@ -2840,7 +3410,11 @@ def build_graph():
         {"no_match": "no_match", "clarify": "clarify", "clarify_identity": "clarify_identity", "stage_b": "stage_b"},
     )
     graph.add_edge("stage_b", "generate")
-    graph.add_edge("stage_b_followup", "generate")
+    graph.add_conditional_edges(
+        "stage_b_followup",
+        route_after_followup,
+        {"generate": "generate", "stage_a": "stage_a"},
+    )
     graph.add_edge("show_more", "generate")
     graph.add_edge("generate", "finalize")
     graph.add_conditional_edges(
@@ -2855,7 +3429,11 @@ def build_graph():
     graph.add_edge("clarify_identity", "finalize")
     graph.add_edge("chitchat", "finalize")
     graph.add_edge("no_match", "finalize")
-    graph.add_edge("janaadhaar_handle", "finalize")
+    graph.add_conditional_edges(
+        "janaadhaar_handle",
+        route_after_janaadhaar,
+        {"finalize": "finalize", "extract_profile": "extract_profile"},
+    )
     graph.add_edge("finalize", END)
 
-    return graph.compile(checkpointer=MemorySaver())
+    return graph.compile(checkpointer=checkpointer or MemorySaver())

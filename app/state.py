@@ -243,3 +243,16 @@ class ConvState(TypedDict, total=False):
     # later turn. Naturally empty once JANAADHAAR_MODE=real, since the real
     # transport's response never carries the OTP value at all.
     mock_sms_preview: Optional[str]
+
+    # --- added 2026-08-20 (audit fixes). NOTE: LangGraph silently DROPS any key
+    # a node returns that is not declared here - job_title_named was returned
+    # for weeks and never stored, making its routing shortcut dead code. Every
+    # key a node returns must appear in this class.
+    reply_lang_sticky: Optional[str]  # last resolved reply language - short/ambiguous messages inherit it instead of flip-flopping
+    last_domain: Optional[str]  # "scheme" | "job" - the domain of the last answered need; switching blanks the other domain's shown_* context
+    job_title_named: bool  # did the jobs search match a specific post title (route_after_stage_a_jobs skips the clarify question then)
+    job_search_info: Optional[dict]  # closed/upcoming titles, relaxed filters, location requested - surfaced in generate_jobs_node's prompt
+    question_rounds: int  # ONE shared budget for every questioning node (clarify / clarify_identity / clarify_jobs / generate's own questions); reset when a real answer is delivered
+    identity_asked_for_need: bool  # clarify_identity already asked once for the current need - don't ask a second identity question before answering
+    followup_needs_fresh_search: bool  # stage_b_followup found nothing left to ground on -> route to a fresh stage_a instead of generate
+    janaadhaar_exit_to_normal: bool  # the citizen moved on mid-verification -> route this message through the normal pipeline
