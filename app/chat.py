@@ -257,6 +257,49 @@ def _prioritize_gap_free(shortlist, facts, need_text, limit):
     return (gap_free + gapped)[:limit]
 
 
+# Which of _identity_gap's possible gaps are actually SENSITIVE to ask about
+# - matches generate_node's own QUESTION PRIORITY wording verbatim ("narrow
+# or sensitive ones: disability, caste, marital status, gender" vs "broad,
+# low-sensitivity ones: age, class/degree, income, residence"). _identity_gap
+# itself doesn't make this distinction - residence and education_level count
+# as a "gap" there exactly the same as caste or disability, just because
+# IDENTITY_FIELDS treats all five scalar fields alike for the narrower
+# purpose it was built for (does ANY restriction remain unconfirmed at all).
+_SENSITIVE_IDENTITY_FIELDS = {"gender", "caste", "marital_status"}
+_SENSITIVE_OCCUPATION_GROUPS = {"differently_abled", "widow", "transgender"}
+
+
+def _has_sensitive_gap(scheme_meta, facts, need_text=""):
+    for field_name, value in _identity_gap(scheme_meta, facts, need_text):
+        if field_name in _SENSITIVE_IDENTITY_FIELDS:
+            return True
+        if field_name == "occupation_target_group" and any(g in _SENSITIVE_OCCUPATION_GROUPS for g in value.split("|")):
+            return True
+    return False
+
+
+def _prioritize_sensitive_gap_free(shortlist, facts, need_text, limit):
+    """Same reordering idea as _prioritize_gap_free, but only demotes a
+    scheme gapped on a SENSITIVE field/group - one gapped only on a broad
+    fact (education_level, residence) stays in its normal rank position
+    instead of being lumped in with caste/disability-gated schemes.
+
+    Needed because _prioritize_gap_free's plain gap-free/gapped split goes
+    empty - and its reordering becomes a no-op - the moment every candidate
+    has ANY gap at all, sensitive or not. Found live (2026-08-24): for
+    "mujhe scholarship chahiye" with no education_level stated yet, EVERY
+    one of the top 10 shortlisted scholarships had at least an
+    education_level gap (school vs higher-ed unconfirmed), so
+    _prioritize_gap_free left the raw rank order untouched and a
+    disability-gated scheme sitting at rank 8 was still visible in
+    clarify_node's options list - which the model then picked as the
+    cleanest narrowing axis, despite being told to prefer a broad one."""
+    clean, sensitive = [], []
+    for entry in shortlist:
+        (sensitive if _has_sensitive_gap(entry["metadata"], facts, need_text) else clean).append(entry)
+    return (clean + sensitive)[:limit]
+
+
 def _subject_facts_for_need(need, profile):
     """Whose facts should filter/gate THIS need: the citizen's own persistent
     profile, or the family member's facts stated for this specific need?
@@ -485,6 +528,33 @@ _LANG_INSTRUCTIONS = {
         "stay as-is."
     ),
 }
+
+# Current-turn-wins rule for concrete stated details (2026-08-24) - added
+# after a live bug: a citizen asked about Jaipur schemes for several turns,
+# then switched to "ab Jodhpur ke bare mein batao" - this turn's own
+# retrieval correctly used Jodhpur (need_text is rebuilt fresh every turn),
+# but the REPLY TEXT still said Jaipur, because conversation_history below
+# carries the last MAX_HISTORY_TURNS turns verbatim and "Jaipur" appeared
+# across several of them while "Jodhpur" appeared only once, in this turn's
+# own question. Nothing told the model which value should win when
+# composing prose, so it echoed whichever one had more textual weight in
+# the accumulated context rather than the one actually being asked about
+# right now. Not specific to city names - the same failure mode can hit any
+# concrete stated detail (a number, a place, a person) that changes
+# mid-conversation. Only wired into generate_node/generate_jobs_node - the
+# two nodes that actually state a concrete fact back to the citizen as
+# prose; clarify_node/clarify_jobs_node/clarify_identity_node only ever ask
+# a question (never restate a fact as a claim) and extract_profile_node/
+# extract_need_node already rebuild need_text/profile fresh from the
+# current message each turn, so neither has the failure this rule guards
+# against.
+_RECENCY_RULE = (
+    "RECENCY: if a concrete detail stated THIS turn (in the citizen's current question or exact "
+    "words) - a place name, a number, a person, a preference - differs from something mentioned "
+    "earlier in the conversation above, THIS TURN's value is authoritative. Answer using the "
+    "current one; do not carry forward, restate, or blend in the earlier value, even if it "
+    "appears more often in the conversation so far."
+)
 
 
 def _lang_instruction(reply_lang):
@@ -1558,8 +1628,32 @@ def clarify_jobs_node(state: ConvState):
 
 def clarify_node(state: ConvState):
     shortlist = state.get("shortlist") or []
+    # Sensitive-gap-free-first, same lever as _prioritize_gap_free's own
+    # docstring (found live 2026-08-11 for "apna business start karna hai"
+    # leading with "are you disabled?"): a narrow/rare-population-gated
+    # scheme shouldn't dominate the OPTIONS shown here either, not just the
+    # schemes stage_b eventually explains. Found live again (2026-08-24) for
+    # "mujhe scholarship chahiye": this node builds options_desc from the
+    # raw, unfiltered shortlist - generate_node's identity-gap protection
+    # never applies here at all, since a vague/broad need routes to THIS
+    # node instead (route_after_stage_a's need_is_specific+CLARIFY_THRESHOLD
+    # branch), before generate_node or _first_identity_gap ever run.
+    #
+    # _prioritize_gap_free (plain gap-free vs gapped) was tried here first
+    # and had NO effect: every one of the top 10 shortlisted scholarships
+    # had at least an education_level gap (school vs higher-ed was never
+    # stated), so its gap-free bucket was empty and the reordering was a
+    # no-op - the disability-gated scheme was still sitting in the options
+    # list at its original rank, and got picked as the "cleanest" narrowing
+    # axis anyway. _prioritize_sensitive_gap_free only demotes a SENSITIVE
+    # gap (caste/disability/gender/marital-status - the same list
+    # generate_node's own prompt calls out) so a scheme gapped only on a
+    # broad fact like education_level still counts as clean here.
+    primary_need = (state.get("needs") or [None])[0]
+    facts = _subject_facts_for_need(primary_need, state.get("profile", {}))
+    prioritized = _prioritize_sensitive_gap_free(shortlist, facts, state.get("need_text", ""), 8)
     options_desc = "; ".join(
-        f"{s['scheme_name']} ({s['metadata'].get('category', '')})" for s in shortlist[:8]
+        f"{s['scheme_name']} ({s['metadata'].get('category', '')})" for s in prioritized
     )
     lang_instruction = _lang_instruction(state.get("reply_lang"))
     # History/profile/notes context (2026-08-18): this node used to see NONE
@@ -1574,8 +1668,11 @@ def clarify_node(state: ConvState):
         f"This is too broad to answer directly - {state.get('candidate_count')} schemes could match, "
         f"spanning different purposes, e.g.: {options_desc}\n\n"
         f"Ask ONE short, simple clarifying question {lang_instruction} that would narrow this down "
-        "(e.g. what specific kind of help they need) - it must be about something NOT already "
-        "answered in the context above. Do not list scheme names. One sentence only."
+        "(e.g. what specific kind of help they need). Prefer a broad, low-sensitivity axis (age, "
+        "class/degree, income, residence, purpose) over a narrow or sensitive one (disability, "
+        "caste, marital status, gender) - ask about the latter only if every option above is gated "
+        "on exactly that. It must be about something NOT already answered in the context above. Do "
+        "not list scheme names. One sentence only."
     )
     resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
     return {
@@ -2181,6 +2278,7 @@ def generate_node(state: ConvState):
         "attached - 'Scheme summaries' exist for other internal uses, not for padding this answer "
         "with a second, unconfirmed scheme.\n\n"
         f"{hard_stop_block}"
+        f"{_RECENCY_RULE}\n\n"
         f"{_format_conversation_history(state.get('conversation_history'))}"
         f"{_format_profile(state.get('profile'))}"
         f"{_format_notes(state.get('conversation_notes'))}"
@@ -2376,6 +2474,7 @@ def generate_jobs_node(state: ConvState):
     # if it were the first message of a brand-new session.
     prompt = (
         f"Today's date is {date.today().isoformat()}.\n"
+        f"{_RECENCY_RULE}\n\n"
         f"{_format_conversation_history(state.get('conversation_history'))}"
         f"{_format_profile(state.get('profile'))}"
         f"{_format_notes(state.get('conversation_notes'))}"
