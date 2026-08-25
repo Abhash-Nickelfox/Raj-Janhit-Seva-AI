@@ -15,6 +15,7 @@ beyond a basic strip (Phase 4), a persistent (non-in-memory) session
 store, and any web/WhatsApp transport.
 """
 
+import logging
 import re
 from datetime import date
 from typing import Literal, Optional
@@ -22,7 +23,7 @@ from typing import Literal, Optional
 from langgraph.graph import StateGraph, END
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_openai import ChatOpenAI
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, ValidationError
 
 from app.config import OPENROUTER_API_KEY, OPENROUTER_MODEL
 from app.state import ConvState
@@ -30,6 +31,9 @@ from app.rag_service import RagService, CitizenContext, OCCUPATION_KEYWORDS, eli
 from app.job_service import JobService
 from app import pii_utils
 from app.janaadhaar_service import get_janaadhaar_service
+
+# Same logger name as app/main.py's - both write to one interleaved stream.
+logger = logging.getLogger("jan_seva_chat")
 
 KNOWN_CATEGORIES = [
     "Education & Learning",
@@ -67,6 +71,17 @@ FIELD_TYPES_BY_INTENT = {
 # more schemes survive the eligibility filter, asking one narrowing
 # question beats guessing among that many plausible options.
 CLARIFY_THRESHOLD = 6
+
+# Cap on how many total clarify_identity_node rounds one need can go through
+# (2026-08-24) - the identity-gap check itself is self-terminating (a gap
+# stops appearing once its fact is confirmed), so this exists only to bound
+# a citizen who never actually answers it (dodges, chitchats around it,
+# etc.), not to limit legitimate back-to-back gaps. Set to 3, not 1: a real
+# conversation can genuinely need this many rounds (e.g. an
+# occupation_target_group gap - disability/transgender/Sahariya-tribal -
+# then a caste gap once that's ruled out, then an education_level gap once
+# caste narrows the shortlist further) without anything having gone wrong.
+MAX_IDENTITY_CLARIFY_ATTEMPTS = 3
 
 # Every scalar identity/eligibility dimension eligibility_verdict already
 # checks - not a hand-picked subset added one bug at a time. Deliberately
@@ -364,6 +379,41 @@ def get_reply_llm():
             temperature=0.6,
         )
     return _reply_llm
+
+
+def _invoke_structured(llm, model_cls, messages, label=""):
+    """Wraps a .with_structured_output(model_cls, method="function_calling")
+    call with ONE retry on a Pydantic validation error, feeding the exact
+    error text back to the model.
+
+    Found live (2026-08-25, crashed to "takniki dikkat" every time): a
+    citizen said "...koi aur schemes available hain?" and the model filled
+    NeedExtraction.intent with 'wants_alternatives' - a value that's only
+    valid for the SIBLING field turn_type, not intent. Every structured-
+    output call in this file used to call .invoke() completely unprotected,
+    so this ValidationError propagated all the way up through the graph to
+    main.py's generic exception handler with no chance to recover - the
+    FIRST validation failure of any kind, on ANY of these calls, crashed
+    the whole turn. Showing the model its own exact error text usually
+    self-corrects a mistake like this, since it's legible once pointed
+    out - the same "point at the specific violation, don't just restate
+    the rule" principle already proven for generate_node's leaked-name
+    retry. If the retry ALSO fails, this re-raises - main.py's handler is
+    still the final backstop, just no longer the FIRST line of defense."""
+    structured_llm = llm.with_structured_output(model_cls, method="function_calling")
+    try:
+        return structured_llm.invoke(messages)
+    except ValidationError as e:
+        logger.warning("(%s) structured-output validation failed, retrying once: %s", label, e)
+        correction = (
+            "Your previous attempt failed schema validation with this exact error - re-read which "
+            f"FIELD each value belongs to and try again:\n{e}"
+        )
+        if isinstance(messages, str):
+            retry_messages = f"{messages}\n\n{correction}"
+        else:
+            retry_messages = list(messages) + [("human", correction)]
+        return structured_llm.invoke(retry_messages)
 
 
 # Shared persona for every citizen-facing reply call, sent as the system
@@ -932,7 +982,10 @@ class NeedExtraction(BaseModel):
             "'ask_detail' - asks about eligibility, benefits, amounts, who qualifies, or wants "
             "more general information about an already-identified scheme - anything that isn't "
             "specifically about the application process or documents.\n"
-            "'find_scheme' - describes a need/purpose and wants a scheme found for it.\n"
+            "'find_scheme' - describes a need/purpose and wants a scheme found for it. Use this "
+            "for 'is there anything else'/'koi aur scheme'/'iske alawa kuch aur' too - wanting "
+            "OTHER options is still a find_scheme request; 'wants_alternatives' is a turn_type "
+            "value below, never a valid value for THIS field.\n"
             "'chitchat' - small talk, thanks, greetings - not a scheme question at all."
         ),
     )
@@ -1152,7 +1205,7 @@ def extract_profile_node(state: ConvState):
         "documents, prior applications, assets, job preferences, direct answers to a question "
         "your last reply asked). The same explicitly-stated-only standard applies there too."
     )
-    result = get_llm().with_structured_output(ProfileExtraction, method="function_calling").invoke(prompt)
+    result = _invoke_structured(get_llm(), ProfileExtraction, prompt, label="extract_profile")
 
     # Evidence-grounding backstop for `residence` (2026-08-10): two rounds of
     # prompt-only guardrails failed to stop the model inferring rural/urban
@@ -1284,7 +1337,7 @@ def extract_need_node(state: ConvState):
         "Classify what they want and how clear it is."
     )
 
-    result = get_llm().with_structured_output(NeedExtraction, method="function_calling").invoke(prompt)
+    result = _invoke_structured(get_llm(), NeedExtraction, prompt, label="extract_need")
 
     needs = []
     for item in result.needs:
@@ -1545,7 +1598,22 @@ def route_after_stage_a(state: ConvState):
     # (2026-08-10): a citizen who repeated the same vague answer twice got
     # the identical clarifying question back, verbatim, with no way out.
     # After one unanswered attempt, fall back to presenting the best
-    # available candidates rather than asking again.
+    # available candidates rather than asking again. This guard is scoped to
+    # ONLY the vague-need branch below, not the identity-gap check further
+    # down - found live (2026-08-24): once ANY clarifying question (of
+    # either kind) had been asked once for a need, this used to skip the
+    # identity-gap check FOREVER after, even when a brand-new, previously-
+    # irrelevant gap surfaced later (e.g. confirming caste=sc narrows the
+    # shortlist to a scheme with its own unconfirmed education_level gap).
+    # That silently dumped straight to stage_b/generate_node instead of
+    # asking, which then had to name a scheme it shouldn't have, or narrate
+    # ruling schemes out in free text instead of asking a direct question.
+    # The identity-gap check doesn't share this 1-attempt guard - it's
+    # self-terminating in the NORMAL case (_first_identity_gap only ever
+    # returns a gap that's genuinely still unconfirmed, so once the citizen
+    # actually answers it, it stops appearing on its own), but still gets
+    # its OWN, more generous cap (MAX_IDENTITY_CLARIFY_ATTEMPTS) for the
+    # edge case where the citizen never directly answers it at all.
     if state.get("clarify_attempts", 0) < 1:
         # need_is_specific is the model's own direct judgment of clarity - NOT
         # inferred from whether need_category/need_benefit_type happened to
@@ -1553,6 +1621,7 @@ def route_after_stage_a(state: ConvState):
         # proxies for "was the need actually clear").
         if not state.get("need_is_specific", True) and state.get("candidate_count", 0) >= CLARIFY_THRESHOLD:
             return "clarify"
+    if state.get("clarify_attempts", 0) < MAX_IDENTITY_CLARIFY_ATTEMPTS:
         primary_need = (state.get("needs") or [None])[0]
         facts = _subject_facts_for_need(primary_need, state.get("profile", {}))
         need_text = primary_need["need_text"] if primary_need else state.get("need_text", "")
@@ -2069,7 +2138,18 @@ def _format_profile(profile):
     if not profile:
         return ""
     facts = "; ".join(f"{k.replace('_', ' ')}: {v}" for k, v in profile.items())
-    return f"What we know about this citizen: {facts}\n\n"
+    # "never ask again" instruction added 2026-08-25 (found live) - a citizen
+    # stated "meri umar lagbhag 36 saal hai", the reply correctly used
+    # age=36 in its own eligibility reasoning ("aap 36 hain, 40+ chahiye"),
+    # then STILL asked "kya aapki umar 40 saal poori ho gayi hai, ya abhi 36
+    # hi hai?" - restating the exact fact it had JUST used, as if
+    # unconfirmed. _format_notes already carries this instruction for
+    # conversation_notes; this block never had the equivalent one, even
+    # though it's fed into the exact same prompts.
+    return (
+        f"What we know about this citizen: {facts} (already stated - never ask the citizen to "
+        "confirm/restate any of this)\n\n"
+    )
 
 
 def _format_notes(notes):
@@ -2289,9 +2369,7 @@ def generate_node(state: ConvState):
         f"Scheme text (full detail - use once no clarifying question is needed):\n{chunks_text}\n\n"
         f"{lang_instruction} Keep it concise and practical."
     )
-    result = get_reply_llm().with_structured_output(SchemeAnswer, method="function_calling").invoke(
-        [("system", PERSONA), ("human", prompt)]
-    )
+    result = _invoke_structured(get_reply_llm(), SchemeAnswer, [("system", PERSONA), ("human", prompt)], label="generate")
     # Mechanically enforced retry (2026-08-19) - not just another prompt
     # wording tweak. The "don't name a scheme in the same reply as a
     # question" rule above has now been violated THREE separate times in a
@@ -2316,8 +2394,8 @@ def generate_node(state: ConvState):
             "reply, or give the complete final answer naming that ONE scheme with NO question "
             "attached at all."
         )
-        result = get_reply_llm().with_structured_output(SchemeAnswer, method="function_calling").invoke(
-            [("system", PERSONA), ("human", correction_prompt)]
+        result = _invoke_structured(
+            get_reply_llm(), SchemeAnswer, [("system", PERSONA), ("human", correction_prompt)], label="generate_fix"
         )
     # Mechanically enforced regardless of what the model decided - the
     # HARD STOP prompt instruction above asks nicely, but prompt-following

@@ -894,8 +894,9 @@
       "pension"
     ],
     "occupation_target_group": [
-      "student",
-      "senior_citizen"
+      "differently_abled",
+      "senior_citizen",
+      "student"
     ],
     "education_level": null
   },
@@ -3006,6 +3007,7 @@
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [
+      "differently_abled",
       "woman"
     ],
     "education_level": null
@@ -4546,7 +4548,9 @@
     "parent_income_ceiling": null,
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
-    "occupation_target_group": [],
+    "occupation_target_group": [
+      "differently_abled"
+    ],
     "education_level": null
   },
   {
@@ -4788,6 +4792,7 @@
       "scholarship"
     ],
     "occupation_target_group": [
+      "differently_abled",
       "student"
     ],
     "education_level": null
@@ -4888,7 +4893,9 @@
     "parent_income_ceiling": null,
     "benefit_type_coarse": "in-kind",
     "benefit_type_fine": [],
-    "occupation_target_group": [],
+    "occupation_target_group": [
+      "transgender"
+    ],
     "education_level": null
   },
   {
@@ -4920,7 +4927,8 @@
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [
-      "student"
+      "student",
+      "transgender"
     ],
     "education_level": "higher_education"
   },
@@ -4953,7 +4961,8 @@
     "benefit_type_coarse": "cash",
     "benefit_type_fine": [],
     "occupation_target_group": [
-      "student"
+      "student",
+      "transgender"
     ],
     "education_level": null
   },
@@ -4989,7 +4998,8 @@
       "loan"
     ],
     "occupation_target_group": [
-      "entrepreneur"
+      "entrepreneur",
+      "transgender"
     ],
     "education_level": null
   },
@@ -5023,7 +5033,9 @@
     "benefit_type_fine": [
       "training"
     ],
-    "occupation_target_group": [],
+    "occupation_target_group": [
+      "transgender"
+    ],
     "education_level": null
   },
   {
@@ -5057,7 +5069,8 @@
       "scholarship"
     ],
     "occupation_target_group": [
-      "student"
+      "student",
+      "transgender"
     ],
     "education_level": null
   },
@@ -5092,7 +5105,8 @@
       "scholarship"
     ],
     "occupation_target_group": [
-      "student"
+      "student",
+      "transgender"
     ],
     "education_level": "school"
   },

@@ -88,7 +88,29 @@ OCCUPATION_KEYWORDS = {
     "labourer": ["labour", "worker", "shramik", "mazdoor", "श्रमिक", "मजदूर"],
     "entrepreneur": ["entrepreneur", "business", "udyam", "startup", "व्यवसाय", "उद्यम", "व्यापार", "बिजनेस", "बिज़नेस"],
     "ex_servicemen": ["ex-servicemen", "ex servicemen", "sainik", "veteran", "war widow", "सैनिक", "पूर्व सैनिक"],
+    # Added 2026-08-24 - was missing entirely, so every "Transgender Utthan
+    # Kosh" scheme (7 variants) had NO occupation_target_group signal for
+    # this restriction at all. Safe to match from scheme name/description/
+    # tags alone (the usual, narrow signal_text extract_eligibility.py
+    # scans) - every one of these schemes literally has "Transgender" in its
+    # own name, unlike the differently_abled gap below, which needed reading
+    # the full eligibility text since euphemistic names ("Vishesh Yogyajan")
+    # don't self-describe the same way.
+    "transgender": ["transgender", "trans ", "kinnar", "third gender", "किन्नर", "ट्रांसजेंडर", "तृतीय लिंग"],
 }
+
+# NOTE on differently_abled under-tagging (2026-08-24): several schemes
+# whose name is a euphemism ("Vishesh Yogyajan", "Specially Abled") rather
+# than a literal match for this group's keywords are NOT reliably catchable
+# by keyword-matching AT ALL, even against the full eligibility text -
+# tried and reverted: scanning eligibility text directly hit real false
+# positives from negation ("should NOT have any disability"), "preference
+# will be given to X" (non-mandatory), and inclusive OR-lists that also
+# list "General Category" (so the restriction doesn't actually gate
+# anyone). This needs a human reading each candidate's real text, the same
+# reason classify_education_level() above uses an LLM instead of a keyword
+# table for its own facet - see scripts/fix_occupation_tags.py for the
+# small, hand-verified list of schemes actually confirmed this way.
 
 
 @dataclass

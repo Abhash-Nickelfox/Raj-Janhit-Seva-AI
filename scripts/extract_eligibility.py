@@ -148,6 +148,18 @@ def extract_one(record):
         ]
     )
 
+    # Deliberately name/description/tags ONLY, not the full eligibility text
+    # (tried and reverted, 2026-08-24) - scanning eligibility text directly
+    # for occupation_target_group keywords catches real gaps for
+    # euphemistically-named schemes ("Vishesh Yogyajan" never says "disab"),
+    # but also hits real false positives from negation ("should NOT have any
+    # disability"), "preference will be given to X" (non-mandatory), and
+    # inclusive OR-lists that also list "General Category" (so the
+    # restriction doesn't actually gate anyone). This needs a human reading
+    # each candidate's real text - see scripts/fix_occupation_tags.py for
+    # the small, hand-verified list of schemes actually confirmed this way,
+    # the same reason classify_education_level() below uses an LLM instead
+    # of a keyword table for ITS facet, not a blind text scan.
     age_min, age_max = _age_range(elig.get("age"))
     category = [c.get("label") for c in basic.get("schemeCategory", []) or []]
     occupation_target_group = _keyword_match(signal_text, OCCUPATION_KEYWORDS)
