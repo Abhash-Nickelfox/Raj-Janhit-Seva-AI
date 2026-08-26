@@ -83,6 +83,20 @@ CLARIFY_THRESHOLD = 6
 # caste narrows the shortlist further) without anything having gone wrong.
 MAX_IDENTITY_CLARIFY_ATTEMPTS = 3
 
+# Cap on how many total clarify_jobs_node rounds one need can go through
+# (2026-08-26) - was hard-capped at 1 (any prior round at all -> always
+# generate_jobs, no matter what), the same over-eager-cap bug class as
+# MAX_IDENTITY_CLARIFY_ATTEMPTS above. Found live: "B.Tech... job dekh raha
+# hu" (vague) correctly asked about FIELD first (round 1), but once that
+# round existed, a still-broad result (5 different titles across 5
+# different cities) after the citizen answered "computer science" got
+# dumped as a full list instead of also asking about location - a
+# genuinely different, still-unresolved narrowing dimension the cap didn't
+# distinguish from "asked the same thing twice". Set to 2, matching the
+# realistic max depth this domain needs: field/qualification, then
+# location - not unbounded, still a real cap.
+MAX_JOBS_CLARIFY_ATTEMPTS = 2
+
 # Every scalar identity/eligibility dimension eligibility_verdict already
 # checks - not a hand-picked subset added one bug at a time. Deliberately
 # NOT grown reactively (gender -> caste -> marital_status -> ...): every
@@ -1740,7 +1754,7 @@ def route_after_stage_a_jobs(state: ConvState):
     title with no location or specific post given? If so, ask which one/
     where before presenting a list, the same "narrow to one, don't dump a
     menu" discipline the scheme side already follows."""
-    if state.get("clarify_attempts", 0) >= 1:
+    if state.get("clarify_attempts", 0) >= MAX_JOBS_CLARIFY_ATTEMPTS:
         return "generate_jobs"
     if state.get("job_title_named"):
         return "generate_jobs"
@@ -2801,6 +2815,19 @@ _FLOW_ABORTED_TEXT = {
     "hinglish": "Maaf kijiye, verification poora nahi ho paaya. Kripya thodi der baad dobara koshish karein, ya mujhse kuch aur poochein.",
     "english": "Sorry, verification couldn't be completed. Please try again in a little while, or ask me something else.",
 }
+# 2026-08-26 - see janaadhaar_handle_node's awaiting_otp handling: a resend
+# request used to fall through to _OTP_INVALID_TEXT (a "that OTP is wrong"
+# message, wrong for someone who never got one) AND burn a real attempt.
+_OTP_RESENT_TEXT = {
+    "hindi": "ठीक है, आपका OTP दोबारा भेज दिया गया है। कृपया वह OTP यहाँ भेजें।",
+    "hinglish": "Theek hai, aapka OTP dobara bhej diya gaya hai. Kripya wahi OTP yahan bhejein.",
+    "english": "Okay, your OTP has been sent again. Please enter it here.",
+}
+_RESEND_LIMIT_TEXT = {
+    "hindi": "माफ़ कीजिए, OTP कई बार भेजा जा चुका है। कृपया अपना फ़ोन जांचें, या थोड़ी देर बाद दोबारा कोशिश करें।",
+    "hinglish": "Maaf kijiye, OTP kai baar bhej diya gaya hai. Kripya apna phone jaanchein, ya thodi der baad dobara koshish karein.",
+    "english": "Sorry, the OTP has already been resent several times. Please check your phone, or try again in a little while.",
+}
 
 _MEMBER_ORDINAL_WORDS = {
     "1": 0, "first": 0, "pehla": 0, "pehli": 0, "पहला": 0, "पहली": 0,
@@ -2809,6 +2836,10 @@ _MEMBER_ORDINAL_WORDS = {
 }
 
 _MAX_JANAADHAAR_ATTEMPTS = 3
+# Separate, smaller cap on OTP resends specifically - own limit, not shared
+# with _MAX_JANAADHAAR_ATTEMPTS above, since a resend request isn't a
+# failed guess (see janaadhaar_resend_count's docstring in app/state.py).
+_MAX_JANAADHAAR_RESENDS = 2
 
 
 def _pick_text(reply_lang, texts):
@@ -2977,6 +3008,7 @@ def janaadhaar_handle_node(state: ConvState):
                 "janaadhaar_tid": otp_result["tid"],
                 "janaadhaar_members": members,
                 "janaadhaar_attempts": 0,
+                "janaadhaar_resend_count": 0,
                 "mock_sms_preview": (
                     _mock_sms_text(reply_lang, otp_result["mock_otp"]) if otp_result.get("mock_otp") else None
                 ),
@@ -3022,12 +3054,39 @@ def janaadhaar_handle_node(state: ConvState):
             "janaadhaar_member_id": chosen["member_id"],
             "janaadhaar_tid": otp_result["tid"],
             "janaadhaar_attempts": 0,
+            "janaadhaar_resend_count": 0,
             "mock_sms_preview": (
                 _mock_sms_text(reply_lang, otp_result["mock_otp"]) if otp_result.get("mock_otp") else None
             ),
         }
 
     if step == "awaiting_otp":
+        # Checked BEFORE treating a non-6-digit message as a wrong guess
+        # (2026-08-26, found live) - "OTP nahi mila"/"dobara bhejo" used to
+        # fall straight through to extract_otp() returning None, read
+        # exactly like a wrong OTP: shown a misleading "that OTP doesn't
+        # look correct" message, AND it silently burned one of the limited
+        # janaadhaar_attempts - for a delivery problem, not the citizen's
+        # mistake. Own separate cap (_MAX_JANAADHAAR_RESENDS), not shared
+        # with janaadhaar_attempts, so it can't stall the flow indefinitely
+        # either.
+        if pii_utils.extract_resend_request(state["raw_message"]):
+            resend_count = state.get("janaadhaar_resend_count", 0)
+            if resend_count >= _MAX_JANAADHAAR_RESENDS:
+                return {**redacted, "last_reply": _pick_text(reply_lang, _RESEND_LIMIT_TEXT)}
+            otp_result = svc.generate_otp(state.get("janaadhaar_member_id"))
+            if otp_result.get("status") != "JAN_200":
+                return {**redacted, **_abort_janaadhaar_flow(reply_lang)}
+            return {
+                **redacted,
+                "last_reply": _pick_text(reply_lang, _OTP_RESENT_TEXT),
+                "janaadhaar_tid": otp_result["tid"],
+                "janaadhaar_resend_count": resend_count + 1,
+                "mock_sms_preview": (
+                    _mock_sms_text(reply_lang, otp_result["mock_otp"]) if otp_result.get("mock_otp") else None
+                ),
+            }
+
         otp = pii_utils.extract_otp(state["raw_message"])
         if not otp:
             if attempts + 1 >= _MAX_JANAADHAAR_ATTEMPTS:

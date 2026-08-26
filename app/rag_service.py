@@ -31,6 +31,18 @@ EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 # within that observed range without swamping semantic relevance entirely.
 CATEGORY_MATCH_BOOST = 3.0
 BENEFIT_TYPE_MATCH_BOOST = 5.0
+# Between CATEGORY_MATCH_BOOST and NAME_MATCH_BOOST - a confirmed
+# occupation-group association is a real but weaker signal than an exact
+# scheme-name match. Added 2026-08-26: merely pulling a synonym-matched
+# scheme into the pool (see _occupation_synonym_groups/shortlist()'s hybrid
+# recall) wasn't enough on its own - verified live, Indira Mahila Shakti
+# Udyam Protsahan Yojana reached the pool at distance ~11.5 via the
+# synonym search, but still lost to several genuinely-less-relevant
+# schemes (construction-worker/generic-assistance ones) that happened to
+# score better on the citizen's own "dukan kholna hai financial support "
+# "chahiye" phrasing - needs the same real boost NAME_MATCH_BOOST already
+# gets, not just pool membership.
+OCCUPATION_SYNONYM_MATCH_BOOST = 4.5
 
 # Hybrid recall: semantic search alone is weak on short/bare scheme-name
 # queries - verified "krishi yantra" ranks the actual "Krishi Yantra" scheme
@@ -86,7 +98,20 @@ OCCUPATION_KEYWORDS = {
     "woman": ["women", "mahila", "girl", "beti", "kanya", "महिला", "बेटी", "कन्या", "लड़की"],
     "artisan": ["artisan", "weaver", "handicraft", "shilpkar", "शिल्पकार", "बुनकर", "कारीगर"],
     "labourer": ["labour", "worker", "shramik", "mazdoor", "श्रमिक", "मजदूर"],
-    "entrepreneur": ["entrepreneur", "business", "udyam", "startup", "व्यवसाय", "उद्यम", "व्यापार", "बिजनेस", "बिज़नेस"],
+    # "shop"/"dukan"/"दुकान"/"store" added 2026-08-26, found live - a
+    # citizen saying "dukan kholna hai" (want to open a shop) never
+    # surfaced a genuinely well-fitting scheme (Indira Mahila Shakti
+    # Udyam Protsahan Yojana - explicitly covers "wholesale or retail
+    # purchase-sale of commercial products") in the top 8 results at all,
+    # while "business loan chahiye" for the exact same citizen ranked it
+    # #1 - the embedding search doesn't associate "shop" vocabulary with
+    # "business/udyam/entrepreneur" schemes strongly on its own. See
+    # _occupation_synonym_groups / shortlist()'s hybrid recall below for the
+    # other half of this fix.
+    "entrepreneur": [
+        "entrepreneur", "business", "udyam", "startup", "shop", "store", "dukan",
+        "व्यवसाय", "उद्यम", "व्यापार", "बिजनेस", "बिज़नेस", "दुकान",
+    ],
     "ex_servicemen": ["ex-servicemen", "ex servicemen", "sainik", "veteran", "war widow", "सैनिक", "पूर्व सैनिक"],
     # Added 2026-08-24 - was missing entirely, so every "Transgender Utthan
     # Kosh" scheme (7 variants) had NO occupation_target_group signal for
@@ -273,7 +298,47 @@ def _identity_query_terms(citizen: CitizenContext) -> str:
     return " ".join(terms)
 
 
-def _rank_boost(meta, citizen: CitizenContext, name_score: float = 0.0):
+def _occupation_synonym_groups(query: str) -> list:
+    """Which OCCUPATION_KEYWORDS group(s) the query already touches on -
+    used to build a SEPARATE search (see shortlist()'s hybrid recall
+    below), never appended onto the original query.
+
+    Tried appending directly onto the query first (2026-08-26) and it
+    actively made things WORSE, verified directly: the blended query
+    'dukan kholna hai ... female rajasthan entrepreneur business udyam
+    startup shop store dukan ...' doesn't surface Indira Mahila Shakti
+    Udyam Protsahan Yojana in the top 100 semantic hits AT ALL - but
+    'female rajasthan entrepreneur business udyam startup' ALONE (no
+    'dukan kholna hai'/'financial support chahiye' mixed in) ranks that
+    exact same scheme #1. The word 'dukan' itself pulls the COMBINED
+    embedding toward a different region of the space strongly enough that
+    adding more words to the SAME query can't recover from it - so this
+    has to be a genuinely separate search whose hits get merged into the
+    pool, the same hybrid-recall principle NAME_MATCH_BOOST already uses
+    below (pull a strongly-matched scheme in via an independent signal,
+    don't rely on one blended embedding to do everything)."""
+    query_lower = query.lower()
+    return [group for group, keywords in OCCUPATION_KEYWORDS.items() if any(k in query_lower for k in keywords)]
+
+
+def _occupation_synonym_search_terms(groups: list) -> str:
+    """Search string for the groups _occupation_synonym_groups found -
+    capped at the first 4 keywords per group, not the whole list.
+    Verified separately: even standalone (with identity terms attached),
+    the FULL 13-term entrepreneur list (every English/Hindi/Devanagari
+    variant at once) only ranks a known-good scheme 18th - too many
+    near-duplicate terms dilutes the embedding the same way blending into
+    the original query did, just less severely. The first 4 -
+    'entrepreneur business udyam startup' - ranked it #1 on their own.
+    Each group's keywords are already written cleanest/most-canonical-first
+    throughout OCCUPATION_KEYWORDS, so a small prefix works as the search
+    term while the FULL list still does keyword-DETECTION duty in
+    _occupation_synonym_groups above."""
+    terms = [kw for g in groups for kw in OCCUPATION_KEYWORDS[g][:4]]
+    return " ".join(dict.fromkeys(terms))  # dedupe, preserve first-seen order
+
+
+def _rank_boost(meta, citizen: CitizenContext, name_score: float = 0.0, synonym_matched: bool = False):
     boost = 0.0
     if citizen.need_category and citizen.need_category.lower() in (meta.get("category", "") or "").lower():
         boost += CATEGORY_MATCH_BOOST
@@ -281,6 +346,8 @@ def _rank_boost(meta, citizen: CitizenContext, name_score: float = 0.0):
         boost += BENEFIT_TYPE_MATCH_BOOST
     if name_score >= NAME_MATCH_THRESHOLD:
         boost += NAME_MATCH_BOOST * (name_score / 100)
+    if synonym_matched:
+        boost += OCCUPATION_SYNONYM_MATCH_BOOST
     return boost
 
 
@@ -325,6 +392,39 @@ class RagService:
         raw_hits = self.cards.similarity_search_with_score(search_query, k=SHORTLIST_POOL_SIZE)
         pool = {doc.metadata["scheme_id"]: (doc.metadata, distance) for doc, distance in raw_hits}
 
+        # hybrid recall via occupation-group synonyms (2026-08-26) - a
+        # SEPARATE, clean search, not blended into search_query above (see
+        # _occupation_synonym_groups' own docstring for why blending it in
+        # actively made ranking WORSE instead of better). Only runs the
+        # extra search when the query actually touched a known group.
+        #
+        # identity_terms IS included in this search's own query text (it's
+        # what makes a scheme like a WOMEN's entrepreneurship scheme
+        # actually surface for "business" terms at all - verified: without
+        # it, ranks 48th; with "female" attached, ranks #1) - but that
+        # means the search can ALSO surface schemes that only matched on
+        # the identity terms (e.g. an unrelated maternity/health scheme,
+        # purely because "female" is shared), not the occupation concept
+        # itself. Cross-checking each hit's OWN occupation_target_group tag
+        # before granting OCCUPATION_SYNONYM_MATCH_BOOST - not just trusting
+        # embedding proximity on the blended query - is what keeps the
+        # boost tied to a verified structured fact instead of an
+        # identity-term coincidence.
+        synonym_matched_ids = set()
+        matched_groups = _occupation_synonym_groups(query)
+        if matched_groups:
+            synonym_query = f"{_occupation_synonym_search_terms(matched_groups)} {identity_terms}".strip()
+            synonym_hits = self.cards.similarity_search_with_score(synonym_query, k=20)
+            for doc, distance in synonym_hits:
+                meta = doc.metadata
+                scheme_id = meta["scheme_id"]
+                scheme_groups = _split(meta.get("occupation_target_group", ""))
+                if not any(g in scheme_groups for g in matched_groups):
+                    continue
+                synonym_matched_ids.add(scheme_id)
+                if scheme_id not in pool or distance < pool[scheme_id][1]:
+                    pool[scheme_id] = (meta, distance)
+
         # hybrid recall: pull in any scheme whose NAME closely matches the
         # query even if semantic search didn't retrieve it in the top pool
         # at all - short/bare-name queries carry too little signal for
@@ -359,7 +459,9 @@ class RagService:
                     trace["dropped"].append({"scheme_name": meta["scheme_name"], "reason": reason})
                 continue
 
-            adjusted_score = distance - _rank_boost(meta, citizen, effective_name_scores.get(scheme_id, 0.0))
+            adjusted_score = distance - _rank_boost(
+                meta, citizen, effective_name_scores.get(scheme_id, 0.0), scheme_id in synonym_matched_ids
+            )
             existing = best_by_scheme.get(scheme_id)
             if existing is None or adjusted_score < existing.score:
                 best_by_scheme[scheme_id] = ScoredScheme(

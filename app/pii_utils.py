@@ -85,6 +85,19 @@ _DONT_KNOW_PHRASES = (
 _NO_PHRASES = ("nahi", "nahin", "mat karo", "nahi chahiye", "no", "नहीं", "मत करो", "ना")
 _YES_PHRASES = ("haan", "han", "haa", "ji haan", "ji han", "theek hai", "sahi hai", "ok", "yes", "हाँ", "हां", "जी हाँ", "ठीक है")
 
+# Bare 2-letter "ha"/"na" (2026-08-26, found live) - every _YES_PHRASES entry
+# is 3+ letters, so a citizen replying with just "ha" could never match via
+# substring containment (the phrase has to fit INSIDE the text, and "ha" is
+# too short to contain "haan"/"han"/"haa") - three straight "ha" replies to
+# a consent question got read as unclear every time, hit the attempt cap,
+# and aborted the whole flow. Fixed with WORD-BOUNDARY matching, not a bare
+# substring check like the phrases above - "ha" is a substring of "hai"
+# (is/am/are) and "chahiye" (want), both extremely common words, so a naive
+# `"ha" in normalized` would wrongly read most ordinary Hindi/Hinglish
+# messages as consent. \bha\b only matches "ha" as its own token.
+_SHORT_YES_RE = re.compile(r"\bha\b")
+_SHORT_NO_RE = re.compile(r"\bna\b")
+
 
 def extract_consent(text: str) -> bool | None:
     """Deterministic yes/no parse of a reply to the Jan Aadhaar consent
@@ -95,8 +108,51 @@ def extract_consent(text: str) -> bool | None:
     normalized = text.strip().lower()
     if any(phrase in normalized for phrase in _DONT_KNOW_PHRASES):
         return None
-    if any(phrase in normalized for phrase in _NO_PHRASES):
+    if any(phrase in normalized for phrase in _NO_PHRASES) or _SHORT_NO_RE.search(normalized):
         return False
-    if any(phrase in normalized for phrase in _YES_PHRASES):
+    if any(phrase in normalized for phrase in _YES_PHRASES) or _SHORT_YES_RE.search(normalized):
         return True
     return None
+
+
+# Checked BEFORE treating a non-6-digit message as a wrong OTP guess
+# (2026-08-26, found live) - "OTP nahi mila"/"dobara bhejo" used to fall
+# straight through to extract_otp() returning None, which janaadhaar_handle_
+# node then treated EXACTLY like a wrong guess: shown a misleading "that
+# OTP doesn't look correct" message, AND it silently burned one of only 3
+# total attempts before a full abort - for a delivery problem that isn't
+# the citizen's mistake at all.
+#
+# First version (exact multi-word phrases like "phir se bhejo"/"dobara
+# bhejo") missed real live input entirely: "firse bheje" and "firse otp
+# bhejje" - Hinglish spelling varies too much ("phir se"/"fir se"/"firse",
+# "bhejo"/"bheje"/"bhejje") for a fixed-phrase list to keep up. Rebuilt as
+# STEM co-occurrence instead: a "send" stem (bhej.../भेज.../send) alongside
+# an "again"/"otp" stem, in either order, regardless of exact spelling or
+# spacing between them - covers the realistic spelling variance a full
+# phrase list can't.
+#
+# "nahi mila"/"nahi aaya" alone are NOT included as bare stems (caught by
+# my own test before shipping the first version) - "samajh nahi aaya" (I
+# didn't understand) contains that exact substring and would wrongly
+# trigger a resend for an unrelated confusion message. Kept scoped to the
+# separate _RESEND_NOT_RECEIVED_PHRASES check below, which requires "otp"
+# in the same phrase.
+_RESEND_SEND_STEMS = ("bhej", "send", "भेज")
+_RESEND_TRIGGER_STEMS = ("phir", "fir", "dobara", "dubara", "wapis", "again", "otp", "फिर", "दोबारा", "दुबारा", "ओटीपी")
+_RESEND_NOT_RECEIVED_PHRASES = (
+    "otp nahi mila", "otp nahi aaya", "otp nahi aya", "ओटीपी नहीं मिला", "ओटीपी नहीं आया",
+)
+
+
+def extract_resend_request(text: str) -> bool:
+    """Whether this message is asking for the OTP to be sent again, rather
+    than attempting to answer with one."""
+    normalized = text.strip().lower()
+    if "resend" in normalized or "re-send" in normalized:
+        return True
+    if any(phrase in normalized for phrase in _RESEND_NOT_RECEIVED_PHRASES):
+        return True
+    has_send_stem = any(stem in normalized for stem in _RESEND_SEND_STEMS)
+    has_trigger_stem = any(stem in normalized for stem in _RESEND_TRIGGER_STEMS)
+    return has_send_stem and has_trigger_stem

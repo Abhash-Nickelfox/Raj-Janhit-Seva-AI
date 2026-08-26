@@ -218,6 +218,13 @@ class ConvState(TypedDict, total=False):
     # citizen who can't complete verification isn't trapped forever; reset
     # whenever the flow advances to a new step.
     janaadhaar_attempts: int
+    # How many times the OTP has been resent at the citizen's request
+    # (2026-08-26) - separate from janaadhaar_attempts above, since a
+    # resend request isn't a failed guess and must not count against that
+    # cap. Capped on its OWN (_MAX_JANAADHAAR_RESENDS) so it can't be used
+    # to stall the flow indefinitely either. Reset whenever the flow
+    # advances to a new step, same as janaadhaar_attempts.
+    janaadhaar_resend_count: int
     # Non-identifier status fields (e.g. pension_status) from the last
     # successful verification, kept in case a same-session followup asks
     # about it again without re-verifying.
