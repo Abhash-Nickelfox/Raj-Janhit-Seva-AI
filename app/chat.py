@@ -416,6 +416,39 @@ def _invoke_structured(llm, model_cls, messages, label=""):
         return structured_llm.invoke(retry_messages)
 
 
+# Fallback text for _invoke_reply's own failure case - deliberately generic
+# (not scheme/job-specific) since it's used from every plain reply-composing
+# node, and reused across languages the same way other fixed texts in this
+# file are (_ASK_CONSENT_TEXT etc.).
+_REPLY_FAILED_TEXT = {
+    "hindi": "माफ़ कीजिए, जवाब देते समय कुछ दिक्कत आ गई। कृपया अपना सवाल दोबारा पूछें।",
+    "hinglish": "Maaf kijiye, jawab dete waqt kuch dikkat aa gayi. Kripya apna sawaal dobara poochhein.",
+    "english": "Sorry, something went wrong composing a reply. Please ask your question again.",
+}
+
+
+def _invoke_reply(llm, messages, reply_lang, label=""):
+    """Wraps a plain (non-structured) get_reply_llm().invoke(messages).content
+    call - catches ANY exception (network/timeout/rate-limit/auth error from
+    OpenRouter, not just the ValidationError _invoke_structured guards
+    against) and returns an honest, per-language fallback reply instead of
+    letting it crash the whole turn.
+
+    Found live (2026-08-25 audit): clarify_node/clarify_jobs_node/
+    clarify_identity_node/chitchat_node/generate_jobs_node/
+    _answer_from_entitlements all called get_reply_llm().invoke(...).content
+    completely unprotected - the worst concrete case, a citizen who's JUST
+    successfully validated a Jan Aadhaar OTP hits a transient failure
+    composing the final answer; the OTP is already consumed but the turn
+    crashes before that gets recorded, leaving them stuck re-entering a
+    dead OTP with no way forward except restarting verification."""
+    try:
+        return llm.invoke(messages).content
+    except Exception as e:
+        logger.warning("(%s) plain reply call failed: %s", label, e)
+        return _pick_text(reply_lang, _REPLY_FAILED_TEXT)
+
+
 # Shared persona for every citizen-facing reply call, sent as the system
 # message (2026-08-18). Before this, each reply node built a bare one-off
 # instruction prompt with no voice at all, and the deterministic model fell
@@ -560,7 +593,14 @@ _LANG_INSTRUCTIONS = {
         "English - NEVER any other Indian script (Gurmukhi/Punjabi, Bengali, Gujarati, etc.), "
         "even briefly for one word - found live (2026-08-19) a reply came back in Gurmukhi script "
         "with no instruction anywhere calling for that; if Devanagari is called for, it is "
-        "Devanagari only, start to finish."
+        "Devanagari only, start to finish. A citizen's OWN message using many English loanwords "
+        "spelled out in Devanagari (e.g. 'स्कीम्स', 'अवेलेबल', 'हायर एजुकेशन') does NOT license "
+        "switching the REPLY to Hinglish/Roman script either - found live (2026-08-26): a message "
+        "this loanword-heavy got a full Hinglish reply immediately after two correctly-Devanagari "
+        "replies to the same citizen, then flipped straight back to Devanagari the very next turn - "
+        "matching the citizen's own vocabulary choice is not the same as matching their script; "
+        "keep composing the Hindi grammar/structure in Devanagari regardless of how many individual "
+        "words in the citizen's message were English loanwords."
     ),
     "hinglish": (
         "Reply in Hinglish - Hindi words and grammar written in Roman/Latin script, the way a "
@@ -1022,7 +1062,13 @@ class NeedExtraction(BaseModel):
             "must match this exactly, so classify carefully:\n"
             "'hindi' - written in Devanagari script (देवनागरी) ONLY - never any other Indian "
             "script (Gurmukhi/Punjabi, Bengali, Gujarati, etc.) - this app supports exactly these "
-            "three registers, nothing else.\n"
+            "three registers, nothing else. This is a SCRIPT rule, not a vocabulary one - classify "
+            "'hindi' even if most of the individual WORDS are English loanwords, as long as they're "
+            "spelled out in Devanagari. Found live (2026-08-26): 'मैं अभी इलेवंथ में हूँ ... क्या मुझे "
+            "हायर एजुकेशन्स के लिए ... स्कीम्स हैं ... अवेलेबल' ('eleventh'/'higher educations'/"
+            "'schemes'/'available', all spelled phonetically in Devanagari) is just as much 'hindi' "
+            "as a message with zero English loanwords - do not let a loanword-heavy message read as "
+            "'basically English, so reply in Hinglish/English register instead'.\n"
             "'hinglish' - Hindi/Rajasthani words spelled out in Roman/Latin letters (e.g. 'mujhe "
             "scheme chahiye', 'mera beta 12th mein hai') - this is the common register for rural "
             "Hindi speakers typing in Roman script. Classify as hinglish even if a few English "
@@ -1102,7 +1148,6 @@ class NeedExtraction(BaseModel):
 def normalize_node(state: ConvState):
     raw = state["raw_message"].strip()
     result = {
-        "normalized_message": raw,
         # Cleared at the START of every turn, not just after use - if a
         # PREVIOUS turn set this (janaadhaar_handle_node redacting an ID/OTP
         # attempt), it must not linger and wrongly redact a later, unrelated
@@ -1114,6 +1159,22 @@ def normalize_node(state: ConvState):
         "mock_sms_preview": None,
     }
     if not state.get("pending_janaadhaar_step"):
+        # General, content-based safety net (2026-08-25, found live) - every
+        # OTHER Jan Aadhaar redaction only fires once pending_janaadhaar_step
+        # is already set, so a citizen who pastes their ID UNPROMPTED, in
+        # the very message that first raises a citizen_status need, has it
+        # sent straight to extract_profile_node/extract_need_node's LLM
+        # prompts before the graph even knows a Jan Aadhaar flow is
+        # relevant - see pii_utils.scrub_jan_aadhaar_ids' own docstring.
+        # Overwrites raw_message itself, not just normalized_message -
+        # generate_node/generate_jobs_node both read state["raw_message"]
+        # directly ("Citizen's exact words this turn"), bypassing
+        # normalized_message entirely.
+        scrubbed = pii_utils.scrub_jan_aadhaar_ids(raw)
+        if scrubbed != raw:
+            raw = scrubbed
+            result["raw_message"] = scrubbed
+            result["redacted_raw_message"] = scrubbed
         # Cheap placeholder only - extract_need_node's detected_language
         # always overrides this with a real 3-way classification (hindi/
         # hinglish/english) before any reply-generating node reads
@@ -1131,6 +1192,7 @@ def normalize_node(state: ConvState):
         # value was never subsequently corrected by extract_need_node on
         # these bypassed turns.
         result["reply_lang"] = "hindi" if DEVANAGARI_RE.search(raw) else "english"
+    result["normalized_message"] = raw
     return result
 
 
@@ -1460,12 +1522,24 @@ def extract_need_node(state: ConvState):
         # generate_node re-asked them once the window scrolled past the turn
         # where they were first confirmed.
         result_dict["conversation_notes"] = _merge_notes(state.get("conversation_notes"), result.stated_facts)
-    if not pending_need_text:
-        # No clarification was pending coming into this turn, so this is a
-        # fresh need with no unresolved clarify streak to cap - reset the
-        # counter. Left untouched (not returned) while a clarification IS
-        # pending, so the streak survives across the turns route_after_stage_a
-        # actually needs to count it over.
+    if not result_dict["was_answering_clarification"]:
+        # No clarification is being continued into THIS turn - either
+        # nothing was pending at all, or something WAS pending but this
+        # message answers something else / changes topic instead - so
+        # there's no unresolved clarify streak to cap here, reset the
+        # counter. Was gated on bare `not pending_need_text` (2026-08-25,
+        # found live) - that only caught the first case, not the second: a
+        # citizen who ignores a pending clarifying question and states a
+        # brand-new need instead correctly got was_answering_clarification=
+        # False (routing behaved right), but clarify_attempts/
+        # generate_clarify_rounds still carried over unearned from the
+        # abandoned exchange - e.g. an abandoned SCHEME clarification
+        # silently used up the JOB domain's own single clarify_jobs
+        # attempt for an unrelated later job search, skipping its narrowing
+        # question entirely. Left untouched (not returned) only while a
+        # clarification IS actually being continued, so the streak still
+        # survives across the turns route_after_stage_a needs to count it
+        # over.
         result_dict["clarify_attempts"] = 0
         result_dict["generate_clarify_rounds"] = 0
 
@@ -1580,7 +1654,18 @@ def stage_a_node(state: ConvState):
             {"scheme_id": s.scheme_id, "scheme_name": s.scheme_name, "lang": s.lang, "score": s.score, "metadata": s.metadata}
             for s in results
         ]
-        shortlists.append({"need": need, "shortlist": shortlist, "candidate_count": trace.get("survivors", len(results))})
+        # Which scheme_id(s), if any, this need's own RagService.shortlist
+        # call identified as a genuine, unambiguous NAME lookup (see
+        # RagService.shortlist's name_boost_applied/name_matches trace
+        # fields) - carried through to stage_b_node so it can narrow
+        # focused_scheme_ids for a first-time "am I eligible for scheme X"
+        # question, not just a followup on an already-shown scheme (2026-08-25,
+        # found live - see stage_b_node's own comment on focused_scheme_ids).
+        named_scheme_ids = list(trace["name_matches"].keys()) if trace.get("name_boost_applied") else []
+        shortlists.append({
+            "need": need, "shortlist": shortlist, "candidate_count": trace.get("survivors", len(results)),
+            "named_scheme_ids": named_scheme_ids,
+        })
 
     primary = shortlists[0]
     return {
@@ -1686,9 +1771,9 @@ def clarify_jobs_node(state: ConvState):
         "about something NOT already answered in the context above. Do not list job titles. One "
         "sentence only."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+    reply = _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], state.get("reply_lang"), label="clarify_jobs")
     return {
-        "last_reply": resp.content,
+        "last_reply": reply,
         "pending_need_text": state.get("need_text"),
         "pending_need_domain": "job",
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
@@ -1743,9 +1828,9 @@ def clarify_node(state: ConvState):
         "on exactly that. It must be about something NOT already answered in the context above. Do "
         "not list scheme names. One sentence only."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+    reply = _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], state.get("reply_lang"), label="clarify")
     return {
-        "last_reply": resp.content,
+        "last_reply": reply,
         "pending_need_text": state.get("need_text"),
         "pending_need_domain": "scheme",
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
@@ -1880,9 +1965,9 @@ def clarify_identity_node(state: ConvState):
         "ask, do not ask it - use that answer directly instead. "
         "One or two sentences either way."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
+    reply = _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], state.get("reply_lang"), label="clarify_identity")
     return {
-        "last_reply": resp.content,
+        "last_reply": reply,
         "pending_need_text": state.get("need_text"),
         "pending_need_domain": "scheme",
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
@@ -1930,6 +2015,21 @@ def stage_b_node(state: ConvState):
         if top and top[0]["scheme_id"] not in already_shown:
             already_shown.append(top[0]["scheme_id"])
 
+    # Narrow chunk_cache carryover to just the named scheme(s) when this
+    # need was a genuine, unambiguous name lookup (2026-08-25, found live) -
+    # previously ALWAYS None here, on the reasoning that a fresh need is "a
+    # genuinely fresh, possibly multi-scheme answer - no narrowing to carry
+    # over". That's right for a generic need, but wrong for "am I eligible
+    # for Indira Mahila Shakti Udyam Protsahan Yojana" asked for the FIRST
+    # time (never previously shown, so stage_b_followup_node's own
+    # focused_scheme_ids never applies either) - without narrowing here,
+    # whatever OTHER schemes were discussed several turns earlier stayed in
+    # generate_node's prompt via chunk_cache, unfiltered, right alongside
+    # the correctly-retrieved named scheme - verified live: the model
+    # answered about the named scheme using a DIFFERENT, stale scheme's
+    # eligibility text still sitting in that same prompt.
+    named_scheme_ids = [sid for entry in shortlists for sid in (entry.get("named_scheme_ids") or [])]
+
     return {
         "detail_chunks": chunks,
         "chunk_cache": _update_chunk_cache(state.get("chunk_cache"), chunks),
@@ -1939,7 +2039,7 @@ def stage_b_node(state: ConvState):
         "shown_scheme_lang": lang,
         "already_shown_scheme_ids": already_shown,
         "clarify_attempts": 0,  # a real answer is being delivered - the unresolved streak ends here
-        "focused_scheme_ids": None,  # a genuinely fresh, possibly multi-scheme answer - no narrowing to carry over
+        "focused_scheme_ids": named_scheme_ids or None,
     }
 
 
@@ -2433,8 +2533,8 @@ def chitchat_node(state: ConvState):
         f"This isn't a scheme/job question. Reply briefly and warmly. {lang_instruction} "
         "Mention you can help them find Rajasthan government schemes and jobs."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
-    return {"last_reply": resp.content}
+    reply = _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], state.get("reply_lang"), label="chitchat")
+    return {"last_reply": reply}
 
 
 # ---------------------------------------------------------------------------
@@ -2475,8 +2575,15 @@ def stage_a_jobs_node(state: ConvState):
 
     return {
         "job_shortlist": results,
-        "shown_jobs": shown_jobs,
-        "shown_job_id": results[0]["id"] if results else None,
+        # `or state.get(...)` fallback (2026-08-25, found live) - the scheme
+        # side's equivalent (show_more_node) already guards this way; this
+        # node didn't, so a "show more jobs" search that comes back empty
+        # (the remaining list is genuinely exhausted) used to silently wipe
+        # out whatever job was already in focus, breaking a subsequent
+        # "tell me more about that one" followup (route_after_extract's
+        # shown_job_id check) into a fresh, unrelated search instead.
+        "shown_jobs": shown_jobs or state.get("shown_jobs"),
+        "shown_job_id": results[0]["id"] if results else state.get("shown_job_id"),
         "already_shown_job_ids": already_shown,
         # For route_after_stage_a_jobs - see JobService.has_title_match's
         # docstring for why this needs its own signal, distinct from
@@ -2515,8 +2622,8 @@ def generate_jobs_node(state: ConvState):
             f"No matching postings were found. Say so briefly {lang_instruction} and suggest they "
             "check back later or ask about a different post/location. One or two sentences."
         )
-        resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
-        return {"last_reply": resp.content}
+        reply = _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], state.get("reply_lang"), label="generate_jobs_empty")
+        return {"last_reply": reply}
 
     jobs_desc = "\n".join(
         f"- {j['title']} ({j['department']}), location: {j['location']}, status: {j['status']}, "
@@ -2576,8 +2683,8 @@ def generate_jobs_node(state: ConvState):
         "notify them when a matching posting opens, rather than recommending a closed one as if it "
         "were usable now."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
-    return {"last_reply": resp.content}
+    reply = _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], state.get("reply_lang"), label="generate_jobs")
+    return {"last_reply": reply}
 
 
 _NO_MATCH_TEXT = {
@@ -2776,8 +2883,7 @@ def _answer_from_entitlements(need_text, entitlements, reply_lang):
         "verification process in this reply - just answer their status question naturally, as if "
         "you already knew this about them."
     )
-    resp = get_reply_llm().invoke([("system", PERSONA), ("human", prompt)])
-    return resp.content
+    return _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], reply_lang, label="answer_from_entitlements")
 
 
 def janaadhaar_handle_node(state: ConvState):
@@ -2799,8 +2905,20 @@ def janaadhaar_handle_node(state: ConvState):
         # through to asking for the ID when there's nothing cached yet.
         cached = state.get("janaadhaar_status_data")
         if cached:
-            reply = _answer_from_entitlements(state.get("need_text", ""), cached, reply_lang)
-            return {"last_reply": reply}
+            # Only reuse the cache for the SAME person it was fetched for
+            # (2026-08-25, found live) - without this check, a status
+            # question about a DIFFERENT family member than the one
+            # originally verified silently answered using the wrong
+            # person's cached entitlements, with no re-verification and no
+            # indication anything was off.
+            primary_need = (state.get("needs") or [None])[0]
+            current_subject = ((primary_need.get("subject_relation") if primary_need else None) or "self").strip().lower()
+            cached_subject = (state.get("janaadhaar_status_data_for") or "self").strip().lower()
+            if current_subject == cached_subject:
+                reply = _answer_from_entitlements(state.get("need_text", ""), cached, reply_lang)
+                return {"last_reply": reply}
+            # Different person - fall through to a fresh verification rather
+            # than answering from the stale cache.
         # Fresh trigger from a citizen_status need - THIS turn's own message
         # (the status question itself) already safely went through
         # extract_profile/extract_need, nothing to redact yet. Ask for
@@ -2948,10 +3066,13 @@ def janaadhaar_handle_node(state: ConvState):
         # Only entitlements (never the ID/OTP, which never reached this
         # point as anything but a local variable) go into this prompt.
         reply = _answer_from_entitlements(state.get("need_text", ""), entitlements, reply_lang)
+        primary_need = (state.get("needs") or [None])[0]
+        status_data_for = (primary_need.get("subject_relation") if primary_need else None) or "self"
         return {
             **redacted,
             "last_reply": reply,
             "janaadhaar_status_data": entitlements,
+            "janaadhaar_status_data_for": status_data_for,
             "pending_janaadhaar_step": None,
             "janaadhaar_member_id": None,
             "janaadhaar_tid": None,

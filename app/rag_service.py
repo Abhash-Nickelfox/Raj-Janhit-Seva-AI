@@ -14,11 +14,11 @@ single, self-contained query. It's deliberately testable standalone via
 scripts/query_retrieval.py, independent of any chat/session logic.
 """
 
+import re
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Optional
 
-from rapidfuzz import fuzz
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 
@@ -181,6 +181,23 @@ def eligibility_verdict(meta, citizen: CitizenContext):
         if ceiling is not None and citizen.family_income > ceiling:
             return False, f"income: citizen={citizen.family_income} exceeds ceiling {ceiling}"
 
+    # meta["individual_income_ceiling"]/["parent_income_ceiling"] are
+    # extracted (scripts/extract_eligibility.py) and stored on every scheme,
+    # but deliberately NEVER checked here (2026-08-25, found live during a
+    # backend audit) - CitizenContext has no individual_income/parent_income
+    # fields at all, only family_income, and this app currently only ever
+    # asks the citizen for FAMILY income, never their own personal income or
+    # a parent's separately. Using family_income as a stand-in for either
+    # would risk a wrong EXCLUSION on an unverified assumption (a large
+    # family's modest per-person income could easily be well under an
+    # individual ceiling while family_income alone reads as over it) -
+    # exactly the "excluded on a fact that may be about the wrong person"
+    # failure this module's own alt_citizen mechanism exists to prevent
+    # elsewhere. Left as a known gap rather than a proxy-based half-fix:
+    # closing it properly needs a product decision (does ProfileExtraction
+    # need to start collecting individual/parent income as their own
+    # facts?), not just a code change here.
+
     # A scheme requiring the 'differently_abled' occupation_target_group is
     # (per this corpus's actual data) FOR disabled applicants specifically,
     # not merely open to them alongside everyone else - so an explicit "no
@@ -193,20 +210,52 @@ def eligibility_verdict(meta, citizen: CitizenContext):
     return True, None
 
 
+# Common filler words stripped before name-overlap scoring - "yojana"/"yojna"
+# especially, since it appears in nearly every scheme name in this corpus
+# and would otherwise count as a "match" against almost anything.
+_NAME_MATCH_STOPWORDS = {
+    "yojana", "yojna", "scheme", "for", "of", "the", "and", "ke", "ki", "ka",
+    "liye", "hetu", "evam", "avm", "va", "aur",
+}
+_WORD_RE = re.compile(r"[a-zA-Zऀ-ॿ]+")
+
+
+def _significant_words(text):
+    return [w for w in _WORD_RE.findall(text.lower()) if len(w) >= 3 and w not in _NAME_MATCH_STOPWORDS]
+
+
 def _name_match_score(query, meta):
-    """0-100 best fuzzy match between the query and this scheme's name, in
-    whichever language (English or Hindi) matches better. partial_ratio
-    (not plain ratio) so a query with extra words around the name
-    ("krishi yantra ke baare mein batao") still scores near-perfectly on
-    the substring that IS the name."""
-    query_lower = query.lower()
+    """0-100: what fraction of THIS SCHEME'S OWN significant name-words
+    appear as whole words somewhere in the query, in whichever language
+    (English or Hindi) scores better.
+
+    Replaces a plain fuzz.partial_ratio scorer (2026-08-25, found live) -
+    partial_ratio does substring alignment with no regard for word
+    boundaries, so it can't tell apart schemes that share a long common
+    prefix: "Indira Mahila Shakti Udyam Protsahan Yojana" and "Indira
+    Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna" scored
+    similarly high against each other's queries purely from the shared
+    "Indira Mahila Shakti ... Yojana/Yojna" prefix - verified live, asking
+    about the first by name still surfaced the second's (wrong) data,
+    which the model then described under the first scheme's own name.
+
+    Query-word coverage (not the reverse) is deliberate: a query with extra
+    words around the name ("krishi yantra ke baare mein poori jankari
+    chahiye") must still score 100% against "Krishi Yantra Yojana" - it's
+    "does the query CONTAIN this scheme's name", not "does the scheme name
+    contain every word of the query"."""
+    query_words = set(_significant_words(query))
+    if not query_words:
+        return 0.0
     best = 0.0
-    name_en = meta.get("scheme_name") or ""
-    if name_en:
-        best = max(best, fuzz.partial_ratio(query_lower, name_en.lower()))
-    name_hi = meta.get("scheme_name_hi") or ""
-    if name_hi:
-        best = max(best, fuzz.partial_ratio(query, name_hi))
+    for name_field in (meta.get("scheme_name"), meta.get("scheme_name_hi")):
+        if not name_field:
+            continue
+        name_words = _significant_words(name_field)
+        if not name_words:
+            continue
+        overlap = sum(1 for w in name_words if w in query_words)
+        best = max(best, 100.0 * overlap / len(name_words))
     return best
 
 

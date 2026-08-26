@@ -72,11 +72,53 @@ def _compute_status(job, today: date) -> str:
     return "active"
 
 
+# Hand-verified Hindi/Hinglish/abbreviation aliases for this corpus's 12 job
+# titles (2026-08-25, found live) - every title in jobs.json is an
+# English-only string, so fuzz.partial_ratio against a Devanagari query
+# scores near-zero regardless of a genuine match (confirmed: "पटवारी भर्ती"
+# scored <=15 against every title, including the real Patwari postings) -
+# NeedItem.need_text is REQUIRED to be Devanagari for any Hindi/Hinglish
+# message (see its own field description), with no domain exception for
+# jobs, so this isn't a rare edge case, it's every Hindi-script job query.
+# Same class of gap as OCCUPATION_KEYWORDS (app/rag_service.py) - a small,
+# literal table, not exhaustive; anything missed just falls back to the
+# English fuzzy match, same as before this fix.
+_TITLE_ALIASES = {
+    "Account Assistant": ["लेखा सहायक", "accounts assistant", "lekha sahayak"],
+    "Computer Instructor": ["कंप्यूटर अनुदेशक", "computer anudeshak"],
+    "Forest Guard": ["वनरक्षक", "वन रक्षक", "vanrakshak", "van rakshak"],
+    "Junior Assistant": ["कनिष्ठ सहायक", "kanishtha sahayak", "kanisht sahayak"],
+    "Junior Engineer": ["कनिष्ठ अभियंता", "kanishtha abhiyanta", "जूनियर इंजीनियर"],
+    "LDC": ["लोअर डिवीजन क्लर्क", "lower division clerk", "एलडीसी"],
+    "Lab Assistant": ["प्रयोगशाला सहायक", "prayogshala sahayak", "लैब सहायक"],
+    "Patwari": ["पटवारी"],
+    "Police Constable": ["पुलिस कांस्टेबल", "पुलिस भर्ती", "sipahi", "सिपाही", "police bharti"],
+    "RAS Officer": ["आरएएस अधिकारी", "राजस्थान प्रशासनिक सेवा", "rajasthan administrative service"],
+    "Teacher Grade III": [
+        "अध्यापक तृतीय श्रेणी", "तृतीय श्रेणी अध्यापक", "shikshak tritiya shreni",
+        "teacher grade 3", "3rd grade teacher", "third grade teacher",
+    ],
+    "Village Development Officer": ["ग्राम विकास अधिकारी", "gram vikas adhikari", "वीडीओ"],
+}
+
+
+def _title_alias_score(query_lower, job):
+    """100 if any known Hindi/Hinglish/abbreviation alias for this job's
+    title appears in the query, else 0 - a deliberately binary signal
+    (found-or-not), not a fuzzy one, since these are exact hand-verified
+    phrases, not approximations to fuzzy-match against."""
+    aliases = _TITLE_ALIASES.get(job["title"])
+    if not aliases:
+        return 0.0
+    return 100.0 if any(alias in query_lower for alias in aliases) else 0.0
+
+
 def _title_match_score(query, job):
     query_lower = query.lower()
     return max(
         fuzz.partial_ratio(query_lower, job["title"].lower()),
         fuzz.partial_ratio(query_lower, job["department"].lower()),
+        _title_alias_score(query_lower, job),
     )
 
 

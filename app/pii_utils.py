@@ -30,6 +30,44 @@ def extract_otp(text: str) -> str | None:
     return digits if len(digits) == 6 else None
 
 
+_CANDIDATE_NUMBER_RE = re.compile(r"\d[\d\s\-]*\d|\d")
+
+
+def scrub_jan_aadhaar_ids(text: str) -> str:
+    """Redacts any bare 10-digit run (a Jan Aadhaar ID's exact length, per
+    the Integration Document v1.8 S5 parameter table) found ANYWHERE in
+    free text - not just when the graph already expects one.
+
+    Found live (2026-08-25): every OTHER function in this module is only
+    ever called from inside janaadhaar_handle_node, which only runs once
+    pending_janaadhaar_step is already set - so a citizen who pastes their
+    ID UNPROMPTED, in the same message that first raises a citizen_status
+    need (e.g. "mera jan aadhaar id 1234567890 hai, meri pension ka status
+    batao"), has that ID sent straight to extract_profile_node/
+    extract_need_node's LLM prompts before the graph even knows a Jan
+    Aadhaar flow is relevant - then persisted into conversation_history and
+    server logs in cleartext, replayed into every later prompt too via the
+    rolling history window. This is meant to run in normalize_node, on
+    every turn, regardless of what step (if any) is pending - a general
+    content-based safety net under the existing state-machine-gated one,
+    not a replacement for it.
+
+    Deliberately 10-digit runs ONLY, not 6-digit (OTP length) - a 6-digit
+    number is indistinguishable from an ordinary income figure a citizen
+    might legitimately state ("meri income 200000 hai"), and blindly
+    redacting those would break income extraction for no real benefit: an
+    OTP has no realistic reason to be pasted UNPROMPTED outside the gated
+    flow anyway, since it only exists after generate_otp() sends one in
+    response to a request already inside that flow. A 10-digit run this
+    catches might occasionally be an ordinary phone number rather than a
+    Jan Aadhaar ID - redacting it anyway is a harmless false positive, not
+    a cost, since this app has no use for a phone number either way."""
+    def _replace(match):
+        digits = digits_only(match.group(0))
+        return "[possible Jan Aadhaar ID redacted]" if len(digits) == 10 else match.group(0)
+    return _CANDIDATE_NUMBER_RE.sub(_replace, text)
+
+
 # Checked BEFORE the no/yes lists below (found live testing this directly:
 # "mujhe pata nahi" - "I don't know" - contains the bare substring "nahi"
 # and got misread as a flat "No" without this check first, even though the

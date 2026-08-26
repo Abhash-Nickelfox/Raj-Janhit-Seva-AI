@@ -222,6 +222,15 @@ class ConvState(TypedDict, total=False):
     # successful verification, kept in case a same-session followup asks
     # about it again without re-verifying.
     janaadhaar_status_data: Optional[dict]
+    # WHO janaadhaar_status_data above is actually for - the subject_relation
+    # (e.g. "maa"/"mother") of the need that triggered that verification, or
+    # "self" if it was about the citizen themselves (2026-08-25, found live).
+    # The cache-reuse path in janaadhaar_handle_node compares this against
+    # the CURRENT need's own subject_relation before reusing it - without
+    # this, any later citizen_status need in the same session (about ANY
+    # family member) answered from whichever member was verified FIRST, with
+    # no check that it's even the same person being asked about.
+    janaadhaar_status_data_for: Optional[str]
     # Set by janaadhaar_handle_node on every turn IT processes (an ID/member
     # choice/OTP attempt), to a synthetic label like "[Jan Aadhaar ID
     # redacted]" instead of the real value. finalize_node persists THIS in
