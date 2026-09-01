@@ -23,7 +23,7 @@ from typing import Literal, Optional
 from langgraph.graph import StateGraph, END
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_openai import ChatOpenAI
-from pydantic import BaseModel, Field, ValidationError
+from pydantic import BaseModel, Field, ValidationError, model_validator
 
 from app.config import OPENROUTER_API_KEY, OPENROUTER_MODEL
 from app.state import ConvState
@@ -119,6 +119,77 @@ MAX_JOBS_CLARIFY_ATTEMPTS = 2
 # ambiguity worth resolving by asking, not guessing.
 IDENTITY_FIELDS = ("gender", "caste", "marital_status", "residence", "education_level")
 
+# The two NUMERIC dimensions eligibility_verdict also filters on (age against
+# age_min/age_max, family_income against family_income_ceiling) - handled
+# separately below from IDENTITY_FIELDS' plain string-equality check, since a
+# numeric restriction is a RANGE, not a value to match.
+#
+# Added 2026-09-01, after tracing why "the bot names a scheme instead of
+# asking" kept recurring across unrelated personas (farmer land/pension,
+# scholarship income, senior pension) rather than being one persona's bug.
+# The root cause was an asymmetry, not a wording problem: eligibility_verdict
+# ENFORCES age and family_income whenever the citizen's value is known, but
+# _identity_gap never listed them, so when the value was UNKNOWN nothing ever
+# asked for it. Every other unconfirmed restriction had a mechanical path to a
+# question (clarify_identity_node); these two had none at all, leaving them
+# entirely to generate_node's discretion - which is a prompt hint, not a
+# guarantee, and one the model routinely spent on a caveat instead ("this fits
+# you - but if your land is under 1.5 hectare it won't, let me know").
+#
+# Measured against the real corpus (data/processed/eligibility_structured.json,
+# 157 schemes): 80 of them - 51% - have a genuinely narrow age window, and 21
+# have a family_income_ceiling. So this wasn't an edge case; for over half the
+# corpus the single most decisive eligibility fact could never be asked about.
+#
+# IDENTITY_FIELDS' own comment above claims the list is "complete by
+# construction ... every scalar identity/eligibility dimension
+# eligibility_verdict already checks". That claim was simply no longer true -
+# age/income checks were added to eligibility_verdict later and this list was
+# never extended to match. These constants restore that stated invariant.
+_AGE_GAP_BAND = (18, 80)
+# A window only counts as a gap if it's genuinely NARROW. Most schemes are
+# tagged 18-100, which is just "any adult" - treating that as a gap would ask
+# every citizen their age for no benefit, and (worse) make _first_identity_gap
+# see the whole top-5 as gapped almost always, which would fire a clarifying
+# question on nearly every turn. Narrowness = what fraction of the 18-80 adult
+# band the window actually covers. Verified against the corpus: the split is
+# identical at 0.80, 0.85 and 0.90 (80 narrow / 77 wide at all three), i.e.
+# there's a clean gap in the data here, not an arbitrary cutoff - the "wide"
+# bucket is exactly the any-adult windows (18-100, 1-100, 0-100, 16-100,
+# 18-80, 14-100, 20-100, 21-100) and nothing else.
+_AGE_WINDOW_NARROW_THRESHOLD = 0.85
+
+
+def _age_window_is_narrow(meta):
+    """Whether this scheme's age window actually excludes a meaningful part of
+    the adult population (see _AGE_WINDOW_NARROW_THRESHOLD) - i.e. whether
+    knowing the citizen's age would plausibly change the verdict, rather than
+    being a formality that admits nearly everyone."""
+    lo, hi = meta.get("age_min"), meta.get("age_max")
+    lo = 0 if lo is None else lo
+    hi = 120 if hi is None else hi
+    band_lo, band_hi = _AGE_GAP_BAND
+    covered = max(0, min(band_hi, hi) - max(band_lo, lo))
+    return covered / (band_hi - band_lo) < _AGE_WINDOW_NARROW_THRESHOLD
+
+
+def _describe_age_window(meta):
+    """Human-readable form of the window, for clarify_identity_node's gap_desc.
+    age_max of 100 is this corpus's "no upper limit" sentinel (45 schemes are
+    tagged 18-100), not a literal cutoff - phrasing it as "60 to 100 years
+    old" would read as though centenarians were being deliberately excluded."""
+    lo, hi = meta.get("age_min"), meta.get("age_max")
+    lo = 0 if lo is None else lo
+    hi = 120 if hi is None else hi
+    bounded_lo, bounded_hi = lo > 0, hi < 100
+    if bounded_lo and bounded_hi:
+        return f"{lo} to {hi} years old"
+    if bounded_lo:
+        return f"{lo} years or older"
+    if bounded_hi:
+        return f"{hi} years or younger"
+    return "a specific age range"
+
 # How many of the top-ranked schemes get checked for an identity gap, not
 # just the #1 - found live (2026-08-10): a #1 scheme unrestricted on gender
 # let a #2-ranked, gender-restricted scheme (Transgender Utthan Kosh) slip
@@ -183,6 +254,33 @@ def _update_chunk_cache(existing_cache, new_chunks, max_size=MAX_CACHED_CHUNKS):
     return list(by_key.values())[-max_size:]
 
 
+# Which gap to ask about FIRST when one scheme has several - see the sort at
+# the end of _identity_gap. Mirrors generate_node's own QUESTION PRIORITY
+# wording ("Prefer broad, low-sensitivity questions (age, class/degree,
+# income, residence) over narrow or sensitive ones (disability, caste,
+# marital status, gender)"), with the same sensitive sets used by
+# _has_sensitive_gap below - deliberately the SAME classification in both
+# places rather than a second, drifting copy of it.
+_GAP_RANK_BROAD = 0
+_GAP_RANK_OTHER = 1
+_GAP_RANK_SENSITIVE = 2
+_BROAD_GAP_FIELDS = ("age", "family_income", "education_level", "residence")
+
+
+def _gap_sort_rank(gap):
+    field_name, value = gap
+    if field_name in _BROAD_GAP_FIELDS:
+        return _GAP_RANK_BROAD
+    if field_name in _SENSITIVE_IDENTITY_FIELDS:
+        return _GAP_RANK_SENSITIVE
+    if field_name == "occupation_target_group":
+        groups = value.split("|")
+        if any(g in _SENSITIVE_OCCUPATION_GROUPS for g in groups):
+            return _GAP_RANK_SENSITIVE
+        return _GAP_RANK_OTHER
+    return _GAP_RANK_OTHER
+
+
 def _identity_gap(scheme_meta, facts, need_text=""):
     """Which restrictions does this scheme have that current known facts
     haven't confirmed? Returns [(field, required_value), ...].
@@ -202,6 +300,18 @@ def _identity_gap(scheme_meta, facts, need_text=""):
         value = scheme_meta.get(field_name, "")
         if value and value != "all" and not facts.get(field_name):
             gaps.append((field_name, value))
+
+    # Numeric dimensions - see _AGE_GAP_BAND's comment for why these were
+    # missing entirely until 2026-09-01. `is None` rather than a falsy check
+    # for age: a stated age of 0 is meaningless here, but family_income of 0
+    # is a real, decisive answer ("koi income nahi hai") that must count as
+    # confirmed, not be re-asked forever as if never stated.
+    if facts.get("age") is None and _age_window_is_narrow(scheme_meta):
+        gaps.append(("age", _describe_age_window(scheme_meta)))
+
+    income_ceiling = scheme_meta.get("family_income_ceiling")
+    if income_ceiling is not None and facts.get("family_income") is None:
+        gaps.append(("family_income", f"annual family income at or below Rs {income_ceiling}"))
 
     occ_groups = [g for g in (scheme_meta.get("occupation_target_group") or "").split("|") if g]
     if occ_groups:
@@ -233,6 +343,25 @@ def _identity_gap(scheme_meta, facts, need_text=""):
         ]
         if unconfirmed_groups:
             gaps.append(("occupation_target_group", "|".join(unconfirmed_groups)))
+
+    # Broad gaps first (2026-09-01). clarify_identity_node only ever asks
+    # about gaps[:2], and until now this list came back in raw IDENTITY_FIELDS
+    # order - gender, caste, marital_status, residence, education_level -
+    # which puts the three SENSITIVE fields at the front and silently drops
+    # everything after them. So a scheme gapped on gender + caste + age got
+    # asked about gender and caste, and its age requirement (often the fact
+    # that actually decides the verdict) was never reachable at all.
+    #
+    # That directly contradicts the priority both generate_node's prompt and
+    # clarify_node's own comment already state: "Prefer broad, low-sensitivity
+    # questions (age, class/degree, income, residence) over narrow or
+    # sensitive ones (disability, caste, marital status, gender)". The
+    # _prioritize_sensitive_gap_free helper below enforces that preference for
+    # WHICH SCHEME to ask about, but nothing enforced it for WHICH GAP within
+    # the chosen scheme - so the rule was only half-implemented.
+    #
+    # Stable sort, so ordering within a rank stays exactly as before.
+    gaps.sort(key=_gap_sort_rank)
     return gaps
 
 
@@ -676,7 +805,56 @@ def _source_lang(reply_lang):
     return "hi" if reply_lang in ("hindi", "hinglish") else "en"
 
 
-class NeedItem(BaseModel):
+# Keys a provider sometimes wraps the real tool-call arguments in, instead of
+# returning them bare. Both are JSON-Schema/OpenAI-tool-envelope names, never
+# a field any model below actually declares - so seeing one at the top level
+# is unambiguous evidence of a wrapper, not of real content.
+_TOOL_ARG_ENVELOPE_KEYS = ("parameters", "arguments")
+
+
+class _UnwrapsToolEnvelope(BaseModel):
+    """Base for every .with_structured_output(...) model in this file - lifts
+    a `{"parameters": {...}}` / `{"arguments": {...}}` wrapper up one level
+    before validation runs.
+
+    Found live (2026-09-01, in the server log): an extract_need call failed
+    with FIVE "Field required" errors at once - needs, need_is_specific,
+    intent, turn_type, detected_language - and the logged input_value was
+    `{'parameters': {'needs': ... "son is 32 years old"}}`. The model's actual
+    content was entirely correct; it had simply returned the arguments still
+    wrapped in the JSON-Schema-shaped envelope rather than bare, so Pydantic
+    found none of the required fields at the top level and every single one
+    reported missing simultaneously. That all-fields-at-once signature is the
+    giveaway that it's a serialization mismatch, not a reasoning failure.
+    OpenRouter does this intermittently with method="function_calling",
+    depending on how the upstream provider re-serializes the tool call.
+
+    Worth fixing deterministically rather than leaving to _invoke_structured's
+    retry: the retry only recovered because the model happened to re-emit it
+    unwrapped the second time (nothing about the correction text addresses an
+    envelope - it just shows the field-missing errors), and it costs a full
+    extra call of one of the largest prompts here every time it fires. If the
+    retry ALSO wrapped it, _invoke_structured re-raises and the whole turn
+    fails to a "takniki dikkat" message. This makes the envelope simply never
+    reach validation.
+
+    Only unwraps when the wrapper is the ONLY key present and its value is a
+    dict - a real payload that legitimately contained a field called
+    "parameters" alongside its other fields is left completely untouched.
+    """
+
+    @model_validator(mode="before")
+    @classmethod
+    def _lift_tool_envelope(cls, data):
+        if not isinstance(data, dict) or len(data) != 1:
+            return data
+        (only_key, only_value), = data.items()
+        if only_key in _TOOL_ARG_ENVELOPE_KEYS and isinstance(only_value, dict):
+            return only_value
+        return data
+
+
+class NeedItem(_UnwrapsToolEnvelope):
     """One distinct need/topic within the message. A message almost always
     produces exactly one of these - it only becomes a list because a single
     message occasionally states two unrelated needs at once (a farming
@@ -850,7 +1028,7 @@ class NeedItem(BaseModel):
     )
 
 
-class ProfileExtraction(BaseModel):
+class ProfileExtraction(_UnwrapsToolEnvelope):
     """Just the mechanical, low-ambiguity part: did the citizen state a fact
     about THEMSELVES (the person sending this message) this message? Split
     out from need/intent classification (below) after finding that one call
@@ -991,7 +1169,7 @@ class ProfileExtraction(BaseModel):
     )
 
 
-class NeedExtraction(BaseModel):
+class NeedExtraction(_UnwrapsToolEnvelope):
     """The judgment-heavy part: what do they want, and is it clear enough
     to act on. need_is_specific is the model's OWN direct clarity call -
     never inferred from whether need_category/need_benefit_type happened
@@ -1955,6 +2133,11 @@ def clarify_identity_node(state: ConvState):
         "far less likely assumption than the actual gap (are they even in higher education at all), "
         "purely because that scheme's eligibility text happened to be dominated by that specific PhD "
         "requirement. "
+        "If the identified gap is age or family income, ask for the actual VALUE openly ('aapki umar "
+        "kitni hai?', 'aapke parivar ki saalana aay kitni hai?') - never a yes/no naming this "
+        "scheme's own threshold ('kya aap 60 saal se upar hain?', 'kya aapki aay 2 lakh se kam "
+        "hai?'), which both leads the answer and only resolves THIS one scheme, where the real "
+        "number resolves every other age- or income-gated scheme in the shortlist at once. "
         "If the identified gap is caste or marital status - fields with SEVERAL possible values "
         "(general/OBC/SC/ST/PVTG for caste; married/never-married/widowed/divorced/separated for "
         "marital status) - phrase the question OPEN-ENDED, asking what category/status the RELEVANT "
@@ -2280,21 +2463,73 @@ def _format_notes(notes):
     )
 
 
-class SchemeAnswer(BaseModel):
+# Appended to BOTH of generate_node's rewrite prompts (2026-09-01). Those are
+# the longest prompts in this file - the entire original prompt plus a
+# correction - and a rewrite instruction naturally reads as being about the
+# CONTENT of the reply, which makes it easy to treat the reply itself as
+# something already established and only re-emit the flags. That is exactly
+# what was seen live: a generate_fix response carrying both booleans and no
+# `reply` at all. Stated explicitly here rather than relying on the field
+# description alone, since by this point the field descriptions are far up a
+# very long prompt.
+_REWRITE_FIELD_REMINDER = (
+    "Return the COMPLETE rewritten reply text in the `reply` field - the rewrite is the reply "
+    "itself, not just a change to the flags. A response without `reply` is unusable: it is the "
+    "only part the citizen ever sees."
+)
+
+
+class SchemeAnswer(_UnwrapsToolEnvelope):
     """Structured wrapper around generate_node's reply purely to know
     whether it asked a clarifying question - added 2026-08-16 so
     pending_need_text can be set the same way clarify_node/
     clarify_identity_node already do, giving a terse follow-up reply next
     turn something structured to anchor to (see generate_node's return)."""
 
-    reply: str = Field(..., description="The actual reply to send to the citizen - identical in content to what a plain text reply would be.")
+    # `reply` is the ONLY strictly-required field here; both booleans below
+    # carry defaults (2026-09-01). Found live in the server log: a
+    # generate_fix call came back as
+    # {'asked_clarifying_question': ..., 'named_scheme_has_unconfirmed_condition': False}
+    # with `reply` absent entirely - the model answered the two cheap metadata
+    # questions and dropped the expensive string. That fired on generate_fix
+    # specifically, which is the longest prompt in this file (the full
+    # generate prompt with a correction appended), and right after
+    # named_scheme_has_unconfirmed_condition took this model from two fields
+    # to three - more required fields on the longest prompt is exactly the
+    # pressure that makes a model skip the payload.
+    #
+    # Defaults don't prevent that case (a missing `reply` still has to fail -
+    # there's nothing safe to substitute for the citizen's actual answer, so
+    # _invoke_structured's retry remains correct there). What they DO prevent
+    # is the reverse failure: a payload with a perfectly good `reply` being
+    # thrown away, and a second full-size call paid for, purely because a
+    # boolean was omitted. The defaults are the conservative reading in both
+    # cases - asked_clarifying_question=False means "treat this as a complete
+    # answer" (so pending_need_text isn't left dangling on a reply that never
+    # asked anything), and named_scheme_has_unconfirmed_condition=False means
+    # "don't trigger the hedge-rewrite retry", i.e. an omitted flag never
+    # invents extra work, it just declines to claim a violation it can't see.
+    reply: str = Field(..., description="The actual reply to send to the citizen - identical in content to what a plain text reply would be. ALWAYS include this field; it is the only thing the citizen actually receives.")
     asked_clarifying_question: bool = Field(
-        ...,
+        False,
         description=(
             "True if `reply` asks the citizen to confirm/provide ANY information needed to "
             "determine eligibility (per QUESTION LIMIT above) - i.e. it is NOT yet a complete, "
             "final answer. False if `reply` is a complete answer with no outstanding question "
             "(eligibility confirmed, or plainly stating nothing matches)."
+        ),
+    )
+    named_scheme_has_unconfirmed_condition: bool = Field(
+        False,
+        description=(
+            "True ONLY if `reply` names/recommends a scheme (asked_clarifying_question=False) whose "
+            "real eligibility text (not just the coarse structured tag) contains a condition - "
+            "numeric/quantitative (land size in hectares, income amount, age cutoff, family size, "
+            "distance) or otherwise - that is NOT already confirmed in 'What we know about this "
+            "citizen'/the conversation, REGARDLESS of whether `reply` phrases it as a caveat/hedge "
+            "('agar aapki zameen 1.5 hectare se kam hai to yeh fit nahi karegi') rather than a "
+            "direct question. False if every condition the named scheme's eligibility text states "
+            "is already confirmed, or if `reply` didn't name any scheme."
         ),
     )
 
@@ -2459,7 +2694,21 @@ def generate_node(state: ConvState):
         "isn't confirmed still doesn't belong in this answer, whether it's attached to a question or "
         "to an 'if this applies to you' hedge. Only mention a second scheme if it is ALSO fully "
         "confirmed-fitting with nothing conditional about it (rare - most of the time there's one "
-        "clear answer). If the citizen wants to see other options, they'll ask ('koi aur scheme?') "
+        "clear answer). This applies EQUALLY when there's only ONE scheme in play, not just when a "
+        "second one is being added - found live (2026-09-01): a farmer who'd only confirmed 'khud ka "
+        "khet hai' (has his own field, no size given) was told 'Kantedar Tarbandi Yojana fits you' "
+        "with a hedge tacked on ('agar aapki zameen 1.5 hectare se kam hai to yeh fit nahi karegi - "
+        "bata dena') instead of just ASKING the land size before naming anything - the scheme's real "
+        "eligibility text has a hard 1.5-hectare minimum, so land size wasn't a minor refinement, it "
+        "was the exact fact that determines fit, and it was still unconfirmed. A numeric/quantitative "
+        "threshold in the scheme text (land size in hectares, income amount, age cutoff, family "
+        "size, distance, etc.) is exactly as much an eligibility gap as caste/gender/marital status "
+        "are - if the citizen's own value for that specific number isn't confirmed above, that is "
+        "the question to ask, not a caveat to hand off for the citizen to self-check. A partial "
+        "answer to an earlier multi-part question (e.g. 'haan khud ka khet hai' answering only the "
+        "'do you own land' half of 'do you own land, and how many hectares') leaves the other half "
+        "still open - treat it as still unconfirmed, don't treat the whole question as answered. "
+        "If the citizen wants to see other options, they'll ask ('koi aur scheme?') "
         "and that's handled separately - don't pre-empt it by listing a maybe-alternative here. Ask "
         "at most 2 questions per reply, each about ONE thing, never combined. Prefer broad, "
         "low-sensitivity questions (age, class/degree, income, residence) over narrow or sensitive "
@@ -2467,8 +2716,16 @@ def generate_node(state: ConvState):
         "fact remains unconfirmed. Prefer answering (one named scheme, no question attached) over "
         "asking again whenever you already have enough for a reasonable recommendation - only keep "
         "asking if the missing fact would change WHICH scheme applies or whether they're eligible at "
-        "all, not for minor refinements (note those as caveats instead, don't gate the whole answer "
-        "behind them). Use the full 'Scheme text' once you're naming that one scheme with no question "
+        "all, not for minor refinements. A 'minor refinement' means something that affects HOW they "
+        "apply or how much they get - a document to arrange, a deadline, a step at the office - "
+        "never a condition that decides IF they qualify. Any threshold stated in the scheme's own "
+        "eligibility text (a land size, an income limit, an age cutoff, a family size, a category) "
+        "decides IF, so it is never a minor refinement, however small the number sounds - if the "
+        "citizen's value for it isn't confirmed, that is the question to ask. Caveats are for the "
+        "genuinely minor kind ONLY: writing an IF-condition as a caveat is not a way to avoid "
+        "asking about it, it is the same omission with different punctuation, and it pushes work "
+        "onto a citizen who came here precisely because they can't read eligibility rules "
+        "themselves. Use the full 'Scheme text' once you're naming that one scheme with no question "
         "attached - 'Scheme summaries' exist for other internal uses, not for padding this answer "
         "with a second, unconfirmed scheme.\n\n"
         f"{hard_stop_block}"
@@ -2506,10 +2763,52 @@ def generate_node(state: ConvState):
             "clarifying question in the same reply - not allowed. Rewrite as ONLY ONE of these: "
             "either ask the clarifying question again with ZERO scheme names anywhere in the "
             "reply, or give the complete final answer naming that ONE scheme with NO question "
-            "attached at all."
+            "attached at all.\n"
+            f"{_REWRITE_FIELD_REMINDER}"
         )
         result = _invoke_structured(
             get_reply_llm(), SchemeAnswer, [("system", PERSONA), ("human", correction_prompt)], label="generate_fix"
+        )
+    # Second, separate mechanical retry (2026-09-01) for the mirror-image
+    # violation: naming a scheme with NO question attached (asked_
+    # clarifying_question=False) but a hedge/caveat instead ("fits you - but
+    # if your land is under 1.5 hectare it won't, let me know"). The prompt's
+    # "HAVING THE CONVERSATION" rule above already says this doesn't count as
+    # a complete answer, but that's a hint, not a guarantee - same reasoning
+    # as the leaked_names retry just above and generate_clarify_rounds' HARD
+    # STOP further down: once a rule has to be a GUARANTEE, check the actual
+    # output and correct it rather than trust the wording alone. Found live
+    # (2026-09-01): a farmer who'd only confirmed owning land (not its size)
+    # was told Kantedar Tarbandi Yojana fit him, hedged with "agar 1.5
+    # hectare se kam hai to fit nahi karega, bata dena" - the model's own
+    # self-report (named_scheme_has_unconfirmed_condition) catches exactly
+    # this pattern even though it isn't a bare scheme-name-leak like the
+    # check above, since asked_clarifying_question was already False there.
+    #
+    # Gated on generate_clarify_rounds < 2 - WITHOUT that guard this retry
+    # would fight the HARD STOP directly below it: on a turn where the cap
+    # has already been reached, the prompt tells the model to stop asking and
+    # commit to a best-effort answer (necessarily caveated, since the facts
+    # never arrived), which is exactly the shape this retry rewrites BACK
+    # into a question - re-opening the seven-consecutive-questions bug
+    # generate_clarify_rounds exists to prevent. Past the cap, a caveated
+    # answer is the intended outcome, not a violation.
+    elif (
+        not result.asked_clarifying_question
+        and result.named_scheme_has_unconfirmed_condition
+        and generate_clarify_rounds < 2
+    ):
+        correction_prompt = (
+            f"{prompt}\n\n"
+            "Your previous answer named a scheme but left a condition in its eligibility text "
+            "unconfirmed (a hedge/caveat like 'if your land is under X, this won't fit - let me "
+            "know' instead of an actual question). Rewrite as ONLY the clarifying question needed "
+            "to confirm that specific condition - ZERO scheme names anywhere in the reply. Do not "
+            "name the scheme again until that fact is actually confirmed by the citizen.\n"
+            f"{_REWRITE_FIELD_REMINDER}"
+        )
+        result = _invoke_structured(
+            get_reply_llm(), SchemeAnswer, [("system", PERSONA), ("human", correction_prompt)], label="generate_fix_hedge"
         )
     # Mechanically enforced regardless of what the model decided - the
     # HARD STOP prompt instruction above asks nicely, but prompt-following
