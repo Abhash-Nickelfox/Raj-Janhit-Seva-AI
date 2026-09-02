@@ -28,7 +28,7 @@ from pydantic import BaseModel, Field, ValidationError, model_validator
 from app.config import OPENROUTER_API_KEY, OPENROUTER_MODEL
 from app.state import ConvState
 from app.rag_service import RagService, CitizenContext, OCCUPATION_KEYWORDS, eligibility_verdict
-from app.job_service import JobService
+from app.job_service import JobService, is_under_qualified_for_all
 from app import pii_utils
 from app.janaadhaar_service import get_janaadhaar_service
 
@@ -96,6 +96,32 @@ MAX_IDENTITY_CLARIFY_ATTEMPTS = 3
 # realistic max depth this domain needs: field/qualification, then
 # location - not unbounded, still a real cap.
 MAX_JOBS_CLARIFY_ATTEMPTS = 2
+
+# Cap on how many total vague-need clarify_node rounds one need can go through
+# (2026-09-02). Was a bare `clarify_attempts < 1` - ONE narrowing question per
+# need, ever, no matter what the citizen's answer actually resolved. That is
+# the SAME over-eager-cap bug class as the two constants above, and this is now
+# its third instance: raised 1 -> 3 for identity gaps (2026-08-24), 1 -> 2 for
+# jobs (2026-08-26), while this branch kept the original hard cap.
+#
+# Found live: "mai kisan hu mere paas 5 acre zameen hai mere liye koi yojna
+# btao" correctly asked what KIND of help was wanted (round 1). The citizen
+# answered, that answer still left several genuinely different farming schemes
+# in play - and because one round had now been spent, the branch was dead, so
+# the next turn named a single scheme outright instead of asking the one
+# remaining question that actually separated the candidates. The bot then
+# asked that very question a turn LATER, unprompted, proving it knew the
+# ambiguity was still there and simply had no route left to ask about it.
+#
+# The 2026-08-10 incident the original cap was written for is a DIFFERENT
+# problem: a citizen repeating the same vague answer and getting the identical
+# question back verbatim with no way out. That is "asked the same thing twice",
+# not "asked a second, genuinely different narrowing question" - the cap could
+# not tell them apart, exactly as the jobs constant's comment describes. Set to
+# 2, matching the realistic depth this domain needs (purpose, then one further
+# axis once purpose is known) - still a real, bounded cap, and generate_node's
+# own generate_clarify_rounds HARD STOP remains the final backstop underneath.
+MAX_NEED_CLARIFY_ATTEMPTS = 2
 
 # Every scalar identity/eligibility dimension eligibility_verdict already
 # checks - not a hand-picked subset added one bug at a time. Deliberately
@@ -451,7 +477,31 @@ def _prioritize_sensitive_gap_free(shortlist, facts, need_text, limit):
     _prioritize_gap_free left the raw rank order untouched and a
     disability-gated scheme sitting at rank 8 was still visible in
     clarify_node's options list - which the model then picked as the
-    cleanest narrowing axis, despite being told to prefer a broad one."""
+    cleanest narrowing axis, despite being told to prefer a broad one.
+
+    A THREE-tier variant (fully gap-free -> broad-gapped -> sensitive-gapped)
+    was tried on 2026-09-02 and REVERTED the same day - do not re-attempt it
+    without reading this. The idea was to enforce the other half of
+    _first_identity_gap's bargain: that helper stays silent when any top-N
+    candidate is gap-free ("a clean option exists, show that"), yet nothing
+    stopped stage_b_node presenting a GAPPED scheme anyway. The tier-0
+    promotion is relevance-blind, and that turns out to be fatal: since
+    _identity_gap started covering age/family_income (2026-09-01, 80 and 21
+    schemes respectively), nearly every scheme that MATCHES a real need
+    carries some routine gap, while a generic, unrestricted scheme carries
+    none - so the gap-free tier systematically promotes exactly the schemes
+    with the weakest semantic match. Found live within a day: "mai solar ka
+    business start karna chahta hu" ranked "Mukhyamantri Hunar Vikas Yojana -
+    Self-Employment/Business" first, but the only fully gap-free candidate in
+    the top 5 was "Assistance for Digitization of Business Processes and
+    Adoption of eCommerce" (an unrelated MSME e-commerce reimbursement),
+    which the tier promoted from rank 5 to rank 1 and got presented as the
+    answer. It also did NOT fix the case it was written for (verified: every
+    candidate in that scholarship shortlist had an age gap, so tier 0 was
+    empty and the order was unchanged) - a strict net loss. Eligibility
+    cleanliness belongs as a TIE-BREAKER among comparably-relevant schemes,
+    never as a primary sort key over retrieval rank; the sensitive-only
+    demotion below is deliberately narrow for exactly that reason."""
     clean, sensitive = [], []
     for entry in shortlist:
         (sensitive if _has_sensitive_gap(entry["metadata"], facts, need_text) else clean).append(entry)
@@ -928,17 +978,30 @@ class NeedItem(_UnwrapsToolEnvelope):
             "'Jaipur', 'Jodhpur'). null otherwise."
         ),
     )
-    job_qualification: Optional[Literal["12th Pass", "Diploma", "Graduate", "Post Graduate"]] = Field(
+    job_qualification: Optional[Literal["Below 12th", "12th Pass", "Diploma", "Graduate", "Post Graduate"]] = Field(
         None,
         description=(
             "ONLY if domain='job' and the citizen explicitly stated THEIR OWN educational/technical "
             "qualification - either in THIS message, or recorded in the 'Durable facts noted "
             "earlier' context above (a qualification they stated in an earlier turn still counts; "
-            "never make them restate it). Normalize free text to exactly one of these 4 levels: "
-            "'12th Pass' (10th/12th pass, no further study); 'Diploma' (polytechnic, ITI, any "
-            "technical diploma); 'Graduate' (any bachelor's degree - B.A./B.Sc./B.Com/B.Tech/BCA/"
-            "etc.); 'Post Graduate' (any master's degree or higher). null if no qualification was "
-            "stated - do not guess this from their phrasing or tone."
+            "never make them restate it). Normalize free text to exactly one of these 5 levels: "
+            "'Below 12th' (8th/10th pass, or any schooling short of completing 12th); "
+            "'12th Pass' (completed 12th/higher secondary, no further study); 'Diploma' "
+            "(polytechnic, ITI, any technical diploma); 'Graduate' (any bachelor's degree - "
+            "B.A./B.Sc./B.Com/B.Tech/BCA/etc.); 'Post Graduate' (any master's degree or higher). "
+            "null if no qualification was stated - do not guess this from their phrasing or tone.\n"
+            "'Below 12th' was added 2026-09-02 because it was MISSING, and its absence caused a "
+            "real failure rather than just an approximation: this description used to define "
+            "'12th Pass' as '(10th/12th pass, no further study)', explicitly instructing that a "
+            "10th-pass citizen be recorded as 12th Pass. Found live - 'mai 10th pass hu' was "
+            "stored as '12th Pass', so the very next reply opened '12th pass ke liye Rajasthan "
+            "mein kaafi vacancies aati hain', silently upgrading the citizen. Worse, the "
+            "structured field then CONTRADICTED the conversation text, which still plainly said "
+            "10th: the reply ended up both asserting they were 10th pass AND listing 12th-Pass-"
+            "only vacancies AND asking a third time whether they were 10th or 12th - an "
+            "unresolvable loop caused entirely by there being no honest value to store. Never "
+            "round a qualification UP to the nearest available level; if the citizen is below "
+            "every level listed here, 'Below 12th' is the correct answer."
         ),
     )
     job_min_salary: Optional[int] = Field(
@@ -1195,10 +1258,47 @@ class NeedExtraction(_UnwrapsToolEnvelope):
         ...,
         description=(
             "'yes' if the need is specific enough to search for directly - e.g. names a "
-            "scheme, a benefit type (pension/scholarship/loan/...), or a clear purpose - "
+            "scheme, a benefit that states what it is FOR (pension/scholarship/healthcare/...), "
+            "or a clear purpose - "
             "EVEN IF you can't map it to one of the exact category/benefit_type labels above. "
-            "'no' ONLY if it's genuinely too broad/vague to know what kind of help they want "
-            "(e.g. 'I need money', 'help chahiye' with no purpose stated)."
+            "'no' if it's too broad/vague to know what KIND of help they want "
+            "(e.g. 'I need money', 'help chahiye' with no purpose stated).\n"
+            "CRITICAL - judge the PURPOSE only, never the amount of detail. Stating WHO THEY ARE "
+            "or WHAT THEY OWN is background context, NOT a purpose, and does not make a need "
+            "specific no matter how much of it is given. Found live (2026-09-02): 'mai farmer hu "
+            "mere paas 5 acre zameen hai mere liye koi yojna btao' was marked 'yes' - it is 'no'. "
+            "Occupation and landholding say nothing about what help is wanted; a farmer can need a "
+            "pension, equipment subsidy, irrigation infrastructure, a crop loan, training, "
+            "insurance, or a scholarship for their child, and 'koi yojna btao' picks none of them. "
+            "The test is a single question: after reading this message, do you know what the help "
+            "is FOR? If the only way to answer is to guess among several unrelated kinds of "
+            "benefit, answer 'no'. Same for 'mai student hu koi scheme batao', 'mai vidhwa hu kuch "
+            "madad chahiye', 'mere paas dukan hai koi yojna hai kya' - all identity plus a bare "
+            "request, all 'no'.\n"
+            "Naming only how the money is DELIVERED is not a purpose either. 'Subsidy', 'loan', "
+            "'grant', 'anudan', 'sahayata' are funding mechanisms - nearly every scheme is one of "
+            "them, so they say nothing about what the help is for. 'Mujhe subsidy chahiye' or "
+            "'loan chahiye', with no statement of what it is FOR, is 'no' (found live 2026-09-02: "
+            "a farmer answered 'mujhe subsidy chahiye' and it was treated as specific, but "
+            "equipment, irrigation, storage and orchard subsidies are all still in play). "
+            "Contrast 'pension' and 'scholarship', which DO say what the help is for (old-age "
+            "income, education) - those are 'yes'.\n"
+            "Naming the SECTOR, TRADE or VENTURE is likewise not a purpose. 'Solar ka business "
+            "start karna chahta hu', 'dairy ka kaam shuru karna hai', 'kheti ke liye madad "
+            "chahiye' all name the field of activity while leaving the actual ask wide open - "
+            "capital, equipment, training, premises, licensing help, an interest subsidy? - so "
+            "they are 'no'. Found live (2026-09-02): 'mai solar ka business start karna chahta hu' "
+            "was marked 'yes' purely because 'solar' is a concrete word, and the reply jumped "
+            "straight to naming a scheme. Adding a specific noun to a vague request does not make "
+            "the request specific - note that the SAME message with the noun removed ('mai apna "
+            "business start karna chahta hu') is correctly judged 'no', and nothing about what the "
+            "citizen needs actually differs between the two.\n"
+            "The test that decides it: could you name the KIND of benefit they want - money for a "
+            "named thing, equipment, training, a pension, treatment, housing, fees? If yes, 'yes'; "
+            "if you would have to guess between several, 'no'. So 'padhai ke liye paisa' (money "
+            "for studies), 'bimari ka kharcha' (medical costs) and 'khet ke yantra ke liye "
+            "subsidy' (equipment) are all 'yes' - each names the benefit itself, not just the "
+            "area of life it belongs to."
         ),
     )
     intent: Intent = Field(
@@ -1804,6 +1904,12 @@ def stage_a_node(state: ConvState):
     svc = get_rag_service()
 
     shortlists = []
+    # (citizen, alt_citizen) per need, in the same order as `needs` - kept so
+    # the re-pin check at the end of this function can re-run the eligibility
+    # verdict for the PRIMARY need without rebuilding its context, and
+    # without accidentally using the last loop iteration's values on a
+    # multi-need turn.
+    citizen_by_need = []
     for need in needs:
         facts = _subject_facts_for_need(need, profile)
         citizen = CitizenContext(
@@ -1838,6 +1944,7 @@ def stage_a_node(state: ConvState):
                 need_category=need.get("need_category"),
                 need_benefit_type=need.get("need_benefit_type"),
             )
+        citizen_by_need.append((citizen, alt_citizen))
         trace = {}
         results = svc.shortlist(need["need_text"], citizen, alt_citizen=alt_citizen, top_n=10, trace=trace)
         # plain dicts, not ScoredScheme dataclass instances - LangGraph's
@@ -1858,6 +1965,57 @@ def stage_a_node(state: ConvState):
             "need": need, "shortlist": shortlist, "candidate_count": trace.get("survivors", len(results)),
             "named_scheme_ids": named_scheme_ids,
         })
+
+    # Re-insert any scheme a clarifying question was asked ABOUT that this
+    # turn's freshly re-ranked search dropped (see ConvState.
+    # pending_clarify_scheme_ids for the live incident). Scoped to the turn
+    # the citizen is actually ANSWERING that question - on any other turn a
+    # stale pin would wrongly resurrect an old scheme. Pinned entries go to
+    # the FRONT: the citizen just supplied the fact this scheme was waiting
+    # on, so it is the most relevant candidate there is right now, and
+    # stage_b_node only fetches the top 3.
+    if state.get("was_answering_clarification"):
+        pinned_ids = state.get("pending_clarify_scheme_ids") or []
+        if pinned_ids:
+            primary_shortlist = shortlists[0]["shortlist"]
+            present = {s["scheme_id"] for s in primary_shortlist}
+            # The facts used for THIS turn's primary need - the citizen's
+            # answer is already folded into them, which is the whole point.
+            primary_citizen, primary_alt = citizen_by_need[0]
+            restored = []
+            for scheme_id in pinned_ids:
+                if scheme_id in present:
+                    continue
+                meta = svc._meta_by_scheme_id.get(scheme_id)
+                if not meta:
+                    continue
+                # Only re-pin a scheme the citizen's answer did NOT rule out.
+                # Without this the pin would resurrect a scheme the answer
+                # just disqualified (asked "SC/ST/OBC?", answered "general",
+                # scheme is SC-only) and hand it back at rank 1, bypassing
+                # the eligibility filter shortlist() had correctly applied -
+                # turning a fix for "the right scheme vanished" into a much
+                # worse "a disqualified scheme came back top of the list".
+                # An answer that excludes the scheme is a RESOLVED question,
+                # and the scheme dropping out is then the correct outcome.
+                fits = eligibility_verdict(meta, primary_citizen)[0] or (
+                    primary_alt is not None and eligibility_verdict(meta, primary_alt)[0]
+                )
+                if not fits:
+                    continue
+                restored.append({
+                    "scheme_id": scheme_id,
+                    "scheme_name": meta.get("scheme_name", ""),
+                    "lang": meta.get("lang", "en"),
+                    "score": 0.0,
+                    "metadata": meta,
+                })
+            if restored:
+                logger.info(
+                    "(stage_a) re-pinned %d scheme(s) a clarifying question was about, dropped by this turn's re-ranked search: %s",
+                    len(restored), [s["scheme_name"] for s in restored],
+                )
+                shortlists[0]["shortlist"] = restored + primary_shortlist
 
     primary = shortlists[0]
     return {
@@ -1891,7 +2049,7 @@ def route_after_stage_a(state: ConvState):
     # actually answers it, it stops appearing on its own), but still gets
     # its OWN, more generous cap (MAX_IDENTITY_CLARIFY_ATTEMPTS) for the
     # edge case where the citizen never directly answers it at all.
-    if state.get("clarify_attempts", 0) < 1:
+    if state.get("clarify_attempts", 0) < MAX_NEED_CLARIFY_ATTEMPTS:
         # need_is_specific is the model's own direct judgment of clarity - NOT
         # inferred from whether need_category/need_benefit_type happened to
         # populate (those exist only for the rank boost and are unreliable
@@ -1925,19 +2083,36 @@ def route_after_stage_a_jobs(state: ConvState):
     search, but doesn't narrow it down to ONE job - "koi job batao" with a
     qualification still surfaced 3 different postings (2 different RAS
     locations + a Junior Assistant posting) with no chance to say which one
-    actually matters to the citizen. A specific LOCATION is different - it's
-    a genuine, deliberate preference ("Jaipur mein job chahiye"), so that
-    alone is enough to just show whatever matches there. The actual signal
-    that matters: does the search still span MORE THAN ONE DISTINCT posting
-    title with no location or specific post given? If so, ask which one/
-    where before presenting a list, the same "narrow to one, don't dump a
-    menu" discipline the scheme side already follows."""
+    actually matters to the citizen.
+
+    A LOCATION alone used to be treated as sufficient on its own to skip
+    straight to generate_jobs, regardless of how many distinct titles
+    remained ("Jaipur mein job chahiye" was judged a genuine, deliberate
+    preference worth honoring immediately). Reverted 2026-09-02, found live:
+    "Jodhpur ka rehne wala hu, 12th pass kiya hai" gave a location AND a
+    qualification, but never a job TYPE - and the location-only shortcut
+    skipped the distinct-titles check entirely, dumping four completely
+    unrelated postings (LDC, two different Lab Assistant listings, Junior
+    Assistant) in one reply with no chance to say which kind of role
+    actually mattered. Location narrows WHICH CITY's jobs are even in the
+    shortlist (that filtering already happens in stage_a_jobs_node's own
+    svc.search call) - it says nothing about WHICH TYPE of job within that
+    city, which is a fully independent axis. Treating "a location is known"
+    as license to also skip the type check was conflating two different
+    questions.
+
+    So the actual signal that matters, with no location-based exception:
+    does the search still span MORE THAN ONE DISTINCT posting title? If so,
+    ask which type before presenting a list, the same "narrow to one, don't
+    dump a menu" discipline the scheme side already follows - regardless of
+    whether location happens to be known too. (Trade-off, decided directly
+    with the user: a bare "Jaipur mein job chahiye" with no type stated will
+    now ALSO ask which type of post before showing anything, even though
+    that specific phrasing was the original motivation for the shortcut this
+    replaces - the user chose consistency over skipping that one round.)"""
     if state.get("clarify_attempts", 0) >= MAX_JOBS_CLARIFY_ATTEMPTS:
         return "generate_jobs"
     if state.get("job_title_named"):
-        return "generate_jobs"
-    primary_need = (state.get("needs") or [None])[0]
-    if primary_need and primary_need.get("job_location"):
         return "generate_jobs"
     shortlist = state.get("job_shortlist") or []
     distinct_titles = {j["title"] for j in shortlist}
@@ -1949,19 +2124,48 @@ def route_after_stage_a_jobs(state: ConvState):
 def clarify_jobs_node(state: ConvState):
     """Same shape as clarify_node, for the jobs domain - one short narrowing
     question (kind of job/location/qualification) instead of dumping a
-    fuzzy-matched search result for a need that was never actually specific."""
+    fuzzy-matched search result for a need that was never actually specific.
+
+    Now reachable even when location/qualification ARE already known (see
+    route_after_stage_a_jobs' 2026-09-02 update) - so, unlike before, this
+    node can no longer assume nothing has been stated. Told explicitly what's
+    already confirmed (known_block below), the same way generate_jobs_node
+    already is, so it asks about the one axis that's actually still open
+    (job type) instead of re-asking for a location or qualification the
+    citizen already gave."""
     lang_instruction = _lang_instruction(state.get("reply_lang"))
+    primary_need = (state.get("needs") or [None])[0] or {}
+    known_bits = [
+        f"{label}: {primary_need[field]}"
+        for field, label in (("job_qualification", "qualification"), ("job_location", "preferred location"), ("job_min_salary", "minimum salary wanted"))
+        if primary_need.get(field)
+    ]
+    known_block = (
+        f"What's already confirmed about the citizen: {'; '.join(known_bits)} - do NOT ask about "
+        "any of these again.\n" if known_bits
+        else "Nothing about location, qualification, or specific post has been stated yet.\n"
+    )
     prompt = (
         f"{_format_conversation_history(state.get('conversation_history'))}"
         f"{_format_profile(state.get('profile'))}"
         f"{_format_notes(state.get('conversation_notes'))}"
         f'The citizen asked about government jobs: "{state.get("need_text", "")}"\n'
-        "This is too broad to search directly - no specific post, location, or qualification was "
-        "stated.\n\n"
-        f"Ask ONE short, simple clarifying question {lang_instruction} that would narrow this down "
-        "(e.g. what kind of post, which department/area, or their own qualification) - it must be "
-        "about something NOT already answered in the context above. Do not list job titles. One "
-        "sentence only."
+        f"{known_block}"
+        "This is still too broad to answer with one clear list - more than one genuinely different "
+        "kind of posting currently matches.\n\n"
+        "IMPORTANT: this dataset contains ONLY Rajasthan government job postings - there is no "
+        "private-sector listing in it at all, in any field or company. Never ask whether they want "
+        "a government or private-company job, or anything that presumes private options might "
+        "exist to choose between - found live (2026-09-02): asked exactly that, the citizen said "
+        "private, and the reply then had to walk it back a full turn later ('private IT jobs ka "
+        "data abhi mere paas nahi hai'), wasting a turn that could have gone straight to the "
+        "actual government postings. The only axes this dataset can actually be narrowed on are: "
+        "which POST/title, which LOCATION/department, or the citizen's own QUALIFICATION.\n\n"
+        f"Ask ONE short, simple clarifying question {lang_instruction} about whichever of those "
+        "three axes is NOT already confirmed above (most often, at this point, which specific "
+        "TYPE/POST they're after, since location and qualification are frequently already known) - "
+        "it must be about something genuinely still open, never something already answered. Do not "
+        "list job titles. One sentence only."
     )
     reply = _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], state.get("reply_lang"), label="clarify_jobs")
     return {
@@ -1998,8 +2202,29 @@ def clarify_node(state: ConvState):
     primary_need = (state.get("needs") or [None])[0]
     facts = _subject_facts_for_need(primary_need, state.get("profile", {}))
     prioritized = _prioritize_sensitive_gap_free(shortlist, facts, state.get("need_text", ""), 8)
-    options_desc = "; ".join(
-        f"{s['scheme_name']} ({s['metadata'].get('category', '')})" for s in prioritized
+    # Discovery cards, not the bare (scheme_name, category) pair used before
+    # 2026-09-02 - found live: "kheti ke liye sarkari madad chahiye" asked
+    # about land size + irrigation source, despite the prompt below already
+    # saying to prefer a "purpose" question first. Root cause was the data
+    # this node judges purpose FROM, not the instruction: metadata['category']
+    # is basically a constant across this whole domain (every single farming
+    # scheme in the corpus - land-fencing, irrigation-digging, AND a genuinely
+    # different farmer PENSION scheme - is tagged identically "Agriculture,
+    # Rural & Environment"), so options_desc showed the model N options that
+    # all displayed the same category, with nothing distinguishing "this one
+    # is a pension" from "this one needs 1.5 hectares of irrigated land" -
+    # purpose diversity that genuinely exists in the shortlist (the pension
+    # scheme was very likely sitting right there among the 8) was invisible
+    # in what got shown, so it fell back to whatever operational criterion
+    # dominated the scheme NAMES instead. get_discovery_card already carries
+    # benefit type + a real one-line description per scheme (per its own
+    # docstring) - generate_node has used it for exactly this reason since
+    # before this fix; clarify_node never had it wired in at all.
+    svc = get_rag_service()
+    lang = _source_lang(state.get("reply_lang"))
+    options_desc = "\n".join(
+        svc.get_discovery_card(s["scheme_id"], lang) or f"{s['scheme_name']} ({s['metadata'].get('category', '')})"
+        for s in prioritized
     )
     lang_instruction = _lang_instruction(state.get("reply_lang"))
     # History/profile/notes context (2026-08-18): this node used to see NONE
@@ -2012,12 +2237,28 @@ def clarify_node(state: ConvState):
         f"{_format_notes(state.get('conversation_notes'))}"
         f'The citizen asked: "{state["need_text"]}"\n'
         f"This is too broad to answer directly - {state.get('candidate_count')} schemes could match, "
-        f"spanning different purposes, e.g.: {options_desc}\n\n"
+        f"including these (name, who it's for, benefit type, description):\n{options_desc}\n\n"
         f"Ask ONE short, simple clarifying question {lang_instruction} that would narrow this down "
-        "(e.g. what specific kind of help they need). Prefer a broad, low-sensitivity axis (age, "
-        "class/degree, income, residence, purpose) over a narrow or sensitive one (disability, "
-        "caste, marital status, gender) - ask about the latter only if every option above is gated "
-        "on exactly that. It must be about something NOT already answered in the context above. Do "
+        "(e.g. what specific kind of help they need). Read the descriptions above before deciding "
+        "what to ask - if they span different PURPOSES, ask about purpose first, in plain everyday "
+        "words a citizen would use ('aapko kis tarah ki madad chahiye').\n"
+        "A PURPOSE is what the help is FOR - the actual thing that changes in the citizen's life "
+        "(irrigating the field, buying equipment, building storage, planting an orchard, monthly "
+        "income in old age, covering medical bills, paying school fees). It is NOT how the money "
+        "is delivered. 'Subsidy', 'loan', 'grant', 'anudan' and 'sahayata' are FUNDING MECHANISMS, "
+        "not purposes - almost every scheme here is one of them, so offering them as choices "
+        "splits nothing. Found live (2026-09-02): a farmer was offered 'paise ki subsidy, khet ke "
+        "equipment ke liye sahayata, ya storage/bagichi jaisi construction wali madad' and "
+        "answered 'subsidy' - but all three of those ARE subsidies, so the answer narrowed nothing "
+        "and the next reply just picked one scheme anyway. If you offer example options, they MUST "
+        "be mutually exclusive: a citizen picking any one of them must rule the others out.\n"
+        "Only drop to a scheme-specific operational "
+        "detail (like a land size or an irrigation requirement) if every option above already "
+        "shares the same purpose and only that operational detail actually separates them. Prefer "
+        "a broad, low-sensitivity axis (age, class/degree, income, residence, purpose) over a "
+        "narrow or sensitive one (disability, caste, marital status, gender) - ask about the "
+        "latter only if every option above is gated on exactly that. It must be about something "
+        "NOT already answered in the context above. Do "
         "not list scheme names. One sentence only."
     )
     reply = _invoke_reply(get_reply_llm(), [("system", PERSONA), ("human", prompt)], state.get("reply_lang"), label="clarify")
@@ -2167,6 +2408,12 @@ def clarify_identity_node(state: ConvState):
         "last_reply": reply,
         "pending_need_text": state.get("need_text"),
         "pending_need_domain": "scheme",
+        # Pin the scheme this question was asked ABOUT (see ConvState.
+        # pending_clarify_scheme_ids) - `top` is the specific shortlist entry
+        # whose unconfirmed gap produced gap_desc, so it is exactly the scheme
+        # the citizen's answer is meant to resolve, and exactly the one that
+        # must not be allowed to vanish from the next turn's shortlist.
+        "pending_clarify_scheme_ids": [top["scheme_id"]],
         "clarify_attempts": state.get("clarify_attempts", 0) + 1,
     }
 
@@ -2191,7 +2438,26 @@ def stage_b_node(state: ConvState):
     for entry in shortlists:
         need = entry.get("need") or {}
         facts = _subject_facts_for_need(need, profile)
-        top = _prioritize_gap_free(entry["shortlist"] or [], facts, need.get("need_text", ""), 3)
+        # _prioritize_SENSITIVE_gap_free, not the plain version (2026-09-02) -
+        # this is the SAME bug _prioritize_sensitive_gap_free's own docstring
+        # already documents finding and fixing on 2026-08-24, just never
+        # propagated to this call site. Found live again here: a scholarship
+        # search where every candidate has SOME gap (education_level is
+        # almost always unconfirmed for a first message) left the plain
+        # gap-free/gapped split a no-op - its "gap-free" bucket was empty, so
+        # rank order passed through untouched, and a disability-gated
+        # scholarship sitting at/near the top got fetched as one of
+        # generate_node's top-3 schemes anyway. generate_node then had no
+        # choice but to reason about IT specifically, leading with "is your
+        # son disabled" ahead of a broader, non-sensitive gap (which course/
+        # college) sitting on a DIFFERENT candidate in the same shortlist.
+        # _prioritize_sensitive_gap_free only demotes a scheme gapped on a
+        # SENSITIVE field (gender/caste/marital_status/disability-adjacent
+        # occupation groups) - one gapped only on a broad fact like
+        # education_level stays in its normal rank position, so it still
+        # correctly separates "everything has some gap" from "this one has a
+        # SENSITIVE gap", which is the actual distinction that matters here.
+        top = _prioritize_sensitive_gap_free(entry["shortlist"] or [], facts, need.get("need_text", ""), 3)
         # Record EVERY scheme actually presented for this need, not just the
         # top one - found live (2026-08-11): a single need surfacing 3
         # candidate schemes together (the normal case, not just the multi-
@@ -2359,6 +2625,48 @@ def stage_b_followup_node(state: ConvState):
         if not detail and lang != "en":
             detail = svc.scheme_detail(t["scheme_id"], "en", field_types=field_types)
         chunks.extend(detail)
+
+    # Always carry a couple of ALTERNATIVES alongside the focused scheme,
+    # unless the citizen explicitly named one specific scheme to talk about
+    # (2026-09-02). Until now this node fetched the shown scheme's text and
+    # NOTHING else, which is fine while that scheme still fits - but leaves
+    # generate_node with literally no other scheme in context the moment it
+    # doesn't, so the only reply it can physically produce is "yeh fit nahi
+    # baithega" plus a promise to look at other options it has no means to
+    # keep.
+    #
+    # Found live twice on consecutive days, same shape, different schemes:
+    # "bete ne 12th pass ki hai, scholarship chahiye" locked onto a PhD-
+    # abroad scholarship (age 21-34) in one session and a class-10/12 talent-
+    # exam scholarship in another, then spent THREE turns each re-explaining
+    # that same non-fit - including in reply to a bare "btao" ("just tell
+    # me"), which is about as direct a request for the alternatives as a
+    # citizen can make. Neither scheme could be dropped mechanically either:
+    # eligibility_verdict is fail-open, and the facts that actually rule
+    # these out (the son's age; "currently studying in class 10/12") are
+    # respectively unconfirmed and not represented in the structured schema
+    # at all - so the re-verification above correctly leaves them in place.
+    # Giving the node somewhere to GO is the fix that doesn't depend on
+    # detecting the non-fit mechanically.
+    #
+    # _prioritize_sensitive_gap_free, matching stage_b_node, so a narrow
+    # sensitive-gated scheme isn't offered as the fallback - but otherwise
+    # retrieval rank is preserved, since the fallback still has to be a
+    # RELEVANT scheme (see that helper's note on the reverted three-tier
+    # variant, which promoted unrestricted-but-irrelevant schemes). Skipped
+    # entirely when target_name is set, so an
+    # explicit "tell me about the last scheme" still narrows exactly as
+    # before (see focused_scheme_ids below).
+    if not target_name:
+        target_ids = {t["scheme_id"] for t in to_fetch}
+        need_text = primary_need.get("need_text", "") if primary_need else state.get("need_text", "")
+        ranked = _prioritize_sensitive_gap_free(state.get("shortlist") or [], facts, need_text, 10)
+        alternatives = [s for s in ranked if s["scheme_id"] not in target_ids][:2]
+        for a in alternatives:
+            detail = svc.scheme_detail(a["scheme_id"], lang, field_types=field_types)
+            if not detail and lang != "en":
+                detail = svc.scheme_detail(a["scheme_id"], "en", field_types=field_types)
+            chunks.extend(detail)
 
     # Purge any now-disconfirmed scheme from the PERSISTENT rolling cache -
     # it can still be fetched fresh above to explain THIS turn's answer, but
@@ -2676,6 +2984,19 @@ def generate_node(state: ConvState):
         "at once), ask which one it's answering rather than assuming. If NONE of the schemes match "
         "what's known, say so plainly rather than repeating the same conditional list turn after "
         "turn.\n\n"
+        "NEVER PROMISE, ALWAYS DELIVER: if you conclude a scheme does NOT fit the citizen, you must "
+        "move to a concrete alternative in the SAME reply - name an actual scheme from the text "
+        "below that does fit, or state plainly that nothing here fits. Saying some version of "
+        "'don't worry, other options exist, let me find the right one' and then stopping is a "
+        "non-answer: the citizen cannot act on it, and you will be given the same scheme again next "
+        "turn, so the promise never gets kept. Found live twice (2026-09-02): a 12th-pass student's "
+        "scholarship request spent THREE consecutive turns explaining that one scheme didn't fit "
+        "and pledging to look at undergraduate options, once even in reply to a bare 'btao' ('just "
+        "tell me') - no alternative was ever named. If you genuinely need one more fact to pick "
+        "between the alternatives you were given, ask for that ONE fact and nothing else - but do "
+        "not re-explain the ruled-out scheme again to do it, and never re-litigate a scheme you "
+        "have already told this citizen does not fit them; treat it as closed and do not bring it "
+        "up a second time.\n\n"
         "HAVING THE CONVERSATION: have this like a real conversation, not an intake form - but "
         "(2026-08-19, reversing an earlier 'lead with scheme names' rule) do NOT name or list ANY "
         "scheme while you still need to ask something. The test is NOT how many candidates remain - "
@@ -2710,6 +3031,21 @@ def generate_node(state: ConvState):
         "still open - treat it as still unconfirmed, don't treat the whole question as answered. "
         "If the citizen wants to see other options, they'll ask ('koi aur scheme?') "
         "and that's handled separately - don't pre-empt it by listing a maybe-alternative here. Ask "
+        "ONLY ASK WHAT CAN CHANGE THE ANSWER: before asking anything, check the scheme's BASIC "
+        "requirements against what the citizen has already told you. If an already-stated fact "
+        "kills the scheme, it is closed - say so and move to a real alternative; do NOT ask about "
+        "its finer sub-conditions (marks, exam scores, institution type, course name), because no "
+        "answer to those can revive it. Found live (2026-09-02): told 'mere bete ne abhi 12th pass "
+        "ki hai', the reply correctly stated the scheme was for students CURRENTLY STUDYING in "
+        "class 10 or 12 - and then, in that same reply, asked what percentage he scored in 12th and "
+        "whether his school was government or private. Both facts were irrelevant the moment 'has "
+        "already passed' was known; the citizen answered '70%' for nothing and got the same "
+        "rejection a turn later, on the exact criterion already visible in the first message. Work "
+        "in this order: does a stated fact already rule this scheme out (close it), then is a fact "
+        "that DECIDES eligibility still unknown (ask that), and only then anything finer. A "
+        "question that leaves you rejecting the scheme for the same reason regardless of the answer "
+        "must not be asked at all. "
+        "Ask "
         "at most 2 questions per reply, each about ONE thing, never combined. Prefer broad, "
         "low-sensitivity questions (age, class/degree, income, residence) over narrow or sensitive "
         "ones (disability, caste, marital status, gender) - ask about the latter only once no broad "
@@ -2831,6 +3167,20 @@ def generate_node(state: ConvState):
         "last_reply": result.reply,
         "pending_need_text": state.get("need_text") if asked_question else None,
         "pending_need_domain": "scheme" if asked_question else None,
+        # Same pinning as clarify_identity_node (see ConvState.
+        # pending_clarify_scheme_ids). This node asks its OWN clarifying
+        # questions too - and in the live incident that prompted this it was
+        # THIS node asking, about CM Anuprati Coaching Scheme's caste/income
+        # criteria - so it has to pin just as clarify_identity_node does, or
+        # answering it can evict the scheme it was asked for. Pinned to every
+        # scheme whose text was actually in context for this reply, since
+        # unlike clarify_identity_node there is no single `top` here and the
+        # question can legitimately be about any of them. Cleared when the
+        # reply asks nothing, so a pin can't linger onto a later, unrelated
+        # turn.
+        "pending_clarify_scheme_ids": (
+            [meta["scheme_id"] for meta in structured_by_scheme.values()] if asked_question else None
+        ),
         "generate_clarify_rounds": (generate_clarify_rounds + 1) if asked_question else 0,
     }
 
@@ -2965,6 +3315,30 @@ def generate_jobs_node(state: ConvState):
         if primary_need.get(field)
     ]
     known_block = f"What's already confirmed about the citizen: {'; '.join(known_bits)}\n" if known_bits else ""
+
+    # Under-qualification is decided in CODE, not left to the model to notice
+    # from the postings list (2026-09-02, found live). search() is
+    # deliberately fail-open on qualification - correct for OVER-qualification
+    # (a Graduate may still apply to a 12th-Pass post) but wrong for UNDER-
+    # qualification, where the citizen cannot apply to anything here at all.
+    # A 10th-pass citizen was shown five 12th-Pass-only vacancies laid out as
+    # normal options, with the mismatch mentioned only in passing above them
+    # and a repeat of the qualification question below them - the citizen has
+    # to work out for themselves that none of it applies. If nothing in the
+    # corpus is reachable for them, the reply must lead with that plainly and
+    # not present the listings as things to apply for.
+    under_qualified = is_under_qualified_for_all(primary_need.get("job_qualification"))
+    if under_qualified:
+        known_block += (
+            "IMPORTANT - the citizen's stated qualification is BELOW the minimum requirement of "
+            "EVERY posting in this dataset (they all require at least 12th Pass). Lead with that "
+            "plainly and kindly in your first sentence: right now there is no vacancy here they "
+            "can apply for. Do NOT list the postings below as options for them, do NOT format "
+            "them as an apply-to list, and do NOT re-ask what their qualification is - they have "
+            "already told you. You may briefly note what the lowest requirement is (12th Pass) so "
+            "they know what would open these up, and offer to check again if they complete it. "
+            "Keep the whole reply short - a list they cannot use is not helpful to them.\n"
+        )
 
     # Conversation context (2026-08-18): job replies used to be composed
     # from the distilled need_text alone, blind to the conversation - a

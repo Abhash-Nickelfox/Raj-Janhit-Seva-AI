@@ -136,6 +136,33 @@ class ConvState(TypedDict, total=False):
     # read on any later turn - it gets overwritten (or left stale/unused)
     # the moment this turn's routing decision is made.
     clarification_domain: Optional[str]
+    # Which scheme(s) the pending clarifying question was actually ABOUT -
+    # pinned into the next turn's shortlist so answering the question can't
+    # make the scheme it was asked for disappear.
+    #
+    # Added 2026-09-02 from a live server log, and this is a nastier bug than
+    # it sounds. A citizen was asked two questions that were CM Anuprati
+    # Coaching Scheme's own eligibility criteria ("SC/ST/OBC category?",
+    # "family income under 8 lakh?"). They answered both, correctly and
+    # usefully - and that answer re-ran Stage A with caste=sc and
+    # income=500000 now known, which boosted every SC-specific scheme in the
+    # corpus and pushed CM Anuprati itself clean out of the top of the
+    # shortlist. Turn N had it at rank 2; turn N+1, after the answer, it was
+    # gone, and stage_b_node (which only fetches the top 3) handed
+    # generate_node a set that no longer contained the scheme the questions
+    # had been asked for. With nothing to confirm, the reply fell back to the
+    # new rank-1 scheme and re-rejected it instead - so the citizen answered
+    # two questions and got a worse answer than before they did.
+    #
+    # The general failure is "answering a clarifying question can evict the
+    # scheme it was about", which gets MORE likely the more useful the answer
+    # is: a fact decisive enough to be worth asking about is exactly the kind
+    # of fact that reshuffles the ranking hardest. Nothing else in the state
+    # protects against this - focused_scheme_ids covers explicit followups on
+    # an already-SHOWN scheme, which this is not (the scheme was never shown,
+    # only asked about). Consumed by stage_a_node on the turn the citizen
+    # answers, and overwritten every time a new clarifying question is asked.
+    pending_clarify_scheme_ids: Optional[list]
     already_shown_scheme_ids: list  # every scheme_id ever set as shown_scheme_id this conversation - show_more_node excludes all of these, not just the current one
 
     # How many consecutive clarify/clarify_identity questions have been asked

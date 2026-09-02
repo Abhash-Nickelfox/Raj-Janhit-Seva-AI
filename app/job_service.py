@@ -37,15 +37,42 @@ TITLE_MATCH_THRESHOLD = 80
 # _rank_key uses to prioritize jobs the citizen is actually likely eligible
 # for, WITHOUT ever excluding higher-tier ones (see search()'s docstring).
 _QUALIFICATION_TIER = {
+    # 'Below 12th' is a CITIZEN-side value only (NeedItem.job_qualification) -
+    # no posting in jobs.json requires less than 12th Pass, which is exactly
+    # why it needs its own tier below 0 rather than being folded into it
+    # (2026-09-02, found live: a 10th-pass citizen was recorded as '12th Pass'
+    # because neither the extraction Literal nor this table had anywhere else
+    # to put them, and got shown 12th-Pass-only vacancies as if eligible).
+    "Below 12th": -1,
     "12th Pass": 0,
     "Diploma": 1,
     "Graduate": 2, "BCA": 2, "B.Tech": 2,
     "Post Graduate": 3,
 }
 
+# The lowest requirement any posting in this dataset actually asks for.
+# Computed from the table rather than hardcoded so it stays correct if the
+# corpus ever gains a lower-requirement posting.
+MIN_JOB_QUALIFICATION_TIER = _QUALIFICATION_TIER["12th Pass"]
+
 
 def _qualification_tier(value: Optional[str]) -> int:
     return _QUALIFICATION_TIER.get(value, 2)  # unknown values default to the common bachelor's tier
+
+
+def is_under_qualified_for_all(qualification: Optional[str]) -> bool:
+    """Whether this citizen's stated qualification is below what EVERY posting
+    in the corpus requires - i.e. nothing here is applicable to them.
+
+    Separate from search()'s deliberate fail-open ranking (see its docstring):
+    fail-open is right for OVER-qualification, where a Graduate can still
+    apply to a 12th-Pass post, but it is not right for UNDER-qualification,
+    where the citizen simply cannot apply at all. search() still returns the
+    postings so the reply can explain the requirement; this lets the caller
+    say so plainly instead of presenting them as options."""
+    if not qualification:
+        return False
+    return _qualification_tier(qualification) < MIN_JOB_QUALIFICATION_TIER
 
 
 def _min_salary(job) -> int:
