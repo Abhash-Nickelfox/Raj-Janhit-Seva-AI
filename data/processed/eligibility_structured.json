@@ -2863,8 +2863,7 @@
     "benefit_type_coarse": "composite",
     "benefit_type_fine": [],
     "occupation_target_group": [
-      "student",
-      "woman"
+      "student"
     ],
     "education_level": "higher_education"
   },
@@ -2899,9 +2898,7 @@
     "benefit_type_fine": [
       "training"
     ],
-    "occupation_target_group": [
-      "woman"
-    ],
+    "occupation_target_group": [],
     "education_level": null
   },
   {
@@ -2937,7 +2934,6 @@
       "training"
     ],
     "occupation_target_group": [
-      "woman",
       "entrepreneur"
     ],
     "education_level": null

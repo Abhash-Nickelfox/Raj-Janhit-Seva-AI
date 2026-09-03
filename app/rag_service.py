@@ -390,7 +390,35 @@ class RagService:
         identity_terms = _identity_query_terms(citizen)
         search_query = f"{query} {identity_terms}".strip() if identity_terms else query
         raw_hits = self.cards.similarity_search_with_score(search_query, k=SHORTLIST_POOL_SIZE)
-        pool = {doc.metadata["scheme_id"]: (doc.metadata, distance) for doc, distance in raw_hits}
+        # Keep the BEST (lowest-distance) card per scheme, not whichever one
+        # happens to come last (2026-09-03). Every scheme has two discovery
+        # cards, en and hi, and both routinely land in the same hit list - so
+        # the previous dict comprehension here
+        #     {doc.metadata["scheme_id"]: (doc.metadata, distance) for ...}
+        # silently kept the LAST occurrence per scheme_id. Because raw_hits
+        # arrives sorted best-first, "last" is systematically the WORSE of
+        # the two language variants: every scheme in the pool was being
+        # scored by its weaker card, and by a different one per query.
+        #
+        # Found live: "khet ki fencing ke liye sahayata" ranked an onion-
+        # storage scheme above Kantedar Tarbandi Yojana (the actual fencing
+        # scheme). Real distances were Kantedar[hi] 5.97, Pyaaj[hi] 6.72,
+        # Pyaaj[en] 7.05, Kantedar[en] 8.74 - so on its best card Kantedar
+        # clearly wins, but both schemes got collapsed to their en card and
+        # the comparison became 8.74 vs 7.05, inverting the result. The
+        # citizen was then told the onion scheme "doesn't fit" instead of
+        # being given the fencing scheme that does.
+        #
+        # This is the same best-wins merge the occupation-synonym block below
+        # already does correctly for its own hits; the main pool just never
+        # got it. Also note the later best_by_scheme loop cannot recover from
+        # this - by then the pool holds only one (already wrong) entry per
+        # scheme, so there is nothing left to compare against.
+        pool = {}
+        for doc, distance in raw_hits:
+            scheme_id = doc.metadata["scheme_id"]
+            if scheme_id not in pool or distance < pool[scheme_id][1]:
+                pool[scheme_id] = (doc.metadata, distance)
 
         # hybrid recall via occupation-group synonyms (2026-08-26) - a
         # SEPARATE, clean search, not blended into search_query above (see
