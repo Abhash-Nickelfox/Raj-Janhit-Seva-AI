@@ -21,11 +21,11 @@ export const useChatStore = create((set, get) => ({
   sessionId: newSessionId(),
   messages: [{ role: "bot", text: WELCOME_TEXT }],
   isLoading: false,
-  // Always null now that LanguageSelector is removed - the backend's /chat
-  // still accepts this (to LOCK reply_lang for a whole session), it's just
-  // never sent since there's no more UI to set it. Per-turn auto-detection
-  // (unaffected either way) is what actually decides the reply's language.
+  // Sent on every /chat request (see api/chatApi.js) - the backend LOCKS
+  // reply_lang to this for the rest of the session once set. null means
+  // per-turn auto-detection decides the reply's language instead.
   preferredLang: null,
+  setPreferredLang: (lang) => set({ preferredLang: lang }),
 
   // Mock-only (2026-08-17): set to the OTP preview text the turn the Jan
   // Aadhaar mock generates one, so SmsPopup can show it as a simulated

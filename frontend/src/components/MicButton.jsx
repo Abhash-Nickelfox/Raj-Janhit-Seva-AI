@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import { transcribeAudio } from "../api/chatApi.js";
+import iconMic from "../assets/figma/icon-mic.svg";
 
 // Press to start recording (records via MediaRecorder), stops ONLY when the
 // citizen taps the mic icon again - no auto-stop of any kind (2026-08-20,
@@ -76,6 +77,7 @@ export default function MicButton({ onSend, disabled, onError }) {
 
   const isRecording = status === "recording";
   const isBusy = status === "transcribing";
+  const label = isRecording ? "Recording…" : isBusy ? "…" : "Speak";
 
   return (
     <button
@@ -86,25 +88,38 @@ export default function MicButton({ onSend, disabled, onError }) {
       style={{
         display: "flex",
         alignItems: "center",
-        justifyContent: "center",
-        width: 40,
-        height: 40,
-        padding: 0,
-        borderRadius: "50%",
-        border: "none",
-        background: isRecording ? "#dc2626" : disabled || isBusy ? "#9ca3af" : "#6b7280",
-        color: "#fff",
+        gap: 9,
+        minHeight: 40,
+        padding: "0 16px",
+        borderRadius: 999,
+        border: isRecording ? "1px solid #dc2626" : "1px solid var(--color-input-border)",
+        background: isRecording ? "#fef2f2" : "transparent",
         cursor: disabled || isBusy ? "default" : "pointer",
         flexShrink: 0,
         animation: isRecording ? "mic-pulse 1.2s infinite" : "none",
       }}
     >
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path
-          d="M12 14a3 3 0 003-3V6a3 3 0 10-6 0v5a3 3 0 003 3zm5-3a5 5 0 01-10 0H5a7 7 0 006 6.92V21h2v-3.08A7 7 0 0019 11h-2z"
-          fill="currentColor"
-        />
-      </svg>
+      <span
+        style={{
+          display: "inline-flex",
+          width: 17,
+          height: 17,
+          color: isRecording ? "#dc2626" : "var(--color-ink)",
+        }}
+      >
+        <img src={iconMic} alt="" width={17} height={17} style={{ display: "block" }} />
+      </span>
+      <span
+        style={{
+          fontFamily: "var(--font-latin)",
+          fontWeight: 600,
+          fontSize: 14.4,
+          color: isRecording ? "#dc2626" : "var(--color-ink)",
+          whiteSpace: "nowrap",
+        }}
+      >
+        {label}
+      </span>
     </button>
   );
 }

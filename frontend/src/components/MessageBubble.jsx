@@ -77,12 +77,13 @@ export default function MessageBubble({ role, text }) {
           maxWidth: "80%",
           padding: "10px 14px",
           borderRadius: 14,
+          fontFamily: "var(--font-latin)",
           fontSize: 14,
           lineHeight: 1.45,
           whiteSpace: "pre-wrap",
-          background: isUser ? "#1a56db" : "#ffffff",
-          color: isUser ? "#ffffff" : "#1f2937",
-          border: isUser ? "none" : "1px solid #d1d5db",
+          background: isUser ? "var(--color-send-bg)" : "#ffffff",
+          color: isUser ? "#ffffff" : "var(--color-ink)",
+          border: isUser ? "none" : "1px solid var(--color-card-border)",
         }}
       >
         {renderText(text)}
