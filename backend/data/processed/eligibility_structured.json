@@ -1,0 +1,5425 @@
+[
+  {
+    "scheme_id": "67b08aee0cc99d069d33bc00",
+    "slug": "aayr",
+    "scheme_name": "Antheyesthi Anudan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "subsidy"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65fbc1ca47c0daa74e38e4b8",
+    "slug": "abn",
+    "scheme_name": "Anti Bird Net",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6807cb9192da06bdddb7d8ec",
+    "slug": "aby",
+    "scheme_name": "Aapki Beti Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "never-married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 5,
+    "age_max": 21,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "67faab977dc6b8a0ad166831",
+    "slug": "adbpae",
+    "scheme_name": "Assistance for Digitization of Business Processes and Adoption of eCommerce",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship"
+    ],
+    "department": "Industry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "equipment"
+    ],
+    "occupation_target_group": [
+      "entrepreneur"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67b5f127d6a94de2eee2bde1",
+    "slug": "adbtvs",
+    "scheme_name": "Ambedkar DBT Voucher Scheme",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment",
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "obc",
+      "pvtg",
+      "sc",
+      "st"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 40,
+    "family_income_ceiling": 250000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "67ef73ab4f405f25875e6554",
+    "slug": "afdm",
+    "scheme_name": "Assistance for Daughter's Marriage",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "department": "Department of Sainik Welfare",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "widowed"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "widow",
+      "woman",
+      "ex_servicemen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67f3b839269b0727e8facfa4",
+    "slug": "afqe",
+    "scheme_name": "Assistance for Quality Enhancement",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship"
+    ],
+    "department": "Industry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67b0544d0cc99d069d336c01",
+    "slug": "afs-sc",
+    "scheme_name": "Ambedkar Fellowship Scheme",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "sc"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 35,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "67b1d7d250fc00c18b82039f",
+    "slug": "ais-sc",
+    "scheme_name": "Ambedkar International Scholarship - SC",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "sc"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 21,
+    "age_max": 34,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "6804f19e941ea79974b65f1d",
+    "slug": "akvkckcvy",
+    "scheme_name": "Bicycle Distribution Scheme for Girl Students of Economically Weaker Section",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "never-married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 9,
+    "age_max": 14,
+    "family_income_ceiling": 100000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": 100000,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "67cdd05c4f0bd5e698d60453",
+    "slug": "apafale",
+    "scheme_name": "Assistance to Persons with Disabilities for Purchase/Fitting of Artificial Limbs/Appliances",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "equipment"
+    ],
+    "occupation_target_group": [
+      "differently_abled"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6831ee5277025b42c32d1c60",
+    "slug": "apkmy",
+    "scheme_name": "Assistance to Pilgrims for Kailash Mansarovar Yatra - Rajasthan",
+    "level": "State/ UT",
+    "category": [
+      "Travel & Tourism"
+    ],
+    "department": "Devasthan Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "642170470912d761b99e8a1d",
+    "slug": "asfcw",
+    "scheme_name": "Assistance Scheme For Construction Worker In Case Of General Or Accidental Death Or Injury",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "64217b310912d761b99e8acd",
+    "slug": "asfrfevcsea",
+    "scheme_name": "Assistance Scheme For Reimbursement For Expenditure On Visa By Construction Workers For Employment Abroad",
+    "level": "State",
+    "category": [
+      "Skills & Employment"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67cadcbf1dc65aa2df41c967",
+    "slug": "asr",
+    "scheme_name": "Aastha Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Health & Wellness",
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "differently_abled"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "649559b7481f59106a6d1651",
+    "slug": "bsyrj",
+    "scheme_name": "Beej Swalamban Yojna",
+    "level": "State",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67f2a8c24f89143c4d3dcca8",
+    "slug": "bufdstmsfa",
+    "scheme_name": "Financial assistance to Meritorious Scheduled Tribe Students who have Passed First Division from Board and University",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Higher Education Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "642257f515612c1db763d0f7",
+    "slug": "cec",
+    "scheme_name": "Competitive Exam Coaching",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67f103591b9b5e2aec0361a5",
+    "slug": "cgsces",
+    "scheme_name": "Grant on Passing the Written Examination of Competitive Examinations for Recruitment in Armed Forces",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Department of Sainik Welfare",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "never-married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "ex_servicemen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "68284785f2de71e7817d5859",
+    "slug": "cifestss",
+    "scheme_name": "Cash Amount for Encouraging Scheduled Tribe Sportsperson Students",
+    "level": "State/ UT",
+    "category": [
+      "Sports & Culture"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "female",
+      "male"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 9,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65f00ab2da55878ebe212f59",
+    "slug": "cklpr",
+    "scheme_name": "Chhatraon Ke Liye Protsahan Rashi",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment",
+      "Education & Learning"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "645be3be3b5b7730866a5979",
+    "slug": "cmacs",
+    "scheme_name": "CM Anuprati Coaching Scheme",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "obc",
+      "sc",
+      "st",
+      "pvtg",
+      "general"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 60,
+    "family_income_ceiling": 800000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "680e8e0c096abd5b8bc31a73",
+    "slug": "cmdrsr",
+    "scheme_name": "Mukhyamantri Asahaya Punarwas Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "senior_citizen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "648b6113481f59106a699591",
+    "slug": "cmenspy",
+    "scheme_name": "Chief Minister Ekal Nari Samman Pension Yojana",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "divorced",
+      "separated",
+      "widowed"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": 48000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension"
+    ],
+    "occupation_target_group": [
+      "widow",
+      "senior_citizen",
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "66bc9a88c5af5de226834d4c",
+    "slug": "cmhess",
+    "scheme_name": "Chief Minister Higher Education Scholarship Scheme",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Higher Education Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 15,
+    "age_max": 60,
+    "family_income_ceiling": 250000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": 250000,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "64aaee88481f59106a71e05e",
+    "slug": "cmsasps",
+    "scheme_name": "Chief Minister Specially Abled Samman Pension Scheme",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": 60000,
+    "individual_income_ceiling": 60000,
+    "parent_income_ceiling": 60000,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship",
+      "pension"
+    ],
+    "occupation_target_group": [
+      "differently_abled",
+      "senior_citizen",
+      "student"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67b1e53dd6a94de2eedda95b",
+    "slug": "cmsmfops",
+    "scheme_name": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment",
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "rural"
+    ],
+    "age_min": 55,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension"
+    ],
+    "occupation_target_group": [
+      "farmer",
+      "senior_citizen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67f37956b4c840dea6658f6c",
+    "slug": "cpyr",
+    "scheme_name": "Leather Training Scheme - Rajasthan",
+    "level": "State/ UT",
+    "category": [
+      "Skills & Employment"
+    ],
+    "department": "Industry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67b0ae530cc99d069d33edb0",
+    "slug": "dccs",
+    "scheme_name": "Devnarayan Chhatra Cycle Scheme",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "pvtg",
+      "obc"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 12,
+    "age_max": 16,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "67f252ca8e7fcdf4bf2ff670",
+    "slug": "desfg",
+    "scheme_name": "Distance Education Scheme for Girls",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Higher Education Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 50,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "67b1b896d6a94de2eedd6d17",
+    "slug": "dgyr",
+    "scheme_name": "Devnarayan Gurukul Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "obc"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "rural"
+    ],
+    "age_min": 8,
+    "age_max": 10,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "67f2cb7ac8b84abf36a16f31",
+    "slug": "dpcpy",
+    "scheme_name": "Devnarayan Pratibhawan Chhatra Protsahan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "obc"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "rural"
+    ],
+    "age_min": 13,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": 200000,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "649a9d0f481f59106a6e7624",
+    "slug": "dpmsc",
+    "scheme_name": "Devnarayan Pre-Matric Scholarship Scheme",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "sc"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": 200000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": 200000,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "649a8d82380f8e123543e9a2",
+    "slug": "dpmss",
+    "scheme_name": "Devnarayan Post Matric Scholarship Scheme",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "sc"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": 250000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": 250000,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65f18303da55878ebe236c1e",
+    "slug": "dr",
+    "scheme_name": "Diggy",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67bb637e550228dc0e102e22",
+    "slug": "dsbaavpy",
+    "scheme_name": "Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "sc",
+      "st"
+    ],
+    "gender": [
+      "female",
+      "male"
+    ],
+    "marital_status": [
+      "never-married",
+      "widowed"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 35,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "648ac9ad380f8e12353ef57e",
+    "slug": "dsdais",
+    "scheme_name": "Devnarayan Scooty Distribution And Incentive Scheme",
+    "level": "State",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "College Education Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": 250000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": 250000,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "65f938b60e25df91fd3745de",
+    "slug": "dsr",
+    "scheme_name": "Drip Sanyantr",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "649032d8380f8e12353ffc53",
+    "slug": "ehftg",
+    "scheme_name": "Economic Help To Tribal Girls For Higher Education (Class 11 & 12)",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 14,
+    "age_max": 20,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "64a6625c380f8e1235465c1d",
+    "slug": "ehstgs",
+    "scheme_name": "Economic Help To Sahariya Tribal Girl Students (Class 11 And 12)",
+    "level": "State",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "pvtg"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 14,
+    "age_max": 20,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "649150de481f59106a6ac38d",
+    "slug": "ehttg",
+    "scheme_name": "Economic Help To Tribal Girls For Higher Education (College Level)",
+    "level": "State",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 17,
+    "age_max": 25,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "67ef7dca5a4889e1887a8968",
+    "slug": "faafbdmmresf",
+    "scheme_name": "Financial Assistance for the Treatment of Blind, Disabled, Deaf, Dumb, or Mentally Challenged Ex-Servicemen and their Dependents (Wife and Children)",
+    "level": "State/ UT",
+    "category": [
+      "Health & Wellness"
+    ],
+    "department": "Department of Sainik Welfare",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan",
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "differently_abled",
+      "ex_servicemen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6822f25b21aa532bf67799d1",
+    "slug": "fasfj",
+    "scheme_name": "Financial Assistance Scheme for Journalists and Litterateurs - Rajasthan",
+    "level": "State/ UT",
+    "category": [
+      "Health & Wellness",
+      "Social welfare & Empowerment"
+    ],
+    "department": "Information and Public Relations Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "unemployed",
+      "senior_citizen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6824b38af2de71e78179554f",
+    "slug": "fasfjd",
+    "scheme_name": "Financial Assistance Scheme for Dependents of Deceased Journalists and Litterateurs - Rajasthan",
+    "level": "State/ UT",
+    "category": [
+      "Health & Wellness",
+      "Social welfare & Empowerment"
+    ],
+    "department": "Information and Public Relations Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "unemployed"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "680cfa92197a2fd77e4d349d",
+    "slug": "fbdsvgac",
+    "scheme_name": "Free Bicycle Distribution to Students of Vimukt, Ghumantu and Ardhghumantu Communities",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "pvtg"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "never-married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 9,
+    "age_max": 21,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "64224f36af25fd4fcf837ddd",
+    "slug": "fhdfh",
+    "scheme_name": "Financial Help On Death Of Family Head",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "666bde8febb262eb5dc18570",
+    "slug": "fp",
+    "scheme_name": "Fasal Pradarshan",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 80,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65eae022938a0b13ccaa2ca5",
+    "slug": "fpktnk",
+    "scheme_name": "Farm Pond (Khet Talai) Nirman Karyakram",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6808acdc5b9f421ef9a6f39d",
+    "slug": "fsdfg",
+    "scheme_name": "Free Scooty Distribution for Girls (GEN-CATEGAORY-EWS)",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "general"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 11,
+    "age_max": 21,
+    "family_income_ceiling": 250000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "65f2d70d938a0b13ccb7b959",
+    "slug": "fsr",
+    "scheme_name": "Fawara Sanyantra",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan",
+      "equipment"
+    ],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6498914e481f59106a6e05a4",
+    "slug": "ggay",
+    "scheme_name": "Ghar Ghar Aushodhi Yojana",
+    "level": "State",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Forest Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "housing",
+      "healthcare"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65f81eefe4760d555114194c",
+    "slug": "gh",
+    "scheme_name": "Green House",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "subsidy"
+    ],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67c59346e39781207675dfdc",
+    "slug": "glbngs",
+    "scheme_name": "Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Housing & Shelter"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67c47578e39781207674d48a",
+    "slug": "glrmy",
+    "scheme_name": "Gadiya Lohar Raw Material Purchase Grant-in-aid Scheme",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "rural"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "entrepreneur"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "648f4dd7481f59106a6a5771",
+    "slug": "gpy",
+    "scheme_name": "Gargi Puruskar Yojana",
+    "level": "State",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "676405f2f41779c1f9761215",
+    "slug": "gvyr",
+    "scheme_name": "Gaushala Vikas Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Housing & Shelter"
+    ],
+    "department": "Animal Husbandry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 65,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65d790f3938a0b13cc8e3106",
+    "slug": "hksadmmyghkdms",
+    "scheme_name": "Hita-dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Health & Wellness",
+      "Social welfare & Empowerment"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "681f9418d125d5479bb95b34",
+    "slug": "hrasfts",
+    "scheme_name": "Hostel Rent Assistance Scheme for Tribal Students",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning",
+      "Housing & Shelter"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 30,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "681f5136ba3ec28b04f660e0",
+    "slug": "igmpy",
+    "scheme_name": "Indira Gandhi Matritva Poshan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Women and Child"
+    ],
+    "department": "Women and Child Development Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e01abeda55878ebe08a7ee",
+    "slug": "ignvpyr",
+    "scheme_name": "Indira Gandhi National Vrdhavastha Pension Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "department": "Law and Justice Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 60,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension"
+    ],
+    "occupation_target_group": [
+      "senior_citizen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e034ac938a0b13cc9b5b2e",
+    "slug": "ignvpyrr",
+    "scheme_name": "Indira Gandhi National Vidhva Pension yojana",
+    "level": "State/ UT",
+    "category": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "widowed"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 40,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension"
+    ],
+    "occupation_target_group": [
+      "widow",
+      "senior_citizen",
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6498a6b1380f8e123543810c",
+    "slug": "igsccy",
+    "scheme_name": "Indira Gandhi Shehri Credit Card Yojana",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Employment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "urban"
+    ],
+    "age_min": 18,
+    "age_max": 40,
+    "family_income_ceiling": 50000,
+    "individual_income_ceiling": 15000,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "unemployed"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e9669dda55878ebe15b1ec",
+    "slug": "imspeksyrc",
+    "scheme_name": "Indira Mahila Shakti Prashikshan Evam Kaushal Sanvardhan Yojna -RS-CIT",
+    "level": "State/ UT",
+    "category": [
+      "Women and Child",
+      "Education & Learning"
+    ],
+    "department": "Women and Child Development Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 40,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e98918938a0b13cca86e52",
+    "slug": "imspeksyrcr",
+    "scheme_name": "Indira Mahila Shakti Prashikshan Evam Koshal Sanvardhan Yojana (RS-CSEP)",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Women and Child Development Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "65d31dcdcd96dc5e07590140",
+    "slug": "imspesy",
+    "scheme_name": " Indira Mahila Shakti Udyam Protsahan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Women and Child"
+    ],
+    "department": "Women and Child Development Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan"
+    ],
+    "occupation_target_group": [
+      "woman",
+      "entrepreneur"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67f798f5ca4dbdfd53108f0c",
+    "slug": "ipy",
+    "scheme_name": "Indira Priyadarshini Award",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 11,
+    "age_max": 21,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan"
+    ],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "680e8435096abd5b8bc31473",
+    "slug": "ismsebcgc",
+    "scheme_name": "Incentive Scheme for Meritorious Students of Economically Backward Class of General Category",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "general"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "rural"
+    ],
+    "age_min": 14,
+    "age_max": 25,
+    "family_income_ceiling": 250000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": 250000,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "649aa891380f8e123543f13f",
+    "slug": "issfb",
+    "scheme_name": "Incentive To Saharia Students For B.Ed",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "649ab2cd380f8e123543f400",
+    "slug": "itg",
+    "scheme_name": "Incentive To Girls",
+    "level": "State",
+    "category": [
+      "Agriculture,Rural & Environment",
+      "Women and Child"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 14,
+    "age_max": 40,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "66029a8a26029b74e6c3c8f2",
+    "slug": "jh",
+    "scheme_name": "Jal Hauj",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "68207a9121aa532bf6751928",
+    "slug": "jsby",
+    "scheme_name": "Jan Samuh Bima Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "pvtg",
+      "st"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "insurance"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6491808d380f8e123540497d",
+    "slug": "kbbmcss",
+    "scheme_name": "Kali Bai Bheel Medhavi Chhatra Scooty Scheme",
+    "level": "State",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Higher Education Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 14,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "680cbaa50812f1f15d3fe7b2",
+    "slug": "kgsfdrs",
+    "scheme_name": "Kasturba Gandhi Special Term Deposit Receipt Scheme",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 13,
+    "age_max": 20,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65f14a72da55878ebe22ffa2",
+    "slug": "kkt",
+    "scheme_name": "Kantedar Tarbandi Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6603f5c2a8333243438951a5",
+    "slug": "kky",
+    "scheme_name": "Kisan Kaleva Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "660278c2d7b29251fbf06c77",
+    "slug": "klpbs",
+    "scheme_name": "Kam Lagat Pyaaj Bhandaran Sanrachna",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65f284a0da55878ebe2499e3",
+    "slug": "kt",
+    "scheme_name": "Khet Talai",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65f2b266938a0b13ccb77649",
+    "slug": "ky",
+    "scheme_name": "Krishi Yantra",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "subsidy",
+      "equipment"
+    ],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "681c5236689952af098408f7",
+    "slug": "lpy",
+    "scheme_name": "Laado Protsahan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Women and Child"
+    ],
+    "department": "Women and Child Development Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "rural"
+    ],
+    "age_min": 0,
+    "age_max": 21,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "68dbaf00507c812f4f301ea4",
+    "slug": "maayr",
+    "scheme_name": "Mukhyamantri Ayushman Aarogya Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Health & Wellness"
+    ],
+    "department": "Medical, Health and Family Welfare Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "loan",
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "farmer",
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "682c2ffefa43f37664fb1760",
+    "slug": "mbmbdccs",
+    "scheme_name": "Maa-Badi / Maa-Badi Day-Care Centre Scheme",
+    "level": "State",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "never-married"
+    ],
+    "residence": [
+      "rural"
+    ],
+    "age_min": 6,
+    "age_max": 12,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6490851c380f8e12354011b9",
+    "slug": "mcsby",
+    "scheme_name": "Mukhyamantri Chiranjeevi Swasthya Beema Yojana",
+    "level": "State",
+    "category": [
+      "Health & Wellness"
+    ],
+    "department": "Medical, Health and Family Welfare Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "insurance",
+      "healthcare"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "680f9d6d096abd5b8bc432f7",
+    "slug": "mhvs-hte",
+    "scheme_name": "Mukhyamantri Hunar Vikas Yojana- Higher Education/Technical Education",
+    "level": "State/ UT",
+    "category": [
+      "Skills & Employment",
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 15,
+    "age_max": 21,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "680f683e197a2fd77e4f5d4b",
+    "slug": "mhvs-ptts",
+    "scheme_name": "Mukhyamantri Hunar Vikas Yojana- Professional/Technical Training",
+    "level": "State/ UT",
+    "category": [
+      "Skills & Employment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 15,
+    "age_max": 21,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6811d56082a8f87190f055a1",
+    "slug": "mhvs-sebs",
+    "scheme_name": "Mukhyamantri Hunar Vikas Yojana- Self-Employment/Business",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship",
+      "Skills & Employment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 21,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "entrepreneur"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "660ebfe7d7abbe47ee1e5d8e",
+    "slug": "mjpmsky",
+    "scheme_name": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana ",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 15,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer",
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "641bf698b1f2fd9fac0f1694",
+    "slug": "mky",
+    "scheme_name": "Mukhyamantri Kanyadaan Yojana",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment",
+      "Women and Child"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "sc",
+      "st"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "never-married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "differently_abled",
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6809e8ee41f9fb65ecb30eb1",
+    "slug": "mmsayfews",
+    "scheme_name": "Mukhyamantri Shiksha Alankar Yojana for Students of Economically Weaker Section",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 12,
+    "age_max": 21,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "67c07bc70589a41767653e89",
+    "slug": "mmsuscy",
+    "scheme_name": "Mukhya Mantri Sarvajan Uchcha Shiksha Chhatravriti Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "obc",
+      "pvtg",
+      "st",
+      "sc",
+      "general"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 45,
+    "family_income_ceiling": 500000,
+    "individual_income_ceiling": 500000,
+    "parent_income_ceiling": 500000,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "67c957ba1dc65aa2df4033a4",
+    "slug": "mmvyjsy",
+    "scheme_name": "Mukhyamantri Vishesh Yogyajan Swaraozgar Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 55,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan"
+    ],
+    "occupation_target_group": [
+      "differently_abled",
+      "entrepreneur"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e59907da55878ebe1087c6",
+    "slug": "mry",
+    "scheme_name": "Mukhyamantri Rajshri Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Women and Child"
+    ],
+    "department": "Women and Child Development Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65f961bfe06bfd7340436687",
+    "slug": "mss",
+    "scheme_name": "Mini Sprinkler Sanyantr",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan",
+      "subsidy"
+    ],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e1ae46938a0b13cc9d841f",
+    "slug": "msveay",
+    "scheme_name": "Mukyamantri Samuhik Vivah Evam Anudan Yojna ",
+    "level": "State/ UT",
+    "category": [
+      "Women and Child"
+    ],
+    "department": "Women and Child Development Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "subsidy"
+    ],
+    "occupation_target_group": [
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67bc80da3f0a68c9ea3b1d44",
+    "slug": "msyr",
+    "scheme_name": "Mahila Swayamsiddha Yojana Rajasthan",
+    "level": "State/ UT",
+    "category": [
+      "Housing & Shelter",
+      "Women and Child",
+      "Skills & Employment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "widow",
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67cd8bcb4f0bd5e698d5c22d",
+    "slug": "mts",
+    "scheme_name": "Motorized Tricycle Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Skills & Employment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "differently_abled"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65df6083da55878ebe07fa24",
+    "slug": "mvspy",
+    "scheme_name": "Mukhyamantri Vriddhjan Samman Pension Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 55,
+    "age_max": 100,
+    "family_income_ceiling": 48000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension"
+    ],
+    "occupation_target_group": [
+      "senior_citizen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e00658da55878ebe088540",
+    "slug": "mvyspy",
+    "scheme_name": "Mukhyamantri Vishesh Yogyajan Sammaan Pension Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": 60000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension"
+    ],
+    "occupation_target_group": [
+      "differently_abled",
+      "senior_citizen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e5ecca938a0b13cca39636",
+    "slug": "mwfhjwy",
+    "scheme_name": "Mukhyamantri Work Form Home-Job Work Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Women and Child"
+    ],
+    "department": "Women and Child Development Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65fd667c49ec99f637977427",
+    "slug": "nfbks",
+    "scheme_name": "Naye Fal Bagicho Ki Sthapana",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "64216226eb5671c0e45ac74c",
+    "slug": "njcfts",
+    "scheme_name": "NEET/JEE Coaching For Tribal Students",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "64264af255128caeb7320975",
+    "slug": "nsakppy",
+    "scheme_name": "Nirman Shramik Antrashtriya Khel Pratiyogiyo Hetu Protsahan Yojana",
+    "level": "State",
+    "category": [
+      "Sports & Culture"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 5,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65d6ccb7cd96dc5e075ca7e7",
+    "slug": "nsatsy",
+    "scheme_name": "Nirman Shramik Auzaar Toolkit Sahayata Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "equipment"
+    ],
+    "occupation_target_group": [
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65dc4558938a0b13cc9563e8",
+    "slug": "nsauabdbrpshapy",
+    "scheme_name": "Nirman Shramik Avm Unke Aashrit Bacchon Dwara Bhartiya Rajasthan Prashasnik Seva Hetu Aayojit Pratibhabhik Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 40,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "labourer"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "65d457d2cd96dc5e075a1f54",
+    "slug": "nsjbsy",
+    "scheme_name": " Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Health & Wellness"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension",
+      "insurance",
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "senior_citizen",
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65dc5d68cd96dc5e07657c2e",
+    "slug": "nsklvrpbkpy",
+    "scheme_name": "Nirman Shramikon ke Liye Vyavsayik Rin Par Byaj ki Punarbharan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Banking,Financial Services and Insurance"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan"
+    ],
+    "occupation_target_group": [
+      "labourer",
+      "entrepreneur"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65d834d5938a0b13cc8eaf82",
+    "slug": "nskvmyhvphvbkpy",
+    "scheme_name": "Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65d59a0fcd96dc5e075b55d0",
+    "slug": "nsskvy",
+    "scheme_name": "Nirman Shramik Siksha Kaushal Vikas Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship",
+      "training"
+    ],
+    "occupation_target_group": [
+      "student",
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "682c5cb26e3fd3b163f40d55",
+    "slug": "oahr",
+    "scheme_name": "Operation of Ashram Hostels",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning",
+      "Housing & Shelter"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "never-married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 5,
+    "age_max": 25,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "682a2a9d6e3fd3b163f1f865",
+    "slug": "osh",
+    "scheme_name": "Operation of Sports Hostels",
+    "level": "State/ UT",
+    "category": [
+      "Sports & Culture",
+      "Housing & Shelter"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "never-married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 9,
+    "age_max": 21,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "6820ef3121aa532bf675913d",
+    "slug": "pasr",
+    "scheme_name": "Prakashan Sahayata Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "rural"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65fbb71947c0daa74e38d2da",
+    "slug": "pm",
+    "scheme_name": "Plastic Mulching",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67bf3177f4981008fe917e35",
+    "slug": "pmsscpecp",
+    "scheme_name": "Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "obc",
+      "pvtg",
+      "sc",
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 13,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship",
+      "loan"
+    ],
+    "occupation_target_group": [
+      "student",
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "64953573380f8e1235425edb",
+    "slug": "ps",
+    "scheme_name": "Palanhar Scheme",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 18,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": 120000,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6763c134f41779c1f974a5ea",
+    "slug": "psnjsy",
+    "scheme_name": "Panchayat Samiti Nandishala Jan Sahbhagita Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Housing & Shelter"
+    ],
+    "department": "Animal Husbandry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 65,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65d6ef77938a0b13cc8ce874",
+    "slug": "psy",
+    "scheme_name": "Prasuti Sahayata Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Women and Child"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 20,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "woman",
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65fab3ef47c0daa74e378775",
+    "slug": "ptlt",
+    "scheme_name": "Plastic Tunnel (Lo-Tunnel)",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan"
+    ],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6417f8cae88cf6dc84ef7194",
+    "slug": "rcmrf-aa",
+    "scheme_name": "Rajasthan Chief Minister's Relief Fund - Accident Assistance",
+    "level": "State",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "641d9453ed6317c1931b1134",
+    "slug": "rcmrf-mh",
+    "scheme_name": "Rajasthan Chief Minister's Relief Fund - Medical Help",
+    "level": "State",
+    "category": [
+      "Health & Wellness"
+    ],
+    "department": "Medical, Health and Family Welfare Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": 250000,
+    "individual_income_ceiling": 250000,
+    "parent_income_ceiling": 250000,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "healthcare"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "682a0a106e3fd3b163f1dd4d",
+    "slug": "rfsstc",
+    "scheme_name": "Research Fellowship Scheme for Scheduled Tribe Candidates",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Tribal Area Development Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 17,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "6603cb6aa8333243438904b5",
+    "slug": "rgkssy",
+    "scheme_name": "Rajiv Gandhi Krishak Sathi Sahayta Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 14,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer",
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "648b4b3f481f59106a6991c5",
+    "slug": "rgsfsae",
+    "scheme_name": "Rajiv Gandhi Scholarship For Academic Excellence",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Technical Education Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "65eab9a1da55878ebe1759a8",
+    "slug": "rksyr",
+    "scheme_name": "Khadya Suraksha Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Food and Civil Supplies Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67ffd860186a623fddce25b0",
+    "slug": "rpkpcy",
+    "scheme_name": "Rajya Pratibha Khoj Pariksha Chhatravriti Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 13,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "6817a719cf124d5d192b31be",
+    "slug": "rsajsy",
+    "scheme_name": "Rajasthan Varishth Patrakar Samman Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Information and Public Relations Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 60,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "senior_citizen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67ff4e15bd5fb5093616babf",
+    "slug": "saisoarracgf",
+    "scheme_name": "Scheme for Additional Interest Subsidy over and above RIPS 2024 and Reimbursement of Annual Credit Guarantee Fee",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship"
+    ],
+    "department": "Industry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan",
+      "subsidy"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67faa287ca4dbdfd53142a02",
+    "slug": "samsmemd",
+    "scheme_name": "Scheme for Assistance to MSMEs for Market Development",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship"
+    ],
+    "department": "Industry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67b6e10fd6a94de2eee3e14a",
+    "slug": "saps",
+    "scheme_name": "Vishesh Yogyajan Palanhar Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment",
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 18,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "65d33347cd96dc5e07591aae",
+    "slug": "sbsky",
+    "scheme_name": "Shubhshakti Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Skills & Employment"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "woman",
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67ef8a204f405f25875e9304",
+    "slug": "sbwwpm",
+    "scheme_name": "Samman Bhatta to War Widows and Parents of Martyrs",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Department of Sainik Welfare",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "divorced",
+      "married",
+      "separated",
+      "widowed"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "widow",
+      "ex_servicemen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "648f0718380f8e12353fbe46",
+    "slug": "scpmsc",
+    "scheme_name": "Schedule Caste Pre-Metric Scholarship Class 06 To 08",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "sc"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "68320f1377025b42c32d3dd7",
+    "slug": "sdpsr",
+    "scheme_name": "Sindhu Darshan Pilgrimage Scheme - Rajasthan",
+    "level": "State/ UT",
+    "category": [
+      "Travel & Tourism"
+    ],
+    "department": "Devasthan Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 21,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67cddb824f0bd5e698d60d32",
+    "slug": "sdvay",
+    "scheme_name": "Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "married",
+      "never-married"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 45,
+    "family_income_ceiling": 250000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "differently_abled"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "648ae92e481f59106a698336",
+    "slug": "sfsa",
+    "scheme_name": "Scheme For Study In Abroad",
+    "level": "State",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "woman"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "65f9806647c0daa74e3610b8",
+    "slug": "sh",
+    "scheme_name": "Shednet House",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e16ef6da55878ebe0a7eea",
+    "slug": "slesvkspy",
+    "scheme_name": "Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 55,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension"
+    ],
+    "occupation_target_group": [
+      "senior_citizen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65d71df7cd96dc5e075d31a7",
+    "slug": "sphhsy",
+    "scheme_name": "Silicosis Pidit Hita-dhikariyon Hetu Sahayata Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Health & Wellness"
+    ],
+    "department": "Labour Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan",
+      "healthcare"
+    ],
+    "occupation_target_group": [
+      "labourer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65efec8f938a0b13ccb3682f",
+    "slug": "spk",
+    "scheme_name": "Sinchai Pipeline Karyakram",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67efa4ff4f405f25875ec44c",
+    "slug": "sseces",
+    "scheme_name": "Scholarship for Children of Ex-Servicemen for Vocational and Technical Education",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Department of Sainik Welfare",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student",
+      "ex_servicemen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67d846da5ba8cb935ddbf303",
+    "slug": "ssfsap",
+    "scheme_name": "Vishesh Yogyajan Chhatravriti Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 4,
+    "age_max": 45,
+    "family_income_ceiling": 200000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "differently_abled",
+      "student"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "648f618d380f8e12353fd21a",
+    "slug": "stpmsc",
+    "scheme_name": "Schedule Tribe Pre-Metric Scholarship Class 06 To 08",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Education (Elementary and Secondary) Department",
+    "caste": [
+      "st"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 1,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "67fe0191e2f1560de65eb966",
+    "slug": "taa",
+    "scheme_name": "Technology Acquisition Assistance",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship"
+    ],
+    "department": "Industry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan"
+    ],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67af84c364e707b6d5818e3e",
+    "slug": "tufs",
+    "scheme_name": "Transgender Utthan Kosh – Identity Card for Transgender",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "transgender"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "transgender"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67bdd3f26247a62366d28bbc",
+    "slug": "tuk-chterts",
+    "scheme_name": "Transgender Utthan Kosh - College/Higher/Technical Educational Fees Refund for Transgender Students",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "transgender"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 17,
+    "age_max": 45,
+    "family_income_ceiling": 800000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "transgender"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "67bafca40117797439f1ffa0",
+    "slug": "tuk-fasbc",
+    "scheme_name": "Transgender Utthan Kosh - Financial Assistance for Studying Bisexual Children",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "transgender"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 9,
+    "age_max": 40,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": 800000,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "transgender"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67b8594cd6a94de2eee5a7dd",
+    "slug": "tuk-sept",
+    "scheme_name": "Transgender Utthan Kosh - Self Employment Programme for Transgender",
+    "level": "State/ UT",
+    "category": [
+      "Business & Entrepreneurship",
+      "Skills & Employment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "transgender"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 21,
+    "age_max": 50,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": 800000,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "loan"
+    ],
+    "occupation_target_group": [
+      "entrepreneur",
+      "transgender"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67b8912dd6a94de2eee5f583",
+    "slug": "tuk-tpt",
+    "scheme_name": "Transgender Utthan Kosh - Training Programme for Transgender",
+    "level": "State/ UT",
+    "category": [
+      "Skills & Employment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "transgender"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": 800000,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "transgender"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67bd76346247a62366d2007b",
+    "slug": "tukpmsfst",
+    "scheme_name": "Transgender Utthan Kosh - Post Matric Scholarship for Studying Transgender",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "transgender"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 14,
+    "age_max": 45,
+    "family_income_ceiling": 800000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student",
+      "transgender"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67bd67763f0a68c9ea3c022e",
+    "slug": "tukpmsst",
+    "scheme_name": "Transgender Utthan Kosh - Pre Matric Scholarship for Studying Transgender",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "transgender"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 4,
+    "age_max": 16,
+    "family_income_ceiling": 800000,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student",
+      "transgender"
+    ],
+    "education_level": "school"
+  },
+  {
+    "scheme_id": "67f1512a47fce4bdae1f3dfa",
+    "slug": "usr",
+    "scheme_name": "Urdu Scholarship- Rajasthan",
+    "level": "State/ UT",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Higher Education Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female",
+      "male"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 15,
+    "age_max": 45,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "scholarship"
+    ],
+    "occupation_target_group": [
+      "student",
+      "woman"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "65fbdf9b47c0daa74e391bb6",
+    "slug": "vi",
+    "scheme_name": "Vermicompost Ikai",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6763f1cbf41779c1f975ad92",
+    "slug": "vsbgks",
+    "scheme_name": "Vadh Se Bachaye Govansh Ko Sahayata Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Housing & Shelter"
+    ],
+    "department": "Animal Husbandry Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 65,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [],
+    "education_level": null
+  },
+  {
+    "scheme_id": "65e0b218da55878ebe09bd2c",
+    "slug": "vvuy",
+    "scheme_name": "Vidhva Vivah Uphar Yojana",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Social Justice and Empowerment Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "widowed"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 50,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "widow",
+      "woman"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "64b5f6d6b594314dec7ef220",
+    "slug": "wbedrj",
+    "scheme_name": "Widow B.Ed Scheme-Rajasthan",
+    "level": "State",
+    "category": [
+      "Education & Learning",
+      "Women and Child"
+    ],
+    "department": "Higher Education Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "female"
+    ],
+    "marital_status": [
+      "divorced",
+      "separated",
+      "widowed"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 40,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [],
+    "occupation_target_group": [
+      "student",
+      "widow",
+      "woman"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "6602e867858d639361013f02",
+    "slug": "wit",
+    "scheme_name": "Walk In Tunnel",
+    "level": "State/ UT",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "subsidy"
+    ],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "67ef93a75a4889e1887ab46f",
+    "slug": "wwiip",
+    "scheme_name": "World War II Pension",
+    "level": "State/ UT",
+    "category": [
+      "Social welfare & Empowerment"
+    ],
+    "department": "Department of Sainik Welfare",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "male",
+      "female"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "cash",
+    "benefit_type_fine": [
+      "pension"
+    ],
+    "occupation_target_group": [
+      "widow",
+      "senior_citizen",
+      "ex_servicemen"
+    ],
+    "education_level": null
+  },
+  {
+    "scheme_id": "6480348a380f8e12353d3419",
+    "slug": "yip",
+    "scheme_name": "Young Interns Program",
+    "level": "State",
+    "category": [
+      "Education & Learning"
+    ],
+    "department": "Economics and Statistics Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 21,
+    "age_max": 30,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "composite",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "student"
+    ],
+    "education_level": "higher_education"
+  },
+  {
+    "scheme_id": "649566df380f8e123542a437",
+    "slug": "zbnf",
+    "scheme_name": "Zero Budget Natural Farming",
+    "level": "State",
+    "category": [
+      "Agriculture,Rural & Environment"
+    ],
+    "department": "Agriculture Department",
+    "caste": [
+      "all"
+    ],
+    "gender": [
+      "all"
+    ],
+    "marital_status": [
+      "all"
+    ],
+    "residence": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 35,
+    "family_income_ceiling": null,
+    "individual_income_ceiling": null,
+    "parent_income_ceiling": null,
+    "benefit_type_coarse": "in-kind",
+    "benefit_type_fine": [
+      "training"
+    ],
+    "occupation_target_group": [
+      "farmer"
+    ],
+    "education_level": null
+  }
+]

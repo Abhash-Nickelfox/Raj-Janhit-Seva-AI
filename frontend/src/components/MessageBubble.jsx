@@ -1,53 +1,14 @@
 // Minimal hand-rolled markdown rendering - generate_node's replies come out
-// as markdown (headers, bold, italic, inline code, links, lists, quotes).
-// Everything is built as React elements - no dangerouslySetInnerHTML, no
-// rehype-raw - so model output can never inject markup. Links are limited
-// to http(s)/mailto/tel and open in a new tab with rel="noopener".
-
-const SAFE_URL = /^(https?:\/\/|mailto:|tel:)/i;
-
-// Inline tokens, in precedence order: code, link, bold, italic.
-const INLINE_RE = /(`[^`\n]+`|\[[^\]\n]+\]\((?:https?:\/\/|mailto:|tel:)[^\s)]+\)|\*\*[^*\n]+?\*\*|(?<![\w*])\*(?!\s)[^*\n]+?(?<!\s)\*(?![\w*])|(?<![\w_])_(?!\s)[^_\n]+?(?<!\s)_(?![\w_]))/g;
-
+// as markdown (headers, bold, lists), and without this they'd show up as
+// literal "#"/"**"/"-" characters in the chat bubble.
 function renderInline(text, keyPrefix) {
-  const out = [];
-  let last = 0;
-  let i = 0;
-  for (const m of text.matchAll(INLINE_RE)) {
-    if (m.index > last) out.push(<span key={`${keyPrefix}-t${i++}`}>{text.slice(last, m.index)}</span>);
-    const tok = m[0];
-    const key = `${keyPrefix}-m${i++}`;
-    if (tok.startsWith("`")) {
-      out.push(
-        <code
-          key={key}
-          style={{ fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace", fontSize: "0.92em", background: "rgba(0,0,0,0.06)", padding: "1px 4px", borderRadius: 4 }}
-        >
-          {tok.slice(1, -1)}
-        </code>,
-      );
-    } else if (tok.startsWith("[")) {
-      const close = tok.indexOf("](");
-      const label = tok.slice(1, close);
-      const href = tok.slice(close + 2, -1);
-      if (SAFE_URL.test(href)) {
-        out.push(
-          <a key={key} href={href} target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "underline" }}>
-            {renderInline(label, key)}
-          </a>,
-        );
-      } else {
-        out.push(<span key={key}>{label}</span>);
-      }
-    } else if (tok.startsWith("**")) {
-      out.push(<strong key={key}>{renderInline(tok.slice(2, -2), key)}</strong>);
-    } else {
-      out.push(<em key={key}>{tok.slice(1, -1)}</em>);
+  const parts = text.split(/(\*\*.+?\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith("**") && part.endsWith("**")) {
+      return <strong key={`${keyPrefix}-${i}`}>{part.slice(2, -2)}</strong>;
     }
-    last = m.index + tok.length;
-  }
-  if (last < text.length) out.push(<span key={`${keyPrefix}-t${i++}`}>{text.slice(last)}</span>);
-  return out;
+    return <span key={`${keyPrefix}-${i}`}>{part}</span>;
+  });
 }
 
 function renderText(text) {
@@ -77,11 +38,20 @@ function renderText(text) {
         </div>
       );
     }
+    // Quoted scheme eligibility text (generate_node sometimes cites the
+    // source verbatim with a leading ">") - without this case it fell
+    // through to the plain-text default and showed a literal ">" character.
     if (/^>\s?/.test(trimmed)) {
       return (
         <div
           key={i}
-          style={{ paddingLeft: 10, marginBottom: 2, borderLeft: "3px solid #d1d5db", color: "#4b5563", fontStyle: "italic" }}
+          style={{
+            paddingLeft: 10,
+            marginBottom: 2,
+            borderLeft: "3px solid #d1d5db",
+            color: "#4b5563",
+            fontStyle: "italic",
+          }}
         >
           {renderInline(trimmed.replace(/^>\s?/, ""), i)}
         </div>
@@ -98,7 +68,7 @@ function renderText(text) {
   });
 }
 
-export default function MessageBubble({ role, text, onRetry }) {
+export default function MessageBubble({ role, text }) {
   const isUser = role === "user";
   return (
     <div style={{ display: "flex", justifyContent: isUser ? "flex-end" : "flex-start", marginBottom: 10 }}>
@@ -107,27 +77,16 @@ export default function MessageBubble({ role, text, onRetry }) {
           maxWidth: "80%",
           padding: "10px 14px",
           borderRadius: 14,
+          fontFamily: "var(--font-latin)",
           fontSize: 14,
           lineHeight: 1.45,
           whiteSpace: "pre-wrap",
-          overflowWrap: "anywhere",
-          background: isUser ? "#1a56db" : "#ffffff",
-          color: isUser ? "#ffffff" : "#1f2937",
-          border: isUser ? "none" : "1px solid #d1d5db",
+          background: isUser ? "var(--color-send-bg)" : "#ffffff",
+          color: isUser ? "#ffffff" : "var(--color-ink)",
+          border: isUser ? "none" : "1px solid var(--color-card-border)",
         }}
       >
         {renderText(text)}
-        {onRetry && (
-          <div style={{ marginTop: 8 }}>
-            <button
-              onClick={onRetry}
-              aria-label="Retry"
-              style={{ fontSize: 12, padding: "4px 10px", borderRadius: 12, border: "1px solid #1a56db", background: "#fff", color: "#1a56db", cursor: "pointer" }}
-            >
-              Phir se bhejein / Retry
-            </button>
-          </div>
-        )}
       </div>
     </div>
   );

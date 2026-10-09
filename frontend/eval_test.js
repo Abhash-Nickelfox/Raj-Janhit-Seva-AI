@@ -5,7 +5,7 @@
   nativeSetter.call(input, 'widow pension');
   input.dispatchEvent(new Event('input', { bubbles: true }));
   const buttons = Array.from(document.querySelectorAll('button'));
-  const sendBtn = buttons.find(b => b.getAttribute('aria-label') === 'Send');
+  const sendBtn = buttons.find(b => b.textContent.trim() === 'भेजें');
   sendBtn.click();
   const start = Date.now();
   while (document.body.innerText.length <= initialLen + 20 && Date.now() - start < 20000) {

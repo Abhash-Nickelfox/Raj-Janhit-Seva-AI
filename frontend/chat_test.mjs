@@ -3,7 +3,7 @@ export default async function run(page, ui) {
   const initialText = await page.textContent("body");
 
   const inputRef = initial.match(/@(e\d+) textbox/)?.[1];
-  const sendRef = initial.match(/@(e\d+) button "Send"/)?.[1];
+  const sendRef = initial.match(/@(e\d+) button "भेजें"/)?.[1];
 
   if (!inputRef || !sendRef) {
     return { error: "could not find input/send controls", snapshot: initial };

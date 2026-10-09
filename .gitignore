@@ -2,9 +2,6 @@
 .venv/
 __pycache__/
 *.pyc
-.pytest_cache/
-tests/__pycache__/
-*.egg-info/
 
 # Secrets
 .env
@@ -13,10 +10,7 @@ tests/__pycache__/
 frontend/node_modules/
 frontend/dist/
 
-# Vector store (regenerable via scripts/build_knowledge_base.py)
-data/chromadb/
+# Vector store (regenerable via backend/scripts/pipeline/build_knowledge_base.py)
+backend/data/chromadb/
 
-# Editor / OS
-.DS_Store
-.idea/
-.vscode/
+bug_screenshots.pdf
