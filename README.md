@@ -10,6 +10,8 @@ This README explains the full pipeline (how raw scheme data becomes something th
 
 There are two separate data domains, each with its own pipeline, feeding into one shared conversation layer:
 
+All paths below are relative to `backend/` (except `frontend/`).
+
 ```
 SCHEMES                                          JOBS
 --------                                         ----
@@ -25,11 +27,11 @@ data/processed/eligibility_structured.json
 data/chromadb/  (2 Chroma vector collections)          |
       |                                                 |
       v                                                 v
-app/rag_service.py (RagService)                  app/job_service.py (JobService)
+app/services/rag_service.py (RagService)         app/services/job_service.py (JobService)
       \                                                 /
        \_______________________  ________________________/
                                \/
-                    app/chat.py  (LangGraph conversation graph)
+                    app/graph/chat.py  (LangGraph conversation graph)
                                |
                     app/main.py  (FastAPI: POST /chat)
                                |
@@ -40,9 +42,9 @@ app/rag_service.py (RagService)                  app/job_service.py (JobService)
 
 ### Step by step: turning scheme data into something searchable
 
-1. **`scripts/scrape_myscheme.py`** — pulls every Rajasthan scheme from myScheme.gov.in's public API (both English and Hindi versions of each scheme) and writes one raw JSON file per scheme into `data/raw/{scrape-date}/`.
-2. **`scripts/extract_eligibility.py`** — reads those raw files and produces one flat, structured record per scheme in `data/processed/eligibility_structured.json`: caste/gender/marital-status/age/income facets, occupation target group, benefit type, etc. Mostly mechanical (the source API already returns machine-coded facets); only `education_level` needs an LLM call (once per scheme, cached forever), since that fact usually only exists buried in free eligibility text.
-3. **`scripts/build_knowledge_base.py`** — reads the structured records plus the raw scraped text and builds two persisted Chroma vector collections in `data/chromadb/`:
+1. **`scripts/pipeline/scrape_myscheme.py`** — pulls every Rajasthan scheme from myScheme.gov.in's public API (both English and Hindi versions of each scheme) and writes one raw JSON file per scheme into `data/raw/{scrape-date}/`.
+2. **`scripts/pipeline/extract_eligibility.py`** — reads those raw files and produces one flat, structured record per scheme in `data/processed/eligibility_structured.json`: caste/gender/marital-status/age/income facets, occupation target group, benefit type, etc. Mostly mechanical (the source API already returns machine-coded facets); only `education_level` needs an LLM call (once per scheme, cached forever), since that fact usually only exists buried in free eligibility text.
+3. **`scripts/pipeline/build_knowledge_base.py`** — reads the structured records plus the raw scraped text and builds two persisted Chroma vector collections in `data/chromadb/`:
    - `discovery_cards` — one short embeddable "card" per scheme, used for the initial semantic shortlist search.
    - `field_chunks` — each scheme's eligibility/benefits/documents/application text, chunked field-by-field (not by arbitrary character windows), used to answer follow-up questions about one specific scheme.
 
@@ -50,7 +52,7 @@ This is a **one-time offline pipeline** — it's not run live during a conversat
 
 ### Step by step: a citizen's message becoming a reply
 
-This is `app/chat.py`'s [LangGraph](https://langchain-ai.github.io/langgraph/) state machine, run fresh on every message:
+This is `app/graph/chat.py`'s [LangGraph](https://langchain-ai.github.io/langgraph/) state machine, run fresh on every message:
 
 1. **`normalize`** — light cleanup of the raw message.
 2. **`extract_profile`** — an LLM call that pulls out any *new, explicitly stated* facts about the citizen themselves (caste, gender, residence, education level...) and merges them into a persistent profile for this conversation. The same call also records free-form **conversation notes** — durable facts with no profile field of their own (a family member's class, documents held, answers to the bot's own questions) — so they never expire with the rolling chat history and are never re-asked.
@@ -69,40 +71,54 @@ All of this state is kept in memory per `session_id` (see `app/main.py` — no d
 ## 2. What's in each folder
 
 ```
-chatbot_scratch/
-├── app/                    # The actual application
-│   ├── config.py           #   loads .env (OpenRouter API key/model)
-│   ├── rag_service.py      #   Stage A/B retrieval over the scheme vector store (RagService)
-│   ├── job_service.py      #   structured fuzzy search over jobs.json (JobService)
-│   ├── state.py            #   the conversation's shared state shape (ConvState)
-│   ├── chat.py             #   the LangGraph conversation graph - the core logic
-│   └── main.py             #   FastAPI app - POST /chat, GET /health
+janseva-ai/
+├── backend/                          # Everything Python (FastAPI app, pipeline, eval, data)
+│   ├── app/                          # The actual application
+│   │   ├── main.py                   #   FastAPI app - POST /chat, GET /health, POST /transcribe
+│   │   ├── core/
+│   │   │   └── config.py             #   loads backend/.env (OpenRouter API key/model, Sarvam, Jan Aadhaar)
+│   │   ├── graph/
+│   │   │   ├── chat.py               #   the LangGraph conversation graph - the core logic
+│   │   │   └── state.py              #   the conversation's shared state shape (ConvState)
+│   │   ├── services/
+│   │   │   ├── rag_service.py        #   Stage A/B retrieval over the scheme vector store (RagService)
+│   │   │   ├── job_service.py        #   structured fuzzy search over jobs.json (JobService)
+│   │   │   └── stt_service.py        #   speech-to-text via Sarvam
+│   │   ├── integrations/
+│   │   │   └── janaadhaar/           #   Jan Aadhaar client, crypto, service + local mock server routes
+│   │   └── utils/
+│   │       └── pii_utils.py          #   regex PII extraction (Jan Aadhaar ID, OTP, consent)
+│   │
+│   ├── data/
+│   │   ├── raw/                      #   one JSON file per scheme, straight from myScheme's API (scrape output)
+│   │   ├── processed/                #   eligibility_structured.json (schemes) + jobs.json (job postings)
+│   │   └── chromadb/                 #   ⚠ gitignored - the built vector store, regenerate locally (see Setup)
+│   │
+│   ├── scripts/                      # One-time/offline tooling, and manual test harnesses
+│   │   ├── pipeline/
+│   │   │   ├── scrape_myscheme.py         #   step 1 of the scheme pipeline
+│   │   │   ├── extract_eligibility.py     #   step 2
+│   │   │   └── build_knowledge_base.py    #   step 3
+│   │   ├── fixes/                         #   one-time data patches (fix_*.py)
+│   │   └── tools/
+│   │       ├── query_kb.py                #   debug: raw semantic search only, no filtering
+│   │       ├── query_retrieval.py         #   debug: full Stage A/B retrieval (filter + rank boost)
+│   │       └── chat_cli.py                #   a full interactive multi-turn conversation in your terminal
+│   │
+│   ├── eval/
+│   │   ├── golden_set.py             #   regression test suite (retrieval + eligibility filter correctness) - no LLM calls, deterministic
+│   │   └── conversation_tests.py     #   multi-turn conversation replays (real LLM calls)
+│   │
+│   ├── requirements.txt              # Python dependencies
+│   └── .env.example                  # copy to .env and fill in your own key
 │
-├── data/
-│   ├── raw/                #   one JSON file per scheme, straight from myScheme's API (scrape output)
-│   ├── processed/          #   eligibility_structured.json (schemes) + jobs.json (job postings)
-│   └── chromadb/           #   ⚠ gitignored - the built vector store, regenerate locally (see Setup)
-│
-├── scripts/                # One-time/offline tooling, and manual test harnesses
-│   ├── scrape_myscheme.py       #   step 1 of the scheme pipeline
-│   ├── extract_eligibility.py   #   step 2
-│   ├── build_knowledge_base.py  #   step 3
-│   ├── query_kb.py              #   debug: raw semantic search only, no filtering
-│   ├── query_retrieval.py       #   debug: full Stage A/B retrieval (filter + rank boost)
-│   └── chat_cli.py              #   a full interactive multi-turn conversation in your terminal
-│
-├── eval/
-│   └── golden_set.py       #   regression test suite (retrieval + eligibility filter correctness) - no LLM calls, deterministic
-│
-├── frontend/                # React + Vite chat UI
+├── frontend/                         # React + Vite chat UI
 │   └── src/
-│       ├── store/chatStore.js       #   conversation state (Zustand) + calls the API
-│       ├── api/chatApi.js           #   POST /chat wrapper
-│       └── components/              #   ChatWindow, MessageBubble (markdown rendering), InputBar
+│       ├── store/chatStore.js        #   conversation state (Zustand) + calls the API
+│       ├── api/chatApi.js            #   POST /chat wrapper
+│       └── components/               #   ChatWindow, MessageBubble (markdown rendering), InputBar
 │
-├── requirements.txt         # Python dependencies
-├── .env.example             # copy to .env and fill in your own key
-└── PLAN.md                  # the original design/architecture notes this was built against
+└── PLAN.md                           # the original design/architecture notes this was built against
 ```
 
 ---
@@ -110,7 +126,7 @@ chatbot_scratch/
 ## 3. Setup — running this on a new machine
 
 ### Prerequisites
-- Python 3.11+
+- Python 3.11–3.12
 - Node.js 18+ (for the frontend)
 - An [OpenRouter](https://openrouter.ai/) API key (used for every LLM call — extraction, retrieval reasoning, and reply generation) - **required**, the app won't start without it.
 - A [Sarvam AI](https://www.sarvam.ai/) API key - **optional**, only needed for the mic/voice-input button (speech-to-text). Everything else works fine without it.
@@ -118,7 +134,7 @@ chatbot_scratch/
 ### 3.1 Backend
 
 ```bash
-cd chatbot_scratch
+cd backend
 python -m venv .venv
 
 # Windows (PowerShell)
@@ -141,15 +157,15 @@ cp .env.example .env        # Windows: copy .env.example .env
 `data/processed/eligibility_structured.json` is already included, so you can skip straight to building the vector store from it:
 
 ```bash
-python scripts/build_knowledge_base.py
+python scripts/pipeline/build_knowledge_base.py
 ```
 
 This creates `data/chromadb/` locally. It downloads a multilingual sentence-transformer embedding model on first run.
 
 If you ever need to re-scrape fresh scheme data from myScheme.gov.in instead of using the included snapshot, run the first two pipeline steps before this one:
 ```bash
-python scripts/scrape_myscheme.py
-python scripts/extract_eligibility.py
+python scripts/pipeline/scrape_myscheme.py
+python scripts/pipeline/extract_eligibility.py
 ```
 
 `data/processed/jobs.json` (job postings) needs no build step — `JobService` reads it directly.
@@ -157,6 +173,7 @@ python scripts/extract_eligibility.py
 ### 3.3 Start the backend server
 
 ```bash
+# from backend/ with the venv active
 uvicorn app.main:app --reload --port 8000
 ```
 
@@ -167,7 +184,7 @@ Wait for `"Warm-up complete - ready to serve requests."` in the log — that mea
 In a separate terminal:
 
 ```bash
-cd chatbot_scratch/frontend
+cd frontend
 npm install
 npm run dev
 ```
@@ -177,8 +194,9 @@ Open the URL it prints (default `http://localhost:5174`) and start chatting.
 ### 3.5 (Optional) Test without the frontend
 
 ```bash
+# from backend/ with the venv active
 # Interactive terminal conversation
-python scripts/chat_cli.py
+python scripts/tools/chat_cli.py
 
 # Regression suite (no LLM calls, fast, deterministic)
 python -m eval.golden_set
