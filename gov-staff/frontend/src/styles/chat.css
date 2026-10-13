@@ -1,0 +1,54 @@
+/* Chat-style pages (start screen + staff chat). Tokens copied from the citizen
+   app's design (frontend/src/index.css) so both assistants look the same. */
+:root {
+  --color-ink: #111a2e;
+  --color-ink-muted: #48536a;
+  --color-ink-faint: #6d778c;
+  --color-accent-orange: #f0731a;
+  --color-accent-green: #136b3c;
+  --color-accent-blue: #2f6fed;
+  --color-accent-blue-bg: #e8effd;
+  --color-bg: #f6f5f3;
+  --color-card-border: #e8e5e0;
+  --color-tab-border: #c9c1b4;
+  --color-input-border: #d9d5ce;
+  --color-tab-active-bg: #edebe7;
+  --color-send-bg: #1b1b1f;
+}
+
+.chat-page { position: relative; min-height: 100vh; display: flex; justify-content: center; background: var(--color-bg); padding: 34px 20px 44px; overflow: hidden; }
+.side { position: fixed; width: auto; height: auto; max-height: 97vh; pointer-events: none; z-index: 0; }
+.side-left { left: -40px; bottom: 0; max-width: clamp(340px, calc((100vw - 816px) / 2 + 60px), 1020px); }
+.side-right { right: 40px; bottom: -30px; max-width: clamp(380px, calc((100vw - 816px) / 2 + 100px), 1120px); }
+.chat-column { position: relative; width: 100%; max-width: 776px; z-index: 1; display: flex; flex-direction: column; gap: 24px; }
+.chat-card { display: flex; flex-direction: column; min-width: 0; position: relative; background: #fff; border: 1px solid var(--color-card-border); border-radius: 24px; box-shadow: 0 1px 2px 0 rgba(17,26,46,0.04), 0 18px 44px -30px rgba(17,26,46,0.4); overflow: hidden; }
+.chat-card.started { max-height: calc(100vh - 78px); }
+.chat-header { display: flex; align-items: center; gap: 2px; min-width: 0; padding: 16px 20px; border-bottom: 1px solid var(--color-card-border); }
+.chat-header .brand-text { flex: 1; }
+.chat-header .brand-sub { font-family: var(--font-latin), var(--font-devanagari); }
+.header-right { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.pill-btn { font: inherit; font-size: 13px; font-weight: 600; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--color-card-border); background: transparent; color: var(--color-ink-muted); cursor: pointer; white-space: nowrap; }
+.online { display: flex; align-items: center; gap: 7px; font-weight: 600; font-size: 12.8px; color: var(--color-accent-green); white-space: nowrap; }
+.online::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--color-accent-green); }
+.chat-foot { margin: 0; text-align: center; font-size: 13.6px; color: var(--color-ink-faint); }
+
+.choose-body { padding: 28px 24px 26px; }
+.choose-hi { margin: 0; font-family: var(--font-devanagari); font-weight: 700; font-size: 17.5px; }
+.choose-en { margin: 4px 0 18px; font-size: 15.5px; color: var(--color-ink-muted); }
+.choose-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
+.choose-card { display: flex; flex-direction: column; gap: 6px; text-align: left; padding: 18px; border: 1px solid var(--color-card-border); border-radius: 18px; background: var(--color-bg); cursor: pointer; font: inherit; color: var(--color-ink); transition: border-color 0.15s, box-shadow 0.15s; }
+.choose-card:hover, .choose-card:focus-visible { border-color: var(--color-accent-orange); box-shadow: 0 6px 18px -10px rgba(240,115,26,0.6); outline: none; }
+.choose-card b { font-size: 17px; }
+.choose-card span { font-size: 14px; color: var(--color-ink-muted); }
+.choose-icon { font-size: 28px; }
+.choose-card .choose-go { margin-top: 6px; font-weight: 600; color: var(--color-accent-orange); }
+
+.change-type { position: fixed; top: 10px; left: 12px; z-index: 40; font-size: 13px; font-weight: 600; padding: 6px 12px; border-radius: 999px; background: rgba(255,255,255,0.92); border: 1px solid var(--color-card-border); color: var(--color-ink-muted); text-decoration: none; }
+.change-type:hover { color: var(--color-ink); }
+
+@media (max-width: 560px) {
+  .chat-page { padding: 48px 12px 24px; }
+  .chat-header { flex-wrap: wrap; padding: 12px 14px; }
+  .chat-header .brand-logo img { height: 48px; }
+  .side { display: none; }
+}

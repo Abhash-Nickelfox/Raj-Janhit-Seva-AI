@@ -1,8 +1,10 @@
-# Jan Seva AI — Chatbot (from scratch)
+# Raj Janhit Seva AI — Chatbot (from scratch)
 
 A conversational assistant that helps Rajasthan citizens discover **government welfare schemes** and **government job vacancies**, in Hindi, Hinglish, or English. Built from scratch — no reused code from any earlier project.
 
 This README explains the full pipeline (how raw scheme data becomes something the bot can search) and the exact steps to get it running on your own machine.
+
+The repository also contains the **Government Staff AI Assistant** in `gov-staff/`, a separate login-only app for government employees. See [section 4](#4-government-staff-ai-assistant-gov-staff).
 
 ---
 
@@ -204,3 +206,89 @@ python -m eval.golden_set
 
 ---
 
+## 4. Government Staff AI Assistant (`gov-staff/`)
+
+A separate, login-only assistant for **verified government employees**. Staff upload their department's documents and ask questions; answers come **only** from documents their own department may see, with references to the exact passages. Every department's documents are strictly isolated from every other department. Full plan: [`docs/PLAN.md`](docs/PLAN.md), section 12.
+
+`gov-staff/` is **self-contained**: its own backend, frontend, `.env`, database and (later) knowledge bases. It shares no backend code, database or login with the citizen app, and it never modifies `backend/` or `frontend/`.
+
+### Status
+
+| Phase | Scope | State |
+|---|---|---|
+| P0 Foundation | backend + frontend skeletons, staff database and migrations, department isolation in the database, audit log, health check | Done |
+| P1 Onboarding | registration (name, email, phone, department, designation, password), OTP verification by email or phone (test code `1234`, nothing sent yet), sign-in with email or phone, sessions, audit | Done (testing mode) |
+| One frontend | start screen "Choose user type"; citizen and staff assistants in one app | Done |
+| P2 Documents | upload (public/private), validation, malware scan, text extraction + OCR, per-department indexing | Next |
+| P3 Q&A | department-only retrieval, grounded answers with references, isolation test suite | Planned (the staff chat replies "being set up" until then) |
+| P6 Hardening | real email/SMS OTP, rate limits, security review, backups, runbook | Planned |
+
+Still to decide (later phase): how to confirm that a person really belongs to the department they choose at registration (staff list or department access code, PLAN section 12.5).
+
+### Structure
+```
+gov-staff/
+├── backend/     FastAPI staff API (port 8200)
+│                app/core (config, db, audit), app/models, app/routers (health, departments, auth, ask),
+│                app/auth (passwords, sessions, OTP, validation), alembic/ migrations, tests/, scripts/,
+│                data/ (gitignored: dev database)
+├── frontend/    React + Vite, one app for both assistants (port 5180)
+│                pages/ (choose user type), citizen/ (citizen app, read-only), auth/ (register, OTP, login),
+│                staff/chat/ (staff chat), i18n/ (English, Hindi)
+└── docs/        ARCHITECTURE.md
+```
+
+### One frontend for both assistants
+Run only `gov-staff/frontend` (http://localhost:5180):
+- `/` asks **Choose user type**.
+- `/citizen` shows the citizen assistant, using the citizen app's own screens from `frontend/src` read-only, never edited.
+- `/staff/register`, `/staff/verify` and `/staff/login` handle staff registration, OTP and sign-in; `/staff` is the staff chat, with the same look as the citizen chat.
+
+The frontend sends citizen calls (`/chat`, `/transcribe`) to the citizen backend on **8000**, and staff calls (`/api`) to the staff backend on **8200**, so run both backends. For other addresses, set `CITIZEN_API_TARGET` / `STAFF_API_TARGET` before `npm run dev`.
+
+### Run it (Windows, PowerShell)
+Citizen backend: see section 3.3 (port 8000).
+
+Staff backend:
+```powershell
+cd gov-staff\backend
+python -m venv .venv                                  # first time only
+.venv\Scripts\python -m pip install -r requirements.txt
+copy .env.example .env                                # first time only
+.venv\Scripts\python -m alembic upgrade head          # create / update the database
+.venv\Scripts\python -m uvicorn app.main:app --port 8200
+```
+Without `DATABASE_URL`, development uses SQLite at `gov-staff/backend/data/staff.db`; production must use PostgreSQL (see `gov-staff/docs/ARCHITECTURE.md`). Restart the staff backend after code changes, or add `--reload`.
+
+Frontend (one for both assistants):
+```powershell
+cd gov-staff\frontend
+npm install                                           # first time only
+npm run dev                                           # http://localhost:5180
+```
+
+Test accounts (development only; create or reset with `.venv\Scripts\python -m scripts.create_dummy_users`):
+
+| Email | Password | Department |
+|---|---|---|
+| abhi@buildyourtech.com | admin123 | Medical & Health |
+| ravi@buildyourtech.com | admin321 | Agriculture |
+
+These passwords are public. Never use these accounts anywhere shared; the script refuses to run in staging or production.
+
+### Tests
+```powershell
+cd gov-staff\backend
+.venv\Scripts\python -m pytest -q
+```
+Tests build a throwaway SQLite database with the real migrations. To also check the PostgreSQL protections (row-level security, restricted role, append-only audit log), point `TEST_POSTGRES_URL` at an **empty throwaway** database as a **superuser** (or a role with BYPASSRLS + CREATEROLE):
+```powershell
+$env:TEST_POSTGRES_URL = "postgresql+psycopg://postgres:<password>@localhost:5432/staff_test"
+.venv\Scripts\python -m pytest -q tests\test_postgres_isolation.py
+```
+
+### Security in short
+- Passwords and OTP codes are stored only as hashes.
+- Sessions use an httpOnly cookie. The department always comes from the database, never from the request.
+- Every sign-in, registration, OTP step and question is recorded in an append-only audit log.
+- The staff backend refuses to start in staging/production with unsafe settings: a weak session secret, non-https origins, SQLite, or the OTP test code still set.

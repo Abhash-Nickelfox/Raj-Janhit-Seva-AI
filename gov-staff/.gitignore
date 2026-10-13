@@ -1,0 +1,36 @@
+# Government Staff app - never commit secrets, data, logs or build output.
+
+# Secrets: every .env variant; only the templates are committed
+.env
+.env.*
+!.env.example
+
+# Python
+backend/.venv/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local data: staff database (accounts, password hashes, audit log),
+# uploaded department files and knowledge bases - never commit
+backend/data/
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+.local-logs/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

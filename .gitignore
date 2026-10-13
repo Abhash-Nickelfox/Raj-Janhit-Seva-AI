@@ -3,8 +3,10 @@
 __pycache__/
 *.pyc
 
-# Secrets
+# Secrets: every .env variant; only templates (.env.example) are committed
 .env
+.env.*
+!.env.example
 
 # Frontend
 frontend/node_modules/
@@ -14,3 +16,15 @@ frontend/dist/
 backend/data/chromadb/
 
 bug_screenshots.pdf
+
+# Government Staff app has its own rules in gov-staff/.gitignore
+
+# Test / tool caches, logs
+.pytest_cache/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

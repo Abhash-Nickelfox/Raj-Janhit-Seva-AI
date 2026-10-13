@@ -1,0 +1,140 @@
+{
+  "app": {
+    "name": "Raj Janhit Seva AI",
+    "panel": "Government Staff Assistant",
+    "language": "हिंदी"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "home": "Go to home"
+  },
+  "common": {
+    "loading": "Loading…"
+  },
+  "login": {
+    "title": "Staff sign in",
+    "subtitle": "Sign in with your registered email or phone number and password.",
+    "password": "Password",
+    "submit": "Sign in",
+    "signingIn": "Signing in…",
+    "bad": "Email/phone or password is incorrect.",
+    "tooMany": "Too many attempts. Please try again in 15 minutes.",
+    "network": "Can't reach the staff server. Please try again.",
+    "signOut": "Sign out",
+    "isolation": "You will only see documents of your own department.",
+    "identifier": "Email or phone number",
+    "newHere": "New staff member?",
+    "err": {
+      "identifier": "Enter a valid email or 10-digit mobile number."
+    }
+  },
+  "register": {
+    "title": "Staff registration",
+    "subtitle": "Create your account to use the Government Staff Assistant.",
+    "name": "Full name",
+    "email": "Official email",
+    "phone": "Phone number",
+    "phoneHint": "10-digit mobile number, e.g. 98765 43210",
+    "department": "Department",
+    "chooseDepartment": "Select your department",
+    "designation": "Role / designation",
+    "password": "Create password",
+    "passwordHint": "8–64 characters, with at least one letter and one number",
+    "confirm": "Confirm password",
+    "submit": "Register",
+    "registering": "Registering…",
+    "haveAccount": "Already registered?",
+    "duplicate": "This email or phone number is already registered. Please sign in.",
+    "tooMany": "Too many registrations from this network. Please try again later.",
+    "failed": "Registration failed. Please try again.",
+    "noDepartments": "Could not load the department list. Please refresh.",
+    "successTitle": "Registration successful",
+    "successText": "Your account has been created. Sign in with your email or phone number and password.",
+    "goToSignIn": "Go to sign in",
+    "err": {
+      "required": "This field is required.",
+      "name": "Enter your full name (letters only, 2–100 characters).",
+      "email": "Enter a valid email address.",
+      "phone": "Enter a valid 10-digit mobile number starting with 6, 7, 8 or 9.",
+      "department": "Select your department.",
+      "designation": "Enter your role/designation (2–100 characters).",
+      "passwordLength": "Password must be 8–64 characters.",
+      "passwordSpace": "Password can't start or end with a space.",
+      "passwordMix": "Password must contain at least one letter and one number.",
+      "mismatch": "Passwords do not match."
+    }
+  },
+  "verify": {
+    "title": "Verify your account",
+    "subtitle": "We'll send a one-time code (OTP) to confirm it's you.",
+    "chooseMethod": "Where should we send the code?",
+    "byEmail": "Email",
+    "byPhone": "Phone (SMS)",
+    "send": "Send OTP",
+    "sending": "Sending…",
+    "waitSeconds": "Wait {{s}} s",
+    "sentEmail": "We sent a code to {{to}}.",
+    "sentPhone": "We sent a code by SMS to {{to}}.",
+    "testMode": "Testing mode: no message is sent. Use the code 1234.",
+    "code": "Enter OTP",
+    "verify": "Verify",
+    "verifying": "Verifying…",
+    "resend": "Resend code",
+    "resendIn": "Resend in {{s}} s",
+    "changeMethod": "Use another method",
+    "err": {
+      "code": "Enter the 4–6 digit code."
+    }
+  },
+  "choose": {
+    "tagline": "Rajasthan Government AI Assistant",
+    "title": "Hi! Who are you? Choose to continue.",
+    "citizen": "Citizen",
+    "citizenText": "Find government schemes and jobs you are eligible for — in Hindi, Hinglish or English.",
+    "citizenGo": "Start chatting",
+    "staff": "Government staff",
+    "staffText": "Sign in to ask questions about your department's documents.",
+    "staffGo": "Sign in or register",
+    "change": "Change user type",
+    "helpline": "Can't read or type? Call 181 — free, 7 am to 10 pm."
+  },
+  "staffChat": {
+    "online": "Online",
+    "placeholder": "Ask about your department's documents…",
+    "ideas": "Ideas",
+    "send": "Send",
+    "isolation": "Answers come only from {{department}} documents. Other departments can't see them.",
+    "tabs": {
+      "suggested": "Suggested",
+      "circulars": "Circulars",
+      "schemes": "Schemes",
+      "procedures": "Procedures"
+    },
+    "prompts": {
+      "suggested": {
+        "1": "Summarise the latest circular from our department",
+        "2": "What are the eligibility rules for our main scheme?",
+        "3": "Which documents are required to process an application?",
+        "4": "What is the deadline mentioned in the latest order?"
+      },
+      "circulars": {
+        "1": "List the circulars issued this month",
+        "2": "What changed in the most recent government order?",
+        "3": "Which circular talks about field inspections?",
+        "4": "Who is responsible under the latest circular?"
+      },
+      "schemes": {
+        "1": "Who is eligible for the subsidy scheme?",
+        "2": "What is the benefit amount under our scheme?",
+        "3": "How is a beneficiary verified?",
+        "4": "What are the reasons an application can be rejected?"
+      },
+      "procedures": {
+        "1": "What is the step-by-step approval process?",
+        "2": "Which form is used for a new application?",
+        "3": "How long should processing take?",
+        "4": "Whom should a complaint be forwarded to?"
+      }
+    }
+  }
+}
