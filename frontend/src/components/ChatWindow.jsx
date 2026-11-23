@@ -97,7 +97,7 @@ export default function ChatWindow() {
             color: "var(--color-ink-faint)",
           }}
         >
-          Can't read or type? Call 181 — free, 7 am to 10 pm.
+          Can't read or type? Call 181 - toll-free, available 24×7.
         </p>
       )}
     </div>
